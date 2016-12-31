@@ -1,0 +1,9 @@
+#+TITLE: Lecturas del Grupo de Lógica Computacional
+
+Esta entrada es una recopilación de lecturas compartidas en la lista de correo
+del [[http://www.glc.us.es][grupo de lógica computacional]]. La recopilación está ordenada por la fecha
+de su publicación en la lista. Al final de cada artículo se encuentra etiquetas
+relativas a los sistemas que usa o a su contenido.
+
+* Lecturas del 2016
+
