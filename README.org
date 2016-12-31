@@ -42,14 +42,11 @@ relativas a los sistemas que usa o a su contenido.
 + Plover: High-level embedded linear algebra programming in Haskell. 
   http://bit.ly/1PaDqet #Haskell
 
-+ 2015+1 (Cette nouvelle année est-elle intéressante ? Episode 07) ~ @ElJj
-  http://bit.ly/1muwWR6 #Math
-
 + The rsync algorithm: Just playing with the ideas in rsync with Haskell  ~
   R. Muthukrishnan http://bit.ly/1muxYfX http://bit.ly/1muy4Eo #Haskell
 
 + Data vs theory: the mathematical battle for the soul of physics. ~
-  D.H. Bailey & J.M. Borwein http://huff.to/1OFfoHU via @HuffPostScience
+  D.H. Bailey & J.M. Borwein http://huff.to/1OFfoHU
 
 + A computationally surveyable proof of the Curve25519 group axioms. ~
   D.M. Russinoff http://bit.ly/1SoDQU1 #ITP #ACL2
@@ -125,7 +122,7 @@ relativas a los sistemas que usa o a su contenido.
 
 + A simple Haskell function. ~ N. Mitchell http://bit.ly/1JQuEWK #Haskell 
 
-+ Functional programming, abstraction,  names. ~ Stephen Diehl @smdiehl
++ Functional programming, abstraction,  names. ~ Stephen Diehl
   http://bit.ly/1PhGntr #Programming #Haskell #Mat
 
 + On mathematical proving. ~ P. Stefaneas & I.M. Vandoulakis
@@ -141,7 +138,7 @@ relativas a los sistemas que usa o a su contenido.
   #ITP #Math #Isabelle_HOL #AFP
 
 + Prime number with 22 million digits is the biggest ever
-  found. http://bit.ly/1T3kVyg #Math via @newscientist
+  found. http://bit.ly/1T3kVyg #Math
 
 + Basic geometric properties of triangles. ~ M. Eberl http://bit.ly/1Sbhx4R 
   #ITP #Math #Isabelle_HOL #AFP
@@ -173,7 +170,7 @@ relativas a los sistemas que usa o a su contenido.
 + What is the modern conception of logic? #1. ~ P. Smith http://bit.ly/1NADXVx 
   #Logic
 
-+ Logicians’ biographies. ~ R. Zach @RrrichardZach http://bit.ly/1NAECGt #Logic
++ Logicians’ biographies. ~ R. Zach http://bit.ly/1NAECGt #Logic
 
 + The long and winding history of encryption | Interviews | Communications of
   the ACM http://bit.ly/1NAEWFm #CompSci
@@ -186,12 +183,9 @@ relativas a los sistemas que usa o a su contenido.
 + Formalized linear algebra over elementary divisor rings in Coq. ~ G. Cano et
   als. http://bit.ly/1Tpi1Eh #ITP #Coq #Math
 
-+ Los algoritmos de caja negra de AlphaGo. ~ @emulenews
-  http://bit.ly/1QulvTa #Matemáticas #Algoritmos  
-
 + Pitfalls in Haskell. ~ S. Kiiskinen http://bit.ly/1OR3pdy #Haskell 
 
-+ Set covering problem. ~ A. Kaygun @Atabey_Kaygun http://bit.ly/1TpifLA #Lisp
++ Set covering problem. ~ A. Kaygun http://bit.ly/1TpifLA #Lisp
 
 + Course: Introduction to functional programming ~ S. Kiiskinen
   http://bit.ly/1SdcP7p #Haskell 
@@ -202,12 +196,12 @@ relativas a los sistemas que usa o a su contenido.
 + Functional programming 2: Course tasks. ~ S. Kiiskinen http://bit.ly/1SddgPd 
   #Haskell
 
-+ Writing a search DSL, part 1. ~ @queertypes http://bit.ly/1ZUWLWC #Haskell
++ Writing a search DSL, part 1. http://bit.ly/1ZUWLWC #Haskell
 
-+ GHC base Library Changes: 7.8 to 7.10. ~ @queertypes http://bit.ly/1SdgCS4 
++ GHC base Library Changes: 7.8 to 7.10. http://bit.ly/1SdgCS4 
   #Haskell
 
-+ GHC/Haskell language extensions: a digest. ~ Allele Dev @queertypes
++ GHC/Haskell language extensions: a digest. ~ Allele Dev
   http://bit.ly/1ZUZ7VG #Haskell
 
 + Our functional future or: How I learned to stop worrying and love Haskell. ~
@@ -220,20 +214,17 @@ relativas a los sistemas que usa o a su contenido.
   techniques. ~ D. Burlyaev http://bit.ly/1Snosa6 #PhD_Thesis #ITP #Coq 
 
 + Recognizing correct code: Automatic bug-repair system fixes 10 times as many
-  errors as its predecessors. http://bit.ly/20wKdXG via @Progrmlanguages
+  errors as its predecessors. http://bit.ly/20wKdXG
 
-+ Monad tutorials timeline. http://bit.ly/1SnpOBA #Haskell via @HaskellTopNews
++ Monad tutorials timeline. http://bit.ly/1SnpOBA #Haskell
 
-+ Example pet shop written in Haskell. ~ R. Johnson @rjohnsondev
-  http://bit.ly/1Snqozo #Haskell
++ Example pet shop written in Haskell. ~ R. Johnson http://bit.ly/1Snqozo
+  #Haskell 
 
 + Building a business that combines human experts and data science ~ B. Lorica
-  @bigdata http://oreil.ly/1ZYIeJL #DataScience
+  http://oreil.ly/1ZYIeJL #DataScience
 
-+ Academias del código: ¿quién limpia y da esplendor a los lenguajes
-  informáticos? ~ @josemblanco http://bit.ly/20yhW3d #Programación
-
-+ What’s a natural transformation? ~ L. Palmer @luqui http://bit.ly/1VwHdau 
++ What’s a natural transformation? ~ L. Palmer http://bit.ly/1VwHdau 
   #Math #Haskell
 
 + Category theory/natural transformation ~ HaskellWiki. http://bit.ly/1VwHBWt 
@@ -248,8 +239,7 @@ relativas a los sistemas que usa o a su contenido.
 + Failure of unique factorization (A simple example of the failure of the
   fundamental theorem of arithmetic) ~ D. Lipton http://bit.ly/20A2Nyc #Math
 
-+ Catamorphisms in 15 minutes! ~ C. Jones @lambda_jones http://bit.ly/20A2P9q 
-  #Haskell #Math
++ Catamorphisms in 15 minutes! ~ C. Jones http://bit.ly/20A2P9q #Haskell #Math
 
 + Understanding F-algebras. ~ @BartoszMilewski | FP School of Haskell
   http://bit.ly/1PICIVL #Haskell #Math 
@@ -290,7 +280,7 @@ relativas a los sistemas que usa o a su contenido.
 + Dropbox hack week: GraphQL server in Haskell (With optimal backend IO and low
   response latency). http://bit.ly/1PSdYue #Haskell
 
-+ Haskell for commercial software development. ~ Mike Craig @mkscrg
++ Haskell for commercial software development. ~ Mike Craig
   http://bit.ly/1SH4erZ #Haskell
 
 + Anaconda for R users: SparkR and rBokeh. ~ Christine Doig
@@ -304,10 +294,10 @@ relativas a los sistemas que usa o a su contenido.
 + The Lean theorem prover (system description). ~ L. de Moura, S. Kong,
   J. Avigad, F. Van Doorn & J. von Raumer http://bit.ly/1SZ9qcb #ITP #Lean 
 
-+ Becoming productive in Haskell. ~ Matthew Griffith @mech_elephant
-  http://bit.ly/1SZ9Sam #Haskell
++ Becoming productive in Haskell. ~ Matthew Griffith http://bit.ly/1SZ9Sam
+  #Haskell
 
-+ From mathematics to map-reduce. ~ G.  Gonzalez @GabrielG439 | Haskell for
++ From mathematics to map-reduce. ~ G.  Gonzalez | Haskell for
   all. http://bit.ly/1KrvmK9 #Haskell #Math
 
 + The Isar proof language in 2016. ~ M. Wenzel http://bit.ly/20IViVU #ITP 
@@ -340,8 +330,8 @@ relativas a los sistemas que usa o a su contenido.
 + Hammering towards QED. ~ J.C. Blanchette, C. Kaliszyk, L.C. Paulson &
   J. Urban http://bit.ly/1SS3b8D #ATP #ITP
 
-+ FLTKHS: Easy, native GUIs in Haskell using FLTK. ~ A. Siram @deech
-  http://bit.ly/1SS4dSf #Haskell via @GabrielG439
++ FLTKHS: Easy, native GUIs in Haskell using FLTK. ~ A. Siram
+  http://bit.ly/1SS4dSf #Haskell
 
 + PSeInt: A tool for learning programming basis with a simple spanish
   pseudocode. http://pseint.sourceforge.net #Learning #Programming
@@ -363,8 +353,8 @@ relativas a los sistemas que usa o a su contenido.
 + Formalisation of ground inference systems in a proof assistant. ~ M. Fleury
   http://bit.ly/20hsxgQ #ITP #Logic #Isabelle_HOL
 
-+ Teaching Haskell to a mathematician. ~ Syd Kerckhove @KerckhoveSyd
-  http://bit.ly/1W1crqq #Haskell
++ Teaching Haskell to a mathematician. ~ Syd Kerckhove http://bit.ly/1W1crqq
+  #Haskell
 
 + Formalization and programming language design -- explained to all. | Lambda
   the Ultimate http://bit.ly/1SVKUrc #PL
@@ -385,13 +375,13 @@ relativas a los sistemas que usa o a su contenido.
   #Clojure 
 
 + Are there some students who can’t learn how to code? ~ D. Blaikie
-  @davidbpython http://oreil.ly/20QwPOj #Programming 
+  http://oreil.ly/20QwPOj #Programming 
 
 + Certified context-free parsing: a formalisation of Valiant's algorithm in
   Agda. ~ J.P. Bernardy, P. Jansson http://bit.ly/1ScUirv #ITP #Agda
 
 + QuickPlot: Quick and easy data visualizations with Haskell. 
-  http://bit.ly/1ScWkrF #Haskell via @HaskellTopNews 
+  http://bit.ly/1ScWkrF #Haskell
 
 + Magic to do (Can we avoid accepting what we cannot verify?) ~ R.J. Lipton &
   K.W. Regan http://bit.ly/1ScUKpR
@@ -414,10 +404,10 @@ relativas a los sistemas que usa o a su contenido.
   http://bit.ly/20nLy13 #PhD_Thesis #ITP #Isabelle_HOL #Logic
 
 + Decision trees are free monads over the reader functor. ~ C. Thomas
-  http://bit.ly/1Rs1gYI #Haskell via @StephenPiment
+  http://bit.ly/1Rs1gYI #Haskell
 
 + Making efficient use of memory in Haskell. ~ Will Sewell
-  http://bit.ly/1Rs2WBm #Haskell via @StephenPiment
+  http://bit.ly/1Rs2WBm #Haskell
 
 + Theorema 2.0: Computer-assisted natural-style mathematics ~ B. Buchberge et
   als. http://bit.ly/1QaWlWA #ITP #Theorema
@@ -446,7 +436,7 @@ relativas a los sistemas que usa o a su contenido.
   #Programación #Git #OpenLibra
 
 + Stack traces in GHCi, coming in GHC 8.0.1. ~ S. Marlow
-  http://bit.ly/1Qds3sF #Haskell via @functional2ch
+  http://bit.ly/1Qds3sF #Haskell
 
 + Python programación. ~ L. Rodríguez Ojeda http://bit.ly/1Qdpln1 #LibroLibre  
   #Programación #Python #OpenLibra
@@ -465,10 +455,10 @@ relativas a los sistemas que usa o a su contenido.
 + The Seifert–van Kampen theorem in homotopy type theory. ~ K.B. Hou &
   M. Shulman http://bit.ly/1Xr40pE #ITP #Agda #Math #HoT 
 
-+ Tests vs types. ~ K. Mahoney @KPMTechnically http://bit.ly/1Xr4493 #Haskell
++ Tests vs types. ~ K. Mahoney http://bit.ly/1Xr4493 #Haskell
 
 + Penn professor's computer algorithm could fight terrorism while protecting
-  privacy. http://bit.ly/1Xr4gFh via @dailypenn
+  privacy. http://bit.ly/1Xr4gFh
 
 + NumberTheory: A Haskell number theory library. ~ Chris Fredrickson
   http://bit.ly/1Xr4uw7 #Haskell
@@ -524,16 +514,16 @@ relativas a los sistemas que usa o a su contenido.
 
 + Selling Haskell in the pub. ~ Neil Mitchell http://bit.ly/1PX0Pky #Haskell
 
-+ A general BFS solver in NetLogo. ~ F. Sancho @sanchocaparrini
-  http://bit.ly/1PX1uCt #NetLogo #AI
++ A general BFS solver in NetLogo. ~ F. Sancho http://bit.ly/1PX1uCt #NetLogo
+  #AI
 
-+ Seminario agentes, multiagentes y aplicaciones. ~ G. Aranda @garanda
++ Seminario agentes, multiagentes y aplicaciones. ~ G. Aranda
   http://bit.ly/1PX2E0W #IA
 
 + Crunching quantum code | Communications of the ACM http://bit.ly/1PX3NWa 
   #CompSci
 
-+ The joy and agony of Haskell in production. ~ S. Diehl @smdiehl
++ The joy and agony of Haskell in production. ~ S. Diehl
   http://bit.ly/1OljqVq #Haskell
 
 + Cálculo numérico con Maxima. ~ J. Ramírez http://bit.ly/1PK4N24 #Maxima 
@@ -549,13 +539,12 @@ relativas a los sistemas que usa o a su contenido.
   http://bit.ly/1Rhjz0C #ITP #Theorema #Math
 
 + SimpleFP - A series of increasingly complex purely functional PLs implemented
-  in Haskell. ~ Darryl McAdams @psygnisfive http://bit.ly/1RhjPNk #Haskell
+  in Haskell. ~ Darryl McAdams http://bit.ly/1RhjPNk #Haskell
 
-+ Linear regression in pictures. ~ Aditya Bhargava @_egonschiele
-  http://bit.ly/1RhkrCw #Math 
++ Linear regression in pictures. ~ Aditya Bhargava http://bit.ly/1RhkrCw #Math
 
 + Course: Advanced functional programming. ~ J. Yallop
-  http://bit.ly/1RhkRca #FP #OCaml #Fω via @mukesh_tiwari
+  http://bit.ly/1RhkRca #FP #OCaml #Fω
 
 + Doing data science with Clojure. ~ @sbelak http://bit.ly/1RhlFO5 
   #DataScience #Clojure
@@ -564,9 +553,9 @@ relativas a los sistemas que usa o a su contenido.
   #CompSci
 
 + State of the Haskell ecosystem (February 2016 edition). ~ G. Gonzalez
-  @GabrielG439 | Haskell for all http://bit.ly/1Rhmqqp #Haskell
+  http://bit.ly/1Rhmqqp #Haskell
 
-+ Purely functional Web apps. ~ Michał Płachta @miciek http://bit.ly/1RhmRB2 
++ Purely functional Web apps. ~ Michał Płachta http://bit.ly/1RhmRB2 
   #Haskell
 
 + Applied logic in engineering. ~ M. Spichkova http://bit.ly/1oyD0sc #Teaching #Logic
@@ -574,8 +563,7 @@ relativas a los sistemas que usa o a su contenido.
 + Constraint (logic) programming. ~ R. Barták http://bit.ly/1oyCryI #Logic
   #Programming #Prolog 
 
-+ Proving with types. ~ Matt Parsons @mattoflambda http://bit.ly/1OrKEtu
-  #Haskell #Logic 
++ Proving with types. ~ Matt Parsons http://bit.ly/1OrKEtu #Haskell #Logic
 
 + A framework for certified self-stabilization case study: silent
   self-stabilizing k-dominating set on a tree. ~ K. Altisen
@@ -608,13 +596,9 @@ relativas a los sistemas que usa o a su contenido.
 + QED reloaded: Towards a pluralistic formal library of mathematical
   knowledge. ~ M. Kohlhase, F. Rabe http://bit.ly/21169Zq #MKM
 
-+ Haskell by example. ~ Tatsuya Hirose @lotz84_ http://bit.ly/1Td7LAh #Haskell
++ Haskell by example. ~ Tatsuya Hirose http://bit.ly/1Td7LAh #Haskell
 
 + Fighting spam with Haskell. ~ Simon Marlow http://bit.ly/1Td8lOL #Haskell 
-  via @HaskellTopNews
-
-+ Tópicos universitarios. ~ Saturnino Martínez @mandarrian
-  http://bit.ly/1OCzDpp #Universidad vía @eldiarioes
 
 + Dimpl: An efficient and expressive DSL for discrete mathematics ~ R. Jha
   http://bit.ly/1UrBtkj #Haskell #Math
@@ -642,7 +626,7 @@ relativas a los sistemas que usa o a su contenido.
   C. Bernardi http://bit.ly/1RsAXxc #Logic #Math #CompSci
 
 + Haskell meets large scale distributed analytics. ~ A. Mestanogullari &
-  M. Boespflug http://bit.ly/1RsBi2P #Haskell #BigData via @normenmueller
+  M. Boespflug http://bit.ly/1RsBi2P #Haskell #BigData
 
 + The rigor resolution on undergraduate education ~ Boyer (1995)
   http://bit.ly/1RsSZiF #CompSci #Education
@@ -665,11 +649,7 @@ relativas a los sistemas que usa o a su contenido.
 + Proof relevant corecursive resolution. ~ P. Fu et als. http://bit.ly/1UJucwf
   #ITP #Coq #Haskell
 
-+ A general A* solver in NetLogo ~ F. Sancho @sanchocaparrini
-  http://bit.ly/1U3spBx #Netlogo
-
-+ Imágenes curiosas de funciones matemáticas, incluyendo una «calculadora de
-  gráfica inversa». ~ @Alvy http://bit.ly/1U3sO6U #Matemáticas
++ A general A* solver in NetLogo ~ F. Sancho http://bit.ly/1U3spBx #Netlogo
 
 + The perfect language. ~ Gregory Chaitin http://bit.ly/1QWri1f #Logic
 
@@ -693,18 +673,18 @@ relativas a los sistemas que usa o a su contenido.
   P. Courtieu et als. http://bit.ly/1Qvs0pe #ITP #Coq
 
 + Open source Mathematica compatible Mathics 0.9. ~ Mike James
-  http://bit.ly/1pxxJlC #CAS #Math via @Iprogrammerinfo
+  http://bit.ly/1pxxJlC #CAS #Math
 
-+ Interactive natural deduction proof editor. ~ Bob Atkey @bentnib
-  http://bit.ly/1pxy1sJ #Logic
++ Interactive natural deduction proof editor. ~ Bob Atkey http://bit.ly/1pxy1sJ
+  #Logic
 
 + Verasco: a formally-verified static analyzer for C. http://bit.ly/1pxAhA5 #Coq
 
-+ Local search algorithms in NetLogo. ~ F. Sancho @sanchocaparrini
-  http://bit.ly/1pxAovp #Netlogo
++ Local search algorithms in NetLogo. ~ F. Sancho http://bit.ly/1pxAovp
+  #Netlogo
 
-+ Solving Sudoku via SAT with Mathematica. ~ M. Sottile @mjsottile
-  http://bit.ly/1p8ja7o #Logic #SAT #Mathematica
++ Solving Sudoku via SAT with Mathematica. ~ M. Sottile http://bit.ly/1p8ja7o
+  #Logic #SAT #Mathematica
 
 + Well-founded unions verified. ~ J. Dawson, N. Dershowitz & R. Goré
   http://bit.ly/1QvsOKN #ITP #IsabelleHOL
@@ -724,12 +704,12 @@ relativas a los sistemas que usa o a su contenido.
 + Using AlphaGo as a theorem prover. http://bit.ly/1RH2wTF #ATP #AI
 
 + Beginner's guide to the history of data science ~  Hannah Augur
-  http://bit.ly/1RH2Dyx via @DataconomyMedia #DataScience
+  http://bit.ly/1RH2Dyx #DataScience
 
 + Blackstar: Raytracing black holes with Haskell. ~ Sakari Kapanen
   http://bit.ly/22aw7Q4 #Haskell
 
-+ Big Data ¿Qué es y cómo nos cambiará la vida? ~ M.A. Trabado @MATrabado
++ Big Data ¿Qué es y cómo nos cambiará la vida? ~ M.A. Trabado
   http://bit.ly/1RfHGKj #BigData 
 
 + Las ecuaciones más bellas de la historia de las matemáticas. ~ R. Pérez
@@ -747,11 +727,8 @@ relativas a los sistemas que usa o a su contenido.
 + COGENT: Verifying high-assurance file system implementations. ~ S. Amani et
   als. http://bit.ly/24Y109e #ITP #Coq
 
-+ Descubierto un extraño comportamiento de los números primos que se
-  «repelen». ~ @Alvy http://bit.ly/1MkOLIz #Matemáticas 
-
 + Peculiar pattern found in "random" prime numbers. ~ E. Lamb
-  http://bit.ly/1MkP8Tc #Math via @sciam 
+  http://bit.ly/1MkP8Tc #Math
 
 + Unexpected biases in the distribution of consecutive primes. ~ R.J. Lemke
   Oliver & K. Soundararajan http://bit.ly/1MkPFES #Math 
@@ -759,11 +736,10 @@ relativas a los sistemas que usa o a su contenido.
 + Propositional resolution and prime implicates generation in Isabelle/HOL. ~
   N. Peltier http://bit.ly/1RkdJz1 #ITP #IsabelleHOL #Logic 
 
-+ Haskell is the Dark Souls of programming. ~ Steve Shogren @steveshogren
-  http://bit.ly/1Rke4le #Haskell via @anton_davydov
++ Haskell is the Dark Souls of programming. ~ Steve Shogren
+  http://bit.ly/1Rke4le #Haskell
 
-+ Using the STM with Haskell. ~ Steve Severance @sseveran
-  http://bit.ly/1RkefwU #Haskell
++ Using the STM with Haskell. ~ Steve Severance http://bit.ly/1RkefwU #Haskell
 
 + Guilloche (spirograph) patterns. ~ Ken Takusagawa http://bit.ly/1RkewjB 
   #Haskell
@@ -785,11 +761,10 @@ relativas a los sistemas que usa o a su contenido.
 + Random binary heaps, separable permutations, and numbers that multiply to
   factorials http://bit.ly/1SaIGms
 
-+ The SAT revolution: solving, sampling, and counting ~ Moshe Y. Vardi @vardi
++ The SAT revolution: solving, sampling, and counting ~ Moshe Y. Vardi
   [Slides] http://bit.ly/1SaJpDZ #Logic #CompSci
 
-+ Efficient binary serialization ~ M, Snoyman @snoyberg | FP Complete
-  http://bit.ly/1SaJCqP #Haskell
++ Efficient binary serialization ~ M. Snoyman http://bit.ly/1SaJCqP #Haskell
 
 + Self-formalisation of Higher-Order Logic. ~ R. Kumar et
   als. http://bit.ly/1TY5M2V #ITP #HOL4
@@ -836,15 +811,15 @@ relativas a los sistemas que usa o a su contenido.
 + Computational thinking, 10 years later. ~ J.M. Wing http://bit.ly/1q0Buk4
   #CompSci
 
-+ History and philosophy of types. ~ T. Petricek @tomaspetricek
-  http://bit.ly/1q0C8xX #Logic #CompSci
++ History and philosophy of types. ~ T. Petricek http://bit.ly/1q0C8xX #Logic
+  #CompSci
 
 + Hoed: A lightweight Haskell tracer and debugger. http://bit.ly/1RPih0A #Haskell
 
 + Functional data validation using monads and applicative functors. ~ Gianmario
-  Spacagna @gm_spacagna http://bit.ly/1V9rC2r #Big_Data #FP #Scala 
+  Spacagna http://bit.ly/1V9rC2r #Big_Data #FP #Scala 
 
-+ Adventures in functional Big Data. ~ Matthew Eric Bassett @mebassett
++ Adventures in functional Big Data. ~ Matthew Eric Bassett
   http://bit.ly/1V9tLvf #FP #Big_Data
 
 + Learning data science using functional Python. ~ Joel Grus
@@ -866,7 +841,7 @@ relativas a los sistemas que usa o a su contenido.
 + Haskell for data science ~ Vladimir Alekseichenko [Video] http://bit.ly/1Vfqc6I 
   #Haskell #Data_science 
 
-+ Simple linear regression in Haskell. ~ Josh Walters @joshwalters
++ Simple linear regression in Haskell. ~ Josh Walters
   http://bit.ly/1SruBi5 #Haskell
 
 + roshask: Haskell client library for the ROS robotics framework. 
@@ -893,12 +868,12 @@ relativas a los sistemas que usa o a su contenido.
 + Proof puzzle game. http://bit.ly/1oqFJUd http://bit.ly/1oqFKrl #Logic
   #LMF2016
 
-+ (Co)induction: it’s a thing! ~ V. Robert @Ptival http://bit.ly/1qnxzgV #Logic
++ (Co)induction: it’s a thing! ~ V. Robert http://bit.ly/1qnxzgV #Logic
 
 + Comparing unification algorithms in first-order theorem proving. ~ K. Hoder,
   A. Voronkov http://bit.ly/1qnyrCl #Logic #Algorithms
 
-+ Descending sort in Haskell. ~ Roman Cheplyaka @shebang http://bit.ly/25Cts0K
++ Descending sort in Haskell. ~ Roman Cheplyaka http://bit.ly/25Cts0K
   #Haskell 
 
 + Beyond Good and Evil (Formalizing the security guarantees of low-level
@@ -911,7 +886,7 @@ relativas a los sistemas que usa o a su contenido.
   #CompSci
 
 + The 6 types of Haskell users (A user-centered look at those who write Haskell
-  code). ~ Rick Dzekman @rickdzekman http://bit.ly/1UAKade #Haskell 
+  code). ~ Rick Dzekman http://bit.ly/1UAKade #Haskell 
 
 + The logic of real and complex numbers. ~ John Baez http://bit.ly/1UAKsRs
   #Logic #Math
@@ -964,10 +939,10 @@ relativas a los sistemas que usa o a su contenido.
   #Programming
 
 + Coeffects: Context-aware programming languages. ~ Tomas Petricek
-  @tomaspetricek http://bit.ly/1Q03OHF #Programming via @jneira
+   http://bit.ly/1Q03OHF #Programming
 
 + Full stack Lisp (Build and deploy modern Lisp applications). ~ P. Penev
-  @pavelpenev http://bit.ly/1RXS3Ur #Lisp 
+  http://bit.ly/1RXS3Ur #Lisp 
 
 + Premiers pas avec Python. ~ H. Hounwanou http://bit.ly/1RXTJ0a #eBook #Python
 
@@ -983,8 +958,7 @@ relativas a los sistemas que usa o a su contenido.
 + Löb's theorem (A functional pearl of dependently typed quining). ~ J. Gross,
   J. Gallagher, B. Fallenstein http://bit.ly/1Wlk25Q #ITP #Agda #Logic
 
-+ Worst practices should be hard. ~ G. Gonzalez @GabrielG439 | Haskell for all
-  http://bit.ly/23xESAX #Haskell 
++ Worst practices should be hard. ~ G. Gonzalez http://bit.ly/23xESAX #Haskell
 
 + A brief tour of Haskell for Scala programmers. ~ Ed Conolly
   http://bit.ly/23xGavO #Haskell #Scala
@@ -1001,14 +975,11 @@ relativas a los sistemas que usa o a su contenido.
 + forallX: Cambridge (a textbook for introductory formal logic) ~ Tim Button
   http://bit.ly/25WgRWj http://bit.ly/25WgStA #eBook #Logic
 
-+ Basic data analysis with CL without frameworks. ~ A. Kaygun @Atabey_Kaygun
++ Basic data analysis with CL without frameworks. ~ A. Kaygun
   http://bit.ly/25WhjE9 #Lisp
 
 + Mathematistan (The landscape of mathematics). ~ Martin Kuppe
   http://bit.ly/1Vl5iVE #Math
-
-+ Mathematics: Measuring x laziness² ~ @ZoggTheAlien [Video]
-  https://youtu.be/XqpvBaiJRHo #Math
 
 + A software methodology for compiling quantum programs. ~ T. Häner et
   als. http://bit.ly/23tf1O0 #Haskell #Quantum_computing 
@@ -1023,7 +994,7 @@ relativas a los sistemas que usa o a su contenido.
   A. Monsalve http://bit.ly/1ShmPgy #Haskell
 
 + El proceso de formalización de la lógica matemática (La crisis de la
-  geometría euclídea). ~ B. Stonek http://bit.ly/1ShlW7M via @spectrumgomas 
+  geometría euclídea). ~ B. Stonek http://bit.ly/1ShlW7M
 
 + Consideraciones sobre la lógica y sobre el funcionamiento de la matemática. ~
   B. Stonek http://bit.ly/1Shm7Qm #Lógica #Matemáticas 
@@ -1031,7 +1002,7 @@ relativas a los sistemas que usa o a su contenido.
 + Understanding typing judgments. ~ D. Elkins http://bit.ly/1Shmvyr #Agda
 
 + Usos prácticos de los Monoides. ~ L. López http://bit.ly/1Sc5ZN1
-  http://bit.ly/1Sc60R8 http://bit.ly/1Sc6eYk #Haskell via @HaskellMAD
+  http://bit.ly/1Sc60R8 http://bit.ly/1Sc6eYk #Haskell
 
 + What will humans do when artificial intelligence can do everything? ~ Sally
   Painter http://bit.ly/23xudK3
@@ -1094,12 +1065,12 @@ relativas a los sistemas que usa o a su contenido.
 + Shine: Declarative graphics for the browser. ~ F. Gazzetta
   http://bit.ly/1SvXuwv #Haskell #JavaScript
 
-+ 3 ways to generate lazy Fibonacci sequences in Clojure. ~ Y. Sharvit @viebel
++ 3 ways to generate lazy Fibonacci sequences in Clojure. ~ Y. Sharvit
   http://bit.ly/1VIm1BJ #Clojure
 
 + An example with Dedekind cuts. ~ C. Mummert http://bit.ly/1SvZsg9 #Math #Algorithms
 
-+ Categories for programmers: Adjunctions. ~ B. Milewski @BartoszMilewski
++ Categories for programmers: Adjunctions. ~ B. Milewski
   http://bit.ly/1Sw0GYO #Haskell
 
 + Lazy processing and optimization of discrete sequences. ~ J. Karczmarczuk
@@ -1108,11 +1079,11 @@ relativas a los sistemas que usa o a su contenido.
 + Evaluating SMT solvers for software verification. ~ A. Healy et
   als. http://bit.ly/1YK19s1 #SMT #Verification
 
-+ Beyond Clojure: Haskell. ~ Martin Trojer @martintrojer
-  http://bit.ly/22Sz5DK #Haskell #Clojure via @HaskellTopNews
++ Beyond Clojure: Haskell. ~ Martin Trojer http://bit.ly/22Sz5DK #Haskell
+  #Clojure
 
 + Implementing the game 2048 in less than 90 lines of Haskell. ~ Gregor Ulm
-  http://bit.ly/1SfEVO0 #Haskell via @HaskellTopNews
+  http://bit.ly/1SfEVO0 #Haskell
 
 + Clause selection in reolution-style theorem provers. ~ R. Veroff
   http://bit.ly/1MOyKAn #ATP
@@ -1120,19 +1091,18 @@ relativas a los sistemas que usa o a su contenido.
 + The most unreliable technique in the world to compute pi. ~ J. Karczmarczuk
   http://bit.ly/1SEH1ZS #Haskell #Math
 
-+ List and comprehension extensions. ~ A. Altman @pthariensflame | FP School of
-  Haskell http://bit.ly/1MQtHiR #Haskell
++ List and comprehension extensions. ~ A. Altman http://bit.ly/1MQtHiR #Haskell
 
 + The matrix cookbook (A desktop reference for quick overview of mathematics of
   matrices). ~ K.B. Petersen & M.S. Pedersen http://bit.ly/1MQupNa #eBook #Math
 
-+ The probability and statistics cookbook. ~ M. Vallentin @mavam
++ The probability and statistics cookbook. ~ M. Vallentin
   http://bit.ly/1MQuGQ8 #eBook #Math #Statistic
 
 + Breadth-first numbering: Lessons from a small exercise in algorithm design
   (Functional pearl). ~ Chris Okasaki http://bit.ly/219Yz0m #Haskell 
 
-+ Bombyard: a clone of the minesweeper game in Haskell. ~ T. Fausak @TaylorFausak 
++ Bombyard: a clone of the minesweeper game in Haskell. ~ T. Fausak
   http://bit.ly/1MQOEKw #Haskell #Game #Gloss
 
 + Functional differentiation of computer programs. ~ J. Karczmarczuk
@@ -1142,13 +1112,10 @@ relativas a los sistemas que usa o a su contenido.
   diagrams in Isabelle/HOL. ~ J. Michaelis et als. http://bit.ly/24lwTHz 
 
 + Vers une théorie de l'intelligence. ~ J.P. Delahaye http://bit.ly/1N2hebY #AI
-  via @interstices_eu
 
-+ Chemical computing with Clojure. ~ C. Meier @gigasquid http://bit.ly/1N2hGqF 
-  #Clojure
++ Chemical computing with Clojure. ~ C. Meier http://bit.ly/1N2hGqF #Clojure
 
-+ Data is code. ~ G. Gonzalez @GabrielG439 | Haskell for all
-  http://bit.ly/24lZFrL #Haskell 
++ Data is code. ~ G. Gonzalez http://bit.ly/24lZFrL #Haskell
 
 + Computing symbolic gradient vectors with plain Haskell. ~ Dan Aloni
   http://bit.ly/1rBZYRi #Haskell #Math
@@ -1160,7 +1127,7 @@ relativas a los sistemas que usa o a su contenido.
   M. Bortin http://bit.ly/21iE8yg #ITP #IsabelleHOL
 
 + A port of MiniPRL to Haskell with co-/inductive types bolted on the side. ~
-  T. Sutton @thsutton http://bit.ly/248nK8H #Haskell 
+  T. Sutton http://bit.ly/248nK8H #Haskell 
 
 + No faster-than-light observers (Using Isabelle/HOL to verify first-order
   relativity theory) ~ M. Stannett, I Németi http://bit.ly/1Un31YK #IsabelleHOL
@@ -1185,7 +1152,7 @@ relativas a los sistemas que usa o a su contenido.
 + Haskell resources. ~ Mouna Cheikhna http://bit.ly/1WBHQlO #Haskell
 
 + A programming and problem-solving seminar. ~ J.D. Hobby & D.E. Knuth (1983)
-  http://stanford.io/23i2UOp #Programming via ‏@spectrumgomas 
+  http://stanford.io/23i2UOp #Programming
 
 + Gröbner bases theory in Isabelle/HOL. ~ F. Immler & A. Maletzky
   http://bit.ly/1X60enl #ITP #IsabelleHOL #Math 
@@ -1196,14 +1163,14 @@ relativas a los sistemas que usa o a su contenido.
 + Functional data structures. ~ M. Ivanovié & V. Kumcak. 
   http://bit.ly/21vlnHP #Haskell
 
-+ El problema de los tres caballeros y los tres criados ~ R. Ibáñez @mtpibtor
-  http://bit.ly/26U9pvq #Matemáticas #Computación vía @CCCientifica
++ El problema de los tres caballeros y los tres criados ~ R. Ibáñez
+  http://bit.ly/26U9pvq #Matemáticas #Computación
 
 + Spivey's generalized recurrence for Bell numbers in Isabelle/HOL. ~
   L. Bulwahn http://bit.ly/21yVdny #ITP #IsabelleHOL #Math #AFP
 
-+ Juega con el ordenador cuántico de IBM. ~ David Sarabia @DSRELD
-  http://bit.ly/21yXoru #Programación vía @eldiariocultura
++ Juega con el ordenador cuántico de IBM. ~ David Sarabia
+  http://bit.ly/21yXoru #Programación
 
 + Formal methods engineer at Mitsubishi Electric R&D Centre in Rennes,
   France. http://bit.ly/1ZmUxjw #Job #CompSci
@@ -1231,7 +1198,7 @@ relativas a los sistemas que usa o a su contenido.
 + Solving and verifying the boolean Pythagorean Triples problem via
   Cube-and-Conquer. ~ M.J.H. Heule et als. http://bit.ly/1TNNGy7 #ATP #SAT
 
-+ Liquid Haskell. ~ G. Gonzalez @GabrielG439 http://bit.ly/274mJgX #Haskell
++ Liquid Haskell. ~ G. Gonzalez http://bit.ly/274mJgX #Haskell
 
 + Comparison of implementations of the Newton-Raphson in Python and
   Clojure. http://bit.ly/274mTol #Python #Clojure #Math
@@ -1248,22 +1215,22 @@ relativas a los sistemas que usa o a su contenido.
 + Category theory in Coq 8.5. ~ A. Timany, B. Jacobs http://bit.ly/1OdGZWZ 
   #ITP #Coq
 
-+ User-defined literals in Haskell via QuasiQuotes. ~ Harry Garrood @hdgarrood
++ User-defined literals in Haskell via QuasiQuotes. ~ Harry Garrood
   http://bit.ly/1TBpsUT #Haskell 
 
-+ Functional programming in practice. ~ M. Borkent @borkdude
-  http://bit.ly/27a2bUa #Scala #Haskell #Clojure
++ Functional programming in practice. ~ M. Borkent http://bit.ly/27a2bUa #Scala
+  #Haskell #Clojure
 
 + A mathematical proof takes 200 terabytes to state. ~ M. James
-  http://bit.ly/1OmSXbx #ATP #SAT #Math via @Iprogrammerinfo 
+  http://bit.ly/1OmSXbx #ATP #SAT #Math
 
 + Solving and verifying the boolean pythagorean triples problem via
   cube-and-conquer. ~ M.J.H. Heule et als. http://bit.ly/1OmSS7J #ATP #SAT 
 
-+ An introduction to Moessner's theorem and Moessner's sieve. ~ P. Urbak @Urbak
++ An introduction to Moessner's theorem and Moessner's sieve. ~ P. Urbak
   http://bit.ly/1OmTf2e #Haskell #Math
 
-+ A dual to Moessner's sieve. ~ P. Urbak @Urbak http://bit.ly/1OmTpqr #Haskell #Math
++ A dual to Moessner's sieve. ~ P. Urbak http://bit.ly/1OmTpqr #Haskell #Math
 
 + Formalizing graph theory and planarity certificates. ~ L. Noschinski
   http://bit.ly/1It1bBI #PhD_Thesis #Isabelle_HOL
@@ -1274,7 +1241,7 @@ relativas a los sistemas que usa o a su contenido.
 + A mechanization of the Blakers-Massey connectivity theorem in Homotopy Type
   Theory. ~ K.B. Hou et als. http://bit.ly/22380z1 #ITP #Agda #HoTT
 
-+ A characteristic function of Moessner's sieve~ P. Urbak @Urbak
++ A characteristic function of Moessner's sieve ~ P. Urbak
   http://bit.ly/1OmZoki #Haskell #Math 
 
 + This Turing machine should run forever unless Maths is wrong. ~ J. Aron
@@ -1298,7 +1265,7 @@ relativas a los sistemas que usa o a su contenido.
 + Computer Algebra Library for Chez Scheme (R6RS). http://bit.ly/1TcmsiC 
   #Scheme #CAS
 
-+ Números y hoja de cálculo: Rachas de dígitos. ~ Antonio Roldán @Connumeros
++ Números y hoja de cálculo: Rachas de dígitos. ~ Antonio Roldán
   http://bit.ly/1Tc9MM5 #Matemáticas #Programación
 
 + Functional modelling of musical harmony: An experience report. ~
@@ -1323,9 +1290,9 @@ relativas a los sistemas que usa o a su contenido.
 + The evolution of a Haskell programmer. ~ F. Ruehr http://bit.ly/1ZSrrca
   #Haskell 
 
-+ A Haskell reading list. ~ S. Diehl @smdiehl http://bit.ly/1ZSrF2N #Haskell
++ A Haskell reading list. ~ S. Diehl http://bit.ly/1ZSrF2N #Haskell
 
-+ Automatic propagation of uncertainty with AD. ~ Justin Le @mstk
++ Automatic propagation of uncertainty with AD. ~ Justin Le
   http://bit.ly/1ZSrSTF #Haskell
 
 + Formalization of quantum protocols using Coq. ~ J. Boender, F. Kammüller &
@@ -1337,17 +1304,14 @@ relativas a los sistemas que usa o a su contenido.
 + Learn you an Agda and achieve enlightenment! ~ Liam O’Connor-Davis
   http://bit.ly/1ZVHc1S #Agda  
 
-+ Haskell design patterns: .Extended modules. ~ Jasper Van der Jeugt @jaspervdj
-  http://bit.ly/27qxt9u #Haskell via @jaspervdj
++ Haskell design patterns: .Extended modules. ~ Jasper Van der Jeugt
+  http://bit.ly/27qxt9u #Haskell
 
 + Plastelina interactive logic games. http://www.plastelina.net #Logic #Game 
   #I1M2015
 
 + Loopless gray code enumeration and the tower of Bucharest. ~ F. Herter &
   G. Rote http://bit.ly/1TdxWYm #Algorithms #Python
-
-+ A Nobel laureate's education plea: revolutionize
-  teaching. http://n.pr/1VZBZb9 #Teaching Via @NPR
 
 + Lightweight higher-order rewriting in Haskell. ~ E. Axelsson & A. Vezzosi
   http://bit.ly/1Q8V2Lk #Haskell
@@ -1380,7 +1344,7 @@ relativas a los sistemas que usa o a su contenido.
   http://bit.ly/25clBJB #FP #Scheme
 
 + The world's first artificially intelligent lawyer gets hired. ~ C. Weller
-  http://til.ink/1VcVqwa #AI via @jborrego
+  http://til.ink/1VcVqwa #AI
 
 + Perron-Frobenius theorem for spectral radius analysis in Isabelle/HOL. ~
   J. Divasón et als. http://bit.ly/1VemISZ #IsabelleHOL #Vestigium
@@ -1394,8 +1358,8 @@ relativas a los sistemas que usa o a su contenido.
 + Axioms for modelling cubical type theory in a topos. ~ I. Orton & A.M. Pitts
   http://bit.ly/1NDS9Vd #ITP #Agda
 
-+ Introduction to literate programming. ~ H. Abrams @howardabrams
-  http://bit.ly/242RQVJ #Programming #Emacs #Clojure
++ Introduction to literate programming. ~ H. Abrams http://bit.ly/242RQVJ
+  #Programming #Emacs #Clojure
 
 + Why GNU Emacs? ~ rekado http://bit.ly/1sMrso4 #Emacs
 
@@ -1422,8 +1386,8 @@ relativas a los sistemas que usa o a su contenido.
 + Modeling data with functional programming in R. ~ Brian Lee Yung Rowe
   http://bit.ly/1OIp8m9 #Data_Science #FP
 
-+ The joy and agony of Haskell in production. ~ S. Diehl @smdiehl 
-  http://bit.ly/1OSmpfg #Haskell via @CompSciFact
++ The joy and agony of Haskell in production. ~ S. Diehl
+  http://bit.ly/1OSmpfg #Haskell
 
 + Functional programming with structured graphs. ~  B.C.d.S. Oliveira &
   W.R. Cook http://bit.ly/1s4U9Mh #Haskell
@@ -1438,33 +1402,18 @@ relativas a los sistemas que usa o a su contenido.
   http://bit.ly/242RoGU #ITP #IsabelleHOL
 
 + Practical dependent types in Haskell: Type-safe neural networks (Part 1). ~
-  Justin Le @mstk http://bit.ly/1sbSFzR #Haskell
-
-+ PhD position at INRIA Grenoble: "Formal proofs for the analysis of real-time
-  systems in Coq" http://bit.ly/1qL7uYF #PhD #CompSci #Coq 
-
-+ PhD position at INRIA Grenoble: "Analysis and types for safe dynamic software
-  configurations". http://bit.ly/1TLjUvp #PhD #CompSci
-
-+ PhD position at INRIA Grenoble: "Programming IoT and software defined radio
-  with dynamic data-flow models of computation" http://bit.ly/1TLkCZF #PhD #CompSci
+  Justin Le http://bit.ly/1sbSFzR #Haskell
 
 + A practical Template Haskell tutorial. http://bit.ly/1Ru0aqu #Haskell
 
 + Specification and proof of high-level functional properties of bit-level
   programs. ~ C. Fumex et als.  http://bit.ly/1TBhkIo #Why3
 
-+ Una máquina de Turing construida en «el juego de la vida». ~ @Alvy
-  http://bit.ly/1TEaj69 #Computación vía @Microsiervos
-
 + Stephen Diehl: Slides for a talk I gave this week about editor tooling in
   industrial Haskell. http://bit.ly/1WoXuSV #Haskell
 
-+ Haskell gets a job (helping everyone get a job!) ~ Simon Fenton @screamish
++ Haskell gets a job (helping everyone get a job!) ~ Simon Fenton
   http://bit.ly/25pAMiG #Haskell
-
-+ Todo el mundo aplica la matemática, excepto los matemáticos aplicados ~
-  F.R. Villatoro @emulenews http://bit.ly/25pH4yN #Matemáticas 
 
 + Mathematics is applied by everyone except applied mathematicians ~ David
   P. Wilson http://bit.ly/25pHkhs #Math 
@@ -1475,15 +1424,15 @@ relativas a los sistemas que usa o a su contenido.
 + Deductive evaluation: formal code analysis with low user burden. ~ B.L. Di
   Vito http://bit.ly/1sE3Q4e #PVS 
 
-+ Emacs org-mode examples and cookbook. ~ Eric Neilsen @ehneilsen
-  http://bit.ly/1TOt3TS #Emacs
++ Emacs org-mode examples and cookbook. ~ Eric Neilsen http://bit.ly/1TOt3TS
+  #Emacs
 
 + Two-hundred-terabyte maths proof is largest ever (A computer cracks the
   Boolean Pythagorean triples problem — but is it really maths?) ~ E. Lamb
-  http://bit.ly/1X3Lt60 #Math #CompSci via @NatureNews
+  http://bit.ly/1X3Lt60 #Math #CompSci
 
-+ Philosophical questions about programming. ~ Tomas Petricek @tomaspetricek
-  http://bit.ly/1X3LhE2 #Programming via @jneira
++ Philosophical questions about programming. ~ Tomas Petricek
+  http://bit.ly/1X3LhE2 #Programming
 
 + The matrix reproved (Verification Pearl). ~ M. Clochard, L. Gondelman &
   M. Pereira http://bit.ly/1TNCh1q #Why3 #Math
@@ -1509,18 +1458,18 @@ relativas a los sistemas que usa o a su contenido.
   #ITP
 
 + ¿Esto es Matemáticas? (¿Pueden los ordenadores realizar demostraciones
-  matemáticas?) ~ Manuel de León @manuel_de_leon http://bit.ly/1Pm4eie
+  matemáticas?) ~ Manuel de León http://bit.ly/1Pm4eie
 
 + An introduction to scientific Python (and a bit of the maths behind it) -
-  Pandas. ~ J. Moir @jamal_moir http://bit.ly/1Pm4z4v #Python #DataScience 
+  Pandas. ~ J. Moir http://bit.ly/1Pm4z4v #Python #DataScience 
 
 + A very general method of computing shortest paths. ~ Russell O’Connor
-  http://bit.ly/1Pm4qxV #Haskell via @GabrielG439
+  http://bit.ly/1Pm4qxV #Haskell
 
 + Cardinality of equivalence relations in Isabelle/HOL. ~ L. Bulwahn
   http://bit.ly/1Xn3fRR #ITP #IsabelleHOL #AFP
 
-+ Conjugate partitions. ~ A. Kaygun @Atabey_Kaygun http://bit.ly/1Xn6yst #Lisp
++ Conjugate partitions. ~ A. Kaygun http://bit.ly/1Xn6yst #Lisp
   #Math
 
 + Computer experiments are transforming mathematics. ~ E. Klarreich. 
@@ -1550,22 +1499,16 @@ relativas a los sistemas que usa o a su contenido.
 + Towards verified construction for planar class of a qualitative spatial
   representation. ~ S. Moriguchi et als. http://bit.ly/1Uq13C3 #ITP #Coq
 
-+ ODE solver as a functional fold. ~ J.D. Cook @JohnDCook http://bit.ly/1Uq2pN5
++ ODE solver as a functional fold. ~ J.D. Cook http://bit.ly/1Uq2pN5
   #Haskell #Math
 
-+ Abstract algebra for Scala.  http://bit.ly/1Uq2YGO #Scala via @jborrego
++ Abstract algebra for Scala.  http://bit.ly/1Uq2YGO #Scala
 
 + How programming supports math class, not the other way around. ~ C. Bartlo
-  @cbartlo http://bit.ly/1Uq3Uee #Programming #Math
+  http://bit.ly/1Uq3Uee #Programming #Math
 
 + Perspectives for proof unwinding by programming languages techniques. ~
   D. Ilik http://bit.ly/1Xw1Fxf #Logic #Math #CompSci
-
-+ Functional programmers are better programmers. ~ @FunctionalWorks
-  http://bit.ly/1Xw1To1 #Haskell #Clojure #Scala
-
-+ Clojure's transducers in Haskell. ~ Jean Niklas λ'orange @hyPiRion
-  http://bit.ly/1Xw3L05 #Clojure #Haskell via @ArtemYarulin
 
 + EdisonAPI: A library of efficient, purely-functional data structures (API). ~
   Chris Okasaki http://bit.ly/1UsOzJO #Haskell
@@ -1576,8 +1519,7 @@ relativas a los sistemas que usa o a su contenido.
 + Software foundations, version 4.0 (May 2016). ~ Benjamin C. Pierce et
   als. http://bit.ly/25HDRr4 #Coq #Logic #CompSci
 
-+ Haskell style guide. ~ J. Tibell @johtib http://bit.ly/1WDoGO4 #Haskell via
-  @HaskellTopNews
++ Haskell style guide. ~ J. Tibell http://bit.ly/1WDoGO4 #Haskell
 
 + Formalization of normal random variables. ~ M. Qasim http://bit.ly/1X9J49o
   #ITP #HOL
@@ -1586,7 +1528,7 @@ relativas a los sistemas que usa o a su contenido.
   #ATP #Logic #Prolog #CompSci
 
 + Google moves closer to a universal quantum computer. ~ P. Ball
-  http://go.nature.com/1RXMBQl #CompSci via @NatureNews
+  http://go.nature.com/1RXMBQl #CompSci
 
 + Why are so many mathematicians also musicians? ~ D.H. Bailey  &  J.M. Borwein
   http://huff.to/1RXN1Gj #Math #Music 
@@ -1605,31 +1547,28 @@ relativas a los sistemas que usa o a su contenido.
 + Coq’Art, CPDT and SF: a review of books on Coq proof assistant. ~ J. Stolarek
   http://bit.ly/1RXNBUn #ITP #Coq
 
-+ Chi-square goodness of fit test example with primes. ~ J. Cook @JohnDCook
++ Chi-square goodness of fit test example with primes. ~ J. Cook
   http://bit.ly/1RXOnkr #Math #Python
 
-+ Haskell Tutorials, a tutorial. ~ Yann Esposito @yogsototh 
-  http://bit.ly/1RXNBE4 #Haskell
++ Haskell Tutorials, a tutorial. ~ Yann Esposito http://bit.ly/1RXNBE4 #Haskell
 
 + Create a game with Haskell. http://www.hgamer3d.org #Haskell #Game via
-  @HaskellTopNews
 
 + Formalizing semantic bidirectionalization with dependent types. ~ H. Grohne,
   A. Löh & J. Voigtländer http://bit.ly/1rfOou2 #ITP #Agda
 
-+ Insertion sort implemented as a fold. ~ J. Cook @JohnDCook
-  http://bit.ly/1YdM2ZE #Haskell
++ Insertion sort implemented as a fold. ~ J. Cook http://bit.ly/1YdM2ZE
+  #Haskell
 
-+ Computing higher moments with a fold. ~ J. Cook @JohnDCook
-  http://bit.ly/1YdMirP #Haskell #Statistics
++ Computing higher moments with a fold. ~ J. Cook http://bit.ly/1YdMirP
+  #Haskell #Statistics
 
 + Tools for thought ~  Howard Rheingold http://bit.ly/1UGuMJZ #eBook #CompSci
 
-+ A tool for thought. ~ David Nolen @swannodette http://bit.ly/1UGu3sn
++ A tool for thought. ~ David Nolen http://bit.ly/1UGu3sn
   #ClojureScript
 
-+ Algo pasa con Haskell. ~ @__josejuan__ http://bit.ly/1YefXkw #Haskell vía
-  @genbeta
++ Algo pasa con Haskell. ~ @__josejuan__ http://bit.ly/1YefXkw #Haskell
 
 + A complete tutorial to learn data science in R from scratch. ~ Manish
   Saraswat http://bit.ly/1UkXBNx #Rstats #DataScience
@@ -1640,7 +1579,7 @@ relativas a los sistemas que usa o a su contenido.
 + Mastering programming. ~ Kent Beck http://bit.ly/1RZT90A #Programming
 
 + Analysing big time-series data in the cloud. ~ T. Petricek
-  http://bit.ly/1U6fGk7 @tomaspetricek #Fsharp #BigData
+  http://bit.ly/1U6fGk7 #Fsharp #BigData
 
 + Formal methods for secure software construction. ~ B. Goodspeed
   http://bit.ly/1QcQ9UR #Idris
@@ -1668,7 +1607,7 @@ relativas a los sistemas que usa o a su contenido.
 + Sequent calculus as a compiler intermediate language. ~ Simon Peyton Jones et
   als. http://bit.ly/25SoAal #Logic #Haskell
 
-+ The story of Haskell at IMVU. ~ Chad Austin @chadaustin http://bit.ly/1XpqQ3W
++ The story of Haskell at IMVU. ~ Chad Austin http://bit.ly/1XpqQ3W
   #Haskell
 
 + Reachability, confluence, and termination analysis with state-compatible
@@ -1677,11 +1616,11 @@ relativas a los sistemas que usa o a su contenido.
 + A survey of satisfiability modulo theory. ~ D. Monniaux http://bit.ly/1txweGj
   #ATP #SMT
 
-+ ASCII art diagrams in Emacs org-mode. ~ J.D. Cook @JohnDCook
-  http://bit.ly/1txxs4k #Emacs
++ ASCII art diagrams in Emacs org-mode. ~ J.D. Cook http://bit.ly/1txxs4k
+  #Emacs
 
 + Designing functional implementations of graph algorithms. ~ N. Danilenko
-  https://t.co/cLvBTp0TK9 #Haskell #Algorithms #Math vía @smdiehl
+  https://t.co/cLvBTp0TK9 #Haskell #Algorithms #Math
 
 + Formal methods for secure software construction. ~ B. Goodspeed
   http://bit.ly/1QcQ9UR #Idris
@@ -1690,7 +1629,7 @@ relativas a los sistemas que usa o a su contenido.
   http://bit.ly/1QcQgQa #Logic #CompSci
 
 + A model for the Universe that begins to resemble a quantum computer- ~
-  S. Gudder http://bit.ly/1QcQoPB via @MDPIOpenAccess
+  S. Gudder http://bit.ly/1QcQoPB
 
 + Implementing graph grammars for intelligence analysis in OCaml. ~ R. Moten,
   K. Anyanwu-Ogan & S. Miranshah http://bit.ly/1UViSMu #OCaml
@@ -1727,7 +1666,7 @@ relativas a los sistemas que usa o a su contenido.
 + Formalizing the Edmonds-Karp algorithm. ~ P. Lammich & S.R. Sefidgar
   http://bit.ly/28OLmaM #ITP #IsabelleHOL
 
-+ Regular expressions implemented in Haskell ~ G. Gonzalez @GabrielG439
++ Regular expressions implemented in Haskell ~ G. Gonzalez
   http://bit.ly/28QHwdL #Haskell
 
 + Two-way automata in Coq. ~ C. Doczkal & G. Smolka http://bit.ly/28UPjdt #ITP
@@ -1736,7 +1675,7 @@ relativas a los sistemas que usa o a su contenido.
 + A beautiful question: finding nature's deep design. ~ Frank Wilczek
   http://bit.ly/28Yf27A
 
-+ Getting started with GHCJS dev. ~ David Johnson @dmj0io http://bit.ly/28SvlPN
++ Getting started with GHCJS dev. ~ David Johnson http://bit.ly/28SvlPN
   #Haskell #JavaScript #GHCJS
 
 + Teaching machines to predict the future. ~ MIT News http://bit.ly/28SyNdb
@@ -1749,7 +1688,7 @@ relativas a los sistemas que usa o a su contenido.
   L.C. Paulson http://bit.ly/28OO4gC #ITP #IsabelleHOL
 
 + An introductory talk to functional programming & typeclasses. ~ R. Raja
-  @raulraja http://bit.ly/2916Rpg http://bit.ly/2917wGS #FP #Scala
+  http://bit.ly/2916Rpg http://bit.ly/2917wGS #FP #Scala
 
 + A dependent security type system for concurrent imperative programs. ~
   T. Murray et als. http://bit.ly/293rZMo #ITP #IsabelleHOL #AFP 
@@ -1759,10 +1698,10 @@ relativas a los sistemas que usa o a su contenido.
 
 + The secret spiritual history of calculus (Integral calculus originated in a
   17th-century debate that was as religious as it was scientific). ~
-  A. Alexander http://bit.ly/28ZPodK via @sciam
+  A. Alexander http://bit.ly/28ZPodK 
 
 + Why software startups should hire functional programmers. ~ Martijn Rutten
-  @martijnrutten http://bit.ly/293trOD #FP #Haskell
+  http://bit.ly/293trOD #FP #Haskell
 
 + A tutorial implementation of Hindley-Milner type inference (Algorithm W) in
   Haskell. http://bit.ly/28ZTiDm http://bit.ly/293vemQ
@@ -1779,8 +1718,7 @@ relativas a los sistemas que usa o a su contenido.
 + Paradigmas de programación: programación imperativa y programación
   declarativa. ~ @LoopaDev http://bit.ly/29bwvsL #Programación
 
-+ Parallel combinatorics. ~ J. Aranda @jordi_aranda http://bit.ly/296mvOQ
-  #Haskell #Math
++ Parallel combinatorics. ~ J. Aranda http://bit.ly/296mvOQ #Haskell #Math
 
 + Manual de cálculo científico en SageMath. ~ A. Aceña, J. Armijos y M. Llerena
   http://bit.ly/29bxqcO #SageMath
@@ -1801,20 +1739,19 @@ relativas a los sistemas que usa o a su contenido.
 + CodeWorld for younger ages! ~ C. Smith http://bit.ly/29aXYHZ #Haskell
   #Teaching #CodeWorld  
 
-+ Blocks for CodeWorld. http://bit.ly/29iaAAX #Haskell #Teaching #CodeWorld via
-  @RedditHaskell 
++ Blocks for CodeWorld. http://bit.ly/29iaAAX #Haskell #Teaching #CodeWorld 
 
 + Computing our future: Computer programming and coding (Priorities, school
   curricula and initiatives across Europe) http://bit.ly/29b07DE #CompSci
 
-+ Translating Scala programs to Isabelle/HOL. ~ L. Hupel @larsr_h & V. Kuncak
++ Translating Scala programs to Isabelle/HOL. ~ L. Hupel & V. Kuncak
   http://bit.ly/29AA0Wx #IsabelleHOL #Scala 
 
 + Qué hace un tipo de sistemas cuando se le cae todo el sistema. ~ Javier
-  Pastor @javipas http://bit.ly/29c0hLY #Programación vía @xataka 
+  Pastor http://bit.ly/29c0hLY #Programación
 
 + OpenDreamKit: Open Digital Research Environment Toolkit for the Advancement
-  of Mathematics. http://opendreamkit.org via @OpenDreamKit 
+  of Mathematics. http://opendreamkit.org
 
 + Finding proofs in Tarskian geometry. ~ M. Beeson & L. Wos
   http://bit.ly/29eHjFU #ATP #OTTER #Math
@@ -1826,7 +1763,7 @@ relativas a los sistemas que usa o a su contenido.
   language. ~ Hacker Lists http://bit.ly/29dFRzU #Haskell
 
 + Programs and proofs (Mechanizing Mathematics with dependent types). ~ Ilya
-  Sergey http://bit.ly/29gVXwp #ITP #Coq #Math #eBook via @mcarberg 
+  Sergey http://bit.ly/29gVXwp #ITP #Coq #Math #eBook
 
 + Common Lisp ecosystem and the software distribution model. ~ D. Kochmański
   http://bit.ly/29dGqd1 #Lisp
@@ -1846,20 +1783,16 @@ relativas a los sistemas que usa o a su contenido.
 + A formalizing of Berlekamp's factorization algorithm ~ J. Divasón et
   als. http://bit.ly/29poKia #ITP #IsabelleHOL #Math
 
-+ La startup española de inteligencia artificial que triunfa en Alemania (y
-  aquí ignoran) ~ @galatea128 http://bit.ly/29mLnQY
-
 + A framework for verifying depth-first search algorithms in Isabelle/HOL ~
   P. Lammich & R. Neumann http://bit.ly/29yVGon #ITP #IsabelleHOL #Vestigium
 
-+ Four months with Haskell. Alexis King @lexi_lambda ~ http://bit.ly/29yW5qX
-  #Haskell
++ Four months with Haskell. ~ Alexis King ~ http://bit.ly/29yW5qX #Haskell
 
 + Original Apollo 11 guidance computer source code, in assembly, for Command
   Module and Lunar Module. http://bit.ly/29mORSV #Programming 
 
 + Arithmetic coding with folds and unfolds. ~ R. Bird & J. Gibbons
-  http://bit.ly/29zNjZq #Haskell via @HaskellTopNews
+  http://bit.ly/29zNjZq #Haskell
 
 + Eastman maximal comma-free codes in Haskell. ~ Brent Yorgey
   http://bit.ly/29zMHmQ #Haskell
@@ -1868,23 +1801,20 @@ relativas a los sistemas que usa o a su contenido.
   #IsabelleHOL 
 
 + Abstract nonsense for functional programmers (a introduction to category
-  theory) ~ Edsko de Vries http://bit.ly/29nM2pl #Haskell via @mcarberg
+  theory) ~ Edsko de Vries http://bit.ly/29nM2pl #Haskell
 
 + Optimal purely functional priority queues (1996) ~ G.S. Brodal & C. Okasaki
-  http://bit.ly/29oTRYf #Algoritm #FP #ML via @loveapaper
+  http://bit.ly/29oTRYf #Algoritm #FP #ML
 
 + Tackling intractable computing problems ~ Aaron Dubrow http://bit.ly/29oViFN
-  #CompSci via @NSF
+  #CompSci
 
 + A new Haskell community nexus site: http://haskell-lang.org #Haskell
 
-+ Literate programming: presenting code in human order ~ J.D. Cook @JohnDCook
++ Literate programming: presenting code in human order ~ J.D. Cook
   http://bit.ly/29oWGZg #Programming
 
-+ Un repositorio de código tamaño Google ~ @Alvy http://bit.ly/29oXqh9
-  #Programación vía @Microsiervos
-
-+ Aprende Haskell rápido y difícil. ~ Y. Esposito @yogsototh & D. Campoverde
++ Aprende Haskell rápido y difícil. ~ Y. Esposito & D. Campoverde
   http://bit.ly/29oXrBI #Haskell #Tutorial
 
 + List of incomplete published mathematical proofs. ~ Wikipedia
@@ -1892,13 +1822,6 @@ relativas a los sistemas que usa o a su contenido.
 
 + Graph algorithms. ~ Wikipedia book http://bit.ly/29o8rmg #eBook #Algorithms
   #Math
-
-+ El gusto en la era del algoritmo (¿Peligra la diversidad cultural?) ~
-  @DaniVerdu http://bit.ly/29pneNO vía @babelia_elpais
-
-+ Una partida amañada (Aunque se supone que somos beneficiarios del algoritmo,
-  lo cierto es que no sabemos cómo funciona nuestro mapa cultural) ~ @ajkeen
-  http://bit.ly/29pnvA0 vía @babelia_elpais
 
 + The rise of social bots. ~ E. Ferrara et als. | Communications of the ACM
   http://bit.ly/29psr83
@@ -1915,7 +1838,7 @@ relativas a los sistemas que usa o a su contenido.
   S.R. Sefidgar http://bit.ly/29ANXnE #ITP #IsabelleHOL
 
 + Haskell Hero: un manual interactivo del lenguaje Haskell para
-  principiantes. ~ S. Novák http://bit.ly/29zVZkC #Haskell via @nihilipster
+  principiantes. ~ S. Novák http://bit.ly/29zVZkC #Haskell
 
 + Formalisation of the computation of the echelon form of a matrix in
   Isabelle/HOL. ~ J. Aransay & J. Divasón http://bit.ly/29MzGXc #IsabelleHOL
@@ -1927,7 +1850,7 @@ relativas a los sistemas que usa o a su contenido.
 + Formalization of context-free language theory. ~ M.V.M. Ramos
   http://bit.ly/29AJqRs #PhD_Thesis #ITP #Coq
 
-+ Dive into GHC: intermediate forms ~ S. Diehl @smdiehl http://bit.ly/29AQ75W
++ Dive into GHC: intermediate forms ~ S. Diehl http://bit.ly/29AQ75W
   #Haskell 
 
 + Org-Mode and writing papers: some tips ~ C.R. Donley http://bit.ly/29AN3qg
@@ -1940,7 +1863,7 @@ relativas a los sistemas que usa o a su contenido.
   e implementación. ~ G. Aranda http://bit.ly/29AIc8S #Tesis #PL
 
 + El ZEN de Javascript: a la búsqueda de la armonía del código. ~ C. Benítez
-  @EtnasSoft http://bit.ly/29zpF09 #Programación #JavaScript  
+  http://bit.ly/29zpF09 #Programación #JavaScript  
 
 + Verification of an LCF-style first-order prover with equality. ~ A.B. Jensen
   et als. http://bit.ly/29JXhtq #ITP #IsabelleHOL #Logic #Vestigium
@@ -2012,8 +1935,7 @@ relativas a los sistemas que usa o a su contenido.
 + Constructive Galois connections: Taming the Galois connection framework for
   mechanized metatheory. ~ D. Darais & als. http://bit.ly/2awLbQf #Coq
 
-+ Haskell operator tutorial. ~ M. Snoyman @snoyberg http://bit.ly/29V4Est
-  #Haskell
++ Haskell operator tutorial. ~ M. Snoyman http://bit.ly/29V4Est #Haskell
 
 + FitSpec: refining property sets for testing Haskell programs. ~ R. Matela
   http://bit.ly/2a7su7z #Haskell
@@ -2043,8 +1965,8 @@ relativas a los sistemas que usa o a su contenido.
 + Property testing using QuickCheck. ~ P. Vasconcelos http://bit.ly/29WOnmJ
   #Haskell #QuickCheck 
 
-+ A brief intro to QuickCheck. ~ Stuart Gunter @stuartgunter
-  http://bit.ly/2a9a6vi #Haskell #QuickCheck 
++ A brief intro to QuickCheck. ~ Stuart Gunter http://bit.ly/2a9a6vi #Haskell
+  #QuickCheck
 
 + Modular verification for computer security. ~ Andrew W. Appel
   http://bit.ly/2aEWmqa #Verification 
@@ -2064,11 +1986,10 @@ relativas a los sistemas que usa o a su contenido.
 + Parallel evaluation strategies for lazy data structures in Haskell. ~
   P. Totoo http://bit.ly/2aF0FC9 #Haskell #PhD_Thesis
 
-+ The most important idea in Computer Science. ~ E. Normand @ericnormand
-  http://bit.ly/29UFNcI #CompSci #Lisp #Turing 
++ The most important idea in Computer Science. ~ E. Normand
+  http://bit.ly/29UFNcI #CompSci #Lisp #Turing
 
-+ The magic of abstraction ~ E. Normand @ericnormand http://bit.ly/29UG936
-  #Programming 
++ The magic of abstraction ~ E. Normand http://bit.ly/29UG936 #Programming
 
 + Soundly proving B method formulae using typed sequent calculus. ~
   P. Halmagrand http://bit.ly/29Un8xG #Zenon 
@@ -2092,10 +2013,10 @@ relativas a los sistemas que usa o a su contenido.
   #Math #Otter 
 
 + Web meme generator: A web application for creating memes from
-  pictures. http://bit.ly/2aJr1Th #Haskell via @HaskellTopNews
+  pictures. http://bit.ly/2aJr1Th #Haskell
 
 + Aterrizando en la programación funcional. ~ @__josejuan__
-  http://bit.ly/29YTM17 #Programación #PF #Haskell vía @genbetadev 
+  http://bit.ly/29YTM17 #Programación #PF #Haskell
 
 + Refinement through restraint: bringing down the cost of verification. ~
   L. O'Connor & als. http://bit.ly/2awOQOi #IsabelleHOL
@@ -2119,12 +2040,12 @@ relativas a los sistemas que usa o a su contenido.
   funcional. ~ M. Najarro http://bit.ly/2alh1ld #Haskell #TFG
 
 + HGE2D: 2D game engine written in Haskell. ~ Martin Buck http://bit.ly/2alt2qQ
-  #Haskell #Games via @HaskellTopNews
+  #Haskell #Games
 
 + Exception safety ~ Haskell-lang.org http://bit.ly/2alsyAK #Haskell #Tutorial
 
 + A literate program implementing the microKanren relational programming
-  language. ~ seantalts http://bit.ly/2a949uU #Haskell via @HaskellTopNews
+  language. ~ seantalts http://bit.ly/2a949uU #Haskell
 
 + High-performance client-side web applications through Haskell EDSLs. ~
   A. Ekblad http://bit.ly/2awPafE #Haskell
@@ -2173,17 +2094,17 @@ relativas a los sistemas que usa o a su contenido.
 + How to twist pointers without breaking them. ~ S. Chauhan, P.P. Kurur &
   B.A. Yorgey http://bit.ly/2aFOhkx #Haskell
 
-+ Catamorphisms in 15 minutes! ~ C. Jones @lambda_jones http://bit.ly/2aTPGqI
++ Catamorphisms in 15 minutes! ~ C. Jones http://bit.ly/2aTPGqI
   #Haskell #Math
 
-+ Example driven development. ~ W. Hughes @_wilfredh http://bit.ly/2aTQQCC
++ Example driven development. ~ W. Hughes http://bit.ly/2aTQQCC
   #Emacs #Programming
 
 + Report on the NSF workshop on formal methods for security. ~ S. Chong et
   als. http://bit.ly/2aTRT5E #Formal_methods
 
 + Why writing correct software is hard ... and why math (alone) won’t help
-  us. http://bit.ly/2aTRtfJ #CompSci #Math via @puniverseco
+  us. http://bit.ly/2aTRtfJ #CompSci #Math
 
 + Formalized timed automata. ~ S. Wimmer http://bit.ly/2aBW6ww #IsabelleHOL
   #Vestigium 
@@ -2203,7 +2124,6 @@ relativas a los sistemas que usa o a su contenido.
   #ITP #Coq
 
 + Calculating functional programs. ~ J. Gibbons http://bit.ly/2aFow4P #Haskell
-  via @psygnisfive
 
 + Playing with Mersenne numbers. ~ A. Cangiano http://bit.ly/2aFoJFo #Math
   #Python 
@@ -2227,7 +2147,7 @@ relativas a los sistemas que usa o a su contenido.
   M. Eberl http://bit.ly/2b5rUs3 #ITP #IsabelleHOL #Math
 
 + Functional programming and intelligent algorithms. ~ Hans Georg Schaathun
-  @hgeorgsch http://bit.ly/2b91xBn #Haskell #AI
+  http://bit.ly/2b91xBn #Haskell #AI
 
 + Interactive proofs in higher-order concurrent separation logic. ~ R. Krebbers
   et als. http://bit.ly/2aPGiDQ #ITP #Coq
@@ -2254,7 +2174,7 @@ relativas a los sistemas que usa o a su contenido.
   allows non-programmers to create working code) http://bit.ly/2bwF42Y
 
 + Λ◦λ : Functional lattice cryptography. ~ C. Peikert & E. Crockett
-  http://bit.ly/2aWZZIP #Haskell via @smdiehl
+  http://bit.ly/2aWZZIP #Haskell
 
 + Overview of ExCAPE (Expeditions in Computer Augmented Program Engineering). ~
   R. Alur http://bit.ly/2bwMfs6 #Programming
@@ -2293,7 +2213,7 @@ relativas a los sistemas que usa o a su contenido.
   languages. ~ Peter-Michael Osera http://bit.ly/2bwSOuF #OCaml 
 
 + A theoretician's guide to the experimental analysis of algorithms. ~
-  D.S. Johnson http://bit.ly/2bjq8ng via @loveapaper
+  D.S. Johnson http://bit.ly/2bjq8ng
 
 + SeaHorn: A fully automated analysis framework for LLVM-based
   languages. http://bit.ly/2bjqKJL 
@@ -2309,7 +2229,7 @@ relativas a los sistemas que usa o a su contenido.
 + Implementing HOL in an higher order logic programming language. ~ C. Dunchev
   et als. http://bit.ly/2b0bVL6 #Logic #λProlog
 
-+ Deriving Moessner's sieve from Horner's method. ~ P. Urbak @Urbak
++ Deriving Moessner's sieve from Horner's method. ~ P. Urbak
   http://bit.ly/2b0f0L7 #Haskell #Math 
 
 + Lazy depth-first search and linear graph algorithms in Haskell. ~ D.J. King &
@@ -2336,7 +2256,7 @@ relativas a los sistemas que usa o a su contenido.
 + mueval: A secure sandboxed Haskell interpreter for pure function
   evaluation. ~ @gwern http://bit.ly/2bC1flh #Haskell 
 
-+ A grid of Moessner triangles. ~ P. Urbak @Urbak http://bit.ly/2bNZZib
++ A grid of Moessner triangles. ~ P. Urbak http://bit.ly/2bNZZib
   #Haskell #Math 
 
 + Propositions as types generalised: The Rosetta Stone ~ P. Wadler
@@ -2348,8 +2268,8 @@ relativas a los sistemas que usa o a su contenido.
 + MagicHaskeller: Automatic inductive functional programmer by systematic
   search http://bit.ly/2bO0Y1T #Haskell 
 
-+ Nuevas profesiones que puede traer la web. ~ J. Archeni @javierarcheni
-  http://bit.ly/2bOCKER vía @republicawebes  
++ Nuevas profesiones que puede traer la web. ~ J. Archeni
+  http://bit.ly/2bOCKER
 
 + How to read a scientific paper. ~ S. Keshav http://bit.ly/2bOKW87
 
@@ -2364,9 +2284,6 @@ relativas a los sistemas que usa o a su contenido.
 
 + Haskell relational record (A pragmatic embedded system for type-safe and
   composable SQL queries). ~ K. Hibino et als. http://bit.ly/2bzzM3u #Haskell
-
-+ Johann Sebastian Bach y la fascinante relación entre la música y las
-  matemáticas. ~ @vzlasinfonica http://bit.ly/2bbQPbg #Matemática #Música
 
 + Practical probabilistic programming with monads. ~ A. Scibior
   http://bit.ly/2bKoSdm #Haskell 
@@ -2395,8 +2312,7 @@ relativas a los sistemas que usa o a su contenido.
 + Formalisation and execution of Linear Algebra: theorems and algorithms. ~
   J. Divasón http://bit.ly/2bIQFrv #PhD_Thesis #ITP #IsabelleHOL #Math
 
-+ Haskell for beginners. ~ J. Moronuki @argumatronic http://bit.ly/2bIS2Xi 
-  #Haskell
++ Haskell for beginners. ~ J. Moronuki http://bit.ly/2bIS2Xi #Haskell
 
 + Analyzing programs with Z3. ~ T. Jelvis http://bit.ly/2bISDZ0 #Haskell #Z3
 
@@ -2407,9 +2323,9 @@ relativas a los sistemas que usa o a su contenido.
   http://bit.ly/2brPyPc 
 
 + QuickCheck testing for fun and profit. ~ J. Hughes http://bit.ly/2brRKq7
-  #Haskell #QuickCheck via @loveapaper
+  #Haskell #QuickCheck
 
-+ A formal study of Moessner’s sieve. ~ P. Urbak @Urbak http://bit.ly/2bIYj5c
++ A formal study of Moessner’s sieve. ~ P. Urbak http://bit.ly/2bIYj5c
   #ITP #Coq #Math
 
 + Modeling communication network requirements for an integrated clinical
@@ -2426,7 +2342,7 @@ relativas a los sistemas que usa o a su contenido.
   http://bit.ly/2bi78Vc #MsC_Thesis #IsabelleHOL 
 
 + Reading code with Emacs: controlling what's displayed. ~ Nat Knight
-  @daegemynd http://bit.ly/2bis7r9 #Emacs
+  http://bit.ly/2bis7r9 #Emacs
 
 + Functional programming by example. ~ C. Rodrigues http://bit.ly/2bkPfC2
   #Haskell #OCaml #Scheme #Clojure
@@ -2435,7 +2351,7 @@ relativas a los sistemas que usa o a su contenido.
   J. Michaelis et als. http://bit.ly/2bkeqEM #IsabelleHOL #AFP 
 
 + The benefits (not features!) of programming with Haskell. ~ Robb Shecter
-  @dogweather http://bit.ly/2bkM9UC #Haskell via @RedditHaskell
+  http://bit.ly/2bkM9UC #Haskell
 
 + Formalising in Isabelle/HOL a simplicial model for Homotopy Type Theory: a
   naive approach. ~ J. Aransay et als. http://bit.ly/2bFp7FL #IsabelleHOL
@@ -2450,7 +2366,7 @@ relativas a los sistemas que usa o a su contenido.
   http://bit.ly/2bJm392 #PhD_Thesis #Haskell 
 
 + Comment Haskell a changé ma vision de développeur sur de nombreux points et
-  notamment le typage ~ G. Bouchard @gbouchar http://bit.ly/2bQsWZ6 #Haskell 
+  notamment le typage ~ G. Bouchard http://bit.ly/2bQsWZ6 #Haskell 
 
 + Haskell, monads and purity ~ Tikhon Jelvis http://bit.ly/2bJmFvl #Haskell
 
@@ -2458,12 +2374,12 @@ relativas a los sistemas que usa o a su contenido.
   #Python
 
 + Cheat sheet for exploratory data analysis in Python. ~ M. Saraswat
-  @Manish_Saraswt http://bit.ly/2bJmMa8 #DataScience #Python 
+  http://bit.ly/2bJmMa8 #DataScience #Python 
 
 + A curious connection between continued fractions and combinatorics. ~ Dan
-  Piponi @sigfpe http://bit.ly/2bJnmEQ #Haskell #Math 
+  Piponi http://bit.ly/2bJnmEQ #Haskell #Math 
 
-+ Le compilateur GHC Haskell en version 8.0.1. ~ Guillaume Bouchard @gbouchar
++ Le compilateur GHC Haskell en version 8.0.1. ~ Guillaume Bouchard
   http://bit.ly/2bJoLLs #Haskell  
 
 + Build GHC in Vagrant. ~ Hiroshi Ogawa http://bit.ly/2bJw8CP #Haskell #Vagrant
@@ -2474,20 +2390,20 @@ relativas a los sistemas que usa o a su contenido.
 + CurryCheck: Checking properties of Curry programs. ~ M. Hanus
   http://bit.ly/2bKINdg #Curry
 
-+ Unwanted Haskell triangle. ~ C. Martin @chris__martin http://bit.ly/2bKKHKT
++ Unwanted Haskell triangle. ~ C. Martin http://bit.ly/2bKKHKT
   #Haskell
 
-+ hindent 5: One style to rule them all. ~ Chris Done @christopherdone
-  http://bit.ly/2bO5n4s #Haskell
++ hindent 5: One style to rule them all. ~ Chris Done http://bit.ly/2bO5n4s
+  #Haskell
 
 + A formalization of elementary group theory in the proof assistant Lean. ~
   A. Zipperer http://bit.ly/2bUzV2n #ITP #Lean #Math
 
-+ cabal new-build is a package manager. ~ E.Z. Yang @ezyang
-  http://bit.ly/2bzUMuF #Haskell 
++ cabal new-build is a package manager. ~ E.Z. Yang http://bit.ly/2bzUMuF
+  #Haskell
 
-+ Sets, logic, computation (An open logic text) ~ R. Zach @RrrichardZach
-  http://bit.ly/2bzXjVV #eBook #Logic  
++ Sets, logic, computation (An open logic text) ~ R. Zach http://bit.ly/2bzXjVV
+  #eBook #Logic
 
 + How to compile GHC on Windows using Stack and the new Shake-based GHC build
   system. ~ Neil Mitchell http://bit.ly/2bUE06s #Haskell
@@ -2507,7 +2423,7 @@ relativas a los sistemas que usa o a su contenido.
 + Verifier theory from axioms to unverifiability of mathematical proofs,
   software and AI. ~ R.V. Yampolskiy http://bit.ly/2c0lnOr 
 
-+ Build GHC on Windows using Hadrian and Stack. ~ A. Mokhov @andreymokhov
++ Build GHC on Windows using Hadrian and Stack. ~ A. Mokhov
   http://bit.ly/2bIitBd #Haskell
 
 + Craft3e: Code for "Haskell: the craft of functional programming", 3rd ed. ~
@@ -2516,7 +2432,7 @@ relativas a los sistemas que usa o a su contenido.
 + DataHaskell: an open source Haskell Data Science organization
   http://bit.ly/2c0o0A2 #Haskell #DataScience
 
-+ Currying is delicious. ~ J. Moronuki @argumatronic http://bit.ly/2c0p9Yb
++ Currying is delicious. ~ J. Moronuki http://bit.ly/2c0p9Yb
 
 + Function compose, type cut, and the algebra of logic. ~ X. Yuheng
   http://bit.ly/2cyZ4CU #Logic #CompSci #Scheme
@@ -2532,17 +2448,14 @@ relativas a los sistemas que usa o a su contenido.
 + Reproducible research in the mathematical sciences. ~ D. Donoho & V, Stodden
   http://stanford.io/2clI4ey #Math #CompSci
 
-+ Haskell for Data Science. ~ G. Gonzalez @GabrielG439 http://bit.ly/2cmdlxT
++ Haskell for Data Science. ~ G. Gonzalez http://bit.ly/2cmdlxT
   #Haskell #DataScience
 
-+ Problemas de satisfacción de restricciones. ~ F. Sancho @sanchocaparrini
++ Problemas de satisfacción de restricciones. ~ F. Sancho
   http://bit.ly/2cefsa2 #AI  
 
 + Formal reasoning about programs. ~ Adam Chlipala http://bit.ly/2ceeiv8 #eBook
   #Logic #CompSci #ITP #Coq
-
-+ La ciudad de Königsberg, sus siete puentes y la teoría de grafos. @Alvy
-  http://bit.ly/2cefbDU #Matemáticas
 
 + How the Königsberg bridge problem changed mathematics. ~ Dan Van der Vieren
   https://youtu.be/nZwSo4vfw6c #Math 
@@ -2550,7 +2463,7 @@ relativas a los sistemas que usa o a su contenido.
 + Proofs and programs. ~ @JohnDCook http://bit.ly/2cmCnNz #Math #CompSci
 
 + Inteligencia artificial: Colonias de hormigas. ~ Daniel Riera
-  http://bit.ly/2cmFlSh #IA vía @InformaticaMM 
+  http://bit.ly/2cmFlSh #IA
 
 + How hard, really, is SAT? ~ R.J Lipton & K.W. Regan http://bit.ly/2cegGSv
   #Logic #CompSci
@@ -2558,11 +2471,11 @@ relativas a los sistemas que usa o a su contenido.
 + A variant of the superposition calculus in Isabelle/HOL. ~ N. Peltier 
   http://bit.ly/2cpSVEb #ITP #IsabelleHOL #Logic #AFP
 
-+ Haskell basics: functions and pictures. ~ J. Breitner @nomeata
++ Haskell basics: functions and pictures. ~ J. Breitner
   http://bit.ly/2cpVKFF #Haskell #CodeWorld  
 
 + The new CIS-194 (The Haskell minicourse at the University of Pennsylvania). ~
-  J. Breitner @nomeata http://bit.ly/2cpXyy5 #Haskell 
+  J. Breitner http://bit.ly/2cpXyy5 #Haskell 
 
 + Datrik Intelligence: Advanced data analytics and predictive
   models. http://www.datrik.com #DataScience
@@ -2570,7 +2483,7 @@ relativas a los sistemas que usa o a su contenido.
 + Una de las demostraciones más bonitas de Paul Erdös. ~ http://bit.ly/2cpYNgK
   #Matemáticas
 
-+ An elegant proof from Erdös ~ J.D. Cook @JohnDCook http://bit.ly/2cq0ZVv #Math
++ An elegant proof from Erdös ~ J.D. Cook http://bit.ly/2cq0ZVv #Math
 
 + Learn you an Elm. ~ J. Eremondi & A. Neslusan http://bit.ly/2cpZy9C #Elm
 
@@ -2583,19 +2496,19 @@ relativas a los sistemas que usa o a su contenido.
 + Deriving Haskell lenses from an adjunction in the Kleisli category using
   Yoneda. ~ B, Milewski http://bit.ly/2ciUuXi #Haskell
 
-+ Why is list comprehension bad? ~ Xah Lee @xah_lee http://bit.ly/2cruk1N
++ Why is list comprehension bad? ~ Xah Lee http://bit.ly/2cruk1N
   #Programming
 
 + An algebra of synchronous atomic steps. ~ I.J. Hayes et als.
   http://bit.ly/2cqDlJJ #ITP #IsabelleHOL
 
-+ Automated reasoning and Amazon s2n. ~ Colm MacCárthaigh @colmmacc
++ Automated reasoning and Amazon s2n. ~ Colm MacCárthaigh
   http://amzn.to/2cqG8md #Cryptography #AR #Cryptol #Haskell  
 
-+ Part one: Verifying s2n HMAC with SAW. ~ J. Dodds @n1nj4
++ Part one: Verifying s2n HMAC with SAW. ~ J. Dodds
   http://bit.ly/2cEoaPt #Cryptography #AR #Cryptol #Haskell  
 
-+ Part two: Specifying HMAC in Cryptol. ~ J. Dodds @n1nj4 http://bit.ly/2cEoyO2
++ Part two: Specifying HMAC in Cryptol. ~ J. Dodds http://bit.ly/2cEoyO2
   #Cryptography #AR #Cryptol #Haskell  
 
 + DataHaskell wiki http://bit.ly/2cEqSED #Haskell #DataScience #DataHaskell
@@ -2607,15 +2520,12 @@ relativas a los sistemas que usa o a su contenido.
   A. Bauer & M. Pretnar http://bit.ly/2cqJdCV #Programming 
 
 + Understanding Plotkin's call-by-name, call-by-value and the λ-calculus. ~
-  Darryl McAdams @psygnisfive http://bit.ly/2cErOJe
+  Darryl McAdams http://bit.ly/2cErOJe
 
 + Columbia creates data set cleaner. ~ Kay Ewbank  http://bit.ly/2cqS87z
-  #DataScience via @Iprogrammerinfo
+  #DataScience
 
-+ New chapter in "Learning Haskell": Expression trees ~ @HaskellForMac
-  http://bit.ly/2cqSnz7 #Haskell
-
-+ The base of a string theory for Haskell ~ Edward Z. Yang @ezyang
++ The base of a string theory for Haskell ~ Edward Z. Yang
   http://bit.ly/2cEDU4O #Haskell 
 
 + A formal proof of the incompatibility of SD-efficiency and
@@ -2627,8 +2537,8 @@ relativas a los sistemas que usa o a su contenido.
 + HaskellStarter: A project that demonstrates getting up and running with
   Haskell. ~ Josh Cough http://bit.ly/2bZn3K5 #Haskell
 
-+ How to teach computational thinking. ~ Stephen Wolfram @stephen_wolfram
-  http://bit.ly/2bZnZhH #Education #CompSci 
++ How to teach computational thinking. ~ Stephen Wolfram http://bit.ly/2bZnZhH
+  #Education #CompSci
 
 + Emacs configurations for LaTeX | Irreal http://bit.ly/2bZp1KF #Emacs #LaTeX
 
@@ -2636,7 +2546,7 @@ relativas a los sistemas que usa o a su contenido.
   software. http://bit.ly/2bY1KE2 #Coq
 
 + How to write a package in Haskell and interact with the code inside of it. ~
-  Chris Allen @bitemyapp http://bit.ly/2bZtiOh #Haskell
+  Chris Allen http://bit.ly/2bZtiOh #Haskell
 
 + Proving non-deterministic computations in Agda. ~ S. Antoy, M. Hanus &
   S. Libby http://bit.ly/2cBBh0l #Agda #Curry 
@@ -2653,35 +2563,35 @@ relativas a los sistemas que usa o a su contenido.
 + Selene: a generic framework for model checking concurrent programs from their
   semantics in Maude. ~ A. Riesco & G. Suárez http://bit.ly/2cBBqBh #Maude 
 
-+ Huri: a Clojure library for the lazy data scientists. ~ Simon Belak @sbelak
++ Huri: a Clojure library for the lazy data scientists. ~ Simon Belak
   http://bit.ly/2c115lc #Clojure #DataScience 
 
-+ Doing data science with Clojure. ~ Simon Belak @sbelak http://bit.ly/2c2ASrf
++ Doing data science with Clojure. ~ Simon Belak http://bit.ly/2c2ASrf
   #Clojure #DataScience 
 
 + Los polinomios de Rudin-Shapiro | Café Matemático http://bit.ly/2c2BugI
   #Matemáticas 
 
-+ Intro to formal logic 2nd ed. — readers wanted! ~ Peter Smith @PeterSmith
++ Intro to formal logic 2nd ed. — readers wanted! ~ Peter Smith
   http://bit.ly/2c2BXPZ #Logic
 
 + IDRIS: Systems programming meets full dependent types. ~ E.C. Brady
-  http://bit.ly/2c2Dwxc #Idris via @SusanPotter 
+  http://bit.ly/2c2Dwxc #Idris
 
-+ Emacs configuration in 24 minutes. ~ Mohammed Ismail @tfIsmail
-  https://youtu.be/FRu8SRWuUko #Emacs 
++ Emacs configuration in 24 minutes. ~ Mohammed Ismail
+  https://youtu.be/FRu8SRWuUko #Emacs
 
-+ Example driven development. ~ Wilfred Hughes @_wilfredh http://bit.ly/2c14lwP
++ Example driven development. ~ Wilfred Hughes http://bit.ly/2c14lwP
   #Emacs #Lisp
 
 + Creating and running unit tests directly in source files with org-mode. ~
-  Frederick Giasson @fredgiasson http://bit.ly/2c14aSj #Clojure #Emacs
+  Frederick Giasson http://bit.ly/2c14aSj #Clojure #Emacs
 
 + An implementation of Deflate in Coq. ~ C.S. Senjak & M. Hofmann
   http://bit.ly/2cCh6kd #Coq
 
-+ What does Flatland have to do with Haskell? ~ Tony Fischetti @tonyfischetti
-  http://bit.ly/2cFBZLe #Haskell via @HaskellTopNews 
++ What does Flatland have to do with Haskell? ~ Tony Fischetti
+  http://bit.ly/2cFBZLe #Haskell
 
 + Formalized confluence of quasi-decreasing, strongly deterministic conditional
   TRSs. ~ T. Sternagel & C. Sternagel http://bit.ly/2cND2Ia #ITP #IsabelleHOL 
@@ -2689,29 +2599,27 @@ relativas a los sistemas que usa o a su contenido.
 + foldl-statistics: A reimplementation of the Statistics.Sample module using
   the foldl package. ~ Alex Mason http://bit.ly/2cNDXbs #Haskell 
 
-+ Working with data in Haskell. ~ Chris Done @christopherdone | FP Complete
-  http://bit.ly/2cNHDKg #Haskell #DataScience  
++ Working with data in Haskell. ~ Chris Done http://bit.ly/2cNHDKg #Haskell
+  #DataScience
 
 + A short mechanized proof of the Church-Rosser Theorem by the Z-property for
   the λβ-calculus in Nominal Isabelle. http://bit.ly/2cPsqIM #IsabelleHOL
 
-+ Applicative style programming. ~ J.L. García @jlgarhdez http://bit.ly/2cPvtAP
++ Applicative style programming. ~ J.L. García http://bit.ly/2cPvtAP
   http://bit.ly/2cPvy7o #Haskell
 
-+ El trabajo en un mundo de sistemas inteligentes. http://bit.ly/2cGOUOU vía
-  @OpenLibra 
++ El trabajo en un mundo de sistemas inteligentes. http://bit.ly/2cGOUOU
 
-+ A short Haskell FileStore tutorial. ~ M. Mayer @markuscmayer
-  http://bit.ly/2cGQVL3 #Haskell #Git #Darcs #Mercurial  
++ A short Haskell FileStore tutorial. ~ M. Mayer http://bit.ly/2cGQVL3 #Haskell
+  #Git #Darcs #Mercurial
 
-+ Emacs for Haskell. ~ M. Mayer @markuscmayer http://bit.ly/2cGQK2k #Haskell
-  #Emacs
++ Emacs for Haskell. ~ M. Mayer http://bit.ly/2cGQK2k #Haskell #Emacs
 
 + Top algorithms used by data scientists. ~ G. Piatetsky http://bit.ly/2cI2MIP
   #DataScience
 
 + Lógica formal y argumentación como disciplinas complementarias. ~ G. Palau
-  http://bit.ly/2cI6H88 #Lógica vía @OpenLibra
+  http://bit.ly/2cI6H88 #Lógica
 
 + learn-physics: Haskell code for learning physics. ~ S.N. Walck
   http://bit.ly/2cI4YzW http://bit.ly/2cI53n3 #Haskell #Physic
@@ -2729,7 +2637,7 @@ relativas a los sistemas que usa o a su contenido.
   et als. http://bit.ly/2ctUkJx #Coq 
 
 + La estética del código fuente: a la búsqueda del Arte en la Programación. ~
-  Carlos Benítez @EtnasSoft http://bit.ly/2cR2P3e #Programación 
+  Carlos Benítez http://bit.ly/2cR2P3e #Programación 
 
 + Toward a history of mathematics focused on procedures. ~ P. Blaszczyk et
   als. http://bit.ly/2cR4Uwi #Math #History 
@@ -2737,26 +2645,22 @@ relativas a los sistemas que usa o a su contenido.
 + Axiomatizing category theory in free logic. ~ C. Benzmüller & D.S. Scott
   http://bit.ly/2cfxLY8 #ITP #IsabelleHOL
 
-+ Folds and infinite lists. ~ @argumatronic http://bit.ly/2cfA51o #Haskell via
-  @StephenPiment
++ Folds and infinite lists. ~ @argumatronic http://bit.ly/2cfA51o #Haskell
 
 + Set theory and its place in the foundations of mathematics (a new look at an
   old question). ~ M. Džamonja http://bit.ly/2cfyGrA #Logic #Math
 
 + Machine-checked mathematics. ~ A. Mahboubi http://bit.ly/2ch3xEa #ITP #Math
 
-+ ¿Cómo son los científicos de datos? (I) ~ @InformaticaMM
-  http://bit.ly/2ckpxDi #DataScience
-
 + Programas, funciones y dibujos. http://bit.ly/2cinKOY #CodeWorld #Haskell
   #I1M 
 
 + Teenage Haskell. ~ Tim Docker http://bit.ly/2cib8m9 #CodeWorld #Haskell
 
-+ SAT/SMT solving in Haskell. ~ Masahiro Sakai @masahiro_sakai
-  http://bit.ly/2ciaIMw #Haskell #SAT #SMT
++ SAT/SMT solving in Haskell. ~ Masahiro Sakai http://bit.ly/2ciaIMw #Haskell
+  #SAT #SMT
 
-+ Introduction to Stack's Docker integration. ~ Yuji Yamamoto @igrep
++ Introduction to Stack's Docker integration. ~ Yuji Yamamoto
   http://bit.ly/2ckuv2H #Haskell #Stack #Docker
 
 + Mechanized analysis of a formalization of Anselm's ontological argument by
@@ -2774,7 +2678,7 @@ relativas a los sistemas que usa o a su contenido.
 + Assurance in the internet of things and for automated driving. ~ J. Rushby
   http://bit.ly/2cVo6uk #Formal_methods #IoT 
 
-+ Practical Haskell: simple file mirror (part 1). ~ M. Snoyman @snoyberg
++ Practical Haskell: simple file mirror (part 1). ~ M. Snoyman
   http://bit.ly/2ckvYWA #Haskell 
 
 + Álgebra Linear: com um pouco de Mecânica Quântica. ~ D. Krause
@@ -2783,19 +2687,16 @@ relativas a los sistemas que usa o a su contenido.
 + SECOMP Project: Efficient formally secure compilers to a tagged
   architecture. http://bit.ly/2cVs7in
 
-+ Treksit, una forma topológica de perder el tiempo ~ @Alvy
-  http://bit.ly/2d4xfOy #Juego #Matemáticas 
-
 + A proof of the halting theorem. ~ R.J Lipton & K.W. Regan
   http://bit.ly/2d4z7Xq #Logic #CompSci
 
-+ Music as code talks. ~ Chris Ford @ctford http://bit.ly/2cVzjLt #Programming
++ Music as code talks. ~ Chris Ford http://bit.ly/2cVzjLt #Programming
   #Music
 
 + Equilibrium graphs. ~ P. Cabalar, C. Pérez & G. Pérez http://bit.ly/2d4AGVd
   #Logic #ASP
 
-+ Beginning Haskell. ~ Tom Prior @priortd http://bit.ly/2d4Pljd #Haskell
++ Beginning Haskell. ~ Tom Prior http://bit.ly/2d4Pljd #Haskell
 
 + Stone algebras in Isabelle/HOL. ~ W. Guttmann http://bit.ly/2d0thsN
   #IsabelleHOL #Math #AFP 
@@ -2803,7 +2704,7 @@ relativas a los sistemas que usa o a su contenido.
 + Math-aware search engines: physics applications and overview. ~ D.C. Pineau
   http://bit.ly/2d0sdFw #Math #MKM
 
-+ Practical Haskell: simple file mirror (part 2). ~ M. Snoyman @snoyberg
++ Practical Haskell: simple file mirror (part 2). ~ M. Snoyman
   http://bit.ly/2d0tQmp #Haskell 
 
 + Social network processes in the Isabelle and Coq theorem proving
@@ -2817,13 +2718,10 @@ relativas a los sistemas que usa o a su contenido.
   framework ~ @poutsma http://bit.ly/2d5Uu9W http://bit.ly/2cAr3PU #Haskell
 
 + L'intelligence artificielle, ce n'est plus de la science-fiction. ~ Christine
-  Siméone @chrissim2 http://bit.ly/2d758xg #IA
-
-+ ¿Cómo son los científicos de datos? (y II) ~ @InformaticaMM
-  http://bit.ly/2d75Xq2 #DataScience 
+  Siméone http://bit.ly/2d758xg #IA
 
 + Hacker-proof code confirmed. ~ Kevin Hartnett | Quanta Magazine
-  http://bit.ly/2d7b2yD via @FormalFact  
+  http://bit.ly/2d7b2yD
 
 + Your first Haskell application (with Gloss) ~ Andrew Gibiansky
   http://bit.ly/2cBeT9L #Haskell #Cabal #Gloss #Game 
@@ -2831,7 +2729,7 @@ relativas a los sistemas que usa o a su contenido.
 + GIF as time paradox: between transience and permanence. http://bit.ly/2cBfR5x
   #Math #GIF #Mathematica 
 
-+ Refinement reflection: Haskell as a theorem prover. R. Jhala @RanjitJhala
++ Refinement reflection: Haskell as a theorem prover. R. Jhala
   http://bit.ly/2cBgZX3 #Haskell #LiquidHaskell #Logic 
 
 + Certification of context-free grammar algorithms. ~ D. Firsov
@@ -2863,7 +2761,7 @@ relativas a los sistemas que usa o a su contenido.
 + On the functional interpretation of OCL. ~ D. Calegari & M. Viera
   http://bit.ly/2dscbV8 #Haskell 
 
-+ List of logical lists. ~ Adolfo Neto @adolfont http://bit.ly/2d2ZlJB #Logic
++ List of logical lists. ~ Adolfo Neto http://bit.ly/2d2ZlJB #Logic
 
 + Failing faster: Overlapping patterns for property-based testing. ~ J. Fowler
   & G. Hutton http://bit.ly/2daALpZ #Haskell
@@ -2871,14 +2769,13 @@ relativas a los sistemas que usa o a su contenido.
 + Tutorial on reasoning in expressive non-classical logics with Isabelle/HOL. ~
   A. Steen, M. Wisniewski & C. Benzmüller http://bit.ly/2daBUxW #IsabelleHOL
 
-+ Big Logic: verifying the correctness of large systems. ~ J.D. Cook @JohnDCook
++ Big Logic: verifying the correctness of large systems. ~ J.D. Cook
   http://bit.ly/2dBYweo #Logic #CompSci
 
 + Sparse linear algebra datastructures and algorithms in Haskell. ~ Marco Zocca
-  @ocramz_yo http://bit.ly/2dC0HhJ #Haskell
+  http://bit.ly/2dC0HhJ #Haskell
 
-+ Total functional programming. ~ D.A.Turner http://bit.ly/2dGqvcA #Haskell via
-  @jdimov 
++ Total functional programming. ~ D.A.Turner http://bit.ly/2dGqvcA #Haskell 
 
 + Thonny: Python IDE for beginners. http://thonny.cs.ut.ee #Python
 
@@ -2903,7 +2800,7 @@ relativas a los sistemas que usa o a su contenido.
   als. http://bit.ly/2dMfhTS #Coq
 
 + ¿Se puede liberar la programación del estilo de von Neumann? ~ F. Sancho
-  @sanchocaparrini http://bit.ly/2dnOY3b #Programación 
+  http://bit.ly/2dnOY3b #Programación 
 
 + An introduction to programming and proving with dependent types in Coq. ~
   A. Chlipala http://bit.ly/2dOHGsF #Coq
@@ -2914,7 +2811,7 @@ relativas a los sistemas que usa o a su contenido.
 + Mind the gap: Addressing behavioural inconsistencies with formal methods. ~
   J.K.F. Bowles & M.B. Caminati http://bit.ly/2dMkew7 #IsabelleHOL #Z3
 
-+ Refinement reflection on ADTs: Lists are monoids. ~ R. Jhala @RanjitJhala
++ Refinement reflection on ADTs: Lists are monoids. ~ R. Jhala
   http://bit.ly/2dq5fER #Haskell #LiquidHaskell #Logic 
 
 + Intersecting chords theorem in Isabelle/HOL. ~ L. Bulwahn
@@ -2973,7 +2870,7 @@ relativas a los sistemas que usa o a su contenido.
 + The QED manifesto revisited. ~ F. Wiedijk http://bit.ly/2dG003X #RA2016
 
 + The HoTT Library: A formalization of homotopy type theory in Coq. ~ A. Bauer
-  et als. http://bit.ly/2eaczYA #ITP #Coq @HoTT
+  et als. http://bit.ly/2eaczYA #ITP #Coq #HoTT
 
 + Formalising real numbers in homotopy type theory. ~ G. Gilbert
   http://bit.ly/2edb6ku #ITP #Coq #Math
@@ -2990,20 +2887,19 @@ relativas a los sistemas que usa o a su contenido.
 + Stable matching in Isabelle/HOL. ~ Peter Gammie http://bit.ly/2ewWhJA
   #IsabelleHOL #AFP 
 
-+ Persistent data structures. ~ G. Kunigami @kunigami http://bit.ly/2ewoC2G
++ Persistent data structures. ~ G. Kunigami http://bit.ly/2ewoC2G
   #OCaml
 
 + A simple embedded probabilistic programming language. ~  Jared Tobin
-  @jaredtobin http://bit.ly/2ewucC5 #Haskell
+  http://bit.ly/2ewucC5 #Haskell
 
 + Efficient certified resolution proof checking.~ L. Cruz-Filipe et
   als. http://bit.ly/2e5Yvwe #ITP #Coq #Logic
 
-+ A taste of Haskell. ~ Dennis Felsing http://bit.ly/2e607Ga #Haskell via
-  @eisokant 
++ A taste of Haskell. ~ Dennis Felsing http://bit.ly/2e607Ga #Haskell 
 
 + Calling Python libraries from Haskell. ~ John Millikin http://bit.ly/2e5ZWuj
-  #Python #Haskell via @deech
+  #Python #Haskell
 
 + Verifying Haskell programs using constructive type theory. ~ A. Abel at
   als. http://bit.ly/2e5XfsX #Haskell #Agda
@@ -3028,10 +2924,7 @@ relativas a los sistemas que usa o a su contenido.
 + Florida Tech, CS: Functional programming (Fall 2016). ~ Ryan Stansifer
   http://bit.ly/2f1SYrz #Haskell 
 
-+ Inteligencia artificial: los Estados Unidos tienen un plan. ~ @Alvy
-  http://bit.ly/2f1XgiA #IA
-
-+ Building small native languages with Haskell. ~ S. Diehl @smdiehl
++ Building small native languages with Haskell. ~ S. Diehl
   https://t.co/zvMNQz9pFt #Haskell
 
 + Efficient certified resolution proof checking. ~ L. Cruz-Filipe,
@@ -3064,7 +2957,7 @@ relativas a los sistemas que usa o a su contenido.
   X. Wang http://bit.ly/2frOQ50 #Programming
 
 + Haskell vs. other programming languages. ~ http://bit.ly/2f8VjTO ~ S. Diehl
-  @smdiehl #Programming Haskell
+  #Programming Haskell
 
 + La charla de un profesor de universidad que puso en pie a todo un
   auditorio. http://huff.to/2fD7hU9
@@ -3075,11 +2968,10 @@ relativas a los sistemas que usa o a su contenido.
 + Write your own Theorem Prover. ~ P. Scott http://bit.ly/2fgwuFB
   http://bit.ly/2fgvP7a #Haskell #Logic 
 
-+ Covariance and contravariance. ~ M. Snoyman @snoyberg | FP Complete
-  http://bit.ly/2fEydTN #Haskell
++ Covariance and contravariance. ~ M. Snoyman http://bit.ly/2fEydTN #Haskell
 
-+ Exceptions best practices in Haskell. ~ M. Snoyman @snoyberg | FP Complete
-  http://bit.ly/2fEuoOa #Haskell 
++ Exceptions best practices in Haskell. ~ M. Snoyman http://bit.ly/2fEuoOa
+  #Haskell
 
 + The best Functional Programming blogs and how to get started. ~ Medium
   http://bit.ly/2fEveL4 #FP #Haskell #Scala #Clojure #Elixir #Erlang #FSharp
@@ -3108,9 +3000,6 @@ relativas a los sistemas que usa o a su contenido.
 
 + A brief presentation of OCaml. ~ S. Cruanes http://bit.ly/2fGUOiy #OCaml
 
-+ Los mejores libros que puedes leer sobre matemáticas. ~ @Alvy
-  http://bit.ly/2fM2WOH #Matemáticas 
-
 + Popular Math books at Goodreads. http://bit.ly/2fuvuLN #Math #Books
 
 + Coming to terms with quantified reasoning. ~ L. Kovács, S. Robillard &
@@ -3124,8 +3013,8 @@ relativas a los sistemas que usa o a su contenido.
 + What Artificial Intelligence can and can’t do right now. ~ Andrew Ng
   http://bit.ly/2euFjMX #AI
 
-+ Functional programming in Clojure. ~ Troy Miles @therockncoder
-  http://bit.ly/2euCEmb #FP #Clojure
++ Functional programming in Clojure. ~ Troy Miles http://bit.ly/2euCEmb #FP
+  #Clojure
 
 + Contributions to a computational theory of policy advice and avoidability. ~
   N. Botta, P. Jansson & C. Ionescu http://bit.ly/2f60tgl #Idris
@@ -3157,14 +3046,14 @@ relativas a los sistemas que usa o a su contenido.
 + Haskell numeric types: quick reference. ~ J. Rosenbluth http://bit.ly/2fEVGpA
   #Haskell
 
-+ ¿Puede existir matemática sin computación? ~ F. Sancho @sanchocaparrini
++ ¿Puede existir matemática sin computación? ~ F. Sancho
   http://bit.ly/2fJBEKu #Matemáticas #Computación
 
 + Monte Carlo connection prover. ~ M. Färber, C. Kaliszyk & J. Urban
   https://arxiv.org/abs/1611.05990 #ATP #ML #leanCoP
 
-+ Comparative concurrency with Haskell. ~ M. Snoyman @snoyberg | FP Complete
-  http://bit.ly/2fXx8FY #Haskell 
++ Comparative concurrency with Haskell. ~ M. Snoyman http://bit.ly/2fXx8FY
+  #Haskell
 
 + A Haskell study syllabus (Learn professional-grade Haskell coding practices
   quickly and efficiently). ~ FP Complete http://bit.ly/2fMKhnn #Haskell 
@@ -3184,30 +3073,30 @@ relativas a los sistemas que usa o a su contenido.
 + Proving opacity of a pessimistic STM. ~ S. Doherty et
   als. http://bit.ly/2fMOwQ3 #IsabelleHOL
 
-+ Haskell for dummies. ~ M. Snoyman @snoyberg http://bit.ly/2g1SK3O #Haskell
++ Haskell for dummies. ~ M. Snoyman http://bit.ly/2g1SK3O #Haskell
 
 + SAW provides the ability to formally verify properties of code written in C,
   Java, and Cryptol. http://bit.ly/2g1RNsh #Haskell #Formal_verification
 
 + Hackage dependency monitor. http://bit.ly/2g2KjVQ #Haskell
 
-+ Donald Knuth was the first Erlang programmer. ~ A. Videla @old_sound
++ Donald Knuth was the first Erlang programmer. ~ A. Videla
   http://bit.ly/2fQUSOd #Programming #Erlang
 
 + Boolean Pythagorean triples problem. ~ Wikipedia http://bit.ly/2fFHwle #Math
   #Logic #CompSci
 
-+ Spreading the Gospel of Haskell. ~ M. Snoyman @snoyberg http://bit.ly/2fIbJzP
++ Spreading the Gospel of Haskell. ~ M. Snoyman http://bit.ly/2fIbJzP
   #Haskell
 
 + Máximo producto en la partición de un número (2). ~ Antonio Roldán
-  @Connumeros http://bit.ly/2fIgA4j #Matemáticas #Programación 
+  http://bit.ly/2fIgA4j #Matemáticas #Programación 
 
 + Programming and mathematical thinking. ~ A.M. Stavely http://bit.ly/2fIh5uY
-  #eBook #Math #Programming #Python vía @OpenLibra
+  #eBook #Math #Programming #Python
 
 + The coder’s apprentice: learning programming with Python 3. ~ P. Spronck
-  http://bit.ly/2fIfmGh #eBook #Programming #Python vía @OpenLibra 
+  http://bit.ly/2fIfmGh #eBook #Programming #Python
 
 + Towards certified compilation of financial contracts. ~ D. Annenkov &
   M. Elsman http://bit.ly/2feEUOU #Coq #Haskell 
@@ -3239,13 +3128,13 @@ relativas a los sistemas que usa o a su contenido.
 + Fermat numbers are coprime. ~ ProofWiki http://bit.ly/2g5eWfZ #Math
 
 + Foldl: Composable, streaming, and efficient left folds. ~ G. Gonzalez
-  @GabrielG439 http://bit.ly/2g5zHs7 #Haskell 
+  http://bit.ly/2g5zHs7 #Haskell 
 
 + Libro de exámenes de programación funcional con Haskell (versión del 27 de
   noviembre de 2016). http://bit.ly/2fTn5RV #Haskell #I1M2016 
 
 + An interactive tutorial on numerical optimization. ~ Ben Frederickson
-  @benfrederickson http://bit.ly/2g7c7et #Math #Javascript
+  http://bit.ly/2g7c7et #Math #Javascript
 
 + Simple unsolved math problem: How often does an integer occur as a binomial
   coefficient? ~ W. David Joyner http://bit.ly/2g7f6mZ #Math
@@ -3264,8 +3153,8 @@ relativas a los sistemas que usa o a su contenido.
 + The generic-random library, part 1: simple generic Arbitrary instances. ~
   Brent Yorgey http://bit.ly/2g9Zuzf #Haskell 
 
-+ Haskell documentation, 2016 update. ~ M. Snoyman @snoyberg
-  http://bit.ly/2gahmKg #Haskell  
++ Haskell documentation, 2016 update. ~ M. Snoyman http://bit.ly/2gahmKg
+  #Haskell
 
 + Group theory in Haskell. https://github.com/hubbards/GroupTheory #Haskell
   #Math  
@@ -3280,17 +3169,16 @@ relativas a los sistemas que usa o a su contenido.
 + Implementation of Bourbaki's Elements of Mathematics in Coq: Part two, from
   natural numbers to real numbers. ~ J. Grimm http://bit.ly/2gsHL65 #Coq #Math
 
-+ Beautiful folds are practical, too. ~ G. Gonzalez @GabrielG439 [Slides]
++ Beautiful folds are practical, too. ~ G. Gonzalez [Slides]
   http://bit.ly/2ghBozI [Video] http://bit.ly/2ghKI6Q #Haskell
 
-+ Beautiful folds in Scala. ~ A. Warski @adamwarski http://bit.ly/2gvLm3u
-  #Scala 
++ Beautiful folds in Scala. ~ A. Warski http://bit.ly/2gvLm3u #Scala
 
-+ Scala, the language for Data Science. ~ D. Arenas @darenasc
-  http://bit.ly/2ghC9sz #Scala #DataScience
++ Scala, the language for Data Science. ~ D. Arenas http://bit.ly/2ghC9sz
+  #Scala #DataScience
 
-+ Do you like Scala? Give Haskell a try! ~ P. Kant @philipp_kant | FP Complete
-  http://bit.ly/2gvKiwH #Haskell #Scala
++ Do you like Scala? Give Haskell a try! ~ P. Kant http://bit.ly/2gvKiwH
+  #Haskell #Scala
 
 + Introduction to functional reactive programming (FRP), Yampa, and Arrows. ~
   H. Nilsson http://bit.ly/2gysl09 #FRP #Haskell
@@ -3307,8 +3195,7 @@ relativas a los sistemas que usa o a su contenido.
 + Course: Logic and Computation. ~ Prabhakar Ragde http://bit.ly/2g5csdP #ITP
   #Logic #Racket #Agda #Coq
 
-+ An algebra of graphs. ~ Andrey Mokhov @andreymokhov http://bit.ly/2g4HG9H
-  #Haskell #Math 
++ An algebra of graphs. ~ Andrey Mokhov http://bit.ly/2g4HG9H #Haskell #Math
 
 + Learn Quantum Mechanics with Haskell. ~ Scott N. Walck http://bit.ly/2h16kFM
   #Haskell #Physics
@@ -3326,7 +3213,7 @@ relativas a los sistemas que usa o a su contenido.
 + Denotational semantics of IMP without fixed points. ~ Jeremy Siek
   http://bit.ly/2hfzxws http://bit.ly/2hfy8X2 #Coq
 
-+ Liquid Haskell: Haskell as a theorem prover. ~ Niki Vazou @nikivazou
++ Liquid Haskell: Haskell as a theorem prover. ~ Niki Vazou
   http://bit.ly/2hfvUHc #PhD_Thesis #Haskell 
 
 + A formal proof of a Unix path resolution algorithm. ~ R. Chen, M. Clochard,
@@ -3358,7 +3245,7 @@ relativas a los sistemas que usa o a su contenido.
 + Plotting a weight chart using Emacs Org-Mode and Gnuplot. ~ Praveen Kumar
   http://bit.ly/2gz6zJA #Emacs #GnuPlot
 
-+ ¡Olvida OO y a pensar funcionalmente! ~ Javier Onielfa @onielfadev [Vídeo]
++ ¡Olvida OO y a pensar funcionalmente! ~ Javier Onielfa [Vídeo]
   https://youtu.be/Q3UqTSWPZ8E #Haskell
 
 + Formally verified differential dynamic logic. ~ B. Bohre et
@@ -3382,7 +3269,7 @@ relativas a los sistemas que usa o a su contenido.
   #IsabelleHOL 
 
 + Haskell in the Datacentre: how we tuned the GHC runtime to make Haskell run
-  better at scale. ~ Simon Marlow @simonmar http://bit.ly/2hI2wfE
+  better at scale. ~ Simon Marlow http://bit.ly/2hI2wfE
 
 + A fun refactoring example in Haskell. ~ Pascal Hartig http://bit.ly/2hIcaPj
   #Haskell 
@@ -3426,16 +3313,15 @@ relativas a los sistemas que usa o a su contenido.
 
 + Music and measure theory. [Video] https://youtu.be/cyW5z-M2yzw #Math #Music
 
-+ 8 ways to report errors in Haskell. ~ Eric Kidd @ericmkidd
-  http://bit.ly/2hbyyvD #Haskell
++ 8 ways to report errors in Haskell. ~ Eric Kidd http://bit.ly/2hbyyvD
+  #Haskell
 
 + hs-logo: an interpreter for the Logo Programming Language, written in
   Haskell. http://bit.ly/2hbASDa #Haskell #Logo
 
-+ Data frames for tabular data. ~ Anthony Cowley @a_cowley
-  http://bit.ly/2hbEPI3 #Haskell 
++ Data frames for tabular data. ~ Anthony Cowley http://bit.ly/2hbEPI3 #Haskell
 
-+ Reflecting on Haskell in 2016. ~ Stephen Diehl @smdiehl http://bit.ly/2hf1tyX
++ Reflecting on Haskell in 2016. ~ Stephen Diehl http://bit.ly/2hf1tyX
   #Haskell 
 
 + Formalization and assessment of Lowe’s modal ontological argument. ~
@@ -3472,21 +3358,20 @@ relativas a los sistemas que usa o a su contenido.
 
 + Quo Vadis Program Verification. ~ Krzysztof R. Apt http://bit.ly/2iD3GJL
 
-+ Post-Prism Data Science Venn Diagram. ~ Joel Grus @joelgrus
-  http://bit.ly/2hoSBqK #DataScience  
++ Post-Prism Data Science Venn Diagram. ~ Joel Grus http://bit.ly/2hoSBqK
+  #DataScience
 
-+ Haskell-style Fibonacci in Python. ~ Joel Grus @joelgrus
-  http://bit.ly/2iEJ43L #Haskell #Python 
++ Haskell-style Fibonacci in Python. ~ Joel Grus http://bit.ly/2iEJ43L #Haskell
+  #Python
 
-+ What Python can learn from Haskell. ~ Bob Ippolito @etrepum
-  http://bit.ly/1mGh9aQ #Python #Haskell
++ What Python can learn from Haskell. ~ Bob Ippolito http://bit.ly/1mGh9aQ
+  #Python #Haskell
 
 + The Zen of Python. http://bit.ly/2hoPvTI #Python
 
 + The Zen of Haskell. http://bit.ly/2hp4IUz #Haskell
 
-+ How pythonic is Haskell? ~ Mike Meyer @mikewmeyer http://bit.ly/2hp5OzX
-  #Haskell #Python  
++ How pythonic is Haskell? ~ Mike Meyer http://bit.ly/2hp5OzX #Haskell #Python
 
 + Haskell gets static typing right. ~ Andres Löh http://bit.ly/2hp0lsK #Haskell
 
@@ -3501,10 +3386,10 @@ relativas a los sistemas que usa o a su contenido.
 + Computational algebra system in Haskell. ~ Hiromi Ishii http://bit.ly/2htEFf3
   #Haskell #Math 
 
-+ The idea of Lisp. ~  Eric Normand @ericnormand http://bit.ly/2htOslf #Lisp
++ The idea of Lisp. ~  Eric Normand http://bit.ly/2htOslf #Lisp
 
-+ The next 700 safe tactic languages. ~ B. Ziliani @BetaZiliani et
-  als. http://bit.ly/2hveNja #Coq 
++ The next 700 safe tactic languages. ~ B. Ziliani et
+  als. http://bit.ly/2hveNja #Coq
 
 + Computerized verification of formal reconstructions of Anselm’s argument by
   Eder and Ramharter. ~ L. Grätz & F. Schütz http://bit.ly/2it6ZTG #IsabelleHOL
@@ -3512,7 +3397,7 @@ relativas a los sistemas que usa o a su contenido.
 + Fiction as model theory. ~ Robin K. Hill  http://bit.ly/2hyXihQ #Logic
 
 + Software project maintenance is where Haskell shines. ~ Chris Done
-  @christopherdone | FP Complete http://bit.ly/2iQ54c5 #Haskell
+  http://bit.ly/2iQ54c5 #Haskell
 
 + F-algebras or: how I learned to stop worrying and love the type system. ~
   Anthony Burzillo http://bit.ly/2iQ5orj #Haskell
