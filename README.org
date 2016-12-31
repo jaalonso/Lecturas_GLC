@@ -9,23 +9,11 @@ relativas a los sistemas que usa o a su contenido.
 
 ** Enero 2016
 
-*** 01-Ene-16
-
 + Categorical monads and computer programming. ~ N. Benton
   http://bit.ly/1MyraTg #Math #CompSci
 
-+ #Exercitium: Soluciones del problema "Inserciones por posición"
-  http://bit.ly/1NITpCz #Haskell #I1M2015
-
-+ #Exercitium: Enunciado del problema de hoy: "Suma con redondeos"
-  http://bit.ly/1Vlslwf #Haskell #I1M2015 
-
-*** 02-Ene-16
-
-+ Answer Sets and the Language of Answer Set Programming. ~ V. Lifschitz
++ Answer sets and the language of answer set programming. ~ V. Lifschitz
   http://bit.ly/1SoByUO #ASP #Declarative_programming
-
-*** 03-Ene-16
 
 + Formal proof of soundness for an RL prover. ~ A. Arusoaie et als. 
   http://bit.ly/1SoClVH #ITP #Coq
@@ -39,9 +27,6 @@ relativas a los sistemas que usa o a su contenido.
 + Introduction to ACL2. ~ M. Kaufmann [Slides] http://bit.ly/1ZHohc0 
   #Logic #ITP #ACL2
 
-+ #Vestigium: Fourier series formalization in ACL2(r). http://bit.ly/1ZHq2WG 
-  #ITP #ACL2 #Math
-
 + The table monad in Haskell. ~ A. Vandenbroucke, T. Schrijvers & F. Piessens
   http://bit.ly/1kBZpm4 #Haskell
 
@@ -51,16 +36,8 @@ relativas a los sistemas que usa o a su contenido.
 + A sample implementation of L-systems in Haskell. ~ F. Allberg 
   http://bit.ly/1kC2YsB #Haskell
 
-*** 04-Ene-16
-
 + Fixed points for Markov decision processes. ~ J. Hölzl http://bit.ly/1SoDxsn
   #ITP #Isabelle_HOL
-
-+ #Exercitium: Soluciones de "Operación sobre todos los pares"
-  http://bit.ly/1Si3k5q. #Haskell #I1M2015
-
-+ #Exercitium: Enunciado de "2016 es un número práctico"
-  http://bit.ly/1YYGWTS. #Haskell #I1M2015
 
 + Plover: High-level embedded linear algebra programming in Haskell. 
   http://bit.ly/1PaDqet #Haskell
@@ -71,105 +48,34 @@ relativas a los sistemas que usa o a su contenido.
 + The rsync algorithm: Just playing with the ideas in rsync with Haskell  ~
   R. Muthukrishnan http://bit.ly/1muxYfX http://bit.ly/1muy4Eo #Haskell
 
-+ "Simplicity and clarity are first and most important since almost everything
-  else follows from them" - Kernighan & Pike in the book "The Practice of
-  programming".
-
 + Data vs theory: the mathematical battle for the soul of physics. ~
   D.H. Bailey & J.M. Borwein http://huff.to/1OFfoHU via @HuffPostScience
-
-+ #Vestigium: A short Isabelle/HOL tutorial for the functional
-  programmer. http://bit.ly/1IM5Y1i #Isabelle_HOL #RA2015
-
-*** 05-Ene-16
 
 + A computationally surveyable proof of the Curve25519 group axioms. ~
   D.M. Russinoff http://bit.ly/1SoDQU1 #ITP #ACL2
 
-+ #Exercitium: Soluciones de "Reconocimiento de anterior"
-  http://bit.ly/1VDXGdt #Haskell #I1M2015
-
-+ #Exercitium: Enunciado de "Puntos en una región"
-  http://bit.ly/1VDXjj9 #Haskell #I1M2015
-
-+ #Vestigium: Formalization of a Newton series representation of
-  polynomials. http://bit.ly/1OwxQqF #ITP #Coq #Math
-
 + Logique propositionnelle, P, NP. ~ J. Goubault-Larrecq http://bit.ly/tyZgWv 
   #Logic
-
-+ December 2015 1HaskellADay problems and solutions. ~ @geophf | Typed Logic
-  http://bit.ly/1PK6WfU #Haskell #1HaskellADay
-
-*** 06-Ene-16
 
 + VPHL: A verified partial-correctness logic for probabilistic programs ~
   R. Rand & S. Zdancewic http://bit.ly/1SoEcK6 #ITP #Coq
 
-*** 07-Ene-16
-
 + Algebraic numbers in Isabelle/HOL ~ R. Thiemann & A. Yamada
   http://bit.ly/1SoEAIF #ITP #Isabelle_HOL #AFP
-
-+ #Exercitium: Soluciones de "Elementos óptimos"
-  http://bit.ly/1IS22MB #Haskell #I1M2015 
-
-+ #Exercitium: Enunciado de " Sucesión de suma de cuadrados de los dígitos"
-  http://bit.ly/1MV1PTG #Haskell #I1M2015 
-
-+ #Exercitium: Soluciones de "Suma con redondeos"
-  http://bit.ly/1MV1LmO #Haskell #I1M2015 
-
-+ #Exercitium: Enunciado de "Fórmula dual"
-  http://bit.ly/1ZJWEiy #Haskell #I1M2015 
 
 + Emacs org-mode examples and cookbook. ~ E. Neilsen
   http://1.usa.gov/1SCjiHE #Emacs
 
-+ Postdocs at Tulane on semantics of quantum programming
-  languages. http://bit.ly/1SCm8fI #PostDoc #CompSci 
-
-*** 08-Ene-16
-
 + Pour un raffinement spatio-temporel tuilé ~ S. Archipoff & D. Janin
   http://bit.ly/1kBZGWc #Haskell
 
-+ #Exercitium: Enunciado de "La función indicatriz de Euler"
-  http://bit.ly/1kRgYPi #Haskell #I1M2015 
-
-+ #Exercitium: Soluciones de "Suma con redondeos"
-  http://bit.ly/1MV1LmO #Haskell #I1M2015 
-
-+ #Vestigium: Software component design with the B method: a formalization in
-  Isabelle/HOL. http://bit.ly/1Pitaks #Isabelle_HOL
-
-+ Programmer's Learning Machine, an integrated educational software dedicated
++ Programmer's learning machine, an integrated educational software dedicated
   to the learning and teaching of #programming. http://bit.ly/1PiuzaL
-
-*** 09-Ene-16
-
-+ Engineering SAT applications. ~ C. Zielke http://bit.ly/1kC0YRa 
-  #PhD_Thesis #Logic #SAT
 
 + Lazy dynamic programming. ~ T. Jelvis http://bit.ly/1kUpUU4 #Haskell
 
 + The science of deep specification. http://bit.ly/1kUqHnR http://deepspec.org 
   #ITP #Coq
-
-+ ERC project "RustBelt" on foundations for Rust -- Postdoc and PhD positions
-  available! http://bit.ly/1Pk6osr #PostDoc #PhD #CompSci
-
-+ #I1M2015: El triángulo de Floyd. http://bit.ly/1S9X4NS #Haskell
-
-+ #I1M2015: El juego del Nim y las funciones de entrada/salida. 
-  http://bit.ly/1S9XuUl #Haskell
-
-+ #I1M2015: Cálculo del número pi mediante el método de Montecarlo. 
-  http://bit.ly/1UEAzON #Haskell
-
-+ #I1M2015: Mayorías parlamentarias. http://bit.ly/1UEAWJk #Haskell #QuickCheck
-
-*** 10-Ene-16
 
 + High-level functional properties of bit-level programs: Formal specifications
   and automated proofs ~ C. Dross et als. http://bit.ly/1kC1iiD #Why3
@@ -177,87 +83,36 @@ relativas a los sistemas que usa o a su contenido.
 + Using Elm to create a fun game in just five days. ~ K. Wilcke & A. Kuzmin
   http://zln.do/1JD47Mc #Elm
 
-*** 11-Ene-16
-
 + A Coq library for internal verification of running-times. ~ J. McCarthy et
   als. http://bit.ly/1kC1NsZ #Coq
-
-+ #Exercitium: Soluciones de "2016 es un número práctico"
-  http://bit.ly/1TOSWjY #Haskell #I1M2015 
-
-+ #Exercitium: Enunciado de "Parte libre de cuadrados y parte cuadrada de un
-  número" http://bit.ly/1TOSVwC #Haskell #I1M2015 
 
 + Hangman game exercise from Haskell programming from first principles by Julie
   Moronukie and Christopher Allen. http://bit.ly/1TOSySA #Haskell
 
 + Diagrams quick start tutorial. http://bit.ly/1K9IMVO #Haskell #Diagram
 
-*** 12-Ene-16
-
 + Higher-order representation predicates in separation logic. ~ A. Charguéraud
   http://bit.ly/1kC2d2y #Coq
-
-+ #Exercitium: Soluciones de "Puntos en una región"
-  http://bit.ly/1ZhAqCx #Haskell #I1M2015 
-
-+ #Exercitium: Enunciado de "Cambios de signo"
-  http://bit.ly/1ZhAuly #Haskell #I1M2015 
-
-+ Postdoc position at Penn on the DeepSpec project. http://bit.ly/1ZhC4Ux 
-  #PostDoc #CompSci
-
-*** 13-Ene-16
 
 + Semi-intelligible Isar proofs from machine-generated proofs. ~
   J.C. Blanchette et als. http://bit.ly/1PitZts #ITP # ATP #Isabelle_HOL 
 
-+ #Exercitium: Soluciones de "Sucesión de suma de cuadrados de los dígitos"
-  http://bit.ly/1Q5gZMF #Haskell #I1M2015  
-
-+ #Exercitium: Enunciado de "Puntos visibles en la cuadrícula de un plano"
-  http://bit.ly/1l0rRhN #Haskell #I1M2015 
-
 + Elm in the real world. ~ O. Hanhinen http://bit.ly/1RloTCI #FP #Elm
-
-+ #I1M2015: Libro con las soluciones de las 17 primeras relaciones de
-  ejercicios de programación funcional con #Haskell http://bit.ly/1OicMmg
-
-*** 14-Ene-16
 
 + Verified representations of Landau’s "Grundlagen" in the λδ family and in the
   calculus of constructions. ~ F. Guidi http://bit.ly/1RBdjBY #ITP #Coq
 
-+ #Exercitium: Soluciones de "Fórmula dual"
-  http://bit.ly/1P2bHCz #Haskell #I1M2015 
-
-+ #Exercitium: Enunciado de "Lista tautológica de literales"
-  http://bit.ly/1IYVjjT #Haskell #I1M2015 
-
 + Free type theory, programming language and functional programming books ~
   steshaw http://steshaw.org/plt 
-
-*** 15-Ene-16
 
 + Formal analysis of geometrical optics using theorem proving. ~ M.U. Siddique
   http://bit.ly/1RBdU6V #PhD_Thesis #HOL_Light
 
-+ #Exercitium: Soluciones de "La función indicatriz de Euler"
-  http://bit.ly/1OlOO9P #Haskell #I1M2015  
-
-+ #Exercitium: Enunciado de "Huecos maximales entre primos"
-  http://bit.ly/1IYW64t #Haskell #I1M2015  
-
 + Postdoctoral and PhD positions in LFCS on graph databases, provenance, and
   programming languages. http://bit.ly/1Zztq9z #PostDoc #CompSci
 
-*** 16-Ene-16
-
 + Certification of programs with computational effects. ~ B. Ekici
   http://bit.ly/1Sbfcqy #PhD_Thesis #ITP #Coq
-
-+ #I1M2015: Ejercicios sobre vectores y matrices en Haskell. 
-  http://bit.ly/1OnYxfR #Haskell #Matemáticas
 
 + Efficient amortised and real-time queues in Haskell. ~ E. de Vries 
   http://bit.ly/1JQtpXn #Haskell
@@ -273,79 +128,26 @@ relativas a los sistemas que usa o a su contenido.
 + Functional programming, abstraction,  names. ~ Stephen Diehl @smdiehl
   http://bit.ly/1PhGntr #Programming #Haskell #Mat
 
-*** 17-Ene-16
-
 + On mathematical proving. ~ P. Stefaneas & I.M. Vandoulakis
   http://bit.ly/1Sbgimm #Math #Agents #Events 
-
-+ #Exercitium: Soluciones de "Parte libre de cuadrados y parte cuadrada de un
-  número" http://bit.ly/1TOSVwC #Haskell #I1M2015 
-
-+ #Exercitium: Enunciado de "Primos que contienen al 2016"
-  http://bit.ly/1Qhawhy #Haskell #I1M2015 
-
-*** 18-Ene-16
 
 + Formal verification of stability properties of cyber-physical systems. ~
   M. Chan et als. http://bit.ly/1SbgulE #ITP #Coq
 
-*** 19-Ene-16
-
 + Types, abstraction and parametric polymorphism in higher-order logic. ~
   O. Kunčar http://bit.ly/1SbgFNB #PhD_Thesis #Isabelle_HOL
-
-+ #Exercitium: Soluciones de "Cambios de signo"
-  http://bit.ly/1S1svIW #Haskell #I1M2015
-
-+ #Exercitium: Enunciado de "Relleno de matrices"
-  http://bit.ly/1S1sZil #Haskell #I1M2015
-
-*** 20-Ene-16
 
 + Liouville numbers in Isabelle/HOL. ~ M. Eberl http://bit.ly/1UGtg9t 
   #ITP #Math #Isabelle_HOL #AFP
 
-+ #Exercitium: Soluciones de "Puntos visibles en la cuadrícula de un plano"
-  http://bit.ly/1ZAkETm #Haskell #I1M2015 
-
-+ #Exercitium: Enunciado de "Antiimágenes en una función creciente"
-  http://bit.ly/1ZAkNGp #Haskell #I1M2015
-
-+ Postdoc position on hardware verification at NTU
-  Singapore. http://bit.ly/1ltVFDH #PostDoc #CompSci 
-
-+ Postdoc position on security protocol verification at NTU
-  Singapore. http://bit.ly/1ltVUP1 #PostDoc #CompSci 
-
-+ Descubierto el mayor número primo hasta ahora, con 22 millones de
-  dígitos. http://bit.ly/1T3jVdr 
-
 + Prime number with 22 million digits is the biggest ever
   found. http://bit.ly/1T3kVyg #Math via @newscientist
-
-*** 21-Ene-16
 
 + Basic geometric properties of triangles. ~ M. Eberl http://bit.ly/1Sbhx4R 
   #ITP #Math #Isabelle_HOL #AFP
 
-+ #Exercitium: Soluciones de "Lista tautológica de literales"
-  http://bit.ly/1Pjkdx2 #Haskell #I1M2015 
-
-+ #Exercitium: Enunciado de "Números belgas"
-  http://bit.ly/1PjkGiY #Haskell #I1M2015 
-
-*** 22-Ene-16
-
 + The divergence of the prime harmonic series. ~ M. Eberl
   http://bit.ly/1kXaG0x #ITP #Math #Isabelle_HOL #AFP
-
-+ #Exercitium: Soluciones de "Huecos maximales entre primos"
-  http://bit.ly/1nqdBAW #Haskell #I1M2015 
-
-+ #Exercitium: Enunciado de "Sumas digitales de primos consecutivos"
-  http://bit.ly/1NowoBi #Haskell #I1M2015 
-
-*** 23-Ene-16
 
 + Descartes' rule of signs. ~ M. Eberl http://bit.ly/1OHYzkb #ITP #Math 
   #Isabelle_HOL #AFP
@@ -356,49 +158,17 @@ relativas a los sistemas que usa o a su contenido.
 + Thinking about how and why we prove. ~ Evelyn Lamb
   http://bit.ly/1WDxz73 #Logic #Math #CompSci #ITP
 
-*** 24-Ene-16
-
 + Cardinality of number partitions in Isabelle/HOL. ~ L. Bulwahn
   http://bit.ly/1ZzvcaG #ITP #Isabelle_HOL #AFP
 
 + Course notes equational programming: Lambda calculus. ~ Femke van Raamsdonk
   http://bit.ly/1KylTvw
 
-*** 25-Ene-16
-
-+ #Exercitium: Soluciones de "Primos que contienen al 2016"
-  http://bit.ly/1SGGsO6 #Haskell #I1M2015 
-
-+ #Exercitium: Enunciado de "Serie de Thue-Morse"
-  http://bit.ly/1SGGsxm #Haskell #I1M2015 
-
-*** 26-Ene-16
-
 + A theorem prover for quantum Hoare logic and its applications. ~ T. Liu et
   als. http://bit.ly/1RKlBcB #ITP #Isabelle_HOL
 
-+ #Exercitium: Soluciones de "Relleno de matrices"
-  http://bit.ly/1S1sZil #Haskell #I1M2015 
-
-+ #Exercitium: Enunciado de "Conjunto de funciones"
-  http://bit.ly/1jRjZPM #Haskell #I1M2015
-
-*** 27-Ene-16
-
 + A formally verified proof of the central limit theorem. ~ L. Serafin
   http://bit.ly/1SiMym9  #ITP #Math #Isabelle_HOL
-
-+ #Exercitium: Soluciones de "Antiimágenes en una función creciente"
-  http://bit.ly/1ZAkNGp #Haskell #I1M2015 
-
-+ #Exercitium: Enunciado de "De árboles a listas"
-  http://bit.ly/2044qaJ #Haskell #I1M2015 
-
-+ New MSc in Logic, Semantics, and Verification of Programs at University
-  College London (UCL). http://bit.ly/1OYDoqF
-
-+ El primo más grande descubierto, y el algoritmo para encontrarlo. ~
-  @ricardosaenz http://bit.ly/1NADy5z #Matemáticas #Algorítmica
 
 + What is the modern conception of logic? #1. ~ P. Smith http://bit.ly/1NADXVx 
   #Logic
@@ -413,16 +183,8 @@ relativas a los sistemas que usa o a su contenido.
 + Introducing dimensional: Statically checked physical dimensions
   for #Haskell. ~ D. McClean http://bit.ly/1NAFQlc https://youtu.be/-Kz7SYZNoUU
 
-*** 28-Ene-16
-
 + Formalized linear algebra over elementary divisor rings in Coq. ~ G. Cano et
   als. http://bit.ly/1Tpi1Eh #ITP #Coq #Math
-
-+ #Exercitium: Soluciones de "Números belgas"
-  http://bit.ly/1PjkGiY #Haskell #I1M2015 
-
-+ #Exercitium: Enunciado de "Sumas de dos primos"
-  http://bit.ly/20ufpHc #Haskell #I1M2015 
 
 + Los algoritmos de caja negra de AlphaGo. ~ @emulenews
   http://bit.ly/1QulvTa #Matemáticas #Algoritmos  
@@ -454,16 +216,8 @@ relativas a los sistemas que usa o a su contenido.
 + Practical recursion schemes at PragPub. ~ @RacquelYerbury
   http://bit.ly/1P0heEr #Haskell
 
-*** 29-Ene-16
-
 + Design, optimization, and formal verification of circuit fault-tolerance
   techniques. ~ D. Burlyaev http://bit.ly/1Snosa6 #PhD_Thesis #ITP #Coq 
-
-+ #Exercitium: Soluciones de "Sumas digitales de primos consecutivos"
-  http://bit.ly/1NowoBi #Haskell #I1M2015 
-
-+ #Exercitium: Enunciado de "Agrupamiento por propiedad"
-  http://bit.ly/1jRjZPM #Haskell #I1M2015 
 
 + Recognizing correct code: Automatic bug-repair system fixes 10 times as many
   errors as its predecessors. http://bit.ly/20wKdXG via @Progrmlanguages
@@ -479,27 +233,17 @@ relativas a los sistemas que usa o a su contenido.
 + Academias del código: ¿quién limpia y da esplendor a los lenguajes
   informáticos? ~ @josemblanco http://bit.ly/20yhW3d #Programación
 
-+ RT @SIAMconnect: The end of exams? Algorithm predicts how students answer
-  questions & explains why they would get questions wrong http://dailym.ai/1PZ0MUU
-
-*** 30-Ene-16
-
 + What’s a natural transformation? ~ L. Palmer @luqui http://bit.ly/1VwHdau 
   #Math #Haskell
 
-+ Category theory/Natural transformation ~ HaskellWiki. http://bit.ly/1VwHBWt 
++ Category theory/natural transformation ~ HaskellWiki. http://bit.ly/1VwHBWt 
   #Math #Haskell
 
 + Type introduction illustrated for casual Haskellers (to get over the
   Foldable) ~ Takenobu T. http://bit.ly/1PLbIey #Haskell
 
-*** 31-Ene-16
-
 + Probabilistic functions and cryptographic oracles in higher order logic. ~
   A. Lochbihler http://bit.ly/1Q2S7Rd http://bit.ly/1Q2S8o9 #Isabelle_HOL
-
-+ Un mapa elaborado por Graphext describe las relaciones e influencias entre
-  clase política y medios de comunicación. http://bit.ly/20A2D9Y vía @elpais
 
 + Failure of unique factorization (A simple example of the failure of the
   fundamental theorem of arithmetic) ~ D. Lipton http://bit.ly/20A2Nyc #Math
@@ -514,33 +258,16 @@ relativas a los sistemas que usa o a su contenido.
 
 + Happy learn Haskell tutorial. http://bit.ly/1RUh9Il #Haskell
 
-
 ** Febrero 2016
-
-*** 01-Feb-16
 
 + Proof auditing formalised mathematics. ~ M. Adams http://bit.ly/1nHANuI 
   #ITP #Math
 
-+ #Exercitium: Soluciones de "Serie de Thue-Morse"
-  http://bit.ly/1SGGsxm #Haskell #I1M2015 
-
-+ #Exercitium: Enunciado de "El algoritmo binario del mcd"
-  http://bit.ly/1m7NkFZ #Haskell #I1M2015
-
-+ Clojure for Data Science. ~  Mike Anderson http://bit.ly/1PaJzYK 
++ Clojure for data science. ~  Mike Anderson http://bit.ly/1PaJzYK 
   #DataScience #Clojure 
 
-*** 02-Feb-16
-
-+ Now f is continuous (exercise!). ~ R.D. Arthan
-  http://bit.ly/1TyJLGA #ITP #Math #ProofPower
-
-+ #Exercitium: Soluciones de "Conjunto de funciones"
-  http://bit.ly/1TyHDP5 #Haskell #I1M2015 
-
-+ #Exercitium: Enunciado de "Ordenación por frecuencia"
-  http://bit.ly/1TyHYBk #Haskell #I1M2015
++ Now f is continuous (exercise!). ~ R.D. Arthan http://bit.ly/1TyJLGA
+  #ITP #Math #ProofPower
 
 + Quake 3 map viewer in Haskell using GPipe. http://bit.ly/1VFJi3O #Haskell
   #Game
@@ -548,21 +275,11 @@ relativas a los sistemas que usa o a su contenido.
 + GPU programming in Haskell using GPipe. ~ Tobias Bexelius
   http://bit.ly/1VFJTmc http://bit.ly/1Pw3hSj #Haskell 
 
-*** 03-Feb-16
-
-+ Mixing computations and proofs. ~ M. Beeson
-  http://bit.ly/1KWeGWc #ITP #Logic #Math #CompSci
-
-+ #Exercitium: Soluciones de "De árboles a listas"
-  http://bit.ly/1SrYzYH #Haskell #I1M2015 
-
-+ #Exercitium: Enunciado de "La sucesión de Thue-Morse"
-  http://bit.ly/1SrYKD5 #Haskell #I1M2015 
++ Mixing computations and proofs. ~ M. Beeson http://bit.ly/1KWeGWc
+  #ITP #Logic #Math #CompSci
 
 + Category theory and networks: Corelations in network theory. ~ Azimuth
   http://bit.ly/1SH21wM #Math
- 
-+ RT @vardi: Dancing mathematicians! https://t.co/KAz9IpQl07
  
 + Haskell is not for production and other tales. ~ Katie Miller
   http://bit.ly/1PSdmF1 #Haskell
@@ -570,37 +287,22 @@ relativas a los sistemas que usa o a su contenido.
 + Looking for a solid foundation in programming languages? 10 PL papers worth
   knowing, courtesy of Matthias Felleisen https://github.com/nuprl/10PL
 
-+ Dropbox Hack Week: GraphQL Server in Haskell (With optimal backend IO and low
++ Dropbox hack week: GraphQL server in Haskell (With optimal backend IO and low
   response latency). http://bit.ly/1PSdYue #Haskell
-
-+ RT @edusadeci: El caballo puede recorrer todas las casillas del tablero sin
-  repetir. Hermosa animación. https://t.co/iBcMH0pmcg
-
-+ Postdoctoral position in functional, constraint and/or logic programming at
-  KU Leuven. http://bit.ly/1PSet7A #PostDoc #CompSci
 
 + Haskell for commercial software development. ~ Mike Craig @mkscrg
   http://bit.ly/1SH4erZ #Haskell
 
-+ OpenLibra: La Biblioteca Libre. http://bit.ly/1SH4Wpd #OpenLibra #Libros
-
-+ Anaconda for R users: SparkR and rBokeh. ~ Christine Doig http://bit.ly/1SH75kz
++ Anaconda for R users: SparkR and rBokeh. ~ Christine Doig
+  http://bit.ly/1SH75kz
 
 + Type theory and practical foundations. ~ J. Avigad
   http://bit.ly/1SH8jwq #Logic #CompSci #ITP
 
 + Homotopy type theory. ~ J. Avigad http://bit.ly/1SH8Uy5 #HoTT #Math #CompSci
 
-*** 04-Feb-16
-
 + The Lean theorem prover (system description). ~ L. de Moura, S. Kong,
   J. Avigad, F. Van Doorn & J. von Raumer http://bit.ly/1SZ9qcb #ITP #Lean 
-
-+ #Exercitium: Soluciones de "Sumas de dos primos"
-  http://bit.ly/1SZ7tME #Haskell #I1M2015 
-
-+ #Exercitium: Enunciado de "Números primos de Hilbert"
-  http://bit.ly/1SZ7Bfk #Haskell #I1M2015
 
 + Becoming productive in Haskell. ~ Matthew Griffith @mech_elephant
   http://bit.ly/1SZ9Sam #Haskell
@@ -611,16 +313,8 @@ relativas a los sistemas que usa o a su contenido.
 + The Isar proof language in 2016. ~ M. Wenzel http://bit.ly/20IViVU #ITP 
   #Isabelle #Isar
 
-*** 05-Feb-16
-
 + A modular, efficient formalisation of real algebraic numbers. ~ W. Li &
   L.C. Paulson http://bit.ly/1NTvEED #ITP #Isabelle_HOL #Math
-
-+ #Exercitium: Soluciones de "Agrupamiento por propiedad"
-  http://bit.ly/1obCikI #Haskell #I1M2015 
-
-+ #Exercitium: Enunciado de "Factorizaciones de números de Hilbert"
-  http://bit.ly/1UNTwis #Haskell #I1M2015
 
 + Monad transformers, free monads, mtl, laws and a new approach. ~ @acid2 
   http://bit.ly/1NTw4uz #Haskell
@@ -643,8 +337,6 @@ relativas a los sistemas que usa o a su contenido.
 + Parser combinators: parsing for Haskell beginners. http://bit.ly/20MgZEo 
   #Haskell
 
-*** 06-Feb-16
-
 + Hammering towards QED. ~ J.C. Blanchette, C. Kaliszyk, L.C. Paulson &
   J. Urban http://bit.ly/1SS3b8D #ATP #ITP
 
@@ -653,11 +345,6 @@ relativas a los sistemas que usa o a su contenido.
 
 + PSeInt: A tool for learning programming basis with a simple spanish
   pseudocode. http://pseint.sourceforge.net #Learning #Programming
-
-+ De profesión, científico de datos. ~ J. Jiménez @dronte http://bit.ly/1TKL1qh 
-  vía @xataka
-
-*** 07-Feb-16
 
 + A unified Coq framework for verifying C programs with floating-point
   computations. ~ T. Ramananandro et als. http://bit.ly/20hpx42 #ITP #Coq
@@ -685,16 +372,8 @@ relativas a los sistemas que usa o a su contenido.
 + Introducción a la programación con la ayuda de PSeInt. ~ R. Saucedo
   http://bit.ly/1S9fAq6 #Programación #PSeInt
 
-*** 08-Feb-16
-
 + Formalizing Jordan normal forms in Isabelle/HOL. ~ R. Thiemann & A. Yamada
   http://bit.ly/20hrmxP #ITP #Math #Isabelle_HOL
-
-+ #Exercitium: Soluciones de "El algoritmo binario del mcd"
-  http://bit.ly/1SDt51C #Haskell #I1M2015 
-
-+ #Exercitium: Enunciado de "Representaciones de un número como suma de dos
-  cuadrados" http://bit.ly/1SDtlhc #Haskell #I1M2015 
 
 + Haskell is easy: a list of recommended Haskell libraries. 
   http://bit.ly/1SDvBoP #Haskell 
@@ -708,19 +387,8 @@ relativas a los sistemas que usa o a su contenido.
 + Are there some students who can’t learn how to code? ~ D. Blaikie
   @davidbpython http://oreil.ly/20QwPOj #Programming 
 
-*** 09-Feb-16
-
 + Certified context-free parsing: a formalisation of Valiant's algorithm in
   Agda. ~ J.P. Bernardy, P. Jansson http://bit.ly/1ScUirv #ITP #Agda
-
-+ #Exercitium: Soluciones de "Ordenación por frecuencia"
-  http://bit.ly/1ScT3IL #Haskell #I1M2015 
-
-+ #Exercitium: Enunciado de "Número de representaciones de n como suma de dos
-  cuadrados" http://bit.ly/1ScTbbq #Haskell #I1M2015 
-
-+ #I1M2015: Programación imperativa en Maxima. http://bit.ly/1ScSGOA 
-  #Programación #Maxima
 
 + QuickPlot: Quick and easy data visualizations with Haskell. 
   http://bit.ly/1ScWkrF #Haskell via @HaskellTopNews 
@@ -728,18 +396,7 @@ relativas a los sistemas que usa o a su contenido.
 + Magic to do (Can we avoid accepting what we cannot verify?) ~ R.J. Lipton &
   K.W. Regan http://bit.ly/1ScUKpR
 
-+ #SGLC miércoles 10-Feb: "Buscando un modelo: lógicas modales, semántica y
-  decibilidad" por Guillaume Hoffmann @guion19 http://bit.ly/1WbwkLp
-
-*** 10-Feb-16
-
 + Compiling Hilbert’s operator. ~ K. Rustan & M. Leino http://bit.ly/20nL4Ig #Dafny
-
-+ #Exercitium: Soluciones de "La sucesión de Thue-Morse"
-  http://bit.ly/20nIJNE #Haskell #I1M2015 
-
-+ #Exercitium: Enunciado de "Eliminación de espacios extremos"
-  http://bit.ly/20nJ6Yr #Haskell #I1M2015
 
 + Hoed: a lightweight tracer and algorithmic debugger. http://bit.ly/20nM8vZ 
   #Haskell
@@ -750,24 +407,11 @@ relativas a los sistemas que usa o a su contenido.
 + Viva La Resistance! A Resistance game solver. ~ Lee Pike
   http://bit.ly/20nMzGn http://bit.ly/20nMFxS #Haskell
 
-+ #I1M2015: Introducción a la programación con Maxima. http://bit.ly/1LhvgzR 
-  #Maxima
-
 + Equivalencias entre funciones de Haskell y Maxima. http://bit.ly/1LhvvLg 
   #Haskell #Maxima
 
-+ #I1M2015: Las librerías de vectores y matrices. http://bit.ly/1PlV5CP #Haskell
-
-*** 11-Feb-16
-
 + Formalization of resolution calculus in Isabelle. ~ A. Schlichtkrull
   http://bit.ly/20nLy13 #PhD_Thesis #ITP #Isabelle_HOL #Logic
-
-+ #Exercitium: Soluciones de "Números primos de Hilbert"
-  http://bit.ly/1RrZ2Zk #Haskell #I1M2015 
-
-+ #Exercitium: Enunciado de "Compactación de listas"
-  http://bit.ly/1RrZkzh #Haskell #I1M2015
 
 + Decision trees are free monads over the reader functor. ~ C. Thomas
   http://bit.ly/1Rs1gYI #Haskell via @StephenPiment
@@ -775,28 +419,8 @@ relativas a los sistemas que usa o a su contenido.
 + Making efficient use of memory in Haskell. ~ Will Sewell
   http://bit.ly/1Rs2WBm #Haskell via @StephenPiment
 
-+ Phd/PostDoc positions in formal methods for distributed systems at University
-  Paris Diderot, France. http://bit.ly/1WglkfP #PostDoc #CompSci
-
-+ #LMF2016: Presentación del curso de "Lógica matemática y fundamentos". 
-  http://bit.ly/1WgnhJ8 #Lógica 
-
-+ #LMF2016: Sintaxis y semántica de la lógica proposicional. 
-  http://bit.ly/1PPCrog #Lógica
-
-*** 12-Feb-16
-
 + Theorema 2.0: Computer-assisted natural-style mathematics ~ B. Buchberge et
   als. http://bit.ly/1QaWlWA #ITP #Theorema
-
-+ #Exercitium: Soluciones de "Factorizaciones de números de Hilbert"
-  http://bit.ly/1KJJcb8 #Haskell #I1M2015 
-
-+ #Exercitium: Enunciado de "Anotación de la profundidad de los nodos"
-  http://bit.ly/1WhihUE #Haskell #I1M2015
-
-+ Permanent position announcement: Formal methods research engineer at
-  Mitsubishi Electric R&D Centre Europe. http://bit.ly/1V8iKs3
 
 + Proof and computation in Coq. ~ L. Théry et als. [Slides]
   http://bit.ly/1V8k2Ds #ITP #Coq
@@ -804,16 +428,8 @@ relativas a los sistemas que usa o a su contenido.
 + The euclidean algorithm generates traditional musical rhythms. ~ G. Toussaint
   http://bit.ly/1V8kX6N #Math #Music
 
-*** 13-Feb-16
-
 + A verified SAT solver framework with learn, forget, restart, and
   incrementality. ~ J.C. Blanchette http://bit.ly/1QdmKtm #Isabelle_HOL
-
-+ #I1M2015: Ejercicios sobre vectores y matrices en Haskell (2). 
-  http://bit.ly/1oz6rL5 #Haskell #Matemáticas
-
-+ #I1M2015: Método de Gauss para triangularizar matrices. 
-  http://bit.ly/1oz6ZAL #Haskell #Matemáticas
 
 + The finest imperative language. http://bit.ly/1QdoCSO #Haskell
 
@@ -846,8 +462,6 @@ relativas a los sistemas que usa o a su contenido.
 + Newton sums for an effective formalization of algebraic numbers. ~ C. Cohen &
   B. Djalal http://bit.ly/1Vb4Jty #ITP #Coq #Math
 
-*** 14-Feb-16
-
 + The Seifert–van Kampen theorem in homotopy type theory. ~ K.B. Hou &
   M. Shulman http://bit.ly/1Xr40pE #ITP #Agda #Math #HoT 
 
@@ -873,39 +487,17 @@ relativas a los sistemas que usa o a su contenido.
 + Algebra and analysis in the Lean theorem prover. ~ Rob Lewis
   http://bit.ly/1U0kbKQ #ITP #Lean #Polya #Math
 
-+ Esta máquina escribe discursos que dejan en evidencia a los políticos. ~
-  @teguayco http://bit.ly/1U0miyj via @eldiarioes 
-
 + Political speech generation. ~ V. Kassarnig http://bit.ly/1U0lSb5
   http://bit.ly/1U0m0Y2 #NLP #Python 
 
 + Infinite lazy Knuth-Bendix completion for monoids in Haskell. ~ Mathematical
   Pamphlet http://bit.ly/1PV4IKf #Haskell #Math
 
-*** 15-Feb-16
-
 + Conversion of HOL Light proofs into Metamath. ~ M.M. Carneiro
   http://bit.ly/1of6Xxn #ITP #OpenTheory #Metamath #HOL_Light 
 
-+ #Exercitium: Soluciones de "Representaciones de un número como suma de dos
-  cuadrados" http://bit.ly/1KQwbMZ #Haskell #I1M2015 
-
-+ #Exercitium: Enunciado de "Números como suma de N sumandos"
-  http://bit.ly/1KQwzLp #Haskell #I1M2015
-
-+ Postdoc position at Tulane on the "Semantics, formal reasoning, and tool
-  support for quantum programming" project. http://bit.ly/1KQyEXF #CompSci 
-
-*** 16-Feb-16
-
 + Mathematical theory exploration in Theorema: Reduction rings. ~ A. Maletzky
   http://bit.ly/246Cr9S #ITP #Theorema #Math 
-
-+ #Exercitium: Soluciones de "Número de representaciones de n como suma de dos
-  cuadrados" http://bit.ly/1PNU9Fj #Haskell #I1M2015 
-
-+ #Exercitium: Enunciado de "Diagonales de matrices como listas"
-  http://bit.ly/246Bpux #Haskell #I1M2015
 
 + Categories: From zero to infinity. ~ P. Schapira http://bit.ly/1TlEPV1 #Math
 
@@ -915,53 +507,20 @@ relativas a los sistemas que usa o a su contenido.
 + Matters computational (Ideas, algorithms, source code). ~ Jörg Arndt
   http://bit.ly/1PP57dO #eBook #Algorithms #Programming 
 
-*** 17-Feb-16
-
 + Applications of MaxSAT in data analysis. ~ J. Berg, A. Hyttinen &
   M. Järvisalo http://bit.ly/1onyFIa #MaxSAT #Data_analysis
-
-+ #Exercitium: Soluciones de "Eliminación de espacios extremos"
-  http://bit.ly/1onvIYk #Haskell #I1M2015 
-
-+ #Exercitium: Enunciado de "Números de Pentanacci"
-  http://bit.ly/1KoUIsw #Haskell #I1M2015
-
-*** 18-Feb-16
 
 + Formal proof of soundness for an RL prover. ~ A. Arusoaie et
   als. http://bit.ly/1Q2Gyh8 #ITP #Coq 
 
-+ #Exercitium: Soluciones de "Compactación de listas"
-  http://bit.ly/1Q2FPfV #Haskell #I1M2015 
-
-+ #Exercitium: Enunciado de "Cantidad de números Pentanacci impares"
-  http://bit.ly/1Q2G1eU #Haskell #I1M2015
-
-+ Postdoctoral Research Fellow in Artificial Intelligence. Western Sydney
-  University. http://bit.ly/1U9VjAh #PostDoc #CompSci
-
-*** 19-Feb-16
-
 + The Isabelle refinement framework (for verification of large software
   systems). ~ P. Lammich http://bit.ly/1mLkV95 #ITP #IsabelleHOL
-
-+ #Exercitium: Soluciones de "Anotación de la profundidad de los nodos"
-  http://bit.ly/1UbxqIz #Haskell #I1M2015 
-
-+ #Exercitium: Enunciado de "Dígitos en la factorización"
-  http://bit.ly/1UbxCYm #Haskell #I1M2015 
 
 + Natural language access to data via deduction. ~ R. Waldinger
   http://bit.ly/1mLmvaX #ATP 
 
 + Beyond automation: smart machines + smart humans. ~ T.H. Davenport
   http://bit.ly/1mLmaVK #AI 
-
-+ #I1M2015: Ejercicios de cálculo numérico en Haskell. http://bit.ly/1UbKBtf 
-  #Haskell #Matemáticas
-
-+ #I1M2015: Análisis de la complejidad de los algoritmos. http://bit.ly/1UbLEJI 
-  #Haskell #Algorítmica
 
 + Selling Haskell in the pub. ~ Neil Mitchell http://bit.ly/1PX0Pky #Haskell
 
@@ -974,13 +533,6 @@ relativas a los sistemas que usa o a su contenido.
 + Crunching quantum code | Communications of the ACM http://bit.ly/1PX3NWa 
   #CompSci
 
-+ #I1M2015: Ejercicios sobre vectores y matrices con las librerías. 
-  http://bit.ly/1PX7ISX #Haskell #Matemáticas #Maxima
-
-+ #LMF2016: Semántica de la lógica proposicional. http://bit.ly/1mMu4OL #Lógica
-
-*** 20-Feb-16
-
 + The joy and agony of Haskell in production. ~ S. Diehl @smdiehl
   http://bit.ly/1OljqVq #Haskell
 
@@ -990,26 +542,11 @@ relativas a los sistemas que usa o a su contenido.
 + Breve manual de Maxima. ~ R. Ipanaqué http://bit.ly/1KxAQDF  
   #Libro #Maxima #I1M2015
 
-*** 21-Feb-16
-
 + Higher-order recursion abstraction: How to make Ackermann, Knuth and Conway
   look like a bunch of primitives. http://bit.ly/1L2fP3L #Haskell
 
-+ Disciplinar la investigación, devaluar la docencia: cuando la Universidad se
-  vuelve empresa. http://bit.ly/1VwgIC9 via @eldiarioes
-
-+ Charte de la désexcellence. http://bit.ly/1VwhRtI #Université
-
-*** 22-Feb-16
-
 + Verifying Buchberger’s algorithm in reduction rings. ~ A. Maletzky
   http://bit.ly/1Rhjz0C #ITP #Theorema #Math
-
-+ #Exercitium: Soluciones de "Números como suma de N sumandos"
-  http://bit.ly/24lTVPD #Haskell #I1M2015 
-
-+ #Exercitium: Enunciado de "Regresión lineal"
-  http://bit.ly/24lUcSv #Haskell #I1M2015 
 
 + SimpleFP - A series of increasingly complex purely functional PLs implemented
   in Haskell. ~ Darryl McAdams @psygnisfive http://bit.ly/1RhjPNk #Haskell
@@ -1019,9 +556,6 @@ relativas a los sistemas que usa o a su contenido.
 
 + Course: Advanced functional programming. ~ J. Yallop
   http://bit.ly/1RhkRca #FP #OCaml #Fω via @mukesh_tiwari
-
-+ Un secreto de pasillo. ~ F. Sancho @sanchocaparrini
-  http://bit.ly/1Rhlsue #Universidad #Educación
 
 + Doing data science with Clojure. ~ @sbelak http://bit.ly/1RhlFO5 
   #DataScience #Clojure
@@ -1035,15 +569,7 @@ relativas a los sistemas que usa o a su contenido.
 + Purely functional Web apps. ~ Michał Płachta @miciek http://bit.ly/1RhmRB2 
   #Haskell
 
-*** 23-Feb-16
-
 + Applied logic in engineering. ~ M. Spichkova http://bit.ly/1oyD0sc #Teaching #Logic
-
-+ #Exercitium: Soluciones de "Diagonales de matrices como listas"
-  http://bit.ly/1oyAHW6 #Haskell #Maxima #I1M2015 
-
-+ #Exercitium: Enunciado de "Múltiplos con ceros y unos" http://bit.ly/1oyB2Ip
-  #Maxima #Haskell #I1M2015
 
 + Constraint (logic) programming. ~ R. Barták http://bit.ly/1oyCryI #Logic
   #Programming #Prolog 
@@ -1051,37 +577,15 @@ relativas a los sistemas que usa o a su contenido.
 + Proving with types. ~ Matt Parsons @mattoflambda http://bit.ly/1OrKEtu
   #Haskell #Logic 
 
-+ 4-year PhD studentship on "Declarative Programming for Data Science",
-  University of Edinburgh. http://bit.ly/1OrL7Mh #CompSci #PhD 
-
-+ PhD and Post-Doc positions in formal methods and security, Chalmers
-  University of Technology. http://bit.ly/1RkdZL0 #PhD #CompSci
-
-*** 24-Feb-16
-
 + A framework for certified self-stabilization case study: silent
   self-stabilizing k-dominating set on a tree. ~ K. Altisen
   http://bit.ly/1oyDQ8f #Coq
 
-+ #Exercitium: Soluciones de "Números de Pentanacci"
-  http://bit.ly/1mWCuDh #Haskell #I1M2015 
-
-+ #Exercitium: Enunciado de "Sumas de potencias de 3 primos"
-  http://bit.ly/1mWCvap #Haskell #I1M2015
-
 + Course: Applied logic in engineering. ~ M. Spichkova & M. Broy
   http://bit.ly/1T3btwv #Course #Logic
 
-*** 25-Feb-16
-
 + Level-confluence of 3-CTRSs in Isabelle/HOL. ~ C. Sternagel, T. Sternagel
   http://bit.ly/1mYW6qh #IsabelleHOL
-
-+ #Exercitium: Soluciones de "Cantidad de números Pentanacci impares"
-  http://bit.ly/1mYVst0 #Haskell #I1M2015 
-
-+ #Exercitium: Enunciado de "Números automórficos"
-  http://bit.ly/1mYVukF #Haskell #I1M2015
 
 + What mathematical logic says about the foundations of mathematics. ~
   C. Bernardi. http://bit.ly/1Qh3hWT
@@ -1092,16 +596,8 @@ relativas a los sistemas que usa o a su contenido.
 + Computability and analysis, a  historical approach. ~ V. Brattka. 
   http://bit.ly/1Qh3qcE
 
-*** 26-Feb-16
-
 + Automatically proving mathematical theorems with evolutionary algorithms and
   proof assistants. ~ L.A. Yang et als. http://bit.ly/1pbl4o1 #ITP #Coq
-
-+ #Exercitium: Soluciones de "Dígitos en la factorización"
-  http://bit.ly/21vIMt2  #Haskell #I1M2015
-
-+ #Exercitium: Enunciado de "Particiones en sumas de cuadrados"
-  http://bit.ly/21vIxhI  #Haskell #I1M2015
 
 + Features of a high school olympiad problem. ~ L. Smolinsky
   http://bit.ly/1TCqdRl #Math
@@ -1109,15 +605,10 @@ relativas a los sistemas que usa o a su contenido.
 + A survey on Domain-Specific Languages for machine learning in Big Data. ~
   I. Portugal, P. Alencar, D. Cowan http://bit.ly/1TCsg7Z #Programming #BigData
 
-+ Two postdoc positions in reasoning about concurrent and distributed
-  systems. Imperial College London. http://bit.ly/1QlEDAN
-
-*** 27-Feb-16
-
 + QED reloaded: Towards a pluralistic formal library of mathematical
   knowledge. ~ M. Kohlhase, F. Rabe http://bit.ly/21169Zq #MKM
 
-+ Haskell by example. - Tatsuya Hirose @lotz84_ http://bit.ly/1Td7LAh #Haskell
++ Haskell by example. ~ Tatsuya Hirose @lotz84_ http://bit.ly/1Td7LAh #Haskell
 
 + Fighting spam with Haskell. ~ Simon Marlow http://bit.ly/1Td8lOL #Haskell 
   via @HaskellTopNews
@@ -1125,101 +616,30 @@ relativas a los sistemas que usa o a su contenido.
 + Tópicos universitarios. ~ Saturnino Martínez @mandarrian
   http://bit.ly/1OCzDpp #Universidad vía @eldiarioes
 
-*** 28-Feb-16
-
 + Dimpl: An efficient and expressive DSL for discrete mathematics ~ R. Jha
   http://bit.ly/1UrBtkj #Haskell #Math
-
-+ #I1M2015: El tipo abstracto de datos de las pilas en Haskell. 
-  http://bit.ly/1TL8EQf #Haskell
-
-+ #I1M2015: El tipo abstracto de datos de las colas en Haskell. 
-  http://bit.ly/1TL8XdX #Haskell
-
-*** 29-Feb-16
 
 + Retrieval, transformation and verification of proofs in higher order logic. ~
   Shuai Wang http://bit.ly/1XUrgwo #ITP #ProofCloud
 
-+ #Exercitium: Soluciones de "Regresión lineal" http://bit.ly/1XUq4t0 
-  #Haskell #I1M2015 
-
-+ #Exercitium: Enunciado de "Método de bisección para aproximar raíces de
-  funciones" http://bit.ly/1XUq7VL #Haskell #I1M2015
-
-+ #LMF2016: Deducción natural proposicional. http://bit.ly/1nat7ju #Lógica
-
-+ #I1M2015: Ejercicios sobre la numeración de los racionales en
-  Haskell. http://bit.ly/1RzmK47 #Haskell #Matemáticas
-
-+ #SLC2015: El sistema deductivo de Prolog. http://bit.ly/1Rzo72A #Lógica #Prolog
-
 + The promise of Artificial Intelligence unfolds in small steps. ~ S. Lohr
   http://nyti.ms/1nceUT2 #AI 
 
-
 ** Marzo 2016
-
-*** 01-Mar-16
 
 + Mechanizing a process algebra for network protocols. ~ T. Bourke, R.J. van
   Glabbeek, P. Höfner http://bit.ly/1RhKMOh #ITP #IsabelleHOL 
 
-+ #Exercitium: Soluciones de "Múltiplos con ceros y unos"
-  http://bit.ly/1RhIYop #Haskell #I1M2015 
-
-+ #Exercitium: Enunciado de "Integración por el método de los rectángulos"
-  http://bit.ly/1RhJ3IN #Haskell #I1M2015
-
 + The Haskell cheatsheet. ~ J. Bailey http://bit.ly/1RhLc7x #Haskell 
-
-+ Guía rápida de Haskell. ~ J. Bailey http://bit.ly/1RhLmM0 #Haskell #I1M2015 
-
-*** 02-Mar-16
 
 + Proving completeness of logic programs with the cut. ~ W. Drabent
   http://bit.ly/1TPVGkv #Logic #Prolog
 
-+ #Exercitium: Soluciones de "Sumas de potencias de 3 primos"
-  http://bit.ly/1QqhLjB #Haskell #I1M2015 
-
-+ #Exercitium: Enunciado de "Índices de números de Fibonacci"
-  http://bit.ly/1QqhOvP #Haskell #I1M2015 
-
-*** 03-Mar-16
-
 + Linear temporal logic in Isabelle/HOL. ~ S. Sickert http://bit.ly/24COJqC 
   #ITP #Logic #IsabelleHOL #AFP
 
-+ #Exercitium: Soluciones de "Números automórficos" http://bit.ly/1mYVukF #Haskell #I1M2015
-
-+ #Exercitium: Enunciado de "Números N cuyos cuadrados tienen dos copias de
-  cada dígito de N" http://bit.ly/1OSd7ZM #Haskell #I1M2015
-
-+ #I1M2015: El tipo abstracto de datos de las colas de prioridad en
-  Haskell. http://bit.ly/1QtBNxh #Haskell #Algorítmica
-
-+ #I1M2015: El TAD de los conjuntos en Haskell. http://bit.ly/1QtCNS3 #Haskell 
-  #Algorítmica #Maxima 
-
-+ #I1M2015: Cálculo numérico (métodos de Herón y de Newton) en
-  Maxima. http://bit.ly/1RKi7Ef #Maxima #Matemáticas
-
-+ #SLC2015: Programación en Prolog (1). http://bit.ly/1VSR9M2 #Prolog
-
-+ #LMF2016: Deducción natural proposicional en Isabelle/HOL. http://bit.ly/1VSRVsn 
-  #Lógica #IsabelleHOL
-
-*** 04-Mar-16
-
 + What mathematical logic says about the foundations of mathematics ~
   C. Bernardi http://bit.ly/1RsAXxc #Logic #Math #CompSci
-
-+ #Exercitium: Soluciones de "Particiones en sumas de cuadrados"
-  http://bit.ly/1RsAtqR #Haskell #I1M2015 
-
-+ #Exercitium: Enunciado de "Número de islas rectangulares de una matriz"
-  http://bit.ly/1RsAuLp #Haskell #I1M2015
 
 + Haskell meets large scale distributed analytics. ~ A. Mestanogullari &
   M. Boespflug http://bit.ly/1RsBi2P #Haskell #BigData via @normenmueller
@@ -1230,16 +650,8 @@ relativas a los sistemas que usa o a su contenido.
 + Formalized mathematics. ~ J. Harrison http://bit.ly/1QXL1Ur #Logic #Math  
   #CompSci
 
-*** 05-Mar-15
-
 + Proof of correctness of a marching cubes algorithm carried out with Coq. ~
   A.N Chernikov & J. Xu http://bit.ly/21Mendx #ITP #Coq
-
-+ #I1M2015: Ejercicios con el tipo abstracto de dato de las pilas. 
-  http://bit.ly/21d4pwd #Haskell #Algorítmica
-
-+ #I1M2015: Ejercicios con el tipo abstracto de dato de las colas. 
-  http://bit.ly/21d4QXy #Haskell #Algorítmica
 
 + Automated search for Gödel’s proofs. ~ W. Sieg & C. Field
   http://bit.ly/1QZ9J75 #Logic #Math #CompSci #ATP
@@ -1247,21 +659,11 @@ relativas a los sistemas que usa o a su contenido.
 + Introduction to funcional programming. ~ J. Harrison (1997)
   http://bit.ly/1X2cfYr #FP #ML
 
-+ "Even in teaching mathematics we can at least attempt to teach the students
-  the flavor of freedom and critical thought, and to get them used to the idea
-  of being treated as humans empowered with the ability of understanding."
-  Roger Godement, Cours d’Algèbre, Hermann, Paris 1966 #Quote #Math #Teaching
-
 + Teaching logic for computer science: are we teaching the wrong narrative? ~
   J.A. Makowsky http://bit.ly/24IjoD5 #Logic #CompSci #Teaching
 
-*** 06-Mar-16
-
 + Proof relevant corecursive resolution. ~ P. Fu et als. http://bit.ly/1UJucwf
   #ITP #Coq #Haskell
-
-+ PhD studentship on "Declarative Programming for Data Science"
-  http://bit.ly/1U3rbX1 #PhD #CompSci #DP #DataScience
 
 + A general A* solver in NetLogo ~ F. Sancho @sanchocaparrini
   http://bit.ly/1U3spBx #Netlogo
@@ -1277,42 +679,18 @@ relativas a los sistemas que usa o a su contenido.
 + Todo entero positivo es suma de tres capicúas (por Javier Cilleruelo) |
   Gaussianos. http://bit.ly/1U3tPvU #Matemáticas
 
-*** 07-Mar-16
-
 + A Coq library for internal verification of running-times. ~ J. McCarthy et
   als. http://bit.ly/1Qvp5Ng #ITP #Coq
-
-+ #Exercitium: Soluciones de "Método de bisección para aproximar raíces de
-  funciones" http://bit.ly/1LL6kX3 #Haskell #I1M2015 
-
-+ #Exercitium: Enunciado de "Menor no expresable como suma"
-  http://bit.ly/1LL6mhQ #Haskell #I1M2015
 
 + ADN: ¿Es computable un ser humano? ~ J. Sampedro http://bit.ly/1M2ko9u
 
 + Teaching cryptography. ~ Boaz Barak http://bit.ly/1M2kvBR #Cryptography
 
-*** 08-Mar-16
-
 + Formal verification of the rank function for succinct data structures. ~
   A. Tanaka et als. http://bit.ly/1QvriZ8 #ITP #Coq #BigData
 
-+ #Exercitium: Soluciones de "Integración por el método de los rectángulos"
-  http://bit.ly/1R4xvhO #Haskell #I1M2015 
-
-+ #Exercitium: Enunciado de "Elemento ausente" http://bit.ly/1R4xwlW #Haskell
-  #I1M2015
-
-*** 09-Mar-16
-
 + Certified universal gathering in R² for oblivious mobile robots. ~
   P. Courtieu et als. http://bit.ly/1Qvs0pe #ITP #Coq
-
-+ #Exercitium: Soluciones de "Índices de números de Fibonacci"
-  http://bit.ly/1TJVbZG #Haskell #I1M2015
-
-+ #Exercitium: Enunciado de "Máxima longitud de las sublistas comunes"
-  http://wp.me/p4wKpz-zG #Haskell #I1M2015
 
 + Open source Mathematica compatible Mathics 0.9. ~ Mike James
   http://bit.ly/1pxxJlC #CAS #Math via @Iprogrammerinfo
@@ -1328,56 +706,17 @@ relativas a los sistemas que usa o a su contenido.
 + Solving Sudoku via SAT with Mathematica. ~ M. Sottile @mjsottile
   http://bit.ly/1p8ja7o #Logic #SAT #Mathematica
 
-+ #I1M2015: El TAD (tipo abstracto de datos) de las tablas en
-  Haskell. http://bit.ly/1p8llrH #Haskell #Algorítmica
-
-+ #I1M2015: Ejercicios de programación con Maxima. http://bit.ly/1U3QQjw 
-  #Programación #Maxima #Matemáticas
-
-*** 10-Mar-16
-
 + Well-founded unions verified. ~ J. Dawson, N. Dershowitz & R. Goré
   http://bit.ly/1QvsOKN #ITP #IsabelleHOL
-
-+ #Exercitium: Soluciones de "Números N cuyos cuadrados tienen dos copias de
-  cada dígito de N" http://bit.ly/1LdQWT9 #Haskell #I1M2015 
-
-+ #Exercitium: Enunciado de "Paridad del número de divisores"
-  http://bit.ly/1RSgKUh #Haskell #I1M2015
-
-+ #LMF2016: Deducción natural proposicional en Isabelle/HOL (2). 
-  http://bit.ly/1RSzm6p #Lógica #IsabelleHOL
-
-+ #LMF2016: Sintaxis y semántica de la lógica de primer orden. 
-  http://bit.ly/1RSzZgv #Lógica
-
-+ #SLC2015: Programación en Prolog (2). http://bit.ly/1RSAIOx #Prolog
-
-*** 11-Mar-16
 
 + Variations on noetherianness. ~ D. Firsov, T. Uustalu & N. Veltri
   http://bit.ly/1Qvt7Fj #ITP #Agda
 
-+ #Exercitium: Soluciones de "Número de islas rectangulares de una matriz"
-  http://bit.ly/1pjL40R #Haskell #I1M2015 
-
-+ #Exercitium: Enunciado de "Máxima suma en una matriz"
-  http://bit.ly/1pjKWys #Haskell #I1M2015
-
 + The beginning of the end for encryption schemes? New quantum computer factors
   numbers in a scalable way. http://bit.ly/1SELw53 #CompSci
 
-+ #I1M2015: Libro con las soluciones de las 25 primeras relaciones de
-  ejercicios de programación funcional con #Haskell http://bit.ly/1OicMmg
-
-*** 12-Mar-16
-
 + Verified construction of static single assignment form. ~ S. Buchwald,
   D. Lohner & S. Ullrich http://bit.ly/1QvtAas #ITP #IsabelleHOL
-
-+ #I1M2015: Combinatoria en Haskell. http://bit.ly/1RH27Ar #Haskell #Matemáticas
-
-*** 13-Mar-16
 
 + The Cartan fixed point theorems in Isabelle/HOL. ~ L. Paulson
   http://bit.ly/1SEMA9e #ITP #IsabelleHOL #Math #AFP
@@ -1399,30 +738,14 @@ relativas a los sistemas que usa o a su contenido.
 + Big Data y humanidades digitales: de la computación social a los retos de la cultura
   conectada. ~ S. Álvaro http://j.mp/21opILo #BigData 
 
-*** 14-Mar-16
-
 + Formalising confluence in PVS. ~ Mauricio Ayala-Rincón
   http://bit.ly/24Y0Mz2 #ITP #PVS
-
-+ #Exercitium: Soluciones de "Menor no expresable como suma"
-  http://bit.ly/1V5KvUp #Haskell #I1M2015 
-
-+ #Exercitium: Enunciado de "Primo suma de dos cuadrados"
-  http://bit.ly/1V5KBeC #Haskell #I1M2015 
 
 + WIMS (WWW Interactive Multipurpose Server) allows you to work on mathematics
   interactively via the Internet. ~ G. Xiao http://bit.ly/1V5JfjZ #Math 
 
-*** 15-Mar-16
-
 + COGENT: Verifying high-assurance file system implementations. ~ S. Amani et
   als. http://bit.ly/24Y109e #ITP #Coq
-
-+ #Exercitium: Soluciones de "Elemento ausente"
-  http://bit.ly/1R4xwlW #Haskell #I1M2015 
-
-+ #Exercitium: Enunciado de "Mayor sección inicial sin repetidos"
-  http://bit.ly/1QZvVbP #Haskell #I1M2015
 
 + Descubierto un extraño comportamiento de los números primos que se
   «repelen». ~ @Alvy http://bit.ly/1MkOLIz #Matemáticas 
@@ -1433,16 +756,8 @@ relativas a los sistemas que usa o a su contenido.
 + Unexpected biases in the distribution of consecutive primes. ~ R.J. Lemke
   Oliver & K. Soundararajan http://bit.ly/1MkPFES #Math 
 
-*** 16-Mar-16
-
 + Propositional resolution and prime implicates generation in Isabelle/HOL. ~
   N. Peltier http://bit.ly/1RkdJz1 #ITP #IsabelleHOL #Logic 
-
-+ #Exercitium: Soluciones de "Máxima longitud de las sublistas comunes"
-  http://bit.ly/1Rkdm7D #Haskell #I1M2015 
-
-+ #Exercitium: Enunciado de "Rotación de una matriz"
-  http://bit.ly/1RkdvrP #Haskell #I1M2015
 
 + Haskell is the Dark Souls of programming. ~ Steve Shogren @steveshogren
   http://bit.ly/1Rke4le #Haskell via @anton_davydov
@@ -1453,39 +768,16 @@ relativas a los sistemas que usa o a su contenido.
 + Guilloche (spirograph) patterns. ~ Ken Takusagawa http://bit.ly/1RkewjB 
   #Haskell
 
-*** 17-Mar-16
-
 + From Tarski to Descartes: Formalization of the arithmetization of euclidean
   geometry. ~ P. Boutry et als, http://bit.ly/1RlXuS8 #ITP #Coq #Math
 
-+ #Exercitium: Soluciones de "Paridad del número de divisores"
-  http://bit.ly/1RlXcLb #Haskell #I1M2015 
-
-+ #Exercitium: Enunciado de "Máxima suma de elementos consecutivos"
-  http://bit.ly/1RlXe5A #Haskell #I1M2015
-
-+ 2 Ph.D positions on Formal Methods for Rule-based agent safety and concurrent
-  system analysis (U. of Oslo). http://bit.ly/1LtAnTj #PhD #CompSci
-
-*** 18-Mar-16
-
 + Reasoning about programs. ~ P. Manolios http://bit.ly/1S7vS09 #ITP #ACL2
-
-+ #Exercitium: Soluciones de "Máxima suma en una matriz"
-  http://bit.ly/1S7vrTx #Haskell #I1M2015 
-
-+ #Exercitium: Enunciado de "Comportamiento del último dígito en primos
-  consecutivos" http://bit.ly/1S7vCOw #Haskell #I1M2015
-
-*** 19-Mar-16
 
 + Constructive analysis and experimental mathematics using the Nuprl proof
   assistant. ~ M. Bickford http://bit.ly/1Mhrblc #ITP #Nuprl #Math
 
 + SMT solving for functional programming over infinite structures. ~ B. Klin &
   M Szynwelski http://bit.ly/1MhupoC #Haskell
-
-*** 20-Mar-16
 
 + An introduction to mechanized reasoning. ~ M. Kerber, C. Lange & C. Rowat
   http://bit.ly/1SaIB1T #AR #ITP
@@ -1499,30 +791,14 @@ relativas a los sistemas que usa o a su contenido.
 + Efficient binary serialization ~ M, Snoyman @snoyberg | FP Complete
   http://bit.ly/1SaJCqP #Haskell
 
-+ PhD and Post-Doc positions in formal methods at Chalmers. 
-  http://bit.ly/1SaKJ9S #PhD #PosDoc #CompSci 
- 
-*** 21-Mar-16
-
 + Self-formalisation of Higher-Order Logic. ~ R. Kumar et
   als. http://bit.ly/1TY5M2V #ITP #HOL4
 
-+ RT GabrielG439: Example implementation of the `wc` command in Haskell using
-  `turtle`: http://lpaste.net/155533 https://t.co/eHVxefSKRH #Haskell
++ Example implementation of the `wc` command in Haskell using `turtle`:
+  http://lpaste.net/155533 https://t.co/eHVxefSKRH #Haskell
 
-+ RT GabrielG439: Now you can benchmark any program from the command line using
-  Criterion for repeated runs, statistics and charts: http://bit.ly/1RZCV8p #Haskell 
-
-+ #I1M2015: 4º examen de programación con Haskell. http://bit.ly/1LBco4N 
-  #Haskell
-
-+ #I1M2015: Relaciones binarias homogéneas con la librería de conjuntos de
-  Haskell. http://bit.ly/1LBdDkl #Haskell #Matemáticas
-
-+ #SGLC miércoles 30-marzo "Introducción a ROS con Deep Learning Robot" por
-  Diego R. Cabrera http://bit.ly/1Zfys7f
-
-*** 22-Mar-16
++ Now you can benchmark any program from the command line using Criterion for
+  repeated runs, statistics and charts: http://bit.ly/1RZCV8p #Haskell
 
 + Optical quantum gates formalization in HOL Light. ~ S.M. Beillahi,
   M.Y. Mahmoud y S. Tahar http://bit.ly/22BwVKt #ITP #HOL_Light 
@@ -1530,22 +806,11 @@ relativas a los sistemas que usa o a su contenido.
 + Static vs. dynamic functional languages ~ Sami Badawi
   http://bit.ly/22uhirC #FP #Haskell #Lisp #Clojure #Scala
 
-+ #I1M2015: Soluciones en Maxima del 4º examen. http://bit.ly/1ZpiYgX #Maxima
-
-*** 23-Mar-16
-
 + Structure-aware version control (A generic approach using Agda). ~
   V. Cacciari Miraldo & W. Swierstra http://bit.ly/1RxEAlb #Agda #Haskell
 
-*** 24-Mar-16
-
 + Markov chains and Markov decision processes in Isabelle/HOL. ~ J. Hölzl
   http://bit.ly/1q3krxw #IsabelleHOL
-
-*** 27-Mar-16
-
-+ PhD position at LaBRI Bordeaux France. Subject: higher-order
-  verification. http://bit.ly/1VOCvaA #PhD #CompSci
 
 + Formally verified approximations of definite integrals. ~ A. Mahboubi et
   als. http://bit.ly/1WRLWoe #ITP #Coq #Math
@@ -1556,38 +821,14 @@ relativas a los sistemas que usa o a su contenido.
 + Hakaru: An embedded probabilistic programming language in
   Haskell. http://bit.ly/1VODurn #Haskell
 
-*** 28-Mar-16
-
 + Case studies in constructive mathematics. ~ E. Parmann
   http://bit.ly/1pTrwRw #PhD_Thesis #ITP #Coq #Math
-
-+ #Exercitium: Soluciones de "Primo suma de dos cuadrados"
-  http://bit.ly/1pTpvVd #Haskell #I1M2015 
-
-+ #Exercitium: Enunciado de "Posiciones de máximos locales"
-  http://bit.ly/1pTpzUU #Haskell #I1M2015
-
-*** 29-Mar-16
 
 + Extensible and efficient automation through reflective tactics. ~ G. Malecha
   & J. Bengtson http://bit.ly/1RwNksF #Agda
 
-+ #Exercitium: Soluciones de "Mayor sección inicial sin repetidos"
-  http://bit.ly/25tIki4 #Haskell #I1M2015 
-
-+ #Exercitium: Enunciado de "Evaluación de expresiones aritméticas"
-  http://bit.ly/25tIoOI #Haskell #I1M2015
-
-*** 30-Mar-16
-
 + The method "Model Elimination" of D.W.Loveland explained. ~ M. Lévy
   http://bit.ly/1q0AGeX #Logic #ATP  
-
-+ #Exercitium: Soluciones de "Rotación de una matriz" http://bit.ly/1RkdvrP
-  #Haskell #I1M2015
-
-+ #Exercitium: Enunciado de "Números cuyos dígitos coinciden con los de sus
-  factores primos" http://bit.ly/1q0xKPy #Haskell #I1M2015
 
 + Un dérivateur formel Ocaml en 5 minutes. ~ G. Connan http://bit.ly/1q0B9Ob
   #Math #OCaml
@@ -1598,15 +839,7 @@ relativas a los sistemas que usa o a su contenido.
 + History and philosophy of types. ~ T. Petricek @tomaspetricek
   http://bit.ly/1q0C8xX #Logic #CompSci
 
-*** 31-Mar-16
-
 + Hoed: A lightweight Haskell tracer and debugger. http://bit.ly/1RPih0A #Haskell
-
-+ #Exercitium: Soluciones de "Máxima suma de elementos consecutivos"
-  http://bit.ly/1RPhQ6y #Haskell #I1M2015 
-
-+ #Exercitium: Enunciado de "Diccionario de frecuencias" http://bit.ly/1RPhQmZ
-  #Haskell #I1M2015
 
 + Functional data validation using monads and applicative functors. ~ Gianmario
   Spacagna @gm_spacagna http://bit.ly/1V9rC2r #Big_Data #FP #Scala 
@@ -1617,32 +850,16 @@ relativas a los sistemas que usa o a su contenido.
 + Learning data science using functional Python. ~ Joel Grus
   http://bit.ly/1V9wGEb http://bit.ly/1V9wNiX #Data_science #FP #Python 
 
-+ PhD position in guarded homotopy type theory. http://bit.ly/1TlfvPZ #PhD #CompSci
-
 + Past, present and future of AI: a fascinating journey ~ Ramón López de
   Mantaras http://bit.ly/1TlgAY7 #AI
 
 + Probabilistic logic programming tutorial. ~ F. Riguzzi & G. Cota
   http://bit.ly/1TlhBPT #Logic #Programming #Prolog
 
-
 ** Abril 2016
-
-*** 01-Abr-16
 
 + Towards formal proof metrics. ~ D. Aspinall & C. Kaliszyk
   http://bit.ly/1TmGXNm #ITP
-
-+ #Exercitium: Soluciones de "Comportamiento del último dígito en primos
-  consecutivos" http://bit.ly/1RB8DcC #Haskell #I1M2015 
-
-+ #Exercitium: Enunciado de "Representación decimal de números racionales"
-  http://bit.ly/1JB6xGy #Haskell #I1M2015
-
-+ #I1M2015: Los diccionarios en Haskell (Data.Map). http://bit.ly/1ZPycvQ #Haskell
-
-+ #I1M2015: El TAD de los árboles binarios de búsqueda en Haskell. 
-  http://bit.ly/1M5bsWs #Haskell
 
 + Haskell for data science. ~ John Cant http://bit.ly/1Vfosdu #Haskell #Data_science 
 
@@ -1652,25 +869,11 @@ relativas a los sistemas que usa o a su contenido.
 + Simple linear regression in Haskell. ~ Josh Walters @joshwalters
   http://bit.ly/1SruBi5 #Haskell
 
-+ Postdoc ad: quantum-computing programming languages. http://bit.ly/1SFCzqi
-  #PostDoc #CompSci 
-
 + roshask: Haskell client library for the ROS robotics framework. 
   http://bit.ly/1SFDTJW #Haskell #ROS 
 
 + Computabilidad, complejidad computacional y verificación de programas. ~
   R. Rosenfeld y J. Irazábal http://bit.ly/1SFFkbk #Libro #Computación
-
-+ Job offer: engineer position in formal methods. http://bit.ly/1X3CCxD #Job
-  #CompSci
-
-+ #LMF2016: Semántica de la lógica de primer orden. http://bit.ly/1UIrLLT
-  #Lógica
-
-+ #LMF2016: Deducción natural en lógica de primer orden. http://bit.ly/1ZRdT1d
-  #Lógica #IsabelleHOL
-
-*** 02-Abr-16
 
 + Automating proofs. ~ Chris Edwards | Communications of the ACM
   http://bit.ly/1oqAFiw #ATP
@@ -1695,19 +898,8 @@ relativas a los sistemas que usa o a su contenido.
 + Comparing unification algorithms in first-order theorem proving. ~ K. Hoder,
   A. Voronkov http://bit.ly/1qnyrCl #Logic #Algorithms
 
-+ #I1M2015: Resolución de una ecuación con factoriales en Haskell. 
-  http://bit.ly/25CrZHK #Haskell #Matemáticas
-
-+ #I1M2015: Los números de Lychrel en Haskell. http://bit.ly/25CsIsF #Haskell
-  #Matemáticas 
-
 + Descending sort in Haskell. ~ Roman Cheplyaka @shebang http://bit.ly/25Cts0K
   #Haskell 
-
-+ Haskell hacking internships at LANL (Fall 2016, undergraduate). 
-  http://bit.ly/1pUcavi #Haskell
-
-*** 03-Abr-16
 
 + Beyond Good and Evil (Formalizing the security guarantees of low-level
   compartmentalization). ~ Y. Juglaret et als. http://bit.ly/1UAJDYU #ITP #Coq
@@ -1724,16 +916,8 @@ relativas a los sistemas que usa o a su contenido.
 + The logic of real and complex numbers. ~ John Baez http://bit.ly/1UAKsRs
   #Logic #Math
 
-*** 04-Mar-16
-
 + Correctness and concurrent complexity of the Black-White Bakery algorithm. ~
   W.H. Hesselink http://bit.ly/1RWv1CQ #ITP #PVS 
-
-+ #Exercitium: Soluciones de "Posiciones de máximos locales"
-  http://bit.ly/1RWvTY7 #Haskell #I1M2015 
-
-+ #Exercitium: Enunciado de "Factorial generalizado" http://bit.ly/1RWvZ1G
-  #Haskell #I1M2015
 
 + The sym package: Definitions for permutations with an emphasis on permutation
   patterns and permutation statistics. http://bit.ly/225SEbv #Haskell #Math
@@ -1741,30 +925,14 @@ relativas a los sistemas que usa o a su contenido.
 + Au delà des réels: méthodes numériques en informatique. ~ G. Connan
   http://bit.ly/225TzIQ #Book #Math #Python
 
-*** 05-Abr-16
-
 + Variations on noetherianness. ~ D. Firsov, T. Uustalu, N. Veltri
   http://bit.ly/228eYRS #ITP #Agda #Math
-
-+ #Exercitium: Soluciones de "Evaluación de expresiones aritméticas"
-  http://bit.ly/228ecnU #Haskell #I1M2015 
-
-+ #Exercitium: Enunciado de "Clases de equivalencia" http://bit.ly/228egUL
-  #Haskell #I1M2015
 
 + Introducing Haskell, functional abstraction and computation by calculation,
   reasoning about functional programs. http://bit.ly/228fCi1 #Haskell
 
-*** 06-Abr-16
-
 + Formal languages, formally and coinductively. ~ Dmitriy Traytel
   http://bit.ly/1q5ne8U #IsabelleHOL 
-
-+ #Exercitium: Soluciones de "Números cuyos dígitos coinciden con los de sus
-  factores primos" http://bit.ly/1q0xKPy #Haskell #I1M2015 
-
-+ #Exercitium: Enunciado de "Inverso multiplicativo modular"
-  http://bit.ly/25K8xsQ #Haskell #I1M2015 
 
 + MapReduce. ~ Junghoon Kang http://bit.ly/25KbjOH #MapReduce #Big_Data
 
@@ -1774,54 +942,26 @@ relativas a los sistemas que usa o a su contenido.
 + Desugaring Haskell’s do-notation into applicative operations. ~ S. Marlow et
   als. http://bit.ly/1q5p61s #Haskell
 
-*** 07-Abr-16
-
 + Automatic predicate testing in formal certification (You’ve only proven what
   you’ve said, not what you meant!) ~ F. Slama http://bit.ly/1RFuza7 #ITP 
-
-+ #Exercitium: Soluciones de "Diccionario de frecuencias" http://bit.ly/1RFu0gr
-  #Haskell #I1M2015 
-
-+ #Exercitium: Enunciado de "Números de Lucas" http://bit.ly/1RFu2Vm #Haskell
-  #I1M2015
 
 + ASlib: A benchmark library for algorithm selection. ~ B. Bischl et
   als. http://bit.ly/1qwbs8B #Algorithms #Machine_learning
 
-+ #I1M2015: El tipo abstracto de datos de los montículos en
-  Haskell. http://bit.ly/1RSwGE7 #Haskell #Algorítmica
-
-*** 08-Abr-16
-
 + Formalization of phase ordering. ~ T. Cogumbreiro, J. Shirako & V. Sarkar
   http://bit.ly/1VcDRg5 #ITP #Coq 
-
-+ #Exercitium: Soluciones de "Representación decimal de números racionales"
-  http://bit.ly/1VcCii1 #Haskell #I1M2015 
-
-+ #Exercitium: Enunciado de "Raíz entera" http://bit.ly/1VcCj5z #Haskell
-  #I1M2015
 
 + Algorithms, efficiency and complexity. ~ S. Kambhampati http://bit.ly/1VcDxxG
   #Algorithms
 
-+ Conjetura de Oppermann: Para todo número entero x>1, existe al menos un
-  número primo entre x(x-1) y x², y otro primo entre x² y x(x+1). ~ Antonio
-  Roldán @Connumeros http://bit.ly/23id9Yk #Matemáticas #Programación
-
 + Algebrite: Computer Algebra System in Javascript. http://bit.ly/1YjjJqG #CAS
   #Math #Javascript
-
-*** 09-Abr-16
 
 + (Hyper) sequent calculi for the ALC (S4) description logics. ~ J.P. Muñoz et
   als. http://bit.ly/1VGi7Iq #Logic #Programming #ML
 
 + Functional programming vs. imperative programming. http://bit.ly/1VGjlDp
   #Programming
-
-+ #I1M2015: El TAD de los multiconjuntos mediante diccionarios en
-  Haskell.http://bit.ly/1Q01iRV #Haskell #Algorítmica
 
 + Coeffects: Context-aware programming languages. ~ Tomas Petricek
   @tomaspetricek http://bit.ly/1Q03OHF #Programming via @jneira
@@ -1831,17 +971,8 @@ relativas a los sistemas que usa o a su contenido.
 
 + Premiers pas avec Python. ~ H. Hounwanou http://bit.ly/1RXTJ0a #eBook #Python
 
-*** 10-Abr-16
-
 + Datafun: a functional Datalog. ~ M. Arntzenius & N.R. Krishnaswami
   http://bit.ly/1S3uL1G #PD #Logic #Racket
-
-+ PhD student position in on-line privacy using multi-agent systems, London
-  (England). http://bit.ly/1S3ulbu #PhD #CompSci
-
-+ Can handwriting make you smarter? (Students who take notes by hand outperform
-  students who type, and more type these days, new studies
-  show). http://on.wsj.com/1S3uWdt
 
 + Algorithmic composition: A gentle introduction to music composition using
   Common LISP and Common Music. ~ M. Simoni http://bit.ly/1S3v1hl #Lisp #Music
@@ -1849,25 +980,11 @@ relativas a los sistemas que usa o a su contenido.
 + Functional models of Hadoop MapReduce with application to Scan. ~
   K. Matsuzaki [Slides] http://bit.ly/1WliHvN
 
-*** 11-Abr-16
-
 + Löb's theorem (A functional pearl of dependently typed quining). ~ J. Gross,
   J. Gallagher, B. Fallenstein http://bit.ly/1Wlk25Q #ITP #Agda #Logic
 
-+ #Exercitium: Soluciones de "Factorial generalizado" http://bit.ly/23wo4KI
-  #Haskell #I1M2015 
-
-+ #Exercitium: Enunciado de " Primos permutables" http://bit.ly/23woaSB
-  #Haskell #I1M2015
-
-+ El mal de la Universidad (y del periodismo, la ingeniería y demás
-  profesiones). ~ Esteban Hernández http://bit.ly/1NiKvJS #Universidad
-
 + Worst practices should be hard. ~ G. Gonzalez @GabrielG439 | Haskell for all
   http://bit.ly/23xESAX #Haskell 
-
-+ "In this post I hope to persuade you that Haskell is well-adapted to software
-  engineering in the large." ~ @GabrielG439 http://bit.ly/23xESAX #Haskell
 
 + A brief tour of Haskell for Scala programmers. ~ Ed Conolly
   http://bit.ly/23xGavO #Haskell #Scala
@@ -1875,16 +992,8 @@ relativas a los sistemas que usa o a su contenido.
 + Isotope: a chemistry library for calculating masses of elements and
   molecules. ~ Michael Thomas http://bit.ly/23xGZok #Haskell #Chemistry 
 
-*** 12-Abr-16
-
 + On distributive AG-groupoids. ~ A. Khan et als. http://bit.ly/1WlkKQH #ATP
   #Prover9 #Math
-
-+ #Exercitium: Soluciones de "Clases de equivalencia" http://bit.ly/1SKGaRI
-  #Haskell #I1M2015 
-
-+ #Exercitium: Enunciado de "Caminos reducidos" http://bit.ly/1SKGfou #Haskell
-  #I1M2015 
 
 + Titato: Tic tac toe in Haskell. ~ Taylor Fausak http://bit.ly/1SKGvDT
   #Haskell
@@ -1895,42 +1004,20 @@ relativas a los sistemas que usa o a su contenido.
 + Basic data analysis with CL without frameworks. ~ A. Kaygun @Atabey_Kaygun
   http://bit.ly/25WhjE9 #Lisp
 
-+ Funded PhD on concurrency modelling using ideas from formal verification at
-  Univ. of York, UK. http://bit.ly/25Wi1RU #PhD #CompSci
-
 + Mathematistan (The landscape of mathematics). ~ Martin Kuppe
   http://bit.ly/1Vl5iVE #Math
 
 + Mathematics: Measuring x laziness² ~ @ZoggTheAlien [Video]
   https://youtu.be/XqpvBaiJRHo #Math
 
-*** 13-Abr-16
-
 + A software methodology for compiling quantum programs. ~ T. Häner et
   als. http://bit.ly/23tf1O0 #Haskell #Quantum_computing 
-
-+ #Exercitium: Soluciones de "Inverso multiplicativo modular"
-  http://bit.ly/23tffod #Haskell #I1M2015 
-
-+ #Exercitium: Enunciado de "Descomposiciones con sumandos 1 ó 2"
-  http://bit.ly/23tfgZs #Haskell #I1M2015
 
 + Various computer generated pictures and animations. ~ C. Oudard
   http://bit.ly/1Q6lPnW #Haskell #Gloss
 
-*** 14-Abr-16
-
 + Machine learning and computer algebra. ~ Z. Huang http://bit.ly/1Shl8jf
   #PhD_Thesis #ATP #MetiTarski #Math #ML 
-
-+ #Exercitium: Soluciones de "Números de Lucas" http://bit.ly/1N9RR7Q #Haskell
-  #I1M2015 
-
-+ #Exercitium: Enunciado de "Suma de los elementos de las diagonales matrices
-  espirales" http://bit.ly/1N9RWbM #Haskell #I1M2015
-
-+ PostDoc in algorithms and complexity at University of Oxford. 
-  http://bit.ly/1ShlDJZ #PostDoc #CompSci
 
 + Programación funcional: ADT, teoría de categorías, functores y monads. ~
   A. Monsalve http://bit.ly/1ShmPgy #Haskell
@@ -1946,9 +1033,6 @@ relativas a los sistemas que usa o a su contenido.
 + Usos prácticos de los Monoides. ~ L. López http://bit.ly/1Sc5ZN1
   http://bit.ly/1Sc60R8 http://bit.ly/1Sc6eYk #Haskell via @HaskellMAD
 
-+ RT @SICPQuotes: Computer science itself becomes no more (and no less) than
-  the discipline of constructing appropriate descriptive languages
- 
 + What will humans do when artificial intelligence can do everything? ~ Sally
   Painter http://bit.ly/23xudK3
  
@@ -1957,16 +1041,8 @@ relativas a los sistemas que usa o a su contenido.
  
 + Max subarray in Haskell. ~ D. Lettier http://bit.ly/23xuAEk #Haskell
  
-+ RT @__josejuan__: En Haskell ocurre con mucha más frecuencia y agudeza que
-  debes elegir entre verbosidad o claridad (al menos a mí).
-
-+ "The essence of the independent mind lies not in what it thinks, but in how
-  it thinks." ~ Christopher Hitchens http://bit.ly/23xtw3l #Quote
-
-*** 15-Abr-16
- 
-+ Introduction to parallel and concurrent programming in Haskell by @BartoszMilewski
-  (Part 1-1: Why Haskell?) http://bit.ly/1qwaxUX #Haskell
++ Introduction to parallel and concurrent programming in Haskell by
+  @BartoszMilewski (Part 1-1: Why Haskell?) http://bit.ly/1qwaxUX #Haskell
  
 + Why functional programming matters. ~ J. Hughes http://ow.ly/ZbvSB #FP
  
@@ -1975,8 +1051,6 @@ relativas a los sistemas que usa o a su contenido.
 
 + Haskell: GADTs y desarrollo Web. ~ A. Serrano http://bit.ly/1qwaRTz
   #Haskell
-
-*** 16-Abr-16
 
 + Who checks the checkers? (You won’t believe the answer to this one). ~
   Z. Zhang et als. http://bit.ly/1qwbJrt #ITP #Coq
@@ -1987,41 +1061,17 @@ relativas a los sistemas que usa o a su contenido.
 + Experiments on the construction of functions. ~ Alexander Vieth
   http://bit.ly/1qwcu3M #Haskell
 
-*** 17-Abr-16
-
 + A new method of verification of functional programs. ~ A.M. Mironov
   http://bit.ly/1WyxIuc #Verification #FP
 
 + Dynamic programming in Haskell. ~ Thomas Sutton http://bit.ly/1VtGQkv
   #Haskell #Algorithms
 
-*** 18-Abr-16
-
-+ #Exercitium: Soluciones de "Primos permutables" http://bit.ly/1S4Fzhf
-  #Haskell #I1M2015 
-
-+ #Exercitium: Enunciado de "Mínima diferencia entre elementos de una lista"
-  http://bit.ly/1S4FD0B #Haskell #I1M2015
-
-+ Contract postdoctoral position in biological programming languages at
-  Microsoft Research Cambridge. http://bit.ly/1VdQfg4 #PostDoc #CompSci
-
 + Verification of randomized algorithms in the theorem prover Isabelle: open
   PhD/post doc position at TUM. http://bit.ly/1VdRgVl #PhD #CompSci 
 
-+ Postdoc position in semantics and effects. University of
-  Birmingham. http://bit.ly/1VdSgcc #PostDoc #CompSci
-
-*** 19-Abr-16
-
 + A machine-checked constructive metatheory of computation tree logic. ~
   C. Doczkal http://bit.ly/1Vz2Yui #PhD_Thesis #ITP #Coq #Logic
-
-+ #Exercitium: Soluciones de "Caminos reducidos"
-  http://bit.ly/1SWmCK0 #Haskell #I1M2015 
-
-+ #Exercitium: Enunciado de "Matriz zigzagueante"
-  http://bit.ly/1SWmKJx #Haskell #I1M2015
 
 + Hadron: Construct and run Hadoop MapReduce programs in Haskell. 
   http://bit.ly/1SQG4HQ #Haskell #MapReduce
@@ -2032,30 +1082,11 @@ relativas a los sistemas que usa o a su contenido.
 + 1st Order Logic Formal Concept Analysis: from logic programming to theory. ~
   L. Chaudron & N. Maille http://bit.ly/1qWvmJH #FCA #Logic #Programming #ILP
 
-*** 20-Abr-16
-
 + Proof-relevant pi-calculus. ~ R. Perera & J. Cheney http://bit.ly/1MHc3hw 
   #ITP #Agda
 
-+ #Exercitium: Soluciones de "Descomposiciones con sumandos 1 ó 2"
-  http://bit.ly/1MHaHmS #Haskell #I1M2015 
-
-+ #Exercitium: Enunciado de "Término ausente en una progresión aritmética"
-  http://bit.ly/1MHaKiF #Haskell #I1M2015
-
-*** 21-Abr-16
-
 + Scientific computation and functional programming. ~ J. Karczmarczuk
   http://bit.ly/1WGOyqX #Haskell #Physic #I1M2015
-
-+ #Exercitium: Soluciones de "Suma de los elementos de las diagonales matrices
-  espirales" http://bit.ly/1WGNsvt #Haskell #I1M2015 
-
-+ #Exercitium: Enunciado de "Polinomios cuadráticos generadores de primos"
-  http://bit.ly/1WGNx21 #Haskell #I1M2015
-
-+ Clasificación de las universidades españolas en función de la difusión que
-  realizan del software libre (2016). http://bit.ly/1WGSat2
 
 + learn-physics: Haskell code for learning physics. ~ S.N. Walck
   http://bit.ly/1VIjvvu #Haskell #Physics #I1M2015
@@ -2071,16 +1102,8 @@ relativas a los sistemas que usa o a su contenido.
 + Categories for programmers: Adjunctions. ~ B. Milewski @BartoszMilewski
   http://bit.ly/1Sw0GYO #Haskell
 
-*** 22-Abr-16
-
 + Lazy processing and optimization of discrete sequences. ~ J. Karczmarczuk
   http://bit.ly/1YK1ElZ #Haskell #Math
-
-+ #Exercitium: Soluciones de "Números como sumas de primos consecutivos"
-  http://bit.ly/1YK0iYd #Haskell #I1M2015 
-
-+ #Exercitium: Enunciado de "Conflictos de horarios"
-  http://bit.ly/1YK0irm #Haskell #I1M2015
 
 + Evaluating SMT solvers for software verification. ~ A. Healy et
   als. http://bit.ly/1YK19s1 #SMT #Verification
@@ -2091,15 +1114,8 @@ relativas a los sistemas que usa o a su contenido.
 + Implementing the game 2048 in less than 90 lines of Haskell. ~ Gregor Ulm
   http://bit.ly/1SfEVO0 #Haskell via @HaskellTopNews
 
-*** 23-Abr-16
-
 + Clause selection in reolution-style theorem provers. ~ R. Veroff
   http://bit.ly/1MOyKAn #ATP
-
-+ Ph.D. position in security modeling at IRISA in Rennes, France. 
-  http://bit.ly/1VJohtd #PhD #CompSci
-
-*** 24-Abr-16
 
 + The most unreliable technique in the world to compute pi. ~ J. Karczmarczuk
   http://bit.ly/1SEH1ZS #Haskell #Math
@@ -2119,58 +1135,11 @@ relativas a los sistemas que usa o a su contenido.
 + Bombyard: a clone of the minesweeper game in Haskell. ~ T. Fausak @TaylorFausak 
   http://bit.ly/1MQOEKw #Haskell #Game #Gloss
 
-*** 25-Abr-16
-
 + Functional differentiation of computer programs. ~ J. Karczmarczuk
   http://bit.ly/1SmoFL8 #Haskell #Math 
 
-+ #Exercitium: Soluciones de "Mínima diferencia entre elementos de una lista"
-  http://bit.ly/1pwXFgk #Haskell #I1M2015 
-
-+ #Exercitium: Enunciado de "Productos simultáneos de dos y tres números
-  consecutivos" http://bit.ly/1pwXJNg #Haskell #I1M2015
-
-+ #I1M2015: Ejercicios sobre el TAD de los montículos en Haskell. 
-  http://bit.ly/1NKiviG #Haskell #Algorítmica
-
-+ #I1M2015: Algoritmos de ordenación en Haskell. http://bit.ly/1WlaXcP 
-  #Haskell #Algorítmica
-
-*** 26-Abr-16
-
-+ #Exercitium: Soluciones de "Matriz zigzagueante"
-  http://bit.ly/1qOlrWf #Haskell #I1M2015 
-
-+ #Exercitium: Enunciado de "Numeración con múltiples bases"
-  http://bit.ly/1qOlmSv #Haskell #I1M2015
-
-+ PhD student position in formal modeling and analysis of security, Rennes
-  (France). http://bit.ly/1pArNaF #PhD #CompSci
-
-+ PhD student position in theoretical computer science, Karlsruhe
-  (Germany). http://bit.ly/1pArVHo #PhD #CompSci
-
-*** 27-Abr-16
-
-+ #Exercitium: Soluciones de "Término ausente en una progresión aritmética"
-  http://bit.ly/1Sr7JTZ #Haskell #I1M2015 
-
-+ #Exercitium: Enunciado de "Mínimo número de cambios para igualar una lista"
-  http://bit.ly/1Sr7Q1R #Haskell #I1M2015
-
-*** 28-Abr-16
-
 + A verified and executable implementation of reduced ordered binary decision
   diagrams in Isabelle/HOL. ~ J. Michaelis et als. http://bit.ly/24lwTHz 
-
-+ #Exercitium: Soluciones de "Polinomios cuadráticos generadores de primos"
-  http://bit.ly/1rB7goB #Haskell #I1M2015 
-
-+ #Exercitium: Enunciado de "Pandigitales primos" http://bit.ly/1rB7hIU 
-  #Haskell #I1M2015
-
-+ Postdoc position in domain-specific languages. Tufts
-  University. http://bit.ly/1N2h1p5 #PostDoc #CompSci
 
 + Vers une théorie de l'intelligence. ~ J.P. Delahaye http://bit.ly/1N2hebY #AI
   via @interstices_eu
@@ -2185,56 +1154,21 @@ relativas a los sistemas que usa o a su contenido.
   http://bit.ly/1rBZYRi #Haskell #Math
 
 + A Cantor trio: denumerability, the reals, and the real algebraic numbers. ~
-  R. Gamboa & J. Cowles http://bit.ly/1rC3fjy #ITP #ACL2 #Math via
-  @spectrumgomas
-
-*** 29-Abr-16
+  R. Gamboa & J. Cowles http://bit.ly/1rC3fjy #ITP #ACL2 #Math 
 
 + A formalisation of the Cocke-Younger-Kasami algorithm in Isabelle/HOL. ~
   M. Bortin http://bit.ly/21iE8yg #ITP #IsabelleHOL
 
-+ #Exercitium: Soluciones de "Conflictos de horarios"
-  http://bit.ly/1rmuw9c #Haskell #I1M2015 
-
-+ #Exercitium: Enunciado de "Operaciones con series de potencias"
-  http://bit.ly/1SvIy2y #Haskell #I1M2015
-
-+ Postdoctoral position in mathematical logic, Salerno
-  (Italy). http://bit.ly/248n96Y #PostDoc #Logic
-
-+ Postdoctoral or PhD student position in computation with bounded resources,
-  Innsbruck (Austria). http://bit.ly/248njv1 #PhD #PostDoc #CompSci
-
 + A port of MiniPRL to Haskell with co-/inductive types bolted on the side. ~
   T. Sutton @thsutton http://bit.ly/248nK8H #Haskell 
-
-*** 30-Abr-16
 
 + No faster-than-light observers (Using Isabelle/HOL to verify first-order
   relativity theory) ~ M. Stannett, I Németi http://bit.ly/1Un31YK #IsabelleHOL
 
-+ PhD position in formal modelling and verification for high assurance at KTH
-  Royal Institute of Technology. http://bit.ly/1SE6FsD #PhD #CompSci
-
-+ #I1M2105: Ejercicios con el TAD de los polinomios en Haskell.
-  http://bit.ly/1VYFkXz #Haskell #Matemáticas 
-
-+ #I1M2015: División y factorización de polinomios mediante la regla de Ruffini
-  en Haskell. http://bit.ly/1SQlWc0 #Haskell #Matemáticas 
-
-+ #I1M2015: El TAD de los polinomios en Haskell. http://bit.ly/1TkNt2y 
-  #Haskell #Matemáticas 
-
-+ #I1M2015: El tipo abstracto de datos de grafos en Haskell. 
-  http://bit.ly/1VFbeZy #Haskell #Matemáticas 
-
 + A Turing machine simulator written in Haskell. ~ N. Lochner 
   http://bit.ly/1YXmTRl #Haskell
 
-
 ** Mayo 2016
-
-*** 01-May-16
 
 + Formal verification of NTRUEncrypt scheme. ~ G.R. Moghissi, A. Payandeh
   http://bit.ly/1TcW0UX #ITP #IsabelleHOL
@@ -2242,16 +1176,8 @@ relativas a los sistemas que usa o a su contenido.
 + Structuring depth-first search algorithms in Haskell. ~ D.J. King,
   J. Launchbury http://bit.ly/1TcWpqn #Haskell
 
-*** 02-May-16
-
 + A formal exploration of Nominal Kleene Algebra. ~ P. Brunet, D. Pous
   http://bit.ly/1WBGjfz #ITP #Coq #Logic 
-
-+ #Exercitium: Soluciones de "Productos simultáneos de dos y tres números
-  consecutivos" http://bit.ly/1QMdxBO #Haskell #I1M2015 
-
-+ #Exercitium: Enunciado de "Expresiones aritmética normalizadas"
-  http://bit.ly/1QMdB4D #Haskell #I1M2015 
 
 + MapReduce program synthesis. ~ C. Smith, A. Albarghouthi
   http://bit.ly/1QMfLRR #MapReduce #Verification
@@ -2261,27 +1187,11 @@ relativas a los sistemas que usa o a su contenido.
 + A programming and problem-solving seminar. ~ J.D. Hobby & D.E. Knuth (1983)
   http://stanford.io/23i2UOp #Programming via ‏@spectrumgomas 
 
-*** 03-May-16
-
 + Gröbner bases theory in Isabelle/HOL. ~ F. Immler & A. Maletzky
   http://bit.ly/1X60enl #ITP #IsabelleHOL #Math 
 
-+ #Exercitium: Soluciones de "Numeración con múltiples bases"
-  http://bit.ly/1X5ZtuA #Haskell #I1M2015 
-
-+ #Exercitium: Enunciado de "Mezcla de infinitas listas infinitas"
-  http://bit.ly/1X5ZwXf #Haskell #I1M2015
-
-*** 04-May-16
-
 + Notions of computation as monoids. ~ E. Rivas & M. Jaskelioff.
   http://bit.ly/21vkKy2 #Haskell 
-
-+ #Exercitium: Soluciones de "Mínimo número de cambios para igualar una lista"
-  http://bit.ly/21vjNpD #Haskell #I1M2015 
-
-+ #Exercitium: Enunciado de "Período de una lista"
-  http://bit.ly/1X61eb8 #Haskell #I1M2015
 
 + Functional data structures. ~ M. Ivanovié & V. Kumcak. 
   http://bit.ly/21vlnHP #Haskell
@@ -2289,59 +1199,17 @@ relativas a los sistemas que usa o a su contenido.
 + El problema de los tres caballeros y los tres criados ~ R. Ibáñez @mtpibtor
   http://bit.ly/26U9pvq #Matemáticas #Computación vía @CCCientifica
 
-*** 05-May-14
-
-+ #Exercitium: Soluciones de "Pandigitales primos"
-  http://bit.ly/21yU93h #Haskell #I1M2015 
-
-+ #Exercitium: Enunciado de "Número de divisiones en el algoritmo de Euclides"
-  http://bit.ly/21yUfb3 #Haskell #I1M2015
-
 + Spivey's generalized recurrence for Bell numbers in Isabelle/HOL. ~
   L. Bulwahn http://bit.ly/21yVdny #ITP #IsabelleHOL #Math #AFP
 
 + Juega con el ordenador cuántico de IBM. ~ David Sarabia @DSRELD
   http://bit.ly/21yXoru #Programación vía @eldiariocultura
 
-*** 06-May-16
-
-+ #Exercitium: Soluciones de "Operaciones con series de potencias"
-  http://bit.ly/1ZkRtEx #Haskell #I1M2015 
-
-+ #Exercitium: Enunciado de "Cadenas de divisores"
-  http://bit.ly/1ZkRw39 #Haskell #I1M2015
-
-+ Two #PhD studentships in the area of correct and efficient programming for
-  concurrent and parallel systems. IC, London. http://bit.ly/1ZmQ2FJ #CompSci
-
-+ Postdoctoral position in Algorithms, TU Munich (Germany). 
-  http://bit.ly/1ZmRV5c #PostDoc #CompSci
-
-+ #VeriFun: a reasoning system for #verification of statements about programs
-  written in a simple functional language. http://bit.ly/1ZmTr7t
-
 + Formal methods engineer at Mitsubishi Electric R&D Centre in Rennes,
   France. http://bit.ly/1ZmUxjw #Job #CompSci
 
-+ Several postdoctoral and Ph.D. positions at ENS Lyon, France, in the area of
-  verification and certification. http://bit.ly/1ZmUUKQ #PhD #PostDoc #CompSci
-
 + RustBelt: Logical foundations for the future of safe systems
   programming. http://bit.ly/1ZmW0Gx 
-
-+ RT @smdiehl: I'm advising an exciting new Haskell company in Palo Alto area,
-  if you're interested in a job in numerical computing and Haskell, DM me.
- 
-+ RT @GabrielG439: Apparently Liquid Haskell now has experimental support for
-  generating counter-examples for refinement type errors: http://bit.ly/1STDaGF
-
-+ RT @CompSciFact: Programming by Poking http://bit.ly/1STDftU You have to work
-  on things too big to really understand. So you poke.
- 
-+ RT @sanchocaparrini: Self Organizing Maps (SOM) in #NetLogo http://bit.ly/1STDg17 #AI
-  #ArtificialIntelligence https://t.co/HJY4YZ0jOT
- 
-*** 07-May-16
 
 + Randomised social choice theory in Isabelle/HOL. ~ M. Eberl
   http://bit.ly/1STDFAt #ITP #IsabelleHOL #AFP 
@@ -2360,8 +1228,6 @@ relativas a los sistemas que usa o a su contenido.
 + Implementation of Aho-Corasick algorithm in Haskell. http://bit.ly/1STFjlz 
   #Haskell #Algorithm
 
-*** 08-May-16
-
 + Solving and verifying the boolean Pythagorean Triples problem via
   Cube-and-Conquer. ~ M.J.H. Heule et als. http://bit.ly/1TNNGy7 #ATP #SAT
 
@@ -2370,51 +1236,23 @@ relativas a los sistemas que usa o a su contenido.
 + Comparison of implementations of the Newton-Raphson in Python and
   Clojure. http://bit.ly/274mTol #Python #Clojure #Math
 
-+ #I1M2015: Ejercicios sobre la implementación del TAD de grafos mediante
-  listas. http://bit.ly/21K83Q3 #Haskell #Algoritmica
-
-+ #I1M2015: Ejercicios con el TAD de grafos en Haskell. http://bit.ly/1SW3FeI 
-  #Haskell #Algoritmica #Matemáticas
-
 + Combinat: A collection of functions to generate, manipulate, visualize and
   count combinatorial objects. http://bit.ly/1WToYPf #Haskell #Math
-
-*** 09-May-16
 
 + A formal proof of the max-flow min-cut theorem for countable networks. ~
   A. Lochbihler http://bit.ly/1s6ZGCh #ITP #IsabelleHOL 
 
-+ #Exercitium: Soluciones de "Expresiones aritmética normalizadas"
-  http://bit.ly/1rCgAYO #Haskell #I1M2015 
-
-+ #Exercitium: Enunciado de "Conjuntos de primos emparejables"
-  http://bit.ly/1rCgBw3 #Haskell #I1M2015
-
 + Some concepts from automata theory in Haskell. ~ Samuel Schlesinger
   http://bit.ly/1s70mHG #Haskell
-
-*** 10-May-16
 
 + Category theory in Coq 8.5. ~ A. Timany, B. Jacobs http://bit.ly/1OdGZWZ 
   #ITP #Coq
 
-+ #Exercitium: Soluciones de "Mezcla de infinitas listas infinitas"
-  http://bit.ly/1TBoBDI #Haskell #I1M2015 
-
-+ #Exercitium: Enunciado de "Sucesión fractal" http://bit.ly/1TBoEzg #Haskell
-  #I1M2015
-
 + User-defined literals in Haskell via QuasiQuotes. ~ Harry Garrood @hdgarrood
   http://bit.ly/1TBpsUT #Haskell 
 
-+ PostDocs and PhD positions on the project "Skye: A programming language
-  bridging theory and practice for scientific data
-  curation". http://bit.ly/27a1c6y
-
 + Functional programming in practice. ~ M. Borkent @borkdude
   http://bit.ly/27a2bUa #Scala #Haskell #Clojure
-
-*** 11-May-16
 
 + A mathematical proof takes 200 terabytes to state. ~ M. James
   http://bit.ly/1OmSXbx #ATP #SAT #Math via @Iprogrammerinfo 
@@ -2422,53 +1260,19 @@ relativas a los sistemas que usa o a su contenido.
 + Solving and verifying the boolean pythagorean triples problem via
   cube-and-conquer. ~ M.J.H. Heule et als. http://bit.ly/1OmSS7J #ATP #SAT 
 
-+ #Exercitium: Soluciones de "Período de una lista"
-  http://bit.ly/1OmSdDq #Haskell #I1M2015 
-
-+ #Exercitium: Enunciado de "Densidad de números no monótonos"
-  http://bit.ly/1OmSeqO #Haskell #I1M2015
-
 + An introduction to Moessner's theorem and Moessner's sieve. ~ P. Urbak @Urbak
   http://bit.ly/1OmTf2e #Haskell #Math
 
 + A dual to Moessner's sieve. ~ P. Urbak @Urbak http://bit.ly/1OmTpqr #Haskell #Math
 
-*** 12-May-16
-
 + Formalizing graph theory and planarity certificates. ~ L. Noschinski
   http://bit.ly/1It1bBI #PhD_Thesis #Isabelle_HOL
-
-+ #Exercitium: Soluciones de "Número de divisiones en el algoritmo de Euclides"
-  http://bit.ly/1TR505b #Haskell #I1M2015 
-
-+ #Exercitium: Enunciado de "Juego de bloques con letras"
-  http://bit.ly/1TR50lI #Haskell #I1M2015
 
 + HLinear: Exact dense linear algebra in Haskell. ~ A. Ghitza &
   M. Westerholt-Raum http://bit.ly/1ZA0WYU #Haskell #Math 
 
-+ Privatización de la Ciencia en una Universidad cada vez más miserable. ~
-  R. Bermúdez de Castro http://bit.ly/1QZC2M6 #Universidad
-
-+ PhD student position in Algorithms, Bergen (Norway). http://bit.ly/1QZCbz8 
-  #PhD #CompSci
-
-+ Postdoctoral position in logic, Amsterdam (The Netherlands). 
-  http://bit.ly/1QZCauY #PostDoc #Logic #CompSci
-
-+ #PhD (#PostDoc) position in software verification and synthesis at the Max
-  Planck Institute for Software Systems http://bit.ly/1WsRBVb #CompSci
-
-*** 13-May-16
-
 + A mechanization of the Blakers-Massey connectivity theorem in Homotopy Type
   Theory. ~ K.B. Hou et als. http://bit.ly/22380z1 #ITP #Agda #HoTT
-
-+ #Exercitium: Soluciones de "Cadenas de divisores" http://bit.ly/1X5UZnq
-  #Haskell #I1M2015 
-
-+ #Exercitium: Enunciado de "Problema de las puertas" http://bit.ly/1R0JXc3
-  #Haskell #I1M2015
 
 + A characteristic function of Moessner's sieve~ P. Urbak @Urbak
   http://bit.ly/1OmZoki #Haskell #Math 
@@ -2478,8 +1282,6 @@ relativas a los sistemas que usa o a su contenido.
 
 + A relatively small Turing machine whose behavior is independent of set
   theory. ~ A. Yedidia & S. Aaronson http://bit.ly/1OmZWH0 #Math #CompSci
-
-*** 14-May-16
 
 + Mindless, verified (erasably) coding using dependent types. ~ Jonathan
   Leivent http://bit.ly/1TcldzK #Coq #Algorithms 
@@ -2505,32 +1307,7 @@ relativas a los sistemas que usa o a su contenido.
 + Verified functional programming in Agda ~ A. Stump http://bit.ly/1oV9XNI
   #eBook #Agda #FP #Logic #Programming
 
-+ #I1M2015: El patrón de divide y vencerás en Haskell. http://bit.ly/1XqAulX
-  #Haskell #Algorítmica
-
-+ #I1M2015: El patrón de búsqueda en espacios de estados en Haskell. 
-  http://bit.ly/1XqAUbM #Haskell #Algorítmica
-
-+ #LMF2016: Tableros semánticos. http://bit.ly/1Tg2AgL #Lógica
-
-+ #LMF2016: Formales normales conjuntivas y disyuntivas. http://bit.ly/1Oq6ZP4 
-  #Lógica
-
-+ #LMF2016: Resolución proposicional. http://bit.ly/1TcFcle #Lógica
-
-+ #LMF2016: Estrategias y refinamientos de resolución. http://bit.ly/1TcQv9F 
-  #Lógica
-
-+ #LMF2016: Algoritmo DPLL (Davis, Putnam, Logemann y Loveland). 
-  http://bit.ly/1TcSif3 #Lógica
-
-+ #LMF2016: Formas normales de Skolem y cláusulas. http://bit.ly/1TcThMj #Lógica
-
-+ #LMF2016: Resolución en lógica de primer orden. http://bit.ly/1TcTS0w #Lógica
-
 + Algorithms for bayesian networks. ~ @alpheccar http://bit.ly/1rLUVxo #Haskell
-
-*** 15-May-16
 
 + Automated theorem proving in a first-order logic with first class boolean
   sort. ~ E. Kotelnikov http://bit.ly/1Xs18e1 #ATP #Logic 
@@ -2540,9 +1317,6 @@ relativas a los sistemas que usa o a su contenido.
 
 + MendellianGenetics: Project for simulating Mendel's genetics. Written in
   Haskell. http://bit.ly/1Xs1X6A #Haskell #Genetics
-
-+ Lisp-Lang.org: a promotional Common Lisp website. http://lisp-lang.org #Lisp
-  via @reddit_lisp
 
 + Simplified Common Lisp reference. ~ Jakub Trávník http://bit.ly/1Xs2FRf #Lisp
 
@@ -2557,22 +1331,11 @@ relativas a los sistemas que usa o a su contenido.
 + Formalization of quantum protocols using Coq. ~ J. Boender, F. Kammüller &
   R. Nagarajan http://bit.ly/1ZSuiBU #Coq
 
-+ Research associate positions in refactoring functional programs and formal
-  verification (for CakeML). Univ. of Kent http://bit.ly/1spwTci #Job #CompSci
-
 + Implementing programming languages. ~ A. Ranta http://bit.ly/1spxYAO 
   #eBook #Programming
 
-*** 16-May-16
-
 + Learn you an Agda and achieve enlightenment! ~ Liam O’Connor-Davis
   http://bit.ly/1ZVHc1S #Agda  
-
-+ #Exercitium: Soluciones de "Conjuntos de primos emparejables"
-  http://bit.ly/1ZVDGVc #Haskell #I1M2015 
-
-+ #Exercitium: Enunciado de "Sucesión duplicadora"
-  http://bit.ly/1ZVDDc1 #Haskell #I1M2015 
 
 + Haskell design patterns: .Extended modules. ~ Jasper Van der Jeugt @jaspervdj
   http://bit.ly/27qxt9u #Haskell via @jaspervdj
@@ -2580,16 +1343,8 @@ relativas a los sistemas que usa o a su contenido.
 + Plastelina interactive logic games. http://www.plastelina.net #Logic #Game 
   #I1M2015
 
-*** 17-May-16
-
 + Loopless gray code enumeration and the tower of Bucharest. ~ F. Herter &
   G. Rote http://bit.ly/1TdxWYm #Algorithms #Python
-
-+ #Exercitium: Soluciones de "Sucesión fractal" http://bit.ly/1TBoEzg #Haskell
-  #I1M2015 
-
-+ #Exercitium: Enunciado de "Problema del dominó" http://bit.ly/1Tdx3z0
-  #Haskell #I1M2015 
 
 + A Nobel laureate's education plea: revolutionize
   teaching. http://n.pr/1VZBZb9 #Teaching Via @NPR
@@ -2597,30 +1352,11 @@ relativas a los sistemas que usa o a su contenido.
 + Lightweight higher-order rewriting in Haskell. ~ E. Axelsson & A. Vezzosi
   http://bit.ly/1Q8V2Lk #Haskell
 
-*** 18-May-16
-
 + Towards a theory of reach. ~ J. Fowler & G. Huttom http://bit.ly/1OxwHMk 
   #Haskell
 
-+ #Exercitium: Soluciones de "Densidad de números no monótonos"
-  http://bit.ly/1TmPK0d #Haskell #I1M2015 
-
-+ #Exercitium: Enunciado de "Problema de las jarras"
-  http://bit.ly/1TmPEFS #Haskell #I1M2015
-
-+ Target Haskell data scientist job in Sunnyvale, California, United
-  States. http://bit.ly/1WEjh98 #Job #Haskell #DataScience
-
-*** 19-May-16
-
 + Type class instances for type-level lambdas in Haskell. ~ T. Alkemade &
   J. Jeuring http://bit.ly/1Oxx4qa #Haskell
-
-+ #Exercitium: Soluciones de "Juego de bloques con letras"
-  http://bit.ly/208NFa2 #Haskell #I1M2015 
-
-+ #Exercitium: Enunciado de "Particiones de longitud fija"
-  http://bit.ly/208NFa2 #Haskell #I1M2015
 
 + Haskell communities and activities report (May 2016). 
   http://bit.ly/1rVvj1g #Haskell
@@ -2637,24 +1373,14 @@ relativas a los sistemas que usa o a su contenido.
 + DSLsofMath: Domain specific languages of mathematics. http://bit.ly/1suSCPk
   #Haskell #Math
 
-*** 20-May-16
-
 + Programmable signatures. ~ A. Persson & E. Axelsson http://bit.ly/1OxxwF0 
   #Haskell
-
-+ #Exercitium: Soluciones de "Problema de las puertas" http://bit.ly/1VcUSpX
-  #Haskell #I1M2015 
-
-+ #Exercitium: Enunciado de "Sucesiones de listas de números"
-  http://bit.ly/1VcVe03 #Haskell #I1M2015 
 
 + Functional differential geometry. ~ G.J. Sussman, J. Wisdom & W. Farr
   http://bit.ly/25clBJB #FP #Scheme
 
 + The world's first artificially intelligent lawyer gets hired. ~ C. Weller
   http://til.ink/1VcVqwa #AI via @jborrego
-
-*** 21-May-16
 
 + Perron-Frobenius theorem for spectral radius analysis in Isabelle/HOL. ~
   J. Divasón et als. http://bit.ly/1VemISZ #IsabelleHOL #Vestigium
@@ -2664,11 +1390,6 @@ relativas a los sistemas que usa o a su contenido.
 
 + Sequence implementations in Haskell. ~ P.R. Borges http://bit.ly/20i4bV4 
   #Haskell 
-
-*** 22-May-16
-
-+ #Vestigium: Perron-Frobenius theorem for spectral radius analysis. 
-  http://bit.ly/1RfcWZF #IsabelleHOL
 
 + Axioms for modelling cubical type theory in a topos. ~ I. Orton & A.M. Pitts
   http://bit.ly/1NDS9Vd #ITP #Agda
@@ -2680,18 +1401,8 @@ relativas a los sistemas que usa o a su contenido.
 
 + Emacs support library for PDF files. http://bit.ly/1TsE5KZ #Emacs #PDF
 
-*** 23-May-16
-
 + Compass-free navigation of mazes. ~ P. Scott & J. Fleuriot
   http://bit.ly/1NDSIOB #ITP #HOL_Light
-
-+ #Exercitium: Soluciones de "Sucesión duplicadora"
-  http://bit.ly/25aMpql #Haskell #I1M2015 
-
-+ #Exercitium: Enunciado de "La sucesión del reloj astronómico de Praga"
-  http://bit.ly/25aMxGc #Haskell #I1M2015
-
-+ #Vestigium: Flag-based big-step semantics. http://bit.ly/1WM4Pwx #ITP #Coq
 
 + CodeWorld’s big decisions. ~ C. Smith  http://bit.ly/1WbMcl2 #Haskell 
   #Teaching #CodeWorld
@@ -2714,47 +1425,17 @@ relativas a los sistemas que usa o a su contenido.
 + The joy and agony of Haskell in production. ~ S. Diehl @smdiehl 
   http://bit.ly/1OSmpfg #Haskell via @CompSciFact
 
-+ #I1M2015: Libro con las soluciones de todas las relaciones de ejercicios de
-  programación funcional con #Haskell http://bit.ly/1OicMmg
-
 + Functional programming with structured graphs. ~  B.C.d.S. Oliveira &
   W.R. Cook http://bit.ly/1s4U9Mh #Haskell
-
-*** 24-May-16
 
 + A modular way to reason about iteration. ~ J.C. Filliätre & M. Pereira
   http://bit.ly/1TBf8AC #Why3
 
-+ #Exercitium: Soluciones de "Problema del dominó"
-  http://bit.ly/1szuDyy #Haskell #I1M2015 
-
-+ #Exercitium: Enunciado de "El problema de las N torres"
-  http://bit.ly/1szuQ4P #Haskell #I1M2015 
-
-+ #Vestigium: Compass-free navigation of mazes. http://bit.ly/25j4CoZ #ITP 
-  #HOL_Ligth
-
-*** 25-May-16
-
 + Formal verification of real-time function blocks using PVS. ~ L. Pang et
   als. http://bit.ly/242QJoZ #ITP #PVS
 
-+ #Exercitium: Soluciones de "Problema de las jarras"
-  http://bit.ly/27RVR4c #Haskell #I1M2015 
-
-+ #Exercitium: Enunciado de "Centro de gravedad de una lista"
-  http://bit.ly/27RWbQj #Haskell #I1M2015 
-
-*** 26-May-16
-
 + Refinement based verification of imperative data structures. ~ P. Lammich
   http://bit.ly/242RoGU #ITP #IsabelleHOL
-
-+ #Exercitium: Soluciones de "Particiones de longitud fija"
-  http://bit.ly/1sbRmkg #Haskell #I1M2015 
-
-+ #Exercitium: Enunciado de "Caminos en una retícula"
-  http://bit.ly/1sbRekU #Haskell #I1M2015
 
 + Practical dependent types in Haskell: Type-safe neural networks (Part 1). ~
   Justin Le @mstk http://bit.ly/1sbSFzR #Haskell
@@ -2768,33 +1449,10 @@ relativas a los sistemas que usa o a su contenido.
 + PhD position at INRIA Grenoble: "Programming IoT and software defined radio
   with dynamic data-flow models of computation" http://bit.ly/1TLkCZF #PhD #CompSci
 
-+ #MULCIA: Recopilación de ofertas de trabajo de interés para el Máster en
-  Lógica, Computación e I.A. de la Univ. de Sevila. http://bit.ly/1P0EZle
-
-+ #I1M2015: Cursos de programación funcional con Haskell. http://bit.ly/1TYTx0Y 
-  #Haskell
-
-+ #LI2015: Cursos de Lógica computacional. http://bit.ly/1TYTlix #Lógica 
-  #LMF2016
-
-+ #RA2015: Cursos de razonamiento automático y demostración asistida por
-  ordenador. http://bit.ly/1P0Gujt #DAO #Isabelle #Coq
-
 + A practical Template Haskell tutorial. http://bit.ly/1Ru0aqu #Haskell
-
-*** 27-May-16
 
 + Specification and proof of high-level functional properties of bit-level
   programs. ~ C. Fumex et als.  http://bit.ly/1TBhkIo #Why3
-
-+ #Exercitium: Soluciones de "Sucesiones de listas de números"
-  http://bit.ly/1OQJVUx #Haskell #I1M2015 
-
-+ #Exercitium: Enunciado de "Construcción del árbol a partir de los recorridos
-  preorden e inorden" http://bit.ly/1OQKdLc #Haskell #I1M2015 
-
-+ #Vestigium: Refinement based verification of imperative data structures. 
-  http://bit.ly/1VkyZVU #IsabelleHOL
 
 + Una máquina de Turing construida en «el juego de la vida». ~ @Alvy
   http://bit.ly/1TEaj69 #Computación vía @Microsiervos
@@ -2814,8 +1472,6 @@ relativas a los sistemas que usa o a su contenido.
 + ¿Matemáticas para la industria, matemáticas de segunda? ~ Mikel Lezaun
   http://bit.ly/25lZflB #Matemáticas 
 
-*** 28-May-16
-
 + Deductive evaluation: formal code analysis with low user burden. ~ B.L. Di
   Vito http://bit.ly/1sE3Q4e #PVS 
 
@@ -2829,69 +1485,25 @@ relativas a los sistemas que usa o a su contenido.
 + Philosophical questions about programming. ~ Tomas Petricek @tomaspetricek
   http://bit.ly/1X3LhE2 #Programming via @jneira
 
-*** 29-May-16
-
 + The matrix reproved (Verification Pearl). ~ M. Clochard, L. Gondelman &
   M. Pereira http://bit.ly/1TNCh1q #Why3 #Math
-
-*** 30-May-16
 
 + Producing all ideals of a forest, formally (verification pearl). ~
   J.C. Filliâtre & M. Pereira http://bit.ly/1X7Kcep #Why3 
 
-+ #Exercitium: Soluciones de "La sucesión del reloj astronómico de Praga"
-  http://bit.ly/1REqRIU #Haskell #I1M2015 
-
-+ #Exercitium: Enunciado de "Cadenas de primos complementarios"
-  http://bit.ly/1REr6DK #Haskell #I1M2015
-
 + Semantic systems application architect (KTP associate). Univ. of
   Manchester. http://bit.ly/1U6ZaKD #Job #CompSci
-
-+ Two-year postdoctoral positions at the Institute UC3M-BS of Financial Big
-  Data, Univ. Carlos III de Madrid, Spain. http://bit.ly/27YHdrP #PostDoc
-
-*** 31-May-16
 
 + Formal verification of the rank algorithm for succinct data structures. ~
   A. Tanaka, R. Affeldt & J. Garrigue http://bit.ly/1O0PrsW #Coq #BigData 
 
-+ #Exercitium: Soluciones de "El problema de las N torres"
-  http://bit.ly/1O0OdxR #Haskell #I1M2015 
-
-+ #Exercitium: Enunciado de "Sucesión infinita de todas las palabras"
-  http://bit.ly/1O0Ol0g #Haskell #I1M2015
-
 + CSV encoding and decoding in Haskell with Cassava. ~ J.P. Villa
   http://bit.ly/22w71aO #Haskell #Data_Science
 
-
-
-
-
-
-
-
 ** Junio 2016
-
-*** 01-Jun-16
-
-+ #Exercitium: Soluciones de "Centro de gravedad de una lista"
-  http://bit.ly/1PlZgCa #Haskell #I1M2015 
-
-+ #Exercitium: Enunciado de "Números con un segmento divisible por su longitud"
-  http://bit.ly/1Pm0sFs #Haskell #I1M2015 
-
-*** 02-Jun-16
 
 + MathCheck2: A SAT+CAS verifier for combinatorial conjectures. ~ C. Bright et
   als. http://bit.ly/1Pm1UYx #SAT #CAS #Math 
-
-+ #Exercitium: Soluciones de "Caminos en una retícula" http://bit.ly/1Pm05eg
-  #Haskell #I1M2015 
-
-+ #Exercitium: Enunciado de "Sucesión de sumas de dígitos"
-  http://bit.ly/1Pm0QE9 #Haskell #I1M2015 
 
 + Proof assistants as a routine tool? ~ Neil Strickland http://bit.ly/22zaWn8 
   #ITP
@@ -2905,8 +1517,6 @@ relativas a los sistemas que usa o a su contenido.
 + A very general method of computing shortest paths. ~ Russell O’Connor
   http://bit.ly/1Pm4qxV #Haskell via @GabrielG439
 
-*** 03-Jun-16
-
 + Cardinality of equivalence relations in Isabelle/HOL. ~ L. Bulwahn
   http://bit.ly/1Xn3fRR #ITP #IsabelleHOL #AFP
 
@@ -2918,8 +1528,6 @@ relativas a los sistemas que usa o a su contenido.
 
 + From Cbits to Qbits: Teaching computer scientists quantum mechanics. ~
   N.D. Mermin http://bit.ly/1Xn7bC5
-
-*** 04-Jun-16
 
 + Mechanizing proofs about Mendler-style recursion. ~ R. Jacob-Rao, A. Cave &
   B. Pientka http://bit.ly/1TOtrhQ #Coq
@@ -2939,8 +1547,6 @@ relativas a los sistemas que usa o a su contenido.
 + Does this drone sport the World's most secure OS? ~ Jeremy Kirk
   http://bit.ly/1U4NsEr #sel4 #Verification
 
-*** 05-Jun-16
-
 + Towards verified construction for planar class of a qualitative spatial
   representation. ~ S. Moriguchi et als. http://bit.ly/1Uq13C3 #ITP #Coq
 
@@ -2951,8 +1557,6 @@ relativas a los sistemas que usa o a su contenido.
 
 + How programming supports math class, not the other way around. ~ C. Bartlo
   @cbartlo http://bit.ly/1Uq3Uee #Programming #Math
-
-*** 06-Jun-16
 
 + Perspectives for proof unwinding by programming languages techniques. ~
   D. Ilik http://bit.ly/1Xw1Fxf #Logic #Math #CompSci
@@ -2972,17 +1576,11 @@ relativas a los sistemas que usa o a su contenido.
 + Software foundations, version 4.0 (May 2016). ~ Benjamin C. Pierce et
   als. http://bit.ly/25HDRr4 #Coq #Logic #CompSci
 
-*** 07-Jun-16
-
 + Haskell style guide. ~ J. Tibell @johtib http://bit.ly/1WDoGO4 #Haskell via
   @HaskellTopNews
 
-*** 08-Jun-16
-
 + Formalization of normal random variables. ~ M. Qasim http://bit.ly/1X9J49o
   #ITP #HOL
-
-*** 09-Jun-16
 
 + nanoCoP: A non-clausal connection prover. ~ J. Otten http://bit.ly/1RXLqQN
   #ATP #Logic #Prolog #CompSci
@@ -3016,8 +1614,6 @@ relativas a los sistemas que usa o a su contenido.
 + Create a game with Haskell. http://www.hgamer3d.org #Haskell #Game via
   @HaskellTopNews
 
-*** 10-Jun-16
-
 + Formalizing semantic bidirectionalization with dependent types. ~ H. Grohne,
   A. Löh & J. Voigtländer http://bit.ly/1rfOou2 #ITP #Agda
 
@@ -3038,8 +1634,6 @@ relativas a los sistemas que usa o a su contenido.
 + A complete tutorial to learn data science in R from scratch. ~ Manish
   Saraswat http://bit.ly/1UkXBNx #Rstats #DataScience
 
-*** 11-Jun-16
-
 + Formally verified countermeasures against cache based attacks in
   virtualization platforms. ~ J. Campo http://bit.ly/1RZRFDP #PhD_Thesis #Coq
 
@@ -3047,8 +1641,6 @@ relativas a los sistemas que usa o a su contenido.
 
 + Analysing big time-series data in the cloud. ~ T. Petricek
   http://bit.ly/1U6fGk7 @tomaspetricek #Fsharp #BigData
-
-*** 12-Jun-16
 
 + Formal methods for secure software construction. ~ B. Goodspeed
   http://bit.ly/1QcQ9UR #Idris
@@ -3059,8 +1651,6 @@ relativas a los sistemas que usa o a su contenido.
 + HGeometry: Geometric algorithms, data structures, and data types. ~ Frank
   Staals http://bit.ly/1WKi3tj #Haskell #Math 
 
-*** 13-Jun-16
-
 + Proving type class laws for Haskell. ~ A. Arvidsson, M. Johansson & R. Touche
   http://bit.ly/1PmLPfP #Haskell
 
@@ -3069,15 +1659,11 @@ relativas a los sistemas que usa o a su contenido.
 
 + The Recamán sequence. ~ Brent Yorgey http://bit.ly/25WATiF #Math
 
-*** 14-Jun-16
-
 + Queueing and glueing for optimal partitioning (Functional Pearl). ~ S.C. Mu,
   Y.H. Chiang & Y.H. Lyu http://bit.ly/25Soakx #Algorithms #Haskell
 
 + CIS-194-winter-2016: A modified version of Brent Yorgey's CIS 194 Haskell
   course http://bit.ly/1YoOGw5 #Haskell
-
-*** 15-Jun-16
 
 + Sequent calculus as a compiler intermediate language. ~ Simon Peyton Jones et
   als. http://bit.ly/25SoAal #Logic #Haskell
@@ -3085,12 +1671,8 @@ relativas a los sistemas que usa o a su contenido.
 + The story of Haskell at IMVU. ~ Chad Austin @chadaustin http://bit.ly/1XpqQ3W
   #Haskell
 
-*** 16-Jun-16
-
 + Reachability, confluence, and termination analysis with state-compatible
   automata. ~ B. Felgenhauer & R. Thiemann http://bit.ly/1txvAIY #Isabelle/HOL
-
-*** 17-Jun-16
 
 + A survey of satisfiability modulo theory. ~ D. Monniaux http://bit.ly/1txweGj
   #ATP #SMT
@@ -3101,8 +1683,6 @@ relativas a los sistemas que usa o a su contenido.
 + Designing functional implementations of graph algorithms. ~ N. Danilenko
   https://t.co/cLvBTp0TK9 #Haskell #Algorithms #Math vía @smdiehl
 
-*** 18-Jun-16
-
 + Formal methods for secure software construction. ~ B. Goodspeed
   http://bit.ly/1QcQ9UR #Idris
 
@@ -3112,14 +1692,10 @@ relativas a los sistemas que usa o a su contenido.
 + A model for the Universe that begins to resemble a quantum computer- ~
   S. Gudder http://bit.ly/1QcQoPB via @MDPIOpenAccess
 
-*** 19-Jun-16
-
 + Implementing graph grammars for intelligence analysis in OCaml. ~ R. Moten,
   K. Anyanwu-Ogan & S. Miranshah http://bit.ly/1UViSMu #OCaml
 
 + A visual guide to graph traversal algorithms. http://bit.ly/26aufW3 #Algorithms
-
-*** 20-Jun-16
 
 + A fully automatic theorem prover with human-style output. ~ M. Ganesalingam &
   W.T. Gowers http://bit.ly/1UFpsrL #ATP #Haskell #Math #CompSci
@@ -3130,8 +1706,6 @@ relativas a los sistemas que usa o a su contenido.
 + Programs and proofs (Mechanizing Mathematics with dependent types). ~
   I. Sergey http://bit.ly/28OTMye #Coq
 
-*** 21-Jun-16
-
 + Visual theorem proving with the Incredible Proof Machine. ~ J. Breitner
   http://bit.ly/28LcVBZ #Logic #ITP
 
@@ -3141,20 +1715,14 @@ relativas a los sistemas que usa o a su contenido.
 + Teaching Theory in the time of Data Science/Big Data. ~ A.C. Gilbert &
   A. Rudra http://bit.ly/28LdRGD #Teaching #CompSci
 
-*** 22-Jun-16
-
 + A formal proof of Cauchy’s residue theorem. ~ W. Li & L.C. Paulson
   http://bit.ly/28UMr00 #ITP #IsabelleHOL #Math
 
 + The formalization of discrete Fourier transform in HOL. ~ Z. Shi et
   als. http://bit.ly/28UNehF #ITP #HOL #Math
 
-*** 23-Jun-16
-
 + Automatic functional correctness proofs for functional search trees. ~
   T. Nipkow http://bit.ly/28OKVxs #ITP #IsabelleHOL
-
-*** 24-Jun-16
 
 + Formalizing the Edmonds-Karp algorithm. ~ P. Lammich & S.R. Sefidgar
   http://bit.ly/28OLmaM #ITP #IsabelleHOL
@@ -3162,17 +1730,8 @@ relativas a los sistemas que usa o a su contenido.
 + Regular expressions implemented in Haskell ~ G. Gonzalez @GabrielG439
   http://bit.ly/28QHwdL #Haskell
 
-+ #Haskell refactoring tools are getting much better: http://haskelltools.org
-
-*** 25-Jun-16
-
 + Two-way automata in Coq. ~ C. Doczkal & G. Smolka http://bit.ly/28UPjdt #ITP
   #Coq
-
-+ La ciencia es bella. ~ Jorge Wagensberg http://bit.ly/28YdryP via @elpais
-
-+ El mundo como obra de arte: En busca del diseño profundo de la naturaleza. ~
-  Frank Wilczek http://bit.ly/28S3sHB
 
 + A beautiful question: finding nature's deep design. ~ Frank Wilczek
   http://bit.ly/28Yf27A
@@ -3183,20 +1742,14 @@ relativas a los sistemas que usa o a su contenido.
 + Teaching machines to predict the future. ~ MIT News http://bit.ly/28SyNdb
   #CompSci
 
-*** 26-Jun-16
-
 + Hereditarily finite sets in constructive type theory. ~ G. Smolka & K. Stark
   http://bit.ly/28ONJdZ #ITP #Coq #Math
-
-*** 27-Jun-16
 
 + An Isabelle/HOL formalisation of Green’s theorem. ~ M. Abdulaziz &
   L.C. Paulson http://bit.ly/28OO4gC #ITP #IsabelleHOL
 
-+ An introductory talk to Functional Programming & Typeclasses. ~ R. Raja
++ An introductory talk to functional programming & typeclasses. ~ R. Raja
   @raulraja http://bit.ly/2916Rpg http://bit.ly/2917wGS #FP #Scala
-
-*** 28-Jun-16
 
 + A dependent security type system for concurrent imperative programs. ~
   T. Murray et als. http://bit.ly/293rZMo #ITP #IsabelleHOL #AFP 
@@ -3214,15 +1767,11 @@ relativas a los sistemas que usa o a su contenido.
 + A tutorial implementation of Hindley-Milner type inference (Algorithm W) in
   Haskell. http://bit.ly/28ZTiDm http://bit.ly/293vemQ
 
-*** 29-Jun-16
-
 + Cardinality of multisets in Isabelle/HOL. ~ L. Bulwahn http://bit.ly/28ZQO8f
   #ITP #Math #IsabelleHOL #AFP 
 
 + Vocabulink: Web application for learning foreign vocabulary
   http://bit.ly/29aORdP #Haskell
-
-*** 30-Jun-16
 
 + Proving divide and conquer complexities in Isabelle/HOL. ~ M. Eberl
   http://bit.ly/296l8zt #ITP #IsabelleHOL #Vestigium
@@ -3241,10 +1790,7 @@ relativas a los sistemas que usa o a su contenido.
 + Importancia de la programación funcional en un mundo paralelo. ~ @LoopaDev
   http://bit.ly/29bya1y #Programación #PF
 
-
 ** Julio 2016
-
-*** 01-Jul-16
 
 + The resolution calculus for first-order logic in Isabelle/HOL. ~
   A. Schlichtkrull http://bit.ly/29aQPYg #ITP #Isabelle/HOL #Logic
@@ -3261,8 +1807,6 @@ relativas a los sistemas que usa o a su contenido.
 + Computing our future: Computer programming and coding (Priorities, school
   curricula and initiatives across Europe) http://bit.ly/29b07DE #CompSci
 
-*** 02-Jul-16
-
 + Translating Scala programs to Isabelle/HOL. ~ L. Hupel @larsr_h & V. Kuncak
   http://bit.ly/29AA0Wx #IsabelleHOL #Scala 
 
@@ -3272,12 +1816,8 @@ relativas a los sistemas que usa o a su contenido.
 + OpenDreamKit: Open Digital Research Environment Toolkit for the Advancement
   of Mathematics. http://opendreamkit.org via @OpenDreamKit 
 
-*** 03-Jul-16
-
 + Finding proofs in Tarskian geometry. ~ M. Beeson & L. Wos
   http://bit.ly/29eHjFU #ATP #OTTER #Math
-
-*** 04-Jul-16
 
 + Automating free logic in Isabelle/HOL. ~ C. Benzmüller & D. Scott
   http://bit.ly/29dFF3K #ITP #IsabelleHOL
@@ -3291,14 +1831,10 @@ relativas a los sistemas que usa o a su contenido.
 + Common Lisp ecosystem and the software distribution model. ~ D. Kochmański
   http://bit.ly/29dGqd1 #Lisp
 
-*** 05-Jul-16
-
 + Verified computer linear algebra. ~ J. Aransay & J. Divasón
   http://bit.ly/29mwyke #ITP #IsabelleHOL #Math
 
 + Category theory for the sciences ~ David Spivak http://bit.ly/29lRHaS
-
-*** 06-Jul-16
 
 + A tutorial on the universality and expressiveness of fold ~ G. Hutton
   http://bit.ly/29lScBW #Haskell
@@ -3307,15 +1843,11 @@ relativas a los sistemas que usa o a su contenido.
 
 + Functional geometry in julia notebook demo ~ S. Gowda http://bit.ly/29lSfh1 #Julia
 
-*** 07-Jul-16
-
 + A formalizing of Berlekamp's factorization algorithm ~ J. Divasón et
   als. http://bit.ly/29poKia #ITP #IsabelleHOL #Math
 
 + La startup española de inteligencia artificial que triunfa en Alemania (y
   aquí ignoran) ~ @galatea128 http://bit.ly/29mLnQY
-
-*** 08-Jul-16
 
 + A framework for verifying depth-first search algorithms in Isabelle/HOL ~
   P. Lammich & R. Neumann http://bit.ly/29yVGon #ITP #IsabelleHOL #Vestigium
@@ -3331,8 +1863,6 @@ relativas a los sistemas que usa o a su contenido.
 
 + Eastman maximal comma-free codes in Haskell. ~ Brent Yorgey
   http://bit.ly/29zMHmQ #Haskell
-
-*** 09-Jul-16
 
 + The Isar proof language in 2016. ~ Makarius Wenzel http://bit.ly/29oRFjv
   #IsabelleHOL 
@@ -3363,8 +1893,6 @@ relativas a los sistemas que usa o a su contenido.
 + Graph algorithms. ~ Wikipedia book http://bit.ly/29o8rmg #eBook #Algorithms
   #Math
 
-*** 10-Jul-16
-
 + El gusto en la era del algoritmo (¿Peligra la diversidad cultural?) ~
   @DaniVerdu http://bit.ly/29pneNO vía @babelia_elpais
 
@@ -3377,15 +1905,11 @@ relativas a los sistemas que usa o a su contenido.
 
 + The White House considers the future of AI. ~ Ariel Conn http://bit.ly/29pt69A 
 
-*** 11-Jul-16
-
 + From Hilbert to Tarski. ~ G. Braun, P. Boutry & J. Narboux
   http://bit.ly/29xV55h #ITP #Coq #Math
 
 + Purely functional incremental computing. ~ D. Firsov & W. Jeltsch
   http://bit.ly/2a16ucx #Haskell
-
-*** 12-Jul-16
 
 + Formalizing the Edmonds-Karp algorithm in Isabelle/HOL. ~ P. Lammich,
   S.R. Sefidgar http://bit.ly/29ANXnE #ITP #IsabelleHOL
@@ -3393,16 +1917,12 @@ relativas a los sistemas que usa o a su contenido.
 + Haskell Hero: un manual interactivo del lenguaje Haskell para
   principiantes. ~ S. Novák http://bit.ly/29zVZkC #Haskell via @nihilipster
 
-*** 13-Jul-16 
-
 + Formalisation of the computation of the echelon form of a matrix in
   Isabelle/HOL. ~ J. Aransay & J. Divasón http://bit.ly/29MzGXc #IsabelleHOL
   #Vestigium 
 
-*** 15-Jul-16
-
 + On the formalization of some results of context-free language theory. ~
-  M.V.M. Ramos et als.http://bit.ly/29AJnVD #ITP #Coq
+  M.V.M. Ramos et als. http://bit.ly/29AJnVD #ITP #Coq
 
 + Formalization of context-free language theory. ~ M.V.M. Ramos
   http://bit.ly/29AJqRs #PhD_Thesis #ITP #Coq
@@ -3422,12 +1942,8 @@ relativas a los sistemas que usa o a su contenido.
 + El ZEN de Javascript: a la búsqueda de la armonía del código. ~ C. Benítez
   @EtnasSoft http://bit.ly/29zpF09 #Programación #JavaScript  
 
-*** 16-Jul-16
-
 + Verification of an LCF-style first-order prover with equality. ~ A.B. Jensen
   et als. http://bit.ly/29JXhtq #ITP #IsabelleHOL #Logic #Vestigium
-
-*** 19-Jul-16
 
 + A proof of the compositions of time interval relations. ~ F. Ghourabi &
   K. Takahashi http://bit.ly/2a6M71F #ITP #IsabelleHOL
@@ -3437,18 +1953,12 @@ relativas a los sistemas que usa o a su contenido.
 + The joy of programming to learn. ~ Eric Normand http://bit.ly/2a6RuOp
   #Programming  
 
-+ "Programming is like thinking about thinking. And debugging is a close
-  approximation of learning about learning."  Nicholas Negroponte #Quote
-  #Programming 
-
 + Scala is the new golden child. ~ Chris McKinlay http://tcrn.ch/2a5eIln #Scala
 
 + Graphs: a balancing act. ~ Francesco Mazzoli http://bit.ly/2a67c9U #Haskell #Gloss
 
 + Graph problems and vector-matrix multiplications in Haskell. ~ N. Danilenko
   http://bit.ly/2a6luqY #Haskell #Math
-
-*** 20-Jul-16
 
 + Proceedings of the Fifth Workshop on Practical Aspects of Automated Reasoning
   (PAAR-2016) http://bit.ly/29Zv8fH #ATP #ITP 
@@ -3471,8 +1981,6 @@ relativas a los sistemas que usa o a su contenido.
 + Generating random planar graphs. ~ P. Vasconcelos http://bit.ly/29ZZjmW
   #Haskell #QuickCheck
 
-*** 21-Jul-16
-
 + Verification of optimised 48-bit multiplications on AVR. ~ J. Schmaltz &
   P. Schwabe http://bit.ly/29TEhmu #ACL2 
 
@@ -3493,8 +2001,6 @@ relativas a los sistemas que usa o a su contenido.
 
 + Algebraic patterns: Semigroup. ~ P. Nilsson http://bit.ly/2awIKgx #Haskell
 
-*** 22-Jul-16
-
 + A formally verified proof of the central limit theorem. ~ J. Avigad, J. Hölzl
   & L. Serafin http://bit.ly/29XnDpf #ITP #IsabelleHOL #Math #Vestigium
 
@@ -3502,8 +2008,6 @@ relativas a los sistemas que usa o a su contenido.
 
 + Efficient R programming (A practical guide to smarter programming). ~
   C. Gillespie & R. Lovelace http://bit.ly/2a0YaZy #Rstats #DataScience
-
-*** 23-Jul-16
 
 + Constructive Galois connections: Taming the Galois connection framework for
   mechanized metatheory. ~ D. Darais & als. http://bit.ly/2awLbQf #Coq
@@ -3524,8 +2028,6 @@ relativas a los sistemas que usa o a su contenido.
 
 + Three approaches to monads. ~ Lawrence Evans http://bit.ly/29V5Ax4 #Haskell
 
-*** 24-Jul-16
-
 + The mechanization of mathematics ~ M. Beeson [Slides] http://bit.ly/2a99aqT
   #ATP #ITP #Math 
 
@@ -3543,8 +2045,6 @@ relativas a los sistemas que usa o a su contenido.
 
 + A brief intro to QuickCheck. ~ Stuart Gunter @stuartgunter
   http://bit.ly/2a9a6vi #Haskell #QuickCheck 
-
-*** 25-Jul-16
 
 + Modular verification for computer security. ~ Andrew W. Appel
   http://bit.ly/2aEWmqa #Verification 
@@ -3564,16 +2064,11 @@ relativas a los sistemas que usa o a su contenido.
 + Parallel evaluation strategies for lazy data structures in Haskell. ~
   P. Totoo http://bit.ly/2aF0FC9 #Haskell #PhD_Thesis
 
-+ "We can solve any problem by introducing an extra level of indirection." ~
-  Butler Lampson http://bit.ly/2aFeSPl #Programming
-
 + The most important idea in Computer Science. ~ E. Normand @ericnormand
   http://bit.ly/29UFNcI #CompSci #Lisp #Turing 
 
 + The magic of abstraction ~ E. Normand @ericnormand http://bit.ly/29UG936
   #Programming 
-
-*** 26-Jul-16
 
 + Soundly proving B method formulae using typed sequent calculus. ~
   P. Halmagrand http://bit.ly/29Un8xG #Zenon 
@@ -3584,16 +2079,11 @@ relativas a los sistemas que usa o a su contenido.
 + Principles of programming languages. ~ M. Grant, Z. Palmer y S. Smith
   http://bit.ly/2aHbrHT #Programming #OCaml #eBook
 
-*** 27-Jul-16
-
 + Proving correctness of a compiler using step-indexed logical relations. ~
   L. Rodrı́guez, M. Pagano & D. Fridlender http://bit.ly/2aEZ92E #Coq 
 
 + Queueing and glueing for optimal partitioning (Functional Pearl). ~ S.C. Mu &
   als. http://bit.ly/29XBsE7 #Algorithms #Haskell 
-
-+ #Vestigium: The mechanization of mathematics ~ M. Beeson
-  http://bit.ly/29YBYmS #ATP #ITP #Math 
 
 + Constructive geometry and the parallel postulate. ~ Michael Beeson
   http://bit.ly/29YzO6F #Math #eBook 
@@ -3607,33 +2097,20 @@ relativas a los sistemas que usa o a su contenido.
 + Aterrizando en la programación funcional. ~ @__josejuan__
   http://bit.ly/29YTM17 #Programación #PF #Haskell vía @genbetadev 
 
-*** 28-Jul-16
-
 + Refinement through restraint: bringing down the cost of verification. ~
   L. O'Connor & als. http://bit.ly/2awOQOi #IsabelleHOL
 
 + Mathematical logic and computers (Some interesting examples). ~ Michael
   Beeson http://bit.ly/29YBpJU #Logic #ATP #Otter 
 
-+ #Vestigium: A formally verified proof of the central limit
-  theorem. http://bit.ly/2ay1114 #ITP #IsabelleHOL #Math  
-
 + Libro de exámenes de programación funcional con Haskell (versión del 28 de
   julio de 2016) http://bit.ly/2ay8e1u #Haskell #I1M  
-
-+ Universidad S.A.: Documental sobre el desmantelamiento de la Universidad
-  pública. http://www.universidadsa.com #Universidad 
-
-*** 29-Jul-16
 
 + Automating change of representation for proofs in discrete mathematics. ~
   D. Raggi, A. Bundy, G. Grov, A. Pease http://bit.ly/2a8SNam #IsabelleHOL 
 
 + String diagrams for free monads (Functional Pearl). ~ M. Piróg & N. Wu
   http://bit.ly/2awOoj2 #Haskell
-
-+ #Vestigium: Verification of an LCF-style first-order prover with
-  equality. http://bit.ly/2aldZgO #ITP #IsabelleHOL #Logic
 
 + Criptografía desde el punto de vista de la programación funcional. ~
   D. Rodríguez http://bit.ly/2a8PGz7 #Haskell #TFG
@@ -3649,15 +2126,8 @@ relativas a los sistemas que usa o a su contenido.
 + A literate program implementing the microKanren relational programming
   language. ~ seantalts http://bit.ly/2a949uU #Haskell via @HaskellTopNews
 
-*** 30-Jul-16
-
-+ #Vestigium: Formalisation of the computation of the echelon form of a matrix
-  in Isabelle/HOL. http://bit.ly/2amnjyi #IsabelleHOL 
-
 + High-performance client-side web applications through Haskell EDSLs. ~
   A. Ekblad http://bit.ly/2awPafE #Haskell
-
-*** 31-Jul-16
 
 + Relation-algebraic verification of Prim’s minimum spanning tree algorithm. ~
   W. Guttmann http://bit.ly/2a8F7ka #ITP #IsabelleHOL 
@@ -3671,10 +2141,7 @@ relativas a los sistemas que usa o a su contenido.
 + Using programming to teach mathematics. ~ A. Cangiano http://bit.ly/2a8PzrW
   #Math #Programming 
 
-  
 ** Agosto 2016
-
-*** 01-Ago-16
 
 + Modularity in Mathematics. ~ J. Avigad http://bit.ly/2aETtbM #Math #CompSci
 
@@ -3688,8 +2155,6 @@ relativas a los sistemas que usa o a su contenido.
 + Cryptographic block ciphers in functional programming: A case study on
   Feldspar and AES. ~ Gregor Ulm http://bit.ly/2aEWicT #Haskell 
 
-*** 02-Ago-16
-
 + Code generation for a simple first-order prover. ~ J. Villadsen et
   als. http://bit.ly/2aLu4hk #IsabelleHOL #SML 
 
@@ -3702,12 +2167,8 @@ relativas a los sistemas que usa o a su contenido.
 + Behavior-driven development (BDD) in Haskell with Hspec. ~ J.Carlos Pazmiño
   http://bit.ly/2aoulTZ #Haskell #Hspec #BDD 
 
-*** 03-Ago-16
-
 + Beginner’s Luck (A language for property-based generators). ~ L. Lampropoulos
   et als. http://bit.ly/2ambOa7 #Haskell
-
-*** 05-Ago-16
 
 + How to twist pointers without breaking them. ~ S. Chauhan, P.P. Kurur &
   B.A. Yorgey http://bit.ly/2aFOhkx #Haskell
@@ -3724,8 +2185,6 @@ relativas a los sistemas que usa o a su contenido.
 + Why writing correct software is hard ... and why math (alone) won’t help
   us. http://bit.ly/2aTRtfJ #CompSci #Math via @puniverseco
 
-*** 06-Ago-16
-
 + Formalized timed automata. ~ S. Wimmer http://bit.ly/2aBW6ww #IsabelleHOL
   #Vestigium 
 
@@ -3740,8 +2199,6 @@ relativas a los sistemas que usa o a su contenido.
 + AGES: a tool for generate logical models, for use with order-sorted first
   order logic. http://bit.ly/2aBYeVi #Haskell 
 
-*** 08-Ago-16
-
 + Consistent consequences formalized. ~ M. van Delft http://bit.ly/2aFmD8p
   #ITP #Coq
 
@@ -3751,17 +2208,11 @@ relativas a los sistemas que usa o a su contenido.
 + Playing with Mersenne numbers. ~ A. Cangiano http://bit.ly/2aFoJFo #Math
   #Python 
  
-*** 09-Ago-16
-
 + Ptolemy's theorem in Isabelle/HOL. ~ L. Bulwahn http://bit.ly/2aVZAao #ITP
   #IsabelleHOL #Math #AFP
 
-+ #Vestigium: Formalized timed automata. http://bit.ly/2aW324T #IsabelleHOL
-
 + Formally verified complexity analysis of a functional language. ~ S. Wimmer
   http://bit.ly/2b2ISqX #IsabelleHOL 
-
-*** 10-Ago-16
 
 + Holophrasm: a neural automated theorem prover for higher-order logic. ~
   D. Whalen http://bit.ly/2b5oYvo #ATP
@@ -3769,24 +2220,14 @@ relativas a los sistemas que usa o a su contenido.
 + Comonads and day convolution. ~ Phil Freeman | Functorial Blog
   http://bit.ly/2aYodmx #Haskell  
 
-+ #Vestigium: A framework for verifying depth-first search algorithms in
-  Isabelle/HOL. http://bit.ly/2b5rHFa #IsabelleHOL
-
 + The early development of programming languages. ~ D.E. Knuth & L.T. Pardo
   http://bit.ly/2b6s56n #Programming #History
-
-*** 11-Ago-16
 
 + A decision procedure for univariate real polynomials in Isabelle/HOL. ~
   M. Eberl http://bit.ly/2b5rUs3 #ITP #IsabelleHOL #Math
 
-+ #Vestigium: Relation-algebraic verification of Prim’s minimum spanning tree
-  algorithm. http://bit.ly/2b0XSV6 #ITP #IsabelleHOL 
-
 + Functional programming and intelligent algorithms. ~ Hans Georg Schaathun
   @hgeorgsch http://bit.ly/2b91xBn #Haskell #AI
-
-*** 12-Ago-16
 
 + Interactive proofs in higher-order concurrent separation logic. ~ R. Krebbers
   et als. http://bit.ly/2aPGiDQ #ITP #Coq
@@ -3794,18 +2235,8 @@ relativas a los sistemas que usa o a su contenido.
 + Safe zero-cost coercions for Haskell. J. Breitner et als.
   http://bit.ly/2aPFE9z #Haskell
 
-+ #Vestigium: A decision procedure for univariate real polynomials in
-  Isabelle/HOL. http://bit.ly/2aOf2Cj #ITP #IsabelleHOL #Math
-
-*** 13-Ago-16
-
 + Towards a verifiable topology of data. ~ L. Lambán, F.J. Martín, J. Rubio &
   J.L. Ruiz http://bit.ly/2bqrZs6 pp. 113-116. #ACL2  
-
-+ #Vestigium: Proving divide and conquer complexities in Isabelle/HOL. 
-  http://bit.ly/2aPVj8w #ITP #IsabelleHOL
-
-*** 14-Ago-16
 
 + Foundations of Mathematics: Reliability AND Clarity: the explanatory role of
   mathematical induction. ~ J.T. Baldwin http://bit.ly/2aVhGZ5 #Math
@@ -3815,8 +2246,6 @@ relativas a los sistemas que usa o a su contenido.
 
 + Declare and access tuple fields with labels. ~ @christopherdone
   http://bit.ly/2btUYeH #Haskell 
-
-*** 15-Ago-16
 
 + Formal availability analysis using theorem proving. ~ W. Ahmed & O. Hasan
   http://bit.ly/2aWZ3E0 #HOL4
@@ -3854,8 +2283,6 @@ relativas a los sistemas que usa o a su contenido.
 + Example-directed synthesis: a type-theoretic interpretation. ~ J. Frankle et
   als. http://bit.ly/2bwRwzK #Programming
 
-*** 16-Ago-16
-
 + Hoare-style specifications as correctness conditions for non-linearizable
   concurrent objects. ~ I. Sergey et als. http://bit.ly/2bjpciz #Coq 
 
@@ -3873,8 +2300,6 @@ relativas a los sistemas que usa o a su contenido.
 
 + JayHorn: a software model checking tool for Java. http://bit.ly/2balyqe
 
-*** 17-Ago-16
-
 + Certified context-free parsing: a formalisation of Valiant’s algorithm in
   Agda. ~ J.P. Bernardy & P. Jansson http://bit.ly/2b0c1SX #Agda 
 
@@ -3890,8 +2315,6 @@ relativas a los sistemas que usa o a su contenido.
 + Lazy depth-first search and linear graph algorithms in Haskell. ~ D.J. King &
   J. Launchbury http://bit.ly/2bxSJ6C #Haskell 
 
-*** 18-Ago-16
-
 + Formalized linear algebra over elementary divisor rings in Coq. ~ G. Cano et
   als. http://bit.ly/2b0elJs #ITP #Coq #Math
 
@@ -3903,8 +2326,6 @@ relativas a los sistemas que usa o a su contenido.
 
 + mySQL-Haskell: a MySQL driver written entirely in Haskell. ~ winterland1989
   http://bit.ly/2bzB1zH #Haskell
-
-*** 19-Ago-16
 
 + On Tarski's axiomatic foundations of the calculus of relations. ~ H. Andréka,
   S. Givant, P. Jipsen, I. Németi http://bit.ly/2bC0kkH #Mace4  
@@ -3938,8 +2359,6 @@ relativas a los sistemas que usa o a su contenido.
 + Physics, topology, logic and computation: A Rosetta stone. ~ J.C. Baez &
   M. Stay http://bit.ly/15oC3rs #CompSci
 
-*** 20-Ago-16
-
 + Reasoner-aid research: potentials and popularity. ~ S. Wang
   http://bit.ly/2bKt3pE #ATP #ITP  
 
@@ -3958,15 +2377,11 @@ relativas a los sistemas que usa o a su contenido.
 + Rosette: solver-aided programming language that extends Racket for program
   synthesis, verification, and more. http://bit.ly/2bKqDau #Rosette #Racket
 
-*** 21-Ago-16
-
 + Certified derivative-based parsing of regular expressions. ~ R. Lopes,
   R. Ribeiro, C. Camarao http://bit.ly/2brHzyR #Idris 
 
 + Pattern synonyms. ~ M. Pickering, G. Érdi, S.P. Jones & R.A. Eisenberg
   http://bit.ly/2bzA6PL #Haskell
-
-*** 22-Ago-16
 
 + Taint analysis for system-wide privacy audits: a framework and real-world
   case studies. ~ M. von Maltitz et als. http://bit.ly/2btDkmx #IsabelleHOL 
@@ -3976,8 +2391,6 @@ relativas a los sistemas que usa o a su contenido.
 
 + Formal semantics of firewalls in Isabelle/HOL. ~ C. Diekmann
   http://bit.ly/2btEQF1 #IsabelleHOL
-
-*** 23-Ago-16 
 
 + Formalisation and execution of Linear Algebra: theorems and algorithms. ~
   J. Divasón http://bit.ly/2bIQFrv #PhD_Thesis #ITP #IsabelleHOL #Math
@@ -3999,14 +2412,10 @@ relativas a los sistemas que usa o a su contenido.
 + A formal study of Moessner’s sieve. ~ P. Urbak @Urbak http://bit.ly/2bIYj5c
   #ITP #Coq #Math
 
-*** 24-Ago-16
-
 + Modeling communication network requirements for an integrated clinical
   environment in PVS. ~ C. Bernardeschi et als. http://bit.ly/2brMwKD #PVS 
 
 + Inductive graphs. ~ T. Jelvis http://bit.ly/2bIVjFX #Haskell
-
-*** 25-Ago-16
 
 + Simple firewall in Isabelle/HOL. ~ C. Diekmann, J. Michaelis & M. Haslbeck
   http://bit.ly/2bke9Sw #IsabelleHOL #AFP 
@@ -4022,23 +2431,17 @@ relativas a los sistemas que usa o a su contenido.
 + Functional programming by example. ~ C. Rodrigues http://bit.ly/2bkPfC2
   #Haskell #OCaml #Scheme #Clojure
 
-*** 26-Ago-16
-
 + Algorithms for reduced ordered binary decision diagrams (for Isabelle/HOL). ~
   J. Michaelis et als. http://bit.ly/2bkeqEM #IsabelleHOL #AFP 
 
 + The benefits (not features!) of programming with Haskell. ~ Robb Shecter
   @dogweather http://bit.ly/2bkM9UC #Haskell via @RedditHaskell
 
-*** 27-Ago-16
-
 + Formalising in Isabelle/HOL a simplicial model for Homotopy Type Theory: a
   naive approach. ~ J. Aransay et als. http://bit.ly/2bFp7FL #IsabelleHOL
 
 + An alarming number of scientific papers contain Excel errors. ~ The
   Washington Post http://wapo.st/2bQl4qR
-
-*** 28-Ago-16
 
 + Should I do that? Using relational reinforcement learning and declarative
   programming to discover domain axioms. http://bit.ly/2bJlsEf #ASP #Prolog 
@@ -4068,20 +2471,14 @@ relativas a los sistemas que usa o a su contenido.
 + Introduction to scientific software deployment and development. ~ Damien
   Francois http://bit.ly/2bJxMnV #Programming 
 
-*** 29-Ago-16
-
 + CurryCheck: Checking properties of Curry programs. ~ M. Hanus
   http://bit.ly/2bKINdg #Curry
 
 + Unwanted Haskell triangle. ~ C. Martin @chris__martin http://bit.ly/2bKKHKT
   #Haskell
 
-*** 30-Ago-16
-
 + hindent 5: One style to rule them all. ~ Chris Done @christopherdone
   http://bit.ly/2bO5n4s #Haskell
-
-*** 31-Ago-16
 
 + A formalization of elementary group theory in the proof assistant Lean. ~
   A. Zipperer http://bit.ly/2bUzV2n #ITP #Lean #Math
@@ -4095,10 +2492,7 @@ relativas a los sistemas que usa o a su contenido.
 + How to compile GHC on Windows using Stack and the new Shake-based GHC build
   system. ~ Neil Mitchell http://bit.ly/2bUE06s #Haskell
 
-
 ** Septiembre 2016
-
-*** 01-Sep-16
 
 + Culling concurrency theory: Reusable and trustworthy meta-theory, proof
   techniques and separation results. ~ J. Åman http://bit.ly/2bUcG9c
@@ -4109,8 +2503,6 @@ relativas a los sistemas que usa o a su contenido.
 
 + ladoscope: tools for Logical Analysis of Data. ~ P. Lemaire
   http://bit.ly/2cek1ys #DataScience #LAD #OCaml 
-
-*** 02-Sep-16
 
 + Verifier theory from axioms to unverifiability of mathematical proofs,
   software and AI. ~ R.V. Yampolskiy http://bit.ly/2c0lnOr 
@@ -4126,8 +2518,6 @@ relativas a los sistemas que usa o a su contenido.
 
 + Currying is delicious. ~ J. Moronuki @argumatronic http://bit.ly/2c0p9Yb
 
-*** 04-Sep-16
-
 + Function compose, type cut, and the algebra of logic. ~ X. Yuheng
   http://bit.ly/2cyZ4CU #Logic #CompSci #Scheme
 
@@ -4138,8 +2528,6 @@ relativas a los sistemas que usa o a su contenido.
 
 + Has-Sci: A collection of computational methods in science. ~ Sarthak Bagaria
   http://bit.ly/2czDD4y #Haskell #Physics 
-
-*** 05-Sep-16
 
 + Reproducible research in the mathematical sciences. ~ D. Donoho & V, Stodden
   http://stanford.io/2clI4ey #Math #CompSci
@@ -4167,8 +2555,6 @@ relativas a los sistemas que usa o a su contenido.
 + How hard, really, is SAT? ~ R.J Lipton & K.W. Regan http://bit.ly/2cegGSv
   #Logic #CompSci
 
-*** 06-Sep-16
-
 + A variant of the superposition calculus in Isabelle/HOL. ~ N. Peltier 
   http://bit.ly/2cpSVEb #ITP #IsabelleHOL #Logic #AFP
 
@@ -4191,8 +2577,6 @@ relativas a los sistemas que usa o a su contenido.
 + haskell-emacs: Write Emacs extensions in Haskell. http://bit.ly/2chxecg
   #Haskell #Emacs
 
-*** 07-Sep-16
-
 + Stone algebras in Isabelle/HOL. ~ W. Guttmann http://bit.ly/2cpVPc2 #ITP
   #IsabelleHOL #Math #AFP
 
@@ -4201,8 +2585,6 @@ relativas a los sistemas que usa o a su contenido.
 
 + Why is list comprehension bad? ~ Xah Lee @xah_lee http://bit.ly/2cruk1N
   #Programming
-
-*** 08-Sep-16
 
 + An algebra of synchronous atomic steps. ~ I.J. Hayes et als.
   http://bit.ly/2cqDlJJ #ITP #IsabelleHOL
@@ -4236,8 +2618,6 @@ relativas a los sistemas que usa o a su contenido.
 + The base of a string theory for Haskell ~ Edward Z. Yang @ezyang
   http://bit.ly/2cEDU4O #Haskell 
 
-*** 09-Sep-16
-
 + A formal proof of the incompatibility of SD-efficiency and
   SD-strategy-proofness. ~ M.Eberl http://bit.ly/2cElvFt #ITP #IsabelleHOL 
 
@@ -4258,12 +2638,8 @@ relativas a los sistemas que usa o a su contenido.
 + How to write a package in Haskell and interact with the code inside of it. ~
   Chris Allen @bitemyapp http://bit.ly/2bZtiOh #Haskell
 
-*** 10-Sep-16
-
 + Proving non-deterministic computations in Agda. ~ S. Antoy, M. Hanus &
   S. Libby http://bit.ly/2cBBh0l #Agda #Curry 
-
-+ Haskell jobs resources. | PurelyFunctional.tv http://bit.ly/2csRh7H #Haskell #Jobs 
 
 + Using Haskell for a declarative implementation of system Z inference. ~
   S. Kutsch & C. Beierle http://bit.ly/2csTtMq #Haskell 
@@ -4273,8 +2649,6 @@ relativas a los sistemas que usa o a su contenido.
 
 + A framework for extending microKanren with constraints. ~ J. Hemann &
   D.P. Friedman http://bit.ly/2cBCEw9 #Racket
-
-*** 11-Sep-16
 
 + Selene: a generic framework for model checking concurrent programs from their
   semantics in Maude. ~ A. Riesco & G. Suárez http://bit.ly/2cBBqBh #Maude 
@@ -4303,17 +2677,11 @@ relativas a los sistemas que usa o a su contenido.
 + Creating and running unit tests directly in source files with org-mode. ~
   Frederick Giasson @fredgiasson http://bit.ly/2c14aSj #Clojure #Emacs
 
-*** 12-Sep-16
-
 + An implementation of Deflate in Coq. ~ C.S. Senjak & M. Hofmann
   http://bit.ly/2cCh6kd #Coq
 
-*** 13-Sep-16
-
 + What does Flatland have to do with Haskell? ~ Tony Fischetti @tonyfischetti
   http://bit.ly/2cFBZLe #Haskell via @HaskellTopNews 
-
-*** 14-Sep-16
 
 + Formalized confluence of quasi-decreasing, strongly deterministic conditional
   TRSs. ~ T. Sternagel & C. Sternagel http://bit.ly/2cND2Ia #ITP #IsabelleHOL 
@@ -4323,8 +2691,6 @@ relativas a los sistemas que usa o a su contenido.
 
 + Working with data in Haskell. ~ Chris Done @christopherdone | FP Complete
   http://bit.ly/2cNHDKg #Haskell #DataScience  
-
-*** 15-Sep-16
 
 + A short mechanized proof of the Church-Rosser Theorem by the Z-property for
   the λβ-calculus in Nominal Isabelle. http://bit.ly/2cPsqIM #IsabelleHOL
@@ -4353,15 +2719,11 @@ relativas a los sistemas que usa o a su contenido.
 + Practical string processing in Haskell. ~ K. Osanai http://bit.ly/2cI65zH
   #Haskell 
 
-*** 16-Sep-16
-
 + Certifying a crash-safe file system. ~ Haogang Chen http://bit.ly/2cSSTFl
   #PhD_Thesis #Coq
 
 + Modules that enable one to write simulation scripts in #Haskell. The examples
   particularly simulate some of the laws of mechanics. http://bit.ly/2cKcuu9 
-
-*** 17-Sep-16
 
 + Formal semantics & verification for the Border Gateway Protocol. ~ K. Weitz
   et als. http://bit.ly/2ctUkJx #Coq 
@@ -4372,8 +2734,6 @@ relativas a los sistemas que usa o a su contenido.
 + Toward a history of mathematics focused on procedures. ~ P. Blaszczyk et
   als. http://bit.ly/2cR4Uwi #Math #History 
 
-*** 18-Sep-16
-
 + Axiomatizing category theory in free logic. ~ C. Benzmüller & D.S. Scott
   http://bit.ly/2cfxLY8 #ITP #IsabelleHOL
 
@@ -4382,8 +2742,6 @@ relativas a los sistemas que usa o a su contenido.
 
 + Set theory and its place in the foundations of mathematics (a new look at an
   old question). ~ M. Džamonja http://bit.ly/2cfyGrA #Logic #Math
-
-*** 19-Sep-16
 
 + Machine-checked mathematics. ~ A. Mahboubi http://bit.ly/2ch3xEa #ITP #Math
 
@@ -4400,8 +2758,6 @@ relativas a los sistemas que usa o a su contenido.
 
 + Introduction to Stack's Docker integration. ~ Yuji Yamamoto @igrep
   http://bit.ly/2ckuv2H #Haskell #Stack #Docker
-
-*** 20-Sep-16
 
 + Mechanized analysis of a formalization of Anselm's ontological argument by
   Eder and Ramharter. ~ J. Rushby http://bit.ly/2d4ngc4 #ITP #PVS  
@@ -4439,27 +2795,10 @@ relativas a los sistemas que usa o a su contenido.
 + Equilibrium graphs. ~ P. Cabalar, C. Pérez & G. Pérez http://bit.ly/2d4AGVd
   #Logic #ASP
 
-+ #I1M2016 es la etiqueta para la asignatura de "Informática" (de 1º del Grado
-  en Matemáticas" de la US) durante el curso 2016-17 http://bit.ly/2cVMxYu 
-
-+ #I1M2016 las clases comienzan el miércoles 21 de septiembre a las 9:00 en el
-  aula EC04.
-
-+ #I1M2016: En la clase del miércoles 21 se explicará el tema " Programas,
-  funciones y dibujos" http://bit.ly/2cinKOY #CodeWorld #Haskell
-
 + Beginning Haskell. ~ Tom Prior @priortd http://bit.ly/2d4Pljd #Haskell
-
-*** 21-Sep-16
 
 + Stone algebras in Isabelle/HOL. ~ W. Guttmann http://bit.ly/2d0thsN
   #IsabelleHOL #Math #AFP 
-
-+ #I1M2016: Introducción a la programación funcional. http://bit.ly/2d0qsrR
-  #CodeWorld #Haskell
-
-+ #I1M2016: Ejemplo con #CodeWorld #Haskell 
-  https://code.world/haskell#PbedxOt_h1LgQVrE0h6fgUw
 
 + Math-aware search engines: physics applications and overview. ~ D.C. Pineau
   http://bit.ly/2d0sdFw #Math #MKM
@@ -4467,22 +2806,9 @@ relativas a los sistemas que usa o a su contenido.
 + Practical Haskell: simple file mirror (part 2). ~ M. Snoyman @snoyberg
   http://bit.ly/2d0tQmp #Haskell 
 
-*** 23-Sep-16
-
 + Social network processes in the Isabelle and Coq theorem proving
   communities. ~ J. Fleuriot, S. Obua, P. Scott http://bit.ly/2d5UZRg
   #IsabelleHOL #Coq
-
-+ #I1M2016: Ejercicios de programación de dibujos con
-  CodeWorld. http://bit.ly/2d6eQA4 #CodeWorld #Haskell 
-
-+ #I1M2016: Introducción a la programación funcional con
-  Haskell. http://bit.ly/2d6e1XJ #Haskell 
-
-+ Convocatoria de contratos predoctorales o de Personal Investigador en
-  Formación de la Universidad de Sevilla. http://bit.ly/2d4l17Q  
-
-*** 24-Sep-16
 
 + Distributed agent-based automated theorem proving in order-sorted first-order
   logic. ~ Dohan Kim http://bit.ly/2d5TDWX #ATP
@@ -4508,42 +2834,20 @@ relativas a los sistemas que usa o a su contenido.
 + Refinement reflection: Haskell as a theorem prover. R. Jhala @RanjitJhala
   http://bit.ly/2cBgZX3 #Haskell #LiquidHaskell #Logic 
 
-*** 25-Sep-16
-
 + Certification of context-free grammar algorithms. ~ D. Firsov
   http://bit.ly/2cWxYGn #PhD_Thesis #Agda 
 
 + Data science and the perfect team. ~ Ryan Swanstrom http://bit.ly/2cBcM5u
   #DataScience
 
-*** 27-Sep-16
-
 + Semiring programming: a framework for search, inference and learning. ~
   V. Belle & L. de Raedt http://bit.ly/2d5hetS #Programming 
-
-*** 28-Sep-16
-
-*** 29-Sep-16
 
 + Allen's interval calculus in Isabelle/HOL. ~ F. Ghourabi
   http://bit.ly/2dmUUwB #ITP #IsabelleHOL #AFP 
 
-+ #I1M2016: Tipos y clases en Haskell. http://bit.ly/2cXTaGr #Haskell
-
-+ #I1M2016: Métodos elementales de definición de funciones en
-  Haskell. http://bit.ly/2cXWD8c #Haskell 
-
-+ #I1M2016: Ejercicios de definiciones por composición sobre números, listas y
-  booleanos. http://bit.ly/2dmK6i7 #Haskell  
-
 + Artículo sobre Gottfried Leibniz (1646-1716) en la Wikipedia. 
   http://bit.ly/2dmTe6l
-
-+ "The only way to rectify our reasonings is to make them as tangible as those
-  of the Mathematicians, so that we can find our error at a glance, and when
-  there are disputes among persons, we can simply say: Let us calculate
-  [calculemus], without further ado, to see who is right" ~ G. Leiniz "The Art
-  of Discovery" 1685
 
 + Leibniz' dream. ~ The Ratiocinator http://bit.ly/2dmU7vo #Logic #CompSci
   #Leibniz
@@ -4551,10 +2855,7 @@ relativas a los sistemas que usa o a su contenido.
 + Under the spell of Leibniz's Dream. ~ Edsger W.Dijkstra http://bit.ly/2dmUfLn
   #Logic #CompSci #Leibniz
 
-
 ** Octubre 2016
-
-*** 01-Oct-16
 
 + Mathematical components. ~ A. Mahboubi, E. Tassi, Y. Bertot, G. Gonthier
   http://bit.ly/2dsc3Fj #ITP #Coq #Math #eBook 
@@ -4563,8 +2864,6 @@ relativas a los sistemas que usa o a su contenido.
   http://bit.ly/2dscbV8 #Haskell 
 
 + List of logical lists. ~ Adolfo Neto @adolfont http://bit.ly/2d2ZlJB #Logic
-
-*** 04-Oct-16
 
 + Failing faster: Overlapping patterns for property-based testing. ~ J. Fowler
   & G. Hutton http://bit.ly/2daALpZ #Haskell
@@ -4578,27 +2877,10 @@ relativas a los sistemas que usa o a su contenido.
 + Sparse linear algebra datastructures and algorithms in Haskell. ~ Marco Zocca
   @ocramz_yo http://bit.ly/2dC0HhJ #Haskell
 
-*** 05-Oct-16
-
-+ #I1M2016: Definiciones por comprensión. http://bit.ly/2dFjXLk #Haskell
-
-+ #I1M2016: Dibujos y listas por comprensión. http://bit.ly/2dFm2H9 #Haskell
-  #CodeWorld 
-
-+ #I1M2016: Ejercicios de definiciones por composición sobre números, listas y
-  booleanos (2). http://bit.ly/2dFlXDr #Haskell 
-
-+ Más allá del negocio de los sexenios universitarios (Devaluación de la
-  función docente). ~ E.J. Díez http://bit.ly/2dFgU5W #Universidad
-
-*** 06-Oct-16
-
 + Total functional programming. ~ D.A.Turner http://bit.ly/2dGqvcA #Haskell via
   @jdimov 
 
 + Thonny: Python IDE for beginners. http://thonny.cs.ut.ee #Python
-
-*** 07-Oct-16
 
 + A theoretician’s guide to the experimental analysis of algorithms. ~
   D.S. Johnson http://bit.ly/2bjq8ng #Algorithmic
@@ -4608,8 +2890,6 @@ relativas a los sistemas que usa o a su contenido.
 + Foundations of data science. ~ A. Blum, J. Hopcroft & R. Kannan
   http://bit.ly/2dMbLsS #eBook #DataScience 
 
-*** 08-Oct-16
-
 + Proof assistants for natural language semantics. ~ S. Chatzikyriakidis &
   Z. Luo http://bit.ly/2dMchqN #ITP #Coq
 
@@ -4618,8 +2898,6 @@ relativas a los sistemas que usa o a su contenido.
 
 + On the applications of interactive theorem proving in computational sciences
   and engineering. ~ A. Tahat http://bit.ly/2dMj9Vd #ITP #PVS
-
-*** 09-Oct-16
 
 + Modular deductive verification of sampled-data systems. ~ Daniel Ricketts et
   als. http://bit.ly/2dMfhTS #Coq
@@ -4633,15 +2911,11 @@ relativas a los sistemas que usa o a su contenido.
 + La lógica matemática: una disciplina en busca de encuadre. ~ J. Ferreirós
   http://bit.ly/2dORMJY #Lógica
 
-*** 10-Oct-16
-
 + Mind the gap: Addressing behavioural inconsistencies with formal methods. ~
   J.K.F. Bowles & M.B. Caminati http://bit.ly/2dMkew7 #IsabelleHOL #Z3
 
 + Refinement reflection on ADTs: Lists are monoids. ~ R. Jhala @RanjitJhala
   http://bit.ly/2dq5fER #Haskell #LiquidHaskell #Logic 
-
-*** 12-Oct-16
 
 + Intersecting chords theorem in Isabelle/HOL. ~ L. Bulwahn
   http://bit.ly/2dWh8Wq #ITP #Isabell/HOL #Math #AFP
@@ -4658,21 +2932,11 @@ relativas a los sistemas que usa o a su contenido.
 + What makes a program elegant? ~ Robin K. Hill | Communications of the ACM
   http://bit.ly/2dWE3AT #Programming 
 
-*** 15-Oct-16
-
 + Essentials missed by mathematics education (for good reasons, and with bad
   consequences). ~ W. Neuper http://bit.ly/2e5pRpr #Math #Education #ITP
 
 + "Systems that explain themselves" for engineering education. ~ W.A. Neuper
   http://bit.ly/2e5qpvm #Education #TP
-
-+ #I1M2016: Ejercicios de definiciones con condicionales, guardas o
-  patrones. http://bit.ly/2e5OEJN #Haskell
-
-+ #I1M2016: Ejercicios de definiciones por comprensión (1).
-  http://bit.ly/2e5Qhak #Haskell
-
-*** 16-Oct-16
 
 + Foundations of Mathematics (Oct. 15, 2016). ~ Ken Kubota
   http://bit.ly/2dFCAeU #Logic #Math #ITP 
@@ -4682,9 +2946,6 @@ relativas a los sistemas que usa o a su contenido.
 
 + The Administration’s Report on the Future of Artificial Intelligence |
   whitehouse.gov ~ E. Felton and T. Lyons http://bit.ly/2dFHete #AI
-
-+ #RA2016: Comienzo del curso de "Razonamiento automático" del Máster en
-  Lógica, Computación e Inteligencia Artificial http://bit.ly/2e7SvGd
 
 + Razonamiento formalizado: Del sueño a la realidad de las pruebas.
   http://bit.ly/2dFY1N3 #RA2016
@@ -4711,12 +2972,8 @@ relativas a los sistemas que usa o a su contenido.
 
 + The QED manifesto revisited. ~ F. Wiedijk http://bit.ly/2dG003X #RA2016
 
-*** 17-Oct-16
-
 + The HoTT Library: A formalization of homotopy type theory in Coq. ~ A. Bauer
   et als. http://bit.ly/2eaczYA #ITP #Coq @HoTT
-
-*** 18-Oct-16
 
 + Formalising real numbers in homotopy type theory. ~ G. Gilbert
   http://bit.ly/2edb6ku #ITP #Coq #Math
@@ -4724,30 +2981,11 @@ relativas a los sistemas que usa o a su contenido.
 + Analyzing program termination and complexity automatically with AProVE ~
   J. Giesl et als. http://bit.ly/2edbXSi
 
-+ #I1M2016: Definiciones por recursión en Haskell. http://bit.ly/2dQB75A
-  #Haskell
-
-*** 19-Oct-16
-
-+ #RA2016: Presentación del curso. http://bit.ly/2ejW8t5
-
-*** 21-Oct-16
-
-+ #I1M2016: Ejercicios de definiciones por recursión (1). http://bit.ly/2dWWhim
-  #Haskell
-
-+ #I1M2016: Ejercicios del proyecto Euler (1). http://bit.ly/2dWXhTX #Haskell
-  #Matemáticas #Euler
-
-*** 22-Oct-16
-
 + Cours: Automated reasoning. ~ J. Fleuriot http://bit.ly/2et9R0C #AR #Logic
   #IsabelleHOL #RA2016
 
 + Refinement reflection (or, how to turn your favorite language into a proof
   assistant using SMT) ~ N. Vazou & R. Jhala http://bit.ly/2etbrQc  #Haskell
-
-*** 24-Oct-16
 
 + Stable matching in Isabelle/HOL. ~ Peter Gammie http://bit.ly/2ewWhJA
   #IsabelleHOL #AFP 
@@ -4757,8 +2995,6 @@ relativas a los sistemas que usa o a su contenido.
 
 + A simple embedded probabilistic programming language. ~  Jared Tobin
   @jaredtobin http://bit.ly/2ewucC5 #Haskell
-
-*** 25-Oct-16
 
 + Efficient certified resolution proof checking.~ L. Cruz-Filipe et
   als. http://bit.ly/2e5Yvwe #ITP #Coq #Logic
@@ -4775,29 +3011,11 @@ relativas a los sistemas que usa o a su contenido.
 + hs2agda: A tool for formally verifying Haskell code in Agda. ~ Langston
   Barrett http://bit.ly/2e5XnIX #Haskell #Agda 
 
-*** 26-Oct-16
-
 + Automation of separation logic using auto2. ~ B. Zhan http://bit.ly/2eAkq3L
   #IsabelleHOL
 
-*** 27-Oct-16
-
-+ #RA2016: Programación funcional con Isabelle/HOL. http://bit.ly/2ezLCh0
-  #IsabelleHOL
-
-*** 28-Oct-16
-
-+ #I1M2016: El cifrado César en Haskell. http://bit.ly/2f1II2P #Haskell
-
-+ #I1M2016: Ejercicios de definiciones por recursión (2). http://bit.ly/2f1GgZP
-  #Haskell
-
-*** 29-Oct-16
-
 + Modal logics for nominal transition systems in Isabelle/HOL. ~ T. Weber et
   als. http://bit.ly/2eXiAqd #IsabelleHOL #AFP
-
-*** 30-Oct-16
 
 + How are programs found? (Speculating about language ergonomics with
   Curry-Howard) ~ J. Emerich http://bit.ly/2fjfK21 #CompSci #Math 
@@ -4816,55 +3034,19 @@ relativas a los sistemas que usa o a su contenido.
 + Building small native languages with Haskell. ~ S. Diehl @smdiehl
   https://t.co/zvMNQz9pFt #Haskell
 
-*** 31-Oct-16
-
 + Efficient certified resolution proof checking. ~ L. Cruz-Filipe,
   J. Marques-Silva & P. Schneider-Kamp http://bit.ly/2fjexbd #ITP #Coq #SAT 
 
 + Máster en Ciencia de Datos de la Universidad de
   Sevilla. http://bit.ly/2eMatya #DataScience 
 
-
 ** Noviembre 2016
-*** 01-Nov-16
 
 + Verified parallel string matching in Haskell. ~ N. Vazou & J. Polakow
   http://bit.ly/2fjfNec #Haskell #LiquidHaskell
 
-*** 02-Nov-16
-
 + Certified convergent Perceptron learning. ~ T. Murphy, P. Gray & G. Stewart
   http://bit.ly/2eTjJRb #Coq #ML 
-
-+ #Exercitium: Enunciado de "Triángulos geométricos" http://bit.ly/2eS4Iz6
-  #Haskell #I1M2016
-
-+ #I1M2016: 1º examen de programación con Haskell. http://bit.ly/2ff1fsY
-  #Haskell
-
-+ #I1M2016: Funciones de orden superior en Haskell. http://bit.ly/2eVuoKV
-  #Haskell
-
-*** 03-Nov-16
-
-+ #Exercitium: Enunciado de "Números de Harshad hereditarios"
-  http://bit.ly/2eSdzRl #Haskell #I1M2016
-
-*** 04-Nov-16
-
-+ #Exercitium: Enunciado de "Primos de Kamenetsky" http://bit.ly/2fjVCtj
-  #Haskell 
-
-*** 05-Nov-16
-
-+ #RA2016: Ejercicios de programación funcional con
-  Isabelle/HOL. http://bit.ly/2f3XbgH #IsabelleHOL
-
-+ #RA2016: Razonamiento automático sobre programas en
-  Isabelle/HOL. http://bit.ly/2f3SweE #IsabelleHOL
-
-+ #I1M2016: Ejercicios sobre cadenas en Haskell.
-  http://bit.ly/2fpBjeg #Haskell
 
 + A functional approach to library construction for conceptual reasoning. ~ DWP
   MacMillan http://bit.ly/2fqI5QV #Haskell
@@ -4878,50 +3060,20 @@ relativas a los sistemas que usa o a su contenido.
 + Introductory Programming Subject in European Higher Education. ~ V. Aleksić &
   M. Ivanović http://bit.ly/2f5c2HE #Programming #Education
 
-*** 06-Nov-16
-
 + The theory and practice of Randori coding dojos. ~ J. Rooksby, J. Hunt &
   X. Wang http://bit.ly/2frOQ50 #Programming
-
-*** 07-Nov-16
 
 + Haskell vs. other programming languages. ~ http://bit.ly/2f8VjTO ~ S. Diehl
   @smdiehl #Programming Haskell
 
-*** 08-Nov-16
-
-+ #Exercitium: Enunciado de "Conjetura de Rassias" http://bit.ly/2fwOXfv
-  #Haskell 
-
-*** 09-Nov-16
-
-+ #Exercitium: Soluciones de "Triángulos geométricos". http://bit.ly/2eS4Iz6
-  #Haskell
-
-+ #Exercitium: Enunciado de "Variación de la conjetura de
-  Goldbach". http://bit.ly/2fBPkFR #Haskell
-
-+ #I1M2016: Codificación binaria y transmisión de cadenas en
-  Haskell. http://bit.ly/2ffrKA2 #Haskell 
-
 + La charla de un profesor de universidad que puso en pie a todo un
   auditorio. http://huff.to/2fD7hU9
-
-+ #I1M2016: Operaciones conjuntistas con listas. http://bit.ly/2fD0TfJ #Haskell 
-
-*** 10-Nov-16
 
 + A Coq formal proof of the Lax–Milgram theorem. ~ S. Boldo et
   als. http://bit.ly/2fguInH #ITP #Coq #Math
 
 + Write your own Theorem Prover. ~ P. Scott http://bit.ly/2fgwuFB
   http://bit.ly/2fgvP7a #Haskell #Logic 
-
-+ #Exercitium: Soluciones de "Números de Harshad hereditarios"
-  http://bit.ly/2fElBMr #Haskell 
-
-+ #Exercitium: Enunciado de "Subconjuntos acotados" http://bit.ly/2fEnqsF
-  #Haskell 
 
 + Covariance and contravariance. ~ M. Snoyman @snoyberg | FP Complete
   http://bit.ly/2fEydTN #Haskell
@@ -4942,19 +3094,11 @@ relativas a los sistemas que usa o a su contenido.
 
 + Living in Emacs. ~ Irreal http://bit.ly/2fgLnro #Emacs
 
-*** 11-Nov-16
-
 + Expressiveness of deep learning in Isabelle/HOL. ~ A. Bentkamp
   http://bit.ly/2fH1rkY #IsabelleHOL #AFP 
 
 + Trees that grow (an early draft). ~ S. Najd & S. Peyton Jones
   http://bit.ly/2fgIqad #Haskell
-
-+ #Exercitium: Soluciones de "Primos de Kamenetsky" http://bit.ly/2fH1AF4
-  #Haskell
-
-+ #Exercitium: Enunciado de "Números perfectos y cojonudos"
-  http://bit.ly/1fFNDFZ #Haskell 
 
 + Concrete semantics with Isabelle/HOL (Advanced course at Universität des
   Saarlandes). ~ J. Blanchette et als. http://bit.ly/2fi9q9g #IsabelleHOL
@@ -4964,20 +3108,10 @@ relativas a los sistemas que usa o a su contenido.
 
 + A brief presentation of OCaml. ~ S. Cruanes http://bit.ly/2fGUOiy #OCaml
 
-+ #RA2016: Ejercicios de razonamiento automático sobre programas en
-  Isabelle/HOL. http://bit.ly/2fIQ0ZX #IsabelleHOL
-
-+ #RA2016: Razonamiento estructurado sobre programas con
-  Isabelle/HOL. http://bit.ly/2fj5VPZ #IsabelleHOL
-
-*** 12-Nov-16
-
 + Los mejores libros que puedes leer sobre matemáticas. ~ @Alvy
   http://bit.ly/2fM2WOH #Matemáticas 
 
 + Popular Math books at Goodreads. http://bit.ly/2fuvuLN #Math #Books
-
-*** 13-Nov-16
 
 + Coming to terms with quantified reasoning. ~ L. Kovács, S. Robillard &
   A. Voronkov http://bit.ly/2f615mr #ATP #Vampire 
@@ -4993,71 +3127,23 @@ relativas a los sistemas que usa o a su contenido.
 + Functional programming in Clojure. ~ Troy Miles @therockncoder
   http://bit.ly/2euCEmb #FP #Clojure
 
-*** 14-Nov-16
-
 + Contributions to a computational theory of policy advice and avoidability. ~
   N. Botta, P. Jansson & C. Ionescu http://bit.ly/2f60tgl #Idris
-
-+ #Exercitium: Soluciones de "Primo anterior" http://bit.ly/2fpUSVd #Haskell
-  #I1M2016 
-
-+ #Exercitium: Enunciado de "Persistencia multiplicativa de un número"
-  http://bit.ly/2fQY36X #Haskell #I1M2016 
-
-*** 15-Nov-16
-
-+ #Exercitium: Soluciones de "Conjetura de Rassias" http://bit.ly/2eAudpE
-  #Haskell #I1M2016  
-
-+ #Exercitium: Enunciado de "Cuadrados ondulantes" http://bit.ly/2eAsSza
-  #Haskell #I1M2016 
-
-*** 16-Nov-16
 
 + "Let us calculate!": Leibniz, Llull, and the computational imagination. ~
   J. Gray http://bit.ly/2fxMhQn #Leibniz #math #CompSci 
 
-+ #Exercitium: Soluciones de "Variación de la conjetura de Goldbach"
-  http://bit.ly/2fvU29z #Haskell #I1M2016
-
-+ #Exercitium: Enunciado de "Máximo producto en la partición de un número"
-  http://bit.ly/2fw0j4T #Haskell #I1M2016 
-
-*** 17-Nov-16
-
 + CertSkel: a verified compiler for a Coq-embedded GPGPU DSL. ~ I. Asakura et
   als. http://bit.ly/2g0W5Bg #ITP #Coq 
 
-+ #Exercitium: Soluciones de "Subconjuntos acotados" http://bit.ly/2fyQCmt
-  #Haskell #I1M2016 
-
-+ #Exercitium: Enunciado de "Números poderosos" http://bit.ly/2fyWU5m #Haskell
-  #I1M2016 
-
-+ #I1M2016: Programa en Haskell para reconocer tautologías.
-  http://bit.ly/2fzvOeA #Haskell #Lógica
-
-+ #I1M2016: Declaraciones de clases y de instancias. http://bit.ly/2g1t1cx
-  #Haskell
-
-*** 18-Nov-16
-
 + Beginning practical Haskell (An introductory Haskell programming course by
   Richard Cook). http://bit.ly/2g46xrz #Haskell 
-
-+ #Exercitium: Soluciones de "Números perfectos y cojonudos"
-  http://bit.ly/2g3VyhM #Haskell #I1M2016 
-
-+ #Exercitium: Enunciado de "Números de Dudeney" http://bit.ly/2g3VH4O #Haskell
-  #I1M2016 
 
 + Theorem proving in Lean. ~ J. Avigad, L. de Moura y S. Kong
   http://bit.ly/2g4PbuF #ITP #Lean 
 
 + Interactive and automated theorem proving for non-classical logics (Tutorial
   at GCAI 2016). ~ C. Benzmüller http://bit.ly/2fCJ95J #IsabelleHOL #Logic
-
-*** 19-Nov-16
 
 + teaspoon: Solving the curriculum-based course timetabling problems with
   Answer Set Programming. ~ M. Banbara http://bit.ly/2fETMVU #ASP
@@ -5071,44 +3157,14 @@ relativas a los sistemas que usa o a su contenido.
 + Haskell numeric types: quick reference. ~ J. Rosenbluth http://bit.ly/2fEVGpA
   #Haskell
 
-*** 20-Nov-16
-
-+ #RA2016: Ejercicios de razonamiento detallado sobre programas en
-  Isabelle/HOL. http://bit.ly/2gaYA40 #IsabelleHOL
-
-+ #RA2016: Razonamiento por casos y por inducción en Isabelle/HOL.
-  http://bit.ly/2fIsiPf #IsabelleHOL
-
-+ #I1M2016: Ejercicios de funciones de orden superior. http://bit.ly/2fJvGJr
-  #Haskell 
-
-*** 21-Nov-16
-
-+ #Exercitium: Soluciones de "Persistencia multiplicativa de un número"
-  http://bit.ly/2fQY36X #Haskell #I1M2016 
-
-+ #Exercitium: Enunciado de "Conmutaciones ondulantes" http://bit.ly/2fJwBd3
-  #Haskell #I1M2016 
-
-+ Lista de másteres a los que puede acceder un graduado en matemáticas al
-  finalizar su carrera. http://bit.ly/2fJwTkb #Matemáticas
-
 + ¿Puede existir matemática sin computación? ~ F. Sancho @sanchocaparrini
   http://bit.ly/2fJBEKu #Matemáticas #Computación
 
 + Monte Carlo connection prover. ~ M. Färber, C. Kaliszyk & J. Urban
   https://arxiv.org/abs/1611.05990 #ATP #ML #leanCoP
 
-*** 22-Nov-16
-
 + Comparative concurrency with Haskell. ~ M. Snoyman @snoyberg | FP Complete
   http://bit.ly/2fXx8FY #Haskell 
-
-+ #Exercitium: Soluciones de "Cuadrados ondulantes" http://bit.ly/2eAsSza
-  #Haskell #I1M2016 
-
-+ #Exercitium: Enunciado de "Números consecutivos compuestos"
-  http://bit.ly/2fXulfY #Haskell #I1M2016 
 
 + A Haskell study syllabus (Learn professional-grade Haskell coding practices
   quickly and efficiently). ~ FP Complete http://bit.ly/2fMKhnn #Haskell 
@@ -5122,42 +3178,24 @@ relativas a los sistemas que usa o a su contenido.
 + Proceedings of the 16th Conference on Formal Methods in Computer-Aided Design
   (FMCAD 2016) http://bit.ly/2fMPueZ
 
-+ #MULCIA: Ofertas de Trabajos Fin de Máster. http://bit.ly/2fObPsx
-
 + Fundamental concepts in programming languages. ~ C. Strachey
   https://t.co/4iShOUjdKf #Programming
 
-*** 23-Nov-16
-
 + Proving opacity of a pessimistic STM. ~ S. Doherty et
   als. http://bit.ly/2fMOwQ3 #IsabelleHOL
-
-+ #Exercitium: Soluciones de "Máximo producto en la partición de un número"
-  http://bit.ly/2g1PZzw #Haskell #I1M2016 
-
-+ #Exercitium: Enunciado de "Máxima ramificación" http://bit.ly/2g1PwO3
-  #Haskell #I1M2016 
 
 + Haskell for dummies. ~ M. Snoyman @snoyberg http://bit.ly/2g1SK3O #Haskell
 
 + SAW provides the ability to formally verify properties of code written in C,
   Java, and Cryptol. http://bit.ly/2g1RNsh #Haskell #Formal_verification
 
-+ Los quijotes que crearon el primer lenguaje de programación en español. ~
-  @CristinaSanzM http://bit.ly/2g20u6a #Programación vía @HojadeRouter
-
 + Hackage dependency monitor. http://bit.ly/2g2KjVQ #Haskell
 
 + Donald Knuth was the first Erlang programmer. ~ A. Videla @old_sound
   http://bit.ly/2fQUSOd #Programming #Erlang
 
-+ Coloreando ternas pitagóricas. ~ A.J. Durán y J. Arias de Reyna
-  http://bit.ly/2fFIkGK #Matemáticas #Lógica #Computación
-
 + Boolean Pythagorean triples problem. ~ Wikipedia http://bit.ly/2fFHwle #Math
   #Logic #CompSci
-
-*** 24-Nov-16
 
 + Spreading the Gospel of Haskell. ~ M. Snoyman @snoyberg http://bit.ly/2fIbJzP
   #Haskell
@@ -5165,21 +3203,11 @@ relativas a los sistemas que usa o a su contenido.
 + Máximo producto en la partición de un número (2). ~ Antonio Roldán
   @Connumeros http://bit.ly/2fIgA4j #Matemáticas #Programación 
 
-+ The Haskell.org Website Working Group (HWWG). ~ Neil Mitchell #Haskell
-
 + Programming and mathematical thinking. ~ A.M. Stavely http://bit.ly/2fIh5uY
   #eBook #Math #Programming #Python vía @OpenLibra
 
 + The coder’s apprentice: learning programming with Python 3. ~ P. Spronck
   http://bit.ly/2fIfmGh #eBook #Programming #Python vía @OpenLibra 
-
-+ #Exercitium: Soluciones de "Números poderosos" http://bit.ly/2fyWU5m #Haskell
-  #I1M2016 
-
-+ #Exercitium: Enunciado de "Menor potencia de 2 comenzando un número dado"
-  http://bit.ly/2fHSCWE #Haskell #I1M2016 
-
-*** 25-Nov-16
 
 + Towards certified compilation of financial contracts. ~ D. Annenkov &
   M. Elsman http://bit.ly/2feEUOU #Coq #Haskell 
@@ -5200,29 +3228,6 @@ relativas a los sistemas que usa o a su contenido.
 + UCI datasets: data sets for statistics and machine learning, in Haskell
   http://bit.ly/2g0bVNR #Haskell
 
-+ #Exercitium: Soluciones de "Números de Dudeney" http://bit.ly/2fXCxz0
-  #Haskell #I1M2016 
-
-+ #Exercitium: Enunciado de "Mínimo número de operaciones para transformar un
-  número en otro" http://bit.ly/2fXM8G3 #Haskell #I1M2016 
-
-+ #RA2016: Ejercicios de cuantificadores sobre listas en
-  Isabelle/HOL. http://bit.ly/2fNaSy7 #IsabelleHOL 
-
-+ #RA2016: Funciones recursivas generales en Isabelle/HOL. 
-  http://bit.ly/2fN8nMa #IsabelleHOL
-
-+ #I1M2016: Ejercicios sobre árboles binarios en Haskell. http://bit.ly/2g0jN1T
-  #Haskell 
-
-+ #I1M2016: Ejercicios de tipos de datos algebraicos en Haskell.
-  http://bit.ly/2fNfuUB #Haskell
-
-+ II Congreso Internacional Tendencias Futuras y Emergentes en Tecnologías del
-  Lenguaje, Aprendizaje Automático y Big Data http://bit.ly/2fN71B7 
-
-*** 26-Nov-16
-
 + Why category theory matters: a functional programmer’s perspective. ~
   J.N. Oliveira http://bit.ly/2fOFmQ2 #Math #FP
 
@@ -5232,8 +3237,6 @@ relativas a los sistemas que usa o a su contenido.
   http://bit.ly/2g5kF5z #Math 
 
 + Fermat numbers are coprime. ~ ProofWiki http://bit.ly/2g5eWfZ #Math
-
-*** 27-Nov-16
 
 + Foldl: Composable, streaming, and efficient left folds. ~ G. Gonzalez
   @GabrielG439 http://bit.ly/2g5zHs7 #Haskell 
@@ -5247,14 +3250,6 @@ relativas a los sistemas que usa o a su contenido.
 + Simple unsolved math problem: How often does an integer occur as a binomial
   coefficient? ~ W. David Joyner http://bit.ly/2g7f6mZ #Math
 
-*** 28-Nov-16
-
-+ #Exercitium: Soluciones de "Conmutaciones ondulantes" http://bit.ly/2fVSAdK
-  #Haskell #I1M2016
-
-+ #Exercitium: Enunciado de "Representación binaria de los números de Carol"
-  http://bit.ly/2fVPHtN #Haskell #I1M2016 
-
 + Aprendiendo a usar GitHub. http://bit.ly/2g9W6V1 #I1M2016 #GitHub
 
 + An integer N is divisible by 2^r if and only if the last r digits of N form
@@ -5266,8 +3261,6 @@ relativas a los sistemas que usa o a su contenido.
 + Adventures in enumerating balanced brackets. ~ Brent Yorgey
   http://bit.ly/2ga2TxV #Haskell 
 
-*** 29-Nov-16
-
 + The generic-random library, part 1: simple generic Arbitrary instances. ~
   Brent Yorgey http://bit.ly/2g9Zuzf #Haskell 
 
@@ -5277,46 +3270,15 @@ relativas a los sistemas que usa o a su contenido.
 + Group theory in Haskell. https://github.com/hubbards/GroupTheory #Haskell
   #Math  
 
-+ #Exercitium: Soluciones de "Números consecutivos compuestos"
-  http://bit.ly/2gdDPGi #Haskell #I1M2016 
-
-+ #Exercitium: Enunciado de "Huecos de Euclides" http://bit.ly/2gdF6NF #Haskell
-  #I1M2016 
-
-*** 30-Nov-16
-
 + Formally certified round-off error analysis of floating-point functions. ~ M
   Moscato, L Titolo, A Dutle, CA Muñoz http://go.nasa.gov/2g2VY6X #PVS
 
-+ #Exercitium: Soluciones de "Máxima ramificación" http://bit.ly/2gijvn9
-  #Haskell #I1M2016 
-
-+ #Exercitium: Enunciado de "Problema de las particiones óptimas"
-  http://bit.ly/2gidWFA #Haskell #I1M2016 
-
 +  GHC optimization and fusion. ~ Mark Karpov http://bit.ly/2g4xIBi #Haskell 
-
 
 ** Diciembre 2016
 
-*** 01-Dic-16
-
-+ #Exercitium: Soluciones de "Menor potencia de 2 comenzando un número dado"
-  http://bit.ly/2fHSCWE #Haskell #I1M2016 
-
-+ #Exercitium: Enunciado de "Sumas de posiciones pares e impares"
-  http://bit.ly/2g9zmSa #Haskell #I1M2016 
-
-*** 02-Dic-16
-
 + Implementation of Bourbaki's Elements of Mathematics in Coq: Part two, from
   natural numbers to real numbers. ~ J. Grimm http://bit.ly/2gsHL65 #Coq #Math
-
-+ #Exercitium: Soluciones de "Mínimo número de operaciones para transformar un
-  número en otro" http://bit.ly/2gsJE30 #Haskell #I1M2016 
-
-+ #Exercitium: Enunciado de "Listas alternadas" http://bit.ly/2gsIPqz #Haskell
-  #I1M2016 
 
 + Beautiful folds are practical, too. ~ G. Gonzalez @GabrielG439 [Slides]
   http://bit.ly/2ghBozI [Video] http://bit.ly/2ghKI6Q #Haskell
@@ -5330,41 +3292,14 @@ relativas a los sistemas que usa o a su contenido.
 + Do you like Scala? Give Haskell a try! ~ P. Kant @philipp_kant | FP Complete
   http://bit.ly/2gvKiwH #Haskell #Scala
 
-*** 03-Dic-16
-
 + Introduction to functional reactive programming (FRP), Yampa, and Arrows. ~
   H. Nilsson http://bit.ly/2gysl09 #FRP #Haskell
-
-*** 04-Dic-16
 
 + Demostración asistida por ordenador. ~ J.M. Aransay y C. Domínguez
   http://bit.ly/2gpsq3E #IsabelleHOL #Matemáticas
 
 + Analyzing programs with Z3 and Haskell. ~ T. Jelvis http://bit.ly/2gpp9RW
   #Haskell 
-
-*** 05-Dic-15
-
-+ #Exercitium: Soluciones de "Representación binaria de los números de Carol"
-  http://bit.ly/2gFBLHo #Haskell #I1M2016 
-
-+ #Exercitium: Enunciado de "Listas engarzadas" http://bit.ly/2gFpl28 #Haskell
-  #I1M2016 
-
-+ #I1M2016: 2º examen de programación con Haskell. http://bit.ly/2g3LlVl
-  #Haskell
-
-+ #I1M2016: Evaluación perezosa en Haskell. http://bit.ly/2g3K3d0 #Haskell
-
-+ #I1M2016: Uso de las librerías HLint y Trace. http://bit.ly/2g40BBO #Haskell
-
-+ #RA2016: Razonamiento sobre árboles y bosques en Isabelle/HOL.
-  http://bit.ly/2g4vyFT #isabelleHOL
-
-+ #RA2016: Ejercicios de eliminación de duplicados en Isabelle/HOL.
-  http://bit.ly/2g4zJl8 #IsabelleHOL
-
-*** 06-Dic-16
 
 + Proust: A nano proof assistant. ~ Prabhakar Ragde http://bit.ly/2g5cySU #ITP
   #Logic #Racket 
@@ -5375,56 +3310,24 @@ relativas a los sistemas que usa o a su contenido.
 + An algebra of graphs. ~ Andrey Mokhov @andreymokhov http://bit.ly/2g4HG9H
   #Haskell #Math 
 
-+ #Exercitium: Soluciones de "Huecos de Euclides" http://bit.ly/2gdF6NF
-  #Haskell #I1M2016 
-
-+ #Exercitium: Enunciado de "Sin ceros finales" http://bit.ly/2g4wPwB #Haskell
-  #I1M2016 
-
 + Learn Quantum Mechanics with Haskell. ~ Scott N. Walck http://bit.ly/2h16kFM
   #Haskell #Physics
-
-*** 07-Dic-16
 
 + Domain-specific languages of mathematics: presenting mathematical analysis
   using functional programming. ~ C. Ionescu http://bit.ly/2h53WQJ #Haskell
   #Math 
 
-+ #Exercitium: Soluciones de "Problema de las particiones óptimas"
-  http://bit.ly/2h4XSHX #Haskell #I1M2016 
-
-+ #Exercitium: Enunciado de "Elementos que respetan la ordenación"
-  http://bit.ly/2h4VdxS #Haskell #I1M2016 
-
-*** 08-Dic-16
-
 + The Bricklayer Ecosystem: Art, Math, and Code. ~ V. Winter, B. Love &
   C. Corritore http://bit.ly/2gdFGY4 #Programming #Math
 
-+ #Exercitium: Soluciones de "Sumas de posiciones pares e impares"
-  http://bit.ly/2g9zmSa #Haskell #I1M2016 
-
-+ #Exercitium: Enunciado de "Suma de los máximos de los subconjuntos"
-  http://bit.ly/2gdrLkV #Haskell #I1M2016 
-
-*** 09-Dic-16
-
 + Paraconsistency in Isabelle/HOL. ~ A. Schlichtkrull & J. Villadsen
   http://bit.ly/2hdGRZM #Logic #IsabelleHOL #ITP 
-
-+ #Exercitium: Soluciones de "Listas alternadas" http://bit.ly/2gjelZn #Haskell
-  #I1M2016 
-
-+ #Exercitium: Enunciado de "Caracteres en la misma posición que en el
-  alfabeto" http://bit.ly/2gjp4Dl #Haskell #I1M2016 
 
 + Denotational semantics of IMP without fixed points. ~ Jeremy Siek
   http://bit.ly/2hfzxws http://bit.ly/2hfy8X2 #Coq
 
 + Liquid Haskell: Haskell as a theorem prover. ~ Niki Vazou @nikivazou
   http://bit.ly/2hfvUHc #PhD_Thesis #Haskell 
-
-*** 10-Dic-16
 
 + A formal proof of a Unix path resolution algorithm. ~ R. Chen, M. Clochard,
   C. Marche http://bit.ly/2gvffAw #ITP #Coq 
@@ -5443,8 +3346,6 @@ relativas a los sistemas que usa o a su contenido.
 + Twelve monads of Christmas. Day 3: Maybe — Mini-lists, or mini-exceptions. ~
   Ben Clifford http://bit.ly/2gvXkty #Haskell 
 
-*** 11-Dic-16
-
 + Towards verified computer algebra. ~ M. Dénès, C. Cohen, A. Mörtberg
   http://bit.ly/2gyMWB3 #Coq #Math 
 
@@ -5454,16 +3355,11 @@ relativas a los sistemas que usa o a su contenido.
 + Principes des langages de programmation. ~ Eric Goubault
   http://bit.ly/2gyYqob #eBook #CompSci #OCaml
 
-+ #Vestigium: Formalized linear algebra over elementary divisor rings in
-  Coq. http://bit.ly/2hhTjqS #ITP #Coq #Math
-
 + Plotting a weight chart using Emacs Org-Mode and Gnuplot. ~ Praveen Kumar
   http://bit.ly/2gz6zJA #Emacs #GnuPlot
 
 + ¡Olvida OO y a pensar funcionalmente! ~ Javier Onielfa @onielfadev [Vídeo]
   https://youtu.be/Q3UqTSWPZ8E #Haskell
-
-*** 13-Dic-16
 
 + Formally verified differential dynamic logic. ~ B. Bohre et
   als. http://bit.ly/2gwKojE #IsabelleHOL #Coq #Logic
@@ -5471,18 +3367,10 @@ relativas a los sistemas que usa o a su contenido.
 + Extensible records explained. ~ Fumiaki Kinoshita | School of Haskell
   http://bit.ly/2gwQsJd #Haskell  
 
-+ #Exercitium: Soluciones de "Listas engarzadas" http://bit.ly/2hvN2v4 #Haskell
-  #I1M2016
-
-+ #Exercitium: Enunciado de "Mayores que la mitad" http://bit.ly/2hvPX7f
-  #Haskell #I1M2016 
-
 + AI in biological modelling. ~ F. Fages http://bit.ly/2gwJZOi #AI
 
 + DeepBach: a steerable model for Bach chorales generation. ~ G. Hadjere,
   F. Pachet http://bit.ly/2gwKmZa #AI
-
-*** 14-Dic-16
 
 + The calculus of dependent lambda eliminations. ~ A. Stump
   http://bit.ly/2hDsjp7 #Agda
@@ -5490,43 +3378,19 @@ relativas a los sistemas que usa o a su contenido.
 + A gentle introduction to functional programming in Haskell. ~ K.A. Lambert
   http://bit.ly/2hDvjC4 #eBook #Haskell
 
-+ #Exercitium: Soluciones de "Elementos que respetan la ordenación"
-  http://bit.ly/2hDs2mh #Haskell #I1M2016 
-
-+ #Exercitium: Enunciado de "Distancia a Erdős" http://bit.ly/2hDs0e8 #Haskell
-  #I1M2016 
-
-*** 15-Dic-16
-
 + Markov processes in Isabelle/HOL. ~ J. Hölzl http://bit.ly/2hI9RM9
   #IsabelleHOL 
 
 + Haskell in the Datacentre: how we tuned the GHC runtime to make Haskell run
   better at scale. ~ Simon Marlow @simonmar http://bit.ly/2hI2wfE
 
-+ #Exercitium: Soluciones de "Suma de los máximos de los subconjuntos"
-  http://bit.ly/2hI4uwv #Haskell #I1M2016 
-
-+ #Exercitium: Enunciado de "Posiciones de equilibrio" http://bit.ly/2hI9X6L
-  #Haskell #I1M2016 
-
 + A fun refactoring example in Haskell. ~ Pascal Hartig http://bit.ly/2hIcaPj
   #Haskell 
 
 + The great A.I. awakening. ~ Gideon Lewis-Krausdec http://nyti.ms/2hLq3wn #AI
 
-*** 17-Dic-16
-
 + Normalisation by evaluation for type theory, in type theory. ~ T. Altenkirch
   & A. Kaposi http://bit.ly/2hS4lXn #Agda 
-
-+ #Exercitium: Soluciones de "Caracteres en la misma posición que en el
-  alfabeto" http://bit.ly/2gLxsqt #Haskell #I1M2016 
-
-+ #Exercitium: Enunciado de "Números de la suerte" http://bit.ly/2gLH1pm
-  #Haskell #I1M2016 
-
-*** 19-Dic-16
 
 + Efficient certified RAT verification. ~ L. Cruz-Filipe et
   als. http://bit.ly/2hYdc9U #SAT #Coq #ACL2 
@@ -5534,70 +3398,19 @@ relativas a los sistemas que usa o a su contenido.
 + Zeller's congruence algorithm to calculate the day of the
   week. http://bit.ly/2hYgNoF #Haskell 
 
-+ #Exercitium: Soluciones de "Mayores que la mitad" http://bit.ly/2hYciKP
-  #Haskell #I1M2016 
-
-+ #Exercitium: Enunciado de "Selección por posición" http://bit.ly/2hY6qB9
-  #Haskell #I1M2016 
-
-+ #RA2016: Verificación de la ordenación por inserción con
-  Isabelle/HOL. http://bit.ly/2i1RJ09 #IsabelleHOL
-
-+ #RA2016: Verificación de la ordenación por mezcla con
-  Isabelle/HOL. http://bit.ly/2i1SKoN #IsabelleHOL
-
-+ #RA2016: Verificación de propiedades de recorridos en árboles binarios con
-  Isabelle/HOL. http://bit.ly/2i1UFK0 #IsabelleHOL
-
-+ #I1M2016: Ejercicios de evaluación perezosa y listas infinitas en Haskell
-  (1). http://bit.ly/2i20gjz #Haskell 
-
-+ #I1M2016: Problema del concurso “Cifras y letras” en Haskell.
-  http://bit.ly/2i20ffr #Haskell 
-
-+ #I1M2016: El problema de las N reinas en Haskell. http://bit.ly/2i246sY
-  #Haskell  
-
-+ #I1M2016: Ejercicios de evaluación perezosa y listas infinitas en Haskell
-  (2). http://bit.ly/2i3EkVc #Haskell
-
-*** 20-Dic-16
-
 + Implementation of Bourbaki's Elements of Mathematics in Coq: Part Three
   Structures. ~ J. Grimm http://bit.ly/2hY8vND #Coq #Math 
-
-+ #Exercitium: Soluciones de "Agrupación por orden de aparición"
-  http://bit.ly/2hyudr2 #Haskell #I1M2016 
-
-+ #Exercitium: Enunciado de "Ordenación por una columna" http://bit.ly/2gW9SHD
-  #Haskell #I1M2016 
-
-*** 21-Dic-16
 
 + Formal foundations of 3d geometry to model robot manipulators. ~ R. Affeldt &
   C. Cohen http://bit.ly/2gWlmLj #Coq #Math
 
-+ #Exercitium: Soluciones de "Distancia a Erdős" http://bit.ly/2gxpUaG #Haskell
-  #I1M2016 
-
-+ #Exercitium: Enunciado de "Día de la semana" http://bit.ly/2h3gDaC #Haskell
-  #I1M2016 
-
 + Verification of certifying distributed programs (Case study: leader
   election). ~ S. Akili, K. Völlinger http://bit.ly/2ic8xkV #Coq
-
-*** 22-Dic-16
 
 + PureScript mediante ejemplos (Programación funcional para la Web). ~ Phil
   Freeman http://bit.ly/2idBsW3 #PureScript #eBook 
 
 + Mónadas. ~ Mario Román | LibreIM http://bit.ly/2idFZHW #Haskell
-
-+ #Exercitium: Soluciones de "Posiciones de equilibrio" http://bit.ly/2hI9X6L
-  #Haskell #I1M2016 
-
-+ #Exercitium: Enunciado de "Ordenación por una fila" http://bit.ly/2h4uT2G
-  #Haskell #I1M2016 
 
 + Jupyter Notebooks for the "Python Data Science Handbook". ~ Jake Vanderplas
   http://bit.ly/2h4HHq6 #Python #DataScience #eBook 
@@ -5611,18 +3424,6 @@ relativas a los sistemas que usa o a su contenido.
 + A bird’s eye view of functional programming. ~ Brooklyn Zelenka
   http://bit.ly/2idQpY2 #FP #Haskell 
 
-+ #I1M2016: Programas interactivos en Haskell. http://bit.ly/2ieYlbh #Haskell
-
-*** 23-Dic-16
-
-+ #Exercitium: Soluciones de "Números de la suerte" http://bit.ly/2gLH1pm
-  #Haskell #I1M2016  
-
-+ #Exercitium: Enunciado de "Listas duplicadas" http://bit.ly/2h8kN0L #Haskell
-  #I1M2016 
-
-*** 24-Dic-16
-
 + Music and measure theory. [Video] https://youtu.be/cyW5z-M2yzw #Math #Music
 
 + 8 ways to report errors in Haskell. ~ Eric Kidd @ericmkidd
@@ -5634,24 +3435,14 @@ relativas a los sistemas que usa o a su contenido.
 + Data frames for tabular data. ~ Anthony Cowley @a_cowley
   http://bit.ly/2hbEPI3 #Haskell 
 
-*** 25-Dic-16
-
 + Reflecting on Haskell in 2016. ~ Stephen Diehl @smdiehl http://bit.ly/2hf1tyX
   #Haskell 
-
-*** 26-Dic-16
 
 + Formalization and assessment of Lowe’s modal ontological argument. ~
   D. Fuenmayor http://bit.ly/2isPP91 #IsabelleHOL 
 
 + Validating the meta-theory of programming languages with Haskell. ~
   G. Fachini http://bit.ly/2heX4MH #Haskell
-
-+ #Exercitium: Soluciones de "Selección por posición" http://bit.ly/2hf68Ru
-  #Haskell #I1M2016 
-
-+ #Exercitium: Enunciado de "Ternas coprimas" http://bit.ly/2heXP8t #Haskell
-  #I1M2016  
 
 + Mutual recursion in final encoding. ~ Andreas Herrmann http://bit.ly/2hfYs1C
   #Haskell 
@@ -5665,16 +3456,8 @@ relativas a los sistemas que usa o a su contenido.
 + Tamarin prover: a powerful tool for the symbolic modeling and analysis of
   security protocols. http://bit.ly/2iuG3mM #Haskell
 
-*** 27-Dic-16
-
 + The theory of abstract objects. ~ E. Badstübner, D. Kirchner & P. Schießl
   http://bit.ly/2isNMBI #IsabelleHOL
-
-+ #Exercitium: Soluciones de "Ordenación por una columna" http://bit.ly/2iwzwYR
-  #Haskell #I1M2016 
-
-+ #Exercitium: Enunciado de "Números super pandigitales" http://bit.ly/2iwDCjq
-  #Haskell #I1M2016 
 
 + Formal verification for ASP: A case study using the PVS theorem prover. ~
   F. Aguado et als. http://bit.ly/1BRfexe #ITP #PVS #ASP 
@@ -5684,16 +3467,8 @@ relativas a los sistemas que usa o a su contenido.
 
 + McCarthy Math ~ Harry Prevor http://bit.ly/2iz5Qu4 #Lisp #Python #Math
 
-*** 28-Dic-16
-
 + Proving God’s existence by automating Leibniz’ algebra of concepts. ~
   M. Bentert et als. http://bit.ly/2it2AAc #IsabelleHOL
-
-+ #Exercitium: Soluciones de "Día de la semana" http://bit.ly/2iwyLiq #Haskell
-  #I1M2016 
-
-+ #Exercitium: Enunciado de "Mínima suma de las ramas de un árbol"
-  http://bit.ly/2iwGigT #Haskell #I1M2016 
 
 + Quo Vadis Program Verification. ~ Krzysztof R. Apt http://bit.ly/2iD3GJL
 
@@ -5718,16 +3493,8 @@ relativas a los sistemas que usa o a su contenido.
 + Functional programming with Python. ~ Alexey Kachayev http://bit.ly/2hp5rp6
   #FP #Python  
 
-*** 29-Dic-16
-
 + A formalization of the Berlekamp–Zassenhaus factorization algorithm. ~
   J. Divasón et als. http://bit.ly/2hn7ud4 #IsabelleHOL #Math 
-
-+ #Exercitium: Soluciones de "Ordenación por una fila" http://bit.ly/2hhA0gn
-  #Haskell #I1M2016 
-
-+ #Exercitium: Enunciado de "Números de Perrin" http://bit.ly/2hhzNJY #Haskell
-  #I1M2016 
 
 + Elegant and efficient Python. ~ S.R. Hastings http://bit.ly/2iHmuaW #Python 
 
@@ -5736,18 +3503,8 @@ relativas a los sistemas que usa o a su contenido.
 
 + The idea of Lisp. ~  Eric Normand @ericnormand http://bit.ly/2htOslf #Lisp
 
-*** 30-Dic-16
-
 + The next 700 safe tactic languages. ~ B. Ziliani @BetaZiliani et
   als. http://bit.ly/2hveNja #Coq 
-
-+ #Exercitium: Soluciones de "Listas duplicadas" http://bit.ly/2hhJl7D #Haskell
-  #I1M2016 
-
-+ #Exercitium: Enunciado de "Segmentos comunes maximales" http://bit.ly/2hhzTB8
-  #Haskell #I1M2016 
-
-*** 31-Dic-16
 
 + Computerized verification of formal reconstructions of Anselm’s argument by
   Eder and Ramharter. ~ L. Grätz & F. Schütz http://bit.ly/2it6ZTG #IsabelleHOL
@@ -5763,3 +3520,4 @@ relativas a los sistemas que usa o a su contenido.
 + Impressionnante liste de logiciels éducatifs libres | Thot Cursus
   http://bit.ly/2iPRhlU
 
++ Twelve monads of Christmas. ~ Ben Clifford http://bit.ly/2hzJ8gc #Haskell
