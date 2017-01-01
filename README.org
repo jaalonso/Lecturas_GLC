@@ -37,7 +37,7 @@ relativas a los sistemas que usa o a su contenido.
 + [[http://bit.ly/1SoDxsn][Fixed points for Markov decision processes]]. ~ J. Hölzl #ITP #Isabelle_HOL
 
 + [[http://bit.ly/1muxYfX][The rsync algorithm: Just playing with the ideas in rsync with Haskell]]  ~
-  R. Muthukrishnan http://bit.ly/1muy4Eo #Haskell
+  R. Muthukrishnan #Haskell
 
 + [[http://huff.to/1OFfoHU][Data vs theory: the mathematical battle for the soul of physics]]. ~
   D.H. Bailey & J.M. Borwein 
@@ -143,7 +143,7 @@ relativas a los sistemas que usa o a su contenido.
 + [[http://bit.ly/1NAFGu1][Particle smoothing]]. ~ D. Steinitz #Haskell
 
 + [[http://bit.ly/1NAFQlc][Introducing dimensional: Statically checked physical dimensions
-  for #Haskell]]. ~ D. McClean https://youtu.be/-Kz7SYZNoUU
+  for Haskell]]. ~ D. McClean #Haskell
 
 + [[http://bit.ly/1Tpi1Eh][Formalized linear algebra over elementary divisor rings in Coq]]. ~ G. Cano et
   als. #ITP #Coq #Math
@@ -187,7 +187,7 @@ relativas a los sistemas que usa o a su contenido.
   Foldable]]) ~ Takenobu T. #Haskell
 
 + [[http://bit.ly/1Q2S7Rd][Probabilistic functions and cryptographic oracles in higher order logic]]. ~
-  A. Lochbihler http://bit.ly/1Q2S8o9 #Isabelle_HOL
+  A. Lochbihler #Isabelle_HOL
 
 + [[http://bit.ly/20A2Nyc][Failure of unique factorization]] ~ D. Lipton #Math
 
@@ -424,9 +424,9 @@ relativas a los sistemas que usa o a su contenido.
 
 + [[http://bit.ly/1OljqVq][The joy and agony of Haskell in production]]. ~ S. Diehl #Haskell
 
-+ [[http://bit.ly/1PK4N24][Cálculo numérico con Maxima]]. ~ J. Ramírez #Maxima #Matemáticas #I1M2015
++ [[http://bit.ly/1PK4N24][Cálculo numérico con Maxima]]. ~ J. Ramírez #Maxima #Matemáticas
 
-+ [[http://bit.ly/1KxAQDF][Breve manual de Maxima]]. ~ R. Ipanaqué #Libro #Maxima #I1M2015
++ [[http://bit.ly/1KxAQDF][Breve manual de Maxima]]. ~ R. Ipanaqué #Libro #Maxima
 
 + [[http://bit.ly/1L2fP3L][Higher-order recursion abstraction: How to make Ackermann, Knuth and Conway
   look like a bunch of primitives]]. #Haskell
@@ -511,7 +511,7 @@ relativas a los sistemas que usa o a su contenido.
 
 + [[http://bit.ly/24COJqC][Linear temporal logic in Isabelle/HOL]]. ~ S. Sickert #ITP #Logic #IsabelleHOL #AFP
 
-+ [[http://bit.ly/1RsAXxc][What mathematical logic says about the foundations of mathematic]]s ~
++ [[http://bit.ly/1RsAXxc][What mathematical logic says about the foundations of mathematics]]. ~
   C. Bernardi #Logic #Math #CompSci
 
 + [[http://bit.ly/1RsBi2P][Haskell meets large scale distributed analytics]]. ~ A. Mestanogullari &
@@ -579,7 +579,7 @@ relativas a los sistemas que usa o a su contenido.
 
 + [[http://bit.ly/1RH2wTF][Using AlphaGo as a theorem prover]]. #ATP #AI
 
-+ [[http://bit.ly/1RH2Dyx][Beginner's guide to the history of data scienc]]e ~  Hannah Augur
++ [[http://bit.ly/1RH2Dyx][Beginner's guide to the history of data science]]. ~  Hannah Augur
   #DataScience
 
 + [[http://bit.ly/22aw7Q4][Blackstar: Raytracing black holes with Haskell]]. ~ Sakari Kapanen
@@ -660,8 +660,7 @@ relativas a los sistemas que usa o a su contenido.
 + [[http://bit.ly/1VODaJb][Extensible domain specific languages]]. ~ C. Schmalhofer & A. Biehl
   #Haskell
 
-+ [[http://bit.ly/1VODurn][Hakaru: An embedded probabilistic programming language in
-  Haskell]]. ~ #Haskell
++ [[http://bit.ly/1VODurn][Hakaru: An embedded probabilistic programming language in Haskell]]. ~ #Haskell 
 
 + [[http://bit.ly/1pTrwRw][Case studies in constructive mathematics]]. ~ E. Parmann #PhD_Thesis #ITP #Coq
   #Math
@@ -686,10 +685,10 @@ relativas a los sistemas que usa o a su contenido.
 
 + [[http://bit.ly/1V9tLvf][Adventures in functional Big Data]]. ~ Matthew Eric Bassett #FP #Big_Data
 
-+ [[http://bit.ly/1V9wGEb][Learning data science using functional Python]]. ~ Joel Grus
-  http://bit.ly/1V9wNiX #Data_science #FP #Python 
++ [[http://bit.ly/1V9wGEb][Learning data science using functional Python]]. ~ Joel Grus #Data_science #FP
+  #Python
 
-+ [[http://bit.ly/1TlgAY7][Past, present and future of AI: a fascinating journe]]y ~ Ramón López de
++ [[http://bit.ly/1TlgAY7][Past, present and future of AI: a fascinating journey]]. ~ Ramón López de
   Mantaras #AI
 
 + [[http://bit.ly/1TlhBPT][Probabilistic logic programming tutorial]]. ~ F. Riguzzi & G. Cota
@@ -715,17 +714,14 @@ relativas a los sistemas que usa o a su contenido.
 + [[http://bit.ly/1oqAFiw][Automating proofs]]. ~ Chris Edwards | Communications of the ACM #ATP
 
 + [[https://youtu.be/Jmw6LLNQQfs][Composing (music) in Haskell]]. ~ Stuart Popejoy [Video] #Haskell #Music
-  #I1M2015
 
-+ [[http://bit.ly/25Ciokj][Composing (music) in Haskell]]. ~ Stuart Popejoy [Slides] #Haskell #Music #I1M2015
++ [[http://bit.ly/25Ciokj][Composing (music) in Haskell]]. ~ Stuart Popejoy [Slides] #Haskell #Music
 
 + [[https://youtu.be/R4nLSxCKkNw][Haskell, startups, and domain specific languages]]. ~ Adam Wespiser [Video]
   #Haskell
 
 + [[http://bit.ly/25CjxrZ][The Happstack book: Modern, type-safe Web development in Haskell]]. ~ Jeremy
   Shaw #Haskell #Web #Book
-
-+ [[http://bit.ly/1oqFJUd][Proof puzzle game]]. ~ http://bit.ly/1oqFKrl #Logic #LMF2016
 
 + [[http://bit.ly/1qnxzgV][(Co)induction: it’s a thing]]! ~ V. Robert #Logic
 
@@ -772,7 +768,7 @@ relativas a los sistemas que usa o a su contenido.
   als. #Haskell
 
 + [[http://bit.ly/1RFuza7][Automatic predicate testing in formal certification (You’ve only proven what
-  you’ve said, not what you meant!]]) ~ F. Slama #ITP 
+  you’ve said, not what you meant!)]] ~ F. Slama #ITP
 
 + [[http://bit.ly/1qwbs8B][ASlib: A benchmark library for algorithm selection]]. ~ B. Bischl et
   als. #Algorithms #Machine_learning
@@ -892,10 +888,10 @@ relativas a los sistemas que usa o a su contenido.
 + [[http://bit.ly/1MHc3hw][Proof-relevant pi-calculus]]. ~ R. Perera & J. Cheney #ITP #Agda
 
 + [[http://bit.ly/1WGOyqX][Scientific computation and functional programming]]. ~ J. Karczmarczuk
-  #Haskell #Physic #I1M2015
+  #Haskell #Physic
 
 + [[http://bit.ly/1VIjvvu][learn-physics: Haskell code for learning physics]]. ~ S.N. Walck
-  #Haskell #Physics #I1M2015
+  #Haskell #Physics
 
 + [[http://bit.ly/1SvXuwv][Shine: Declarative graphics for the browser]]. ~ F. Gazzetta
   #Haskell #JavaScript
@@ -1125,7 +1121,6 @@ relativas a los sistemas que usa o a su contenido.
   #Haskell
 
 + [[http://www.plastelina.net][Plastelina interactive logic games]]. ~ #Logic #Game 
-  #I1M2015
 
 + [[http://bit.ly/1TdxWYm][Loopless gray code enumeration and the tower of Bucharest]]. ~ F. Herter &
   G. Rote #Algorithms #Python
@@ -1752,7 +1747,7 @@ relativas a los sistemas que usa o a su contenido.
   Beeson #Logic #ATP #Otter 
 
 + [[http://bit.ly/2ay8e1u][Libro de exámenes de programación funcional con Haskell (versión del 28 de
-  julio de 2016)]]. ~ J.A. Alonso #Haskell #I1M
+  julio de 2016)]]. ~ J.A. Alonso #Haskell
 
 + [[http://bit.ly/2a8SNam][Automating change of representation for proofs in discrete mathematics]]. ~
   D. Raggi, A. Bundy, G. Grov, A. Pease #IsabelleHOL 
@@ -2306,7 +2301,7 @@ relativas a los sistemas que usa o a su contenido.
 
 + [[http://bit.ly/2ch3xEa][Machine-checked mathematics]]. ~ A. Mahboubi #ITP #Math
 
-+ [[http://bit.ly/2cinKOY][Programas, funciones y dibujos]]. ~ J.A. Alonso #CodeWorld #Haskell #I1M
++ [[http://bit.ly/2cinKOY][Programas, funciones y dibujos]]. ~ J.A. Alonso #CodeWorld #Haskell
 
 + [[http://bit.ly/2cib8m9][Teenage Haskell]]. ~ Tim Docker #CodeWorld #Haskell
 
@@ -2724,7 +2719,7 @@ relativas a los sistemas que usa o a su contenido.
   #Haskell 
 
 + [[http://bit.ly/2fTn5RV][Libro de exámenes de programación funcional con Haskell (versión del 27 de
-  noviembre de 2016)]]. ~ J.A. Alonso #Haskell #I1M2016
+  noviembre de 2016)]]. ~ J.A. Alonso #Haskell
 
 + [[http://bit.ly/2g7c7et][An interactive tutorial on numerical optimization]]. ~ Ben Frederickson
   #Math #Javascript
