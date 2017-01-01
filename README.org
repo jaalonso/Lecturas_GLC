@@ -1897,51 +1897,48 @@ relativas a los sistemas que usa o a su contenido.
 
 + [[http://bit.ly/2aX2XwK][Scaling up superoptimization]]. ~ P. Phothilimthana #Programming
 
-+ [[http://bit.ly/2bwO4VM][Inductive functional programming]]. ~ u. schmid #programming
++ [[http://bit.ly/2bwO4VM][Inductive functional programming]]. ~ U. Schmid #Programming
 
-+ [[http://bit.ly/2bwqowa][leon: an automated system for verifying, repairing, and synthesizing
-  functional scala programs]]. ~ #scala 
++ [[http://bit.ly/2bwqowa][Leon: an automated system for verifying, repairing, and synthesizing
+  functional scala programs]]. ~ #Scala 
 
-+ [[http://bit.ly/2ax5as1][the calculus of computation: decision procedures with applications to
-  verification]]. ~ a. bradley & z. manna [slides] #logic
++ [[http://bit.ly/2ax5as1][The calculus of computation: decision procedures with applications to
+  verification]]. ~ A. Bradley & Z. Manna #Logic
 
-+ [[http://bit.ly/2bwovpy][synthesis, analysis, and verification]]. ~ v. kuncak & o. lhotak
-  #compsci
++ [[http://bit.ly/2bwovpy][Synthesis, analysis, and verification]]. ~ V. Kuncak & O. Lhotak #Compsci
 
-+ [[http://bit.ly/2ax5cqf][software synthesis using automated reasoning]]. ~ r. piskac #atp
++ [[http://bit.ly/2ax5cqf][Software synthesis using automated reasoning]]. ~ R. Piskac #ATP
 
-+ [[http://bit.ly/2bwrwzk][example-directed synthesis: a type-theoretic interpretation]]. ~ j. frankle et
-  als. #programming
++ [[http://bit.ly/2bwrwzk][Example-directed synthesis: a type-theoretic interpretation]]. ~ J. Frankle et
+  als. #Programming
 
-+ [[http://bit.ly/2bjpciz][hoare-style specifications as correctness conditions for non-linearizable
-  concurrent objects]]. ~ i. sergey et als. #coq
++ [[http://bit.ly/2bjpciz][Hoare-style specifications as correctness conditions for non-linearizable
+  concurrent objects]]. ~ I. Sergey et als. #Coq
 
-+ [[http://bit.ly/2bwtqac][type-and-example-directed program synthesis]]. ~ s. zdancewic [slides]
-  #programming 
++ [[http://bit.ly/2bwtqac][Type-and-example-directed program synthesis]]. ~ S. Zdancewic #Programming
 
-+ [[http://bit.ly/2bwsouf][myth: type-and-example-driven program synthesis for functional programming
-  languages]]. ~ peter-michael osera #ocaml
++ [[http://bit.ly/2bwsouf][Myth: type-and-example-driven program synthesis for functional programming
+  languages]]. ~ Peter-Michael Osera #Ocaml
 
-+ [[http://bit.ly/2bjq8ng][a theoretician's guide to the experimental analysis of algorithms]]. ~
-  d.s. johnson #algorithms
++ [[http://bit.ly/2bjq8ng][A theoretician's guide to the experimental analysis of algorithms]]. ~
+  D.S. Johnson #Algorithms
 
-+ [[http://bit.ly/2b0c1sx][certified context-free parsing: a formalisation of valiant’s algorithm in
-  agda]]. ~ j.p. bernardy & p. jansson #agda
++ [[http://bit.ly/2b0c1sx][Certified context-free parsing: a formalisation of valiant’s algorithm in
+  Agda]]. ~ J.P. Bernardy & P. Jansson #Agda
 
-+ [[http://bit.ly/2b0bwix][programming languages for pre-mechanical calculating tools]]. ~ b. mélès
-  #compsci #math 
++ [[http://bit.ly/2b0bwix][Programming languages for pre-mechanical calculating tools]]. ~ B. Mélès
+  #CompSci #Math 
 
-+ [[http://bit.ly/2b0bvl6][implementing hol in an higher order logic programming language]]. ~ c. dunchev
-  et als. #logic #λprolog
++ [[http://bit.ly/2b0bvl6][Implementing hol in an higher order logic programming language]]. ~ C. Dunchev
+  et als. #Logic #λProlog
 
-+ [[http://bit.ly/2b0f0l7][deriving moessner's sieve from horner's method]]. ~ p. urbak
-  #haskell #math 
++ [[http://bit.ly/2b0f0l7][Deriving Moessner's sieve from Horner's method]]. ~ P. Urbak #Haskell #Math 
 
-+ [[http://bit.ly/2bxsj6c][lazy depth-first search and linear graph algorithms in haskell]]. ~ d.j. king &
-  j. launchbury #haskell 
++ [[http://bit.ly/2bxsj6c][Lazy depth-first search and linear graph algorithms in Haskell]]. ~ D.J. King &
+  J. Launchbury #Haskell 
 
-+ [[http://bit.ly/2b0eljs][formalized linear algebra over elementary divisor rings in coq]]. ~ g. cano et
-  als. #itp #coq #math
++ [[http://bit.ly/2b0eljs][Formalized linear algebra over elementary divisor rings in Coq]]. ~ G. Cano et
+  als. #ITP #Coq #Math
 
 + [[http://bit.ly/2bzzalj][Free delivery (Functional pearl)]]. ~ Jeremy Gibbons #Haskell
 
