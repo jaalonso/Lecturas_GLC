@@ -2038,25 +2038,25 @@ relativas a los sistemas que usa o a su contenido.
 + [[http://bit.ly/2bkPfC2][Functional programming by example]]. ~ c. rodrigues #haskell #ocaml #scheme
  #clojure
 
-+ [[http://bit.ly/2bkeqem][algorithms for reduced ordered binary decision diagrams (for isabelle/hol)]]. ~
-  j. michaelis et als. #isabellehol #afp 
++ [[http://bit.ly/2bkeqem][Algorithms for reduced ordered binary decision diagrams (for Isabelle/HOL)]]. ~
+  J. Michaelis et als. #IsabelleHOL #AFP 
 
-+ [[http://bit.ly/2bkm9uc][the benefits (not features!) of programming with haskell]]. ~ robb shecter
-  #haskell
++ [[http://bit.ly/2bkm9uc][The benefits (not features!) of programming with Haskell]]. ~ Robb Shecter
+  #Haskell
 
-+ [[http://bit.ly/2bfp7fl][formalising in isabelle/hol a simplicial model for homotopy type theory: a
-  naive approach]]. ~ j. aransay et als. #isabellehol
++ [[http://bit.ly/2bfp7fl][Formalising in Isabelle/HOL a simplicial model for homotopy type theory: a
+  naive approach]]. ~ J. Aransay et als. #IsabelleHOL
 
-+ [[http://bit.ly/2bjlsef][should i do that? using relational reinforcement learning and declarative
-  programming to discover domain axioms]]. ~ #asp #prolog
++ [[http://bit.ly/2bjlsef][Should i do that? using relational reinforcement learning and declarative
+  programming to discover domain axioms]]. ~ #ASP #Prolog
 
-+ [[http://bit.ly/2bjm392][automating black-box property based testing]]. ~ jonas duregård
-  #phd_thesis #haskell 
++ [[http://bit.ly/2bjm392][Automating black-box property based testing]]. ~ Jonas Duregård
+  #Phd_Thesis #Haskell 
 
-+ [[http://bit.ly/2bqswz6][comment haskell a changé ma vision de développeur sur de nombreux points et
-  notamment le typag]]e ~ g. bouchard #haskell
++ [[http://bit.ly/2bqswz6][Comment Haskell a changé ma vision de développeur sur de nombreux points et
+  notamment le typag]]e ~ G. Bouchard #Haskell
 
-+ [[http://bit.ly/2bjmfvl][haskell, monads and purity]]. ~ tikhon jelvis #haskell
++ [[http://bit.ly/2bjmfvl][Haskell, monads and purity]]. ~ Tikhon Jelvis #Haskell
 
 + [[http://bit.ly/2bqmh7k][Python 3 for scientists]]. ~ Stephanie Douglas et als. #Python
 
@@ -2099,7 +2099,7 @@ relativas a los sistemas que usa o a su contenido.
 + [[http://bit.ly/2bUd3R7][Answer set programming for logical analysis of data]]. ~ K Becker et
   als. pp. 15-26 #ASP #Prolog #DataScience #LAD
 
-+ [[http://bit.ly/2cek1ys][ladoscope: tools for Logical Analysis of Data]]. ~ P. Lemaire
++ [[http://bit.ly/2cek1ys][ladoscope: tools for logical analysis of data]]. ~ P. Lemaire
   #DataScience #LAD #OCaml 
 
 + [[http://bit.ly/2bIitBd][Build GHC on Windows using Hadrian and Stack]]. ~ A. Mokhov
@@ -2207,28 +2207,28 @@ relativas a los sistemas que usa o a su contenido.
 
 + [[http://bit.ly/2bzp1kf][emacs configurations for latex]]. ~ irreal #emacs #latex
 
-+ [[http://bit.ly/2by1ke2][a curated list of awesome coq frameworks, libraries and software]]. ~ #coq
++ [[http://bit.ly/2by1ke2][A curated list of awesome coq frameworks, libraries and software]]. ~ #Coq
 
-+ [[http://bit.ly/2bztioh][how to write a package in haskell and interact with the code inside of it]]. ~
-  chris allen #haskell
++ [[http://bit.ly/2bztioh][How to write a package in Haskell and interact with the code inside of it]]. ~
+  Chris Allen #Haskell
 
-+ [[http://bit.ly/2cbbh0l][proving non-deterministic computations in agda]]. ~ s. antoy, m. hanus &
-  s. libby #agda #curry 
++ [[http://bit.ly/2cbbh0l][Proving non-deterministic computations in agda]]. ~ S. Antoy, M. Hanus &
+  S. Libby #Agda #Curry 
 
-+ [[http://bit.ly/2csttmq][using haskell for a declarative implementation of system z inference]]. ~
-  s. kutsch & c. beierle #haskell 
++ [[http://bit.ly/2csttmq][Using Haskell for a declarative implementation of system Z inference]]. ~
+  S. Kutsch & C. Beierle #Haskell 
 
-+ [[http://bit.ly/2cssxyg][iptables-semantics in isabelle/hol]]. ~ c. diekmann & l. hupel 
-  #isabellehol #afp
++ [[http://bit.ly/2cssxyg][Iptables-semantics in Isabelle/HOL]]. ~ C. Diekmann & L. Hupel #IsabelleHOL
+  #AFP
 
-+ [[http://bit.ly/2cbcew9][a framework for extending microkanren with constraints]]. ~ j. hemann &
-  d.p. friedman #racket
++ [[http://bit.ly/2cbcew9][A framework for extending microkanren with constraints]]. ~ J. Hemann &
+  D.P. Friedman #Racket
 
-+ [[http://bit.ly/2cbbqbh][selene: a generic framework for model checking concurrent programs from their
-  semantics in maude]]. ~ a. riesco & g. suárez #maude
++ [[http://bit.ly/2cbbqbh][Selene: a generic framework for model checking concurrent programs from their
+  semantics in Maude]]. ~ A. Riesco & G. Suárez #Maude
 
-+ [[http://bit.ly/2c115lc][huri: a clojure library for the lazy data scientists]]. ~ simon belak
-  #clojure #datascience 
++ [[http://bit.ly/2c115lc][Huri: a clojure library for the lazy data scientists]]. ~ Simon Belak
+  #Clojure #DataScience 
 
 + [[http://bit.ly/2c2asrf][Doing data science with Clojure]]. ~ Simon Belak #Clojure #DataScience
 
@@ -2319,7 +2319,7 @@ relativas a los sistemas que usa o a su contenido.
   Eder and Ramharter]]. ~ J. Rushby #ITP #PVS
 
 + [[http://bit.ly/2cVnIw4][Proofs and assurance (The case of the ontological argument)]]. ~ J. Rushby
-  [Slides] #ITP #PVS 
+  #ITP #PVS 
 
 + [[http://bit.ly/2cVnYLb][Assurance and formal methods]]. ~ J. Rushby #Formal_methods
 
@@ -2335,11 +2335,9 @@ relativas a los sistemas que usa o a su contenido.
 + [[http://bit.ly/2cVq9Pf][Álgebra Linear: com um pouco de Mecânica Quântica]]. ~ D. Krause
   #eBook #Math 
 
-+ [[http://bit.ly/2d4z7Xq][A proof of the halting theorem]]. ~ R.J Lipton & K.W. Regan
-  #Logic #CompSci
++ [[http://bit.ly/2d4z7Xq][A proof of the halting theorem]]. ~ R.J Lipton & K.W. Regan #Logic #CompSci
 
-+ [[http://bit.ly/2cVzjLt][Music as code talks]]. ~ Chris Ford #Programming
-  #Music
++ [[http://bit.ly/2cVzjLt][Music as code talks]]. ~ Chris Ford #Programming #Music
 
 + [[http://bit.ly/2d4AGVd][Equilibrium graphs]]. ~ P. Cabalar, C. Pérez & G. Pérez #Logic #ASP
 
@@ -2492,10 +2490,6 @@ relativas a los sistemas que usa o a su contenido.
 
 + [[http://bit.ly/2dG0dE4][What is automated theorem proving?]]. ~ G. Sutcliffe #RA2016
 
-+ [[http://bit.ly/2dG2Nu2][The QED Manifesto. #RA2016
-
-+ The QED manifesto revisited]]. ~ F. Wiedijk http://bit.ly/2dG003X #RA2016
-
 + [[http://bit.ly/2eaczYA][The HoTT Library: A formalization of homotopy type theory in Coq]]. ~ A. Bauer
   et als. #ITP #Coq #HoTT
 
@@ -2523,13 +2517,13 @@ relativas a los sistemas que usa o a su contenido.
 
 + [[http://bit.ly/2e607Ga][A taste of Haskell]]. ~ Dennis Felsing #Haskell 
 
-+ [[http://bit.ly/2e5ZWuj][Calling Python libraries from Haskell]]. ~ john millikin #python #haskell
++ [[http://bit.ly/2e5ZWuj][Calling Python libraries from Haskell]]. ~ John Millikin #Python #Haskell
 
-+ [[http://bit.ly/2e5xfsx][verifying haskell programs using constructive type theory]]. ~ a. abel at
-  als. #haskell #agda
++ [[http://bit.ly/2e5xfsx][Verifying Haskell programs using constructive type theory]]. ~ A. Abel at
+  als. #Haskell #Agda
 
-+ [[http://bit.ly/2e5xnix][hs2agda: a tool for formally verifying haskell code in agda]]. ~ langston
-  barrett #haskell #agda 
++ [[http://bit.ly/2e5xnix][hs2agda: a tool for formally verifying haskell code in Agda]]. ~ Langston
+  Barrett #Haskell #Agda 
 
 + [[http://bit.ly/2eakq3l][Automation of separation logic using auto2]]. ~ B. Zhan #IsabelleHOL
 
@@ -2649,12 +2643,12 @@ relativas a los sistemas que usa o a su contenido.
 
 + [[http://bit.ly/2fESeuN][Haskell tutorial and cookbook]]. ~ M. Watson #Haskell #eBook
 
-+ [[http://bit.ly/2fEZgzS][Solving the 15-Puzzle with Haskell and diagra]]m ~ J. Rosenbluth #Haskell
++ [[http://bit.ly/2fEZgzS][Solving the 15-Puzzle with Haskell and diagram]]. ~ J. Rosenbluth #Haskell
 
 + [[http://bit.ly/2fEVGpA][Haskell numeric types: quick reference]]. ~ J. Rosenbluth #Haskell
 
-+ [[http://bit.ly/2fJBEKu][¿Puede existir matemática sin computación]]? ~ F. Sancho
-  #Matemáticas #Computación
++ [[http://bit.ly/2fJBEKu][¿Puede existir matemática sin computación]]? ~ F. Sancho #Matemáticas
+  #Computación
 
 + [[https://arxiv.org/abs/1611.05990][Monte Carlo connection prover]]. ~ M. Färber, C. Kaliszyk & J. Urban
   #ATP #ML #leanCoP
