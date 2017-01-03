@@ -1,11 +1,33 @@
 #+TITLE: Lecturas del Grupo de Lógica Computacional
 
-Esta entrada es una recopilación de lecturas compartidas en la lista de correo
-del [[http://www.glc.us.es][grupo de lógica computacional]]. La recopilación está ordenada por la fecha
-de su publicación en la lista. Al final de cada artículo se encuentra etiquetas
-relativas a los sistemas que usa o a su contenido.
+Este repositorio es una recopilación de lecturas compartidas en la lista de
+correo del [[http://www.glc.us.es][grupo de lógica computacional]]. La recopilación está ordenada por la
+fecha de su publicación en la lista. Al final de cada artículo se encuentra
+etiquetas relativas a los sistemas que usa o a su contenido.
 
-* Lecturas del 2016
+* Contenido :TOC:
+ - [[#lecturas-del-año-2016][Lecturas del año 2016]]
+   - [[#enero-2016][Enero 2016]]
+   - [[#febrero-2016][Febrero 2016]]
+   - [[#marzo-2016][Marzo 2016]]
+   - [[#abril-2016][Abril 2016]]
+   - [[#mayo-2016][Mayo 2016]]
+   - [[#junio-2016][Junio 2016]]
+   - [[#julio-2016][Julio 2016]]
+   - [[#agosto-2016][Agosto 2016]]
+   - [[#septiembre-2016][Septiembre 2016]]
+   - [[#octubre-2016][Octubre 2016]]
+   - [[#noviembre-2016][Noviembre 2016]]
+   - [[#diciembre-2016][Diciembre 2016]]
+ - [[#lecturas-anteriores-al-2016][Lecturas anteriores al 2016]]
+   - [[#lecturas-del-año-2015][Lecturas del año 2015]]
+   - [[#lecturas-del-año-2014][Lecturas del año 2014]]
+   - [[#lecturas-del-año-2013][Lecturas del año 2013.]]
+   - [[#lecturas-del-año-2012][Lecturas del año 2012.]]
+   - [[#lecturas-del-año-2011][Lecturas del año 2011.]]
+   - [[#lecturas-del-año-2010][Lecturas del año 2010.]]
+
+* Lecturas del año 2016
 
 ** Enero 2016
 
@@ -2957,3 +2979,24 @@ relativas a los sistemas que usa o a su contenido.
   Anthony Burzillo #Haskell
 
 + [[http://bit.ly/2hzJ8gc][Twelve monads of Christmas]]. ~ Ben Clifford #Haskell
+
+* Lecturas anteriores al 2016
+
+En esta sección se recogen anteriores recopilaciones de lecturas publicadas en
+[[http://www.glc.us.es/~jalonso/vestigium][Vestigium]] y en la [[http://www.glc.us.es/wiki/Lecturas][Wiki de GLC]]. También están ordenadas en orden cronológico
+inverso.
+
+** Lecturas del año 2015
++ [[http://www.glc.us.es/~jalonso/vestigium/lecturas-del-grupo-de-logica-computacional-desde-el-29-de-junio-de-2014/][Lecturas de enero a julio del 2015]].
+** Lecturas del año 2014
++ [[http://www.glc.us.es/~jalonso/vestigium/lecturas-del-grupo-de-logica-computacional-desde-el-29-de-junio-de-2014/][Lecturas del 29-junio-2014 al 15-julio-2015]].
++ [[http://www.glc.us.es/~jalonso/vestigium/lecturas-del-grupo-de-logica-computacional-del-15-al-29-de-junio/][Lecturas del 15-junio-2014 al 29-junio-2014]].
++ [[http://www.glc.us.es/~jalonso/vestigium/lecturas-del-grupo-de-logica-computacional-del-8-al-15-de-junio/][Lecturas del 08-junio-2014 al 15-junio-2014]].
++ [[http://www.glc.us.es/~jalonso/vestigium/lecturas-del-grupo-de-logica-computacional-del-24-de-mayo-al-8-de-junio/][Lecturas del 24-mayo-2014 al 8-junio-2014]].
++ [[http://www.glc.us.es/~jalonso/vestigium/lecturas-compartidas-del-18-al-24-de-mayo/][Lecturas del 18-mayo-2014 al 24-mayo-2014]].
++ [[http://www.glc.us.es/wiki/Lecturas_del_año_2014][Lecturas de enero a marzo de 2014]].
+** [[http://www.glc.us.es/wiki/Lecturas_del_año_2013][Lecturas del año 2013]].
+** [[http://www.glc.us.es/wiki/Lecturas_del_año_2012][Lecturas del año 2012]].
+** [[http://www.glc.us.es/wiki/Lecturas_del_año_2011][Lecturas del año 2011]].
+** [[http://www.glc.us.es/wiki/Lecturas_del_año_2010][Lecturas del año 2010]].
+
