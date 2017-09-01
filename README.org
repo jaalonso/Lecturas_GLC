@@ -1396,8 +1396,7 @@ etiquetas relativas a los sistemas que usa o a su contenido.
   Stephen Diehl @smdiehl #Haskell
 + [[http://degoes.net/articles/kill-data][Data structures are antithetical to functional programming]]. ~ John A De Goes
   @jdegoes #Haskell
-+ [[http://www.huffingtonpost.com/entry/problem-solving-might-attract-women-to-computer-science_us_593b2f58e4b094fa859f186a][Problem solving might attract women to computer science]]. #CompSci vía
-  @HuffPostBlog
++ [[http://www.huffingtonpost.com/entry/problem-solving-might-attract-women-to-computer-science_us_593b2f58e4b094fa859f186a][Problem solving might attract women to computer science]]. #CompSci
 + [[https://www.johndcook.com/blog/2017/06/09/one-practical-advantage-of-functional-programming][One practical application of functional programming]]. ~ J.D. Cook @JohnDCook
   #FuncionalProgramming
 + [[http://spw17.langsec.org/papers/tse-validating-session-protocols.pdf][A framework for validating session protocols]]. ~ K.S. Tse & P.C. Johnson
@@ -1433,7 +1432,7 @@ etiquetas relativas a los sistemas que usa o a su contenido.
 + [[http://talks.jle.im/lambdaconf-2017/dependent-types/dependent-types.html][Practical dependent types: type-safe neural networks]]. ~ Justin Le @mstk
   #Haskell
 + [[http://r6.ca/blog/20170616T114546Z.html][Some random thoughts of an advanced haskeller]]. ~ Russell O’Connor #Haskell 
-+ [[https://cdsmith.wordpress.com/2012/04/18/why-do-monads-matter][Why do monads matter?]] ~ C. Smith #Haskell via @FunctorFact
++ [[https://cdsmith.wordpress.com/2012/04/18/why-do-monads-matter][Why do monads matter?]] ~ C. Smith #Haskell
 + [[https://m.genbetadev.com/metodologias-de-programacion/test-automaticos-con-quickcheck-como-analizar-nuestro-codigo-en-busca-de-bugs][Test automáticos con QuickCheck ¿Cómo analizar nuestro código en busca de
   bugs?]] ~ Jose Juan #Programación #QuickCheck
 + [[http://ndmitchell.com/downloads/slides-drive-by_haskell_contributions-09_jun_2017.pdf][Drive-by Haskell contributions]]. ~ Neil Mitchell #Haskell
@@ -1542,9 +1541,9 @@ etiquetas relativas a los sistemas que usa o a su contenido.
   #OCaml
 + [[https://hackage.haskell.org/package/sat-micro-hs][Haskell implementation of the minimal OCaml solver described in the paper
   "SAT-MICRO: petit mais costaud!"]] ~ D. Bueno #Logic #Haskell
-+ [[https://tech.io/playgrounds/500/advanced-python-features][Advanced Python features]]. #Python via @chemacortes
++ [[https://tech.io/playgrounds/500/advanced-python-features][Advanced Python features]]. #Python
 + [[https://www.youtube.com/channel/UCDe6N9R7U-RYWA57wzJQ2SQ][OPLSS2017: The Oregon Programming Languages Summer School]]. [Videos]
-  #Programming via @UOPLSS
+  #Programming
 + [[https://github.com/JeffreyBenjaminBrown/play/blob/master/_not_music/jbrownson_tictactoe/ai%2Cminimax.hs][A minimax AI for deterministic games, in 47 lines of Haskell]]. #Haskell #AI
   #Games
 + [[https://github.com/meiersi/HaskellerZ][Notes and files from HaskellerZ meetups]]. #Haskell 
@@ -1590,8 +1589,7 @@ etiquetas relativas a los sistemas que usa o a su contenido.
   A. Momigliano #Haskell
 + [[https://tech.channable.com/posts/2017-07-06-introducing-vaultenv-keeping-your-secrets-safe-with-vault-and-haskell.html][Introducing Vaultenv: Keeping your secrets secure with Vault and Haskell]]. ~
   L. Duijvesteijn #Haskell
-+ [[http://informatica.blogs.uoc.edu/2017/07/06/el-perfil-de-un-data-scientist][El perfil de un data scientist]]. ~ Jordi Casas @jcasasr #DataScience vía
-  @InformaticaMM
++ [[http://informatica.blogs.uoc.edu/2017/07/06/el-perfil-de-un-data-scientist][El perfil de un data scientist]]. ~ Jordi Casas @jcasasr #DataScience
 + [[http://icidasset.com/writings/minimize-flaws][How do we use (typed) functional programming to minimize our flaws]]. ~ Steven
   Vandevelde @icidasset #Haskell #Elm
 + [[http://blog.ielliott.io/continuations-from-the-ground-up/][Continuations from the ground up]]. ~ Isaac Elliott #Haskell
@@ -1607,7 +1605,7 @@ etiquetas relativas a los sistemas que usa o a su contenido.
 + [[https://github.com/mgmacias95/criptografia_y_computacion][Prácticas de la asignatura "Criptografía y computación"]] ~ Marta Gómez
   @Mrs_DarkDonado #Haskell
 + [[https://www.mpi-sws.org/~dreyer/papers/rustbelt/paper.pdf][RustBelt: Securing the foundations of the Rust programming language]]. ~
-  R. Jung et als. #Rust #Coq via @mgattozzi
+  R. Jung et als. #Rust #Coq
 + [[https://www.fpcomplete.com/blog/2017/07/iterators-streams-rust-haskell][Iterators and streams in Rust and Haskell]]. ~ M. Snoyman @snoyberg #Rust
   #Haskell
 + [[https://nikivazou.github.io/static/Haskell17/a-tale.pdf][A tale of two provers (Verifying monoidal string matching in Liquid Haskell
@@ -1640,8 +1638,7 @@ etiquetas relativas a los sistemas que usa o a su contenido.
 + [[https://github.com/ocramz/sparse-linear-algebra][sparse-linear-algebra: Numerical computation in native Haskell]]. ~ Marco Zocca
   #Haskell #Math
 + [[https://e.xtendo.org/haskell/hpack][Use Hpack - e.xtendo.org]] #Haskell
-+ [[https://interstices.info/jcms/p_93575/ordonner-les-ordres-un-treillis-sur-les-ordres-partiels][Ordonner les ordres : un treillis sur les ordres partiels]]. ~ V. Pons via
-  @interstices_eu
++ [[https://interstices.info/jcms/p_93575/ordonner-les-ordres-un-treillis-sur-les-ordres-partiels][Ordonner les ordres : un treillis sur les ordres partiels]]. ~ V. Pons
 + [[https://www.reddit.com/r/haskell/comments/6mr8bi/cheatsheet_rank_2_types_with_typeclasses/][Cheatsheet: Rank 2 types with typeclasses]]. ~ Jeremy Mikkola @silenceofnight
   #Haskell
 + [[http://web.cecs.pdx.edu/~sheard/course/LogicAndProgLang][Course: Mathematical logic and programming languages]]. ~ T. Sheard #Logic #Haskell
@@ -1758,7 +1755,7 @@ etiquetas relativas a los sistemas que usa o a su contenido.
   @cdepillabout #Haskell
 + [[http://www.joachim-breitner.de/blog/727-How_is_coinduction_the_dual_of_induction][How is coinduction the dual of induction?]] ~ J. Breitner @nomeata  #Haskell
 + [[https://github.com/wenkokke/sf][Port of Software Foundations to Agda]]. ~ Wen Kokke & Philip Wadler
-  @PhilipWadler #Agda via @mietek
+  @PhilipWadler #Agda
 + [[http://www.joachim-breitner.de/blog/726-Coinduction_in_Coq_and_Isabelle][Coinduction in Coq and Isabelle]]. ~ J. Breitner @nomeata #Coq #IsabelleHOL
 + [[https://github.com/wenkokke/EnumeratingTheRationals][Formalization of the functional pearl "Enumerating the rationals" by Gibbons,
   Lester and Bird in Coq]]. ~ Wen Kokke #Coq #Math
@@ -1792,11 +1789,11 @@ etiquetas relativas a los sistemas que usa o a su contenido.
 + [[https://github.com/aimyskk/lib-competitive][A library for competitive programming in Haskell]]. #Haskell
 + [[http://kaygun.tumblr.com/post/163641158789][Transitive closure of a directed graph or a relation]]. ~ @Atabey_Kaygun #CommonLisp #Clojure #Math
 + [[https://pragprog.com/magazines/2012-08/thinking-functionally-with-haskell][Thinking functionally with Haskell: A deep dive into the functional pool]]. ~
-  Paul Callaghan @paulcc_two #Haskell vía @pragprog
+  Paul Callaghan @paulcc_two #Haskell
 + [[http://www.andrew.cmu.edu/user/avigad/Students/wu_thesis.pdf][A formally verified proof of Kruskal’s tree theorem in Lean]]. ~ M. Wu
   #MsC_Thesis #ITP #LeanTP
 + [[https://pragprog.com/magazines/2012-09/thinking-functionally-with-haskell][Thinking functionally with Haskell: Types? tests? We need a new word]]. ~ Paul
-  Callaghan @paulcc_two #Haskell vía @pragprog
+  Callaghan @paulcc_two #Haskell
 + [[https://leanprover.github.io/logic_and_proof][Logic and proof]]. ~ J. Avigad, R.Y. Lewis, F. van Doorn #Logic #ITP #LeanTP  
 + [[https://en.wikipedia.org/wiki/Computer-assisted_proof][Computer-assisted proof]]. ~ Wikipedia #Math #CompSci
 + [[https://arxiv.org/pdf/1302.2898][Mathematics in the age of the Turing machine]]: a survey of mathematical proofs
@@ -1830,7 +1827,7 @@ etiquetas relativas a los sistemas que usa o a su contenido.
 + [[https://pp.ipd.kit.edu/uploads/publikationen/ebner17meta.pdf][A metaprogramming framework for formal verification]]. ~ G. Ebner et
   als. #LeanTP
 + [[https://pragprog.com/magazines/2012-10/thinking-functionally-with-haskell][Thinking functionally with Haskell: Playing with Haskell]]. ~ Paul Callaghan
-  @paulcc_two #Haskell vía @pragprog
+  @paulcc_two #Haskell
 + [[http://bit.ly/2vIwczC][Formalising and monitoring traffic rules for autonomous vehicles in
   Isabelle/HOL]]. ~ A. Rizaldi et als. #IsabelleHOL
 + [[http://www.cis.upenn.edu/~llamp/pdf/urns.pdf][Ode on a random urn (Functional pearl)]]. ~ L Lampropoulos, A Spector-Zabusky,
@@ -1840,7 +1837,7 @@ etiquetas relativas a los sistemas que usa o a su contenido.
 + [[https://arxiv.org/pdf/1708.02553][Robust computer algebra, theorem proving, and oracle AI]]. ~ G.P. Sarma,
   N.J. Hay #ATP #CAS #AI
 + [[https://pragprog.com/magazines/2012-11/thinking-functionally-with-haskell][Thinking functionally with Haskell: Is there anything left to say about
-  monads?]] ~ Paul Callaghan @paulcc_two #Haskell #Haskell vía @pragprog
+  monads?]] ~ Paul Callaghan @paulcc_two #Haskell #Haskell
 + [[https://sites.google.com/site/carlosolarte/home/pub/repository/lsfa-2017.pdf][Mechanizing linear logic in Coq]]. ~ B. Xavier et als. #ITP #Coq #Logic
 + [[https://arxiv.org/pdf/1708.01829][Declarative statistics]]. ~ R. Rossi et als. #Constraint_programming
   #Statistics
@@ -1882,7 +1879,7 @@ etiquetas relativas a los sistemas que usa o a su contenido.
 + [[https://jship.github.io/posts/2017-08-11-writing-performant-haskell-part-3.html][Writing performant Haskell (3 of 6): SPECIALIZE]]. ~ Jason Shipman @jship21347
   #Haskell
 + [[https://pdfs.semanticscholar.org/6a15/a21dfdf5c7b0102fcb3c5e6988c8c5386299.pdf][Declarative algorithms for term generation, counting]]. ~ P. Tarau #Prolog
-+ [[https://wildunix.es/posts/el-modelo-m4-de-la-maquina-enigma][El modelo M4 de la máquina Enigma]]. ~ M. García #Haskell vía @wildunix 
++ [[https://wildunix.es/posts/el-modelo-m4-de-la-maquina-enigma][El modelo M4 de la máquina Enigma]]. ~ M. García #Haskell
 + [[https://github.com/ringstellung/Enigma][Implementation of Enigma versions in Haskell]]. ~ M. García #Haskell
 + [[https://github.com/mortberg/cubicaltt][Experimental implementation of Cubical Type Theory]]. ~ Anders Mörtberg #Haskell
 + [[https://github.com/chrisdone/tdiff][tdiff: Simply print the time difference between lines from stdin]]. ~ Chris
@@ -1980,7 +1977,7 @@ etiquetas relativas a los sistemas que usa o a su contenido.
   #ATP
 + [[https://mmhaskell.com/blog/2017/8/21/digging-in-deep-solving-a-real-problem-with-haskell-tensor-flow][Digging in deep: solving a real problem with Haskell Tensor Flow]]. ~ James
   Bowen @james world. #Haskell #TensorFlow
-+ [[http://www.microsiervos.com/archivo/ciencia/piramides-numeros-primos-palindromos.html][Pirámides de números primos capicúa]]. ~ @Wicho #Matemáticas vía @Microsiervos
++ [[http://www.microsiervos.com/archivo/ciencia/piramides-numeros-primos-palindromos.html][Pirámides de números primos capicúa]]. ~ @Wicho #Matemáticas
 + [[http://www.utm.edu/staff/caldwell/preprints/JRM_prime_pyramids.pdf][Palindromic prime pyramids]]. ~ G.L. Honaker & C.K. Caldwell #Math
 + [[http://www.utm.edu/staff/caldwell/supplements/][Supplement to "Palindromic prime pyramids"]]. ~ C.K. Caldwell #Math
 + [[http://jyp.github.io/pdf/Prettiest.pdf][Functional Pearl: a pretty but not greedy printer]]. ~ J.P. Bernardy #Haskell
@@ -2008,7 +2005,7 @@ etiquetas relativas a los sistemas que usa o a su contenido.
 + [[https://medium.com/@zyxoas/abusing-haskell-dependent-types-to-make-redis-queues-safer-cc31db943b6c][Abusing Haskell dependent types to make Redis queues safer]]. ~ Tebello
   M. Thejane #Haskell
 + [[https://openlibra.com/book/a-concise-introduction-to-logic][A concise introduction to logic]]. ~ Craig DeLancey #eBook #Logic #OpenLibra
-+ [[https://www.dreamsongs.com/Files/HOPL2-Uncut.pdf][The evolution of Lisp]]. ~ G.L. Steele & R.P. Gabriel #Lisp via @reddit_lisp
++ [[https://www.dreamsongs.com/Files/HOPL2-Uncut.pdf][The evolution of Lisp]]. ~ G.L. Steele & R.P. Gabriel #Lisp
 + [[http://www.ccs.neu.edu/home/matthias/HtDP2e/Draft/index.html][How to design programs (second edition)]]. ~ M. Felleisen et als. #eBook
   #Programming #Scheme
 + [[http://adam.chlipala.net/papers/KamiICFP17/KamiICFP17.pdf][Kami: a platform for high-level parametric hardware specification and its
