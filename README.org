@@ -42,9 +42,9 @@ etiquetas relativas a los sistemas que usa o a su contenido.
 + [[https://www.researchgate.net/profile/Wolfgang_Bibel/publication/311509743_Advances_in_Connection-Based_Automated_Theorem_Proving/links/584d67f308aed95c25011f8c.pdf][Advances in connection-based automated theorem proving]]. ~ J. Otten & W. Bibel
   #Logic #ATP #Prolog 
 + [[http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001745][Best practices for scientific computing]]. ~ G. Wilson et als.
-  #Programming via @PLOSCompBiol
+  #Programming
 + [[https://www.researchgate.net/profile/Andreas_Prlic/publication/233870994_Ten_Simple_Rules_for_the_Open_Development_of_Scientific_Software/links/00b7d51daf837601a1000000.pdf][Ten simple rules for the open development of scientific software]]. ~ A. Prlić
-  & J.B. Procter #Programming via @PLOSCompBiol 
+  & J.B. Procter #Programming
 + [[http://weijr-note.blogspot.com/2017/01/2017-is-not-just-another-prime-number.html][2017 is not just another prime number]]. ~ T.J. Wei #Matemáticas
 + [[https://github.com/jaalonso/Lecturas_GLC][Lecturas sobre lógica computacional, programación funcional y razonamiento
   automático del 2016]]. ~ J.A. Alonso #GLC
@@ -75,7 +75,7 @@ etiquetas relativas a los sistemas que usa o a su contenido.
 + [[http://www.glc.us.es/~jalonso/exercitium/familias-de-numeros-con-algun-digito-en-comun][Exercitium: Enunciado de "Familias de números con algún dígito en común"]]. ~
   #Haskell #I1M2016 
 + [[http://www.math.upenn.edu/~wilf/website/CombinatorialAlgorithms.pdf][Combinatorial algorithms (for computers and calculators)]]. ~ A. Nijenhuis &
-  H.S. Wilf #eBook #Math via @CompSciFact
+  H.S. Wilf #eBook #Math
 + [[https://github.com/unisonweb/unison/tree/cac3ab3a6bddd8b91bf17cd9e1b45950ab1a6c71/yaks/easytest][EasyTest: a Haskell simple testing toolkit]]. ~ Paul Chiusano @pchiusano
   #Haskell
 
@@ -85,10 +85,10 @@ etiquetas relativas a los sistemas que usa o a su contenido.
 + [[http://www.glc.us.es/~jalonso/exercitium/sucesion-de-cuadrados-reducidos][Exercitium: Enunciado de "Sucesión de cuadrados reducidos"]]. #Haskell #I1M2016
 + [[https://www.technologyreview.com/s/603216/5-big-predictions-for-artificial-intelligence-in-2017][5 big predictions for Artificial Intelligence in 2017]]. ~ Will Knight #AI
 + [[http://kseo.github.io//posts/2017-01-03-writing-an-interpreter-using-fold.html][Writing an interpreter using fold]]. ~ Kwang Yul Seo @kwangyulseo #Haskell
-+ [[http://ren.zone/articles/opaleye-sot][Opaleye’s sugar on top]]. ~ Renzo Carbonara #Haskell via @erewok
++ [[http://ren.zone/articles/opaleye-sot][Opaleye’s sugar on top]]. ~ Renzo Carbonara #Haskell
 + [[https://github.com/takenobu-hs/haskell-ghc-illustrated][GHC (STG,Cmm,asm) illustrated for hardware persons (exploring some mental
-  models and implementations)]]. ~ Takenobu Tani #Haskell via @doppioslash
-+ [[http://www.corecursion.net/post/2017-01-01-Formalizing_Eventsourcing][Formalizing eventsourcing]]. ~ @yoeight #Haskell via @notvitor 
+  models and implementations)]]. ~ Takenobu Tani #Haskell
++ [[http://www.corecursion.net/post/2017-01-01-Formalizing_Eventsourcing][Formalizing eventsourcing]]. ~ @yoeight #Haskell
 
 + [[https://www.isa-afp.org/entries/Concurrent_Ref_Alg.shtml][Concurrent refinement algebra and rely quotients in Isabelle/HOL]]. ~ J. Fell,
   I. Hayes, A. Velykis #IsabelleHOL
@@ -110,8 +110,7 @@ etiquetas relativas a los sistemas que usa o a su contenido.
 + [[http://kseo.github.io/posts/2017-01-05-implementing-a-call-by-value-interpreter-in-haskell.html][Implementing a call-by-value interpreter in Haskell]]. ~ Kwang Yul Seo
   @kwangyulseo #Haskell
 + [[http://lorepub.com/post/2016-12-17-Haskell-Pitfalls][Haskell pitfalls]]. ~ Chris Allen @bitemyapp, Mark Wotton #Haskell
-+ [[http://www.scottaaronson.com/papers/pnp.pdf][P =? NP: A survey]]. ~ Scott Aaronson #Math #CompSci #History via
-  @papers_we_love
++ [[http://www.scottaaronson.com/papers/pnp.pdf][P =? NP: A survey]]. ~ Scott Aaronson #Math #CompSci #History
 + [[http://www.elconfidencial.com/tecnologia/2016-12-04/software-libre-informatica-open-source-linux-github_1298849/][3.000 millones de archivos: así es la mayor biblioteca de código abierto del
   mundo]]. ~ José Manuel Blanco @josemblanco #Programación
 + [[https://www.softwareheritage.org/archive][The Software Heritage archive]]. 
@@ -298,8 +297,8 @@ etiquetas relativas a los sistemas que usa o a su contenido.
 + [[http://www.studiainformatica.polsl.pl/index.php/SI/article/viewFile/790/759][Enumeration of words in context-free languages using Haskell]]. ~ W. Wieczorek
   #Haskell
 + [[http://www.dcc.fc.up.pt/dcc/Pubs/TReports/TR13/dcc-2013-06.pdf][Verifying a simple compiler using property-based random testing]]. ~ Pedro
-  Vasconcelos #Haskell via @StephenPiment
-+ [[https://e.xtendo.org/monad#1][The Monad Fear]]. ~ @xtendo_org #Haskell via @StephenPiment  
+  Vasconcelos #Haskell
++ [[https://e.xtendo.org/monad#1][The Monad Fear]]. ~ @xtendo_org #Haskell
 + [[http://www.infoworld.com/article/3155704/java/new-functional-language-for-jvm-builds-on-haskell-clojure-ml.html][Lux: New functional language for JVM builds on Haskell, Clojure, ML]]. ~
   @syegulalp #Lux 
 + [[https://www.gitbook.com/book/luxlang/the-lux-programming-language/details][The Lux Programming Language]]. #eBook #Lux 
@@ -404,7 +403,7 @@ etiquetas relativas a los sistemas que usa o a su contenido.
 + [[https://github.com/mrkkrp/req][Req: Easy-to-use, type-safe, expandable, high-level HTTP library]]. ~ Mark
   Karpov #Haskell
 + [[http://fun.cs.tufts.edu/stream-fusion.pdf][Stream fusion: From lists to streams to nothing at all]]. ~ D. Coutts,
-  R. Leshchinskiy, D. Stewart #Haskell via @papers_we_love
+  R. Leshchinskiy, D. Stewart #Haskell
 + [[http://tomasp.net/academic/drafts/failures/failures-v2.pdf][Miscomputation in software: Learning to live with errors]]. ~ Tomas Petricek
   #Programming
 + [[http://www.kovach.me/posts/2016-06-01-categories.html][Categories in theory and in Haskell]]. ~ Ben Kovach @BendotK #Haskell 
@@ -455,7 +454,7 @@ etiquetas relativas a los sistemas que usa o a su contenido.
   #Math
 + [[https://deque.blog/2017/02/06/code-your-own-quickcheck-hof/][Code your own QuickCheck (HOF)]]. Part 2 #Haskell
 + [[http://cacm.acm.org/careers/213247-supercomputers-for-quantum-computers][Supercomputers for quantum computers]]. 
-+ [[https://stackbuilders.com/tutorials/haskell/generics][GHC generics explained]]. ~ M. Karpov #Haskell via @StephenPiment
++ [[https://stackbuilders.com/tutorials/haskell/generics][GHC generics explained]]. ~ M. Karpov #Haskell
 + [[https://github.com/thorlucas/Sandpiles][Haskell implementation of the Abelian sandpile model using Gloss]]. #Haskell
   #Gloss
 + [[https://code.world/haskell#PUA5SiqJxCnMvFgl9eua8Ew][Haskell implementation of the Abelian sandpile model using CodeWorld]]. ~
@@ -889,7 +888,7 @@ etiquetas relativas a los sistemas que usa o a su contenido.
 + [[https://medium.com/position-development-blog/2-2-5-and-why-compiler-warnings-are-good-e50bc5cfab22][2 + 2 = 5... !? and why compiler warnings are good]]. ~ @jezenthomas #Haskell 
 + [[https://github.com/hansroland/reflex-dom-inbits/blob/84189eb93f87060a1bfa9128ffea43447a2d5c8f/tutorial.md][A beginner-friendly step by step tutorial for Reflex-Dom]]. #Haskell
 + [[http://www.acceleratehs.org][Accelerate: High-performance parallel arrays for Haskell]]. #Haskell
-+ [[https://colah.github.io/posts/2015-09-NN-Types-FP][Neural networks, types, and functional programming]]. ~ C. Olah @ch402 #Haskell via @smdiehl
++ [[https://colah.github.io/posts/2015-09-NN-Types-FP][Neural networks, types, and functional programming]]. ~ C. Olah @ch402 #Haskell
 
 + [[https://www.isa-afp.org/entries/Subresultants.shtml][The theory of subresultants and the subresultant polynomial remainder
   sequence in Isabelle/HOL]]. ~ S. Joosten et als. #IsabelleHOL
@@ -993,10 +992,8 @@ etiquetas relativas a los sistemas que usa o a su contenido.
 + [[http://ucsd-pl.github.io/veridrone/papers/ricketts-dissertation.pdf][Verification of sampled-data systems using Coq]]. ~ D. Ricketts #PhD_Thesis
   #Coq
 + [[https://mmhaskell.com/blog/2017/4/17/haskell-and-deliberate-practice][Haskell and deliberate practice]]. ~ James Bowen @james_OWA #Haskell
-+ [[https://ro-che.info/articles/2016-04-02-descending-sort-haskell][Descending sort in Haskell]]. ~ R. Cheplyaka @shebang #Haskell via
-  @HaskellTopNews
-+ [[http://semantic.org/post/there-is-no-haskell-topology][There is no Haskell topology]]. ~ Semantic Dreams #Haskell #Math via
-  @HaskellTopNews
++ [[https://ro-che.info/articles/2016-04-02-descending-sort-haskell][Descending sort in Haskell]]. ~ R. Cheplyaka @shebang #Haskell
++ [[http://semantic.org/post/there-is-no-haskell-topology][There is no Haskell topology]]. ~ Semantic Dreams #Haskell #Math
 + [[http://www.glc.us.es/~jalonso/exercitium/problema-de-las-jarras][Exercitium: Soluciones de "Problema de las jarras"]]. #Haskell #I1M2016
 + [[http://www.glc.us.es/~jalonso/exercitium/subnumeros-pares][Exercitium: Enunciado de "Subnúmeros pares"]]. #Haskell #I1M2016
 
@@ -1014,8 +1011,7 @@ etiquetas relativas a los sistemas que usa o a su contenido.
 + [[https://idontgetoutmuch.wordpress.com/2017/04/18/trouble-with-tribbles][Trouble with Tribbles]]. ~ Dominic Steinitz #Haskell 
 + [[http://informatica.blogs.uoc.edu/2017/04/20/computacion-cuantica-i-el-fin-de-los-ordenadores-clasicos][Computación cuántica (I): el fin de los ordenadores clásicos]]. ~ Robert
   Clarisó @robertclariso #Computación
-+ [[https://youtu.be/IKm-YYPaohQ][Modern software development with Haskell]]. ~ Runar Bjarnason #Haskell via
-  @smdiehl
++ [[https://youtu.be/IKm-YYPaohQ][Modern software development with Haskell]]. ~ Runar Bjarnason #Haskell
 + [[http://jvns.ca/blog/2017/04/17/statistics-for-programmers/][Some good "Statistics for programmers" resources]]. ~ Julia Evans @b0rk
   #Statistics #Programming
 
@@ -1094,8 +1090,7 @@ etiquetas relativas a los sistemas que usa o a su contenido.
   Spector-Zabusky #Haskell #Coq
 + [[https://terrytao.wordpress.com/2017/04/13/counting-objects-up-to-isomorphism-groupoid-cardinality/][Counting objects up to isomorphism: groupoid cardinality]]. ~ T. Tao #Math 
 + [[https://blogs.scientificamerican.com/guest-blog/programming-as-a-way-of-thinking][Programming as a way of thinking]]. ~ A. Downey @AllenDowney #Programming
-  #Python via @sciam
-
+  #Python
 + [[http://aitp-conference.org/2017/aitp17-proceedings.pdf][AITP 2017: The Second Conference on Artificial Intelligence and Theorem
   Proving. (Abstracts of the talks)]]. #AI #ATP #ITP
 + [[http://www-formal.stanford.edu/jmc/basis1.pdf][A basis for a mathematical theory of computation]]. ~ J. McCarthy #Math
