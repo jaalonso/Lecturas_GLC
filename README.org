@@ -1131,6 +1131,7 @@ etiquetas relativas a los sistemas que usa o a su contenido.
   #AI #ATP #Logic
 
 ** Mayo 2017 
+
 + [[http://matryoshka.gforge.inria.fr/pubs/deep_learning_paper.pdf][A formal proof of the expressiveness of deep learning]]. ~ A. Bentkamp,
   J.C. Blanchette & D. Klakow #IsabelleHOL #DeepLearning
 + [[https://github.com/cydparser/demo-emacs-haskell][A tutorial for using Emacs with Haskell projects]]. #Haskell #Emacs 
@@ -1314,6 +1315,7 @@ etiquetas relativas a los sistemas que usa o a su contenido.
 + [[http://www.glc.us.es/~jalonso/exercitium/sucesiones-de-listas-de-numeros][Exercitium: Enunciado de "Sucesiones de listas de números"]]. #Haskell #I1M2016
 
 ** Junio 2017
+
 + [[https://www.isa-afp.org/entries/Optics.shtml][Optics in Isabelle]]. ~ S. Foster & F. Zeyda #ITP #IsabelleHOL 
 + [[http://vaibhavsagar.com/blog/2017/05/29/imperative-haskell][Imperative Haskell]]. ~ Vaibhav Sagar #Haskell 
 + [[http://www.glc.us.es/~jalonso/exercitium/mayores-sublistas-crecientes][Exercitium: Enunciado de "Mayores sublistas crecientes"]]. #Haskell #I1M2016
