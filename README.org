@@ -11,9 +11,9 @@ etiquetas relativas a los sistemas que usa o a su contenido.
    - [[#febrero-2017][Febrero 2017]]
    - [[#marzo-2017][Marzo 2017]]
    - [[#abril-2017][Abril 2017]]
-   - [[#mayo-2017-][Mayo 2017 ]]
+   - [[#mayo-2017][Mayo 2017]]
    - [[#junio-2017][Junio 2017]]
-   - [[#julio-2017--][Julio 2017  ]]
+   - [[#julio-2017][Julio 2017]]
    - [[#agosto-2017][Agosto 2017]]
  - [[#lecturas-del-año-2016][Lecturas del año 2016]]
    - [[#enero-2016][Enero 2016]]
@@ -1130,7 +1130,7 @@ etiquetas relativas a los sistemas que usa o a su contenido.
 + [[http://aitp-conference.org/2017/slides/BVJJ.pdf][Towards AI methods for clause selection]]. ~ J. Jakubův, J. Urban & B. Veroff
   #AI #ATP #Logic
 
-** Mayo 2017 
+** Mayo 2017
 
 + [[http://matryoshka.gforge.inria.fr/pubs/deep_learning_paper.pdf][A formal proof of the expressiveness of deep learning]]. ~ A. Bentkamp,
   J.C. Blanchette & D. Klakow #IsabelleHOL #DeepLearning
@@ -1515,7 +1515,7 @@ etiquetas relativas a los sistemas que usa o a su contenido.
 + [[https://lispcookbook.github.io/cl-cookbook][The Common Lisp cookbook]] #eBook #CommonLisp
 + [[https://academic.oup.com/comjnl/article-pdf/7/4/278/1013051/7-4-278.pdf][Lists and why they are useful]] - M. V. Wilkes #Lisp
 
-** Julio 2017  
+** Julio 2017
 
 + [[http://arxiv.org/abs/1706.08605][Developing bug-free machine learning systems with formal mathematics]]. ~
   D. Selsam, P. Liang, D.L. Dill #LeanTP
