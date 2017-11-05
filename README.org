@@ -16,7 +16,7 @@ etiquetas relativas a los sistemas que usa o a su contenido.
    - [[#julio-2017][Julio 2017]]
    - [[#agosto-2017][Agosto 2017]]
    - [[#septiembre-2017][Septiembre 2017]]
-   - [[#octubre-2017-][Octubre 2017 ]]
+   - [[#octubre-2017][Octubre 2017]]
  - [[#lecturas-del-año-2016][Lecturas del año 2016]]
    - [[#enero-2016][Enero 2016]]
    - [[#febrero-2016][Febrero 2016]]
@@ -2290,7 +2290,7 @@ etiquetas relativas a los sistemas que usa o a su contenido.
 + [[https://arxiv.org/pdf/1709.09994][Premise selection for theorem proving by deep graph embedding]]. ~ M. Wang er
   als. #ATP #DeepLearning
 
-** Octubre 2017 
+** Octubre 2017
 
 + [[https://www.avoltus.com/fi/blog/2017-9-29-profunctors-encoding-and-decoding][Profunctors for encoding and decoding]]. ~ Kari Pahula #Haskell
 + [[http://blogs.intevation.de/wilde/haskell/functions-as-functors][Making your brain tingle: Functions as functors]]. ~ Sascha Wilde
