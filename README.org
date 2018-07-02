@@ -12,7 +12,7 @@ contenido.
    - [[#enero-2018][Enero 2018]]
    - [[#febrero-2018][Febrero 2018]]
    - [[#marzo-2018][Marzo 2018]]
-   - [[#abril-de-2018][Abril de 2018]]
+   - [[#abril-2018][Abril 2018]]
    - [[#mayo-2018][Mayo 2018]]
    - [[#junio-2018][Junio 2018]]
  - [[#lecturas-del-año-2017][Lecturas del año 2017]]
@@ -582,7 +582,6 @@ contenido.
 
 + [[http://www.glc.us.es/~jalonso/exercitium/menor-potencia-de-2-que-comienza-por-n][Exercitium: "Menor potencia de 2 que comienza por n"]]. 
   #Haskell #I1M2017
-  #I1M2017
 + [[http://www.andreas-lochbihler.de/pub/lochbihler2018.pdf][Fast machine words in Isabelle/HOL]]. ~ A. Lochbihler #ITP #IsabelleHOL
 + [[https://www.ethz.ch/en/news-and-events/eth-news/news/2018/02/teaching-quantum-physics-to-a-computer.html][Teaching quantum physics to a computer]]. ~ Oliver Morsch #MachineLearning
 + [[https://www.slideshare.net/ssuserc0b705/artificial-intelligence-and-its-applications-in-healthcare-and-pharmacy][Artificial intelligence and its applications in healthcare and pharmacy]]. ~ Atul Adhikari #AI
@@ -879,7 +878,7 @@ contenido.
 + [[https://typeclasses.com/news/2018-03-typeclasses-born][Welcome to Type Classes!]] ~ Julie Moronuki (@argumatronic) and Chris
   Martin (@chris__martin) #Haskell
 
-** Abril de 2018
+** Abril 2018
 
 + [[http://www.elmundo.es/ciencia-y-salud/ciencia/2018/03/29/5abd1886e5fdeaf1328b45bc.html][Francia invertirá 1.500 millones de euros en inteligencia artificial]]. #IA
 + [[https://byorgey.wordpress.com/2018/03/30/parametricity-for-bifunctor][Parametricity for Bifunctor]]. ~ Brent Yorgey #Haskell
@@ -1658,14 +1657,14 @@ contenido.
 + [[https://qz.com/1307091/the-inside-story-of-how-ai-got-good-enough-to-dominate-silicon-valley][The inside story of how AI got good enough to dominate Silicon Valley]]. #AI
 + [[https://www.cs.us.es/~fsancho/?e=204][Diálogos entre Arquitectura, Ciudad y Computación]]. ~ F. Sancho
   (@sanchocaparrini) #NetLogo
-+ [[https://github.com/jaalonso/Examenes_de_PF_con_Haskell/blob/master/Curso_2017-18/Grupo_1/examen_6_12_jun.hs][#I1M2017: Soluciones del 6º examen de programación funcional con
++ [[https://github.com/jaalonso/Examenes_de_PF_con_Haskell/blob/master/Curso_2017-18/Grupo_1/examen_6_12_jun.hs][I1M2017: Soluciones del 6º examen de programación funcional con
   Haskell de los grupos 1, 2 y 3]]. #Haskell
-+ [[https://github.com/jaalonso/Examenes_de_PF_con_Haskell/blob/master/Curso_2017-18/Grupo_4/examen_6_12_jun.hs][#I1M2017: Soluciones del 6º examen de programación funcional con
++ [[https://github.com/jaalonso/Examenes_de_PF_con_Haskell/blob/master/Curso_2017-18/Grupo_4/examen_6_12_jun.hs][I1M2017: Soluciones del 6º examen de programación funcional con
   Haskell de los grupos 4 y 5]]. #Haskell
-+ [[https://github.com/jaalonso/Examenes_de_PF_con_Haskell/blob/master/Curso_2017-18/Grupo_1/examen_5_03_may.hs][#I1M2017: Soluciones del 5º examen de programación funcional con Haskell del grupo 1]]. #Haskell 
-+ [[https://github.com/jaalonso/Examenes_de_PF_con_Haskell/blob/master/Curso_2017-18/Grupo_2/examen_5_30_abr.hs][#I1M2017: Soluciones del 5º examen de programación funcional con Haskell del grupo 2]]. #Haskell 
-+ [[https://github.com/jaalonso/Examenes_de_PF_con_Haskell/blob/master/Curso_2017-18/Grupo_3/examen_5_26_abr.hs][#I1M2017: Soluciones del 5º examen de programación funcional con Haskell del grupo 3]]. #Haskell 
-+ [[https://github.com/jaalonso/Examenes_de_PF_con_Haskell/blob/master/Curso_2017-18/Grupo_5/examen_5_07_may.hs][#I1M2017: Soluciones del 5º examen de programación funcional con Haskell del grupo 5]]. #Haskell 
++ [[https://github.com/jaalonso/Examenes_de_PF_con_Haskell/blob/master/Curso_2017-18/Grupo_1/examen_5_03_may.hs][I1M2017: Soluciones del 5º examen de programación funcional con Haskell del grupo 1]]. #Haskell 
++ [[https://github.com/jaalonso/Examenes_de_PF_con_Haskell/blob/master/Curso_2017-18/Grupo_2/examen_5_30_abr.hs][I1M2017: Soluciones del 5º examen de programación funcional con Haskell del grupo 2]]. #Haskell 
++ [[https://github.com/jaalonso/Examenes_de_PF_con_Haskell/blob/master/Curso_2017-18/Grupo_3/examen_5_26_abr.hs][I1M2017: Soluciones del 5º examen de programación funcional con Haskell del grupo 3]]. #Haskell 
++ [[https://github.com/jaalonso/Examenes_de_PF_con_Haskell/blob/master/Curso_2017-18/Grupo_5/examen_5_07_may.hs][I1M2017: Soluciones del 5º examen de programación funcional con Haskell del grupo 5]]. #Haskell 
 + [[https://www.jaist.ac.jp/is/labs/ishihara-lab/mla2018/doc/slides/Norbert_Preining.pdf][Hyper natural deduction for Gödel Logic: a natural deduction system
   for parallel reasoning]]. ~ A. Beckmann, N. Preinin #Logic
 + [[https://www.johndcook.com/blog/r_language_for_programmers/][R language for programmers]]. ~ John D. Cook #Rstats
@@ -1702,7 +1701,7 @@ contenido.
   #Algorithms #OCaml
 + [[https://github.com/jaalonso/Examenes_de_PF_con_Haskell/files/2128201/Examenes_de_PF_con_Haskell.pdf][Libro de exámenes de programación funcional con Haskell (versión del
   22 de junio de 2018)]]. #Haskell #I1M2017
-+ [[https://www.cs.us.es/~jalonso/cursos/i1m/ejercicios/ejercicios-I1M-2017.pdf][#I1M2017: Libro de ejercicios resueltos de programación funcional en Haskell del curso 2017-18]]. #Haskell
++ [[https://www.cs.us.es/~jalonso/cursos/i1m/ejercicios/ejercicios-I1M-2017.pdf][I1M2017: Libro de ejercicios resueltos de programación funcional en Haskell del curso 2017-18]]. #Haskell
 + [[https://blog.goodaudience.com/introduction-to-deep-learning-a46e92cb0022][Introduction to deep learning (What is deep learning and how can I
   study it?)]]. ~ Tyler Bettilyon (@TebbaVonMaths) #AI #DeepLearning
 + [[https://medium.com/@TebbaVonMathenstien/deep-neural-networks-as-computational-graphs-867fcaa56c9][Deep neural networks as computational graphs (DNNs don’t need to be a
@@ -1749,7 +1748,7 @@ contenido.
   #MachineLearning #MathematicalSoftware
 + [[https://arxiv.org/pdf/1611.04838v4][Fast verifying proofs of propositional unsatisfiability via window
   shifting]]. ~ Jingchao Chen #SAT
-+ [[https://github.com/jaalonso/Examenes_de_PF_con_Haskell/blob/master/Curso_2017-18/Grupo_4/examen_7_27_jun.hs][#I1M2017: Soluciones del 7º examen de programación funcional con
++ [[https://github.com/jaalonso/Examenes_de_PF_con_Haskell/blob/master/Curso_2017-18/Grupo_4/examen_7_27_jun.hs][I1M2017: Soluciones del 7º examen de programación funcional con
   Haskell]]. #Haskell
 + [[https://github.com/jaalonso/Examenes_de_PF_con_Haskell/releases/download/v9.7/Examenes_de_PF_con_Haskell.pdf][Libro de exámenes de programación funcional con Haskell]] (versión 9.7
   del 30 de junio de 2018). #Haskell #I1M2017
