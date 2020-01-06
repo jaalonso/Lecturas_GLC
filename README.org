@@ -1968,219 +1968,102 @@ contenido.
 
 ** Octubre de 2019
 
-*** 01-Oct-19
 + [[https://xavierleroy.org/courses/EUTypes-2019][Proving the correctness of a compiler]]. ~ Xavier Leroy. #ITP #Coq
-+ [[https://github.com/kbuzzard/xena][Lean Library currently studying for a degree at Imperial College]]. ~ Kevin
-  Buzzard. #ITP #LeanProver #Math
-+ [[https://mullikine.github.io/posts/macro-tutorial/][Didactic emacs-lisp macro example (ie. a tutorial)]]. ~ Shane Mulligan
-  (@mullikine). #Emacs #Lisp
++ [[https://github.com/kbuzzard/xena][Lean Library currently studying for a degree at Imperial College]]. ~ Kevin Buzzard. #ITP #LeanProver #Math
++ [[https://mullikine.github.io/posts/macro-tutorial/][Didactic emacs-lisp macro example (ie. a tutorial)]]. ~ Shane Mulligan (@mullikine). #Emacs #Lisp
 + [[http://hackage.haskell.org/package/lens-tutorial-1.0.4/docs/Control-Lens-Tutorial.html][Tutorial for the lens library.]] #Haskell #FunctionalProgramming
-+ [[https://git.imp.fu-berlin.de/leo-iii/compmeta_pub/raw/master/exercises/resources/Isabelle_ND_cheatsheet.pdf][Mapping of ND proof templates to Isabelle formalization]]. ~
-  A. Steen. #ITP #IsabelleHOL #Logic
-
-*** 02-Oct-19
-+ [[https://umazalakain.info/static/thesis.pdf][Type-checking session-typed π-calculus with Coq]]. ~ Uma Zalakain. #MSc_Thesis
-  #ITP #Coq
-+ [[https://gist.github.com/AndrasKovacs/1f57b66108e7d61351d3a61a642ef066][Constructing finitary inductive types from natural numbers]]. ~ Andras Kovacs
-  (@andrasKovacs6). #ITP #Agda #Math
-+ [[https://www.cs.toronto.edu/~hector/pcr.pdf][Programming cognitive robots]]. ~ Hector J. Levesque. #eBook #AI
-  #DeclarativeProgramming #Schem #Racket
++ [[https://git.imp.fu-berlin.de/leo-iii/compmeta_pub/raw/master/exercises/resources/Isabelle_ND_cheatsheet.pdf][Mapping of ND proof templates to Isabelle formalization]]. ~ A. Steen. #ITP #IsabelleHOL #Logic
++ [[https://umazalakain.info/static/thesis.pdf][Type-checking session-typed π-calculus with Coq]]. ~ Uma Zalakain. #MSc_Thesis #ITP #Coq
++ [[https://gist.github.com/AndrasKovacs/1f57b66108e7d61351d3a61a642ef066][Constructing finitary inductive types from natural numbers]]. ~ Andras Kovacs (@andrasKovacs6). #ITP #Agda #Math
++ [[https://www.cs.toronto.edu/~hector/pcr.pdf][Programming cognitive robots]]. ~ Hector J. Levesque. #eBook #AI #DeclarativeProgramming #Schem #Racket
 + [[https://prologhub.pl/homoiconic-prolog-explain-yourself/][Homoiconic Prolog: Explain yourself!]] ~ Paul Brown. #Prolog #LogicProgramming
-
-*** 03-Oct-19
-+ [[https://doisinkidney.com/posts/2019-10-02-what-is-good-about-haskell.html][What is good about Haskell?]] ~ Donnacha Oisín Kidney (@oisdk). #Haskell
-  #FunctionalProgramming
-+ [[https://github.com/winitzki/sofp/raw/master/sofp-src/sofp.pdf][The science of functional programming (A tutorial, with examples in Scala)]]. ~
-  Sergei Winitzki. #eBook #FunctionalProgramming #Scala
-+ [[https://www.researchgate.net/publication/335106273_Computer_Science_and_Metaphysics_A_Cross-Fertilization][Computer science and metaphysics: A cross-fertilization]]. ~ Christoph
-  Benzmüller et als. #ITP #Isabelle-HOL
-
-*** 04-Oct-19
-+ [[https://dodisturb.me/posts/2019-10-03-Verifying-the-Titular-Properties-of-a-Leftist-Heap.html][Verifying the titular properties of a leftist heap]]. ~ Mistral Contrastin
-  (@madgen_). #Haskell #FunctionalProgramming #Algorithms
-
-*** 06-Oct-19
-+ [[https://www.andrew.cmu.edu/user/avigad/Papers/learning_logic_and_proof.pdf][Learning logic and proof with an interactive theorem prover]]. ~ J. Avigad. #ITP
-  #LeanProver #Logic
++ [[https://doisinkidney.com/posts/2019-10-02-what-is-good-about-haskell.html][What is good about Haskell?]] ~ Donnacha Oisín Kidney (@oisdk). #Haskell #FunctionalProgramming
++ [[https://github.com/winitzki/sofp/raw/master/sofp-src/sofp.pdf][The science of functional programming (A tutorial, with examples in Scala)]]. ~ Sergei Winitzki. #eBook #FunctionalProgramming #Scala
++ [[https://www.researchgate.net/publication/335106273_Computer_Science_and_Metaphysics_A_Cross-Fertilization][Computer science and metaphysics: A cross-fertilization]]. ~ Christoph Benzmüller et als. #ITP #Isabelle-HOL
++ [[https://dodisturb.me/posts/2019-10-03-Verifying-the-Titular-Properties-of-a-Leftist-Heap.html][Verifying the titular properties of a leftist heap]]. ~ Mistral Contrastin (@madgen_). #Haskell #FunctionalProgramming #Algorithms
++ [[https://www.andrew.cmu.edu/user/avigad/Papers/learning_logic_and_proof.pdf][Learning logic and proof with an interactive theorem prover]]. ~ J. Avigad. #ITP #LeanProver #Logic
 + [[http://bit.ly/2oTPtwA][Proof technology in mathematics research and teaching]]. #eBook #ATP #ITP #Math
-+ [[https://www.repository.cam.ac.uk/bitstream/handle/1810/280564/SchematicProof.pdf?sequence=1&isAllowed=y][A common type of rigorous proof that resists Hilbert’s programme]]. ~ A. Bundy,
-  M.A. Jamnik. #Logic #Math
-+ [[https://arxiv.org/abs/1909.09137][Bayesian optimisation with Gaussian processes for premise selection]]. ~
-  Agnieszka Słowik et als. #ATP #Vampire #MachineLearning
-+ [[https://williamyaoh.com/posts/2019-10-05-you-are-already-smart-enough.html][You are already smart enough to write Haskell]]. ~ William Yao
-  (@williamyaoh). #Haskell #FunctionalProgramming
-+ [[https://hal.archives-ouvertes.fr/hal-01912885/document][Didactical issues at the interface of mathematics and computer science]]. ~
-  V. Durand-Guerrier, A. Meyer, S. Modeste. #Math #ComSci
++ [[https://www.repository.cam.ac.uk/bitstream/handle/1810/280564/SchematicProof.pdf?sequence=1&isAllowed=y][A common type of rigorous proof that resists Hilbert’s programme]]. ~ A. Bundy, M.A. Jamnik. #Logic #Math
++ [[https://arxiv.org/abs/1909.09137][Bayesian optimisation with Gaussian processes for premise selection]]. ~ Agnieszka Słowik et als. #ATP #Vampire #MachineLearning
++ [[https://williamyaoh.com/posts/2019-10-05-you-are-already-smart-enough.html][You are already smart enough to write Haskell]]. ~ William Yao (@williamyaoh). #Haskell #FunctionalProgramming
++ [[https://hal.archives-ouvertes.fr/hal-01912885/document][Didactical issues at the interface of mathematics and computer science]]. ~ V. Durand-Guerrier, A. Meyer, S. Modeste. #Math #ComSci
 + [[https://www.geeksforgeeks.org/10-famous-bugs-in-the-computer-science-world][10 famous bugs in the computer science world]]. #CompSci #Programming
-
-*** 07-Oct-19
-+ [[https://dkalemis.wordpress.com/2013/11/23/the-correspondence-between-monads-in-category-theory-and-monads-in-haskell][The correspondence between monads in category theory and monads in Haskell]]. ~
-  D. Kalemis (@dkalemis). #Haskell #FunctionalProgramming #CategoryTheory
-+ [[https://github.com/alhassy/AgdaCheatSheet][AgdaCheatSheet: Basics of the dependently-typed functional language Agda]]. ~
-  Musa Al-hassy. #ITP #Agda
-+ [[http://matryoshka.gforge.inria.fr/pubs/fischer_msc_thesis.pdf][Verification of GPU program optimizations in Lean]]. ~ B. Fischer. #MSc_Thesis
-  #ITP #LeanProver
-
-*** 08-Oct-19
-+ [[http://bit.ly/30SLltT][A promising path towards autoformalization and general Artificial
-  Intelligence]]. ~ Christian Szegedy. #AI #PLN #ITP
++ [[https://dkalemis.wordpress.com/2013/11/23/the-correspondence-between-monads-in-category-theory-and-monads-in-haskell][The correspondence between monads in category theory and monads in Haskell]]. ~ D. Kalemis (@dkalemis). #Haskell #FunctionalProgramming #CategoryTheory
++ [[https://github.com/alhassy/AgdaCheatSheet][AgdaCheatSheet: Basics of the dependently-typed functional language Agda]]. ~ Musa Al-hassy. #ITP #Agda
++ [[http://matryoshka.gforge.inria.fr/pubs/fischer_msc_thesis.pdf][Verification of GPU program optimizations in Lean]]. ~ B. Fischer. #MSc_Thesis #ITP #LeanProver
++ [[http://bit.ly/30SLltT][A promising path towards autoformalization and general Artificial Intelligence]]. ~ Christian Szegedy. #AI #PLN #ITP
 + [[https://homes.cs.washington.edu/~thickstn/docs/lean.pdf][Number theory in a proof assistant]]. ~ John Thickstun. #ITP #LeanProver #Math
-+ [[http://prl.korea.ac.kr/~pronto/home/papers/oopsla19.pdf][Automatic and scalable detection of logical errors in functional programming
-  assignments]]. ~ Dowon Song et als. #OCaml #FunctionalProgramming
++ [[http://prl.korea.ac.kr/~pronto/home/papers/oopsla19.pdf][Automatic and scalable detection of logical errors in functional programming assignments]]. ~ Dowon Song et als. #OCaml #FunctionalProgramming
 + [[https://link.springer.com/article/10.1007/s10817-019-09534-y][An assertional proof of red–black trees using Dafny]]. ~ Ricardo Peña. #Dafny
-+ [[https://www.cl.cam.ac.uk/~jrh13/spisa19/paper_10.pdf][GRIFT: A richly-typed, deeply-embedded RISC-V semantics written in Haskell]]. ~
-  Benjamin Selfridge. #Haskell #FunctionalProgramming
-
-*** 10-Oct-19
++ [[https://www.cl.cam.ac.uk/~jrh13/spisa19/paper_10.pdf][GRIFT: A richly-typed, deeply-embedded RISC-V semantics written in Haskell]]. ~ Benjamin Selfridge. #Haskell #FunctionalProgramming
 + [[http://www.cs.us.es/~fsancho/?e=226][NetLogo: Grafos]]. F. Sancho (@sanchocaparrini). #NetLogo
-
-*** 11-Oct-19
-+ [[https://ahmet-celik.github.io/papers/CELIK-DISSERTATION-2019.pdf][Proof engineering for large-scale verification projects]]. ~ Ahmet
-  Celik. #PhD_Thesis #ITP #Coq
-+ [[https://www.tweag.io/posts/2019-10-11-ormolu-first-release.html][Ormolu: a formatter for Haskell source code]]. ~ Mark Karpov, Utku
-  Demir. #Haskell #FunctionalProgramming
-+ [[https://link.springer.com/content/pdf/10.1007%2F978-3-319-91908-9_15.pdf][The next 7000 programming languages]]. ~ Robert Chatley, Alastair Donaldson, and
-  Alan Mycroft. #Programming
-
-*** 12-Oct-19
-+ [[https://www.quantamagazine.org/with-category-theory-mathematics-escapes-from-equality-20191010/][With category theory, mathematics escapes from equality]]. ~ Kevin
-  Hartnett. #Math #CategoryTheory
-
-*** 13-Oct-19
++ [[https://ahmet-celik.github.io/papers/CELIK-DISSERTATION-2019.pdf][Proof engineering for large-scale verification projects]]. ~ Ahmet Celik. #PhD_Thesis #ITP #Coq
++ [[https://www.tweag.io/posts/2019-10-11-ormolu-first-release.html][Ormolu: a formatter for Haskell source code]]. ~ Mark Karpov, Utku Demir. #Haskell #FunctionalProgramming
++ [[https://link.springer.com/content/pdf/10.1007%2F978-3-319-91908-9_15.pdf][The next 7000 programming languages]]. ~ Robert Chatley, Alastair Donaldson, and Alan Mycroft. #Programming
++ [[https://www.quantamagazine.org/with-category-theory-mathematics-escapes-from-equality-20191010/][With category theory, mathematics escapes from equality]]. ~ Kevin Hartnett. #Math #CategoryTheory
 + [[ftp://ftp.cs.princeton.edu/techreports/2019/011.pdf][Verified extraction for Coq]]. ~ Olivier Savary Bélanger. #PhD_Thesis #ITP #Coq
-+ [[http://casperbp.net/store/from-definitional-interpreter-to-symbolic-executor.pdf][From definitional interpreter to symbolic executor]]. ~ Adrian D. Mensing et
-  als. #Haskell #FunctionalProgramming
-+ [[https://byorgey.wordpress.com/2019/10/12/competitive-programming-in-haskell-reading-large-inputs-with-bytestring/][Competitive Programming in Haskell: reading large inputs with ByteString]]. ~
-  Brent Yorgey. #Haskell #FunctionalProgramming
++ [[http://casperbp.net/store/from-definitional-interpreter-to-symbolic-executor.pdf][From definitional interpreter to symbolic executor]]. ~ Adrian D. Mensing et als. #Haskell #FunctionalProgramming
++ [[https://byorgey.wordpress.com/2019/10/12/competitive-programming-in-haskell-reading-large-inputs-with-bytestring/][Competitive programming in Haskell: reading large inputs with ByteString]]. ~ Brent Yorgey. #Haskell #FunctionalProgramming
 + [[https://maslinux.es/openlibra-un-enorme-banco-de-libros-con-licencia-libre/][OpenLibra: Un enorme banco de libros con licencia libre]]. #OpenLibra
-+ [[http://www.cs.us.es/~fsancho/?e=228][Planificación: Fundamentos (y NetLogo)]]. ~ Fernando Sancho
-  (@sanchocaparrini). #IA #NetLogo
-
-*** 14-Oct-19
++ [[http://www.cs.us.es/~fsancho/?e=228][Planificación: Fundamentos (y NetLogo)]]. ~ Fernando Sancho (@sanchocaparrini). #IA #NetLogo
 + [[https://arxiv.org/abs/1903.03425][The ethics of AI ethics (An evaluation of guidelines)]]. ~ Thilo Hagendorff. #AI
 + [[http://neilmitchell.blogspot.com/2019/10/monads-as-graphs.html][Monads as graphs]]. ~ Neil Mitchell. #Haskell #FunctionalProgramming 
 + [[http://prologhub.pl/prolog-forwards-and-backwards/][Prolog: forwards and backwards]]. ~ Paul Brown. #Prolog #LogicProgramming 
 + [[http://prologhub.pl/hello-tau-prolog/][Hello, Tau Prolog!]] ~ Paul Brown. #Prolog #LogicProgramming 
 + [[https://leanprover-community.github.io/papers/mathlib-paper.pdf][The Lean mathematical library]]. ~ The mathlib Community. #ITP #LeanProver #Math
-
-*** 15-Oct-19
-+ [[http://www.philipzucker.com/functors-and-vectors/][Functors, vectors, and quantum circuits]]. ~ Philip Zucker
-  (@SandMouth). #Haskell #FunctionalProgramming
-+ [[https://arxiv.org/abs/1910.03740][The resolution of Keller's conjecture]]. ~ J. Brakensiek, M. Heule,
-  J. Mackey. #ATP #SAT #Math via @ozanerdem
++ [[http://www.philipzucker.com/functors-and-vectors/][Functors, vectors, and quantum circuits]]. ~ Philip Zucker (@SandMouth). #Haskell #FunctionalProgramming
++ [[https://arxiv.org/abs/1910.03740][The resolution of Keller's conjecture]]. ~ J. Brakensiek, M. Heule, J. Mackey. #ATP #SAT #Math via @ozanerdem
 + [[https://blog.sigplan.org/2019/10/14/how-to-design-co-programs/][How to design co-programs]]. ~ Jeremy Gibbons. #Haskell #FunctionalProgramming
-
-*** 17-Oct-19
-+ [[https://www.isa-afp.org/entries/Clean.html][Clean: An abstract imperative programming language and its theory]]. ~ F. Tuong,
-  B. Wolff. #ITP #IsabelleHOL
-+ [[https://www.isa-afp.org/entries/Aristotles_Assertoric_Syllogistic.html][Aristotle's assertoric syllogistic in Isabelle/HOL]]. ~ Angeliki
-  Koutsoukou-Argyraki (@AngelikiKoutso1). #ITP #IsabelleHOL #Logic
-+ [[https://chrispenner.ca/posts/wc][Beating C with 80 lines of Haskell: wc]]. ~ Chris Penner
-  (@chrislpenner). #Haskell #FunctionalProgramming
-+ [[https://jaspervdj.be/posts/2019-10-15-flip-partial-application.html][Partial application using flip]]. ~ Jasper Van der Jeugt (@jaspervdj). #Haskell
-  #FunctionalProgramming
-+ [[https://ruc.udc.es/dspace/handle/2183/24095][Un procesador de expresiones epistémicas en programas lógicos]]. ~ Javier Garea
-  Cidre. #TFG #LogicProgramming #ASP
-
-*** 18-Oct-19
-+ [[https://www.isa-afp.org/entries/Sigma_Commit_Crypto.html][Sigma protocols and commitment schemes]]. ~ David Butler, Andreas
-  Lochbihler. #ITP #IsabelleHOL
-
-**** 19-Oct-19
-+ [[https://blog.sigplan.org/2019/10/17/what-type-soundness-theorem-do-you-really-want-to-prove/][What type soundness theorem do you really want to prove?]] ~ Derek Dreyer et
-  als. #CompSci #TypeTheory
++ [[https://www.isa-afp.org/entries/Clean.html][Clean: An abstract imperative programming language and its theory]]. ~ F. Tuong, B. Wolff. #ITP #IsabelleHOL
++ [[https://www.isa-afp.org/entries/Aristotles_Assertoric_Syllogistic.html][Aristotle's assertoric syllogistic in Isabelle/HOL]]. ~ Angeliki Koutsoukou-Argyraki (@AngelikiKoutso1). #ITP #IsabelleHOL #Logic
++ [[https://chrispenner.ca/posts/wc][Beating C with 80 lines of Haskell: wc]]. ~ Chris Penner (@chrislpenner). #Haskell #FunctionalProgramming
++ [[https://jaspervdj.be/posts/2019-10-15-flip-partial-application.html][Partial application using flip]]. ~ Jasper Van der Jeugt (@jaspervdj). #Haskell #FunctionalProgramming
++ [[https://ruc.udc.es/dspace/handle/2183/24095][Un procesador de expresiones epistémicas en programas lógicos]]. ~ Javier Garea Cidre. #TFG #LogicProgramming #ASP
++ [[https://www.isa-afp.org/entries/Sigma_Commit_Crypto.html][Sigma protocols and commitment schemes]]. ~ David Butler, Andreas Lochbihler. #ITP #IsabelleHOL
++ [[https://blog.sigplan.org/2019/10/17/what-type-soundness-theorem-do-you-really-want-to-prove/][What type soundness theorem do you really want to prove?]] ~ Derek Dreyer et als. #CompSci #TypeTheory
 + [[http://neilmitchell.blogspot.com/2019/10/improving-rebindable-syntax.html][Improving rebindable syntax]]. ~ Neil Mitchell. #Haskell #FunctionalProgramming
 + [[https://www.slideshare.net/paulszulc/painless-haskell][Painless Haskell]]. ~ Paweł Szulc (@rabbitonweb). #Haskell #FunctionalProgramming
-+ [[https://www.microsoft.com/en-us/research/blog/the-inner-magic-behind-the-z3-theorem-prover/][The inner magic behind the Z3 theorem prover]]. ~ Nikolaj Bjørner, Leonardo de
-  Moura. #ATP #SMT #Z3
-+ [[http://math.jhu.edu/~eriehl/lambda.pdf][A categorical view of computational effects]]. ~ Emily Riehl
-  (@emilyriehl). #CategoryTheory #FunctionalProgramming
-+ [[https://www.slideshare.net/lauramcastro/so-i-used-erlang-is-my-system-as-scalable-as-they-say-itd-be][So I used Erlang ... is my system as scalable as they say it'd be?]] ~ Laura
-  M. Castro (@lauramcastro). #Erlang #FunctionalProgramming
-+ [[https://arosien.github.io/talks/better-testing][Writing programs that write tests: better testing with Scala]]. ~ Adam Rosien
-  (@arosien). #Scala #FunctionalProgramming
-+ [[https://serokell.io/blog/top-software-written-in-haskell][Software written in Haskell: Stories of success]]. ~ Yulia Gavrilova, Gints
-  Dreimanis. #Haskell #FunctionalProgramming
-+ [[https://mml-book.github.io/book/mml-book.pdf][Mathematics for Machine Learning]]. ~ Marc Peter Deisenroth, A Aldo Faisal,
-  Cheng Soon Ong. #eBook #MachineLearning #Math
-+ [[https://github.com/haroldcarr/presentations/raw/master/2019-10-18-lambda-world-cadiz-recursion-schemes.pdf][Refactoring recursion]]. ~ Harold Carr (@haroldcarr). #Haskell
-  #FunctionalProgramming
-+ [[http://marcosh.github.io/presentations/2019/10/18/fun-with-categories.html][Fun with categories]]. ~ Marco Perone (@marcoshuttle). #CategoryTheory #Idris
-  #FunctionalProgramming
-
-*** 20-Oct-19
++ [[https://www.microsoft.com/en-us/research/blog/the-inner-magic-behind-the-z3-theorem-prover/][The inner magic behind the Z3 theorem prover]]. ~ Nikolaj Bjørner, Leonardo de Moura. #ATP #SMT #Z3
++ [[http://math.jhu.edu/~eriehl/lambda.pdf][A categorical view of computational effects]]. ~ Emily Riehl (@emilyriehl). #CategoryTheory #FunctionalProgramming
++ [[https://www.slideshare.net/lauramcastro/so-i-used-erlang-is-my-system-as-scalable-as-they-say-itd-be][So I used Erlang ... is my system as scalable as they say it'd be?]] ~ Laura M. Castro (@lauramcastro). #Erlang #FunctionalProgramming
++ [[https://arosien.github.io/talks/better-testing][Writing programs that write tests: better testing with Scala]]. ~ Adam Rosien (@arosien). #Scala #FunctionalProgramming
++ [[https://serokell.io/blog/top-software-written-in-haskell][Software written in Haskell: Stories of success]]. ~ Yulia Gavrilova, Gints Dreimanis. #Haskell #FunctionalProgramming
++ [[https://mml-book.github.io/book/mml-book.pdf][Mathematics for machine learning]]. ~ Marc Peter Deisenroth, A Aldo Faisal, Cheng Soon Ong. #eBook #MachineLearning #Math
++ [[https://github.com/haroldcarr/presentations/raw/master/2019-10-18-lambda-world-cadiz-recursion-schemes.pdf][Refactoring recursion]]. ~ Harold Carr (@haroldcarr). #Haskell #FunctionalProgramming
++ [[http://marcosh.github.io/presentations/2019/10/18/fun-with-categories.html][Fun with categories]]. ~ Marco Perone (@marcoshuttle). #CategoryTheory #Idris #FunctionalProgramming
 + [[http://wwwf.imperial.ac.uk/~buzzard/docs/lean/sandwich.html][The sandwich theorem]]. ~ Kevin Buzzard. #ITP #LeanProver #Math
 + [[https://www.cs.umd.edu/~mwh/papers/hietala19voqc.html][A verified optimizer for quantum circuits]]. ~ Kesha Hietala et als. #ITP #Coq
-+ [[https://ucsd-progsys.github.io/liquidhaskell-blog/2019/10/20/why-types.lhs/][Liquid types vs. Floyd-Hoare logic]]. ~ Ranjit Jhala
-  (@RanjitJhala). #LiquidHaskell #Haskell #FunctionalProgramming
-+ [[https://kaygun.tumblr.com/post/183562822804/pr%C3%BCfer-encodingdecoding-of-a-tree-in-common-lisp][Prüfer encoding/decoding of a tree in Common Lisp]]. ~ Atabey Kaygun
-  (@Atabey_Kaygun). #CommonLisp #Algorithms
-+ [[http://www.cs.cmu.edu/~mheule/15816-f19/schedule.html][Course: Advanced topics in logic (Automated reasoning and satisfiability)]]. ~
-  Marijn Heule and Ruben Martins. #ATP #SAT
-
-*** 21-Oct-19
++ [[https://ucsd-progsys.github.io/liquidhaskell-blog/2019/10/20/why-types.lhs/][Liquid types vs. Floyd-Hoare logic]]. ~ Ranjit Jhala (@RanjitJhala). #LiquidHaskell #Haskell #FunctionalProgramming
++ [[https://kaygun.tumblr.com/post/183562822804/pr%C3%BCfer-encodingdecoding-of-a-tree-in-common-lisp][Prüfer encoding/decoding of a tree in Common Lisp]]. ~ Atabey Kaygun (@Atabey_Kaygun). #CommonLisp #Algorithms
++ [[http://www.cs.cmu.edu/~mheule/15816-f19/schedule.html][Course: Advanced topics in logic (Automated reasoning and satisfiability)]]. ~ Marijn Heule and Ruben Martins. #ATP #SAT
 + [[https://arxiv.org/abs/1910.08416][Programming and symbolic computation in Maude]]. ~ F. Durán et als. #ITP #Maude
 + [[https://leanprover-community.github.io/papers/mathlib-paper.pdf][The Lean mathematical library]]. ~ The mathlib Community. #ITP #LeanProver #Math
-
-*** 22-Oct-19
-+ [[http://eptcs.web.cse.unsw.edu.au/paper.cgi?LFMTP2019.5][Rapid prototyping formal systems in MMT: 5 case studies]]. ~ Dennis Müller, and
-  Florian Rabe. #ITP #MMT #Logic
-+ [[http://eptcs.web.cse.unsw.edu.au/paper.cgi?LFMTP2019.6][A weakly initial algebra for higher-order abstract syntax in Cedille]]. ~ Aaron
-  Stump. #ITP #Cedille
++ [[http://eptcs.web.cse.unsw.edu.au/paper.cgi?LFMTP2019.5][Rapid prototyping formal systems in MMT: 5 case studies]]. ~ Dennis Müller, and Florian Rabe. #ITP #MMT #Logic
++ [[http://eptcs.web.cse.unsw.edu.au/paper.cgi?LFMTP2019.6][A weakly initial algebra for higher-order abstract syntax in Cedille]]. ~ Aaron Stump. #ITP #Cedille
 + [[https://dev.to/drbearhands/haskell-for-madmen-setup-4cj9][Haskell for madmen: Setup]]. #Haskell #FunctionalProgramming
 + [[https://dev.to/drbearhands/haskell-for-madmen-hello-monad-3926][Haskell for madmen: Hello, monad!]] #Haskell #FunctionalProgramming
-+ [[https://github.com/albohlabs/awesome-haskell][A curated list of amazingly awesome Haskell articles and talks for
-  beginners]]. ~ Daniel Pfefferkorn (@albohlabs). #Haskell #FunctionalProgramming
++ [[https://github.com/albohlabs/awesome-haskell][A curated list of amazingly awesome Haskell articles and talks for beginners]]. ~ Daniel Pfefferkorn (@albohlabs). #Haskell #FunctionalProgramming
 + [[https://github.com/kensanata/ggg/][Gmail Gnus GPG Guide (GGGG)]]. ~ Alex Schroeder. #Emacs #Gmail #Gnus #GPG
-
-*** 23-Oct-19
-+ [[https://github.com/blanchette/logical_verification_2019/raw/master/logical_verification_in_lean.pdf][Logical verification in Lean]]. ~ A. Bentkamp, J. Blanchette, J. Hölzl. #eBook
-  #ITP #LeanProver #Logic #FunctionalProgramming
++ [[https://github.com/blanchette/logical_verification_2019/raw/master/logical_verification_in_lean.pdf][Logical verification in Lean]]. ~ A. Bentkamp, J. Blanchette, J. Hölzl. #eBook #ITP #LeanProver #Logic #FunctionalProgramming
 + [[https://podcasts.apple.com/se/podcast/337-provable-security-podcast-series-episode-2-automated/id1122785133?i=1000453779171&l=en][Automated Reasoning in the Cloud with John Harrison]]. #ATP
-+ [[http://www.lix.polytechnique.fr/~dale/papers/icdcit-2019.pdf][A distributed and trusted web of formal proofs]]. ~ Dale Miller. #Logic #ITP
-  #ATP
-+ [[https://hal.archives-ouvertes.fr/hal-02317118/document][A first step in the translation of Alloy to Coq]]. ~ Salwa Souaf, Frédéric
-  Loulergue. #ITP #Coq #Alloy
-
-*** 24-Oct-19
-+ [[http://chalkdustmagazine.com/features/can-computers-prove-theorems/][Can computers prove theorems?]] ~ Kevin Buzzard (@XenaProject). #ITP #LeanProver
-  #Math
-+ [[https://www.cs.vu.nl/~jbe248/lv2017/notes.pdf][Logical verification (Course notes)]]. ~ F. van Raamsdonk. #eBook #ITP #Coq
-  #Logic
-+ [[https://medium.com/@cdsmithus/applicative-without-currying-f4c3bd9f1552][Applicative without currying]]. ~ Chris Smith (@cdsmithus). #Haskell
-  #FunctionalProgramming
-
-*** 25-Oct-19
-+ [[https://iohk.io/en/research/library/papers/system-f-in-agdafor-fun-and-profit/][System F in Agda, for fun and profit]]. ~ J. Chapman, R. Kireev, C. Nester,
-  P. Wadler. #ITP #Agda
-+ [[https://eprint.iacr.org/2019/1185.pdf][Formalising Σ-protocols and commitment schemes using CryptHOL]]. ~ D. Butler,
-  A. Lochbihler, D. Aspinall, A. Gascón. #ITP #IsabelleHOL
-+ [[https://www.isa-afp.org/entries/VerifyThis2019.html][VerifyThis 2019 (Polished Isabelle solutions)]]. ~ P. Lammich, S. Wimmer. #ITP
-  #IsabelleHOL
-+ [[https://www21.in.tum.de/teaching/fpv/WS1920/slides.pdf][Functional programming and verification]]. ~ T. Nipkow. #Haskell
-  #FunctionalProgramming
-+ [[https://cacm.acm.org/magazines/2019/11/240390-deepxplore/fulltext][DeepXplore: Automated whitebox testing of deep learning systems]]. ~ K. Pei,
-  Y. Cao, J. Yang, S. Jana. #DeepLearning
-+ [[https://engineering.fb.com/security/simon-marlow/][Simon Marlow, Simon Peyton Jones, and Satnam Singh win Most Influential ICFP
-  Paper Award]]. #Hsakell #FunctionalProgramming
-+ [[https://xenaproject.wordpress.com/2019/10/24/chalkdust-and-the-natural-number-game/][Chalkdust, and the natural number game!]] ~ Kevin Buzzard (@XenaProject). #ITP
-  #LeanProver #Math
-
-*** 26-Oct-19
-+ [[https://www.mi.fu-berlin.de/inf/groups/ag-ki/publications/Aqvists-Logic/Aqvist-farjami.pdf][Åqvist's dyadic deontic logic E in HOL]]. ~ C. Benzmüller, A. Farjami,
-  X. Parent. #ITP #IsabelleHOL #Logic
-+ [[https://arxiv.org/pdf/1904.03917][Fifty years of Hoare's Logic]]. K.R. Apt, E.R. Olderog. #Logic #Verification
-  #CompSci
++ [[http://www.lix.polytechnique.fr/~dale/papers/icdcit-2019.pdf][A distributed and trusted web of formal proofs]]. ~ Dale Miller. #Logic #ITP #ATP
++ [[https://hal.archives-ouvertes.fr/hal-02317118/document][A first step in the translation of Alloy to Coq]]. ~ Salwa Souaf, Frédéric Loulergue. #ITP #Coq #Alloy
++ [[http://chalkdustmagazine.com/features/can-computers-prove-theorems/][Can computers prove theorems?]] ~ Kevin Buzzard (@XenaProject). #ITP #LeanProver #Math
++ [[https://www.cs.vu.nl/~jbe248/lv2017/notes.pdf][Logical verification (Course notes)]]. ~ F. van Raamsdonk. #eBook #ITP #Coq #Logic
++ [[https://medium.com/@cdsmithus/applicative-without-currying-f4c3bd9f1552][Applicative without currying]]. ~ Chris Smith (@cdsmithus). #Haskell #FunctionalProgramming
++ [[https://iohk.io/en/research/library/papers/system-f-in-agdafor-fun-and-profit/][System F in Agda, for fun and profit]]. ~ J. Chapman, R. Kireev, C. Nester, P. Wadler. #ITP #Agda
++ [[https://eprint.iacr.org/2019/1185.pdf][Formalising Σ-protocols and commitment schemes using CryptHOL]]. ~ D. Butler, A. Lochbihler, D. Aspinall, A. Gascón. #ITP #IsabelleHOL
++ [[https://www.isa-afp.org/entries/VerifyThis2019.html][VerifyThis 2019 (Polished Isabelle solutions)]]. ~ P. Lammich, S. Wimmer. #ITP #IsabelleHOL
++ [[https://www21.in.tum.de/teaching/fpv/WS1920/slides.pdf][Functional programming and verification]]. ~ T. Nipkow. #Haskell #FunctionalProgramming
++ [[https://cacm.acm.org/magazines/2019/11/240390-deepxplore/fulltext][DeepXplore: Automated whitebox testing of deep learning systems]]. ~ K. Pei, Y. Cao, J. Yang, S. Jana. #DeepLearning
++ [[https://engineering.fb.com/security/simon-marlow/][Simon Marlow, Simon Peyton Jones, and Satnam Singh win Most Influential ICFP Paper Award]]. #Hsakell #FunctionalProgramming
++ [[https://xenaproject.wordpress.com/2019/10/24/chalkdust-and-the-natural-number-game/][Chalkdust, and the natural number game!]] ~ Kevin Buzzard (@XenaProject). #ITP #LeanProver #Math
++ [[https://www.mi.fu-berlin.de/inf/groups/ag-ki/publications/Aqvists-Logic/Aqvist-farjami.pdf][Åqvist's dyadic deontic logic E in HOL]]. ~ C. Benzmüller, A. Farjami, X. Parent. #ITP #IsabelleHOL #Logic
++ [[https://arxiv.org/pdf/1904.03917][Fifty years of Hoare's Logic]]. K.R. Apt, E.R. Olderog. #Logic #Verification #CompSci
 + [[http://lisp-univ-etc.blogspot.com/2019/10/programming-algorithms-graphs.html][Programming algorithms: Graphs]]. ~ Vsevolod Dyomkin. #CommonLisp #Algorithms 
-+ [[https://blog.poisson.chat/posts/2019-10-25-infinite-types-existential-newtype.html][Infinite types and existential newtypes]]. ~ Li-yao Xia. #Haskell
-  #FunctionalProgramming
-
-*** 27-Oct-19
-+ [[https://www.newton.ac.uk/seminar/20170710143015301][Proof assistants: from symbolic logic to real mathematics?]] ~ Lawrence
-  C Paulson #ITP #Logic #Math
++ [[https://blog.poisson.chat/posts/2019-10-25-infinite-types-existential-newtype.html][Infinite types and existential newtypes]]. ~ Li-yao Xia. #Haskell #FunctionalProgramming
++ [[https://www.newton.ac.uk/seminar/20170710143015301][Proof assistants: from symbolic logic to real mathematics?]] ~ Lawrence C Paulson #ITP #Logic #Math
 + [[https://en.wikipedia.org/wiki/List_of_software_bugs][List of software bugs]]. ~ Wikipedia #Programming
-
-*** 28-Oct-19
 + [[https://arxiv.org/abs/1910.11797][Deep reinforcement learning in HOL4]]. ~ T. Gauthier #ITP #HOL4 #DeepLearning
 + [[https://www.cl.cam.ac.uk/~jrh13/papers/cacm.pdf][Formally verified Mathematics]]. ~ J. Avigad, J. Harrison. #ITP #Math
 + [[https://hal.inria.fr/hal-00809448/document][Les assistants de preuve, ou comment avoir confiance en ses démonstrations]]. ~ J. Narboux. #ITP #Coq
@@ -2191,14 +2074,10 @@ contenido.
 + [[https://github.com/google-research/dex-lang][Dex: a research language for array processing in the Haskell/ML family]]. #Haskell #FunctionalProgramming
 + [[http://bit.ly/2hp4IUz][The Zen of Haskell]]. ~ #Haskell
 + [[https://notxor.nueva-actitud.org/blog/2019/06/30/gestionar-bibliografia-con-emacs/][Gestionar bibliografía con Emacs]]. #Emacs
-
-*** 29-Oct-19
 + [[https://arxiv.org/abs/1910.12320][Formalising perfectoid spaces]]. ~ K. Buzzard, J. Commelin, P. Massot. #ITP #LeanProver #Math
 + [[https://blog.poisson.chat/posts/2019-10-26-reasonable-continuations.html][The reasonable effectiveness of the continuation monad]]. ~ Li-yao Xia. #Haskell #FunctionalProgramming
 + [[https://blog.poisson.chat/posts/2019-10-27-continuation-submonads.html][A monad is just a submonad of the continuation monad, what's the problem?]] ~ Li-yao Xia. #Haskell #FunctionalProgramming
 + [[https://www.researchgate.net/publication/336838722_Computer-supported_Exploration_of_a_Categorical_Axiomatization_of_Modeloids][Computer-supported exploration of a categorical axiomatization of modeloids]]. ~ L. Tiemens, D.S. Scott, C. Benzmüller, M. Benda. #ITP #IsabelleHOL
-
-*** 30-Oct-19
 + [[https://hal.archives-ouvertes.fr/hal-02333553v1/document][Completeness of an axiomatization of graph isomorphism via graph rewriting in Coq]]. ~ C. Doczkal, D. Pous. #ITP #Coq
 + [[https://hal.inria.fr/tel-02333396/file/thesis.pdf][Formalisation tools for classical analysis (A case study in control theory)]]. ~ D. Rouhling. #PhD_Thesis #ITP Coq #Math
 + [[https://hal.archives-ouvertes.fr/hal-02086931/document][Short proof of Menger’s Theorem in Coq (Proof Pearl)]]. ~ C. Doczkal. #ITP #Coq #Math
@@ -2207,7 +2086,6 @@ contenido.
 
 ** Noviembre de 2019
 
-*** 01-Nov-19
 + [[http://www.philipzucker.com/neural-networks-with-weighty-lenses-dioptics/][Neural Networks with Weighty Lenses (DiOptics?)]] ~ Philip Zucker (@SandMouth). #Haskell #NeuralNetworks #FunctionalProgramming
 + [[https://mitibmwatsonailab.mit.edu/research/publications/paper/download/The-Future-of-Work-How-New-Technologies-Are-Transforming-Tasks.pdf][The future of work: How new technologies are transforming tasks]]. ~ M. Fleming et als. #AI #ML
 + [[https://jkeuhlen.com/2019/10/19/Compile-Your-Comments-In-Ghcid.html][Compile your comments in ghcid]]. ~ Jake Keuhlen. #Haskell #FunctionalProgramming
@@ -2215,79 +2093,51 @@ contenido.
 + [[https://maxhallinan.com/posts/2019/10/22/how-does-the-continuation-monad-work/][How does the continuation monad work?]] ~ Max Hallinan. #PureScript #FunctionalProgramming
 + [[https://copilot-language.github.io/][Copilot: A stream DSL for writing embedded C programs]]. ~ Lee Pike (@pike7464). #Haskell #FunctionalProgramming
 + [[https://www.technologyreview.es/s/11589/esta-ia-resuelve-un-antiguo-problema-matematico-mucho-mas-rapido][Esta IA resuelve un antiguo problema matemático mucho más rápido]]. #IA
-
-*** 02-Nov-19
 + [[https://blog.ploeh.dk/2019/10/28/a-basic-haskell-solution-to-the-robot-journeys-coding-exercise/][A basic Haskell solution to the robot journeys coding exercise]]. ~ Mark Seemann (@ploeh). #Haskell #FunctionalProgramming
 + [[http://wwwf.imperial.ac.uk/~buzzard/xena/natural_number_game/][The natural number game (version 1.06)]]. ~ K. Buzzard, M. Pedramfar. #ITP #LeanProver #Math
 + [[https://github.com/philzook58/learnxinyminutes-docs/blob/master/coq.html.markdown][Learn Coq in Y minutes tutorial]]. ~ Philip Zucker (@SandMouth). #ITP #Coq
 + [[https://youtu.be/bL6dL1fUTxY][No Garden of Eden: Adventures in Teaching Haskell to Kids]]. ~ Peter Berger (@peterb). #Haskell #FunctionalProgramming
 + [[http://www.cs.cornell.edu/courses/cs4860/2019fa/lectures/L2-A-Story-of-Logic.pdf][The story of Logic]]. ~ Robert L. Constable. #Logic #Math #ITP
 + [[http://www.cs.cornell.edu/courses/cs4860/2019fa/lectures/L5-Comp-Foundations-of-Math.pdf][Computational foundations of Mathematics]]. ~ Robert L. Constable. #Logic Math #CompSci #ITP #Nuprl
-
-*** 03-Nov-19
 + [[https://arxiv.org/abs/1906.06469][Approximate normalization for gradual dependent types]]. ~ J. Eremondi, É. Tanter, R. Garcia. #GDTL
 + [[https://jiggerwit.wordpress.com/2018/09/18/a-review-of-the-lean-theorem-prover/][A review of the Lean theorem prover]]. ~ Thomas Hales. #ITP #LeanProver
 + [[https://www.microsiervos.com/archivo/ia/inteligencia-artificial-notas-sobresalientes-examenes-ciencias.html][La inteligencia artificial capaz de puntuar con notas sobresalientes en los exámenes de ciencias]]. ~ @Alvy. #IA 
 + [[https://arxiv.org/abs/1909.01958][From 'F' to 'A' on the N.Y. Regents Science Exams: An Overview of the Aristo Project]]. ~ P. Clark et als. #AI 
-
-*** 04-Nov-19
 + [[https://arxiv.org/abs/1911.00399][An implementation of Homotopy Type Theory in Isabelle/Pure]]. ~ J. Chen. #MSc_Thesis #ITP #IsabellePure #HoTT 
 + [[https://arxiv.org/abs/1911.00385][A formal proof of PAC learnability for decision stumps]]. ~ J. Tassarotti, J.B. Tristan, K. Vajjha. #ITP #LeanProver
 + [[https://doisinkidney.com/posts/2019-11-02-how-to-binary-random-access-list.html][How to do binary random-access lists simply]]. ~ Donnacha Oisín Kidney (@oisdk). #Agda #FunctionalProgramming #ITP
 + [[http://www.well-typed.com/blog/2019/11/unrolling-data-with-backpack/][Unrolling data with Backpack]]. ~ Oleg Grenrus. #Haskell #FunctionalProgramming
 + [[https://plato.stanford.edu/archives/fall2019/entries/category-theory][Category Theory]]. ~ Jean-Pierre Marquis. #CategoryTheory. 
 + [[https://arxiv.org/abs/1910.13975][A brief tour of logic and optimization]]. ~ J. Hooker. #Logic #Optimization 
-
-*** 05-Nov-19
 + [[https://www.isa-afp.org/entries/ZFC_in_HOL.html][Zermelo Fraenkel Set Theory in Higher-Order Logic]]. ~ Lawrence C. Paulson. #ITP #IsabelleHOL #Logic #Math
 + [[https://arxiv.org/abs/1910.13554][Differential Hoare logics and refinement calculi for hybrid systems with Isabelle/HOL]]. ~ S. Foster, G. Struth. #ITP #IsabelleHOL
 + [[https://hal.archives-ouvertes.fr/hal-02333564/document][CoqTL: A Coq DSL for rule-based model transformation]]. ~ Z. Cheng, M. Tisi, R. Douence. #ITP #Coq
 + [[http://www.academia.edu/download/59970953/IRJET-V6I553520190709-100880-1y6qr3f.pdf][Recent trends in STM Haskell]]. ~ P. Tiwari, S. Meenu. #Haskell #FunctionalProgramming
-
-*** 06-Nov-19
 + [[https://arxiv.org/abs/1911.00580][Introduction to univalent foundations of mathematics with Agda]]. ~ Martín Hötzel Escardó. #ITP #Agda HoTT
 + [[https://www.ps.uni-saarland.de/Publications/documents/ForsterStark_2019_CoqALaCarte.pdf][Coq à la carte (A practical approach to modular syntax with binders)]]. ~ Y. Forster, K. Stark. #ITP #Coq
-
-*** 07-Nov-19
 + [[https://bartoszmilewski.com/2019/11/06/fixed-points-and-diagonal-arguments/][Fixed points and diagonal arguments]]. ~ Bartosz Milewski (@BartoszMilewski). #Haskell #Math
 + [[https://lisp-journey.gitlab.io/pythonvslisp/][Python VS Common Lisp, workflow and ecosystem]]. #Python #CommonLisp
-
-*** 08-Nov-19
 + [[https://yairchu.github.io/posts/sum-type-encodings.html][The four simple ways to encode sum-types]]. ~ Yair Chuchem (@yairchu). #Haskell #FunctionalProgramming
 + [[https://bor0.wordpress.com/2019/11/06/proving-groupoids-with-idris/][Proving groups with Idris]]. ~ Boro Sitnikovski## (@BSitnikovski). #Idris #FunctionalProgramming #ITP
 + [[http://prologhub.pl/predicates-vs-functions/][Predicates vs functions]]. ~ Paul Brown. #Prolog #LogicProgramming
 + [[https://elpais.com/elpais/2019/11/06/ciencia/1573042148_224789.html][Qué es la teoría de categorías y cómo se ha convertido en tendencia]]. ~ John Baez (@johncarlosbaez). #Teoría_de_categorías #Lógica #Matemáticas #Computación
 + [[http://bit.ly/2pXFffg][El problema de Collatz]]. ~ Juan Arias de Reyna. #Matemáticas
 + [[https://www.tweag.io/posts/2019-11-08-monad-bayes-2.html][Probabilistic programming with Monad‑Bayes, Part 2: Linear regression]]. ~ S. Bhat, M. Meschede. #Haskell #FunctionalProgramming
-
-*** 10-Nov-19
 + [[https://www.ps.uni-saarland.de/Publications/documents/ForsterEtAl_2019_VerifiedTMs.pdf][Verified programming of Turing machines in Coq]]. ~ Y. Forster, F. Kunze, M. Wuttke. #ITP #Coq
 + [[https://es.cs.uni-kl.de/publications/datarsg/Pete19.pdf][Intuitionistic logic: a view of its evolution]]. ~ A.K. Peters. #Logic #CompSci
 + [[https://ir.canterbury.ac.nz/handle/10092/17558][Minimal logic and automated proof verification]]. ~ L. Warren. #PhD_Thesis #ITP #Agda #Logic 
 + [[https://www.methodist.edu/wp-content/uploads/2019/01/mr2018_shane.pdf][Figurate numbers: a historical survey of an ancient mathematics]]. ~ D. Shane. #Math #History
-
-*** 11-Nov-19
 + [[https://k-bx.github.io/articles/propositions-as-types-missing-links.html][Propositions as types: some missing links]]. ~ Kostiantyn Rybnikov (@ko_bx). #Agda #ITP #Math
 + [[https://bor0.wordpress.com/2019/11/09/formalizing-expresiveness-of-line-editors/][Formalizing expressiveness of line editors]]. ~ Boro Sitnikovski. #ITP #Coq
-
-*** 12-Nov-19
 + [[https://youtu.be/UebPmYcI13M][Commanding Emacs from Coq]]. #ITP #Coq #Emacs
 + [[https://rjlipton.wordpress.com/2019/11/11/goldbach-a-curious-conjecture/][Goldbach: a curious conjecture]]. ~ R.J. Lipton, K.W. Regan. #Math
-
-*** 13-Nov-19
 + [[https://github.com/i-am-tom/haskell-exercises][GHC exercises (A little course to learn about some of the more obscure GHC extensions)]]. ~ Tom Harding (@am_i_tom). #Haskell #FunctionalProgramming
 + [[http://www.philipzucker.com/linear-relation-algebra-of-circuits-with-hmatrix/][Linear relation algebra of circuits with HMatrix]]. ~ Philip Zucker (@SandMouth). #Haskell #FunctionalProgramming
-
-*** 14-Nov-19
 + [[https://markkarpov.com/post/smart-constructors-that-cannot-fail.html][Smart constructors that cannot fail]]. ~ Mark Karpov (@mrkkrp). #Haskell #FunctionalProgramming
 + [[https://marcosh.github.io/post/2019/11/11/named-typeclasses-in-haskell.html][Named typeclasses in Haskell]]. ~ Marco Perone (@marcoshuttle). #Haskell #FunctionalProgramming
-
-*** 15-Nov-19
 + [[https://dl.acm.org/citation.cfm?id=3359759][Source-free machine-checked validation of native code in Coq]]. ~ K.W. Hamlen, D.Fisher, G.R. Lundquist. #ITP #Coq
 + [[https://arxiv.org/abs/1910.11724][Embracing a mechanized formalization gap]]. ~ A. Spector-Zabusky, J. Breitner, Y. Li, S. Weirich #ITP #Coq #Haskell via @scottfleischman
 + [[https://github.com/jtassarotti/coq-proba][A probability theory library for the Coq theorem prover]]. ~ J. Tassarotti. #ITP #Coq #Math 
-
-*** 16-Nov-19
 + [[https://www.researchgate.net/publication/337005820_Formalizing_the_Dependency_Pair_Criterion_for_Innermost_Termination][Formalizing the dependency pair criterion for innermost termination]]. ~ A. Alves Almeida, M. Ayala-Rincón. #ITP #PVS
 + [[https://arxiv.org/abs/1712.04375][Computational logic: its origins and applications]]. ~ L.C. Paulson. #Logic #ITP #IsabelleHOL
 + [[https://arxiv.org/abs/1804.07860][Formalising mathematics in simple type theory]]. ~ L.C. Paulson. #Logic #Math #ITP #IsabelleHOL
@@ -2297,35 +2147,23 @@ contenido.
 + [[https://prologhub.pl/facts-and-fluents-vs-constants-and-variables/][Facts and fluents vs constants and variables]]. ~ Paul Brown. #Prolog #LogicProgramming 
 + [[https://logtalk.org/2019/11/14/abstracting-user-interaction.html][Abstracting user interaction]]. ~ Paulo Moura. #LogicProgramming
 + [[http://uu.diva-portal.org/smash/get/diva2:1369286/FULLTEXT01.pdf][Monads in Haskell and category theory]]. ~ Samuel Grahn. #Haskell #FunctionalProgramming #CategoryTheory
-
-*** 17-Nov-19
 + [[http://uu.diva-portal.org/smash/get/diva2:1369180/FULLTEXT01.pdf][Cofree traversable functors]]. ~ L. Waern. #Haskell #FunctionalProgramming #CategoryTheory 
 + [[http://www3.risc.jku.at/publications/download/risc_5936/AXolotlPaper.pdf][AXolotl: A self-study tool for first-order logic]]. ~ David M. Cerna. #Logic
 + [[https://kwarc.info/people/frabe/students/muller_phd.pdf][Mathematical knowledge management across formal libraries]]. ~ D. Müller. #PhD_Thesis #MKM #ITP #PVS
-
-*** 18-Nov-19
-+ [[https://taylor.fausak.me/2019/11/16/haskell-survey-results][2019 State of Haskell Survey results]]. ~ Taylor Fausak (@taylorfausak). #Haskell #FunctionalProgramming
++ [[https://taylor.fausak.me/2019/11/16/haskell-survey-results][2019 state of Haskell survey results]]. ~ Taylor Fausak (@taylorfausak). #Haskell #FunctionalProgramming
 + [[https://arxiv.org/abs/1911.06643][Forgetting to learn logic programs]]. ~ Andrew Cropper. #ILP #LogicProgramming
 + [[https://geekingfrog.com/blog/post/swappable-db][Swap the DB based on a config file]]. ~ Grégoire Charvet. #Haskell #FunctionalProgramming
 + [[https://ozanerdem.github.io/jekyll/update/2019/11/17/representation-in-sat.html][Encoding problems in boolean satisfiability]]. ~ Ozan Erdem (@ozanerdem). #Logic #SAT_solving 
 + [[https://github.com/adjoint-io/galois-fft][Finite field polynomial arithmetic based on fast Fourier transforms]]. ~ Stephen Diehl (@smdiehl). #Haskell #FunctionalProgramming #Math
-
-*** 19-Nov-19
 + [[https://ondahostil.wordpress.com/2019/10/16/mi-entorno-de-trabajo/][Mi entorno de trabajo en Emacs]]. ~ Ondiz.  #Emacs
 + [[https://sxysun.github.io/files/210/main.pdf][Category theory as a methodology for computational sciences]]. ~ Xinyuan Sun. #CategoryTheory #Haskell
 + [[https://www.lri.fr/~wolff/papers/conf/2019-fide-isabelle_c.pdf][Deeply integrating C11 code support into Isabelle/PIDE]]. ~ F. Tuong, B. Wolff. #ITP #IsabelleHOL 
-
-*** 21-Nov-19
 + [[https://geekingfrog.com/blog/post/deriving-magic-and-parsing-csv][Deriving magic and parsing CSV]]. ~ Grégoire Charvet. #Haskell #FunctionalProgramming
-
-*** 22-Nov-19
 + [[http://www.cs.umd.edu/~rrand/vqc][Verified quantum computing]]. ~ Robert Rand. #ITP #Coq #QuantumComputing
 + [[http://www.cs.umd.edu/~rrand/thesis.pdf][Formally verified quantum programming]]. ~ Robert Rand. #PhD_Thesis #ITP #Coq #QuantumComputing
 + [[https://github.com/jldodds/coq-lean-cheatsheet][A quick reference for mapping Coq tactics to Lean tactics]]. ~ Joey Dodds. #ITP #Coq #LeanProver 
 + [[https://www.snoyman.com/blog/2019/11/boring-haskell-manifesto][Boring Haskell manifesto (how to get Haskell into your organization, and how to make your organization more productive and profitable with better engineering)]]. ~ M. Snoyman (@snoyberg). #Haskell #FunctionalProgramming
 + [[https://www.quantamagazine.org/barbara-liskov-is-the-architect-of-modern-algorithms-20191120/][Barbara Liskov: The architect of modern algorithms]]. ~ Susan D'Agostino (@susan_dagostino). #CompSci #Algorithms
-
-*** 23-Nov-19
 + [[https://github.com/fpvandoorn/lean-links][Links to recourses for the Lean Theorem Prover]]. ~ Floris van Doorn. #ITP #LeanProver
 + [[https://github.com/Gabriel439/slides/blob/master/simple-twitter/slides.md][A bare-bones Twitter clone implemented with Haskell + Nix]]. ~ Gabriel Gonzalez (@GabrielG439). #Haskell #FunctionalProgramming
 + [[https://medium.com/@cdsmithus/codeworld-import-by-hash-2a9a5d18ece][CodeWorld import by Hash]]. ~ Chris Smith (@cdsmithus). #CodeWorld #Haskell 
@@ -2335,8 +2173,6 @@ contenido.
 + [[https://scholarworks.umass.edu/cgi/viewcontent.cgi?article=2830&context=dissertations_2][Tools for tutoring theoretical computer science topics]]. ~ Mark McCartin-Lim. #PhD_Thesis #CompSci #Logic #ATP
 + [[https://pp.ipd.kit.edu/uploads/publikationen/huisinga19bachelorarbeit.pdf][Formally verified insertion of reference counting instructions]]. ~ Marc Huisinga. #ITP #LeanProver
 + [[https://github.com/jozefg/learn-tt][A collection of resources for learning type theory and type theory adjacent fields]]. ~ Daniel Gratzer. #TypeTheory #CategoryTheory #ITP #Coq #LeanProver #HoTT
-
-*** 24-Nov-19
 + [[https://arxiv.org/abs/1911.06899][Constructing infinitary quotient-inductive types]]. ~ M. Fiore, A.M. Pitts, S.C. Steenkamp. #ITP #Agda
 + [[https://arxiv.org/abs/1907.10674][ConCert: A smart contract certification framework in Coq]]. ~ D. Annenkov, J.B. Nielsen, B. Spitters. #ITP #Coq #Blockchain
 + [[https://github.com/AU-COBRA/ConCert][ConCert: A framework for smart contract verification in Coq]]. ~ J.B. Nielsen, D. Annenkov. #ITP #Coq #Blockchain
@@ -2344,30 +2180,20 @@ contenido.
 + [[https://seqcalc.io][Sequent calculus calculator]]. #Logic #ITP
 + [[https://csound.com/icsc2019/proceedings/13.pdf][Kairos: a Haskell library for live coding Csound performances]]. ~ L. Foletto. #Haskell #FunctionalProgramming #Music
 + [[https://digitalcommons.lsu.edu/gradschool_theses/5037][Supporting the Algebra I curriculum with an introduction to computational thinking course]]. ~ M.M. Laskowski. #MsC_Thesis #CodeWorld #Haskell #Teaching 
-
-*** 25-Nov-19
 + [[https://github.com/jaalonso/Examenes_de_PF_con_Haskell_Vol11/raw/master/Libro/Examenes_de_PF_con_Haskell_Vol11.pdf][Libro de exámenes de programación funcional con Haskell (versión del 25 de noviembre de 2019)]]. #ProgramaciónFuncional #Haskell #I1M2019
 + [[https://github.com/lemastero/scala_typeclassopedia][Abstractions and constructions from math, implementations in FP languages and formalizations in proof assistants]]. ~ P. Paradziński. #CategoryTheory
 + [[https://steshaw.org/plt][PLT: A path to enlightenment in Programming Language Theory]]. ~ Steven Shaw (@steshaw). #Programming #TypeTheory #FunctionalProgramming #CategoryTheory via @pparadzinski
-
-*** 26-Nov-19
 + [[https://www.mpi-sws.org/~dreyer/papers/rustbelt/paper.pdf][RustBelt: Securing the foundations of the Rust programming language]]. ~ Ralf Jung et als. #ITP #Coq #Rust
 + [[https://briansteffens.github.io/2017/02/20/from-math-to-machine.html][From math to machine: translating a function to machine code]]. ~ Brian Steffens (@brian_steffens). #Haskell #Math
 + [[https://mmhaskell.com/blog/2019/11/21/digging-into-rusts-syntax][Digging into Rust's syntax]]. ~ James Bowen (@james_OWA). #Programming #Rust #Haskell
-
-*** 27-Nov-19
 + [[https://www.47deg.com/blog/game-of-life-haskell][Conway's game of life using Haskell and Gloss]]. ~ Alejandro Serrano (@trupill). #Haskell #FunctionalProgramming #Gloss
 + [[http://www.philipzucker.com/categorical-lqr-control-with-linear-relations][Categorical LQR control with linear relations]]. ~ Philip Zucker (@SandMouth). #Haskell #FunctionalProgramming
 + [[https://speakerdeck.com/ajnsit/supercharged-imperative-programming-with-haskell-and-fp][Supercharged imperative programming with Haskell and FP]]. ~ Anupam Jain (@ajnsit). #Haskell #FunctionalProgramming
 + [[http://blog.kleinproject.org/?p=4440][The enormous theorem]]. ~ Sarah Spoenemann. #Math
 + [[https://notxor.nueva-actitud.org/blog/2019/11/26/introduccion-a-emacs/][Introducción a la "Introducción de Emacs"]]. #Emacs
-
-*** 28-Nov-19
 + [[https://www.research.manchester.ac.uk/portal/files/146395090/FULL_TEXT.PDF][Development of group theory in the language of internal set theory]]. ~ Zoltan Kocsis #PhD_Thesis #ITP #Agda #Logic #Math 
 + [[https://isabelle.in.tum.de/Isar/Isar-induct.pdf][Structured induction proofs in Isabelle/Isar]]. ~ M. Wenzel. #ITP #IsabelleHOL
 + [[https://arxiv.org/abs/1911.12073][Property invariant embedding for automated reasoning]]. ~ M. Olšák, C. Kaliszyk, J. Urban. #ATP #MachineLearnig
-
-*** 29-Nov-19
 + [[https://serokell.io/blog/how-to-learn-haskell-in-10-minutes][How to learn Haskell in 10 minutes a day]]. ~ Yulia Gavrilova. #Haskell #FunctionalProgramming
 + [[https://github.com/astampoulis/makam][The Makam metalanguage: a tool for rapid language prototyping]]. ~ Antonis Stampoulis. #Programming #Makam #OCaml
 + [[https://www.tweag.io/posts/2019-11-28-pcf-makam-spec][How to make your papers run: Executable formal semantics for your language]]. ~ Teodoro Freund. #Programming #Makam  
@@ -2376,55 +2202,40 @@ contenido.
 
 ** Diciembre de 2019
 
-*** 01-Dic-19
 + [[https://flypitch.github.io/assets/flypitch-cpp.pdf][A formal proof of the independence of the continuum hypothesis]]. ~ Jesse Michael Han, Floris van Doorn. #ITP #LeanProver #Math
 + [[https://hal.archives-ouvertes.fr/hal-02380196/document][Coq Coq correct! Verification of type checking and erasure for Coq, in Coq]]. ~ M. Sozeau et als. #ITP #Coq
 + [[https://openresearch-repository.anu.edu.au/bitstream/1885/176977/1/MyThesisFinal.pdf][Verified and verifiable computation with STV algorithms]]. ~ M.K. Ghale. #PhD_Thesis #ITP #Coq #HOL4
 + [[https://project-archive.inf.ed.ac.uk/msc/20193307/msc_proj.pdf][Exploring Euler’s foundations of differential calculus in Isabelle/HOL using nonstandard analysis]]. ~ J. Rockel. #MsC_Thesis #ITP #IsabelleHOL #Math
 + [[https://pdfs.semanticscholar.org/a1ce/e17fc0fbe24b2da553fd72b44cd62fbacf61.pdf][Learning functional programming]]. ~ S. Thompson. #FunctionalProgramming #Haskell
 + [[https://www.sciencenews.org/article/how-julia-robinson-helped-define-limits-mathematical-knowledge][How Julia Robinson helped define the limits of mathematical knowledge]]. ~ Evelyn Lamb (@evelynjlamb). #Math
-
-*** 02-Dic-19
 + [[https://arxiv.org/abs/1911.00385][A formal proof of PAC learnability for decision stumps]]. ~ J. Tassarotti, J.B. Tristan, K. Vajjha. #ITP #LeanProver
 + [[https://williamyaoh.com/posts/2019-11-30-how-does-haskell-make-life-easier.html][How does Haskell make your life easier?]] ~ William Yao (@williamyaoh). #Haskell #FunctionalProgramming
 + [[https://notxor.nueva-actitud.org/blog/2019/11/30/trabajo-con-ventanas-y-buffers/][Introducción de Emacs: Trabajo con ventanas y buffers]]. #Emacs
 + [[https://xenaproject.wordpress.com/what-maths-is-in-lean/][What maths is in Lean?]] ~ Kevin Buzzard (@XenaProject). #ITP #LeanProver #Math
 + [[https://scm.iis.sinica.edu.tw/home/2019/deriving-monadic-programs/][Deriving monadic programs]]. ~ Shin-Cheng Mu. #Haskell #FunctionalProgramming
-
-*** 03-Dic-19
 + [[https://ozanerdem.github.io/jekyll/update/2019/12/01/representation-in-csp.html][Formulating the Hamiltonian Path problem as a constraint satisfaction problem]]. ~ Ozan Erdem (@ozanerdem). #CSP
 + [[https://www.quora.com/What-are-the-advantages-and-disadvantages-of-using-Haskell-to-implement-a-domain-specific-language/answer/Tikhon-Jelvis?ch=2&srid=p9P3][What are the advantages and disadvantages of using Haskell to implement a domain specific language?]] ~ Tikhon Jelvis. #Haskell #FunctionalProgramming #DSL
 + [[https://medium.com/cantors-paradise/a-computability-proof-of-g%C3%B6dels-first-incompleteness-theorem-2d685899117c][A computability proof of Gödel’s first incompleteness theorem]]. ~ Jørgen Veisdal (@JorgenVeisdal). #Logic #Math
-
-*** 04-Dic-19
 + [[https://research.chalmers.se/publication/508494/file/508494_Fulltext.pdf][Verifying information flow control libraries]]. ~ M. Vassena. #PhD_Thesis #ITP #Agda
 + [[https://nbviewer.jupyter.org/github/CatTheoryByExample/book/blob/master/cattheory.pdf][Category theory by example]]. ~ I. Murashko, A. Radkov, M, Minshin. #CategoryTheory #Haskell #Scala #Cpp  
 + [[https://hal.archives-ouvertes.fr/hal-02385110/document][An implementation of polygraphs]]. ~ Maxime Lucas. #ITP #Coq
 + [[https://codeblock.fedorapeople.org/chapter.pdf][The lambda calculus: A historical and practical tour]]. ~ R.B. Elrod. #LambdaCalculus
 + [[https://francis.naukas.com/2019/12/03/se-logra-factorizar-el-semiprimo-rsa-240-de-795-bits/][Se logra factorizar el semiprimo RSA-240 de 795 bits]]. ~ Francisco R. Villatoro (@emulenews). #Matemáticas #Computación
 + [[https://arxiv.org/abs/1912.01412][Deep learning for symbolic mathematics]]. ~ Guillaume Lample (@GuillaumeLample), François Charton. #DeepLearning via @__josejuan__
-
-*** 05-Dic-19
 + [[http://www.imm.dtu.dk/~dibj/2019/45years/45years.pdf][45 years of formal methods: Challenges and trends]]. ~ D. Bjørner, K. Havelund. #FormalMethods
 + [[https://eccc.weizmann.ac.il/report/2019/106/ ][Semialgebraic proofs and efficient algorithm design]]. ~  Noah Fleming, Pravesh Kothari, Toniann Pitassi. #Logic
 + [[https://arxiv.org/abs/1912.01032][FourierSAT: A Fourier expansion-based algebraic framework for solving hybrid boolean constraints]]. ~ A. Kyrillidis, A. Shrivastava, M.Y. Vardi, Z. Zhang. #ATP #Logic #SAT_solving
 + [[https://arxiv.org/abs/1912.02150][A probabilistic approach to satisfiability of propositional logic formulae]]. ~ Reazul Hasan Russel. #Logic #ATP #SAT
 + [[https://youtu.be/NfdP6wwjsGk][Correctness proofs of distributed systems with Isabelle]]. ~ Martin Kleppmann. #ITP #IsabelleHOL 
 + [[https://mitadmissions.org/blogs/entry/mathematics-for-computer-science-top-10-proof-techniques-not-allowed/][Mathematics for Computer Science: "Top 10 proof techniques NOT allowed"]]. #Logic
-
-*** 06-Dic-19
 + [[http://www21.in.tum.de/~ballarin/publications/jar2019.pdf][Exploring the structure of an algebra text with locales]]. ~ Clemens Ballarin. #ITP #IsabelleHOL #Math
 + [[http://conal.net/papers/higher-order-ad/higher-order-ad.pdf][Higher-order, higher-order automatic differentiation]]. ~ Conal Elliott (@conal). #Haskell #FunctionalProgramming
 + [[https://github.com/jules-hedges/open-games-hs][Haskell implementation of open games]]. ~ Jules Hedges (@_julesh_). #Haskell #FunctionalProgramming
 + [[https://ryanglscott.github.io/2019/11/30/four-ways-to-partially-apply-constraint-tuples/][Four ways to partially apply constraint tuples]]. ~ Ryan Scott. #Haskell #FunctionalProgramming
 + [[http://gallium.inria.fr/~agueneau/phd/manuscript.pdf][Mechanized verification of the correctness and asymptotic complexity of programs]]. ~ Armaël Guéneau. #PhD_Thesis #ITP #Coq
 + [[https://www.irif.fr/_media/users/theo/memoirthesis.pdf][Challenges in the collaborative evolution of a proof language and its ecosystem]]. ~ Théo Zimmermann. #PhD_Thesis #ITP #Coq
-
-*** 07-Dic-19
 + [[https://markkarpov.com/post/haskell-vs-ocaml.html][Haskell vs OCaml]]. ~ Mark Karpov (@mrkkrp). #Haskell #OCaml #FunctionalProgramming
 + [[https://people.mpi-sws.org/][Non-reformist reform for Haskell modularity]]. ~ Scott Kilpatrick. #PhD_Thesis #Haskell #FunctionalProgramming
-
-*** 11-Dic-19
 + [[https://people.eecs.berkeley.edu/~rtd/PhD%20Rafael%20Tupynamb%C3%A1%20Dutra.pdf][Efficient sampling of SAT and SMT solutions for testing and verification]]. ~ Rafael Tupynambá Dutra. #PhD_Thesis #SAT #SMT
 + [[https://www.onikudaki.net/blog/wp-content/uploads/2019/12/HaskellArticles-1.pdf][A list of Haskell articles on good design, good testing]]. ~ Michael Oswald (@OswaldChocolate). #Haskell #FunctionalProgramming
 + [[https://leanprover-community.github.io/lean-web-editor/][An online JavaScript/WebAssembly version of Lean]]. #ITP #LeanProver 
@@ -2433,8 +2244,6 @@ contenido.
 + [[https://mmhaskell.com/blog/2019/12/9/data-types-in-rust-borrowing-from-both-worlds][Data types in Rust: Borrowing from both worlds]]. ~ James Bowen (@james_OWA). #Rust #Haskell
 + [[https://reanimate.readthedocs.io/en/latest/glue_tut/][Reanimate: a library for programmatically generating animations with a twist towards mathematics / vector drawings]]. #Haskell
 + [[https://chrisdone.com/posts/ghost-of-departed-proofs-conveniences/][Ghosts of departed proofs convenience]]. ~ Chris Done (@christopherdone). #Haskell
-
-*** 12-Dic-19
 + [[https://pdxscholar.library.pdx.edu/cgi/viewcontent.cgi?article=6344&context=open_access_etds][Correct-by-construction typechecking with scope graphs]]. ~ Katherine Imhoff Casamento. #MSc_Thesis #ITP #Agda
 + [[https://www.forbes.com/sites/robtoews/2019/11/17/to-understand-the-future-of-ai-study-its-past/][To understand the future of AI, study its past]]. ~ Rob Toews. #AI
 + [[https://arxiv.org/abs/1912.02636][Exploration of neural machine translation in autoformalization of mathematics in Mizar]]. ~ Q. Wang, C. Brown, C. Kaliszyk, J. Urban. #MachineLearning #ITP #Mizar
@@ -2443,13 +2252,9 @@ contenido.
 + [[https://arxiv.org/abs/1912.00237][Introduction to computational thinking: a new high school curriculum using CodeWorld]]. ~ F. Alegre, J. Underwoood, J. Moreno, M. Alegre. #CodeWorld #Haskel #FunctionalProgramming #Teaching 
 + [[https://martin.desharnais.me/public/documents/jfla2020-framework-CertComp.pdf][A generic framework for verified compilers using Isabelle/HOL's locales]]. ~ M. Desharnais, S. Brunthaler. #ITP #IsabelleHOL
 + [[http://web.stanford.edu/~vinayc/intrologic/html/full.html][Logic in secondary education]]. ~ Michael Genesereth, Vinay Chaudhri. #Logic #Teaching
-
-*** 13-Dic-19
 + [[https://arxiv.org/abs/1912.03028][A survey on theorem provers in formal methods]]. ~ M.S. Nawaz, M. Malik, Y. Li, M. Sun, M. Lali. #ITP #ATP
 + [[http://conal.net/papers/higher-order-ad/higher-order-ad.pdf][Higher-order, higher-order automatic differentiation]]. ~ Conal Elliott (@conal). #Haskell
 + [[http://www.ps.uni-saarland.de/courses/sem-ws19/lambda-intro.pdf][Introduction to lambda calculus]]. ~ G. Smolka. #LambdaCalculus 
-
-*** 14-Dic-19
 + [[http://www.ps.uni-saarland.de/~smolka/drafts/icl2019.pdf][Computational type theory and interactive theorem proving with Coq]]. ~ G. Smolka. #eBook #ITP #Coq
 + [[https://www.quantamagazine.org/mathematician-terence-tao-and-the-collatz-conjecture-20191211/][Mathematician proves huge result on ‘dangerous’ problem]]. ~ Kevin Hartnett. #Math
 + [[https://doisinkidney.com/posts/2019-12-14-stern-brocot.html][Lazy constructive numbers and the Stern-Brocot tree]]. ~ Donnacha Oisín Kidney (@oisdk). #Haskell #Agda #FunctionalProgramming
@@ -2457,80 +2262,52 @@ contenido.
 + [[http://lisp-univ-etc.blogspot.com/2019/12/programming-algorithms-dp.html][Programming algorithms: dynamic programming]]. ~ Vsevolod Dyomkin. #Programming #CommonLisp 
 + [[https://youtu.be/Q6PKdRDKcKA][Dependently typed Haskell in industry (experience report)]]. ~ David Thrane Christiansen. #Haskell #FunctionalProgramming
 + [[http://www.davidchristiansen.dk/pubs/dependent-haskell-experience-report.pdf][Dependently typed Haskell in industry (experience report)]]. ~ David Thrane Christiansen et als. #Haskell #FunctionalProgramming
-
-*** 15-Dic-19
 + [[http://monografias.ufrn.br:8080/jspui/bitstream/123456789/9912/1/Monografia__Joel_Felipe.pdf][Automatic extraction of Hilbert Calculi associated to fragments of classical logic]]. ~ Joel Felipe Ferreira Gomes. #BSc_Thesis #Haskell #Logic
 + [[https://observablehq.com/@bryangingechen/fibonacci-formalized-1-some-sums][Fibonacci formalized 1: some sums]]. ~ Bryan Gin-ge Chen (@blockspins). #ITP #LeanProver #Math
 + [[https://observablehq.com/@bryangingechen/fibonacci-formalized-2-bees-and-cars][Fibonacci formalized 2: bees and cars]]. ~ Bryan Gin-ge Chen (@blockspins). #ITP #LeanProver #Math
 + [[http://www.staff.science.uu.nl/~swier004/publications/2019-icfp-submission-a.pdf][A predicate transformer semantics for effects]]. ~ Wouter Swierstra, Tim Baanen. #Agda #FunctionalProgramming #ITP
 + [[https://tech.grammarly.com/blog/running-lisp-in-production][Running Lisp in production]]. ~ Vsevolod Dyomkin. #CommonLisp 
-
-*** 16-Dic-19
 + [[https://arxiv.org/abs/1912.06611][A formal proof of the irrationality of ζ(3)]]. ~ Assia Mahboubi, Thomas Sibut-Pinote. #ITP #Coq #Math
 + [[http://tlringer.github.io/pdf/analytics.pdf][REPLica: REPL instrumentation for Coq analysis]]. ~ Talia Ringer (@TaliaRinger) et als. #ITP #Coq
 + [[https://blog.sigplan.org/2019/12/16/runtime-support-for-multicore-haskell-a-retrospective/][Runtime support for multicore Haskell: a retrospective]]. ~ Simon Marlowe, Simon Peyton Jones, and Satnam Singh. #Haskell #FunctionalProgramming 
 + [[https://tech.fpcomplete.com/blog/casa-and-stack][Casa and Stack]]. ~ Chris Done (@christopherdone). #Haskell #FunctionalProgramming
 + [[https://github.com/alhassy/PrologCheatSheet][PrologCheatSheet: Basics of relational programming with Prolog]]. ~ Musa Al-hassy. #Prolog #LogicProgramming
 + [[https://serokell.io/blog/incomplete-and-utter-introduction-to-modal-logic][Incomplete and utter introduction to modal logic, Pt]]. 1. ~ Danya Rogozin. #Logic
-
-*** 17-Dic-19
 + [[https://fmfun.github.io/Papers-2019/Shilov-Muravev-Shilova.pdf][Fun with formal methods for better education]]. ~ N. Shilov, E. Muravev, S. Shilova. #FormalMethods #Math
 + [[https://oxij.org/thesis/PhD/PhD.xetex.pdf][On the expressive power of indexed applicative and monadic structures]]. ~ Jan Malakhovski. #PhD_Thesis #Haskell #FunctionalProgramming
 + [[https://dentondaily.com/donald-knuth-reflects-on-50-years-of-the-art-of-computer-programming/][Donald Knuth reflects on 50 years of ‘The Art of Computer Programming‘]]. #Programming
-
-*** 19-Dic-19
 + [[https://www.isa-afp.org/entries/Poincare_Bendixson.html][The Poincaré-Bendixson theorem in Isabelle/HOL]]. ~ Fabian Immler and Yong Kiam Tan. #ITP #IsabelleHOL #Math
 + [[https://arxiv.org/abs/1910.09336][The Lean mathematical library]]. ~ The mathlib Community. #ITP #LeanProver #Math
 + [[https://serokell.io/blog/top-haskell-open-source-projects-for-linux][Top 10 Haskell open-source projects for Linux users]]. ~ Jonn Mostovoy. #Haskell #FunctionalProgramming
 + [[https://github.com/rrgalvan/numerical_python_course][Course about numerical Python]]. ~ Rafa Rodríguez Galván (@cucharro). #Programming #Python #Math
 + [[https://www.the-tls.co.uk/articles/kurt-godel-incompleteness-theorems/][Kurt Gödel and the mechanization of mathematics]]. ~ Juliette Kennedy. #Math #Logic
 + [[https://arxiv.org/abs/1904.12763][Logic for exact real arithmetic]]. ~ H. Schwichtenberg, F. Wiesnet. #Logic #Math #Minlog #Haskell
-
-*** 20-Dic-19
 + [[https://www.isa-afp.org/entries/Isabelle_C.html][Isabelle/C: a framework for C code in C11 syntax deeply integrated into the Isabelle/PIDE development environment]]. ~ F. Tuong, B. Wolff. #ITP #Isabelle
 + [[https://byorgey.wordpress.com/2019/12/18/counting-inversions-via-rank-queries/][Counting inversions via rank queries]]. ~ Brent Yorgey. #Haskell #FunctionalProgramming
 + [[https://chrispenner.ca/posts/algebraic][Algebraic lenses]]. ~ Chris Penner (@chrislpenner). #Haskell #FunctionalProgramming
 + [[https://www.tweag.io/posts/2019-12-19-asterius-diagrams.html][Haskell art in your browser with Asterius]]. ~ Sylvain Henry, Shao Cheng. #Haskell #FunctionalProgramming
 + [[https://prezi.com/0wifreih-iwe/como-plantear-y-resolver-problemas-g-polya/][Presentación del método de Polya para la resolución de problemas]]. ~ Jimena Fernández García. #Heurística 
-
-*** 21-Dic-19
 + [[https://cs-syd.eu/posts/2019-12-14-pretty-relative-time][pretty-relative-time: a little library to describe dates and times in the future or in the past in a nice, human readable, familiar feeling way]]. ~ Tom Sydney Kerckhove. #Haskell #FunctionalProgramming
 + [[http://www.haskellforall.com/2019/12/prefer-to-use-fail-for-io-exceptions.html][Prefer to use fail for IO exceptions]]. ~ G. Gonzalez (@GabrielG439). #Haskell #FunctionalProgramming
-
-*** 22-Dic-19
 + [[https://asrjetsjournal.org/index.php/American_Scientific_Journal/article/view/5418][Automated reasoning and robotics]]. ~ Zainab Al Kashari, Fatma Al Taheri. #ATP
 + [[https://www.americanscientist.org/article/calculemus CompSci][Calculemus!]] ~ Brian Hayes (@bit_player). #Programming #Math
-
-*** 23-Dic-19
 + [[http://matryoshka.gforge.inria.fr/pubs/fun_rp_paper.pdf][A verified prover based on ordered resolution]]. ~ A. Schlichtkrull, J.C. Blanchette, D. Traytel. #ITP #IsabelleHOL
 + [[https://eprint.iacr.org/2019/926.pdf][Formal verification of a constant-time preserving C compiler]]. ~ G. Barthe et als. #ITP #Coq
 + [[http://www.philipzucker.com/programming-and-interactive-proving-with-z3py/][Programming and interactive proving with Z3Py]]. ~ Philip Zucker (@SandMouth). #ITP #Z3
 + [[http://www.cs.nott.ac.uk/~psxmah/liquidate.pdf][Liquidate your assets: reasoning about resource usage in Liquid Haskell]]. ~ M.A.T. Handley, N. Vazou, G. Hutton. #Haskell #FunctionalProgramming #LiquidHaskell 
 + [[http://degoes.net/articles/fp-glossary][A glossary of functional programming]]. ~ John A De Goes #FunctionalProgramming
-
-*** 24-Dic-19
 + [[https://arxiv.org/abs/1912.10642][Notes on Category Theory with examples from basic mathematics]]. ~ Paolo Perrone (@PaoloPerrone8). #CategoryTheory #Math
 + [[https://hackernoon.com/justice-in-a-world-without-time-tp1p33a2][Functional programming and justice in a world without time]]. ~ Anirudh Eka (@anirudh_eka). #FunctionalProgramming
 + [[http://www.math.jhu.edu/~eriehl/compose.pdf][A categorical view of computational effects]]. ~ Emily Riehl. #CategoryTheory #Math #Programming
-
-*** 25-Dic-19
 + [[https://www.researchgate.net/publication/334549483_FORMALISING_MATHEMATICS_-IN_PRAXIS_A_MATHEMATICIAN%27S_FIRST_EXPERIENCES_WITH_ISABELLEHOL_AND_THE_WHY_AND_HOW_OF_GETTING_STARTED][Formalising Mathematics in praxis: a mathematician's first experiences with Isabelle/HOL and the why and how of getting started]]. ~ Angeliki Koutsoukou-Argyraki (@AngelikiKoutso1). #ITP #IsabelleHOL #Math 
 + [[https://depositonce.tu-berlin.de/bitstream/11303/10372/4/schneider_sven.pdf][Deterministic pushdown automata as specifications for discrete event supervisory control in Isabelle]]. ~ Sven Schneider. #PhD_Thesis #ITP #IsabelleHOL
 + [[http://www.philipzucker.com/stupid-z3py-tricks-verifying-sorting-networks-off-of-wikipedia/][Stupid Z3Py tricks: verifying sorting networks off of Wikipedia]]. ~ Philip Zucker (@SandMouth). #Z3 #SMT
 + [[https://typista.org/categories-in-dotty/][Notes on Category Theory in Scala 3 (Dotty)]]. ~ Juan Pablo Romero (@1jpablo1). #CategoryTheory #Scala #FunctionalProgramming
-
-*** 26-Dic-19
 + [[http://poleiro.info/posts/2019-12-25-quotients-in-coq.html][Quotients in Coq]]. ~ Arthur Azevedo de Amorim. #ITP #Coq
 + [[http://poleiro.info/posts/2019-12-24-a-verification-challenge.html][A verification challenge]]. ~ Arthur Azevedo de Amorim. #ITP #Coq
 + [[http://blog.deinding.net/maths/cohomology.html][Cohomology for kids]]. ~ @RAnachro. #Math
-
-*** 27-Dic-19
-+ [[http://www.glc.us.es/~jalonso/exercitium/el-teorema-de-navidad-de-fermat/][Exercitium: Soluciones de "El teorema de Navidad de Fermat"]]. #Haskell #I1M2019 #ProgramaciónFuncional
-+ [[https://www.glc.us.es/~jalonso/exercitium/posiciones-de-conjuntos-finitos-de-naturales/][Exercitium: Enunciado de "Posiciones de conjuntos finitos de naturales"]]. #Haskell #I1M2019 #ProgramaciónFuncional
 + [[https://serokell.io/blog/haskell-highlights-2019][A few Haskell highlights of 2019]]. ~ Gints Dreimanis. #Haskell #FunctionalProgramming
 + [[https://kunigami.blog/2019/12/26/python-type-hints/][Python type hints]]. ~ Guilherme Kunigami (@kunigami). #Python #Programming
-
-*** 29-Dic-19
 + [[https://personal.cis.strath.ac.uk/fredrik.nordvall-forsberg/papers/ord_cpp2020.pdf][Three equivalent ordinal notation systems in cubical Agda]]. ~ F.N. Forsberg, C. Xu, N. Ghani.  #ITP #Agda
 + [[https://eelcovisser.org/publications/2020/RouvoetPKV20-preprint.pdf][Intrinsically-typed definitional interpreters for linear, session-typed languages]]. ~ A. Rouvoet et als. #ITP #Agda
 + [[http://www.philipzucker.com/more-stupid-z3py-tricks-simple-proofs/][More stupid Z3Py tricks: Simple proofs]]. ~ Philip Zucker (@SandMouth). #Z3 #SMT
@@ -2539,19 +2316,13 @@ contenido.
 + [[http://link.springer.com/content/pdf/bbm%253A978-1-4614-6636-9%252F1.pdf][Famous conjectures in mathematics]]. ~ Béla Bajnok. #Math
 + [[https://arxiv.org/abs/math/0010143][Thirty-six unsolved problems in number theory]]. ~ F. Smarandache. #Math
 + [[http://logic.amu.edu.pl/images/c/c6/Aalcsxxjp.pdf][Famous mistakes in mathematics]]. ~ J. Pogonowski. #Math
-
-*** 30-Dic-19
 + [[https://arxiv.org/abs/1912.09741][Formalizing determinacy of concurrent revisions]]. ~ Roy Overbeek. #ITP #IsabelleHOL
 + [[https://drops.dagstuhl.de/opus/volltexte/2020/11654/pdf/LIPIcs-CSL-2020-11.pdf][A complete axiomatisation of a fragment of language algebra]]. ~ Paul Brunet. #ITP #Coq #Math
 + [[http://pleiad.dcc.uchile.cl/papers/2020/diazAl-cpp2020.pdf][A mechanized formalization of GraphQL]]. ~ T. Díaz, F. Olmedo, É. Tanter. #ITP #Coq
 + [[http://www.philipzucker.com/stupid-z3py-tricks-strikes-back-verifying-a-keras-neural-network/][Stupid Z3Py tricks strikes back: Verifying a Keras neural network]]. ~ Philip Zucker (@SandMouth). #Z3 #SMT #Keras #NeuralNetworks
 + [[https://tech.fpcomplete.com/blog/teaching-haskell-with-duet][Teaching Haskell with Duet]]. ~ Chris Done (@christopherdone). #Haskell #FunctionalProgramming #Duet
-
-*** 31-Dic-19
 + [[http://www.cs.cmu.edu/~yongkiat/files/poincarebendixson.pdf][The Poincaré-Bendixson theorem in Isabelle/HOL]]. ~ Fabian Immler, Yong Kiam Tan. #ITP #IsabelleHOL #Math
 + [[https://arxiv.org/abs/1912.10285][Verifying x86 instruction implementations]]. ~ S. Goel et als. #ITP #ACL2
-
-
 
 * Lecturas del año 2018
 
