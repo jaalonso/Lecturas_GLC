@@ -100,10 +100,6 @@ contenido.
 + [[https://mmhaskell.com/blog/2020/1/6/organizing-our-package][Organizing our package!]] ~ James Bowen (@james_OWA). #Haskell #Cabal #FunctionalProgramming
 
 *** 07-Ene-20
-+ [[https://www.glc.us.es/~jalonso/vestigium/resumen-de-lecturas-compartidas-durante-septiembre-de-2019/][Resumen de lecturas compartidas durante septiembre de 2019]]. #FunctionalProgramming #Haskell #ITP #IsabelleHOL #Coq #Agda
-+ [[https://www.glc.us.es/~jalonso/vestigium/resumen-de-lecturas-compartidas-durante-octubre-de-2019/][Resumen de lecturas compartidas durante octubre de 2019]]. #FunctionalProgramming #Haskell #ITP #IsabelleHOL #Coq #Agda
-+ [[https://www.glc.us.es/~jalonso/vestigium/resumen-de-lecturas-compartidas-durante-noviembre-de-2019/][Resumen de lecturas compartidas durante noviembre de 2019]]. #FunctionalProgramming #Haskell #ITP #IsabelleHOL #Coq #Agda
-+ [[https://www.glc.us.es/~jalonso/vestigium/resumen-de-lecturas-compartidas-durante-diciembre-de-2019/][Resumen de lecturas compartidas durante diciembre de 2019]]. #FunctionalProgramming #Haskell #ITP #IsabelleHOL #Coq #Agda
 + [[https://www.isa-afp.org/entries/Hybrid_Logic.html][Formalizing a Seligman-style tableau system for hybrid logic in Isabelle/HOL]]. ~ Asta Halkjær. #ITP #IsabelleHOL #Logic
 + [[http://www.ams.org/journals/notices/202001/rnoti-p77.pdf][Different problems, common threads: Computing the difficulty of mathematical problems]]. ~ Karen Lange.  #Math #CompSci
 + [[https://www.johndcook.com/blog/2020/01/06/smooth-numbers/][Estimating the proportion of smooth numbers]]. ~ John D. Cook (@JohnDCook). #Math #Programming #Python
