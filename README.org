@@ -128,6 +128,13 @@ contenido.
 + [[https://github.com/bolt12/laop][Linear algebra of programming - Algebraic matrices in Haskell]]. ~ Armando Santos (@_bolt12). #FunctionalProgramming #Math 
 + [[https://cswithbaddrawings.wordpress.com/2020/01/10/gain-confidence-with-haskell/][Gain confidence with Haskell!]] ~ Brandon Chinn. #Haskell #FunctionalProgramming
 
+*** 12-Ene-20
++ [[http://lisp-univ-etc.blogspot.com/2020/01/programming-algorithms-approximation.html][Programming algorithms: approximation]]. ~ Vsevolod Dyomkin. #CommonLisp #Algorithms 
++ [[https://williamyaoh.com/posts/2020-01-11-road-to-proficient.html][The road to proficient Haskell]]. ~ William Yao (@williamyaoh). #Haskell #FunctionalProgramming
++ [[https://www.logicmatters.net/wp-content/uploads/2019/12/TeachYourselfLogic2020.pdf][Teach yourself Logic 2020: A study guide]]. ~ Peter Smith. #Logic
++ [[https://github.com/salmans/rusty-razor][Rusty Razor is a tool for constructing finite models for first-order theories]]. ~ Salman Saghafi. #Logic
++ [[https://digitalcommons.wpi.edu/cgi/viewcontent.cgi?article=1457&context=etd-dissertations][A framework for exploring finite models]]. ~ Salman Saghafi. #PhD_Thesis #Logic #Haskell
+
 * Lecturas del año 2019
 ** Enero 2019
 
