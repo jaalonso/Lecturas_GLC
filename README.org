@@ -135,6 +135,27 @@ contenido.
 + [[https://github.com/salmans/rusty-razor][Rusty Razor is a tool for constructing finite models for first-order theories]]. ~ Salman Saghafi. #Logic
 + [[https://digitalcommons.wpi.edu/cgi/viewcontent.cgi?article=1457&context=etd-dissertations][A framework for exploring finite models]]. ~ Salman Saghafi. #PhD_Thesis #Logic #Haskell
 
+*** 13-Ene-20
++ [[http://www.informatics-europe.org/images/ECSS/ECSS2009/slides/Gottlob.pdf][Computer Science as the continuation of Logic by other means]]. ~ Georg Gottlob. #Logic #CompSci #WorldLogicDay
++ [[https://arxiv.org/abs/1802.03292][Mathematical Logic in Computer Science]]. ~ Assaf Kfoury. #Logic #CompSci #WorldLogicDay
++ [[https://www.cs.upc.edu/~roberto/EffectivenessOfLogic.pdf][On the unusual effectiveness of Logic in Computer Science]]. ~ J.Y. Halpern et als. #Logic #CompSci #WorldLogicDay
++ [[http://www.ru.is/faculty/luca/SLIDES/logic-and-cs.pdf][Computer Science and Logic (a match made in heaven)]]. ~ Luca Aceto. #Logic #CompSci #WorldLogicDay
++ [[http://www.cs.cornell.edu/courses/cs4860/2019fa/lectures/L2-A-Story-of-Logic.pdf][The story of Logic]]. ~ Robert L. Constable. #Logic #CompSci #WorldLogicDay
++ [[http://www.cl.cam.ac.uk/~jrh13/papers/joerg.pdf][History of interactive theorem ]].proving. ~ J. Harrison, J. Urban, F. Wiedijk. #ITP #Logic #CompSci #WorldLogicDay
++ [[https://www.cadeinc.org/Data/HerbrandAwardSlidesConstable.pdf][Automated reasoning: From bold dreams to Computer Science methodology]]. ~ Robert L. Constable. #ATP #CompSci #WorldLogicDay
++ [[https://www.cs.ru.nl/~herman/ictopen.pdf][Can the computer really help us to prove theorems? ~ Herman Geuvers]]. #ITP #Logic #CompSci #WorldLogicDay
+
+*** 14-Ene-20
++ [[https://www.taut-logic.com/index.html][TAUT: A website that contains randomly-generated, self-correcting logic excercises]]. ~ Ariel Roffé. #Logic
++ [[https://www.conicet.gov.ar/taut-el-software-desarrollado-por-un-filosofo-del-conicet-para-ensenar-logica/][TAUT: el software desarrollado por un filósofo del CONICET para enseñar Lógica]]. #Lógica #WorldLogicDay
++ [[http://dailynous.com/2018/11/20/randomly-generated-self-correcting-logic-exercises-site/][Randomly generated and self-correcting logic exercises site]]. ~ Justin Weinberg. #Logic #WorldLogicDay
++ [[https://blog.jle.im/entry/foldl-adjunction.html][Adjunctions in the wild: foldl]]. ~ Justin Le (@mstk). #Haskell #FunctionalProgramming
++ [[https://arxiv.org/abs/1910.12863][Computer-supported exploration of a categorical axiomatization of modeloids]]. ~ L. Tiemens, D.S. Scott, C. Benzmüller, M. Benda. #ITP #IsabelleHOL #Math
++ [[https://arxiv.org/abs/1910.08955][Computer-supported analysis of positive properties, ultrafilters and modal collapse in variants of Gödel's ontological argument]]. ~ C. Benzmüller, D. Fuenmayor. #ITP #IsabelleHOL #Logic
++ [[https://arxiv.org/abs/2001.04457][A verified packrat parser interpreter for parsing expression grammars]]. ~ C. Blaudeau, N. Shankar. #ITP #PVS
++ [[https://mmhaskell.com/blog/2020/1/13/using-cabal-on-its-own][Using Cabal on its own]]. ~ James Bowen (@james_OWA). #Haskell #Cabal
++ [[https://vrom911.github.io/blog/common-stanzas][Common stanzas]]. ~ Veronika Romashkina (@vronnie911). #Haskell #Cabal
+
 * Lecturas del año 2019
 ** Enero 2019
 
