@@ -7,71 +7,16 @@ ordenada por la fecha de su publicación en la lista. Al final de cada
 artículo se encuentra etiquetas relativas a los sistemas que usa o a su
 contenido.
 
-* Contenido :TOC:
-- [[#lecturas-del-año-2020][Lecturas del año 2020]]
-  - [[#enero-de-2020][Enero de 2020]]
-- [[#lecturas-del-año-2019][Lecturas del año 2019]]
-  - [[#enero-2019][Enero 2019]]
-  - [[#febrero-2019][Febrero 2019]]
-  - [[#marzo-2019][Marzo 2019]]
-  - [[#abril-2019][Abril 2019]]
-  - [[#mayo-2019][Mayo 2019]]
-  - [[#junio-2019][Junio 2019]]
-  - [[#julio-2019][Julio 2019]]
-  - [[#agosto-2019][Agosto 2019]]
-  - [[#septiembre-de-2019][Septiembre de 2019]]
-  - [[#octubre-de-2019][Octubre de 2019]]
-  - [[#noviembre-de-2019][Noviembre de 2019]]
-  - [[#diciembre-de-2019][Diciembre de 2019]]
-- [[#lecturas-del-año-2018][Lecturas del año 2018]]
-  - [[#enero-2018][Enero 2018]]
-  - [[#febrero-2018][Febrero 2018]]
-  - [[#marzo-2018][Marzo 2018]]
-  - [[#abril-2018][Abril 2018]]
-  - [[#mayo-2018][Mayo 2018]]
-  - [[#junio-2018][Junio 2018]]
-  - [[#julio-2018][Julio 2018]]
-  - [[#agosto-2018][Agosto 2018]]
-  - [[#septiembre-2018][Septiembre 2018]]
-  - [[#octubre-2018][Octubre 2018]]
-  - [[#noviembre-2018][Noviembre 2018]]
-  - [[#diciembre-2018][Diciembre 2018]]
-- [[#lecturas-del-año-2017][Lecturas del año 2017]]
-  - [[#enero-2017][Enero 2017]]
-  - [[#febrero-2017][Febrero 2017]]
-  - [[#marzo-2017][Marzo 2017]]
-  - [[#abril-2017][Abril 2017]]
-  - [[#mayo-2017][Mayo 2017]]
-  - [[#julio-2017][Julio 2017]]
-  - [[#agosto-2017][Agosto 2017]]
-  - [[#septiembre-2017][Septiembre 2017]]
-  - [[#octubre-2017][Octubre 2017]]
-  - [[#noviembre-2017][Noviembre 2017]]
-- [[#lecturas-del-año-2016][Lecturas del año 2016]]
-  - [[#enero-2016][Enero 2016]]
-  - [[#febrero-2016][Febrero 2016]]
-  - [[#marzo-2016][Marzo 2016]]
-  - [[#abril-2016][Abril 2016]]
-  - [[#mayo-2016][Mayo 2016]]
-  - [[#junio-2016][Junio 2016]]
-  - [[#julio-2016][Julio 2016]]
-  - [[#agosto-2016][Agosto 2016]]
-  - [[#septiembre-2016][Septiembre 2016]]
-  - [[#octubre-2016][Octubre 2016]]
-  - [[#noviembre-2016][Noviembre 2016]]
-  - [[#diciembre-2016][Diciembre 2016]]
-- [[#lecturas-anteriores-al-2016][Lecturas anteriores al 2016]]
-  - [[#lecturas-del-año-2015][Lecturas del año 2015]]
-  - [[#lecturas-del-año-2014][Lecturas del año 2014]]
-  - [[#lecturas-del-año-2013][Lecturas del año 2013.]]
-  - [[#lecturas-del-año-2012][Lecturas del año 2012.]]
-  - [[#lecturas-del-año-2011][Lecturas del año 2011.]]
-  - [[#lecturas-del-año-2010][Lecturas del año 2010.]]
-
 * Lecturas del año 2020
 
 ** Enero de 2020
 
+*** 15-Ene-20
++ [[https://www.isa-afp.org/entries/Closest_Pair_Points.html][Closest pair of points algorithms]]. ~ M. Rau, T. Nipkow. #ITP #IsabelleHOL
++ [[https://arxiv.org/abs/2001.02981][Automatic generation and verification of test-stable floating-point code]]. ~ L. Titolo, M. Moscato, C.A. Muñoz. #ITP #PVS
++ [[https://kwarc.info/people/mkohlhase/submit/tetrapod-survey.pdf][The space of mathematical software systems]]. ~ J. Carette, W.M. Farmer, Y. Sharoda. #ATP #ITP #Math #CompSci
++ [[https://www.cs.rit.edu/~mtf/student-resources/20191_huang_mscourse.pdf][A mechanized formalization of the WebAssembly specification in Coq]]. ~ X. Huang. #ITP #Coq
++ [[http://brendanfong.com/programmingcats_files/C4P-chapter1.pdf][Is Haskell a category?]] ~ B. Fong, B. Milewski, D. Spivak. #Haskell #FunctionalProgramming #CategoryTheory 
 *** 01-Ene-20
 + [[http://www.eds.yildiz.edu.tr/AjaxTool/GetArticleByPublishedArticleId?PublishedArticleId=3936][Introduction to HOL4 theorem prover]]. ~ K. Aksoy, S. Tahar, Y. Zeren. #ITP #HOL4
 + [[https://t.co/8IZttMkU33][Design and verification of parity checking circuit using HOL4 theorem proving]]. ~ E. Deni̇z, K. Aksoy, S. Tahar, Y. Zeren. #ITP #HOL4
@@ -156,12 +101,68 @@ contenido.
 + [[https://mmhaskell.com/blog/2020/1/13/using-cabal-on-its-own][Using Cabal on its own]]. ~ James Bowen (@james_OWA). #Haskell #Cabal
 + [[https://vrom911.github.io/blog/common-stanzas][Common stanzas]]. ~ Veronika Romashkina (@vronnie911). #Haskell #Cabal
 
-*** 15-Ene-20
-+ [[https://www.isa-afp.org/entries/Closest_Pair_Points.html][Closest pair of points algorithms]]. ~ M. Rau, T. Nipkow. #ITP #IsabelleHOL
-+ [[https://arxiv.org/abs/2001.02981][Automatic generation and verification of test-stable floating-point code]]. ~ L. Titolo, M. Moscato, C.A. Muñoz. #ITP #PVS
-+ [[https://kwarc.info/people/mkohlhase/submit/tetrapod-survey.pdf][The space of mathematical software systems]]. ~ J. Carette, W.M. Farmer, Y. Sharoda. #ATP #ITP #Math #CompSci
-+ [[https://www.cs.rit.edu/~mtf/student-resources/20191_huang_mscourse.pdf][A mechanized formalization of the WebAssembly specification in Coq]]. ~ X. Huang. #ITP #Coq
-+ [[http://brendanfong.com/programmingcats_files/C4P-chapter1.pdf][Is Haskell a category?]] ~ B. Fong, B. Milewski, D. Spivak. #Haskell #FunctionalProgramming #CategoryTheory 
+
+* Contenido :TOC:
+- [[#lecturas-del-año-2020][Lecturas del año 2020]]
+  - [[#enero-de-2020][Enero de 2020]]
+- [[#lecturas-del-año-2019][Lecturas del año 2019]]
+  - [[#enero-2019][Enero 2019]]
+  - [[#febrero-2019][Febrero 2019]]
+  - [[#marzo-2019][Marzo 2019]]
+  - [[#abril-2019][Abril 2019]]
+  - [[#mayo-2019][Mayo 2019]]
+  - [[#junio-2019][Junio 2019]]
+  - [[#julio-2019][Julio 2019]]
+  - [[#agosto-2019][Agosto 2019]]
+  - [[#septiembre-de-2019][Septiembre de 2019]]
+  - [[#octubre-de-2019][Octubre de 2019]]
+  - [[#noviembre-de-2019][Noviembre de 2019]]
+  - [[#diciembre-de-2019][Diciembre de 2019]]
+- [[#lecturas-del-año-2018][Lecturas del año 2018]]
+  - [[#enero-2018][Enero 2018]]
+  - [[#febrero-2018][Febrero 2018]]
+  - [[#marzo-2018][Marzo 2018]]
+  - [[#abril-2018][Abril 2018]]
+  - [[#mayo-2018][Mayo 2018]]
+  - [[#junio-2018][Junio 2018]]
+  - [[#julio-2018][Julio 2018]]
+  - [[#agosto-2018][Agosto 2018]]
+  - [[#septiembre-2018][Septiembre 2018]]
+  - [[#octubre-2018][Octubre 2018]]
+  - [[#noviembre-2018][Noviembre 2018]]
+  - [[#diciembre-2018][Diciembre 2018]]
+- [[#lecturas-del-año-2017][Lecturas del año 2017]]
+  - [[#enero-2017][Enero 2017]]
+  - [[#febrero-2017][Febrero 2017]]
+  - [[#marzo-2017][Marzo 2017]]
+  - [[#abril-2017][Abril 2017]]
+  - [[#mayo-2017][Mayo 2017]]
+  - [[#julio-2017][Julio 2017]]
+  - [[#agosto-2017][Agosto 2017]]
+  - [[#septiembre-2017][Septiembre 2017]]
+  - [[#octubre-2017][Octubre 2017]]
+  - [[#noviembre-2017][Noviembre 2017]]
+- [[#lecturas-del-año-2016][Lecturas del año 2016]]
+  - [[#enero-2016][Enero 2016]]
+  - [[#febrero-2016][Febrero 2016]]
+  - [[#marzo-2016][Marzo 2016]]
+  - [[#abril-2016][Abril 2016]]
+  - [[#mayo-2016][Mayo 2016]]
+  - [[#junio-2016][Junio 2016]]
+  - [[#julio-2016][Julio 2016]]
+  - [[#agosto-2016][Agosto 2016]]
+  - [[#septiembre-2016][Septiembre 2016]]
+  - [[#octubre-2016][Octubre 2016]]
+  - [[#noviembre-2016][Noviembre 2016]]
+  - [[#diciembre-2016][Diciembre 2016]]
+- [[#lecturas-anteriores-al-2016][Lecturas anteriores al 2016]]
+  - [[#lecturas-del-año-2015][Lecturas del año 2015]]
+  - [[#lecturas-del-año-2014][Lecturas del año 2014]]
+  - [[#lecturas-del-año-2013][Lecturas del año 2013.]]
+  - [[#lecturas-del-año-2012][Lecturas del año 2012.]]
+  - [[#lecturas-del-año-2011][Lecturas del año 2011.]]
+  - [[#lecturas-del-año-2010][Lecturas del año 2010.]]
+
 * Lecturas del año 2019
 ** Enero 2019
 
