@@ -156,6 +156,12 @@ contenido.
 + [[https://mmhaskell.com/blog/2020/1/13/using-cabal-on-its-own][Using Cabal on its own]]. ~ James Bowen (@james_OWA). #Haskell #Cabal
 + [[https://vrom911.github.io/blog/common-stanzas][Common stanzas]]. ~ Veronika Romashkina (@vronnie911). #Haskell #Cabal
 
+*** 15-Ene-20
++ [[https://www.isa-afp.org/entries/Closest_Pair_Points.html][Closest pair of points algorithms]]. ~ M. Rau, T. Nipkow. #ITP #IsabelleHOL
++ [[https://arxiv.org/abs/2001.02981][Automatic generation and verification of test-stable floating-point code]]. ~ L. Titolo, M. Moscato, C.A. Muñoz. #ITP #PVS
++ [[https://kwarc.info/people/mkohlhase/submit/tetrapod-survey.pdf][The space of mathematical software systems]]. ~ J. Carette, W.M. Farmer, Y. Sharoda. #ATP #ITP #Math #CompSci
++ [[https://www.cs.rit.edu/~mtf/student-resources/20191_huang_mscourse.pdf][A mechanized formalization of the WebAssembly specification in Coq]]. ~ X. Huang. #ITP #Coq
++ [[http://brendanfong.com/programmingcats_files/C4P-chapter1.pdf][Is Haskell a category?]] ~ B. Fong, B. Milewski, D. Spivak. #Haskell #FunctionalProgramming #CategoryTheory 
 * Lecturas del año 2019
 ** Enero 2019
 
