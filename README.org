@@ -12,7 +12,6 @@ contenido.
 ** Enero de 2020
 
 *** 16-Ene-20
-+ [[https://github.com/jaalonso/Lecturas_GLC#15-ene-20][Lecturas de programación funcional y demostración asistida por ordenador (15-ene-20)]]. #FunctionalProgramming #ITP
 + [[https://medium.com/@cdsmithus/your-students-could-have-invented-the-pythagorean-theorem-438db433aec5][Your students could have invented ... the Pythagorean theorem]]. ~ Chris Smith (@cdsmithus). #Math #Teaching
 + [[http://brendanfong.com/programmingcats_files/cats4progs-DRAFT.pdf][Programming with categories (Draft)]]. ~ B. Fong, B. Milewski, D.I. Spivak.  #FunctionalProgramming #Haskell #CategoryTheory
 + [[https://www.isa-afp.org/entries/Approximation_Algorithms.html][Verified approximation algorithms in Isabelle/HOL]]. ~ R. Eßmann, T. Nipkow, S. Robillard. #ITP #IsabelleHOL 
