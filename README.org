@@ -11,6 +11,15 @@ contenido.
 
 ** Enero de 2020
 
+*** 16-Ene-20
++ [[https://github.com/jaalonso/Lecturas_GLC#15-ene-20][Lecturas de programación funcional y demostración asistida por ordenador (15-ene-20)]]. #FunctionalProgramming #ITP
++ [[https://medium.com/@cdsmithus/your-students-could-have-invented-the-pythagorean-theorem-438db433aec5][Your students could have invented ... the Pythagorean theorem]]. ~ Chris Smith (@cdsmithus). #Math #Teaching
++ [[http://brendanfong.com/programmingcats_files/cats4progs-DRAFT.pdf][Programming with categories (Draft)]]. ~ B. Fong, B. Milewski, D.I. Spivak.  #FunctionalProgramming #Haskell #CategoryTheory
++ [[https://www.isa-afp.org/entries/Approximation_Algorithms.html][Verified approximation algorithms in Isabelle/HOL]]. ~ R. Eßmann, T. Nipkow, S. Robillard. #ITP #IsabelleHOL 
++ [[https://www.bbvaopenmind.com/tecnologia/innovacion/la-magia-del-orden-de-los-datos][La magia del orden (de los datos)]]. ~ Alejandro Serrano (@trupill). #Algoritmos
++ [[https://www.tweag.io/posts/2020-01-16-data-vs-control.html][A tale of two functors (or: how I learned to stop worrying and love Data and Control)]]. ~ Arnaud Spiwack. #Haskell #FunctionalProgramming
++ [[https://www.youtube.com/playlist?list=PLlF-CfQhukNkWwZt45vkNfWfuO-tBBqPN][Talks from the formal methods in Mathematics / Lean together 2020 workshop]]. #ITP #LeanProver #IsabelleHOL #Coq
+
 *** 15-Ene-20
 + [[https://www.isa-afp.org/entries/Closest_Pair_Points.html][Closest pair of points algorithms]]. ~ M. Rau, T. Nipkow. #ITP #IsabelleHOL
 + [[https://arxiv.org/abs/2001.02981][Automatic generation and verification of test-stable floating-point code]]. ~ L. Titolo, M. Moscato, C.A. Muñoz. #ITP #PVS
