@@ -11,6 +11,19 @@ contenido.
 
 ** Enero de 2020
 
+*** 17-Ene-20
++ [[http://www.andrew.cmu.edu/user/avigad/meetings/fomm2020/slides/fomm_cohen.pdf][Generating mathematical structure hierarchies using Coq-ELPI]]. ~ C. Cohen, K. Sakaguchi, E. Tassi. #ITP #Coq #Math
++ [[https://github.com/math-comp/hierarchy-builder][High level commands to declare a hierarchy based on packed classes]]. ~ C. Cohen, K. Sakaguchi, E. Tassi. #ITP #Coq #Math
++ [[http://www.andrew.cmu.edu/user/avigad/meetings/fomm2020/slides/fomm_gouezel.pdf][On a mathematician's attempts to formalize his own research in proof assistants]]. ~ Sébastien Gouëzel. #ITP #IsabelleHOL #LeanProver #Math
++ [[http://www.andrew.cmu.edu/user/avigad/meetings/fomm2020/slides/fomm_eberl.pdf][Automating asymptotics in a theorem prover]]. ~ Manuel Eberl. #ITP #IsabelleHOL #Math
++ [[http://www.andrew.cmu.edu/user/avigad/meetings/fomm2020/slides/fomm_strickland.pdf][Using Lean for new research]]. ~ Neil Strickland. #ITP #LeanProver #Math
++ [[https://arxiv.org/abs/1907.07801][Iterated chromatic localisation]]. ~ Neil Strickland, Nicola Bellumat. #ITP #LeanProver #Math
++ [[https://github.com/NeilStrickland/itloc][Lean code formalising many of the proofs from the paper "Iterated chromatic localisation"]]. ~ Neil Strickland, Nicola Bellumat. #ITP #LeanProver #Math
++ [[https://github.com/NeilStrickland/lean_primes][Proof in Lean that there are infinitely many primes]]. ~ Neil Strickland. #ITP #LeanProver #Math
++ [[http://www.andrew.cmu.edu/user/avigad/meetings/fomm2020/slides/fomm_li.pdf][Reasoning with non-linear formulas in Isabelle/HOL]]. ~ Wenda Li. #ITP #IsabelleHOL #Math
++ [[http://www.andrew.cmu.edu/user/avigad/meetings/fomm2020/slides/fomm_immler.pdf][ODEs and the Poincaré-Bendixson theorem in Isabelle/HOL]]. ~ Fabian Immler, Yong Kiam Tan. #ITP #IsabelleHOL #Math
++ [[https://www.hpcwire.com/2020/01/14/julia-programmings-dramatic-rise-in-hpc-and-elsewhere/][Julia programming’s dramatic rise in HPC and elsewhere]]. ~ John Russell. #JuliaLang
++ [[https://www.isa-afp.org/entries/Complex_Geometry.html][Complex geometry in Isabelle/HOL]]. ~ F. Marić, D. Simić. #ITP #IsabelleHOL #Math
 *** 16-Ene-20
 + [[https://medium.com/@cdsmithus/your-students-could-have-invented-the-pythagorean-theorem-438db433aec5][Your students could have invented ... the Pythagorean theorem]]. ~ Chris Smith (@cdsmithus). #Math #Teaching
 + [[http://brendanfong.com/programmingcats_files/cats4progs-DRAFT.pdf][Programming with categories (Draft)]]. ~ B. Fong, B. Milewski, D.I. Spivak.  #FunctionalProgramming #Haskell #CategoryTheory
