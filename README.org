@@ -7,7 +7,7 @@ ordenada por la fecha de su publicación en la lista. Al final de cada
 artículo se encuentra etiquetas relativas a los sistemas que usa o a su
 contenido.
 
-* Contenido :TOC:
+* [[Contenido][TOC]]                                                                   :TOC:
 - [[#lecturas-del-año-2020][Lecturas del año 2020]]
   - [[#enero-de-2020][Enero de 2020]]
 - [[#lecturas-del-año-2019][Lecturas del año 2019]]
