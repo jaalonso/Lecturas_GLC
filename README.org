@@ -1,7 +1,6 @@
 #+TITLE: Lecturas del Grupo de Lógica Computacional
 #+OPTIONS: ^:nil
 
-#+NAME: Inicio
 Este repositorio es una recopilación de lecturas compartidas en la lista
 de correo del [[http://www.glc.us.es][grupo de lógica computacional]]. La recopilación está
 ordenada por la fecha de su publicación en la lista. Al final de cada
@@ -73,6 +72,11 @@ contenido.
 
 ** Enero de 2020
 
+*** 18-Ene-20
++ [[https://www.isa-afp.org/entries/Poincare_Disc.html][Poincaré disc model in Isabelle/HOL]]. ~ D. Simić, F. Marić, P. Boutry. #ITP #IsabelleHOL #Math
++ [[https://alexnixon.github.io/2020/01/14/static-types-are-dangerous.html][Static types are dangerously interesting]]. ~ Alex Nixon (@alexnixon_uk). #Haskell #FunctionalProgramming
++ [[https://deontologician.com/wiki/lenses/][Digging into Lenses]]. ~ Josh Kuhn (@deontologician). #Haskell #FunctionalProgramming
++ [[http://www.andrew.cmu.edu/user/avigad/meetings/fomm2020/slides/fomm_massot.pdf][Formalizing a sophisticated definition]]. ~ Patrick Massot, Kevin Buzzard, Johan Commelin. #ITP #LeanProver #Math
 *** 17-Ene-20
 + [[http://www.andrew.cmu.edu/user/avigad/meetings/fomm2020/slides/fomm_cohen.pdf][Generating mathematical structure hierarchies using Coq-ELPI]]. ~ C. Cohen, K. Sakaguchi, E. Tassi. #ITP #Coq #Math
 + [[https://github.com/math-comp/hierarchy-builder][High level commands to declare a hierarchy based on packed classes]]. ~ C. Cohen, K. Sakaguchi, E. Tassi. #ITP #Coq #Math
