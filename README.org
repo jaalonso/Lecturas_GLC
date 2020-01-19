@@ -11,11 +11,6 @@ contenido.
 - [[#lecturas-del-año-2020][Lecturas del año 2020]]
   - [[#enero-de-2020][Enero de 2020]]
 - [[#lecturas-anteriores][Lecturas anteriores]]
-  - [[#lecturas-del-año-2019][Lecturas del año 2019]]
-  - [[#lecturas-del-año-2018][Lecturas del año 2018]]
-  - [[#lecturas-del-año-2017][Lecturas del año 2017]]
-  - [[#lecturas-del-año-2016][Lecturas del año 2016]]
-  - [[#lecturas-del-año-2010-al-2015][Lecturas del año 2010 al 2015]]
 
 * Lecturas del año 2020
 
@@ -138,8 +133,8 @@ contenido.
 
 
 * Lecturas anteriores
-** [[./Lecturas del año 2019.org][Lecturas del año 2019]]
-** Lecturas del año 2018
-** Lecturas del año 2017
-** Lecturas del año 2016
-** Lecturas del año 2010 al 2015
++ [[./Lecturas del año 2019.org][Lecturas del año 2019]]
++ [[./Lecturas del año 2018.org][Lecturas del año 2018]]
++ [[./Lecturas del año 2017.org][Lecturas del año 2017]]
++ [[./Lecturas del año 2016.org][Lecturas del año 2016]]
++ [[./Lecturas del año 2010 al 2015.org][Lecturas del año 2010 al 2015]]
