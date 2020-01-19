@@ -1,0 +1,30 @@
+#+TITLE: Lecturas del Grupo de Lógica Computacional desde el año 2010 al 2015
+#+OPTIONS: ^:nil
+
+Este repositorio es una recopilación de lecturas compartidas en la lista de
+correo del [[http://www.glc.us.es][grupo de lógica computacional]] desde el año 2010 al 2015. La recopilación
+está ordenada por la fecha de su publicación en la lista. Al final de cada
+artículo se encuentra etiquetas relativas a los sistemas que usa o a su
+contenido.
+
+* Contenido                                                             :TOC:
+- [[#lecturas-del-año-2015][Lecturas del año 2015]]
+- [[#lecturas-del-año-2014][Lecturas del año 2014]]
+- [[#lecturas-del-año-2013][Lecturas del año 2013.]]
+- [[#lecturas-del-año-2012][Lecturas del año 2012.]]
+- [[#lecturas-del-año-2011][Lecturas del año 2011.]]
+- [[#lecturas-del-año-2010][Lecturas del año 2010.]]
+
+* Lecturas del año 2015
++ [[http://www.glc.us.es/~jalonso/vestigium/lecturas-del-grupo-de-logica-computacional-desde-el-29-de-junio-de-2014/][Lecturas de enero a julio del 2015]].
+* Lecturas del año 2014
++ [[http://www.glc.us.es/~jalonso/vestigium/lecturas-del-grupo-de-logica-computacional-desde-el-29-de-junio-de-2014/][Lecturas del 29-junio-2014 al 15-julio-2015]].
++ [[http://www.glc.us.es/~jalonso/vestigium/lecturas-del-grupo-de-logica-computacional-del-15-al-29-de-junio/][Lecturas del 15-junio-2014 al 29-junio-2014]].
++ [[http://www.glc.us.es/~jalonso/vestigium/lecturas-del-grupo-de-logica-computacional-del-8-al-15-de-junio/][Lecturas del 08-junio-2014 al 15-junio-2014]].
++ [[http://www.glc.us.es/~jalonso/vestigium/lecturas-del-grupo-de-logica-computacional-del-24-de-mayo-al-8-de-junio/][Lecturas del 24-mayo-2014 al 8-junio-2014]].
++ [[http://www.glc.us.es/~jalonso/vestigium/lecturas-compartidas-del-18-al-24-de-mayo/][Lecturas del 18-mayo-2014 al 24-mayo-2014]].
++ [[http://www.glc.us.es/wiki/Lecturas_del_año_2014][Lecturas de enero a marzo de 2014]].
+* [[http://www.glc.us.es/wiki/Lecturas_del_año_2013][Lecturas del año 2013]].
+* [[http://www.glc.us.es/wiki/Lecturas_del_año_2012][Lecturas del año 2012]].
+* [[http://www.glc.us.es/wiki/Lecturas_del_año_2011][Lecturas del año 2011]].
+* [[http://www.glc.us.es/wiki/Lecturas_del_año_2010][Lecturas del año 2010]].
