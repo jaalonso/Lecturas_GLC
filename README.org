@@ -16,6 +16,19 @@ contenido.
 
 ** Enero de 2020
 
+*** 19-Ene-20
++ [[http://www.andrew.cmu.edu/user/avigad/meetings/fomm2020/slides/fomm_boldo.pdf][A Coq formalization of Lebesgue integration of nonnegative functions]]. ~ Sylvie Boldo et als. #ITP #Coq #Math
++ [[http://www.andrew.cmu.edu/user/avigad/meetings/fomm2020/slides/fomm_lisitsa.pdf][First-order theorem (dis)proving for reachability problems in verification and experimental mathematics]]. ~ Alexei Lisitsa. #ATP #Prover9 #Mace4 #Math
++ [[http://www.andrew.cmu.edu/user/avigad/meetings/fomm2020/slides/fomm_keller.pdf][SMTCoq: Coq automation and its application to formal mathematics]]. ~ Chantal Keller. #ITP #Coq #SMT #Math
++ [[http://www.andrew.cmu.edu/user/avigad/meetings/fomm2020/slides/fomm_carneiro.pdf][Metamath Zero (or: how to verify a verifier)]]. ~ Mario Carneiro. #ITP #MetamathZero
++ [[http://flownet.com/gat/jpl-lisp.html][Lisping at JPL]]. ~ Ron Garret. #Programming #CommonLisp
++ [[https://www.microsiervos.com/archivo/matematicas/numeros-primos-que-son-imagenes.html][Números primos que son imágenes]]. ~ @Alvy #Matemáticas
++ [[https://swmath.org][swMATH: an information service for mathematical software]]. #Math #CompSci
++ [[https://www.encyclopediaofmath.org][The Encyclopedia of Mathematics wiki is an open access resource designed specifically for the mathematics community]]. #Math
++ [[http://www.encyclopediaofmath.org/index.php?title=Theorem_prover&oldid=31805][Theorem prover]]. ~ Encyclopedia of Mathematics. #ATP #ITP #Math
++ [[https://dlmf.nist.gov/][NIST digital library of mathematical functions]]. #Math
++ [[https://oeis.org][The On-Line Encyclopedia of Integer Sequences (OEIS)]]. #Math
++ [[https://books.google.es/books?id=0el8pO27BPoC&lpg=PP1][A modern perspective on type theory: From its origins until today]]. ~ Fairouz Kamareddine, Twan Laan, and Rob Nederpelt. #eBook #TypeTheory
 *** 18-Ene-20
 + [[https://www.isa-afp.org/entries/Poincare_Disc.html][Poincaré disc model in Isabelle/HOL]]. ~ D. Simić, F. Marić, P. Boutry. #ITP #IsabelleHOL #Math
 + [[https://alexnixon.github.io/2020/01/14/static-types-are-dangerous.html][Static types are dangerously interesting]]. ~ Alex Nixon (@alexnixon_uk). #Haskell #FunctionalProgramming
