@@ -16,6 +16,13 @@ contenido.
 
 ** Enero de 2020
 
+*** 20-Ene-20
++ [[http://www.andrew.cmu.edu/user/avigad/meetings/fomm2020/slides/fomm_buzzard.pdf][The future of Mathematics?]] ~ Kevin Buzzard. #Math #ITP
++ [[https://arxiv.org/abs/2001.04314][Formal specification of a security framework for smart contracts]]. ~ M. Mandrykin et als. #ITP #IsabelleHOL
++ [[https://arxiv.org/abs/2001.04301][Tabled typeclass resolution]]. ~ D. Selsam, S. Ullrich, L. de Moura. #ITP #LeanProver
++ [[https://www.isa-afp.org/entries/Mersenne_Primes.html][Mersenne primes and the Lucas–Lehmer test in Isabelle/HOL]]. ~ Manuel Eberl. #ITP #IsabelleHOL #Math
++ [[https://mmhaskell.com/blog/2020/1/20/nicer-package-organization-with-stack][Nicer package organization with Stack!]] ~ James Bowen (@james_OWA). #Haskell #Stack
++ [[https://blog.sigplan.org/2020/01/20/a-small-matter-of-programming/][A small matter of programming]]. ~ Jeremy Gibbons. #AI #Programming
 *** 19-Ene-20
 + [[http://www.andrew.cmu.edu/user/avigad/meetings/fomm2020/slides/fomm_boldo.pdf][A Coq formalization of Lebesgue integration of nonnegative functions]]. ~ Sylvie Boldo et als. #ITP #Coq #Math
 + [[http://www.andrew.cmu.edu/user/avigad/meetings/fomm2020/slides/fomm_lisitsa.pdf][First-order theorem (dis)proving for reachability problems in verification and experimental mathematics]]. ~ Alexei Lisitsa. #ATP #Prover9 #Mace4 #Math
