@@ -16,6 +16,14 @@ contenido.
 
 ** Enero de 2020
 
+*** 21-Ene-20
++ [[https://richardzach.org/2020/01/19/adding-online-exercises-with-automated-grading-to-any-logic-course-with-carnap/][Adding online exercises with automated grading to any logic course with Carnap]]. ~ Richard Zach (@RrrichardZach). #Logic #Teaching
++ [[https://youtu.be/Rt2OrG3IHkU][Three equivalent ordinal notation systems in cubical Agda]]. ~ Fredrick Nordvall Forsberg. #ITP #Agda #Math
++ [[https://youtu.be/8542Cw7DdYY][Undecidability of higher-order unification formalised in Coq]]. ~ Simon Spies. #ITP #Coq
++ [[https://youtu.be/F35yA6EHrAo][A functional proof pearl: Inverting the Ackermann heirarchy]]. ~ Linh Tran. #ITP #Coq
++ [[https://arxiv.org/abs/1202.3670][Euclid's theorem on the infinitude of primes: a historical survey of its proofs (300 B]].C.--2017) and another new proof. ~ Romeo Meštrović. #Math #History
++ [[http://tedsider.org/teaching/higher_order_20/higher_order_crash_course.pdf][Crash course on higher-order logic, type theory, etc]]. ~ Theodore Sider. #Logic via @RrrichardZach
+
 *** 20-Ene-20
 + [[http://www.andrew.cmu.edu/user/avigad/meetings/fomm2020/slides/fomm_buzzard.pdf][The future of Mathematics?]] ~ Kevin Buzzard. #Math #ITP
 + [[https://arxiv.org/abs/2001.04314][Formal specification of a security framework for smart contracts]]. ~ M. Mandrykin et als. #ITP #IsabelleHOL
