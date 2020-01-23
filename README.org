@@ -16,6 +16,12 @@ contenido.
 
 ** Enero de 2020
 
+*** 22-Ene-20
++ [[https://youtu.be/HKrIMvC4xTA][Verified programming of Turing machines in Coq]]. ~ Fabian Kunze. #ITP #Coq
++ [[https://youtu.be/EipOEWKlSBQ][Proof pearl: Braun trees]]. ~ Tobias Nipkow. #ITP #IsabelleHOL
++ [[https://blog.ploeh.dk/2020/01/20/algebraic-data-types-arent-numbers-on-steroids/][Algebraic data types aren't numbers on steroids]]. Mark Seemann (@ploeh). #Haskell #FunctionalProgramming
++ [[http://eprints.whiterose.ac.uk/155734/1/hybrid_kat.pdf][Differential Hoare logics and refinement calculi for hybrid systems with Isabelle/HOL]]. ~ Simon Foster, Jonathan Julián Huerta y Munive, and Georg Struth. #ITP #IsabelleHOL
++ [[https://niccoloveltri.github.io/cpp20.pdf][Formalizing π-calculus in Guarded Cubical Agda]]. ~ Niccolò Veltri, Andrea Vezzosi. #ITP #Agda
 *** 21-Ene-20
 + [[https://richardzach.org/2020/01/19/adding-online-exercises-with-automated-grading-to-any-logic-course-with-carnap/][Adding online exercises with automated grading to any logic course with Carnap]]. ~ Richard Zach (@RrrichardZach). #Logic #Teaching
 + [[https://youtu.be/Rt2OrG3IHkU][Three equivalent ordinal notation systems in cubical Agda]]. ~ Fredrick Nordvall Forsberg. #ITP #Agda #Math
@@ -166,3 +172,4 @@ contenido.
 + [[./Lecturas del año 2017.org][Lecturas del año 2017]]
 + [[./Lecturas del año 2016.org][Lecturas del año 2016]]
 + [[./Lecturas del año 2010 al 2015.org][Lecturas del año 2010 al 2015]]
+
