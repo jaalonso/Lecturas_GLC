@@ -16,6 +16,14 @@ contenido.
 
 ** Enero de 2020
 
+*** 24-Ene-20
++ [[ftp://ceur-ws.org/pub/publications/rwth/informatik/2020/2020-02.pdf][Towards an Isabelle Theory for distributed, interactive systems-the untimed case]]. ~ Jens Christoph Bürger et als. #ITP #IsabelleHOL
++ [[https://is.muni.cz/th/vhz48/thesis.pdf][Coinductive formalization of SECD machine in Agda]]. ~ Adam Krupička. #MsC_Thesis #ITP #Agda
++ [[https://typeclasses.com/phrasebook/folding-lists][Folding lists]]. ~ Chris Martin (@chris__martin), Julie Moronuki (@argumatronic). #Haskell #FunctionalProgramming
++ [[https://mutable.jle.im/][Beautiful mutable values]]. ~ Justin Le (@mstk). #Haskell #FunctionalProgramming
++ [[http://www.stephendiehl.com/posts/decade.html][Haskell problems for a new decade]]. ~ Stephen Diehl (@smdiehl). #Haskell #FunctionalProgramming
++ [[https://cvlad.info/profunctor/][The Functor family: Profunctor]]. ~ Vladimir Ciobanu. #Haskell #FunctionalProgramming
+
 *** 23-Ene-20
 + [[https://argumatronic.com/posts/1970-01-01-beginners.html][For beginners]]. ~ Julie Moronuki (@argumatronic). #Haskell #FunctionalProgramming
 + [[https://arxiv.org/abs/2001.08133][Drawing Prolog search trees: A manual for teachers and students of logic programming]]. ~ Johan Bos. #Prolog #LogicProgramming
