@@ -16,6 +16,20 @@ contenido.
 
 ** Enero de 2020
 
+*** 25-Ene-20
++ [[https://ruor.uottawa.ca/bitstream/10393/39994/1/Lu_Weiyun_2019_thesis.pdf][Formally verified code obfuscation in the Coq Proof Assistant]]. ~ Weiyun Lu. #PhD_Thesis #ITP #Coq
++ [[https://www.ps.uni-saarland.de/~gaeher/files/3SATClique.pdf][A formalised polynomial-time reduction from 3SAT to Clique]]. ~ Lennard Gäher. #ITP #Coq
++ [[https://serokell.io/blog/haskell-in-production-centralapp][Haskell in production: CentralApp]]. ~ Ashesh Ambasta (@AsheshAmbasta), Gints Dreimanis. #Haskell #FunctionalProgramming
++ [[https://www.microsiervos.com/archivo/matematicas/conjetura-merterns-relacion-numero-colosalmente-grande.html][La conjetura de Merterns y su relación con un número tan raro como extremada y colosalmente grande]]. ~ @Alvy. #Matemáticas
++ [[https://www.irif.fr/~emiquey/content/lmw19.pdf][The benefits of sequent calculus]]. ~ Étienne Miquey. #Logic #CompSci
++ [[https://www.irif.fr/~emiquey/content/imerl18.pdf][Curry-Howard: unveiling the computational content of proofs]]. ~ Étienne Miquey. #Logic #CompSci
++ [[https://www.irif.fr/~emiquey/content/banner.pdf][Realizabilidad clásica y efectos colaterales: Extendiendo la correspondencia de Curry-Howard]]. ~ Étienne Miquey. #Logic #CompSci
++ [[https://github.com/Coq-Andes-Summer-School/CASS2020/raw/master/assia-intro/slides.pdf][Introduction to Coq]]. ~ Assia Mahboubi. #ITP #Coq
++ [[https://cass.pleiad.cl/jscoq/examples/funext/lecture1.html][First steps with Coq]]. ~ Assia Mahboubi. #ITP #Coq 
++ [[https://github.com/Coq-Andes-Summer-School/CASS2020/raw/master/matthieu/depelim.pdf][Programming with dependent types in Coq: inductive families and dependent patter-matching]]. ~ Matthieu Sozeau. #ITP #Coq
++ [[https://github.com/Coq-Andes-Summer-School/CASS2020/raw/master/slides_tabareau.pdf][Homotopy Type Theory]]. ~ Nicolas Tabareau. #ITP #Coq #HoTT
++ [[https://github.com/Coq-Andes-Summer-School/CASS2020/raw/master/typesets.pdf][Set Theory vs. Type Theory]]. Alexandre Miquel. #Logic #CompSci
+
 *** 24-Ene-20
 + [[ftp://ceur-ws.org/pub/publications/rwth/informatik/2020/2020-02.pdf][Towards an Isabelle Theory for distributed, interactive systems-the untimed case]]. ~ Jens Christoph Bürger et als. #ITP #IsabelleHOL
 + [[https://is.muni.cz/th/vhz48/thesis.pdf][Coinductive formalization of SECD machine in Agda]]. ~ Adam Krupička. #MsC_Thesis #ITP #Agda
