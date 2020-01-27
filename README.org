@@ -16,6 +16,15 @@ contenido.
 
 ** Enero de 2020
 
+*** 26-Ene-20
++ [[https://arxiv.org/abs/2001.07488][Profunctor optics, a categorical update]]. ~ Bryce Clarke et als. #Haskell #FunctionalProgramming
++ [[https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/392353/1/Hossle_Nora.pdf][Multiple address spaces in a distributed capability system]]. ~ Nora Hossle. #MsC_Thesis #Haskell #FunctionalProgramming
++ [[https://arxiv.org/abs/2001.07655][Coherence via wellfoundedness]]. ~ Nicolai Kraus, Jakob von Raumer. #ITP #LeanProver #Math
++ [[https://arxiv.org/abs/1912.10961][Formalizing the Curry-Howard correspondence]]. ~ Juan Ferrer Meleiro, Hugo Luiz Mariano. #ITP #Idris #Logic
++ [[http://www.philipzucker.com/a-sketch-of-categorical-relation-algebra-combinators-in-z3py/][A sketch of categorical relation algebra combinators in Z3Py]]. ~ Philip Zucker (@SandMouth). #Z3 #SMT 
++ [[https://blog.adrianistan.eu/primeros-pasos-nix-linux-funcional][Primeros pasos con Nix: un Linux más funcional]]. ~ Adrián Arroyo Calle. #Nix #Linux #FunctionalProgramming
++ [[http://oleg.fi/gists/posts/2020-01-25-case-study-migration-from-lens-to-optics.html][Case study: migrating from lens to optics]]. ~ Oleg Grenrus (@phadej). #Haskell #FunctionalProgramming
+
 *** 25-Ene-20
 + [[https://ruor.uottawa.ca/bitstream/10393/39994/1/Lu_Weiyun_2019_thesis.pdf][Formally verified code obfuscation in the Coq Proof Assistant]]. ~ Weiyun Lu. #PhD_Thesis #ITP #Coq
 + [[https://www.ps.uni-saarland.de/~gaeher/files/3SATClique.pdf][A formalised polynomial-time reduction from 3SAT to Clique]]. ~ Lennard Gäher. #ITP #Coq
