@@ -16,6 +16,14 @@ contenido.
 
 ** Enero de 2020
 
+*** 27-Ene-20
++ [[https://ruor.uottawa.ca/bitstream/10393/39876/1/Eaman_Amir_2019_thesis.pdf][TEpla: A certified type enforcement access-control policy language]]. ~ Amir Eaman. #PhD_Thesis #ITP #Coq
++ [[https://www.cambridge.org/core/journals/journal-of-functional-programming/article/elaborating-dependent-copattern-matching-no-pattern-left-behind/F13CECDAB2B6200135D45452CA44A8B3][Elaborating dependent (co)pattern matching: No pattern left behind]]. ~ Jesper Cockx, Andreas Abel. #ITP #Agda
++ [[https://homotopytypetheory.org/2020/01/26/the-cantor-schroder-bernstein-theorem-for-%e2%88%9e-groupoids/][The Cantor-Schröder-Bernstein theorem for ∞-groupoids]]. ~ Martin Escardo. #ITP #Agda #Math
++ [[https://arxiv.org/abs/2001.06702][FASiM: A framework for automatic formal analysis of simulink models of linear analog circuits]]. ~ Adnan Rashid, Ayesha Gauhar and Osman Hasan. #ITP #HOL_Light
++ [[https://tech.fpcomplete.com/blog/transformations-on-applicative-concurrent-computations][Transformations on applicative concurrent computations]]. ~ Román González. #Haskell #FunctionalProgramming
++ [[https://gup.ub.gu.se/file/208036][The beauty of abstraction in mathematics]]. ~ Thomas Lingefjärd, Russell Hatami. #Math
+
 *** 26-Ene-20
 + [[https://arxiv.org/abs/2001.07488][Profunctor optics, a categorical update]]. ~ Bryce Clarke et als. #Haskell #FunctionalProgramming
 + [[https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/392353/1/Hossle_Nora.pdf][Multiple address spaces in a distributed capability system]]. ~ Nora Hossle. #MsC_Thesis #Haskell #FunctionalProgramming
