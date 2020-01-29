@@ -53,7 +53,6 @@ contenido.
 + [[https://github.com/Coq-Andes-Summer-School/CASS2020/raw/master/typesets.pdf][Set Theory vs. Type Theory]]. Alexandre Miquel. #Logic #CompSci
 
 *** 24-Ene-20
-+ [[ftp://ceur-ws.org/pub/publications/rwth/informatik/2020/2020-02.pdf][Towards an Isabelle Theory for distributed, interactive systems-the untimed case]]. ~ Jens Christoph Bürger et als. #ITP #IsabelleHOL
 + [[https://is.muni.cz/th/vhz48/thesis.pdf][Coinductive formalization of SECD machine in Agda]]. ~ Adam Krupička. #MsC_Thesis #ITP #Agda
 + [[https://typeclasses.com/phrasebook/folding-lists][Folding lists]]. ~ Chris Martin (@chris__martin), Julie Moronuki (@argumatronic). #Haskell #FunctionalProgramming
 + [[https://mutable.jle.im/][Beautiful mutable values]]. ~ Justin Le (@mstk). #Haskell #FunctionalProgramming
