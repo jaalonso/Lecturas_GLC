@@ -16,6 +16,11 @@ contenido.
 
 ** Enero de 2020
 
+*** 28-Ene-20
++ [[https://arxiv.org/abs/2001.09715][Formalization of forcing in Isabelle/ZF]]. ~ Emmanuel Gunther, Miguel Pagano, Pedro Sánchez Terraf. #ITP #IsabelleZF #Logic 
++ [[https://arxiv.org/abs/1905.05970][HolPy: Interactive theorem proving in Python]]. ~ Bohua Zhan. #ITP #HolPy #Logic #Python 
++ [[https://bzg.fr/en/some-emacs-org-mode-features-you-may-not-know.html/][Org-mode features you may not know]]. ~ Bastien Guerry (@bzg2). #Emacs #OrgMode
+
 *** 27-Ene-20
 + [[https://ruor.uottawa.ca/bitstream/10393/39876/1/Eaman_Amir_2019_thesis.pdf][TEpla: A certified type enforcement access-control policy language]]. ~ Amir Eaman. #PhD_Thesis #ITP #Coq
 + [[https://www.cambridge.org/core/journals/journal-of-functional-programming/article/elaborating-dependent-copattern-matching-no-pattern-left-behind/F13CECDAB2B6200135D45452CA44A8B3][Elaborating dependent (co)pattern matching: No pattern left behind]]. ~ Jesper Cockx, Andreas Abel. #ITP #Agda
