@@ -15,6 +15,15 @@ contenido.
 * Lecturas del año 2020
 
 ** Enero de 2020
+*** 30-Ene-20
++ [[https://arxiv.org/abs/2001.10834][Smart induction for Isabelle/HOL (System description)]]. ~ Yutaka Nagashima. #ITP #IsabelleHOL
++ [[https://stackoverflow.com/a/59719944/5157338][Show that a monic (injective) and epic (surjective) function has an inverse in Coq]]. ~ Arthur Azevedo De Amorim. #ITP #Coq #Math
++ [[https://blog.sigplan.org/2020/01/29/mechanized-proofs-for-pl-past-present-and-future/][Mechanized proofs for PL: Past, present, and future]]. ~ Talia Ringer. #ITP
++ [[https://golem.ph.utexas.edu/category/2020/01/profunctor_optics_the_categori.html][Profunctor optics: The categorical view]]. ~ Emily Pillmore and Mario Román. #Haskell #FunctionalProgramming #CategoryTheory
++ [[http://blog.ezyang.com/2020/01/vmap-in-haskell][vmap in Haskell]]. ~ Edward Z. Yang (@ezyang). #Haskell #FunctionalProgramming
++ [[https://serokell.io/blog/developing-ghc-for-a-living][Developing GHC for a Living: Interview with Vladislav Zavialov]]. ~ Denis Oleynikov. #Haskell #FunctionalProgramming
++ [[https://doisinkidney.com/posts/2020-01-29-terminating-tricky-traversals.html][Terminating tricky traversals]]. ~ Donnacha Oisín Kidney (@oisdk). #Haskell #Agda #FunctionalProgramming
++ [[https://www.tweag.io/posts/2020-01-30-haskell-profiling.html][Locating performance bottlenecks in large Haskell codebases]]. ~ Juan Raphael Diaz Simões. #Haskell #FunctionalProgramming
 
 *** 28-Ene-20
 + [[https://arxiv.org/abs/2001.09715][Formalization of forcing in Isabelle/ZF]]. ~ Emmanuel Gunther, Miguel Pagano, Pedro Sánchez Terraf. #ITP #IsabelleZF #Logic 
