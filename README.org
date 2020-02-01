@@ -10,11 +10,20 @@ contenido.
 * Contenido                                                             :TOC:
 - [[#lecturas-del-año-2020][Lecturas del año 2020]]
   - [[#enero-de-2020][Enero de 2020]]
+- [[#31-ene-20][31-Ene-20]]
 - [[#lecturas-anteriores][Lecturas anteriores]]
 
 * Lecturas del año 2020
 
 ** Enero de 2020
+* 31-Ene-20
++ [[https://hal.laas.fr/hal-02088529v2/document][A certificate-based approach to formally verified approximations]]. ~ Florent Bréhard, Assia Mahboubi, Damien Pous. #ITP #Coq #Math
++ [[http://www.staff.science.uu.nl/~swier004/publications/2020-msfp-submission.pdf][Combining predicate transformer semantics for effects: a case study in parsing regular languages]]. ~ Tim Baanen, Wouter Swierstra. #Agda #FunctionalProgramming
++ [[https://era.ed.ac.uk/bitstream/handle/1842/22936/Raggi2016.pdf][Searching the space of representations: reasoning through transformations for mathematical problem solving]]. ~ Daniel Raggi. #PhD_Thesis #ITP #IsabelleHOL
++ [[https://bor0.wordpress.com/2020/01/31/introduction-and-formalization-of-boolean-algebra/][Introduction and formalization of Boolean algebra]]. ~ Boro Sitnikovski (@BSitnikovski). #ITP #Metamath #Math
++ [[https://cs-syd.eu/posts/2020-01-28-property-testing-size][Property testing in depth: The size parameter]]. ~ Tom Sydney Kerckhove. #Haskell #FunctionalProgramming
++ [[https://bytes.yingw787.com/posts/2020/01/30/a_review_of_haskell/][A Pythonista's Review of Haskell]]. ~ Ying Wang. #Haskell #Python
+
 *** 30-Ene-20
 + [[https://arxiv.org/abs/2001.10834][Smart induction for Isabelle/HOL (System description)]]. ~ Yutaka Nagashima. #ITP #IsabelleHOL
 + [[https://stackoverflow.com/a/59719944/5157338][Show that a monic (injective) and epic (surjective) function has an inverse in Coq]]. ~ Arthur Azevedo De Amorim. #ITP #Coq #Math
