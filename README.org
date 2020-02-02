@@ -9,14 +9,36 @@ contenido.
 
 * Contenido                                                             :TOC:
 - [[#lecturas-del-año-2020][Lecturas del año 2020]]
+  - [[#febrero-de-2020][Febrero de 2020]]
   - [[#enero-de-2020][Enero de 2020]]
-- [[#31-ene-20][31-Ene-20]]
 - [[#lecturas-anteriores][Lecturas anteriores]]
 
 * Lecturas del año 2020
 
+** Febrero de 2020
+
+*** 01-Feb-20
+**** ITP
+***** Coq
++ [[https://www.ps.uni-saarland.de/Publications/documents/ForsterKunze_2019_Certifying-extraction.pdf][A certifying extraction with time bounds from Coq to call-by-value λ-calculus]]. ~ Yannick Forster, Fabian Kunze. #ITP #Coq
++ [[https://www.ps.uni-saarland.de/Publications/documents/ForsterKunzeRoth_2019_wcbv-Reasonable.pdf][The weak call-by-value λ-calculus is reasonable for both time and space]]. ~ Yannick Forster, Fabian Kunze, Marc Roth. #ITP #Coq
++ [[https://www.ps.uni-saarland.de/Publications/documents/ForsterEtAl_2019_VerifiedTMs.pdf][Verified programming of Turing machines in Coq]]. ~ Yannick Forster, Fabian Kunze, Maximilian Wuttke. #ITP #Coq
++ [[http://www.ps.uni-saarland.de/~smolka/drafts/icl2019.pdf][Computational type theory and interactive theorem proving with Coq (Version of August 2, 2019)]]. ~ Gert Smolka. #eBook #ITP #Coq #Logic
+***** Isabelle/HOL
++ [[https://www.sciencedirect.com/science/article/pii/S1571066103000215/pdf?md5=bcacb89b9fed98564eccf67546b89243&pid=1-s2.0-S1571066103000215-main.pdf][Towards a readable formalisation of category theory]]. ~ Greg O’Keefe. #ITP #IsabelleHOL #CategoryTheory
++ [[https://www.isa-afp.org/entries/Subset_Boolean_Algebras.html][A hierarchy of algebras for boolean subsets]]. ~ Walter Guttmann, Bernhard Möller. #ITP #IsabelleHOL #Math
++ [[https://mediatum.ub.tum.de/doc/1484146/1484146.pdf][Formal specification, monitoring, and verification of autonomous vehicles in Isabelle/HOL]]. ~ Albert Rizaldi. #PhD_Thesis #ITP #IsabelleHOL
+**** Programación funcional
+***** Haskell
++ [[http://kenta.blogspot.com/2020/02/ozjcrzwx-ulam-spirals.html][Ulam spirals]]. ~ Ken T Takusagawa. #Haskell #FunctionalProgramming
+**** Complejidad
++ [[https://en.wikipedia.org/wiki/Karp%27s_21_NP-complete_problems][Karp's 21 NP-complete problems]]. #CompSci
++ [[https://www.win.tue.nl/~kbuchin/teaching/2IL15/Slides/AlgorithmsLecture_9.pdf][NP-completeness, part I]]. ~ Kevin Buchin. #CompSci 
++ [[https://www.win.tue.nl/~kbuchin/teaching/2IL15/Slides/AlgorithmsLecture_10.pdf][NP-completeness, part II]]. ~ Kevin Buchin. #CompSci 
+
 ** Enero de 2020
-* 31-Ene-20
+
+*** 31-Ene-20
 + [[https://hal.laas.fr/hal-02088529v2/document][A certificate-based approach to formally verified approximations]]. ~ Florent Bréhard, Assia Mahboubi, Damien Pous. #ITP #Coq #Math
 + [[http://www.staff.science.uu.nl/~swier004/publications/2020-msfp-submission.pdf][Combining predicate transformer semantics for effects: a case study in parsing regular languages]]. ~ Tim Baanen, Wouter Swierstra. #Agda #FunctionalProgramming
 + [[https://era.ed.ac.uk/bitstream/handle/1842/22936/Raggi2016.pdf][Searching the space of representations: reasoning through transformations for mathematical problem solving]]. ~ Daniel Raggi. #PhD_Thesis #ITP #IsabelleHOL
