@@ -17,6 +17,12 @@ contenido.
 
 ** Febrero de 2020
 
+*** 02-Feb-20
++ [[https://www.ps.uni-saarland.de/Publications/documents/ForsterEtAl_2019_Completeness.pdf][Completeness theorems for first-order logic analysed in constructive type theory]]. ~ Yannick Forster, Dominik Kirst, Dominik Wehr. #ITP #Coq #Logic
++ [[https://www.ps.uni-saarland.de/Publications/details/Larchey-WendlingForster:2019:H10_in_Coq.html][Hilbert's tenth problem in Coq]]. ~ Dominique Larchey-Wendling, Yannick Forster. #ITP #Coq #Math
++ [[https://arxiv.org/abs/2001.10490][Beyond notations: Hygienic macro expansion for theorem proving languages]]. ~ Sebastian Ullrich, Leonardo de Moura. #ITP #LeanProver
++ [[https://hal.inria.fr/hal-02457240/document][MOIN: A nested sequent theorem prover for intuitionistic modal logics (system description)]]. ~ Marianna Girlando, Lutz Straßburger. #ATP #Prolog #Logic
+
 *** 01-Feb-20
 + [[https://www.ps.uni-saarland.de/Publications/documents/ForsterKunze_2019_Certifying-extraction.pdf][A certifying extraction with time bounds from Coq to call-by-value λ-calculus]]. ~ Yannick Forster, Fabian Kunze. #ITP #Coq
 + [[https://www.ps.uni-saarland.de/Publications/documents/ForsterKunzeRoth_2019_wcbv-Reasonable.pdf][The weak call-by-value λ-calculus is reasonable for both time and space]]. ~ Yannick Forster, Fabian Kunze, Marc Roth. #ITP #Coq
