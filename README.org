@@ -17,6 +17,13 @@ contenido.
 
 ** Febrero de 2020
 
+*** 03-Feb-10
++ [[https://arxiv.org/abs/2001.08983][A formal development cycle for security engineering in Isabelle]]. ~ Florian Kammüller. #ITP #IsabelleHOL
++ [[https://arxiv.org/abs/2001.10512][Automated proof of Bell-LaPadula security properties]]. ~ Maximiliano Cristiá, Gianfranco Rossi. #ATP #SetLog
++ [[https://github.com/OpenLogicProject/OpenLogic/wiki/Other-Logic-Textbooks][List of open and free logic textbooks]]. ~ Richard Zach (@RrrichardZach). #Logic
++ [[https://chrispenner.ca/posts/kaleidoscopes][Intro to Kaleidoscopes: Optics for aggregating data through Applicatives]]. ~ Chris Penner (@chrislpenner). #Haskell #FunctionalProgramming
++ [[https://mmhaskell.com/blog/2020/2/3/nix-functional-package-management][Nix: Functional package management!]] ~ James Bowen (@james_OWA). #Nix 
+
 *** 02-Feb-20
 + [[https://www.ps.uni-saarland.de/Publications/documents/ForsterEtAl_2019_Completeness.pdf][Completeness theorems for first-order logic analysed in constructive type theory]]. ~ Yannick Forster, Dominik Kirst, Dominik Wehr. #ITP #Coq #Logic
 + [[https://www.ps.uni-saarland.de/Publications/details/Larchey-WendlingForster:2019:H10_in_Coq.html][Hilbert's tenth problem in Coq]]. ~ Dominique Larchey-Wendling, Yannick Forster. #ITP #Coq #Math
