@@ -17,7 +17,15 @@ contenido.
 
 ** Febrero de 2020
 
-*** 03-Feb-10
+*** 04-Feb-20
++ [[http://matryoshka.gforge.inria.fr/pubs/satur_report.pdf][A comprehensive framework for saturation theorem proving (Technical report)]]. ~ Uwe Waldmann, Sophie Tourret, Simon Robillard, Jasmin Blanchette. #ITP #IsabelleHOL #Logic
++ [[https://github.com/ejgallego/jscoq][jsCoq: A port of Coq to Javascript (Run Coq in your browser)]]. ~ Emilio Jesús Gallego Arias (@ejgallego). #ITP #Coq 
++ [[https://odone.io/posts/2020-02-03-monad-composes-sequentially.html][Why monad composes operations sequentially]]. ~ Riccardo Odone (@RiccardoOdone). #Haskell #FunctionalProgramming
++ [[https://francis.naukas.com/2020/02/03/los-primos-de-la-conjetura-de-collatz/][Los primos de la conjetura de Collatz]]. ~ Francisco R. Villatoro (@emulenews). #Matemáticas
++ [[https://danaernst.com/resources/free-and-open-source-textbooks/][Free and open-source textbooks]]. ~ Dana C. Ernst. #eBooks #Math
++ [[https://www.johnborwick.com/2019/02/13/org-mode-website.html][How I created my website with Org mode]]. ~ John Borwick (@borwick). #Emacs #OrgMode
+
+*** 03-Feb-20
 + [[https://arxiv.org/abs/2001.08983][A formal development cycle for security engineering in Isabelle]]. ~ Florian Kammüller. #ITP #IsabelleHOL
 + [[https://arxiv.org/abs/2001.10512][Automated proof of Bell-LaPadula security properties]]. ~ Maximiliano Cristiá, Gianfranco Rossi. #ATP #SetLog
 + [[https://github.com/OpenLogicProject/OpenLogic/wiki/Other-Logic-Textbooks][List of open and free logic textbooks]]. ~ Richard Zach (@RrrichardZach). #Logic
