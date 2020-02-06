@@ -17,6 +17,15 @@ contenido.
 
 ** Febrero de 2020
 
+*** 05-Feb-20
++ [[https://arxiv.org/abs/2001.11142][VERONICA: Expressive and precise concurrent information flow security (Extended version with technical appendices)]]. ~ Daniel Schoepe, Toby Murray, Andrei Sabelfeld. #ITP #IsabelleHOL
++ [[https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8970457][A formal system of axiomatic set theory in Coq]]. ~ Tianyu Sun, Wensheng Yu. #ITP #Coq #Math
++ [[https://www.ps.uni-saarland.de/extras/fol-trakh/][Trakhtenbrot’s theorem in Coq (A constructive approach to finite model theory)]]. ~ Dominik Kirst, Dominique Larchey-Wendling. #ITP #Coq #Logic
++ [[https://github.com/aep/zz/blob/master/README.md][ZZ (drunk octopus) is a modern formally provable dialect of C, inspired by Rust]]. ~ Arvid E. Picciani. #ZZ #Programming #SMT #FormalVerification
++ [[https://slides.com/dervism/java-haskell?token=c5PXw4i][Java & Haskell: Similarities and differences]]. ~ Dervis Mansuroglu (@dervis_m). #Java #Haskell
++ [[https://www.cis.upenn.edu/~cis262/notes/proofslambda.pdf][Proofs, computability, complexity, and the lambda calculus (An introduction)]]. ~ Jean Gallier, Jocelyn Quaintance. #eBook #Logic #CompSci #LambdaCalculus
++ [[https://adamsheffer.wordpress.com/2020/02/04/an-algorithms-course-with-minimal-prerequisites/][An algorithms course with minimal prerequisites]]. ~ Adam Sheffer. #Algorithms
+
 *** 04-Feb-20
 + [[http://matryoshka.gforge.inria.fr/pubs/satur_report.pdf][A comprehensive framework for saturation theorem proving (Technical report)]]. ~ Uwe Waldmann, Sophie Tourret, Simon Robillard, Jasmin Blanchette. #ITP #IsabelleHOL #Logic
 + [[https://github.com/ejgallego/jscoq][jsCoq: A port of Coq to Javascript (Run Coq in your browser)]]. ~ Emilio Jesús Gallego Arias (@ejgallego). #ITP #Coq 
