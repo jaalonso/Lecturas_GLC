@@ -17,6 +17,14 @@ contenido.
 
 ** Febrero de 2020
 
+*** 06-Feb-20
++ [[https://www.researchgate.net/profile/Christoph_Benzmueller/publication/338829452_Computer-supported_Analysis_of_Arguments_in_Climate_Engineering/links/5e2d5775a6fdcc70a14bf745/Computer-supported-Analysis-of-Arguments-in-Climate-Engineering.pdf][Computer-supported analysis of arguments in climate engineering]]. ~ David Fuenmayor, Christoph Benzmüller. #ITP #IsabelleHOL.
++ [[https://soap.coffee/~lthms/posts/MiniHTTPServer/][Implementing and certifying a Web server in Coq]]. ~ Thomas Letan. #ITP #Coq 
++ [[https://github.com/finkel-lang/finkel ][Finkel: Haskell in S-expression]]. #Haskell #Lisp #Finkel_lang
++ [[https://www.tweag.io/posts/2020-02-06-safe-inline-java.html][Safe memory management in inline-java using linear types]]. ~ Facundo Dominguez. #Haskell #FunctionalProgramming
++ [[https://youtu.be/dDtZLm7HIJs][Functional or combinator parsing]]. ~ Graham Hutton (@haskellhutt). #Haskell #FunctionalProgramming
++ [[https://ericphanson.com/blog/2019/learning-algorithmic-techniques-dynamic-programming/][Learning algorithmic techniques: dynamic programming]]. ~ Eric P. Hanson. #Algorithms #Programming #JuliaLang
+
 *** 05-Feb-20
 + [[https://arxiv.org/abs/2001.11142][VERONICA: Expressive and precise concurrent information flow security (Extended version with technical appendices)]]. ~ Daniel Schoepe, Toby Murray, Andrei Sabelfeld. #ITP #IsabelleHOL
 + [[https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8970457][A formal system of axiomatic set theory in Coq]]. ~ Tianyu Sun, Wensheng Yu. #ITP #Coq #Math
