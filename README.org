@@ -17,6 +17,13 @@ contenido.
 
 ** Febrero de 2020
 
+*** 07-Feb-20
++ [[https://arxiv.org/abs/2001.11560][Toward a mechanized compendium of gradual typing]]. ~ Jeremy G. Siek. #ITP #Agda
++ [[https://arxiv.org/abs/1911.00580][Introduction to univalent foundations of mathematics with Agda]]. ~ Martín Hötzel Escardó. #ITP #Agda #Math
++ [[https://staff.aist.go.jp/reynald.affeldt/fipc/main.pdf][Formalizing functional analysis structures in dependent type theory]]. ~ Reynald Affeldt et als. #ITP #Coq #Math
++ [[https://res.mdpi.com/d_attachment/electronics/electronics-09-00255/article_deploy/electronics-09-00255.pdf][A formal verification framework for security issues of blockchain smart contracts]]. ~ Tianyu Sun, Wensheng Yu. #ITP #Coq #Blockchain
++ [[https://serokell.io/blog/lorentz-implementing-smart-contract-edsl-in-haskell][Lorentz: Implementing smart contract eDSL in Haskell]]. ~ Kostya Ivanov. #Haskell #FunctionalProgramming
+
 *** 06-Feb-20
 + [[https://www.researchgate.net/profile/Christoph_Benzmueller/publication/338829452_Computer-supported_Analysis_of_Arguments_in_Climate_Engineering/links/5e2d5775a6fdcc70a14bf745/Computer-supported-Analysis-of-Arguments-in-Climate-Engineering.pdf][Computer-supported analysis of arguments in climate engineering]]. ~ David Fuenmayor, Christoph Benzmüller. #ITP #IsabelleHOL.
 + [[https://soap.coffee/~lthms/posts/MiniHTTPServer/][Implementing and certifying a Web server in Coq]]. ~ Thomas Letan. #ITP #Coq 
