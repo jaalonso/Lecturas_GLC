@@ -309,6 +309,20 @@ contenido.
 + [[https://medium.com/nmc-techblog/advanced-functional-programming-concepts-made-easy-2108d227b5ab][Advanced Functional Programming concepts made easy]]. ~ Tal Joffe. #FunctionalProgramming #JavaScript
 + [[https://byorgey.wordpress.com/2020/02/07/competitive-programming-in-haskell-primes-and-factoring/][Competitive Programming in Haskell: primes and factoring]]. ~ Brent Yorgey. #Haskell #FunctionalProgramming
 
+*** 09-Feb-20
++ [[https://www.cs.vu.nl/~jhl890/pub/hoelzl2013typeclasses.pdf][Type classes and filters for mathematical analysis in Isabelle/HOL]]. ~ Johannes Hölzl, Fabian Immler, Brian Huffman. #ITP #IsabelleHOL #Math
++ [[https://xenaproject.wordpress.com/2020/02/09/lean-is-better-for-proper-maths-than-all-the-other-theorem-provers/][Lean is better for proper maths than all the other theorem provers]]. ~ Kevin Buzzard (@XenaProject). #ITP #LeanProver #Math
++ [[https://xenaproject.wordpress.com/2020/02/09/where-is-the-fashionable-mathematics/][Where is the fashionable mathematics? ~ Kevin Buzzard (@XenaProject)]]. #Math #ITP #LeanProver #Coq #IsabelleHOL 
++ [[https://arxiv.org/abs/2002.00423][An experimental study of formula embeddings for automated theorem proving in first-order logic]]. ~ Ibrahim Abdelaziz et als. #ATP #MachineLearning
++ [[http://rg1-teaching.mpi-inf.mpg.de/autrea-ws19/script.pdf][Automated reasoning I]]. ~ Uwe Waldmann. #eBook #ATP #Logic
++ [[http://rg1-teaching.mpi-inf.mpg.de/autrea2-ss18/script.pdf ][Automated reasoning II]]. ~ Sophie Tourret, Uwe Waldmann. #eBook #ATP #Logic
++ [[https://www.colibri.udelar.edu.uy/jspui/bitstream/20.500.12008/23002/1/PI%c3%9119.pdf][Verificación de estructura de redes neuronales profundas en tiempo de compilación (Proyecto TensorSafe)]]. ~ Leonardo Piñeyro. #Haskell #DeepLearning 
++ [[http://cleilaclo2018.mackenzie.br/docs/SIESC/182970.pdf][MateFun: Functional Programming and Math with adolescents]]. ~ Alejandra Carboni et als. #Haskell #FunctionalProgramming #Math
++ [[https://www.colibri.udelar.edu.uy/jspui/bitstream/20.500.12008/23006/1/VAZ19.pdf][Mejoras al intérprete MateFun]]. ~ Nicolás Vázquez. #Haskell #FunctionalProgramming #Math
++ [[https://markkarpov.com/tutorial/th.html][Template Haskell tutorial]]. ~ Mark Karpov (@mrkkrp). #Haskell #FunctionalProgramming
++ [[https://vaibhavsagar.com/blog/2017/05/29/imperative-haskell/][Imperative Haskell]]. ~ Vaibhav Sagar. #Haskell #FunctionalProgramming
++ [[https://chrisdone.com/posts/data-typeable/][Typeable and Data in Haskell]]. ~ Chris Done (@christopherdone). #Haskell #FunctionalProgramming
+
 * Lecturas anteriores
 + [[./Lecturas del año 2019.org][Lecturas del año 2019]]
 + [[./Lecturas del año 2018.org][Lecturas del año 2018]]
