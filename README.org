@@ -323,6 +323,17 @@ contenido.
 + [[https://vaibhavsagar.com/blog/2017/05/29/imperative-haskell/][Imperative Haskell]]. ~ Vaibhav Sagar. #Haskell #FunctionalProgramming
 + [[https://chrisdone.com/posts/data-typeable/][Typeable and Data in Haskell]]. ~ Chris Done (@christopherdone). #Haskell #FunctionalProgramming
 
+*** 10-Feb-20
++ [[https://www.isa-afp.org/entries/Arith_Prog_Rel_Primes.html][Arithmetic progressions and relative primes]]. ~ José Manuel Rodríguez Caballero. #ITP #IsabelleHOL #Math
++ [[https://wdi.centralesupelec.fr/boulanger/Enseignement/TutoIsabelle][Tutoriel: types de données, fonctions et preuves en Isabelle]]. ~ Frédéric Boulanger. #ITP #IsabelleHOL  
++ [[https://wdi.centralesupelec.fr/boulanger/Enseignement/Niklaus][Cours: Sémantique des langages]]. ~ Frédéric Boulanger. #ITP #IsabelleHOL  
++ [[https://github.com/pedroabreu0/pedroabreu0.github.io/raw/master/docs/POPL20-poster.pdf][How small can we make a useful type theory?]] ~ Pedro Abreu (@etapedro). #ITP #Coq #Cedille #FunctionalProgramming
++ [[https://github.com/pedrotst/coquedille][Coquedille: A Coq to Cedille transpiler written in Coq]]. ~ Pedro Abreu (@etapedro). #ITP #Coq #Cedille #FunctionalProgramming
++ [[https://two-wrongs.com/how-laziness-works][How laziness works]]. #Haskell #FunctionalProgramming
++ [[https://blog.sumtypeofway.com/posts/introduction-to-recursion-schemes.html][An introduction to recursion schemes]]. ~ Patrick Thomson. #Haskell #FunctionalProgramming
++ [[https://blog.functorial.com/posts/2015-12-06-Counterexamples.html][Counterexamples of type classes]]. ~ Phil Freeman. #Haskell #Purescript #FunctionalProgramming
++ [[http://oleg.fi/gists/posts/2020-02-09-compiling-haskell-to-javascript.html][Compiling Haskell to JavaScript, not in the way you'd expect]]. ~ Oleg Grenrus (@phadej). #Haskell #FunctionalProgramming #JavaScript
+
 * Lecturas anteriores
 + [[./Lecturas del año 2019.org][Lecturas del año 2019]]
 + [[./Lecturas del año 2018.org][Lecturas del año 2018]]
