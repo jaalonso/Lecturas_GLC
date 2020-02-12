@@ -334,6 +334,12 @@ contenido.
 + [[https://blog.functorial.com/posts/2015-12-06-Counterexamples.html][Counterexamples of type classes]]. ~ Phil Freeman. #Haskell #Purescript #FunctionalProgramming
 + [[http://oleg.fi/gists/posts/2020-02-09-compiling-haskell-to-javascript.html][Compiling Haskell to JavaScript, not in the way you'd expect]]. ~ Oleg Grenrus (@phadej). #Haskell #FunctionalProgramming #JavaScript
 
+*** 11-Feb-20
++ [[https://mmhaskell.com/blog/2020/2/10/converting-cabal-to-nix][Converting Cabal to Nix!]] ~ James Bowen (@james_OWA). #Haskell #Cabal #Nix
++ [[https://youtu.be/qhB1Q4v6TEA][Liquidate your assets (Reasoning about resource usage in Liquid Haskell)]]. ~ Niki Vazou (@nikivazou). #Haskell
++ [[http://www.cse.chalmers.se/~rjmh/tfp/proceedings/TFP_2020_paper_16.pdf][State will do]]. ~ Willem Seynaeve, Koen Pauwels and Tom Schrijvers. #Haskell #FunctionalProgramming
++ [[http://www.cse.chalmers.se/~rjmh/tfp/proceedings/TFP_2020_paper_7.pdf][PaSe: An extensible and inspectable DSL for micro-animations]]. ~ Ruben P. Pieters and Tom Schrijvers. #Haskell #FunctionalProgramming
++ [[https://serokell.io/blog/physics-history-haskell-interview][Physics, History and Haskell]]. (Interview with Rinat Stryungis). ~ Denis Oleynikov. #Haskell #FunctionalProgramming
 * Lecturas anteriores
 + [[./Lecturas del año 2019.org][Lecturas del año 2019]]
 + [[./Lecturas del año 2018.org][Lecturas del año 2018]]
