@@ -340,6 +340,17 @@ contenido.
 + [[http://www.cse.chalmers.se/~rjmh/tfp/proceedings/TFP_2020_paper_16.pdf][State will do]]. ~ Willem Seynaeve, Koen Pauwels and Tom Schrijvers. #Haskell #FunctionalProgramming
 + [[http://www.cse.chalmers.se/~rjmh/tfp/proceedings/TFP_2020_paper_7.pdf][PaSe: An extensible and inspectable DSL for micro-animations]]. ~ Ruben P. Pieters and Tom Schrijvers. #Haskell #FunctionalProgramming
 + [[https://serokell.io/blog/physics-history-haskell-interview][Physics, History and Haskell]]. (Interview with Rinat Stryungis). ~ Denis Oleynikov. #Haskell #FunctionalProgramming
+
+*** 12-Feb-20
++ [[http://www.cse.chalmers.se/~rjmh/tfp/proceedings/TFP_2020_paper_17.pdf][A DSL for fluorescence microscopy]]. Birthe van den Berg, Peter Dedecker, Tom Schrijvers. #Haskell #FunctionalProgramming
++ [[http://www.cse.chalmers.se/~rjmh/tfp/proceedings/TFP_2020_paper_20.pdf][A proof assistant based formalisation of core Erlang]]. ~ Péter Bereczky, Dániel Horpácsi and Simon Thompson. #ITP #Coq #Erlang 
++ [[http://www.cse.chalmers.se/~rjmh/tfp/proceedings/TFP_2020_paper_2.pdf][An equational modeling of asynchronous concurrent programming]]. ~ David Janin. #Haskell #FunctionalProgramming
++ [[http://www.cse.chalmers.se/~rjmh/tfp/proceedings/TFP_2020_paper_9.pdf][BinderAnn: Automated reification of source annotations for monadic EDSLs]]. ~ Agustín Mista and Alejandro Russo. #Haskell #FunctionalProgramming  
++ [[https://www.mdpi.com/1996-1073/13/3/712/pdf][Formalization of cost and utility in Microeconomics]]. ~ Asad Ahmed, Osman Hasan, Falah Awwad, and Nabil Bastaki. #ITP HOL_Light
++ [[https://serokell.io/blog/haskell-in-industry-riskbook][Haskell in production: Riskbook (an interview with Jezen Thomas)]]. ~ Gints Dreimanis. #Haskell #FunctionalProgramming
++ [[https://andre.tips/wmh/generalized-algebraic-data-types-and-data-kinds/][Generalized Algebraic Data Types and Data Kinds]]. ~ Andre Popovitch (@PopovitchAndre). #Haskell #FunctionalProgramming
++ [[https://notxor.nueva-actitud.org/blog/2020/02/11/utilizacion-de-registros-en-emacs/][Utilización de registros en Emacs]]. #Emacs
+
 * Lecturas anteriores
 + [[./Lecturas del año 2019.org][Lecturas del año 2019]]
 + [[./Lecturas del año 2018.org][Lecturas del año 2018]]
