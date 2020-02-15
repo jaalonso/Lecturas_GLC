@@ -351,6 +351,12 @@ contenido.
 + [[https://andre.tips/wmh/generalized-algebraic-data-types-and-data-kinds/][Generalized Algebraic Data Types and Data Kinds]]. ~ Andre Popovitch (@PopovitchAndre). #Haskell #FunctionalProgramming
 + [[https://notxor.nueva-actitud.org/blog/2020/02/11/utilizacion-de-registros-en-emacs/][Utilización de registros en Emacs]]. #Emacs
 
+*** 13-Feb-20
++ [[http://www.cse.chalmers.se/~rjmh/tfp/proceedings/TFP_2020_paper_8.pdf][Generating next step hints for task oriented programs using symbolic execution]]. ~ Nico Naus and Tim Steenvoorden. #Haskell #FunctionalProgramming
++ [[https://www.researchgate.net/publication/339129400_Mac_Lane%27s_Comparison_Theorem_for_the_Kleisli_Construction_Formalized_in_Coq][Mac Lane’s comparison theorem for the Kleisli construction formalized in Coq]]. ~ Burak Ekici, and Cezary Kaliszyk. #ITP #Coq
++ [[https://www.cs.cornell.edu/courses/cs3110/2020sp/textbook][Functional programming in OCaml]]. ~ Michael R. Clarkson. #eBook #OCaml #FunctionalProgramming
++ [[http://www.gigamonkeys.com/book/][Practical Common Lisp]]. ~ Peter Seibel. #eBook #CommonLisp
+
 * Lecturas anteriores
 + [[./Lecturas del año 2019.org][Lecturas del año 2019]]
 + [[./Lecturas del año 2018.org][Lecturas del año 2018]]
