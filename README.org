@@ -357,6 +357,12 @@ contenido.
 + [[https://www.cs.cornell.edu/courses/cs3110/2020sp/textbook][Functional programming in OCaml]]. ~ Michael R. Clarkson. #eBook #OCaml #FunctionalProgramming
 + [[http://www.gigamonkeys.com/book/][Practical Common Lisp]]. ~ Peter Seibel. #eBook #CommonLisp
 
+*** 15-Feb-20
++ [[https://www.slideshare.net/paulszulc/maintainable-software-architecture-in-haskell-with-polysemy][Maintainable software architecture in Haskell (with Polysemy)]]. ~ Paweł Szulc (@EncodePanda). #Haskell #FunctionalProgramming 
++ [[https://logiccourse.com/textbook/logic-course-adventure/][The Logic course adventure (An active learning textbook for formal logic)]]. ~ Ian Schnee. #eBook #Logic
++ [[https://github.com/coq-community/awesome-coq][Awesome Coq Awesome (A curated list of awesome Coq libraries, plugins, tools, and resources)]]. #ITP #Coq
++ [[https://armkeh.github.io/blog/EqualityOfFunctions.html][Equality of functions in Agda]]. ~ Mark Armstrong. #ITP #Agda #FunctionalProgramming via @armk_eh
+
 * Lecturas anteriores
 + [[./Lecturas del año 2019.org][Lecturas del año 2019]]
 + [[./Lecturas del año 2018.org][Lecturas del año 2018]]
