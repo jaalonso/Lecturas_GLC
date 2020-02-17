@@ -363,6 +363,16 @@ contenido.
 + [[https://github.com/coq-community/awesome-coq][Awesome Coq Awesome (A curated list of awesome Coq libraries, plugins, tools, and resources)]]. #ITP #Coq
 + [[https://armkeh.github.io/blog/EqualityOfFunctions.html][Equality of functions in Agda]]. ~ Mark Armstrong. #ITP #Agda #FunctionalProgramming via @armk_eh
 
+*** 16-Feb-20
++ [[https://artagnon.com/articles/equality][Equality in mechanized mathematics]]. ~  Ramkumar Ramachandra. #ITP #Coq #Math
++ [[https://www.fosskers.ca/blog/rio-en.html][Porting to Rio]]. ~ Colin Woodbury (@fosskers). #Haskell #FunctionalProgramming
++ [[https://byorgey.wordpress.com/2020/02/15/competitive-programming-in-haskell-modular-arithmetic-part-1/][Competitive programming in Haskell: modular arithmetic, part 1]]. ~ Brent Yorgey. #Haskell #FunctionalProgramming #Math
++ [[https://tidsskrift.dk/brics/article/view/21869/19296][There and Back Again (TABA)]]. ~ Olivier Danvy, and Mayer Goldberg. #Programming #Algoritms
++ [[https://doisinkidney.com/posts/2020-02-15-taba.html][Typing TABA (There and Back Again)]]. ~ Donnacha Oisín Kidney (@oisdk). #Haskell #FunctionalProgramming
++ [[https://arxiv.org/abs/2001.07488][Profunctor optics, a categorical update]]. ~ Bryce Clarke, Derek Elkins, Jeremy Gibbons, Fosco Loregian, Bartosz Milewski, Emily Pillmore, and Mario Román. #Haskell #FunctionalProgramming
++ [[https://www.stackbuilders.com/tutorials/python/using-types-in-python-with-mypy/][How to start using Python type annotations with Mypy]]. ~ Carlos Villavicencio. #Python #Mypy  
++ [[http://logicae.usal.es/TICTTL/actas/JamesCaldwell.pdf][Teaching natural deduction as a subversive activity]]. ~ James Caldwell. #Logic
+
 * Lecturas anteriores
 + [[./Lecturas del año 2019.org][Lecturas del año 2019]]
 + [[./Lecturas del año 2018.org][Lecturas del año 2018]]
