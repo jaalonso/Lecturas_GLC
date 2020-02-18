@@ -373,6 +373,14 @@ contenido.
 + [[https://www.stackbuilders.com/tutorials/python/using-types-in-python-with-mypy/][How to start using Python type annotations with Mypy]]. ~ Carlos Villavicencio. #Python #Mypy  
 + [[http://logicae.usal.es/TICTTL/actas/JamesCaldwell.pdf][Teaching natural deduction as a subversive activity]]. ~ James Caldwell. #Logic
 
+*** 17-Feb-20
++ [[https://tel.archives-ouvertes.fr/tel-01250842v1/document][Certifications of programs with computational effects]]. ~ Burak Ekici. #PhD_Thesis #ITP #Coq 
++ [[http://cl-informatik.uibk.ac.at/users/cek/docs/19/mfck-tableaux19.pdf][Certification of nonclausal connection tableaux proofs]]. ~ Michael Färber, and Cezary Kaliszyk. #ITP #HOL_Light
++ [[https://arxiv.org/abs/2002.06047][Flexible coinduction in Agda]]. ~ Luca Ciccone. #MSc_Thesis #ITP #Agda
++ [[http://dev.stephendiehl.com/hask/][What I wish I knew when learning Haskell (Version 2]].5). ~ Stephen Diehl (@smdiehl). #Haskell #FunctionalProgramming
++ [[http://www.philipzucker.com/categorical-combinators-for-graphviz-in-python/][Categorical combinators for Graphviz in Python]]. ~ Philip Zucker (@SandMouth). #Python
++ [[https://medium.com/swlh/how-to-make-mondrian-art-in-haskell-a1a5d430ac32][How to make mondrian art in Haskell (Unleash your inner functional artist)]]. ~ Marc Fichtel (@mc_razzy). #Haskell #FunctionalProgramming
+
 * Lecturas anteriores
 + [[./Lecturas del año 2019.org][Lecturas del año 2019]]
 + [[./Lecturas del año 2018.org][Lecturas del año 2018]]
