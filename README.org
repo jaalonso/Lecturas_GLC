@@ -381,6 +381,14 @@ contenido.
 + [[http://www.philipzucker.com/categorical-combinators-for-graphviz-in-python/][Categorical combinators for Graphviz in Python]]. ~ Philip Zucker (@SandMouth). #Python
 + [[https://medium.com/swlh/how-to-make-mondrian-art-in-haskell-a1a5d430ac32][How to make mondrian art in Haskell (Unleash your inner functional artist)]]. ~ Marc Fichtel (@mc_razzy). #Haskell #FunctionalProgramming
 
+*** 18-Feb-20
++ [[https://josephg.com/blog/3-tribes/][3 tribes of programming]]. ~ Joseph Gentle (@josephgentle). #Programming
++ [[https://hal.inria.fr/hal-02478907/document][Hierarchy builder: algebraic hierarchies made easy in Coq with Elpi]]. ~ Cyril Cohen, Kazuhiko Sakaguchi, and Enrico Tassi. #ITP #Coq
++ [[https://arxiv.org/abs/1902.00297][Signatures and induction principles for higher inductive-inductive types]]. ~ Ambrus Kaposi, and András Kovács. #ITP #Agda #Haskell #FunctionalProgramming
++ [[https://f.hypotheses.org/wp-content/blogs.dir/4029/files/2018/11/cardone_slides.pdf][From Curry to Haskell]]. ~ Felice Cardone. #Haskell #FunctionalProgramming #Logic
++ [[https://hal.inria.fr/hal-02477578/document][A Why3 proof of GMP algorithms]]. ~ Raphaël Rieu-Helft. #Why3 #FormalVerification
++ [[http://users.ece.utexas.edu/~gligoric/papers/JainETAL20mCoqTool.pdf][mCoq: Mutation analysis for Coq verification projects]]. ~ Kush Jain et als. #ITP #Coq
+
 * Lecturas anteriores
 + [[./Lecturas del año 2019.org][Lecturas del año 2019]]
 + [[./Lecturas del año 2018.org][Lecturas del año 2018]]
