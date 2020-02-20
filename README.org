@@ -389,6 +389,12 @@ contenido.
 + [[https://hal.inria.fr/hal-02477578/document][A Why3 proof of GMP algorithms]]. ~ Raphaël Rieu-Helft. #Why3 #FormalVerification
 + [[http://users.ece.utexas.edu/~gligoric/papers/JainETAL20mCoqTool.pdf][mCoq: Mutation analysis for Coq verification projects]]. ~ Kush Jain et als. #ITP #Coq
 
+*** 19-Feb-20
++ [[https://youtu.be/Og847HVwRSI][Most popular programming languages 1965-2019]]. #Programming
++ [[http://lisp-univ-etc.blogspot.com/2020/02/programming-algorithms-compression.html][Programming algorithms: Compression]]. ~ Vsevolod Dyomkin. #Algorithms #CommonLisp 
++ [[https://www.tweag.io/posts/2020-02-19-linear-type-exception.html][On linear types and exceptions]]. ~ Arnaud Spiwack. #Haskell #FunctionalProgramming
++ [[https://leanpub.com/hy-lisp-python/read][A Lisp programmer living in Python-land: The Hy programming language]]. ~ Mark Watson. #eBook #Programing #Lisp #Python #Hy
+
 * Lecturas anteriores
 + [[./Lecturas del año 2019.org][Lecturas del año 2019]]
 + [[./Lecturas del año 2018.org][Lecturas del año 2018]]
