@@ -395,6 +395,30 @@ contenido.
 + [[https://www.tweag.io/posts/2020-02-19-linear-type-exception.html][On linear types and exceptions]]. ~ Arnaud Spiwack. #Haskell #FunctionalProgramming
 + [[https://leanpub.com/hy-lisp-python/read][A Lisp programmer living in Python-land: The Hy programming language]]. ~ Mark Watson. #eBook #Programing #Lisp #Python #Hy
 
+*** 20-Feb-20
++ [[https://svhol.pbmichel.com/][Isabelle/HOL and Proof General reference [Isabelle/HOL support wiki]]]. #ITP #IsabelleHOL
++ [[https://whatisrt.github.io/dependent-types/2020/02/18/agda-vs-coq-vs-idris.html][Agda vs. Coq vs. Idris]]. #ITP #Agda #Coq #Idris
+
+*** 21-Feb-20
++ [[https://serokell.io/blog/haskell-type-level-witness][Type witnesses in Haskell]]. ~ Sandeep Chandrika. #Haskell #FunctionalProgramming
++ [[https://paperswelove.org/]["Papers we love" is a repository of academic computer science papers and a community who loves reading them]]. @papers_we_love #CompSci
++ [[https://github.com/papers-we-love/papers-we-love][Papers from the computer science community to read and discuss]]. #CompSci
++ [[https://dspace.mit.edu/bitstream/handle/1721.1/5794/AIM-349.pdf][Scheme: An interpreter for extended lambda calculus (1975)]]. ~ Gerald J. Sussman, and Guy L. Steele. #Programming #Scheme #CompSci
++ [[https://www.aaai.org/ojs/index.php/aimagazine/article/view/1029][What is a knowledge representation?]]. ~ Randall Davis, Howard Shrobe, and Peter Szolovits (1993). #KR #AI
++ [[https://www.cs.cmu.edu/~crary/819-f09/Hoare69.pdf ][An axiomatic basis for computer programming]]. ~ C.A.R. Hoare (1969). #CompSci
++ [[http://www.mat.uc.cl/~cmartine/documents/WFP.pdf][Why functional programming matters]]. ~ John Hughes (1989). #FunctionalProgramming #CompSci 
++ [[http://www.cs.nott.ac.uk/~pszgmh/fold.pdf][A tutorial on the universality and expressiveness of fold]]. ~ Graham Hutton (1999). #FunctionalProgramming #Haskell
++ [[https://www.cs.tufts.edu/%7Enr/cs257/archive/john-hughes/quick.pdf][QuickCheck: Α lightweight tool for random testing of Haskell programs]]. ~ Koen Claessen and John Hughes (2000). #Haskell #FunctionalProgramming
++ [[https://www.irif.fr/~mellies/mpri/mpri-ens/articles/moggi-computational-lambda-calculus-and-monads.pdf][Computational lambda-calculus and monads]]. ~ Eugenio Moggi (1988). #CompSci 
++ [[https://www.cs.bham.ac.uk/~mhe/papers/exhaustive.pdf][Infinite sets that admit fast exhaustive search]]. ~ Martı́n Escardó (2007). #Haskell #FunctionalProgramming
++ [[https://repository.upenn.edu/cgi/viewcontent.cgi?article=1773&context=cis_papers][Monoids: Theme and variations (Functional Pearl)]]. ~ Brent A. Yorgey (2012). #Haskell #FunctionalProgramming
++ [[http://www.cs.um.edu.mt/~svrg/FormalMethods/2012-2013/QuickCheck.pdf][QuickCheck testing for fun and profit]]. ~ John Hughes (2007). #Haskell #FunctionalProgramming
++ [[https://www.cs.cmu.edu/afs/cs/user/crary/www/819-f09/Landin64.pdf][The mechanical evaluation of expressions]]. ~ P.J. Landin (1964). #CompSci
++ [[https://londmathsoc.onlinelibrary.wiley.com/doi/epdf/10.1112/plms/s2-42.1.230][On computable numbers, with an application to the Entscheidungsproblem]]. ~ A.M. Turing (1937). #CompSci #Math 
++ [[http://homepages.inf.ed.ac.uk/wadler/papers/propositions-as-types/propositions-as-types.pdf][Propositions as types]]. ~ Philip Wadler (2014). #Logic #CompSci
++ [[https://www.cs.cmu.edu/~crary/819-f09/McCarthy60.pdf][Recursive functions of symbolic expressions and their computation by machine, Part I]]. ~ John McCarthy (1960). #CompSci #Lisp 
++ [[http://www.cs.cmu.edu/~crary/819-f09/Strachey67.pdf][Fundamental concepts in programming languages]]. ~ Christopher Strachey (2000). #CompSci
+
 * Lecturas anteriores
 + [[./Lecturas del año 2019.org][Lecturas del año 2019]]
 + [[./Lecturas del año 2018.org][Lecturas del año 2018]]
