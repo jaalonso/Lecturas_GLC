@@ -419,6 +419,14 @@ contenido.
 + [[https://www.cs.cmu.edu/~crary/819-f09/McCarthy60.pdf][Recursive functions of symbolic expressions and their computation by machine, Part I]]. ~ John McCarthy (1960). #CompSci #Lisp 
 + [[http://www.cs.cmu.edu/~crary/819-f09/Strachey67.pdf][Fundamental concepts in programming languages]]. ~ Christopher Strachey (2000). #CompSci
 
+*** 22-Feb-20
++ [[https://hal.archives-ouvertes.fr/hal-02316859v2/document][Graph theory in Coq: Minors, treewidth, and isomorphisms]]. ~ Christian Doczkal and Damien Pous. #ITP #Coq #Math
++ [[https://hal.archives-ouvertes.fr/hal-02333553v3/document][Completeness of an axiomatization of graph isomorphism via graph rewriting in Coq]]. ~ Christian Doczkal, and Damien Pous. #ITP #Coq #Math
++ [[https://www.cs.us.es/~jalonso/apuntes/Pensamientos_de_Machado.html][Pensamientos de Antonio Machado]]. ~ Guiomar Godoy. #Filosofía
++ [[http://www-sop.inria.fr/marelle/personnel/Laurent.Thery/math.html][A selected bibliography on formalised mathematics]]. ~ Laurent Théry. #ITP #Math
++ [[https://www.ps.uni-saarland.de/Publications/details/Doczkal:2016:PhDThesis.html][A machine-checked constructive metatheory of computation tree logic]]. ~ Christian Doczkal (2016). #PhD_Thesis #ITP #Coq #Logic 
++ [[http://people.rennes.inria.fr/Assia.Mahboubi//vu.html][Course: Machine-checked Mathematics]]. ~ Assia Mahboubi. #ITP #Coq #Math 
+
 * Lecturas anteriores
 + [[./Lecturas del año 2019.org][Lecturas del año 2019]]
 + [[./Lecturas del año 2018.org][Lecturas del año 2018]]
