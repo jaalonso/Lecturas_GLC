@@ -427,6 +427,17 @@ contenido.
 + [[https://www.ps.uni-saarland.de/Publications/details/Doczkal:2016:PhDThesis.html][A machine-checked constructive metatheory of computation tree logic]]. ~ Christian Doczkal (2016). #PhD_Thesis #ITP #Coq #Logic 
 + [[http://people.rennes.inria.fr/Assia.Mahboubi//vu.html][Course: Machine-checked Mathematics]]. ~ Assia Mahboubi. #ITP #Coq #Math 
 
+*** 23-Feb-20
++ [[https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/400029/2/phdthesis-acreto-online.pdf][On memory addressing]]. ~ Reto Achermann.  #PhD_Thesis #ITP #IsabelleHOL
++ [[https://kwarc.info/people/frabe/Research/KR_oafexp_20.pdf][Experiences from exporting major proof assistant libraries]]. ~ Michael Kohlhase, and Florian Rabe. #ITP #Coq #HOL_Light #IsabelleHOL #Mizar #PVS #MMT
++ [[https://arxiv.org/abs/2002.06047][Flexible coinduction in Agda]]. ~ Luca Ciccone. #MSc_Thesis #ITP #Agda
++ [[https://github.com/martinescardo/TypeTopology/][Various new theorems in constructive univalent mathematics written in Agda]]. ~ Martín Escardó. #ITP #Agda #Math 
++ [[https://arxiv.org/abs/2002.07079][The Cantor-Schröder-Bernstein Theorem for ∞-groupoids]]. ~ Martı́n Escardó. #ITP #Agda #Math 
++ [[https://github.com/drdo/logic-translation][Translation from FOL to LTL+Past and LTL, via separation of LTL+Past]]. ~ Daniel Oliveira. #Logic #Haskell #FunctionalProgramming
++ [[https://github.com/drdo/logic-translation/raw/master/doc/Thesis.pdf][Linear temporal logic: separation and translation]]. ~ Daniel Oliveira. #MSc_Thesis #Logic #Haskell #FunctionalProgramming
++ [[https://fenix.tecnico.ulisboa.pt/downloadFile/563568428791213/or-????-separation.pdf][Revisiting separation: Algorithms and complexity]]. ~ Daniel Oliveira, and João Rasga. #Logic #Haskell #FunctionalProgramming
++ [[https://notxor.nueva-actitud.org/blog/2019/01/05/sobre-listas-y-atoms/][Sobre listas y atoms]]. #Emacs #Elisp
+
 * Lecturas anteriores
 + [[./Lecturas del año 2019.org][Lecturas del año 2019]]
 + [[./Lecturas del año 2018.org][Lecturas del año 2018]]
