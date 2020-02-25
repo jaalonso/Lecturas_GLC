@@ -438,6 +438,16 @@ contenido.
 + [[https://fenix.tecnico.ulisboa.pt/downloadFile/563568428791213/or-????-separation.pdf][Revisiting separation: Algorithms and complexity]]. ~ Daniel Oliveira, and João Rasga. #Logic #Haskell #FunctionalProgramming
 + [[https://notxor.nueva-actitud.org/blog/2019/01/05/sobre-listas-y-atoms/][Sobre listas y atoms]]. #Emacs #Elisp
 
+*** 24-Feb-20
++ [[https://arxiv.org/abs/2002.09282][Isabelle/Spartan: A dependent type theory framework for Isabelle]]. ~ Joshua Chen. #ITP #IsabellleHOL #HoTT
++ [[https://www.isa-afp.org/entries/Goodstein_Lambda.html][Implementing the Goodstein function in λ-calculus]]. ~ Bertram Felgenhauer. #ITP #IsabelleHOL
++ [[https://blog.poisson.chat/posts/2020-02-24-quickcheck-higherorder.html][Testing higher-order properties with QuickCheck]]. ~ Li-yao Xia (@lysxia). #Haskell #FunctionalProgramming #QuickCheck
++ [[https://doisinkidney.com/posts/2020-02-20-final-bft.html][Another breadth-first traversal]]. ~ Donnacha Oisín Kidney (@oisdk). #Haskell #FunctionalProgramming
++ [[https://github.com/jrjohansson/scientific-python-lectures][Lectures on scientific computing with Python]]. ~ Robert Johansson (2017). #Python
++ [[https://arxiv.org/abs/2002.04803][Machine Learning in Python: Main developments and technology trends in data science, machine learning, and artificial intelligence]]. ~ Sebastian Raschka, Joshua Patterson, Corey Nolet. #MachineLearning #AI #Python
++ [[https://youtu.be/UwYLaGzhDb4][Category theory as a tool for thought]]. ~ Daniel Beskin. #CategoryTheory #FunctionalProgramming #Haskell
++ [[https://www.chronicle.com/article/The-Scientific-Paper-Is/248045][The scientific paper is outdated (For the sake of research, their careers, and their mental health, scientists should spend more time developing software)]]. ~ Ryan Abernathey. #
+
 * Lecturas anteriores
 + [[./Lecturas del año 2019.org][Lecturas del año 2019]]
 + [[./Lecturas del año 2018.org][Lecturas del año 2018]]
