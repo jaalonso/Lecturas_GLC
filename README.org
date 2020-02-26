@@ -448,6 +448,9 @@ contenido.
 + [[https://youtu.be/UwYLaGzhDb4][Category theory as a tool for thought]]. ~ Daniel Beskin. #CategoryTheory #FunctionalProgramming #Haskell
 + [[https://www.chronicle.com/article/The-Scientific-Paper-Is/248045][The scientific paper is outdated (For the sake of research, their careers, and their mental health, scientists should spend more time developing software)]]. ~ Ryan Abernathey. #
 
+*** 25-Feb-20
++ [[https://arxiv.org/abs/2002.10212][A mechanised semantics for HOL with ad-hoc overloading]]. ~ Johannes Åman Pohjola, Arve Gengelbach. #ITP #HOL4
+
 * Lecturas anteriores
 + [[./Lecturas del año 2019.org][Lecturas del año 2019]]
 + [[./Lecturas del año 2018.org][Lecturas del año 2018]]
