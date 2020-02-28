@@ -451,6 +451,19 @@ contenido.
 *** 25-Feb-20
 + [[https://arxiv.org/abs/2002.10212][A mechanised semantics for HOL with ad-hoc overloading]]. ~ Johannes Åman Pohjola, Arve Gengelbach. #ITP #HOL4
 
+*** 26-Feb-20
++ [[https://www.isa-afp.org/entries/VeriComp.html][A generic framework for verified compilers in Isabelle/HOL]]. ~ Martin Desharnais. #ITP #IsabelleHOL
++ [[https://essay.utwente.nl/80680/1/Staal_BA_EEMCS.pdf][An analysis of programming paradigms in high-level synthesis tools]]. ~ Pieter Staal. #Haskell #FunctionalProgramming
++ [[https://iohk.io/en/research/library/papers/marloweimplementing-and-analysing-financial-contracts-on-blockchain/][Marlowe: implementing and analysing financial contracts on blockchain]]. ~ Pablo Lamela Seijas et als. #Haskell #ITP #IsabelleHOL #Blockchain #Cardano
++ [[https://www.comp.nus.edu.sg/~hobor/Publications/2020/CertifiedDijkstra.pdf][A machine-checked C implementation of Dijkstra’s shortest path algorithm]]. ~ Anshuman Mohan, Shengyi Wang, and Aquinas Hobor. #ITP #Coq
++ [[https://www.hindawi.com/journals/wcmc/2020/7346763/][Formal verification of hardware components in critical systems]]. ~ Wilayat Khan et als. #ITP #Coq
++ [[https://new.kwarc.info/people/frabe/Research/rabe_mmtsys_20.pdf][MMT: The Meta Meta Tool (system description)]]. ~ Florian Rabe. #ITP #MMT
++ [[https://youtu.be/JboZel47XU0][Type-based formal verification]]. ~ Alejandro Serrano (@trupill). #Haskell #Verification
++ [[https://www.tweag.io/posts/2020-02-26-monad-bayes-3.html][Probabilistic programming with monad‑bayes, Part 3: A bayesian neural network]]. ~ Siddharth Bhat, Simeon Carstens, Matthias Meschede. #Haskell #FunctionalProgramming
+
+*** 27-Feb-20
++ [[https://hal.archives-ouvertes.fr/hal-02086931/document][Short proof of Menger's theorem in Coq (Proof Pearl)]]. ~ Christian Doczka. #ITP #Coq #Math
+
 * Lecturas anteriores
 + [[./Lecturas del año 2019.org][Lecturas del año 2019]]
 + [[./Lecturas del año 2018.org][Lecturas del año 2018]]
