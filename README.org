@@ -464,6 +464,18 @@ contenido.
 *** 27-Feb-20
 + [[https://hal.archives-ouvertes.fr/hal-02086931/document][Short proof of Menger's theorem in Coq (Proof Pearl)]]. ~ Christian Doczka. #ITP #Coq #Math
 
+*** 28-Feb-20
++ [[https://raw.githubusercontent.com/jonaprieto/athena/master/pubs/paper/paper.pdf][Proof-reconstruction in type theory for propositional logic]]. ~ Jonathan Prieto-Cubides, Andrés Sicard-Ramírez. #ITP #Agda #Metis #Logic
++ [[https://github.com/jonaprieto/athena][Athena: a tool that translates Metis ATP proofs to the Agda programming language to check their correctness]]. ~ Jonathan Prieto-Cubides. #Haskell #ITP #Agda #Metis #Logic
++ [[https://github.com/jonaprieto/agda-prop][agda-prop: A library for classical propositional logic in Agda]]. ~ Jonathan Prieto-Cubides. #ITP #Agda #Logic 
++ [[https://github.com/jonaprieto/agda-metis][agda-metis: Metis prover reasoning for propositional logic in Agda]]. ~ Jonathan Prieto-Cubides. #ITP #Agda #Metis 
++ [[https://github.com/Alastair-Carr/Natural-Deduction-Pack/raw/master/Natural%20Deduction%20Pack.pdf][The natural deduction pack]]. ~ Alastair Carr. #Logic
++ [[https://www.ssrg.ece.vt.edu/papers/tacas20.pdf][Highly automated formal proofs over memory usage of assembly code]]. ~ Freek Verbeek et als. #ITP #IsabelleHOL
++ [[https://bartoszmilewski.com/2020/02/24/math-is-your-insurance-policy/][Math is your insurance policy]]. ~ Bartosz Milewski (@BartoszMilewski). #Programming
++ [[http://eptcs.web.cse.unsw.edu.au/paper.cgi?ThEdu19.1][Automating the generation of high school geometry proofs using Prolog in an educational context]]. ~ Ludovic Font et als. #Prolog #LogicProgramming #Math 
++ [[http://eptcs.web.cse.unsw.edu.au/paper.cgi?ThEdu19.3][A mobile application for self-guided study of formal reasoning]]. ~ David M. Cerna, Rafael P.D. Kiesel, Alexandra Dzhiganskaya. #Logic #Teaching #Android
++ [[http://eptcs.web.cse.unsw.edu.au/paper.cgi?ThEdu19.4][Tools in term rewriting for education]]. ~ Sarah Winkler, Aart Middeldorp. #Logic #Teaching
+
 * Lecturas anteriores
 + [[./Lecturas del año 2019.org][Lecturas del año 2019]]
 + [[./Lecturas del año 2018.org][Lecturas del año 2018]]
