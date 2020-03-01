@@ -476,6 +476,13 @@ contenido.
 + [[http://eptcs.web.cse.unsw.edu.au/paper.cgi?ThEdu19.3][A mobile application for self-guided study of formal reasoning]]. ~ David M. Cerna, Rafael P.D. Kiesel, Alexandra Dzhiganskaya. #Logic #Teaching #Android
 + [[http://eptcs.web.cse.unsw.edu.au/paper.cgi?ThEdu19.4][Tools in term rewriting for education]]. ~ Sarah Winkler, Aart Middeldorp. #Logic #Teaching
 
+*** 29-Feb-20
++ [[http://eptcs.web.cse.unsw.edu.au/paper.cgi?ThEdu19.5][Teaching a formalized logical calculus]]. ~ Asta Halkjær From et als. #Logic #Teaching #ITP #IsabelleHOL
++ [[https://sicp.comp.nus.edu.sg/][Structure and interpretation of computer programs — JavaScript adaptation]]. #eBook #JavaScript #SICP
++ [[http://math.chapman.edu/~jipsen/structures/doku.php/][Mathematical structures]]. ~ Contributors of math.chapman.edu. #Math
++ [[https://rjlipton.wordpress.com/2020/02/28/reductions-and-jokes/][Reductions and jokes]]. ~ R.J. Lipton & K.W. Regan. #CompSci #Math
++ [[https://www.math.utah.edu/~cherk/mathjokes.html][Mathematical humor]]. ~ Andrej and Elena Cherkaev. #Math 
+
 * Lecturas anteriores
 + [[./Lecturas del año 2019.org][Lecturas del año 2019]]
 + [[./Lecturas del año 2018.org][Lecturas del año 2018]]
