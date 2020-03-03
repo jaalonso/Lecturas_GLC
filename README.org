@@ -11,6 +11,7 @@ contenido.
 - [[#lecturas-del-año-2020][Lecturas del año 2020]]
   - [[#enero-de-2020][Enero de 2020]]
   - [[#febrero-de-2020][Febrero de 2020]]
+  - [[#marzo-de-2020][Marzo de 2020]]
 - [[#lecturas-anteriores][Lecturas anteriores]]
 
 * Lecturas del año 2020
@@ -482,6 +483,22 @@ contenido.
 + [[http://math.chapman.edu/~jipsen/structures/doku.php/][Mathematical structures]]. ~ Contributors of math.chapman.edu. #Math
 + [[https://rjlipton.wordpress.com/2020/02/28/reductions-and-jokes/][Reductions and jokes]]. ~ R.J. Lipton & K.W. Regan. #CompSci #Math
 + [[https://www.math.utah.edu/~cherk/mathjokes.html][Mathematical humor]]. ~ Andrej and Elena Cherkaev. #Math 
+
+** Marzo de 2020
+
+*** 01-Mar-20
++ [[http://www.cs.ucl.ac.uk/teaching/3C11/book/book.html][Programming with Miranda]]. ~ C. Clack, C. Myers, and E. Poon (1995). #eBook #Miranda #FunctionalProgramming 
++ [[http://www.cs.kent.ac.uk/people/staff/dat/ccount/click.php?id=4][Church's thesis and functional programming]]. ~ David Turner (2006). #Logic #FunctionalProgramming #Miranda
++ [[http://www.cs.kent.ac.uk/people/staff/dat/tfp12/tfp12.pdf][Some history of functional programming languages]]. ~ David Turner (2012). #FunctionalProgramming
++ [[https://dl.acm.org/doi/abs/10.1145/3377555.3377884][Postcondition-preserving fusion of postorder tree transformations]]. ~ Eleanor Davies, Sara Kalvala. #ITP #Coq
++ [[https://nbviewer.jupyter.org/github/Anabra/grin/blob/fd9de6d3b9c7ec5f4aa7d6be41285359a73494e3/papers/stcs-2019/article/tex/main.pdf][A modern look at GRIN, an optimizing functional language back end]]. ~ Csaba Hruska, Péter Dávid Podlovics, Andor Pénzes. #Haskell #FunctionalProgramming
++ [[http://perso.ens-lyon.fr/nicolas.brisebarre/M2R/CoqApprox][Course: Approximation theory and proof assistants: certified computations]]. ~ Nicolas Brisebarre, Damien Pous./#coqsessions #ITP #Coq #Math
++ [[http://perso.ens-lyon.fr/damien.pous/apmep/][First steps with Coq (for primary and secondary school teachers, APMEP, Grenoble, 2011)]]. ~ Damien Pous. #ITP #Coq
+
+*** 02-Mar-20
++ [[https://medium.com/@cdsmithus/optimizing-a-maze-with-graph-theory-genetic-algorithms-and-haskell-e3702dd6439f][Optimizing a maze with graph theory, genetic algorithms, and Haskell]]. ~ Chris Smith (@cdsmithus). #Haskell #FunctionalProgramming #Math
++ [[https://www.researchgate.net/publication/220531947_Seventy-Five_Problems_for_Testing_Automatic_Theorem_Provers][Seventy-five problems for testing automatic theorem provers]]. ~ Francis Jeffry Pelletier (1986). #Logic
++ [[http://neilmitchell.blogspot.com/2020/03/how-to-get-haskell-job.html][How to get a Haskell job]]. ~ Neil Mitchell (@ndm_haskell). #Haskell #FunctionalProgramming
 
 * Lecturas anteriores
 + [[./Lecturas del año 2019.org][Lecturas del año 2019]]
