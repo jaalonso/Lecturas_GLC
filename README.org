@@ -500,6 +500,10 @@ contenido.
 + [[https://www.researchgate.net/publication/220531947_Seventy-Five_Problems_for_Testing_Automatic_Theorem_Provers][Seventy-five problems for testing automatic theorem provers]]. ~ Francis Jeffry Pelletier (1986). #Logic
 + [[http://neilmitchell.blogspot.com/2020/03/how-to-get-haskell-job.html][How to get a Haskell job]]. ~ Neil Mitchell (@ndm_haskell). #Haskell #FunctionalProgramming
 
+*** 03-Mar-20
++ [[https://github.com/norvig/paip-lisp][Lisp code for the textbook "Paradigms of Artificial Intelligence Programming"]]. ~ Peter Norvig. #CommonLisp #AI 
++ [[https://byorgey.wordpress.com/2020/03/03/competitive-programming-in-haskell-modular-arithmetic-part-2/][Competitive programming in Haskell: modular arithmetic, part 2]]. ~ Brent Yorgey. #Haskell #FunctionalProgramming #Math
+
 * Lecturas anteriores
 + [[./Lecturas del año 2019.org][Lecturas del año 2019]]
 + [[./Lecturas del año 2018.org][Lecturas del año 2018]]
