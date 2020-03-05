@@ -504,6 +504,13 @@ contenido.
 + [[https://github.com/norvig/paip-lisp][Lisp code for the textbook "Paradigms of Artificial Intelligence Programming"]]. ~ Peter Norvig. #CommonLisp #AI 
 + [[https://byorgey.wordpress.com/2020/03/03/competitive-programming-in-haskell-modular-arithmetic-part-2/][Competitive programming in Haskell: modular arithmetic, part 2]]. ~ Brent Yorgey. #Haskell #FunctionalProgramming #Math
 
+*** 04-Mar-20
++ [[http://users.ece.utexas.edu/~gligoric/papers/PalmskogETAL20Chip.pdf][Practical machine-checked formalization of change impact analysis]]. ~ Karl Palmskog, Ahmet Celik, Milos Gligoric. #ITP #Coq
++ [[https://scm.iis.sinica.edu.tw/pub/2020-monadic-sort.pdf][Declarative pearl: Deriving monadic quicksort]]. ~ Shin-Cheng Mu, Tsung-Ju Chiang. #Haskell #FunctionalProgramming
++ [[https://research.chalmers.se/publication/515535/file/515535_Fulltext.pdf][Automated derivation of random generators for algebraic data types]]. ~ Agustín Mista. #Haskell #FunctionalProgramming
++ [[https://lamport.azurewebsites.net/pubs/lamport-types.pdf][Should your specification language be typed?]]. ~ Leslie Lamport, Lawrence C. Paulson (1999). #ITP #FunctionalProgramming
++ [[https://arxiv.org/abs/2003.01422][The Prolog debugger and declarative programming]]. Examples. ~ Włodzimierz Drabent. #Prolog #LogicProgramming
+
 * Lecturas anteriores
 + [[./Lecturas del año 2019.org][Lecturas del año 2019]]
 + [[./Lecturas del año 2018.org][Lecturas del año 2018]]
