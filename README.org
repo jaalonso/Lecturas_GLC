@@ -511,6 +511,19 @@ contenido.
 + [[https://lamport.azurewebsites.net/pubs/lamport-types.pdf][Should your specification language be typed?]]. ~ Leslie Lamport, Lawrence C. Paulson (1999). #ITP #FunctionalProgramming
 + [[https://arxiv.org/abs/2003.01422][The Prolog debugger and declarative programming]]. Examples. ~ Włodzimierz Drabent. #Prolog #LogicProgramming
 
+*** 05-Mar-20
++ [[https://dmsm.github.io/scissors-congruence/][Scissors congruence (An interactive demonstration of the Wallace–Bolyai–Gerwien theorem)]]. ~ Dima Smirnov, Zivvy Epstein. #Math
++ [[https://www.michaelburge.us/2017/08/17/rolling-your-own-blockchain.html][Create blockchain in Haskell (Rolling your own blockchain in Haskell)]]. ~ Michael Burge (2017). #Haskell #Blockchain
++ [[https://arxiv.org/abs/2003.01935][Intuitionistic mathematics and logic]]. ~ Joan R. Moschovakis, Garyfallia Vafeiadou. #Logic #Math
++ [[https://www.tweag.io/posts/2020-03-05-peirce.html][Code is engineering, types are science]]. ~ Juan Raphael Diaz Simões. #Programming #Logic
++ [[https://research.smu.edu.sg/news/2020/feb/13/speak-math-not-code][Speak math, not code]]. (Writing algorithms in mathematics rather than code is not only more elegant but also more efficient, says 2013 Turing Award winner Leslie Lamport). #Math #Programming #CompSci
+
+*** 06-Mar-20
++ [[https://free.cofree.io/2020/02/29/dsl/][Building a friendly and safe EDSL with IxState and TypeLits]]. #Haskell #FunctionalProgramming 
++ [[https://utdemir.com/posts/ann-distributed-dataset.html][distributed-dataset: A distributed data processing framework in Haskell]]. ~ Utku Demir. #Haskell #FunctionalProgramming
++ [[https://blog.shaynefletcher.org/2020/03/ghc-haskell-pats-and-lpats.html][GHC Haskell Pats and LPats]]. ~ Shayne Fletcher. #Haskell #FunctionalProgramming
++ [[http://philsci-archive.pitt.edu/16976/][Audience role in mathematical proof development]]. ~ Zoe Ashton. #Logic #Math #ITP
+
 * Lecturas anteriores
 + [[./Lecturas del año 2019.org][Lecturas del año 2019]]
 + [[./Lecturas del año 2018.org][Lecturas del año 2018]]
