@@ -524,6 +524,11 @@ contenido.
 + [[https://blog.shaynefletcher.org/2020/03/ghc-haskell-pats-and-lpats.html][GHC Haskell Pats and LPats]]. ~ Shayne Fletcher. #Haskell #FunctionalProgramming
 + [[http://philsci-archive.pitt.edu/16976/][Audience role in mathematical proof development]]. ~ Zoe Ashton. #Logic #Math #ITP
 
+*** 07-Mar-20
++ [[https://apfelmus.nfshost.com/articles/lazy-eval-modular-code.html][Writing more modular code with lazy evaluation]]. ~ Heinrich Apfelmus. #Haskell #FunctionalProgramming
++ [[https://apfelmus.nfshost.com/articles/lazy-eval-intro.html][How does lazy evaluation work in Haskell?]] ~ Heinrich Apfelmus. #Haskell #FunctionalProgramming via @etorreborre
++ [[https://arxiv.org/abs/2003.00032][Declarative stream runtime verification (hLola)]]. ~ Martı́n Ceresa, Felipe Gorostiaga, César Sánchez. #Haskell #FunctionalProgramming
+
 * Lecturas anteriores
 + [[./Lecturas del año 2019.org][Lecturas del año 2019]]
 + [[./Lecturas del año 2018.org][Lecturas del año 2018]]
