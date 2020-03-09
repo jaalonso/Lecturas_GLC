@@ -12,6 +12,7 @@ contenido.
   - [[#enero-de-2020][Enero de 2020]]
   - [[#febrero-de-2020][Febrero de 2020]]
   - [[#marzo-de-2020][Marzo de 2020]]
+- [[#08-mar-20][08-Mar-20]]
 - [[#lecturas-anteriores][Lecturas anteriores]]
 
 * Lecturas del año 2020
@@ -528,6 +529,9 @@ contenido.
 + [[https://apfelmus.nfshost.com/articles/lazy-eval-modular-code.html][Writing more modular code with lazy evaluation]]. ~ Heinrich Apfelmus. #Haskell #FunctionalProgramming
 + [[https://apfelmus.nfshost.com/articles/lazy-eval-intro.html][How does lazy evaluation work in Haskell?]] ~ Heinrich Apfelmus. #Haskell #FunctionalProgramming via @etorreborre
 + [[https://arxiv.org/abs/2003.00032][Declarative stream runtime verification (hLola)]]. ~ Martı́n Ceresa, Felipe Gorostiaga, César Sánchez. #Haskell #FunctionalProgramming
+
+* 08-Mar-20
++ [[https://www.type-driven.org.uk/edwinb/papers/idris2.pdf][Idris 2: Quantitative Type Theory in action]]. ~ Edwin Brady. #Idris #FunctionalProgramming
 
 * Lecturas anteriores
 + [[./Lecturas del año 2019.org][Lecturas del año 2019]]
