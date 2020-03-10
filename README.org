@@ -12,7 +12,6 @@ contenido.
   - [[#enero-de-2020][Enero de 2020]]
   - [[#febrero-de-2020][Febrero de 2020]]
   - [[#marzo-de-2020][Marzo de 2020]]
-- [[#08-mar-20][08-Mar-20]]
 - [[#lecturas-anteriores][Lecturas anteriores]]
 
 * Lecturas del año 2020
@@ -530,8 +529,19 @@ contenido.
 + [[https://apfelmus.nfshost.com/articles/lazy-eval-intro.html][How does lazy evaluation work in Haskell?]] ~ Heinrich Apfelmus. #Haskell #FunctionalProgramming via @etorreborre
 + [[https://arxiv.org/abs/2003.00032][Declarative stream runtime verification (hLola)]]. ~ Martı́n Ceresa, Felipe Gorostiaga, César Sánchez. #Haskell #FunctionalProgramming
 
-* 08-Mar-20
+*** 08-Mar-20
 + [[https://www.type-driven.org.uk/edwinb/papers/idris2.pdf][Idris 2: Quantitative Type Theory in action]]. ~ Edwin Brady. #Idris #FunctionalProgramming
+
+*** 09-Mar-20
++ [[http://www.philipzucker.com/naive-synthesis-of-sorting-networks-using-z3py/][Naive synthesis of sorting networks using Z3Py]]. ~ Philip Zucker (@SandMouth). #SMT #Z3
++ [[http://www.scottaaronson.com/papers/pnp.pdf][P =? NP]]. ~ Scott Aaronson (2002). #Logic #CompSci
++ [[https://www.jotdown.es/2020/03/el-coronavirus-y-la-leyenda-del-tablero-de-ajedrez/][El Coronavirus y la leyenda del tablero de ajedrez]]. ~ Carlos Pena y Juan José Gómez Cadenas. #Matemáticas
++ [[http://revue.sesamath.net/spip.php?article1168][Les algorithmes du programme 2019 de mathématiques de Seconde]]. ~ Benjamin Clerc. #Math #Programming #Python
++ [[http://informathix.tuxfamily.org/?q=node/65][Implémentations du problème du Duc de Toscane dans différents langages]]. ~ Guillaume Connan. #Math #Caml #Haskell #Scala #Python #Scilab
++ [[https://download.tuxfamily.org/mathypython/les_pdf/GraphesBeamer19.pdf][Algorithmes de graphes]]. ~ Guillaume Connan (2019). #Math #SageMath #Pythom
++ [[http://download.tuxfamily.org/tehessinmath/les%20pdf/PolyAnalyse16py.pdf][Au delà des réels: méthodes numériques en informatique]]. ~ Guillaume Connan (2016). #Math #Python
++ [[https://github.com/alhassy/CheatSheet][Easily making CheatSheets with Org-mode]]. ~ Musa Al-hassy. #Emacs #OrgMode
++ [[https://github.com/alhassy/PythonCheatSheet][PythonCheatSheet: Quick reference to a tremendously accessible high-level language - executable pseudocode!]] ~ Musa Al-hassy. #Python #OrgMode
 
 * Lecturas anteriores
 + [[./Lecturas del año 2019.org][Lecturas del año 2019]]
