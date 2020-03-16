@@ -543,6 +543,37 @@ contenido.
 + [[https://github.com/alhassy/CheatSheet][Easily making CheatSheets with Org-mode]]. ~ Musa Al-hassy. #Emacs #OrgMode
 + [[https://github.com/alhassy/PythonCheatSheet][PythonCheatSheet: Quick reference to a tremendously accessible high-level language - executable pseudocode!]] ~ Musa Al-hassy. #Python #OrgMode
 
+*** 10-Mar-20
++ [[https://arxiv.org/abs/2003.03729][Formal verification of cyber-physical systems using theorem proving]]. ~ Adnan Rashid, Umair Siddique, Sofine Tahar. #ITP #HOL4 #HOL_Light #IsabelleHOL #Coq #PVS
++ [[https://github.com/gcv/julia-snail][Julia Snail: An Emacs development environment for Julia]]. #Emacs #JuliaLang
++ [[https://github.com/i-am-tom/holmes][Holmes: a library for computing constraint-solving problems]]. ~ Tom Harding. #Haskell #FunctionalProgramming
+
+*** 11-Mar-20
++ [[https://www.quantamagazine.org/landmark-computer-science-proof-cascades-through-physics-and-math-20200304/][Landmark Computer Science proof cascades through Physics and Math]]. ~ Kevin Hartnett (@KSHartnett). #CompSci #Physics #Math
++ [[https://arxiv.org/abs/2003.04604][Hilbert's tenth problem in Coq]]. ~ Dominique Larchey-Wendling, Yannick Forster. #ITP #Coq #Math
++ [[https://serokell.io/blog/haskell-with-utf8][Haskell with UTF-8]]. ~ Kirill Elagin. #Haskell #FunctionalProgramming
++ [[http://www.cis.upenn.edu/~cis262/notes/proofslambda.pdf][Proofs, computability, undecidability, complexity, and the lambda calculus (An introduction)]]. ~ Jean Gallier, Jocelyn Quaintance. #eBook #Logic #CompsCi
+
+*** 12-Mar-20
++ [[https://www.researchgate.net/publication/339499817_Mechanization_of_a_Type_System_for_Atomicity_Analysis_and_its_Type_Safety][Mechanization of a type system for atomicity analysis and its type safety]]. ~ Beatriz Ferreira et als. #ITP #Coq
+
+*** 13-Mar-20
++ [[https://www.glc.us.es/~jalonso/exercitium/producto-de-fibonaccis-consecutivos/][#Exercitium: Soluciones de "Producto de Fibonaccis consecutivos"]]. #Haskell #ProgramaciónFuncional #Matemáticas #I1M2019 
++ [[https://www.glc.us.es/~jalonso/exercitium/distancia-esperada-entre-dos-puntos-de-un-cuadrado-unitario/][#Exercitium: Enunciado de "Distancia esperada entre dos puntos de un cuadrado unitario"]]. #Haskell #ProgramaciónFuncional #Matemáticas #I1M2019 
+
+*** 14-Mar-20
++ [[http://nuprl.org/documents/Constable/The-Continuum.pdf][Computational complexity and Brouwer’s continuum]]. ~ Robert L. Constable. #Logic #Math #ITP #Nuprl
++ [[https://eccc.weizmann.ac.il/report/2020/034][On proof complexity of resolution over polynomial calculus]]. ~ Erfan Khaniki. #Logic #Math #CompSci
++ [[http://bit.ly/38SXjrs][El problema aritmético de Sylvester]]. ~ Juan Arias de Reyna. #Matemáticas
++ [[https://notxor.nueva-actitud.org/blog/2019/04/07/ventajas-del-texto-plano/][Ventajas del texto plano]]. #Emacs #OrgMode
++ [[https://www.logicmatters.net/2020/03/12/more-natural-deduction-exercises/][More natural deduction exercises]]. ~ Peter Smith. #Logic
+
+*** 15-Mar-20
++ [[https://golem.ph.utexas.edu/category/2020/03/the_hardest_math_problem.html][The hardest Math problem]]. ~ John Baez (@johncarlosbaez). #Math
++ [[https://microship.com/lisp-comes-of-age/][LISP comes of age]]. ~ Steven K. Roberts (1980). #Lisp #Programming #AI
++ [[http://espejo-ludico.blogspot.com/2020/03/todas-las-revistas-cacumen.html][Todas las revistas Cacumen]]. #Matemáticas
++ [[https://theconversation.com/amp/matematicas-recreativas-ponga-a-prueba-su-destreza-resolviendo-enigmas-historicos-131946][Matemáticas recreativas: ponga a prueba su destreza resolviendo enigmas históricos]]. ~ Fernando Blasco (@fblascoxyz). #Matemáticas
+
 * Lecturas anteriores
 + [[./Lecturas del año 2019.org][Lecturas del año 2019]]
 + [[./Lecturas del año 2018.org][Lecturas del año 2018]]
