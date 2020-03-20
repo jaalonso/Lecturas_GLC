@@ -574,6 +574,12 @@ contenido.
 + [[http://espejo-ludico.blogspot.com/2020/03/todas-las-revistas-cacumen.html][Todas las revistas Cacumen]]. #Matemáticas
 + [[https://theconversation.com/amp/matematicas-recreativas-ponga-a-prueba-su-destreza-resolviendo-enigmas-historicos-131946][Matemáticas recreativas: ponga a prueba su destreza resolviendo enigmas históricos]]. ~ Fernando Blasco (@fblascoxyz). #Matemáticas
 
+*** 18-Mar-20
++ [[https://search.isabelle.in.tum.de][FindFacts: a search application to find formal theory content of Isabelle and the AFP]]. ~ Fabian Huch./#about #ITP #IsabelleHOL #AFP
++ [[https://personalpages.manchester.ac.uk/staff/hung.bui/ideal.pdf][The ideal mathematician]]. ~ Phillip J. David & Reuben Hersh (1981). #Math
++ [[https://arxiv.org/abs/2003.06458][QED at large: A survey of engineering of formally verified software]]. ~ Talia Ringer, Karl Palmskog, Ilya Sergey, Milos Gligoric, Zachary Tatlock. #ITP #FormalVerification
++ [[http://neilmitchell.blogspot.com/2020/03/the-pure-pattern.html][The <- pure pattern]]. ~ Neil Mitchell (@ndm_haskell). #Haskell #FunctionalProgramming
+
 * Lecturas anteriores
 + [[./Lecturas del año 2019.org][Lecturas del año 2019]]
 + [[./Lecturas del año 2018.org][Lecturas del año 2018]]
