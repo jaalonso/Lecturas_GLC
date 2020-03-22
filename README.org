@@ -580,6 +580,15 @@ contenido.
 + [[https://arxiv.org/abs/2003.06458][QED at large: A survey of engineering of formally verified software]]. ~ Talia Ringer, Karl Palmskog, Ilya Sergey, Milos Gligoric, Zachary Tatlock. #ITP #FormalVerification
 + [[http://neilmitchell.blogspot.com/2020/03/the-pure-pattern.html][The <- pure pattern]]. ~ Neil Mitchell (@ndm_haskell). #Haskell #FunctionalProgramming
 
+*** 20-Mar-20
++ [[http://www.cs.umd.edu/~mwh/papers/lh-typeclasses-draft.pdf][Verifying typeclasses with refinement types]]. ~ Yiyun Liu, James Parker, Michael Hicks, Niki Vazou. #Haskell #LiquidHaskell
++ [[https://www.theguardian.com/technology/2020/mar/19/can-computers-ever-replace-the-classroom][Can computers ever replace the classroom?]] ~ Alex Beard. #IA #Teaching
+
+*** 21-Mar-20
++ [[https://cacm.acm.org/magazines/2020/4/243641-sel4-in-australia/fulltext][seL4 in Australia: From research to real-world trustworthy systems]]. ~ Gernot Heiser, Gerwin Klein, June Andronick. #ITP #IsabelleHOL
++ [[https://www.microsiervos.com/archivo/matematicas/mundo-matematicasx-mathigon.html][El Mundo de las Matemáticas de Mathigon]]. ~ @Alvy. #Matemáticas
++ [[https://mathigon.org/world/][World of Mathematics]]. #Math
+
 * Lecturas anteriores
 + [[./Lecturas del año 2019.org][Lecturas del año 2019]]
 + [[./Lecturas del año 2018.org][Lecturas del año 2018]]
