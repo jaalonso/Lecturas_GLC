@@ -589,6 +589,9 @@ contenido.
 + [[https://www.microsiervos.com/archivo/matematicas/mundo-matematicasx-mathigon.html][El Mundo de las Matemáticas de Mathigon]]. ~ @Alvy. #Matemáticas
 + [[https://mathigon.org/world/][World of Mathematics]]. #Math
 
+*** 22-Mar-20
++ [[https://richardzach.org/2020/03/21/need-a-logic-course-fast/][Need a logic course, fast?]] ~ Richard Zach (@RrrichardZach). #Logic
+
 * Lecturas anteriores
 + [[./Lecturas del año 2019.org][Lecturas del año 2019]]
 + [[./Lecturas del año 2018.org][Lecturas del año 2018]]
