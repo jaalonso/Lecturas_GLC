@@ -592,6 +592,13 @@ contenido.
 *** 22-Mar-20
 + [[https://richardzach.org/2020/03/21/need-a-logic-course-fast/][Need a logic course, fast?]] ~ Richard Zach (@RrrichardZach). #Logic
 
+*** 23-Mar-20
++ [[https://yannherklotz.com/blog/2020-02-15-nix-for-coq-development.html][Nix for Coq development]]. ~ Yann Herklotz (@ymherklotz). #ITP #Coq #Nix
++ [[https://mattpap.github.io/masters-thesis/html/src/groebner.html][Gröbner bases and their applications]]. ~ Mateusz Paprocki. #Math #Python
++ [[https://arxiv.org/abs/2003.09140][Tactic learning and proving for the Coq proof assistant]]. ~ Lasse Blaauwbroek, Josef Urban, Herman Geuvers. #ITP #Coq #MachineLearning
++ [[https://youtu.be/Y-vMHbH4vVI][Towards formally verified smart contracts with Haskell]]. ~ Allison Irvin, Nick Waywood. #Haskell #FunctionalProgramming
++ [[https://www.isa-afp.org/entries/Hello_World.html]["Hello World!" in Isabell/HOL (including a formal framework for reasoning about IO)]]. ~ Cornelius Diekmann and Lars Hupel. #ITP #IsabelleHOL #Monads
+
 * Lecturas anteriores
 + [[./Lecturas del año 2019.org][Lecturas del año 2019]]
 + [[./Lecturas del año 2018.org][Lecturas del año 2018]]
