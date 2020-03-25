@@ -599,6 +599,11 @@ contenido.
 + [[https://youtu.be/Y-vMHbH4vVI][Towards formally verified smart contracts with Haskell]]. ~ Allison Irvin, Nick Waywood. #Haskell #FunctionalProgramming
 + [[https://www.isa-afp.org/entries/Hello_World.html]["Hello World!" in Isabell/HOL (including a formal framework for reasoning about IO)]]. ~ Cornelius Diekmann and Lars Hupel. #ITP #IsabelleHOL #Monads
 
+*** 24-Mar-20
++ [[https://mmhaskell.com/blog/2020/3/9/blaze-lightweight-html-generation][Blaze: Lightweight HTML generation]]. ~ James Bowen (@james_OWA). #Haskell #FunctionalProgramming
++ [[https://byorgey.wordpress.com/2020/03/23/data-structure-challenge-finding-the-rightmost-empty-slot/][Data structure challenge: finding the rightmost empty slot]]. ~ Brent Yorgey. #Haskell #FunctionalProgramming
++ [[https://youtu.be/ZF3CgNpkSTQ][Infinite patterns]]. ~ Cristóbal Vila. #Maths
+
 * Lecturas anteriores
 + [[./Lecturas del año 2019.org][Lecturas del año 2019]]
 + [[./Lecturas del año 2018.org][Lecturas del año 2018]]
