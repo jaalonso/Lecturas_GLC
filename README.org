@@ -604,6 +604,18 @@ contenido.
 + [[https://byorgey.wordpress.com/2020/03/23/data-structure-challenge-finding-the-rightmost-empty-slot/][Data structure challenge: finding the rightmost empty slot]]. ~ Brent Yorgey. #Haskell #FunctionalProgramming
 + [[https://youtu.be/ZF3CgNpkSTQ][Infinite patterns]]. ~ Cristóbal Vila. #Maths
 
+*** 26-Mar-20
++ [[https://arxiv.org/abs/2003.11331][A formalization of SQL with nulls]]. ~ Wilmer Ricciotti, James Cheney. #ITP #Coq
++ [[https://www.finereport.com/en/data-analysis/taichi-a-brand-new-programming-language-frozen-in-99-lines-of-code.html][Taichi: A brand new programming language, “Frozen” in 99 lines of code]]. #Programming
++ [[https://www.well-typed.com/blog/2020/03/functions-in-compact-regions/][The problem with adding functions to compact regions]]. ~ Ömer Sinan Ağacan. #Haskell #FunctionalProgramming
++ [[https://www.isa-afp.org/entries/Relational-Incorrectness-Logic.html][An under-approximate relational logic in Isabelle/HOL]]. ~ Toby Murray. #ITP #IsabelleHOL
+
+*** 27-Mar-20
++ [[https://www.isa-afp.org/entries/Furstenberg_Topology.html][Furstenberg's topology and his proof of the infinitude of primes in Isabelle/HOL]]. ~ Manuel Eberl. #ITP #IsabelleHOL #Math
++ [[https://arxiv.org/abs/2003.11838][Applying the Isabelle Insider framework to airplane security]]. ~ Florian Kammüller, Manfred Kerber. #ITP #IsabelleHOL
++ [[https://blog.patchgirl.io/haskell/2020/03/08/haskell-part-I.html][Building a web app with functional programming - Haskell - part I]]. ~ Iori Matsuhara (@Matsumonkie). #Haskell #FunctionalProgramming
++ [[https://jmorag.netlify.com/posts/zip-tree1/][Zipping Trees, Part 1]]. ~ Joseph Morag. #Haskell #FunctionalProgramming
+
 * Lecturas anteriores
 + [[./Lecturas del año 2019.org][Lecturas del año 2019]]
 + [[./Lecturas del año 2018.org][Lecturas del año 2018]]
