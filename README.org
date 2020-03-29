@@ -616,6 +616,11 @@ contenido.
 + [[https://blog.patchgirl.io/haskell/2020/03/08/haskell-part-I.html][Building a web app with functional programming - Haskell - part I]]. ~ Iori Matsuhara (@Matsumonkie). #Haskell #FunctionalProgramming
 + [[https://jmorag.netlify.com/posts/zip-tree1/][Zipping Trees, Part 1]]. ~ Joseph Morag. #Haskell #FunctionalProgramming
 
+*** 28-Mar-20
++ [[https://arxiv.org/abs/2003.09993][A trustful monad for axiomatic reasoning with probability and nondeterminism]]. ~ Reynald Affeldt, Jacques Garrigue, David Nowak, Takafumi Saikawa. #ITP #Coq
++ [[https://www.mdpi.com/2078-2489/11/3/167][Logic-based technologies for intelligent systems: State of the art and perspectives]]. ~ Roberta Calegari, Giovanni Ciatto, Enrico Denti, Andrea Omicini. #Logic #AI
++ [[https://www.sciencedirect.com/science/article/pii/S1571066120300050][Dual and axiomatic systems for constructive S4, a formally verified equivalence]]. ~ Lourdes del Carmen González HuescaFavio, E. Miranda-Perea, P. Selene Linares-Arévalo. #ITP #Coq
+
 * Lecturas anteriores
 + [[./Lecturas del año 2019.org][Lecturas del año 2019]]
 + [[./Lecturas del año 2018.org][Lecturas del año 2018]]
