@@ -621,6 +621,14 @@ contenido.
 + [[https://www.mdpi.com/2078-2489/11/3/167][Logic-based technologies for intelligent systems: State of the art and perspectives]]. ~ Roberta Calegari, Giovanni Ciatto, Enrico Denti, Andrea Omicini. #Logic #AI
 + [[https://www.sciencedirect.com/science/article/pii/S1571066120300050][Dual and axiomatic systems for constructive S4, a formally verified equivalence]]. ~ Lourdes del Carmen González HuescaFavio, E. Miranda-Perea, P. Selene Linares-Arévalo. #ITP #Coq
 
+*** 31-Mar-20
++ [[https://github.com/adkelley/prolog-starter][A starter template for SWI-Prolog projects]]. ~ Alex Kelley. #Prolog #LogicProgramming 
++ [[https://www.cmpe.boun.edu.tr/sites/default/files/prolog_coding_guidelines.pdf][Some coding guidelines for Prolog]]. ~ Michael A. Covington (2002). #Prolog #LogicProgramming
++ [[https://irreal.org/blog/?p=8761][A repository for writing a Thesis with Org Mode]]. #Emacs #OrgMode
++ [[http://lisp-univ-etc.blogspot.com/2020/03/programming-algorithms-synchronization.html][Programming algorithms: Synchronization]]. ~ Vsevolod Dyomkin. #CommonLisp 
++ [[https://mmhaskell.com/blog/2020/3/16/lucid-another-html-option][Lucid: Another HTML option]]. ~ James Bowen (@james_OWA). #Haskell #FuncionalProgramming
++ [[http://www.sci.brooklyn.cuny.edu/~mate/heartofmath/thinkmath_notes.pdf][Thinking mathematically notes]]. ~ A. Máté. #Logic #Math 
+
 * Lecturas anteriores
 + [[./Lecturas del año 2019.org][Lecturas del año 2019]]
 + [[./Lecturas del año 2018.org][Lecturas del año 2018]]
