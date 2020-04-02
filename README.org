@@ -12,6 +12,7 @@ contenido.
   - [[#enero-de-2020][Enero de 2020]]
   - [[#febrero-de-2020][Febrero de 2020]]
   - [[#marzo-de-2020][Marzo de 2020]]
+  - [[#abril-de-2020][Abril de 2020]]
 - [[#lecturas-anteriores][Lecturas anteriores]]
 
 * Lecturas del año 2020
@@ -628,6 +629,14 @@ contenido.
 + [[http://lisp-univ-etc.blogspot.com/2020/03/programming-algorithms-synchronization.html][Programming algorithms: Synchronization]]. ~ Vsevolod Dyomkin. #CommonLisp 
 + [[https://mmhaskell.com/blog/2020/3/16/lucid-another-html-option][Lucid: Another HTML option]]. ~ James Bowen (@james_OWA). #Haskell #FuncionalProgramming
 + [[http://www.sci.brooklyn.cuny.edu/~mate/heartofmath/thinkmath_notes.pdf][Thinking mathematically notes]]. ~ A. Máté. #Logic #Math 
+
+** Abril de 2020
+
+*** 01-Abr-20
++ [[https://humanreadablemag.com/issues/2/articles/theres-a-mathematician-in-your-compiler][There's a mathematician in your compiler]]. ~ James Phillips. #Logic #Math #CompSci #Scala #FunctionalProgramming via @FunctorFact
++ [[http://www.joachim-breitner.de/blog/768-Animations_in_Kaleidogen][Animations in Kaleidogen]]. ~ Joachim Breitner (@nomeata). #Haskell #FunctionalProgramming
++ [[https://youtu.be/psmu_VAuiag][Curried functions]]. ~ Graham Hutton (@haskellhutt). #Haskell #FunctionalProgramming
++ [[https://frasertweedale.github.io/blog-fp/posts/2020-03-31-quickcheck-hedgehog.html][Migrating from QuickCheck to Hedgehog: mixed results]]. ~ Fraser Tweedale (@hackuador). #Haskell #FunctionalProgramming
 
 * Lecturas anteriores
 + [[./Lecturas del año 2019.org][Lecturas del año 2019]]
