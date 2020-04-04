@@ -638,6 +638,18 @@ contenido.
 + [[https://youtu.be/psmu_VAuiag][Curried functions]]. ~ Graham Hutton (@haskellhutt). #Haskell #FunctionalProgramming
 + [[https://frasertweedale.github.io/blog-fp/posts/2020-03-31-quickcheck-hedgehog.html][Migrating from QuickCheck to Hedgehog: mixed results]]. ~ Fraser Tweedale (@hackuador). #Haskell #FunctionalProgramming
 
+*** 02-Abr-20
++ [[http://www.lix.polytechnique.fr/Labo/Dale.Miller/papers/icdcit-2020.pdf][A distributed and trusted web of formal proofs]]. ~ Dale Miller. #ITP #Logic #Math #CompSci 
++ [[https://arxiv.org/abs/2004.00055][Explosive proofs of mathematical truths]]. ~ Scott Viteri, Simon DeDeo. #ITP #Coq
+
+*** 03-Abr-20
++ [[https://github.com/blanchette/logical_verification_2020/raw/master/hitchhikers_guide.pdf][The Hitchhiker’s Guide to Logical Verification]]. ~ Anne Baanen, Alexander Bentkamp, Jasmin Blanchette, Johannes Hölzl. #eBook #ITP #LeanProver
++ [[https://staff.aist.go.jp/reynald.affeldt/documents/cproba_preprint.pdf][Reasoning with conditional probabilities and joint distributions in Coq]]. ~ Reynald Affeldt, Jacques Garrigue, Takafumi Saikawa. #ITP #Coq #Math
++ [[https://rubenpieters.github.io/assets/papers/JFP20-handlers.pdf][Generalized monoidal effects and handlers]]. ~ Ruben P. Pieters, Tom Schrijvers, Exequiel Rivas. #Haskell #FunctionalProgramming
++ [[http://h2.jaguarpaw.co.uk/posts/refactoring-neural-network/][Refactoring a neural network implementation in Haskell]]. ~ The H2 Wiki. #Haskell #FunctionalProgramming #NeuralNetwork
++ [[https://lispnews.wordpress.com/2020/04/02/acm-open-access-to-lfp/][ACM Open access to LFP (Conference on LISP and Functional Programming)]]. #Lisp #FunctionalProgramming
++ [[http://jackkelly.name/blog/archives/2020/04/03/the_power_of_tiny_dsls/index.html][The power of tiny DSLs]]. ~ Jack Kelly. #Haskell #CodeWorld
+
 * Lecturas anteriores
 + [[./Lecturas del año 2019.org][Lecturas del año 2019]]
 + [[./Lecturas del año 2018.org][Lecturas del año 2018]]
