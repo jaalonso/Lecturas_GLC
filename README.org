@@ -650,6 +650,11 @@ contenido.
 + [[https://lispnews.wordpress.com/2020/04/02/acm-open-access-to-lfp/][ACM Open access to LFP (Conference on LISP and Functional Programming)]]. #Lisp #FunctionalProgramming
 + [[http://jackkelly.name/blog/archives/2020/04/03/the_power_of_tiny_dsls/index.html][The power of tiny DSLs]]. ~ Jack Kelly. #Haskell #CodeWorld
 
+*** 04-Abr-20
++ [[https://dl.acm.org/doi/book/10.1145/2841316][Verified functional programming in Agda]]. ~ Aaron Stump.  #eBook #ITP #Agda
++ [[https://youtu.be/wvXZn4OdExU][El problema de Basilea]]. ~ Urtzi Buijs (@UrtziBuijs). #Matemáticas
++ [[https://www.bates.edu/mathematics/resources/latex-manual/][The Bates LaTeX Manual]]. #LaTeX
+
 * Lecturas anteriores
 + [[./Lecturas del año 2019.org][Lecturas del año 2019]]
 + [[./Lecturas del año 2018.org][Lecturas del año 2018]]
