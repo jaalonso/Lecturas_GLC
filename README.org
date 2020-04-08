@@ -655,6 +655,13 @@ contenido.
 + [[https://youtu.be/wvXZn4OdExU][El problema de Basilea]]. ~ Urtzi Buijs (@UrtziBuijs). #Matemáticas
 + [[https://www.bates.edu/mathematics/resources/latex-manual/][The Bates LaTeX Manual]]. #LaTeX
 
+*** 06-Abr-20
++ [[https://github.com/fp-works/function-composition-cheatsheet][Composition of functions cheatsheet]]. #Haskell #FunctionalProgramming
++ [[https://ahelwer.ca/post/2020-04-05-lean-assignment/][Doing a math assignment with the Lean theorem prover]]. ~ Andrew Helwer (@ahelwer). #ITP #LeanProver #Math
+
+*** 07-Abr-20
++ [[https://rgoswami.me/posts/jupyter-orgmode/][Replacing Jupyter with Orgmode]]. ~ Rohit Goswami (@rg0swami). #Emacs #OrgMode #Python
+
 * Lecturas anteriores
 + [[./Lecturas del año 2019.org][Lecturas del año 2019]]
 + [[./Lecturas del año 2018.org][Lecturas del año 2018]]
