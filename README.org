@@ -662,6 +662,14 @@ contenido.
 *** 07-Abr-20
 + [[https://rgoswami.me/posts/jupyter-orgmode/][Replacing Jupyter with Orgmode]]. ~ Rohit Goswami (@rg0swami). #Emacs #OrgMode #Python
 
+*** 08-Abr-20
++ [[https://www.mimuw.edu.pl/~lukaszcz/sauto.pdf][Practical proof search for Coq by type inhabitation]]. ~ Lukasz Czajka. #ITP #Coq
++ [[https://youtu.be/cHfZEdxtVjU][Haskell: Why monad composes operations sequentially]]. ~ Riccardo Odone (@RiccardoOdone). #Haskell #FunctionalProgramming
++ [[https://chrisdornan.com/posts/2020-04-06-pointless.html][Pointless style]]. ~ Chris Dornan (@CDornan). #Haskell #FunctionalProgramming
++ [[https://jessewarden.com/2020/03/write-unbreakable-python.html][Write unbreakable Python]]. ~ Jesse Warden (@jesterxl). #Python #FunctionalProgramming
++ [[https://chrisdornan.com/posts/2020-04-05-sr-Functor.html][Functor (expanded)]]. ~ Chris Dornan (@CDornan). #Haskell #FunctionalProgramming
++ [[https://www.freecodecamp.org/news/projecteuler100-coding-challenge-competitive-programming/][Introducing the #ProjectEuler100 challenge: the "dark souls" of coding achievements]]. ~ Quincy Larson (@ossia). #Programming #Math
+
 * Lecturas anteriores
 + [[./Lecturas del año 2019.org][Lecturas del año 2019]]
 + [[./Lecturas del año 2018.org][Lecturas del año 2018]]
