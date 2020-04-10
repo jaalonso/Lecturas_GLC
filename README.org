@@ -670,6 +670,9 @@ contenido.
 + [[https://chrisdornan.com/posts/2020-04-05-sr-Functor.html][Functor (expanded)]]. ~ Chris Dornan (@CDornan). #Haskell #FunctionalProgramming
 + [[https://www.freecodecamp.org/news/projecteuler100-coding-challenge-competitive-programming/][Introducing the #ProjectEuler100 challenge: the "dark souls" of coding achievements]]. ~ Quincy Larson (@ossia). #Programming #Math
 
+*** 09-Abr-20
++ [[https://arxiv.org/abs/2004.03673][Maintaining a library of formal mathematics]]. ~ Floris van Doorn, Gabriel Ebner, Robert Y. Lewis. #ITP #LeanProver #Math
+
 * Lecturas anteriores
 + [[./Lecturas del año 2019.org][Lecturas del año 2019]]
 + [[./Lecturas del año 2018.org][Lecturas del año 2018]]
