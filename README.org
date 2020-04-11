@@ -673,6 +673,12 @@ contenido.
 *** 09-Abr-20
 + [[https://arxiv.org/abs/2004.03673][Maintaining a library of formal mathematics]]. ~ Floris van Doorn, Gabriel Ebner, Robert Y. Lewis. #ITP #LeanProver #Math
 
+*** 10-Abr-20
++ [[https://www.youtube.com/playlist?list=PLvROQ_RldgC8KYmkQsF_zKqAXD_Xphr9n][Coursework: The power and limits of Logic]]. ~ Greg Restall (@consequently). #Logic
++ [[https://youtu.be/wA4WLJFjGrE][Key benefits of working in Haskell]]. ~ Sreenidhi Nair (@ersran9). #Haskell #FunctionalProgramming
++ [[http://people.irisa.fr/Jean-Christophe.Lechenet/files/IJCAR_2020.pdf][A fast verified liveness analysis in SSA form]]. ~ Jean-Christophe Léchenet, Sandrine Blazy, David Pichardie. #ITP #Coq
++ [[https://ilyasergey.net/papers/ceramist-draft.pdf][Certifying certainty and uncertainty in approximate membership query structures]]. ~ Kiran Gopinathan, Ilya Sergey. #ITP #Coq
+
 * Lecturas anteriores
 + [[./Lecturas del año 2019.org][Lecturas del año 2019]]
 + [[./Lecturas del año 2018.org][Lecturas del año 2018]]
