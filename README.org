@@ -679,6 +679,12 @@ contenido.
 + [[http://people.irisa.fr/Jean-Christophe.Lechenet/files/IJCAR_2020.pdf][A fast verified liveness analysis in SSA form]]. ~ Jean-Christophe Léchenet, Sandrine Blazy, David Pichardie. #ITP #Coq
 + [[https://ilyasergey.net/papers/ceramist-draft.pdf][Certifying certainty and uncertainty in approximate membership query structures]]. ~ Kiran Gopinathan, Ilya Sergey. #ITP #Coq
 
+*** 11-Abr-20
++ [[https://bit.ly/34tY6yH][The interplay between logic and computation]]. ~ Zena M. Ariola. #Logic #CompSci
++ [[https://joshbradley.me/understanding-the-power-of-lisp/][Understanding the power of LISP]]. ~ @josh_b_rad. #Lisp
++ [[https://www.isa-afp.org/entries/Saturation_Framework.html][A comprehensive framework for saturation theorem proving]]. ~ Sophie Tourret. #ITP #IsabelleHOL #Logic
++ [[https://www.youtube.com/playlist?list=PLIb_io8a5NB2DddFf-PwvZDCOUNT1GZoA][Esencia del álgebra lineal]]. #Matemáticas
+  
 * Lecturas anteriores
 + [[./Lecturas del año 2019.org][Lecturas del año 2019]]
 + [[./Lecturas del año 2018.org][Lecturas del año 2018]]
