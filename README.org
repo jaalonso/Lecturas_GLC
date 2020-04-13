@@ -685,6 +685,16 @@ contenido.
 + [[https://www.isa-afp.org/entries/Saturation_Framework.html][A comprehensive framework for saturation theorem proving]]. ~ Sophie Tourret. #ITP #IsabelleHOL #Logic
 + [[https://www.youtube.com/playlist?list=PLIb_io8a5NB2DddFf-PwvZDCOUNT1GZoA][Esencia del álgebra lineal]]. #Matemáticas
   
+*** 12-Abr-20
++ [[https://bit.ly/2UZum9I][Fundamentals of Artificial Intelligence]]. ~ K.R. Chowdhary. #AI #Logic 
++ [[https://arxiv.org/abs/2004.02983][Integrating Owicki-Gries for C11-style memory models into Isabelle/HOL]]. ~ Sadegh Dalvandi, Brijesh Dongol, Simon Doherty. #ITP #IsabelleHOL
++ [[https://arxiv.org/abs/1909.01743][Verifying the DPLL algorithm in Dafny]]. ~ Cezar-Constantin Andrici, Ştefan Ciobâcă. #Dafny #Verification
++ [[https://bit.ly/3c9CcmF][Herramientas de razonamiento automático en GeoGebra: qué son y para qué sirven]]. ~ M. Pilar Vélez, Tomás Recio, Steven Van Vaerenbergh. #Razonamiento_automático #GeoGebra
++ [[https://www.cambridge.org/core/services/aop-cambridge-core/content/view/CC82B2E79DC5CCAD57E0AC5DF0D43DEC/S0956796820000064a.pdf/div-class-title-heterogeneous-binary-random-access-lists-div.pdf][Functional Pearls: Heterogeneous binary random-access lists]]. ~ Wouter Swierstra. #Agda #FunctionalProgramming
++ [[https://youtu.be/czp3OUmcIYg][On beyond Prolog]]. ~ Anne Ogborn (@AnnieTheObscure). #Prolog #LogicProgramming
++ [[https://blog.josephmorag.com/posts/zip-tree1/][Zipping trees]]. Part 1. ~ Joseph Morag. #Haskell #FunctionalProgramming
++ [[https://blog.josephmorag.com/posts/zip-tree2/][Zipping trees]]. Part 2. ~ Joseph Morag. #Haskell #FunctionalProgramming
+
 * Lecturas anteriores
 + [[./Lecturas del año 2019.org][Lecturas del año 2019]]
 + [[./Lecturas del año 2018.org][Lecturas del año 2018]]
@@ -692,3 +702,4 @@ contenido.
 + [[./Lecturas del año 2016.org][Lecturas del año 2016]]
 + [[./Lecturas del año 2010 al 2015.org][Lecturas del año 2010 al 2015]]
 
+  
