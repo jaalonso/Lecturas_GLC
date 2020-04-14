@@ -695,6 +695,12 @@ contenido.
 + [[https://blog.josephmorag.com/posts/zip-tree1/][Zipping trees]]. Part 1. ~ Joseph Morag. #Haskell #FunctionalProgramming
 + [[https://blog.josephmorag.com/posts/zip-tree2/][Zipping trees]]. Part 2. ~ Joseph Morag. #Haskell #FunctionalProgramming
 
+*** 13-Abr-20
++ [[https://www.isa-afp.org/entries/Sliding_Window_Algorithm.html][Formalization of an algorithm for greedily computing associative aggregations on sliding windows]]. ~ Lukas Heimes, Dmitriy Traytel, Joshua Schneider. #ITP #IsabelleHOL
++ [[https://williamyaoh.com/posts/2020-04-12-software-engineer-hangups.html][Things software engineers trip up on when learning Haskell]]. ~ William Yao (@williamyaoh). #Haskell #FuncionalProgramming
++ [[https://youtu.be/POHVMMG7pqE][10 minute Lean tutorial: proving logical propositions]]. ~ Kevin Buzzard (@XenaProject). #ITP #LeanProver #Logic
++ [[https://www.ideallearning.fi/index.php/blogi/95-chicken-jerky-flavoured-introduction-to-functional-programming-is-out-in-english][Doglike programming book (Chicken jerky flavoured introduction to functional programming)]]. ~ Juuso Vuorinen. #eBook #Haskell #FunctionalProgramming
+
 * Lecturas anteriores
 + [[./Lecturas del año 2019.org][Lecturas del año 2019]]
 + [[./Lecturas del año 2018.org][Lecturas del año 2018]]
