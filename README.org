@@ -701,6 +701,28 @@ contenido.
 + [[https://youtu.be/POHVMMG7pqE][10 minute Lean tutorial: proving logical propositions]]. ~ Kevin Buzzard (@XenaProject). #ITP #LeanProver #Logic
 + [[https://www.ideallearning.fi/index.php/blogi/95-chicken-jerky-flavoured-introduction-to-functional-programming-is-out-in-english][Doglike programming book (Chicken jerky flavoured introduction to functional programming)]]. ~ Juuso Vuorinen. #eBook #Haskell #FunctionalProgramming
 
+*** 14-Abr-20
++ [[https://arxiv.org/abs/2004.05631][At the interface of algebra and statistics]]. ~ Tai-Danae Bradley. #PhD_Thesis #Math
++ [[https://haskellfortypescriptdevs.fission.codes/appendix/haskell-wizards][Haskell Wizards (Character illustrations of Haskell users)]]. #Haskell #FunctionalProgramming
++ [[https://arxiv.org/abs/1904.13203][Computable analysis and notions of continuity in Coq]]. ~ Florian Steinberg, Laurent Thery, Holger Thies. #ITP #Coq #Math
++ [[https://blog.poisson.chat/posts/2020-04-13-safe-head-tail.html][Programming totally with head and tail]]. ~ Li-yao Xia (@lysxia). #Haskell #FunctionalProgramming
+
+*** 16-Abr-20
++ [[https://arxiv.org/abs/2004.06997][Prolog technology reinforcement learning prover]]. ~ Zsolt Zombori, Josef Urban, Chad E. Brown. #ATP #MachineLearning #Prolog
++ [[https://leanpub.com/progalgs/read][Programming algorithms]]. ~ Vsevolod Domkin #eBook #CommonLisp #Programming #Algorithms
++ [[https://golem.ph.utexas.edu/category/2020/04/online_seminar_lists.html][Online seminar lists]]. #Math #CompSci
++ [[https://blog.sumtypeofway.com/posts/fast-iteration-with-haskell.html][Towards faster iteration in industrial Haskell]]. ~ Patrick Thomson (@importantshock). #Haskell #FunctionalProgramming
+
+*** 17-Abr-20
++ [[https://arxiv.org/abs/2004.07390][Trakhtenbrot's theorem in Coq, a constructive approach to finite model theory]]. ~ Dominik Kirst, Dominique Larchey-Wendling. #ITP #Coq #Math
++ [[https://www.tweag.io/posts/2020-04-16-exceptions-in-haskell.html][The three kinds of Haskell exceptions and how to use them]]. ~ Arnaud Spiwack. #Haskell #FunctionalProgramming
++ [[https://github.com/thma/WhyHaskellMatters][Why Haskell matters]]. ~ Thomas Mahler. #Haskell #FunctionalProgramming
+
+*** 18-Abr-20
++ [[https://www21.in.tum.de/~traytel/papers/incompleteness/incompleteness.pdf][Distilling the requirements of Gödel’s Incompleteness theorems with a proof assistant]]. ~ Andrei Popescu, Dmitriy Traytel. #ITP #IsabelleHOL #Logic #Math
++ [[https://www.ps.uni-saarland.de/~gaeher/files/thesis-gaeher.pdf][Towards a formal proof of the Cook-Levin theorem]]. ~ Lennard Gäher. #ITP #Coq #Logic #Math
++ [[http://group-mmm.org/~ayamada/TBDHJY20.pdf][Formalizing the LLL basis reduction algorithm and the LLL factorization algorithm in Isabelle/HOL]]. ~ René Thiemann et als. #ITP #IsabelleHOL 
+
 * Lecturas anteriores
 + [[./Lecturas del año 2019.org][Lecturas del año 2019]]
 + [[./Lecturas del año 2018.org][Lecturas del año 2018]]
