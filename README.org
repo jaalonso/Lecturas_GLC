@@ -723,6 +723,14 @@ contenido.
 + [[https://www.ps.uni-saarland.de/~gaeher/files/thesis-gaeher.pdf][Towards a formal proof of the Cook-Levin theorem]]. ~ Lennard Gäher. #ITP #Coq #Logic #Math
 + [[http://group-mmm.org/~ayamada/TBDHJY20.pdf][Formalizing the LLL basis reduction algorithm and the LLL factorization algorithm in Isabelle/HOL]]. ~ René Thiemann et als. #ITP #IsabelleHOL 
 
+*** 19-Abr-20
++ [[https://hackernoon.com/what-is-haskell-who-uses-it-and-where-can-you-learn-to-code-it-7xme32d0][What Is Haskell, who uses it, and where can you learn to code it]]. ~ Alexander Sechin. #Haskell #FunctionalProgramming
++ [[https://youtu.be/mb-qDG5-05Y][The mechanization of Mathematics]]. ~ Jeremy Avigad. #ITP #Math
++ [[https://www.andrew.cmu.edu/user/avigad/Talks/mechanization_talk.pdf][The mechanization of Mathematics]]. ~ Jeremy Avigad. #ITP #Math
++ [[https://typeclasses.com/timeline][Great moments in Haskell history]]. ~ Chris Martin (@chris__martin), Julie Moronuki (@argumatronic). #Haskell #FunctionalProgramming
++ [[https://pauloedevilhena.com/wp-content/uploads/2020/03/de-vilhena-paulson-algebraically-closed-fields-2020.pdf][Algebraically closed fields in Isabelle/HOL]]. ~ Paulo Emı́lio de Vilhena, Lawrence C. Paulson. #ITP #IsabelleHOL #Math
++ [[https://youtu.be/qwAmiJ5M_zM][Introduction to relude an alternative Haskell prelude]]. ~ Dmitrii Kovanikov (@ChShersh). #Haskell #FunctionalProgramming
+
 * Lecturas anteriores
 + [[./Lecturas del año 2019.org][Lecturas del año 2019]]
 + [[./Lecturas del año 2018.org][Lecturas del año 2018]]
