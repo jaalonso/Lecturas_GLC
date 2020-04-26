@@ -731,6 +731,19 @@ contenido.
 + [[https://pauloedevilhena.com/wp-content/uploads/2020/03/de-vilhena-paulson-algebraically-closed-fields-2020.pdf][Algebraically closed fields in Isabelle/HOL]]. ~ Paulo Emı́lio de Vilhena, Lawrence C. Paulson. #ITP #IsabelleHOL #Math
 + [[https://youtu.be/qwAmiJ5M_zM][Introduction to relude an alternative Haskell prelude]]. ~ Dmitrii Kovanikov (@ChShersh). #Haskell #FunctionalProgramming
 
+*** 21-Abr-20
++ [[https://www.isa-afp.org/entries/Lucas_Theorem.html][Lucas's theorem in Isabelle/HOL]]. ~ Chelsea Edmonds. #ITP #IsabelleHOL #Math
++ [[http://www.haskellforall.com/2020/04/blazing-fast-fibonacci-numbers-using.html][Blazing fast Fibonacci numbers using Monoids]]. ~ G. Gonzalez (@GabrielG439). #Haskell #FunctionalProgramming #Math
++ [[https://arxiv.org/abs/2004.07761][Deep generation of Coq lemma names using elaborated terms]]. ~ Pengyu Nie, Karl Palmskog, Junyi Jessy Li, Milos Gligoric. #ITP #Coq #MachineLearning
+
+*** 23-Abr-20
++ [[https://arxiv.org/abs/2004.10655][Formal verification of flow equivalence in desynchronized designs]]. ~ Jennifer Paykin, Brian Huffman, Daniel M. Zimmerman, Peter A. Beerel. #ITP #Coq
++ [[https://arxiv.org/abs/2004.10263][The Imandra automated reasoning system (system description)]]. ~ Grant Olneya Passmore et als. #ITP
++ [[https://www.tweag.io/posts/2020-04-23-deriving-isomorphically.html][Deriving isomorphically]]. ~ Hans Hoeglund. #Haskell #FunctionalProgramming
+
+*** 25-Mar-20
++ [[http://wwwf.imperial.ac.uk/~buzzard/xena/computers.pdf][When will computers prove theorems?]] ~ Kevin Buzzard. #ITP #Math
+
 * Lecturas anteriores
 + [[./Lecturas del año 2019.org][Lecturas del año 2019]]
 + [[./Lecturas del año 2018.org][Lecturas del año 2018]]
