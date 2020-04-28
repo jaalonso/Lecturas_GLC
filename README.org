@@ -13,6 +13,7 @@ contenido.
   - [[#febrero-de-2020][Febrero de 2020]]
   - [[#marzo-de-2020][Marzo de 2020]]
   - [[#abril-de-2020][Abril de 2020]]
+- [[#27-abr-20][27-Abr-20]]
 - [[#lecturas-anteriores][Lecturas anteriores]]
 
 * Lecturas del año 2020
@@ -741,8 +742,13 @@ contenido.
 + [[https://arxiv.org/abs/2004.10263][The Imandra automated reasoning system (system description)]]. ~ Grant Olneya Passmore et als. #ITP
 + [[https://www.tweag.io/posts/2020-04-23-deriving-isomorphically.html][Deriving isomorphically]]. ~ Hans Hoeglund. #Haskell #FunctionalProgramming
 
-*** 25-Mar-20
+*** 25-Abr-20
 + [[http://wwwf.imperial.ac.uk/~buzzard/xena/computers.pdf][When will computers prove theorems?]] ~ Kevin Buzzard. #ITP #Math
+
+* 27-Abr-20
++ [[https://plato.stanford.edu/entries/recursive-functions/][Recursive functions]]. ~ Walter Dean. #Logic #Math
++ [[https://youtu.be/q5-pykbfViA][Is HoTT the way to do mathematics?]] ~ Kevin Buzzard. #Math #HoTT #ITP
+
 
 * Lecturas anteriores
 + [[./Lecturas del año 2019.org][Lecturas del año 2019]]
