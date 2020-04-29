@@ -13,7 +13,6 @@ contenido.
   - [[#febrero-de-2020][Febrero de 2020]]
   - [[#marzo-de-2020][Marzo de 2020]]
   - [[#abril-de-2020][Abril de 2020]]
-- [[#27-abr-20][27-Abr-20]]
 - [[#lecturas-anteriores][Lecturas anteriores]]
 
 * Lecturas del año 2020
@@ -745,9 +744,18 @@ contenido.
 *** 25-Abr-20
 + [[http://wwwf.imperial.ac.uk/~buzzard/xena/computers.pdf][When will computers prove theorems?]] ~ Kevin Buzzard. #ITP #Math
 
-* 27-Abr-20
+*** 27-Abr-20
 + [[https://plato.stanford.edu/entries/recursive-functions/][Recursive functions]]. ~ Walter Dean. #Logic #Math
 + [[https://youtu.be/q5-pykbfViA][Is HoTT the way to do mathematics?]] ~ Kevin Buzzard. #Math #HoTT #ITP
+
+*** 28-Abr-20
++ [[https://www.abc.es/ciencia/abci-metodo-moore-o-como-aprender-matematicas-estilo-tejano-202004270153_noticia.html][El método Moore o cómo aprender matemáticas al estilo tejano]]. ~ Pedro Alegría. #Matemáticas
++ [[https://scholarworks.gvsu.edu/books/20/][Active Prelude to Calculus]]. ~ Matthew Boelkins. #Math
++ [[https://scholarworks.gvsu.edu/books/18/][Active Calculus 2]].1. ~ Matthew Boelkins. #Math
++ [[https://scholarworks.gvsu.edu/books/19/][Active Calculus Multivariable: 2018 Edition]]. ~ Steve Schlicker, David Austin, Matt Boelkins. #Math
++ [[https://arxiv.org/abs/2004.12330][Detecting fake news for the new coronavirus by reasoning on the Covid-19 ontology]]. ~ Adrian Groza. #ATP #Racer
++ [[https://www.isa-afp.org/entries/Attack_Trees.html][Attack Trees in Isabelle for GDPR compliance of IoT healthcare systems]]. ~ Florian Kammüller. #ITP #IsabelleHOL
++ [[https://www.mdpi.com/1999-4893/13/5/106][Diagnosis in tennis serving technique]]. ~ Eugenio Roanes-Lozano et als. #KBS #CAS #GroebnerBases #Logic #Math #CompSci
 
 
 * Lecturas anteriores
