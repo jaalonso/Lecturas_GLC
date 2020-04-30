@@ -757,6 +757,10 @@ contenido.
 + [[https://www.isa-afp.org/entries/Attack_Trees.html][Attack Trees in Isabelle for GDPR compliance of IoT healthcare systems]]. ~ Florian Kammüller. #ITP #IsabelleHOL
 + [[https://www.mdpi.com/1999-4893/13/5/106][Diagnosis in tennis serving technique]]. ~ Eugenio Roanes-Lozano et als. #KBS #CAS #GroebnerBases #Logic #Math #CompSci
 
+*** 29-Abr-20
++ [[https://alvinalexander.com/downloads/scala-book/ScalaBook.pdf][Scala book (Learn Scala fastwith small, easy lessons)]]. ~ Alvin Alexander, et al. #eBook #Scala #FunctionalProgramming
++ [[https://guilhermehas.github.io/crypto-agda/thesis.pdf][A simplified version of Bitcoin, implemented in Agda]]. ~ Guilherme Horta Alvares da Silva. #ITP #Agda #FunctionalProgramming
++ [[https://gilmi.me/blog/post/2020/04/28/consider-haskell][Consider Haskell]]. ~ Gil Mizrahi (@_gilmi). #Haskell #FunctionalProgramming
 
 * Lecturas anteriores
 + [[./Lecturas del año 2019.org][Lecturas del año 2019]]
