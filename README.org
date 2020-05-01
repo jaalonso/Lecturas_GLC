@@ -762,6 +762,16 @@ contenido.
 + [[https://guilhermehas.github.io/crypto-agda/thesis.pdf][A simplified version of Bitcoin, implemented in Agda]]. ~ Guilherme Horta Alvares da Silva. #ITP #Agda #FunctionalProgramming
 + [[https://gilmi.me/blog/post/2020/04/28/consider-haskell][Consider Haskell]]. ~ Gil Mizrahi (@_gilmi). #Haskell #FunctionalProgramming
 
+*** 30-Abr-20
++ [[https://www.isa-afp.org/entries/Lambert_W.html][The Lambert W function on the reals]]. ~ Manuel Eberl. #ITP #IsabelleHOL #Math
++ [[https://link.springer.com/book/10.1007/978-3-319-58487-4][Introduction to Artificial Intelligence]]. ~ Wolfgang Ertel. #eBook #Logic #AI
++ [[https://open.umn.edu/opentextbooks][Open Textbook Library]]: Open textbooks are textbooks that have been funded, published, and licensed to be freely used, adapted, and distributed. #eBooks
++ [[https://link.springer.com/book/10.1007/978-3-319-97298-5][Mathematical logic (On numbers, sets, structures, and symmetry)]]. ~ Romana Kossak. #eBook #Logic #Math
++ [[https://link.springer.com/book/10.1007/978-3-030-03255-5][Philosophical and mathematical logic]]. ~ Harrie de Swart. #eBook #Logic #Math
++ [[https://link.springer.com/book/10.1007/978-3-319-70790-7][Foundations of programming languages]]. ~ Kent D. Lee. #eBook #Programming #CompSci
++ [[https://xenaproject.wordpress.com/2020/04/30/the-invisible-map/][The invisible map]]. ~ Kevin Buzzard (@XenaProject). #Logic #Math #ITP #Lean
++ [[https://link.springer.com/book/10.1007/978-3-662-57265-8][Proofs from THE BOOK]]. ~ Martin Aigner, Günter M. Ziegler #FreeEbook #Math
+
 * Lecturas anteriores
 + [[./Lecturas del año 2019.org][Lecturas del año 2019]]
 + [[./Lecturas del año 2018.org][Lecturas del año 2018]]
