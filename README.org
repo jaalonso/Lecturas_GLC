@@ -13,6 +13,7 @@ contenido.
   - [[#febrero-de-2020][Febrero de 2020]]
   - [[#marzo-de-2020][Marzo de 2020]]
   - [[#abril-de-2020][Abril de 2020]]
+  - [[#mayo-de-2020][Mayo de 2020]]
 - [[#lecturas-anteriores][Lecturas anteriores]]
 
 * Lecturas del año 2020
@@ -771,6 +772,18 @@ contenido.
 + [[https://link.springer.com/book/10.1007/978-3-319-70790-7][Foundations of programming languages]]. ~ Kent D. Lee. #eBook #Programming #CompSci
 + [[https://xenaproject.wordpress.com/2020/04/30/the-invisible-map/][The invisible map]]. ~ Kevin Buzzard (@XenaProject). #Logic #Math #ITP #Lean
 + [[https://link.springer.com/book/10.1007/978-3-662-57265-8][Proofs from THE BOOK]]. ~ Martin Aigner, Günter M. Ziegler #FreeEbook #Math
+
+** Mayo de 2020
+
+*** 01-May-20
++ [[https://www.isa-afp.org/entries/Gaussian_Integers.html][Gaussian integers in Isabelle/HOL]]. ~ Manuel Eberl. #ITP #IsabelleHOL #Math
++ [[https://www.isa-afp.org/entries/Power_Sum_Polynomials.html][Power sum polynomials and the Girard–Newton theorem in Isabelle/HOL]]. ~ Manuel Eberl. #ITP #IsabelleHOL #Math
++ [[https://arxiv.org/abs/1907.00205][The Ramanujan Machine: Automatically generated conjectures on fundamental constants]]. ~ Gal Raayoni et als. #MachineLearning #Math
++ [[https://pages.cs.wisc.edu/~justhsu/teaching/current/cs538/calendar/][UWisconsin course on Haskell and Rust]]. #Haskell #Rust
++ [[https://iokasimov.github.io/posts/2020/04/waterflow][Learn to moonwalk with waterflow problem]]. ~ Murat Kasimov. #Haskell #FunctionalProgramming
++ [[https://cs-syd.eu/posts/2020-04-28-genvalidity-improvements][Property testing in depth: genvalidity's fixed-size type generators]]. ~ Tom Sydney Kerckhove. #Haskell #QuickCheck
+
+
 
 * Lecturas anteriores
 + [[./Lecturas del año 2019.org][Lecturas del año 2019]]
