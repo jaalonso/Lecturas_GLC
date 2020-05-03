@@ -783,7 +783,12 @@ contenido.
 + [[https://iokasimov.github.io/posts/2020/04/waterflow][Learn to moonwalk with waterflow problem]]. ~ Murat Kasimov. #Haskell #FunctionalProgramming
 + [[https://cs-syd.eu/posts/2020-04-28-genvalidity-improvements][Property testing in depth: genvalidity's fixed-size type generators]]. ~ Tom Sydney Kerckhove. #Haskell #QuickCheck
 
-
+*** 02-May-20
++ [[https://www.hcii.cmu.edu/news/2020/new-ai-enables-teachers-rapidly-develop-intelligent-tutoring-systems][New AI enables teachers to rapidly develop intelligent tutoring systems]]. #AI #Teaching
++ [[https://link.springer.com/content/pdf/10.1007%2F978-3-030-45190-5_24.pdf][Verified certification of reachability checking for timed automata]]. ~ Simon Wimmer, Joshua von Mutius. #ITP #IsabelleHOL 
++ [[https://link.springer.com/content/pdf/10.1007%2F978-3-030-45237-7_11.pdf][Formalized proofs of the infinity and normal form predicates in the first-order theory of rewriting]]. ~ Alexander Lochmann, Aart Middeldorp. #ITP #IsabelleHOL
++ [[https://arxiv.org/abs/2004.12030][Formal proof of the group law for Edwards elliptic curves]]. ~ Thomas Hales, Rodrigo Raya. #ITP #IsabelleHOL #Math
++ [[https://arxiv.org/abs/2004.12713 ][Formal adventures in convex and conical spaces]]. ~ Reynald Affeldt, Jacques Garrigue, Takafumi Saikawa. #ITP #Coq #Math
 
 * Lecturas anteriores
 + [[./Lecturas del año 2019.org][Lecturas del año 2019]]
