@@ -797,6 +797,9 @@ contenido.
 + [[http://ojs.elte.hu/cejntrep/article/view/399/386][A problem-based curriculum for algorithmic programming]]. ~ Nikházy László. #Programming
 + [[https://towardsdatascience.com/bye-bye-python-hello-julia-9230bff0df62][Bye-bye Python. Hello Julia!]] ~ Rhea Moutafis (@RheaMoutafis). #Python #JuliaLang #Programming
 
+*** 4-May-20
++ [[https://techualization.blogspot.com/2020/05/design-by-contract-with-lean-theorem.html?m=0][Design by Contract with Lean theorem prover]]. ~ Nam Nguyen. #ITP #LeanProver #Programming
+
 * Lecturas anteriores
 + [[./Lecturas del año 2019.org][Lecturas del año 2019]]
 + [[./Lecturas del año 2018.org][Lecturas del año 2018]]
