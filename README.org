@@ -800,6 +800,13 @@ contenido.
 *** 4-May-20
 + [[https://techualization.blogspot.com/2020/05/design-by-contract-with-lean-theorem.html?m=0][Design by Contract with Lean theorem prover]]. ~ Nam Nguyen. #ITP #LeanProver #Programming
 
+*** 5-May-20
++ [[https://www.mikulskibartosz.name/functional-programming-principles-vs-data-streaming/][Data flow - what functional programming and Unix philosophy can teach us about data streaming]]. ~ Bartosz Mikulski (@mikulskibartosz). #FunctionalProgramming
++ [[http://marcosh.github.io/post/2020/05/04/intervals-and-their-relations.html][Intervals and their relations]]. ~ Marco Perone (@marcoshuttle). #Haskell #FunctionalProgramming #Math
++ [[https://mmhaskell.com/blog/2020/4/20/frozen-lake-in-haskell][Frozen lake in Haskell]]. ~ James Bowen (@james_OWA). #Haskell #FunctionalProgramming #AI
++ [[http://matt.might.net/articles/best-programming-languages/][Advanced programming languages]]. ~ Matt Might (@mattmight). #Haskell #Scala #SML #OCaml #Scheme #FunctionalProgramming
++ [[https://books.google.es/books?id=0dLQDwAAQBAJ&lpg=PP1&hl=es&pg=PP1#v=onepage&q&f=false][The age of algorithms]]. ~ Serge Abiteboul, Gilles Dowek. #eBook #Algorithms
+
 * Lecturas anteriores
 + [[./Lecturas del año 2019.org][Lecturas del año 2019]]
 + [[./Lecturas del año 2018.org][Lecturas del año 2018]]
