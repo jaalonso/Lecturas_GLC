@@ -807,6 +807,11 @@ contenido.
 + [[http://matt.might.net/articles/best-programming-languages/][Advanced programming languages]]. ~ Matt Might (@mattmight). #Haskell #Scala #SML #OCaml #Scheme #FunctionalProgramming
 + [[https://books.google.es/books?id=0dLQDwAAQBAJ&lpg=PP1&hl=es&pg=PP1#v=onepage&q&f=false][The age of algorithms]]. ~ Serge Abiteboul, Gilles Dowek. #eBook #Algorithms
 
+*** 6-May-20
++ [[http://wwwf.imperial.ac.uk/~buzzard/xena/computers2.pdf][Proving theorems with computers]]. ~ Kevin Buzzard. #ITP #Math
++ [[https://www.isa-afp.org/entries/Forcing.html][Formalization of forcing in Isabelle/ZF]]. ~ Emmanuel Gunther, Miguel Pagano, Pedro Sánchez Terraf. #ITP #IsabelleZF #Logic
++ [[https://www.isa-afp.org/entries/Banach_Steinhaus.html][Banach-Steinhaus theorem in Isabelle/HOL]]. ~ Dominique Unruh, Jose Manuel Rodriguez Caballero. #ITP #IsabelleHOL #Math
+
 * Lecturas anteriores
 + [[./Lecturas del año 2019.org][Lecturas del año 2019]]
 + [[./Lecturas del año 2018.org][Lecturas del año 2018]]
