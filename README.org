@@ -812,6 +812,13 @@ contenido.
 + [[https://www.isa-afp.org/entries/Forcing.html][Formalization of forcing in Isabelle/ZF]]. ~ Emmanuel Gunther, Miguel Pagano, Pedro Sánchez Terraf. #ITP #IsabelleZF #Logic
 + [[https://www.isa-afp.org/entries/Banach_Steinhaus.html][Banach-Steinhaus theorem in Isabelle/HOL]]. ~ Dominique Unruh, Jose Manuel Rodriguez Caballero. #ITP #IsabelleHOL #Math
 
+*** 8-May-20
++ [[https://free.cofree.io/2020/05/06/string-types/][Eat Haskell String Types for Breakfast]]. ~ Ziyang Liu. #Haskell #FunctionalProgramming
++ [[https://tech.fretlink.com/environment-variables-parsing-for-free-applicatives/][Environment variables parsing for free (applicatives)]]. ~ Clément Delafargue. #Haskell #FunctionalProgramming
++ [[https://iceland_jack.brick.do/8c0bc94e-ed41-4db5-8de8-422fc800a061][Monoids as one-object categories, or not?]] ~ @Iceland_jack #Haskell #FunctionalProgramming #CategoryTheory
++ [[https://umazalakain.info/static/typing-linear-pi.pdf][π with leftovers: a mechanisation in Agda]]. ~ Uma Zalakain, Ornela Dardha. #ITP #Agda
++ [[http://chalmersfp.org/][The Chalmers Online Functional Programming Seminar Series]]. #FunctionalProgramming
+
 * Lecturas anteriores
 + [[./Lecturas del año 2019.org][Lecturas del año 2019]]
 + [[./Lecturas del año 2018.org][Lecturas del año 2018]]
