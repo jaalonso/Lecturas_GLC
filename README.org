@@ -819,6 +819,13 @@ contenido.
 + [[https://umazalakain.info/static/typing-linear-pi.pdf][π with leftovers: a mechanisation in Agda]]. ~ Uma Zalakain, Ornela Dardha. #ITP #Agda
 + [[http://chalmersfp.org/][The Chalmers Online Functional Programming Seminar Series]]. #FunctionalProgramming
 
+*** 9-May-20
++ [[https://www.isa-afp.org/entries/LTL_Normal_Form.html][An efficient normalisation procedure for linear temporal logic: Isabelle/HOL formalisation]]. ~ Salomon Sickert. #ITP #IsabelleHOL
++ [[https://www.isa-afp.org/entries/Matrices_for_ODEs.html][Matrices for ODEs in Isabelle/HOL]]. ~ Jonathan Julian Huerta y Munive. #ITP #IsabelleHOL #Math
++ [[https://arxiv.org/abs/2005.02247][A linear algebra approach to linear metatheory]]. ~ James Wood, Robert Atkey. #ITP #Agda 
++ [[https://arxiv.org/abs/2005.01018][Certified semantics for relational programming]]. ~ Dmitry Rozplokhas, Andrey Vyatkin, Dmitry Boulytchev. #ITP #Coq
++ [[https://www.quora.com/Why-is-Lisp-not-as-popular-as-Python/answer/Jan-Meww][Why is Lisp not as popular as Python?]] ~ Jan Meww (@JanMeww). #Python #CommonLisp #Scheme #Clojure
+
 * Lecturas anteriores
 + [[./Lecturas del año 2019.org][Lecturas del año 2019]]
 + [[./Lecturas del año 2018.org][Lecturas del año 2018]]
