@@ -826,6 +826,18 @@ contenido.
 + [[https://arxiv.org/abs/2005.01018][Certified semantics for relational programming]]. ~ Dmitry Rozplokhas, Andrey Vyatkin, Dmitry Boulytchev. #ITP #Coq
 + [[https://www.quora.com/Why-is-Lisp-not-as-popular-as-Python/answer/Jan-Meww][Why is Lisp not as popular as Python?]] ~ Jan Meww (@JanMeww). #Python #CommonLisp #Scheme #Clojure
 
+*** 10-May-20
++ [[https://arxiv.org/abs/2005.02259][Learning programs by learning from failures]]. ~ Andrew Cropper, Rolf Morel. #ILP #MachineLearning #LogicProgramming
+
+**** 11-May-20
++ [[https://youtu.be/KJ8uZiWpomg][Clean vs. defaulty representations in Prolog]]. ~ Markus Triska (@MarkusTriska). #Prolog #LogicProgramming
++ [[https://pp.ipd.kit.edu/uploads/publikationen/himmel20bachelorarbeit.pdf][Diagram chasing in interactive theorem proving]]. ~ Markus Himmel. #BsC_Thesis #ITP #LeanProver #Math
++ [[https://arxiv.org/abs/2005.01917][Learning selection strategies in Buchberger's algorithm]]. ~ Dylan Peifer, Michael Stillman, Daniel Halpern-Leistner. #MachineLearning #Math 
++ [[https://arxiv.org/abs/2005.04022][On the effect of learned clauses on stochastic local search]]. ~ Jan-Hendrik Lorenz, Florian Wörz. #ATP #SAT_solvers
++ [[https://lasciencepourtous.cafe-sciences.org/articles/lintelligence-artificielle-et-lapprentissage-profond/][L’intelligence artificielle et l’apprentissage profond]]. ~ Benjamin Bradu. #AI #DeepLearning
++ [[https://kowainik.github.io/posts/extensions][Extensions]]. ~ Veronika Romashkina (@vrom911). #Haskell #FunctionalProgramming
++ [[https://wespiser.com/posts/2020-05-06-IxMonad.html][Indexed monads: examples and discussion]]. ~ Adam Wespiser (@wespiser). #Haskell #FunctionalProgramming
+
 * Lecturas anteriores
 + [[./Lecturas del año 2019.org][Lecturas del año 2019]]
 + [[./Lecturas del año 2018.org][Lecturas del año 2018]]
