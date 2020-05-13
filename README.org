@@ -838,6 +838,12 @@ contenido.
 + [[https://kowainik.github.io/posts/extensions][Extensions]]. ~ Veronika Romashkina (@vrom911). #Haskell #FunctionalProgramming
 + [[https://wespiser.com/posts/2020-05-06-IxMonad.html][Indexed monads: examples and discussion]]. ~ Adam Wespiser (@wespiser). #Haskell #FunctionalProgramming
 
+*** 12-May-20
++ [[https://www.ias.edu/ideas/2014/voevodsky-origins][The origins and motivations of univalent foundations (A personal mission to develop computer proof verification to avoid mathematical mistakes)]]. ~ Vladimir Voevodsky (2014). #Logic #Math #ITP via @AngelikiKoutso1
++ [[https://www.iro.umontreal.ca/~monnier/hopl-4-emacs-lisp.pdf][Evolution of Emacs Lisp]]. ~ Stefan Monnier et als. #Emacs #Lisp
++ [[https://medium.com/better-programming/15-reasons-why-i-use-emacs-with-gifs-5b03c6608b61][15 reasons why I use Emacs, with GIFs]]. ~ Dominik Tarnowski. #Emacs
++ [[https://mmhaskell.com/blog/2020/4/27/blackjack-following-the-patterns][Blackjack: Following the patterns]]. ~ James Bowen (@james_OWA). #Haskell #FunctionalProgramming #AI 
+
 * Lecturas anteriores
 + [[./Lecturas del año 2019.org][Lecturas del año 2019]]
 + [[./Lecturas del año 2018.org][Lecturas del año 2018]]
