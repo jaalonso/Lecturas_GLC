@@ -844,6 +844,12 @@ contenido.
 + [[https://medium.com/better-programming/15-reasons-why-i-use-emacs-with-gifs-5b03c6608b61][15 reasons why I use Emacs, with GIFs]]. ~ Dominik Tarnowski. #Emacs
 + [[https://mmhaskell.com/blog/2020/4/27/blackjack-following-the-patterns][Blackjack: Following the patterns]]. ~ James Bowen (@james_OWA). #Haskell #FunctionalProgramming #AI 
 
+*** 14-May-20
++ [[https://www.isa-afp.org/entries/Recursion-Addition.html][Recursion theorem in ZF]]. ~ Georgy Dunaev. #ITP #IsabelleZF #Logic #Math
++ [[https://youtu.be/YS7DWacP55U][Haskell: Function application vs fmap vs sequential application vs bind]]. ~ Riccardo Odone (@RiccardoOdone). #Haskell #FunctionalProgramming
++ [[https://www.47deg.com/blog/science-behind-functional-programming/][The science behind functional programming]]. ~ Rafa Paradela. #CategoryTheory #FuncionalProgramming #Kotlin
++ [[https://www.isa-afp.org/entries/Irrational_Series_Erdos_Straus.html][Irrationality criteria for series by Erdős and Straus in Isabelle/HOL]]. ~ Angeliki Koutsoukou-Argyraki, Wenda Li. #ITP #IsabelleHOL #Math
+
 * Lecturas anteriores
 + [[./Lecturas del año 2019.org][Lecturas del año 2019]]
 + [[./Lecturas del año 2018.org][Lecturas del año 2018]]
