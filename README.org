@@ -850,6 +850,13 @@ contenido.
 + [[https://www.47deg.com/blog/science-behind-functional-programming/][The science behind functional programming]]. ~ Rafa Paradela. #CategoryTheory #FuncionalProgramming #Kotlin
 + [[https://www.isa-afp.org/entries/Irrational_Series_Erdos_Straus.html][Irrationality criteria for series by Erdős and Straus in Isabelle/HOL]]. ~ Angeliki Koutsoukou-Argyraki, Wenda Li. #ITP #IsabelleHOL #Math
 
+*** 15-May-20
++ [[https://youtu.be/ZuNMo136QqI][A quick look at impredicativity]]. ~ Simon Peyton Jones. #Haskell #FunctionalProgramming
++ [[https://arxiv.org/abs/2005.07059][Proof-relevant category theory in Agda]]. ~ Jason Z.S. Hu, Jacques Carette. #ITP #Agda #CategoryTheory
++ [[https://janet-lang.org][Janet: a functional and imperative programming language]]. #FunctionalProgramming #JanetLang
++ [[https://youtu.be/B5RRq1BJHEE][MathZero, the classification problem, and set-theoretic type theory]]. ~ David McAllester. #MachineLearning #TypeTheory
++ [[https://www.isa-afp.org/entries/Knuth_Bendix_Order.htmla][A formalization of Knuth–Bendix orders in Isabelle/HOL]]. ~ Christian Sternagel, René Thiemann. #ITP #IsabelleHOL
+
 * Lecturas anteriores
 + [[./Lecturas del año 2019.org][Lecturas del año 2019]]
 + [[./Lecturas del año 2018.org][Lecturas del año 2018]]
