@@ -857,6 +857,11 @@ contenido.
 + [[https://youtu.be/B5RRq1BJHEE][MathZero, the classification problem, and set-theoretic type theory]]. ~ David McAllester. #MachineLearning #TypeTheory
 + [[https://www.isa-afp.org/entries/Knuth_Bendix_Order.htmla][A formalization of Knuth–Bendix orders in Isabelle/HOL]]. ~ Christian Sternagel, René Thiemann. #ITP #IsabelleHOL
 
+*** 16-May-20
++ [[http://wwwf.imperial.ac.uk/~buzzard/xena/pdfs/formalise_UG_maths.pdf][Formalising Mathematics in a theorem prover]]. ~ K. Buzzard. #ITP #Math
++ [[https://jesseevers.com/haskell-types/][Types vs. datatypes vs. typeclasses in Haskell]]. ~ Jesse Evers (@_jlevers). #Haskell #FunctionalProgramming
++ [[http://www.vstill.eu/publications/2020/hsExprTest.pdf][Automatic test generationfor Haskell programming assignments]]. ~ Vladimír Štill. #Haskell #FunctionalProgramming
+
 * Lecturas anteriores
 + [[./Lecturas del año 2019.org][Lecturas del año 2019]]
 + [[./Lecturas del año 2018.org][Lecturas del año 2018]]
