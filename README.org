@@ -862,6 +862,14 @@ contenido.
 + [[https://jesseevers.com/haskell-types/][Types vs. datatypes vs. typeclasses in Haskell]]. ~ Jesse Evers (@_jlevers). #Haskell #FunctionalProgramming
 + [[http://www.vstill.eu/publications/2020/hsExprTest.pdf][Automatic test generationfor Haskell programming assignments]]. ~ Vladimír Štill. #Haskell #FunctionalProgramming
 
+*** 17-May-20
++ [[https://www.glc.us.es/~jalonso/vestigium/videos-de-las-clases-de-algoritmica-con-haskell/][Vídeos de las clases de algorítmica con Haskell]]. #Haskell #ProgramaciónFuncional #Algorítmica #I1M2019
++ [[https://www.glc.us.es/~jalonso/vestigium/videos-de-las-clases-de-razonamiento-automatico-con-isabelle-hol/ ][Vídeos de las clases de razonamiento automático con Isabelle/HOL]]. #Lógica #DAO #IsabelleHOL #LMF2019
++ [[https://arxiv.org/pdf/2005.04722.pdf][Dynamic IFC theorems for free!]] ~ Maximilian Algehed, Jean-Philippe Bernardy, Cătălin Hrit. #ITP #Agda #FunctionalProgramming
++ [[https://iris-project.org/pdfs/2020-actris2-submission.pdf][Machine-checked semantic session typing]]. ~ Jonas Kastberg Hinrichsen et als. #ITP #Coq
++ [[https://arxiv.org/abs/2005.05512][MathZero, the classification problem, and set-theoretic type theory]]. ~ David McAllester. #MachineLearning #TypeTheory
++ [[https://github.com/avesus/ATP_Proofs][Interesting ATP proofs]]. #ATP #Logic #Math 
+
 * Lecturas anteriores
 + [[./Lecturas del año 2019.org][Lecturas del año 2019]]
 + [[./Lecturas del año 2018.org][Lecturas del año 2018]]
