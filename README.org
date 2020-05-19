@@ -870,6 +870,10 @@ contenido.
 + [[https://arxiv.org/abs/2005.05512][MathZero, the classification problem, and set-theoretic type theory]]. ~ David McAllester. #MachineLearning #TypeTheory
 + [[https://github.com/avesus/ATP_Proofs][Interesting ATP proofs]]. #ATP #Logic #Math 
 
+*** 18-May-20
++ [[https://youtu.be/ya5SAmx-7QI][Automating Mathematics? ~ Siddhartha Gadgil]]. #ITP #Math
++ [[http://siddhartha-gadgil.github.io/ProvingGround/index.html][ProvingGround: Automated Theorem proving by learning]]. ~ Siddhartha Gadgil. #ATP #Math #HoTT
+
 * Lecturas anteriores
 + [[./Lecturas del año 2019.org][Lecturas del año 2019]]
 + [[./Lecturas del año 2018.org][Lecturas del año 2018]]
