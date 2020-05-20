@@ -874,6 +874,12 @@ contenido.
 + [[https://youtu.be/ya5SAmx-7QI][Automating Mathematics? ~ Siddhartha Gadgil]]. #ITP #Math
 + [[http://siddhartha-gadgil.github.io/ProvingGround/index.html][ProvingGround: Automated Theorem proving by learning]]. ~ Siddhartha Gadgil. #ATP #Math #HoTT
 
+*** 19-May-20
++ [[https://doisinkidney.com/pdfs/purely-functional-data-structures-slides.pdf][Purely functional data structures and monoids]]. ~ Donnacha Oisín Kidney (@oisdk). #Haskell #FunctionalProgramming
++ [[https://mmhaskell.com/blog/2020/5/4/frozen-lake-with-q-learning][Frozen lake with Q-learning!]] ~ James Bowen (@james_OWA). #Haskell #FunctionalProgramming #MachineLearning
++ [[https://sites.google.com/view/berkeleyleanseminar/home][2020 Berkeley Lean Seminar]]. #ITP #LeanProver
++ [[https://youtu.be/dfZ94N0hS4I][Backtracking generators for random testing]]. ~ Benjamin Pierce. #ITP #Coq #FunctionalProgramming
+
 * Lecturas anteriores
 + [[./Lecturas del año 2019.org][Lecturas del año 2019]]
 + [[./Lecturas del año 2018.org][Lecturas del año 2018]]
