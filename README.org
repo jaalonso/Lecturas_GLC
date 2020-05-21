@@ -880,6 +880,15 @@ contenido.
 + [[https://sites.google.com/view/berkeleyleanseminar/home][2020 Berkeley Lean Seminar]]. #ITP #LeanProver
 + [[https://youtu.be/dfZ94N0hS4I][Backtracking generators for random testing]]. ~ Benjamin Pierce. #ITP #Coq #FunctionalProgramming
 
+*** 20-May-20
++ [[http://adam.chlipala.net/papers/KoikaPLDI20/KoikaPLDI20.pdf][The essence of Bluespec (A core language for rule-based hardware design)]]. Thomas Bourgeat et als. #ITP #Coq
++ [[https://arxiv.org/abs/2005.09452][PubSub implementation in Haskell with formal verification in Coq]]. ~ Boro Sitnikovski, Biljana Stojcevska, Lidija Goracinova-Ilieva, Irena Stojmenovska. #Haskell #FuncionalProgramming #ITP #Coq
++ [[https://youtu.be/eZ9FpG8May8][Why functors and applicatives compose but monads don't]]. ~ Alejandro Serrano (@trupill). #Haskell #FunctionalProgramming  
++ [[https://www.dropbox.com/s/1j828vngpm0yhja/fp-berlin-2020.pdf?dl=0][Why functors and applicatives compose but monads don't]]. [Slides]. ~ Alejandro Serrano (@trupill). #Haskell #FunctionalProgramming  
++ [[https://byorgey.wordpress.com/2020/05/19/competitive-programming-in-haskell-sorting-tree-shapes/][Competitive programming in Haskell: sorting tree shapes]]. ~ Brent Yorgey. #Haskell #FunctionalProgramming
++ [[https://towardsdatascience.com/galois-theory-for-non-mathematicians-3bc08cd40c4a][Galois theory for non-mathematicians]]. ~ Mikael Davidsson. #Math
++ [[https://www.isa-afp.org/entries/Stateful_Protocol_Composition_and_Typing.html][Stateful protocol composition and typing in Isabelle/HOL]]. ~ Andreas V. Hess, Sebastian Mödersheim, Achim D. Brucker. #ITP #IsabelleHOL
+
 * Lecturas anteriores
 + [[./Lecturas del año 2019.org][Lecturas del año 2019]]
 + [[./Lecturas del año 2018.org][Lecturas del año 2018]]
