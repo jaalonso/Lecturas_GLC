@@ -889,6 +889,9 @@ contenido.
 + [[https://towardsdatascience.com/galois-theory-for-non-mathematicians-3bc08cd40c4a][Galois theory for non-mathematicians]]. ~ Mikael Davidsson. #Math
 + [[https://www.isa-afp.org/entries/Stateful_Protocol_Composition_and_Typing.html][Stateful protocol composition and typing in Isabelle/HOL]]. ~ Andreas V. Hess, Sebastian Mödersheim, Achim D. Brucker. #ITP #IsabelleHOL
 
+*** 21-May-20
++ [[https://emarzion.github.io/Cantor-Thm/][Visualizing Cantor's theorem on dense linear orders using Coq]]. ~ Evan Marzion. #ITP #Coq #Math
+
 * Lecturas anteriores
 + [[./Lecturas del año 2019.org][Lecturas del año 2019]]
 + [[./Lecturas del año 2018.org][Lecturas del año 2018]]
