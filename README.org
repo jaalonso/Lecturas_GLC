@@ -892,6 +892,28 @@ contenido.
 *** 21-May-20
 + [[https://emarzion.github.io/Cantor-Thm/][Visualizing Cantor's theorem on dense linear orders using Coq]]. ~ Evan Marzion. #ITP #Coq #Math
 
+*** 22-May-20
++ [[https://www.twitch.tv/videos/627659597][The complex numbers are a ring]]. ~ Kevin Buzzard (@XenaProject). #ITP #LeanProver #Math
++ [[https://fpcomplete.com/how-to-build-with-stack/][How to build with Stack]]. #Haskell #FunctionalProgramming
++ [[https://fpcomplete.com/how-to-script-with-stack/][How to script with Stack]]. #Haskell #FunctionalProgramming
++ [[https://fpcomplete.com/how-to-play-with-stack/][How to play with Stack]]. #Haskell #FunctionalProgramming
++ [[https://fpcomplete.com/profiling-and-performance/][Profiling and performance]]. #Haskell #FunctionalProgramming
++ [[https://fpcomplete.com/monad-transformers/][Monad transformers]]. #Haskell #FunctionalProgramming
++ [[https://fpcomplete.com/recommended-haskell-libraries/][Recommended Haskell libraries]]. #Haskell #FunctionalProgramming
++ [[https://fpcomplete.com/string-types/][String types]]. #Haskell #FunctionalProgramming
++ [[https://fpcomplete.com/synonyms-in-base/][Synonyms in base]]. #Haskell #FunctionalProgramming
++ [[https://fpcomplete.com/lenses/][Lenses]]. #Haskell #FunctionalProgramming
++ [[https://fpcomplete.com/safe-exception-handling/][Safe exception handling]]. #Haskell #FunctionalProgramming
++ [[https://fpcomplete.com/data-types/][Data types]]. #Haskell #FunctionalProgramming
++ [[https://fpcomplete.com/data-structures/][Data structures]]. #Haskell #FunctionalProgramming
++ [[https://fpcomplete.com/common-typeclasses/][Common typeclasses]]. #Haskell #FunctionalProgramming
++ [[https://fpcomplete.com/applied-haskell-101/][Applied Haskell 101 course]]. #Haskell #FunctionalProgramming
++ [[https://fpcomplete.com/crash-course-to-applicative-syntax/][Crash course to applicative syntax]]. #Haskell #FunctionalProgramming
++ [[https://fpcomplete.com/all-about-strictness/][All about strictness]]. #Haskell #FunctionalProgramming
++ [[https://www.youtube.com/playlist?list=PLA66mD-6yK8yjlJCI0Ay2f2IvvmB9Ktga][European Lisp Symposium 2020 videos]]. #Lisp #Programming
++ [[https://github.com/junjihashimoto/sixel][SIXEL Library for Haskell: displaying images on ghci]]. ~ Junji Hashimoto. #Haskell #FunctionalProgramming
++ [[https://anthony.noided.media/blog/haskell/programming/2020/05/14/haskell-errors.html][Error messages in Haskell, and how to improve them]]. ~ Anthony Super. #Haskell #FunctionalProgramming
+
 * Lecturas anteriores
 + [[./Lecturas del año 2019.org][Lecturas del año 2019]]
 + [[./Lecturas del año 2018.org][Lecturas del año 2018]]
