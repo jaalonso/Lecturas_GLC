@@ -914,6 +914,11 @@ contenido.
 + [[https://github.com/junjihashimoto/sixel][SIXEL Library for Haskell: displaying images on ghci]]. ~ Junji Hashimoto. #Haskell #FunctionalProgramming
 + [[https://anthony.noided.media/blog/haskell/programming/2020/05/14/haskell-errors.html][Error messages in Haskell, and how to improve them]]. ~ Anthony Super. #Haskell #FunctionalProgramming
 
+*** 23-May-20
++ [[https://medium.com/@fommil/simple-haskell-is-best-haskell-6a1ea59c73b][Simple Haskell is best Haskell]]. ~ Sam Halliday. #Haskell #FunctionalProgramming
++ [[https://byorgey.wordpress.com/2020/05/22/competitive-programming-in-haskell-building-unordered-trees/][Competitive programming in Haskell: building unordered trees]]. ~ Brent Yorgey. #Haskell #FunctionalProgramming
++ [[https://books.google.es/books?id=zz9wDBjsqlAC&lpg=PP1&hl=es&pg=PP][Sets, logic and maths for computing]]. ~ David Makinson.1#v=onepage&q&f=false #eBook #Logic #Math #CompSci
+
 * Lecturas anteriores
 + [[./Lecturas del año 2019.org][Lecturas del año 2019]]
 + [[./Lecturas del año 2018.org][Lecturas del año 2018]]
