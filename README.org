@@ -919,6 +919,15 @@ contenido.
 + [[https://byorgey.wordpress.com/2020/05/22/competitive-programming-in-haskell-building-unordered-trees/][Competitive programming in Haskell: building unordered trees]]. ~ Brent Yorgey. #Haskell #FunctionalProgramming
 + [[https://books.google.es/books?id=zz9wDBjsqlAC&lpg=PP1&hl=es&pg=PP][Sets, logic and maths for computing]]. ~ David Makinson.1#v=onepage&q&f=false #eBook #Logic #Math #CompSci
 
+*** 24-May-20
++ [[https://arxiv.org/abs/2005.08396][A tutorial introduction to quantum circuit programming in dependently typed Proto-Quipper]]. ~ Peng Fu, Kohei Kishida, Neil J. Ross, Peter Selinger. #FuncionalProgramming #Haskell
++ [[https://leanprover-community.github.io/mathematics_in_lean/][Mathematics in Lean]]. ~ Jeremy Avigad, Kevin Buzzard, Robert Y. Lewis, Patrick Massot. #ITP #LeanProver #Math
++ [[https://maxfieldchen.com/posts/2020-05-23-Dynamically-Flunking-Code-Interview-Haskell.html][Dynamically flunking the coding interview (A gentle introduction to functional dynamic programming)]]. ~ Maxfield Chen. #Haskell #FunctionalProgramming  
++ [[https://xenaproject.wordpress.com/2020/05/23/the-complex-number-game/][The complex number game]]. ~ Kevin Buzzard (@XenaProject). #ITP #LeanProver
++ [[https://teh.id.au/posts/2017/03/13/accumulating-errors/][Accumulating independent errors]]. ~ Tim Humphries (@thumphriees). #Haskell #FunctionalProgramming
++ [[https://handwiki.org/wiki/Start][HandWiki: Online Encyclopedia of Science and Computing]]. 
++ [[https://arxiv.org/abs/2005.08856][How to generate random lambda terms?]] ~ Maciej Bendkowski. #Haskell #FunctionalProgramming
+
 * Lecturas anteriores
 + [[./Lecturas del año 2019.org][Lecturas del año 2019]]
 + [[./Lecturas del año 2018.org][Lecturas del año 2018]]
