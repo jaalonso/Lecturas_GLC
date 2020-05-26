@@ -928,6 +928,12 @@ contenido.
 + [[https://handwiki.org/wiki/Start][HandWiki: Online Encyclopedia of Science and Computing]]. 
 + [[https://arxiv.org/abs/2005.08856][How to generate random lambda terms?]] ~ Maciej Bendkowski. #Haskell #FunctionalProgramming
 
+*** 25-May-20
++ [[https://kwarc.info/people/mkohlhase/papers/icms20-glf-jupyter.pdf][Prototyping controlled mathematical languages in Jupyter notebooks]]. ~ Jan Frederik Schaefer, Kai Amann, Michael Kohlhase. #MKM
++ [[https://hal-lirmm.ccsd.cnrs.fr/lirmm-02611153/document][Toward the formal verification of HILECOP: Formalization and implementation of synchronously executed Petri nets]]. ~ Vincent Iampietro, David Andreu, David Delahaye. #ITP #Coq
++ [[https://www.diva-portal.org/smash/get/diva2:1431287/FULLTEXT01.pdf][A proof and formalization of the initiality conjecture of dependent type theory]]. ~ Menno de Boer. #ITP #Coq
++ [[https://arxiv.org/abs/2005.11023][Symbolic reasoning about quantum circuits in Coq]]. ~ Wenjun Shi, Qinxiang Cao, Yuxin Deng, Hanru Jiang, Yuan Feng. #ITP #Coq
+
 * Lecturas anteriores
 + [[./Lecturas del año 2019.org][Lecturas del año 2019]]
 + [[./Lecturas del año 2018.org][Lecturas del año 2018]]
