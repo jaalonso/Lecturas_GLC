@@ -934,6 +934,10 @@ contenido.
 + [[https://www.diva-portal.org/smash/get/diva2:1431287/FULLTEXT01.pdf][A proof and formalization of the initiality conjecture of dependent type theory]]. ~ Menno de Boer. #ITP #Coq
 + [[https://arxiv.org/abs/2005.11023][Symbolic reasoning about quantum circuits in Coq]]. ~ Wenjun Shi, Qinxiang Cao, Yuxin Deng, Hanru Jiang, Yuan Feng. #ITP #Coq
 
+*** 26-May-20
++ [[https://splintah.gitlab.io/posts/2020-05-24-Simply-typed-lambda.html][Simply typed lambda calculus]]. ~  Splinter Suidman. #Haskell #FuncionalProgramming #LambdaCalculus
++ [[https://www.isa-afp.org/entries/Smith_Normal_Form.html][A verified algorithm for computing the Smith normal form of a matrix]]. ~ Jose Divasón. #ITP #IsabelleHOL #Math
+
 * Lecturas anteriores
 + [[./Lecturas del año 2019.org][Lecturas del año 2019]]
 + [[./Lecturas del año 2018.org][Lecturas del año 2018]]
