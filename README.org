@@ -938,6 +938,10 @@ contenido.
 + [[https://splintah.gitlab.io/posts/2020-05-24-Simply-typed-lambda.html][Simply typed lambda calculus]]. ~  Splinter Suidman. #Haskell #FuncionalProgramming #LambdaCalculus
 + [[https://www.isa-afp.org/entries/Smith_Normal_Form.html][A verified algorithm for computing the Smith normal form of a matrix]]. ~ Jose Divasón. #ITP #IsabelleHOL #Math
 
+*** 27-May-20
++ [[https://arxiv.org/abs/2005.12876][A survey of languages for formalizing mathematics]]. ~ Cezary Kaliszyk, Florian Rabe. #Logic #Math #ITP #MKM
++ [[https://jonascarpay.com/posts/2020-05-26-solver.html][Monoidal puzzle solving]]. ~ Jonas Carpay (@jonascarpay) #Haskell #FunctionalProgramming
+
 * Lecturas anteriores
 + [[./Lecturas del año 2019.org][Lecturas del año 2019]]
 + [[./Lecturas del año 2018.org][Lecturas del año 2018]]
