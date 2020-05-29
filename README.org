@@ -942,6 +942,10 @@ contenido.
 + [[https://arxiv.org/abs/2005.12876][A survey of languages for formalizing mathematics]]. ~ Cezary Kaliszyk, Florian Rabe. #Logic #Math #ITP #MKM
 + [[https://jonascarpay.com/posts/2020-05-26-solver.html][Monoidal puzzle solving]]. ~ Jonas Carpay (@jonascarpay) #Haskell #FunctionalProgramming
 
+*** 28-May-20
++ [[https://youtu.be/_3cYAsJClEg][Capítulo 1 de "Paradojas del nihilismo: La Academia": Desilusión]]. #Universidad
++ [[https://medium.com/syncedreview/new-latex-css-library-enables-websites-to-look-like-latex-docs-690a36e30f4b][New LaTeX.css library enables websites to look like LaTeX docs]]. #LaTeX #Math 
+
 * Lecturas anteriores
 + [[./Lecturas del año 2019.org][Lecturas del año 2019]]
 + [[./Lecturas del año 2018.org][Lecturas del año 2018]]
