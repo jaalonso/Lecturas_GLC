@@ -949,6 +949,21 @@ contenido.
 *** 29-May-20
 + [[https://arxiv.org/abs/1910.12320][Formalising perfectoid spaces]]. ~ Kevin Buzzard, Johan Commelin, Patrick Massot. #ITP #LeanProver #Math
 
+*** 30-May-20
++ [[https://theorylunch.wordpress.com/2013/12/03/natural-numbers-with-addition-form-a-monoid/][Natural numbers with addition form a monoid]]. ~ James Chapman. #ITP #Agda #Math
++ [[https://assets.amazon.science/d0/de/cbec0b4547e3ae7ff077f8aa978f/code-level-model-checking-in-thesoftware-development-workflow.pdf][Code-level model checking in the software development workflow]]. ~ Nathan Chong et als. #FormalVerification #ModelChecking
++ [[https://www.amazon.science/blog/how-to-integrate-formal-proofs-into-software-development][How to integrate formal proofs into software development]]. ~ Daniel Schwartz-Narbonne. #FormalVerification
++ [[https://gist.github.com/Kazark/06acabbd25817ac9efc7fbe0493f23ff][Curry-Howard tutorial in literate Haskell]]. ~ Keith Pinson. #Haskell #FunctionalProgramming #Logic
+
+*** 31-May-20
++ [[https://www.stephendiehl.com/posts/marketing.html][On marketing Haskell]]. ~ Stephen Diehl (@smdiehl) #Haskell #FunctionalProgramming
++ [[https://medium.com/@cdsmithus/a-calculator-with-reflex-and-codeworld-8f154b776f02][A calculator with Reflex and CodeWorld]]. ~ Chris Smith (@cdsmithus). #Haskell #CodeWorld
++ [[https://byorgey.wordpress.com/2020/05/30/competitive-programming-in-haskell-permutations/][Competitive programming in Haskell: permutations]]. ~ Brent Yorgey. #Haskell #FunctionalProgramming
++ [[https://youtu.be/n7QETok5hYI][Economic argument for functional programming]]. ~ Michael Snoyman (@snoyberg). #Haskell #FunctionalProgramming
++ [[https://www.snoyman.com/reveal/economic-argument-functional-programming][Economic argument for functional programming [Slides]]]. ~ Michael Snoyman (@snoyberg). #Haskell #FunctionalProgramming
++ [[https://arxiv.org/abs/2005.11821][A proof assistant based formalisation of core Erlang]]. ~ Péter Bereczky, Dániel Horpácsi, Simon Thompson. #ITP #Coq #Erlang
++ [[https://www21.in.tum.de/~nipkow/pubs/ijcar20-closest.pdf][Verification of closest pair of points algorithms]]. ~ Martin Rau, Tobias Nipkow. #ITP #IsabelleHOL #Algorithms
+
 * Lecturas anteriores
 + [[./Lecturas del año 2019.org][Lecturas del año 2019]]
 + [[./Lecturas del año 2018.org][Lecturas del año 2018]]
