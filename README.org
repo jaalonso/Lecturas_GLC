@@ -14,6 +14,7 @@ contenido.
   - [[#marzo-de-2020][Marzo de 2020]]
   - [[#abril-de-2020][Abril de 2020]]
   - [[#mayo-de-2020][Mayo de 2020]]
+  - [[#junio-de-2020][Junio de 2020]]
 - [[#lecturas-anteriores][Lecturas anteriores]]
 
 * Lecturas del año 2020
@@ -963,6 +964,11 @@ contenido.
 + [[https://www.snoyman.com/reveal/economic-argument-functional-programming][Economic argument for functional programming [Slides]]]. ~ Michael Snoyman (@snoyberg). #Haskell #FunctionalProgramming
 + [[https://arxiv.org/abs/2005.11821][A proof assistant based formalisation of core Erlang]]. ~ Péter Bereczky, Dániel Horpácsi, Simon Thompson. #ITP #Coq #Erlang
 + [[https://www21.in.tum.de/~nipkow/pubs/ijcar20-closest.pdf][Verification of closest pair of points algorithms]]. ~ Martin Rau, Tobias Nipkow. #ITP #IsabelleHOL #Algorithms
+
+** Junio de 2020
+
+*** 01-Jun-20
++ [[https://emanuelpeg.blogspot.com/2020/05/breve-historia-de-haskell.html][Breve historia de Haskell]]. ~ Emanuel Goette (@emanuelpeg). #Haskell #ProgramaciónFuncional
 
 * Lecturas anteriores
 + [[./Lecturas del año 2019.org][Lecturas del año 2019]]
