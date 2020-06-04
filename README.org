@@ -970,6 +970,13 @@ contenido.
 *** 01-Jun-20
 + [[https://emanuelpeg.blogspot.com/2020/05/breve-historia-de-haskell.html][Breve historia de Haskell]]. ~ Emanuel Goette (@emanuelpeg). #Haskell #ProgramaciónFuncional
 
+*** 03-Jun-20
++ [[https://www.isa-afp.org/entries/Nash_Williams.html][The Nash-Williams partition theorem in Isabelle/HOL]]. ~ Lawrence C. Paulson. #ITP #IsabelleHOL
++ [[https://romainviallard.dev/en/blog/setting-up-a-haskell-development-environment-with-nix/][Setting up a Haskell development environment with Nix]]. ~ Romain Viallard. #Haskell #Nix
++ [[https://nottingham-repository.worktribe.com/preview/4475690/big_step_normalisation.pdf][Big step normalisation for type theory]]. ~ Thorsten Altenkirch, Colin Geniet. #ITP #Agda
++ [[https://techxplore.com/news/2020-06-carnegie-mellon-tool-automatically-math.html][Carnegie Mellon tool automatically turns math into pictures]]. #Math
++ [[http://penrose.ink/siggraph20.html][Penrose: from mathematical notation to beautiful diagrams]]. ~ Katherine Ye el als. #Math
+
 * Lecturas anteriores
 + [[./Lecturas del año 2019.org][Lecturas del año 2019]]
 + [[./Lecturas del año 2018.org][Lecturas del año 2018]]
@@ -978,3 +985,4 @@ contenido.
 + [[./Lecturas del año 2010 al 2015.org][Lecturas del año 2010 al 2015]]
 
   
+
