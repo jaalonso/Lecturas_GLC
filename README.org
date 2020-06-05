@@ -977,6 +977,12 @@ contenido.
 + [[https://techxplore.com/news/2020-06-carnegie-mellon-tool-automatically-math.html][Carnegie Mellon tool automatically turns math into pictures]]. #Math
 + [[http://penrose.ink/siggraph20.html][Penrose: from mathematical notation to beautiful diagrams]]. ~ Katherine Ye el als. #Math
 
+*** 04-Jun-20
++ [[http://prooftheory.blog/2020/05/01/hello-world/][Welcome to The Proof Theory Blog! ~ Anupam Das]]. #Logic #Math
++ [[https://github.com/penrose/penrose][Penrose: Create beautiful diagrams just by typing mathematical notation in plain text]]. #Haskell #DSL #Math #Visualization 
++ [[https://wiki.alcidesfonseca.com/blog/lean-tutorial-mere-mortals/][Lean tutorial for mere mortals]]. ~ Alcides Fonseca. #ITP #LeanProver
++ [[https://www.isa-afp.org/entries/Safe_Distance.html][A formally verified checker of the safe distance traffic rules for autonomous vehicles]]. ~ Albert Rizaldi, Fabian Immler. #ITP #IsabelleHOL
+
 * Lecturas anteriores
 + [[./Lecturas del año 2019.org][Lecturas del año 2019]]
 + [[./Lecturas del año 2018.org][Lecturas del año 2018]]
