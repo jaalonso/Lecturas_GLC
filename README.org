@@ -983,6 +983,13 @@ contenido.
 + [[https://wiki.alcidesfonseca.com/blog/lean-tutorial-mere-mortals/][Lean tutorial for mere mortals]]. ~ Alcides Fonseca. #ITP #LeanProver
 + [[https://www.isa-afp.org/entries/Safe_Distance.html][A formally verified checker of the safe distance traffic rules for autonomous vehicles]]. ~ Albert Rizaldi, Fabian Immler. #ITP #IsabelleHOL
 
+*** 05-Jun-20
++ [[https://www.kestrel.edu/home/people/coglio/acl220i.pdf][Isomorphic data type transformations]]. ~ Alessandro Coglio, Stephen Westfold. #ITP #ACL2
++ [[https://lmcs.episciences.org/6518/pdf][Cellular cohomology in homotopy type theory]]. ~ Ulrik Buchholtz, Kuen-Bang Hou. #ITP #Agda #Math
++ [[https://download.clojure.org/papers/clojure-hopl-iv-final.pdf][A history of Clojure]]. ~ Rich Hickey. #Clojure #FunctionalProgramming
++ [[https://samtay.github.io/posts/refactoring-adventures][Adventures in refactoring]]. ~ Sam Tay. #Haskell #FunctionalProgramming
++ [[https://williamyaoh.com/posts/2020-05-31-reanimate-nqueens-tutorial.html][Reanimate: a tutorial on making programmatic animations]]. ~ William Yao (@williamyaoh). #Haskell #FunctionalProgramming
+
 * Lecturas anteriores
 + [[./Lecturas del año 2019.org][Lecturas del año 2019]]
 + [[./Lecturas del año 2018.org][Lecturas del año 2018]]
