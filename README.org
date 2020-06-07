@@ -990,6 +990,16 @@ contenido.
 + [[https://samtay.github.io/posts/refactoring-adventures][Adventures in refactoring]]. ~ Sam Tay. #Haskell #FunctionalProgramming
 + [[https://williamyaoh.com/posts/2020-05-31-reanimate-nqueens-tutorial.html][Reanimate: a tutorial on making programmatic animations]]. ~ William Yao (@williamyaoh). #Haskell #FunctionalProgramming
 
+*** 06-Jun-20
++ [[https://jmtd.net/log/template_haskell/boilerplate/][Using Template Haskell to generate boilerplate]]. ~ Jonathan Dowland. #Haskell #FunctionalProgramming
++ [[https://oleg.fi/gists/posts/2020-06-02-simulated-annealing.html][Simulated annealing]]. ~ Oleg Grenrus (@phadej). #Haskell #FunctionalProgramming
++ [[https://www.fosskers.ca/en/blog/tolist][Trusting toList]]. ~ Colin Woodbury (@fosskers). #Haskell #FunctionalProgramming
++ [[https://serokell.io/blog/formal-verification-history][Formal verification: History and methods]]. ~ Danya Rogozin. #FormalVerification
++ [[https://www.redblobgames.com/][Red Blob Games: interactive visual explanations of math and algorithms, using motivating examples from computer games]]. ~ Amit Patel. #Algorithms
++ [[https://medium.com/@cdsmithus/toy-machine-learning-with-haskell-b18cd04fb9e1][Toy machine learning with Haskell]]. ~ Chris Smith (@cdsmithus). #Haskell #FunctionalProgramming #MachineLearning
++ [[https://xenaproject.wordpress.com/2020/06/05/the-sphere-eversion-project/][The sphere eversion project]]. ~ Kevin Buzzard (@XenaProject). #ITP #LeanProver #Math
++ [[https://books.google.es/books?id=toLoDwAAQBAJ&lpg=PR13&ots=OnJD33xm6P&pg=PP][Algorithm design with Haskell]]. ~ Richard Bird, Jeremy Gibbons.1#v=onepage&q&f=false #eBook #Haskell #FunctionalProgramming #Algorithms
+
 * Lecturas anteriores
 + [[./Lecturas del año 2019.org][Lecturas del año 2019]]
 + [[./Lecturas del año 2018.org][Lecturas del año 2018]]
