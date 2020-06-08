@@ -1000,6 +1000,10 @@ contenido.
 + [[https://xenaproject.wordpress.com/2020/06/05/the-sphere-eversion-project/][The sphere eversion project]]. ~ Kevin Buzzard (@XenaProject). #ITP #LeanProver #Math
 + [[https://books.google.es/books?id=toLoDwAAQBAJ&lpg=PR13&ots=OnJD33xm6P&pg=PP][Algorithm design with Haskell]]. ~ Richard Bird, Jeremy Gibbons.1#v=onepage&q&f=false #eBook #Haskell #FunctionalProgramming #Algorithms
 
+*** 07-Jun-20
++ [[http://ayala.mat.unb.br/mf_PVS0.pdf][Formalization of the computational theory of a Turing complete functional language model]]. ~ TMF Ramos, AA Almeida, M Ayala-Rincón. #ITP #PVS
++ [[http://www.lix.polytechnique.fr/Labo/Dale.Miller/papers/tease-lp-2020.pdf][The proof-theoretic foundations of logic programming]]. ~ Dale Miller. #LogicProgramming
+
 * Lecturas anteriores
 + [[./Lecturas del año 2019.org][Lecturas del año 2019]]
 + [[./Lecturas del año 2018.org][Lecturas del año 2018]]
