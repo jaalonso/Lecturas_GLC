@@ -1004,6 +1004,12 @@ contenido.
 + [[http://ayala.mat.unb.br/mf_PVS0.pdf][Formalization of the computational theory of a Turing complete functional language model]]. ~ TMF Ramos, AA Almeida, M Ayala-Rincón. #ITP #PVS
 + [[http://www.lix.polytechnique.fr/Labo/Dale.Miller/papers/tease-lp-2020.pdf][The proof-theoretic foundations of logic programming]]. ~ Dale Miller. #LogicProgramming
 
+*** 08-Jun-20
++ [[https://medium.com/@getsmarter/what-is-mathematics-5f39b41a4db1][What is Mathematics?]] ~ Get Smarter. #Math
++ [[https://arxiv.org/abs/2006.03525][Formalizing text editors in Coq]]. ~ Boro Sitnikovski. #ITP #Coq
++ [[https://lukelau.me/haskell/posts/making-the-most-of-cabal/][Making the most of Cabal]]. ~ Luke Lau. #Haskell #FunctionalProgramming
++ [[https://dixonary.co.uk/blog/haskell/pain][The pain points of Haskell: A practical summary]]. ~ Alex Dixon (@dixonary_). #Haskell #FunctionalProgramming
+
 * Lecturas anteriores
 + [[./Lecturas del año 2019.org][Lecturas del año 2019]]
 + [[./Lecturas del año 2018.org][Lecturas del año 2018]]
