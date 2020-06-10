@@ -1010,6 +1010,10 @@ contenido.
 + [[https://lukelau.me/haskell/posts/making-the-most-of-cabal/][Making the most of Cabal]]. ~ Luke Lau. #Haskell #FunctionalProgramming
 + [[https://dixonary.co.uk/blog/haskell/pain][The pain points of Haskell: A practical summary]]. ~ Alex Dixon (@dixonary_). #Haskell #FunctionalProgramming
 
+*** 09-Jun-20
++ [[https://towardsdatascience.com/functional-programing-in-data-science-projects-c909c11138bb][Functional programming in data science projects]]. ~ Nathanael Weill. #FuncionalProgramming #DataScience
+
+
 * Lecturas anteriores
 + [[./Lecturas del año 2019.org][Lecturas del año 2019]]
 + [[./Lecturas del año 2018.org][Lecturas del año 2018]]
