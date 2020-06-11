@@ -1013,6 +1013,11 @@ contenido.
 *** 09-Jun-20
 + [[https://towardsdatascience.com/functional-programing-in-data-science-projects-c909c11138bb][Functional programming in data science projects]]. ~ Nathanael Weill. #FuncionalProgramming #DataScience
 
+*** 10-Jun-20
++ [[https://medium.com/@cdsmithus/using-client-side-haskell-web-frameworks-in-codeworld-7d8661647191][Using client-side Haskell web frameworks in CodeWorld]]. ~ Chris Smith (@cdsmithus). #Haskell #CodeWorld
++ [[https://www.linuxlinks.com/excellent-free-books-learn-agda-type-theory/][4 excellent free books to learn Agda and type theory]]. ~ Erik Karlsson. #ITP #Agda #FunctionalProgramming #TypeTheory
++ [[https://github.com/disco-lang/disco/][Disco: Functional teaching language for use in a discrete mathematics course]]. ~ Brent Yorgey. #Haskell #FunctionalProgramming #DSL #Math
++ [[http://neilmitchell.blogspot.com/2020/06/hoogle-searching-overview.html][Hoogle searching overview]]. ~ Neil Mitchell (@ndm_haskell). #Haskell #FunctionalProgramming 
 
 * Lecturas anteriores
 + [[./Lecturas del año 2019.org][Lecturas del año 2019]]
