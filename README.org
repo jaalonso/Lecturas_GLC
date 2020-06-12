@@ -1019,6 +1019,17 @@ contenido.
 + [[https://github.com/disco-lang/disco/][Disco: Functional teaching language for use in a discrete mathematics course]]. ~ Brent Yorgey. #Haskell #FunctionalProgramming #DSL #Math
 + [[http://neilmitchell.blogspot.com/2020/06/hoogle-searching-overview.html][Hoogle searching overview]]. ~ Neil Mitchell (@ndm_haskell). #Haskell #FunctionalProgramming 
 
+*** 11-Jun-20
++ [[https://www.quantamagazine.org/the-useless-perspective-that-transformed-mathematics-20200609/][The ‘useless’ perspective that transformed mathematics]]. ~ Kevin Hartnett (@KSHartnett). #Math
++ [[https://rjlipton.wordpress.com/2020/06/04/the-truth/]["The truth: What is the truth?", at Gödel's Lost Letter and P=NP]]. ~ R.J. Lipton. #Logic #Math
++ [[https://youtu.be/PU9Gs-XRYEQ][Scripting in Haskell: Parsing command line arguments]]. ~ Riccardo Odone (@RiccardoOdone). #Haskell #FunctionalProgramming
++ [[https://jmtd.net/log/template_haskell/streamgraph/][Template Haskell and stream-processing programs]]. ~ Jonathan Dowland (@jmtd). #Haskell #FunctionalProgramming
++ [[https://patternsinfp.wordpress.com/2018/11/21/how-to-design-co-programs/][How to design co-programs]]. ~ Jeremy Gibbons. #Haskell #FunctionalProgramming
++ [[https://aperiodical.com/2020/06/conways-circle-theorem-a-proof-this-time-with-words/][Conway’s circle theorem: a proof, this time with words]]. ~ Colin Beveridge, Elizabeth A. Williams. #Math
++ [[https://github.com/affeldt-aist/monae][Monadic equational reasoning in Coq]]. ~ Reynald Affeldt. #ITP #Coq
++ [[http://www.math.mcgill.ca/triples/Barr-Wells-ctcs.pdf][Category theory for computing science]]. ~ Michael Barr, Charles Wells (1998). #eBook #CategoryTheory #Math #CompSci
++ [[https://math.mit.edu/~dspivak/teaching/sp18/7Sketches.pdf][Seven sketches in compositionality: An invitation to applied category theory]]. ~ Brendan Fong, David I. Spivak (2018). #eBook #CategoryTheory #Math #CompSci
+
 * Lecturas anteriores
 + [[./Lecturas del año 2019.org][Lecturas del año 2019]]
 + [[./Lecturas del año 2018.org][Lecturas del año 2018]]
