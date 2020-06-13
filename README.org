@@ -1030,6 +1030,11 @@ contenido.
 + [[http://www.math.mcgill.ca/triples/Barr-Wells-ctcs.pdf][Category theory for computing science]]. ~ Michael Barr, Charles Wells (1998). #eBook #CategoryTheory #Math #CompSci
 + [[https://math.mit.edu/~dspivak/teaching/sp18/7Sketches.pdf][Seven sketches in compositionality: An invitation to applied category theory]]. ~ Brendan Fong, David I. Spivak (2018). #eBook #CategoryTheory #Math #CompSci
 
+*** 12-Jun-20
++ [[https://www.inner-product.com/posts/fp-what-and-why/][What functional programming is, what it isn't, and why it matters]]. ~ Noel Welsh. #FunctionalProgramming
++ [[https://github.com/zfoh/haskell-simple-install][Simple Haskell install instructions - ZuriHac 2020]]. #Haskell #FunctionalProgramming 
++ [[https://www.lemonde.fr/blog/binaire/2020/06/12/la-logique-un-instrument-theorique-pour-des-problemes-pratiques/][La logique: un instrument théorique pour des problèmes pratiques]]. ~ Franco Raimondi. #Logic #Math #CompSci
+
 * Lecturas anteriores
 + [[./Lecturas del año 2019.org][Lecturas del año 2019]]
 + [[./Lecturas del año 2018.org][Lecturas del año 2018]]
