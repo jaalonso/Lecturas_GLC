@@ -1035,6 +1035,14 @@ contenido.
 + [[https://github.com/zfoh/haskell-simple-install][Simple Haskell install instructions - ZuriHac 2020]]. #Haskell #FunctionalProgramming 
 + [[https://www.lemonde.fr/blog/binaire/2020/06/12/la-logique-un-instrument-theorique-pour-des-problemes-pratiques/][La logique: un instrument théorique pour des problèmes pratiques]]. ~ Franco Raimondi. #Logic #Math #CompSci
 
+*** 13-Jun-20
++ [[https://romainviallard.dev/en/blog/deploying-your-app-with-nixos/][Deploying your application with NixOS]]. ~ Romain Viallard. #Nix #Haskell
++ [[https://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=B2E32B9A9303A9017662D564EB848FFE?doi=10.1.1.110.122&rep=rep1&type=pdf][An extended comparative study of language support for generic programming]]. ~ Ronald Garcia, Jaakko J Ärvi, Andrew Lumsdaine, Jeremy Siek, Jeremiah Willcock. #Cpp #SML #OCaml #Haskell #Eiffel #Java #Csharp #Cecil.
++ [[http://adam.chlipala.net/theses/zygi.pdf][Towards a verified first-stage bootloader in Coq]]. ~ Zygimantas Straznickas. #MsC_Thesis #ITP #Coq
++ [[https://arxiv.org/pdf/2006.04399.pdf][Completeness theorems for first-order logic analysed in constructive type theory]]. ~ Yannick Forster, Dominik Kirst, Dominik Weh. #ITP #Coq #Logic
++ [[http://www21.in.tum.de/~lammich/isabelle_llvm/paper_IJCAR2020.pdf][Efficient verified implementation of introsort and pdqsort]]. ~ Peter Lammich. #ITP #IsabelleHOL
++ [[https://youtu.be/x0R5h190Yts][(Programming Languages) in Agda = Programming (Languages in Agda)]]. ~ Philip Wadler. #ITP #Agda
+
 * Lecturas anteriores
 + [[./Lecturas del año 2019.org][Lecturas del año 2019]]
 + [[./Lecturas del año 2018.org][Lecturas del año 2018]]
