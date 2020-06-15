@@ -1043,6 +1043,12 @@ contenido.
 + [[http://www21.in.tum.de/~lammich/isabelle_llvm/paper_IJCAR2020.pdf][Efficient verified implementation of introsort and pdqsort]]. ~ Peter Lammich. #ITP #IsabelleHOL
 + [[https://youtu.be/x0R5h190Yts][(Programming Languages) in Agda = Programming (Languages in Agda)]]. ~ Philip Wadler. #ITP #Agda
 
+*** 14-Jun-20
++ [[https://ttaylorr.com/publications/uw-thesis.pdf][Verifying strong eventual consistency in δ-CRDTs]]. Taylor Blau. #ITP #IsabelleHOL
++ [[https://dl.acm.org/doi/pdf/10.1145/3386336][The history of Standard ML]]. ~ David MacQueen, Robert Harper, John Reppy. #SML #FunctionalProgramming
++ [[https://youtu.be/y0GwxCDTJvA][Programación funcional: Próximamente en un lenguaje de programación cerca de usted]]. ~ Andrés Marzal. #ProgramaciónFuncional
++ [[https://andys8.github.io/awesome-haskell-videos/][Awesome Haskell videos (A collection of awesome Haskell videos)]]. ~ @_andys8 #Haskell #FunctionalProgramming
+
 * Lecturas anteriores
 + [[./Lecturas del año 2019.org][Lecturas del año 2019]]
 + [[./Lecturas del año 2018.org][Lecturas del año 2018]]
