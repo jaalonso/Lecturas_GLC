@@ -1049,6 +1049,14 @@ contenido.
 + [[https://youtu.be/y0GwxCDTJvA][Programación funcional: Próximamente en un lenguaje de programación cerca de usted]]. ~ Andrés Marzal. #ProgramaciónFuncional
 + [[https://andys8.github.io/awesome-haskell-videos/][Awesome Haskell videos (A collection of awesome Haskell videos)]]. ~ @_andys8 #Haskell #FunctionalProgramming
 
+*** 15-Jun-20
++ [[https://splintah.gitlab.io/posts/2020-06-14-Type-inference.html][Type inference]]. ~ Splinter Suidman. #Haskell #FunctionalProgramming
++ [[https://www.mimuw.edu.pl/~lukaszcz/sauto.pdf][Practical proof search for Coq by type inhabitation]]. ~ Lukasz Czajka. #ITP #Coq
++ [[https://arxiv.org/abs/2002.00620][Validating mathematical structures]]. ~ Kazuhiko Sakaguchi. #ITP #Coq #math
++ [[https://hal.inria.fr/hal-02463336v2/document][Competing inheritance paths in dependent type theory: a case study in functional analysis]]. ~ Reynald Affeldt, Cyril Cohen, Marie Kerjean, Assia Mahboubi, Damien Rouhling and Kazuhiko Sakaguchi. #ITP #Coq #Math
++ [[https://www21.in.tum.de/~traytel/papers/ijcar20-qbnf/qbnf.pdf][Quotients of bounded natural functors]]. ~ Basil Fürer, Andreas Lochbihler, Joshua Schneider and Dmitriy Traytel. #ITP #IsabelleHOL
++ [[https://github.com/prathyvsh/formal-systems-in-biology][Application of formal systems to model biological systems]]. ~ @prathyvsh #Math #Biology
+
 * Lecturas anteriores
 + [[./Lecturas del año 2019.org][Lecturas del año 2019]]
 + [[./Lecturas del año 2018.org][Lecturas del año 2018]]
