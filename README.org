@@ -1057,6 +1057,15 @@ contenido.
 + [[https://www21.in.tum.de/~traytel/papers/ijcar20-qbnf/qbnf.pdf][Quotients of bounded natural functors]]. ~ Basil Fürer, Andreas Lochbihler, Joshua Schneider and Dmitriy Traytel. #ITP #IsabelleHOL
 + [[https://github.com/prathyvsh/formal-systems-in-biology][Application of formal systems to model biological systems]]. ~ @prathyvsh #Math #Biology
 
+*** 16-Jun-20
++ [[http://pit-claudel.fr/clement/papers/fiat-to-facade.pdf][Extensible extraction of efficient imperative programs with foreign functions, manually managed memory, and proofs]]. ~ Clément Pit-Claudel, Peng Wang, Benjamin Delaware, Jason Gross and Adam Chlipala. #ITP #Coq
++ [[http://acl2-2020.info/slides/adventures-verifying-arithmetic.pdf][Adventures in verifying arithmetic]]. ~ John Harrison. #ITP #HOL_Light #Math
++ [[https://www21.in.tum.de/~traytel/papers/ijcar20-verimonplus/verimonplus.pdf][A formally verified, optimized monitor for metric first-order dynamic logic]]. ~ David Basin, Thibault Dardinier, Lukas Heimes, Srđan Krstić, Martin Raszyk, Joshua Schneider, Dmitriy Traytel. #ITP #IsabelleHOL
++ [[https://arxiv.org/abs/1910.03740.pdf][The resolution of Keller's conjecture]]. ~ Joshua Brakensiek, Marijn Heule, John Mackey, David Narvaez. ~ #ATP #SAT_Solver #Math
++ [[https://bartoszmilewski.com/2020/06/15/monoidal-catamorphisms/][Monoidal catamorphisms]]. ~ Bartosz Milewski (@BartoszMilewski). #Haskell #CategoryTheory
++ [[http://www.openculture.com/free-math-textbooks][Free Math Textbooks]]. #Math 
++ [[https://www.47deg.com/blog/io-haskell/][The power of IO in Haskell]]. ~ Alejandro Serrano (@trupill). #Haskell #FunctionalProgramming
++ [[https://mmhaskell.com/blog/2020/6/15/training-our-agent-with-haskell][Training our agent with Haskell!]] ~ James Bowen (@james_OWA). #Haskell #FunctionalProgramming
 * Lecturas anteriores
 + [[./Lecturas del año 2019.org][Lecturas del año 2019]]
 + [[./Lecturas del año 2018.org][Lecturas del año 2018]]
