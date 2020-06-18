@@ -1066,6 +1066,13 @@ contenido.
 + [[http://www.openculture.com/free-math-textbooks][Free Math Textbooks]]. #Math 
 + [[https://www.47deg.com/blog/io-haskell/][The power of IO in Haskell]]. ~ Alejandro Serrano (@trupill). #Haskell #FunctionalProgramming
 + [[https://mmhaskell.com/blog/2020/6/15/training-our-agent-with-haskell][Training our agent with Haskell!]] ~ James Bowen (@james_OWA). #Haskell #FunctionalProgramming
+
+*** 17-Jun-20
++ [[https://www.cs.vu.nl/~tbn305/publicaties/2020-ring_exp.pdf][A Lean tactic for normalising ring expressions with exponents]]. ~ Anne Baanen. #ITP #LeanProver #Math
++ [[https://simon-robillard.net/content/essmann2020approximation.pdf][Verified approximation algorithms]]. ~ Robin Eßmann, Tobias Nipkow, Simon Robillard. #ITP #IsabelleHOL
++ [[https://emanuelpeg.blogspot.com/2020/06/analisis-de-texto-usando-funciones-de.html][Análisis de texto usando funciones de orden superior]]. ~ Emanuel Goette (@emanuelpeg). #Haskell #ProgramaciónFuncional
++ [[https://well-typed.com/blog/2020/06/th-for-static-data/][Using Template Haskell to generate static data]]. ~ Andreas Klebinger. #Haskell #FunctionalProgramming
+
 * Lecturas anteriores
 + [[./Lecturas del año 2019.org][Lecturas del año 2019]]
 + [[./Lecturas del año 2018.org][Lecturas del año 2018]]
