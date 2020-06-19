@@ -1073,6 +1073,10 @@ contenido.
 + [[https://emanuelpeg.blogspot.com/2020/06/analisis-de-texto-usando-funciones-de.html][Análisis de texto usando funciones de orden superior]]. ~ Emanuel Goette (@emanuelpeg). #Haskell #ProgramaciónFuncional
 + [[https://well-typed.com/blog/2020/06/th-for-static-data/][Using Template Haskell to generate static data]]. ~ Andreas Klebinger. #Haskell #FunctionalProgramming
 
+*** 18-Jun-20
++ [[https://arxiv.org/abs/2006.09884][Computer-assisted proofs for Lyapunov stability via Sums of Squares certificates and Constructive Analysis]]. ~ Grigory Devadze, Victor Magron, Stefan Streif. #ITP #MinLog #Math
++ [[https://youtu.be/geV8F59q48E][Basic optics: lenses, prisms, and traversals in Haskell]]. ~ Alejandro Serrano (@trupill). #Haskell #FunctionalProgramming
+
 * Lecturas anteriores
 + [[./Lecturas del año 2019.org][Lecturas del año 2019]]
 + [[./Lecturas del año 2018.org][Lecturas del año 2018]]
