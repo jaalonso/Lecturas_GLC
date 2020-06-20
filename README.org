@@ -1077,6 +1077,13 @@ contenido.
 + [[https://arxiv.org/abs/2006.09884][Computer-assisted proofs for Lyapunov stability via Sums of Squares certificates and Constructive Analysis]]. ~ Grigory Devadze, Victor Magron, Stefan Streif. #ITP #MinLog #Math
 + [[https://youtu.be/geV8F59q48E][Basic optics: lenses, prisms, and traversals in Haskell]]. ~ Alejandro Serrano (@trupill). #Haskell #FunctionalProgramming
 
+*** 19-Jun-20
++ [[https://www.danielbrice.net/blog/simple-linear-regression-in-one-pass/][Simple linear regression in one pass]]. ~ Daniel Brice (@fried_brice). #Haskell #FuncionalProgramming
++ [[https://dev.to/theodesp/solving-algorithm-challenges-in-haskell-anagrams-15jd][Solving algorithm challenges in Haskell: Anagrams]]. ~ Theofanis Despoudis (@nerdokto). #Haskell #FunctionalProgramming
++ [[http://leanprover.github.io/talks/LeanPLDI.pdf][Lean 4]]. ~ Leonardo de Moura, Sebastian Ullrich. #ITP #LeanProver
++ [[https://www.connectedpapers.com/][Connected Papers: A visual tool to help researchers and practitioners find and explore academic papers]]. ~ @ConnectedPapers 
+
+
 * Lecturas anteriores
 + [[./Lecturas del año 2019.org][Lecturas del año 2019]]
 + [[./Lecturas del año 2018.org][Lecturas del año 2018]]
