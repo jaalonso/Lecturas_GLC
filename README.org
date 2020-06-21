@@ -1083,6 +1083,9 @@ contenido.
 + [[http://leanprover.github.io/talks/LeanPLDI.pdf][Lean 4]]. ~ Leonardo de Moura, Sebastian Ullrich. #ITP #LeanProver
 + [[https://www.connectedpapers.com/][Connected Papers: A visual tool to help researchers and practitioners find and explore academic papers]]. ~ @ConnectedPapers 
 
+*** 20-Jun-20
++ [[https://www.tweag.io/blog/2020-06-19-linear-types-merged/][Linear types are merged in GHC]]. ~ Arnaud Spiwack. #Haskell #FunctionalProgramming
++ [[https://bor0.wordpress.com/2020/06/20/proofs-and-computation-with-trees/][Proofs and computation with trees]]. ~ Boro Sitnikovski (@BSitnikovski). #Math #CompSci
 
 * Lecturas anteriores
 + [[./Lecturas del año 2019.org][Lecturas del año 2019]]
