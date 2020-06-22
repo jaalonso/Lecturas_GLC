@@ -1087,6 +1087,12 @@ contenido.
 + [[https://www.tweag.io/blog/2020-06-19-linear-types-merged/][Linear types are merged in GHC]]. ~ Arnaud Spiwack. #Haskell #FunctionalProgramming
 + [[https://bor0.wordpress.com/2020/06/20/proofs-and-computation-with-trees/][Proofs and computation with trees]]. ~ Boro Sitnikovski (@BSitnikovski). #Math #CompSci
 
+*** 21-Jun-20
++ [[https://xenaproject.wordpress.com/2020/06/20/mathematics-in-type-theory/][Mathematics in type theory]]. ~ Kevin Buzzard (@XenaProject). #Logic #Math #ITP #LeanProver
++ [[http://syrcose.ispras.ru/2020/presentations/SYRCoSE_2020_slides_05_99.pdf][Verified Isabelle/HOL tactic for the theory of bounded linear integer arithmeticl based on quantifier instantiation and SMT]]. ~ Rafael Sadykov , Mikhail Mandrykin. #ITP #IsabelleHOL #SMT
++ [[https://www.isa-afp.org/entries/LTL_Normal_Form.html][An efficient normalisation procedure for linear temporal logic: Isabelle/HOL formalisation]]. ~ Salomon Sickert. #ITP #IsabelleHOL #Logic
++ [[http://acl2-2020.info/papers/formal-verification-of-arithmetic-rtl.pdf][Formal verification of arithmetic RTL: Translating Verilog to C++ to ACL2]]. ~ David M. Russinoff. #ITP #ACL2
+
 * Lecturas anteriores
 + [[./Lecturas del año 2019.org][Lecturas del año 2019]]
 + [[./Lecturas del año 2018.org][Lecturas del año 2018]]
