@@ -1093,6 +1093,11 @@ contenido.
 + [[https://www.isa-afp.org/entries/LTL_Normal_Form.html][An efficient normalisation procedure for linear temporal logic: Isabelle/HOL formalisation]]. ~ Salomon Sickert. #ITP #IsabelleHOL #Logic
 + [[http://acl2-2020.info/papers/formal-verification-of-arithmetic-rtl.pdf][Formal verification of arithmetic RTL: Translating Verilog to C++ to ACL2]]. ~ David M. Russinoff. #ITP #ACL2
 
+*** 22-Jun-20
++ [[http://acl2-2020.info/papers/cauchy-schwarz.pdf][Cauchy-Schwarz in ACL2(r) abstract vector spaces]]. ~ Carl Kwan, Yan Peng, Mark R. Greenstreet. #ITP #ACL2 #Math
++ [[http://acl2-2020.info/papers/quadratic-extensions.pdf][Quadratic extensions in ACL2]]. ~ Ruben Gamboa, John Cowles, Woodrow Gamboa. #ITP #ACL2 #Math
++ [[http://syrcose.ispras.ru/2020/submissions/SYRCoSE_2020_paper_09_81.pdf][Techniques for implementation of symbolically interpretable Haskell EDSLs]]. ~ Grigoriy Volkov. #Haskell #FunctionalProgramming
+
 * Lecturas anteriores
 + [[./Lecturas del año 2019.org][Lecturas del año 2019]]
 + [[./Lecturas del año 2018.org][Lecturas del año 2018]]
