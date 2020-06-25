@@ -1098,6 +1098,20 @@ contenido.
 + [[http://acl2-2020.info/papers/quadratic-extensions.pdf][Quadratic extensions in ACL2]]. ~ Ruben Gamboa, John Cowles, Woodrow Gamboa. #ITP #ACL2 #Math
 + [[http://syrcose.ispras.ru/2020/submissions/SYRCoSE_2020_paper_09_81.pdf][Techniques for implementation of symbolically interpretable Haskell EDSLs]]. ~ Grigoriy Volkov. #Haskell #FunctionalProgramming
 
+*** 23-Jun-20
++ [[https://jesper.sikanda.be/files/leibniz-equality.pdf][Leibniz equality is isomorphic to Martin-Löf identity, parametrically]]. ~ Andreas Abel, Jesper Cockx, Dominique Devriese, Amin Timany. #ITP #Agda #FunctionalProgramming
++ [[https://youtu.be/j2xYSxMkXeQ][Strongly typed system F in GHC]]. ~ Stephanie Weirich. #Haskell #FunctionalProgramming #Logic
++ [[https://www.cnblogs.com/ncore/p/6892500.html][An introduction to parsing text in Haskell with Parsec]]. ~ Nick Chung. #Haskell #FunctionalProgramming
++ [[http://neilmitchell.blogspot.com/2020/06/the-hlint-match-engine.html][The HLint match engine]]. ~ Neil Mitchell (@ndm_haskell). #Haskell #FunctionalProgramming 
++ [[https://mmhaskell.com/blog/2020/6/22/rendering-frozen-lake-with-gloss][Rendering frozen lake with Gloss!]] ~ James Bowen (@james_OWA). #Haskell #FunctionalProgramming
+
+*** 24-Jun-20
++ [[http://dev.stephendiehl.com/new_decade.pdf][Haskell for a new decade]]. ~ Stephen Diehl (@smdiehl). #Haskell #FunctionalProgramming
++ [[http://www.cs.nott.ac.uk/~pszgmh/ccc2.pdf][Calculating correct compilers II (Return of the register machines)]]. ~ Patrick Bahr, Graham Hutton. #Haskell #FuncionalProgramming
++ [[https://files.sketis.net/Isabelle_Workshop_2020/Isabelle_2020_paper_10.pdf][Lucas’s theorem: Formalising generating function proofs]]. ~ Chelsea Edmonds. #ITP #IsabelleHOL #Math
++ [[https://files.sketis.net/Isabelle_Workshop_2020/Isabelle_2020_paper_1.pdf][Ackermann’s function in iterative form: A subtle termination proof with Isabelle/HOL]]. ~ Lawrence Paulson. #ITP #IsabelleHOL
++ [[http://philomatica.org/wp-content/uploads/2020/06/bde.pdf][Axiomatic architecture of scientific theories]]. ~ Andrei V. Rodin. #PhD_Thesis #Logic #Math
+
 * Lecturas anteriores
 + [[./Lecturas del año 2019.org][Lecturas del año 2019]]
 + [[./Lecturas del año 2018.org][Lecturas del año 2018]]
