@@ -1112,6 +1112,13 @@ contenido.
 + [[https://files.sketis.net/Isabelle_Workshop_2020/Isabelle_2020_paper_1.pdf][Ackermann’s function in iterative form: A subtle termination proof with Isabelle/HOL]]. ~ Lawrence Paulson. #ITP #IsabelleHOL
 + [[http://philomatica.org/wp-content/uploads/2020/06/bde.pdf][Axiomatic architecture of scientific theories]]. ~ Andrei V. Rodin. #PhD_Thesis #Logic #Math
 
+*** 25-Jun-20
++ [[https://files.sketis.net/Isabelle_Workshop_2020/Isabelle_2020_paper_6.pdf][A concise sequent calculus for teaching first-order logic]]. ~ Asta Halkjær From, Jørgen Villadsen. #ITP #IsabelleHOL #Logic
++ [[https://files.sketis.net/Isabelle_Workshop_2020/Isabelle_2020_paper_4.pdf][SErAPIS : A concept-oriented search engine for the Isabelle libraries based on natural language]]. ~ Yiannos Stathopoulos, Angeliki Koutsoukou-Argyraki, Lawrence Paulson. #ITP #IsabelleHOL
++ [[https://files.sketis.net/Isabelle_Workshop_2020/Isabelle_2020_paper_5.pdf][Authenticated data structures as functors in Isabelle/HOL]]. ~ Andreas Lochbihler, Ognjen Marić. #ITP #IsabelleHOL
++ [[https://files.sketis.net/Isabelle_Workshop_2020/Isabelle_2020_paper_11.pdf][A generic framework for verified compilers using Isabelle/HOL’s locales]]. ~ Martin Desharnais, Stefan Brunthaler. #ITP #IsabelleHOL
++ [[https://byorgey.wordpress.com/2020/06/24/competitive-programming-in-haskell-vectors-and-2d-geometry/][Competitive programming in Haskell: vectors and 2D geometry]]. ~ Brent Yorgey. #Haskell #FunctionalProgramming
+
 * Lecturas anteriores
 + [[./Lecturas del año 2019.org][Lecturas del año 2019]]
 + [[./Lecturas del año 2018.org][Lecturas del año 2018]]
