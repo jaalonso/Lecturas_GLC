@@ -1119,6 +1119,12 @@ contenido.
 + [[https://files.sketis.net/Isabelle_Workshop_2020/Isabelle_2020_paper_11.pdf][A generic framework for verified compilers using Isabelle/HOL’s locales]]. ~ Martin Desharnais, Stefan Brunthaler. #ITP #IsabelleHOL
 + [[https://byorgey.wordpress.com/2020/06/24/competitive-programming-in-haskell-vectors-and-2d-geometry/][Competitive programming in Haskell: vectors and 2D geometry]]. ~ Brent Yorgey. #Haskell #FunctionalProgramming
 
+*** 26-Jun-20
++ [[https://www.seer.ufrgs.br/rita/article/download/Vol27_nr3_13/pdf_1][A mechanized proof of a textbook type unification algorithm]]. ~ Maycon Amaro, Rodrigo Ribeiro, André Rauber Du Bois. #ITP #Coq
++ [[https://www.seer.ufrgs.br/rita/article/download/Vol27_nr3_84/pdf_1][Reasoning about partial correctness assertions in Isabelle/HOL]]. ~ A.R. Martini. #ITP #IsabelleHOL
++ [[https://hal.archives-ouvertes.fr/hal-02874762/document][Extensive infinite games and escalation, an exercice in Agda]]. ~ Pierre Lescanne. #ITP #Agda
++ [[https://arxiv.org/abs/2003.05081][Animated logic: Correct functional conversion to conjunctive normal form]]. ~ Pedro Barroso, Mário Pereira, António Ravara. #Why3 #Logic
+
 * Lecturas anteriores
 + [[./Lecturas del año 2019.org][Lecturas del año 2019]]
 + [[./Lecturas del año 2018.org][Lecturas del año 2018]]
