@@ -1125,6 +1125,16 @@ contenido.
 + [[https://hal.archives-ouvertes.fr/hal-02874762/document][Extensive infinite games and escalation, an exercice in Agda]]. ~ Pierre Lescanne. #ITP #Agda
 + [[https://arxiv.org/abs/2003.05081][Animated logic: Correct functional conversion to conjunctive normal form]]. ~ Pedro Barroso, Mário Pereira, António Ravara. #Why3 #Logic
 
+*** 27-Jun-20
++ [[https://www.mat.unb.br/~ayala/TeachingIP2Mathematicians.pdf][Teaching interactive proofs to mathematicians]]. ~ M. Ayala-Rincón, T.A. de Lima. #ITP #PVS #Math
++ [[http://ayala.mat.unb.br/Summer_UnB_2020/program.html][Interactively proving mathematical theorems]]. ~ M. Ayala-Rincón et als. #Logic #Math #ITP #PVS
++ [[https://leanprover-community.github.io/undergrad.html][Undergraduate mathematics in mathlib]]. #ITP #LeanProver #Math
++ [[http://ayala.mat.unb.br/Formalization_of_Ring_Theory.pdf][Formalization of ring theory in PVS (Isomorphism theorems, principal, prime and maximal ideals ,chinese remainder theorem)]]. ~ T.A. de Lima, A L. Galdino, A. Borges Avelar, M. Ayala-Rincón. #ITP #PVS #Math
++ [[http://ayala.mat.unb.br/CICM_NFM.pdf][Why we need structured proofs in mathematics]]. ~ M. Ayala-Rincón, G.F. Silva. #Logic #Math #ITP #PVS
++ [[https://hbr.github.io/Lambda-Calculus/untyped_lambda.pdf][Lambda Calculus - step by step]]. ~ Helmut Brandl. #Logic #Math #CompSci #LambdaCalculus
++ [[https://hbr.github.io/Lambda-Calculus/lambda.pdf][Programming with Lambda Calculus]]. ~ Helmut Brandl. #Logic #Math #CompSci #LambdaCalculus
++ [[https://ai.stanford.edu/~nilsson/QAI/qai.pdf][The quest for Artificial Intelligence (A history of ideas and achievements)]]. ~ Nils J. Nilsson. #eBook #AI
+
 * Lecturas anteriores
 + [[./Lecturas del año 2019.org][Lecturas del año 2019]]
 + [[./Lecturas del año 2018.org][Lecturas del año 2018]]
