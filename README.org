@@ -1135,6 +1135,10 @@ contenido.
 + [[https://hbr.github.io/Lambda-Calculus/lambda.pdf][Programming with Lambda Calculus]]. ~ Helmut Brandl. #Logic #Math #CompSci #LambdaCalculus
 + [[https://ai.stanford.edu/~nilsson/QAI/qai.pdf][The quest for Artificial Intelligence (A history of ideas and achievements)]]. ~ Nils J. Nilsson. #eBook #AI
 
+*** 28-Jun-20
++ [[https://xenaproject.wordpress.com/2020/06/27/teaching-dependent-type-theory-to-4-year-olds-via-mathematics/][Teaching dependent type theory to 4 year olds via mathematics]]. ~ Kevin Buzzard (@XenaProject). #Math #ITP #LeanProver
++ [[https://arxiv.org/abs/2004.07761][Deep generation of Coq lemma names using elaborated terms]]. ~ Pengyu Nie, Karl Palmskog, Junyi Jessy Li, Milos Gligoric. #ITP #Coq
+
 * Lecturas anteriores
 + [[./Lecturas del año 2019.org][Lecturas del año 2019]]
 + [[./Lecturas del año 2018.org][Lecturas del año 2018]]
