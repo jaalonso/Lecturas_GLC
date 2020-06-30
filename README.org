@@ -1139,6 +1139,11 @@ contenido.
 + [[https://xenaproject.wordpress.com/2020/06/27/teaching-dependent-type-theory-to-4-year-olds-via-mathematics/][Teaching dependent type theory to 4 year olds via mathematics]]. ~ Kevin Buzzard (@XenaProject). #Math #ITP #LeanProver
 + [[https://arxiv.org/abs/2004.07761][Deep generation of Coq lemma names using elaborated terms]]. ~ Pengyu Nie, Karl Palmskog, Junyi Jessy Li, Milos Gligoric. #ITP #Coq
 
+*** 29-Jun-20
++ [[https://www.investigacionyciencia.es/revistas/investigacion-y-ciencia/una-nueva-era-para-el-alzhimer-803/el-traje-nuevo-de-la-inteligencia-artificial-18746][El traje nuevo de la inteligencia artificial]]. ~ Ramon López de Mántaras. #IA
++ [[https://dev.to/itsjzt/try-these-4-languages-from-4-corners-of-programming-epm ][Try these 4 languages from 4 corners of programming]]. ~ Saurabh Sharma (@itsjzt). #C #Smalltak #Clojure #Haskell 
++ [[https://youtu.be/26ViUXHtah0][Using Haskell in the Mission Control Domain]]. ~ Michael Oswald (@OswaldChocolate). #Haskell #FunctionalProgramming
+
 * Lecturas anteriores
 + [[./Lecturas del año 2019.org][Lecturas del año 2019]]
 + [[./Lecturas del año 2018.org][Lecturas del año 2018]]
