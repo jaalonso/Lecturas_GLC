@@ -1144,6 +1144,13 @@ contenido.
 + [[https://dev.to/itsjzt/try-these-4-languages-from-4-corners-of-programming-epm ][Try these 4 languages from 4 corners of programming]]. ~ Saurabh Sharma (@itsjzt). #C #Smalltak #Clojure #Haskell 
 + [[https://youtu.be/26ViUXHtah0][Using Haskell in the Mission Control Domain]]. ~ Michael Oswald (@OswaldChocolate). #Haskell #FunctionalProgramming
 
+*** 30-Jun-20
++ [[https://www.tweag.io/blog/2020-06-29-prng-test/][Splittable pseudo-random number generators in Haskell: random v1]].1 and v1.2. ~ Leonhard Markert. #Haskell #FunctionalProgramming #Math
++ [[https://arxiv.org/abs/2006.13613.pdf][Formalizing the soundness of the encoding methods of SAT-based model checking]]. ~ Daisuke Ishii, Saito Fujii. #ITP #Coq
++ [[https://www.twitch.tv/videos/661148267][Teaching Lean what a group is (ignoring the fact that it actually already knows)]]. ~ Kevin Buzzard (@XenaProject). #ITP #LeanProver #Math
++ [[https://byorgey.wordpress.com/2020/06/29/competitive-programming-in-haskell-data-representation-and-optimization-with-cake/][Competitive programming in Haskell: data representation and optimization, with cake]]. ~ Brent Yorgey. #Haskell #FunctionalProgramming
++ [[https://youtu.be/JJv74IJUp4E][Algorithm design with Haskell]]. ~ Jeremy Gibbons (@jer_gib). #Haskell #FunctionalProgramming
+
 * Lecturas anteriores
 + [[./Lecturas del año 2019.org][Lecturas del año 2019]]
 + [[./Lecturas del año 2018.org][Lecturas del año 2018]]
