@@ -15,6 +15,7 @@ contenido.
   - [[#abril-de-2020][Abril de 2020]]
   - [[#mayo-de-2020][Mayo de 2020]]
   - [[#junio-de-2020][Junio de 2020]]
+  - [[#julio-de-2020][Julio de 2020]]
 - [[#lecturas-anteriores][Lecturas anteriores]]
 
 * Lecturas del año 2020
@@ -1150,6 +1151,14 @@ contenido.
 + [[https://www.twitch.tv/videos/661148267][Teaching Lean what a group is (ignoring the fact that it actually already knows)]]. ~ Kevin Buzzard (@XenaProject). #ITP #LeanProver #Math
 + [[https://byorgey.wordpress.com/2020/06/29/competitive-programming-in-haskell-data-representation-and-optimization-with-cake/][Competitive programming in Haskell: data representation and optimization, with cake]]. ~ Brent Yorgey. #Haskell #FunctionalProgramming
 + [[https://youtu.be/JJv74IJUp4E][Algorithm design with Haskell]]. ~ Jeremy Gibbons (@jer_gib). #Haskell #FunctionalProgramming
+
+** Julio de 2020
+
+*** 01-Jul-20
++ [[https://youtu.be/OEZCp63GES8][The complex number game, levels 1 to 3]]. ~ Kevin Buzzard (@XenaProject). #ITP #LeanProver #Math
++ [[https://cs.uwaterloo.ca/~plragde/flaneries/LACI/][Logic and computation intertwined]]. ~ Prabhakar Ragde (@plragde). #eBook #Logic #ITP #Agda #Coq
++ [[https://cs.uwaterloo.ca/~plragde/flaneries/TYR/][Teach yourself Racket]]. ~ Prabhakar Ragde (@plragde). #eBook #Racket #FunctionalProgramming
++ [[https://cs.uwaterloo.ca/~plragde/flaneries/FDS/][Functional data structures]]. ~ Prabhakar Ragde (@plragde). #eBook #OCaml #FunctionalProgramming #Algorithms
 
 * Lecturas anteriores
 + [[./Lecturas del año 2019.org][Lecturas del año 2019]]
