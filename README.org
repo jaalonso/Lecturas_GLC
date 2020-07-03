@@ -1160,6 +1160,14 @@ contenido.
 + [[https://cs.uwaterloo.ca/~plragde/flaneries/TYR/][Teach yourself Racket]]. ~ Prabhakar Ragde (@plragde). #eBook #Racket #FunctionalProgramming
 + [[https://cs.uwaterloo.ca/~plragde/flaneries/FDS/][Functional data structures]]. ~ Prabhakar Ragde (@plragde). #eBook #OCaml #FunctionalProgramming #Algorithms
 
+*** 02-Jul-20
++ [[https://drops.dagstuhl.de/opus/volltexte/2020/12326/pdf/LIPIcs-FSCD-2020-4.pdf][Certifying the weighted path order]]. ~ R. Thiemann, J. Schöpf, C. Sternagel, A. Yamada. #ITP #IsabelleHOL 
++ [[https://cs.uwaterloo.ca/~plragde/842/handouts/notes.html][Notes on "Programming language foundations in Agda"]]. ~ Prabhakar Ragde (@plragde). #eBook #ITP #Agda
++ [[https://cs.uwaterloo.ca/~plragde/842/index.html][Dependent types and software verification]]. ~ Prabhakar Ragde (@plragde). #ITP #Agda
++ [[https://arxiv.org/abs/1611.09473][Proust: A nano proof assistant]]. ~ Prabhakar Ragde (2016). #Logic #Racket #ITP #Proust 
++ [[https://compostjs.github.io/compost/paper.pdf][Functional Pearls: Composable data visualizations]]. ~ T. Petricek. #FunctionalProgramming #Fsharp
++ [[http://www.jucs.org/jucs_10_7/total_functional_programming/jucs_10_07_0751_0768_turner.pdf][Total functional programming]]. ~ D.A. Turner (2004). #FunctionalProgramming
+
 * Lecturas anteriores
 + [[./Lecturas del año 2019.org][Lecturas del año 2019]]
 + [[./Lecturas del año 2018.org][Lecturas del año 2018]]
