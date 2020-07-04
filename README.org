@@ -1168,6 +1168,12 @@ contenido.
 + [[https://compostjs.github.io/compost/paper.pdf][Functional Pearls: Composable data visualizations]]. ~ T. Petricek. #FunctionalProgramming #Fsharp
 + [[http://www.jucs.org/jucs_10_7/total_functional_programming/jucs_10_07_0751_0768_turner.pdf][Total functional programming]]. ~ D.A. Turner (2004). #FunctionalProgramming
 
+*** 03-Jul-20
++ [[https://arxiv.org/abs/2007.01019.pdf][Higher-order Logic as Lingua franca (Integrating argumentative discourse and deep logical analysis)]]. ~ David Fuenmayor, Christoph Benzmüller. #ITP #IsabelleHOL
++ [[https://xenaproject.wordpress.com/2020/07/03/equality-specifications-and-implementations/][Equality, specifications, and implementations]]. ~ Kevin Buzzard (@XenaProject). #ITP #LeanProver #Math #CompSci
++ [[http://www.poberezkin.com/posts/2020-06-29-modeling-state-machine-dependent-types-haskell-1.html][Modeling state machines with dependent types in Haskell: Part 1]]. ~ Evgeny Poberezkin (@epoberezkin). #Haskell #FunctionalProgramming
++ [[https://github.com/mavam/abstract-algebra-cheatsheet][Abstract algebra cheatsheet: a visual summary of key structures in abstract algebra]]. ~ Matthias Vallentin. #Math
+
 * Lecturas anteriores
 + [[./Lecturas del año 2019.org][Lecturas del año 2019]]
 + [[./Lecturas del año 2018.org][Lecturas del año 2018]]
