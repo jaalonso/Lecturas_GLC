@@ -1174,6 +1174,15 @@ contenido.
 + [[http://www.poberezkin.com/posts/2020-06-29-modeling-state-machine-dependent-types-haskell-1.html][Modeling state machines with dependent types in Haskell: Part 1]]. ~ Evgeny Poberezkin (@epoberezkin). #Haskell #FunctionalProgramming
 + [[https://github.com/mavam/abstract-algebra-cheatsheet][Abstract algebra cheatsheet: a visual summary of key structures in abstract algebra]]. ~ Matthias Vallentin. #Math
 
+*** 04-Jul-20
++ [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7324036/pdf/978-3-030-51054-1_Chapter_14.pdf][Reasoning about algebraic structures with implicit carriers in Isabelle/HOL]]. ~ W. Guttmann. #ITP #IsabelleHOL #Math
++ [[https://arxiv.org/abs/2006.16711.pdf][Binary intersection formalized]]. ~ Štěpán Holub, Štěpán Starosta. #ITP #IsabelleHOL
++ [[https://www.labri.fr/perso/casteran/hydras.pdf][The hydra and the rooster]]. ~ Pirre Castéran. #ITP #Coq #Math
++ [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7324010/pdf/978-3-030-51054-1_Chapter_9.pdf][Teaching automated theorem proving by example: PyRes 1]].2: (System description). ~ S. Schulz, A. Pease. #ATP #Logic #Python
++ [[https://www.philipzucker.com/unification-in-julia/][Unification in Julia]]. ~ Philip Zucker (@SandMouth). #Logic #JuliaLang
++ [[https://gist.github.com/serras/caf3b7056f609c63a028f15c47a3ff4e][Some thoughts on building software]]. ~ Alejandro Serrano (@trupill). #FuncionalProgramming #Haskell
++ [[https://rreusser.github.io/explorations/sphere-eversion/][Sphere eversion]]. ~ Ricky Reusser. #Math
+
 * Lecturas anteriores
 + [[./Lecturas del año 2019.org][Lecturas del año 2019]]
 + [[./Lecturas del año 2018.org][Lecturas del año 2018]]
