@@ -1183,6 +1183,11 @@ contenido.
 + [[https://gist.github.com/serras/caf3b7056f609c63a028f15c47a3ff4e][Some thoughts on building software]]. ~ Alejandro Serrano (@trupill). #FuncionalProgramming #Haskell
 + [[https://rreusser.github.io/explorations/sphere-eversion/][Sphere eversion]]. ~ Ricky Reusser. #Math
 
+*** 05-Jul-20
++ [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7324229/pdf/978-3-030-51074-9_Chapter_27.pdf][Formalizing a Seligman-style tableau system for hybrid logic]]. ~ Asta Halkjær From, Patrick Blackburn, Jørgen Villadsen. #ITP #IsabelleHOL #Logic
++ [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7309514/pdf/978-3-030-51466-2_Chapter_12.pdf][Prawf: An interactive proof system for program extraction]]. ~ Ulrich Berger, Olga Petrovska, Hideki Tsuiki. #ITP #Haskell #FunctionalProgramming #Logic
++ [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7324146/pdf/978-3-030-51054-1_Chapter_11.pdf][Formalizing the face lattice of polyhedra]]. ~ Xavier Allamigeon, Ricardo D. Katz, Pierre-Yves Strub. #ITP #Coq #Math
+
 * Lecturas anteriores
 + [[./Lecturas del año 2019.org][Lecturas del año 2019]]
 + [[./Lecturas del año 2018.org][Lecturas del año 2018]]
