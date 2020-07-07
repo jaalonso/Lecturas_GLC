@@ -1188,6 +1188,11 @@ contenido.
 + [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7309514/pdf/978-3-030-51466-2_Chapter_12.pdf][Prawf: An interactive proof system for program extraction]]. ~ Ulrich Berger, Olga Petrovska, Hideki Tsuiki. #ITP #Haskell #FunctionalProgramming #Logic
 + [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7324146/pdf/978-3-030-51054-1_Chapter_11.pdf][Formalizing the face lattice of polyhedra]]. ~ Xavier Allamigeon, Ricardo D. Katz, Pierre-Yves Strub. #ITP #Coq #Math
 
+*** 06-Jul-20
++ [[https://www.ams.org/journals/notices/201806/rnoti-p681.pdf][The mechanization of Mathematics]]. ~ Jeremy Avigad (2018). #ITP #Math
++ [[https://www.philipzucker.com/category-theory-in-the-e-automated-theorem-prover/][Category theory in the E automated theorem prover]]. ~ Philip Zucker (@SandMouth). #ATP #CategoryTheory
++ [[https://xenaproject.wordpress.com/2020/07/05/division-by-zero-in-type-theory-a-faq/][Division by zero in type theory: a FAQ]]. ~ Kevin Buzzard (@XenaProject). #ITP #LeanProver #Math
+
 * Lecturas anteriores
 + [[./Lecturas del año 2019.org][Lecturas del año 2019]]
 + [[./Lecturas del año 2018.org][Lecturas del año 2018]]
