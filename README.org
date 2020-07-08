@@ -1193,6 +1193,12 @@ contenido.
 + [[https://www.philipzucker.com/category-theory-in-the-e-automated-theorem-prover/][Category theory in the E automated theorem prover]]. ~ Philip Zucker (@SandMouth). #ATP #CategoryTheory
 + [[https://xenaproject.wordpress.com/2020/07/05/division-by-zero-in-type-theory-a-faq/][Division by zero in type theory: a FAQ]]. ~ Kevin Buzzard (@XenaProject). #ITP #LeanProver #Math
 
+*** 07-Jul-20
++ [[https://odr.chalmers.se/bitstream/20.500.12380/301098/1/CSE%2020-12%20Tosun.pdf][Formal topology in Univalent Foundations]]. ~ Ayberk Tosun. #MsC_Thesis #ITP #Agda #Math
++ [[https://projekter.aau.dk/projekter/files/335444832/pt101f20thesis.pdf][Certifying time complexity of Agda programs using complexity signatures]]. ~ Christian Bach Møllnitz, Johannes Elgaard, Simon Rannes. #Agda #FunctionalProgramming
++ [[https://codicalist.wordpress.com/2020/07/06/scientific-proof-oriented-programming-s-pop/][Scientific proof-oriented programming (S-pop)]]. ~ Philip Thrift (@philipthrift). #CompSci
++ [[https://engineering.fb.com/open-source/retrie/][Retrie: Haskell refactoring made easy]]. #Haskell #FunctionalProgramming
+
 * Lecturas anteriores
 + [[./Lecturas del año 2019.org][Lecturas del año 2019]]
 + [[./Lecturas del año 2018.org][Lecturas del año 2018]]
