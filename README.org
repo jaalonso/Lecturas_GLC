@@ -1199,6 +1199,11 @@ contenido.
 + [[https://codicalist.wordpress.com/2020/07/06/scientific-proof-oriented-programming-s-pop/][Scientific proof-oriented programming (S-pop)]]. ~ Philip Thrift (@philipthrift). #CompSci
 + [[https://engineering.fb.com/open-source/retrie/][Retrie: Haskell refactoring made easy]]. #Haskell #FunctionalProgramming
 
+*** 09-Jul-20
++ [[https://leanprover-community.github.io/lftcm2020/][Lean for the curious mathematician: A virtual workshop on computer-checked mathematics [13–17 July 2020]]]. #ITP #LeanProver #Math
++ [[https://github.com/jjaassoonn/transcendental][Theorems in transcendental number theory]]. ~ Jujian Zhang. #ITP #LeanProver #Math
++ [[https://bit.ly/38JvHGL][La conjetura de Gilbreath]]. ~ Juan Arias de Reyna. #Matemáticas
+
 * Lecturas anteriores
 + [[./Lecturas del año 2019.org][Lecturas del año 2019]]
 + [[./Lecturas del año 2018.org][Lecturas del año 2018]]
