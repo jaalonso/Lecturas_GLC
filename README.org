@@ -1204,6 +1204,11 @@ contenido.
 + [[https://github.com/jjaassoonn/transcendental][Theorems in transcendental number theory]]. ~ Jujian Zhang. #ITP #LeanProver #Math
 + [[https://bit.ly/38JvHGL][La conjetura de Gilbreath]]. ~ Juan Arias de Reyna. #Matemáticas
 
+*** 10-Jul-20
++ [[https://www.cs.bham.ac.uk/~mhe/HoTT-UF-in-Agda-Lecture-Notes/index.html][Introduction to Univalent Foundations of Mathematics with Agda]]. ~ Martín Hötzel Escardó. #ITP #Agda #Math
++ [[https://arxiv.org/abs/1912.03028v1.pdf][A survey on theorem provers in formal methods]]. 4 M. Saqib Nawaz, Moin Malik, Yi Li, Meng Sun and M. Ikram Ullah Lali. #ITP #ATP #FormalMethods
++ [[https://arxiv.org/abs/2005.12876][A survey of languages for formalizing mathematics]]. ~ Cezary Kaliszyk, Florian Rabe. #ITP #Math
+
 * Lecturas anteriores
 + [[./Lecturas del año 2019.org][Lecturas del año 2019]]
 + [[./Lecturas del año 2018.org][Lecturas del año 2018]]
