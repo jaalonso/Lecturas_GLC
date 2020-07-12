@@ -1209,6 +1209,16 @@ contenido.
 + [[https://arxiv.org/abs/1912.03028v1.pdf][A survey on theorem provers in formal methods]]. 4 M. Saqib Nawaz, Moin Malik, Yi Li, Meng Sun and M. Ikram Ullah Lali. #ITP #ATP #FormalMethods
 + [[https://arxiv.org/abs/2005.12876][A survey of languages for formalizing mathematics]]. ~ Cezary Kaliszyk, Florian Rabe. #ITP #Math
 
+*** 11-Jul-20
++ [[http://paar2020.gforge.inria.fr/papers/PAAR_2020_paper_15.pdf][A micro prover for teaching automated reasoning]]. ~ J. Villadsen. #ITP #IsabelleHOL #Logic
++ [[http://ceur-ws.org/Vol-2634/FMM4.pdf][Textbook mathematics in the Naproche-SAD system]]. ~ P. Koepke. #ITP #Math
++ [[https://www.researchgate.net/profile/Saed_Abed/project/Formal-Analysis-of-Unmanned-Aerial-Vehicles-UAVs-using-Higher-order-Logic-Theorem-Proving/attachment/5efc4bd5d52c7c00018087a6/AS:908408148471809%401593592788923/download/Technical%2BReport-uav.pdf][Formal analysis of unmanned aerial vehicles using higher-order-logic theorem proving]]. ~ Sa’ed Abed, Adnan Rashid, Osman Hasan. #ITP #HOL_Light
++ [[http://paar2020.gforge.inria.fr/papers/PAAR_2020_paper_20.pdf][Animated logic: Correct functional conversion to conjunctive normal form]]. ~ António Ravara, Mário Pereira, Pedro Barroso. #Logic #Why3
++ [[http://ceur-ws.org/Vol-2634/FMM1.pdf][Testing Mizar user interactivity in a University-level introductory course on foundations of Mathematics]]. ~ Adam Naumowicz. #ITP #Mizar #Math
++ [[https://link.springer.com/content/pdf/10.1007/s10817-019-09516-0.pdf ][Strong extension-free proof systems]]. ~ Marijn J H Heule, Benjamin Kiesl, Armin Biere. #SAT
++ [[https://freux.fr/posts/ogd.html][Online convex optimization with Haskell]]. ~ Valentin Reis. #Haskell #FunctionalProgramming #Math
++ [[https://byorgey.wordpress.com/2020/07/10/competitive-programming-in-haskell-2d-cross-product-part-1/][Competitive programming in Haskell: 2D cross product, part 1]]. ~ Brent Yorgey. #Haskell #FunctionalProgramming
+
 * Lecturas anteriores
 + [[./Lecturas del año 2019.org][Lecturas del año 2019]]
 + [[./Lecturas del año 2018.org][Lecturas del año 2018]]
