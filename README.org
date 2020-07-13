@@ -1219,6 +1219,10 @@ contenido.
 + [[https://freux.fr/posts/ogd.html][Online convex optimization with Haskell]]. ~ Valentin Reis. #Haskell #FunctionalProgramming #Math
 + [[https://byorgey.wordpress.com/2020/07/10/competitive-programming-in-haskell-2d-cross-product-part-1/][Competitive programming in Haskell: 2D cross product, part 1]]. ~ Brent Yorgey. #Haskell #FunctionalProgramming
 
+*** 12-Jul-20
++ [[http://siek.blogspot.com/2020/07/type-safety-in-two-easy-lemmas.html][Type safety in two easy lemmas]]. ~ Jeremy Siek (@jeremysiek). #ITP #Agda
++ [[https://alexey.kuleshevi.ch/blog/2020/07/10/canny-benchmarks/][Performance of Haskell Array libraries through Canny edge detection]]. ~ Alexey Kuleshevich. #Haskell #FuncionalProgramming
+
 * Lecturas anteriores
 + [[./Lecturas del año 2019.org][Lecturas del año 2019]]
 + [[./Lecturas del año 2018.org][Lecturas del año 2018]]
