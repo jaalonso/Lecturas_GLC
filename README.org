@@ -1223,6 +1223,19 @@ contenido.
 + [[http://siek.blogspot.com/2020/07/type-safety-in-two-easy-lemmas.html][Type safety in two easy lemmas]]. ~ Jeremy Siek (@jeremysiek). #ITP #Agda
 + [[https://alexey.kuleshevi.ch/blog/2020/07/10/canny-benchmarks/][Performance of Haskell Array libraries through Canny edge detection]]. ~ Alexey Kuleshevich. #Haskell #FuncionalProgramming
 
+*** 13-Jul-20
++ [[https://arxiv.org/abs/2005.01917][Learning selection strategies in Buchberger's algorithm]]. ~ Dylan Peifer, Michael Stillman, Daniel Halpern-Leistner. #MachineLearning #Math
++ [[https://www.xataka.com/xataka/que-matematicas-ha-pasado-ser-carrera-minoritaria-a-codiciadas-moda][Por qué Matemáticas ha pasado de ser una carrera minoritaria a una de las más codiciadas y de moda]]. ~ Carlos Prego. #Matemáticas
++ [[https://williamyaoh.com/posts/2020-07-12-deriving-state-monad.html][Deriving the State monad from first principles]]. ~ William Yao (@williamyaoh). #Haskell #FunctionalProgramming
+
+*** 14-Jul-20
++ [[https://youtu.be/2F3tQL-SmgI][Adventures in verifying arithmetic]]. ~ John Harrison. #ITP #HOL_Light #Math 
++ [[https://youtu.be/9V1Xo1n_3Qw][The natural number game : an introduction to Lean tactics]]. ~ Kevin Buzzard (@XenaProject). #ITP #LeanProver #Math
++ [[https://github.com/kbuzzard/xena/blob/master/tactics.md][The ten (or so) basic tactics]]. ~ Kevin Buzzard (@XenaProject). #ITP #LeanProver 
++ [[https://youtu.be/b59fpAJ8Mfs][Infinitude of primes: a Lean theorem prover demo]]. ~ Scott Morrison. #ITP #LeanProver #Math
++ [[https://arxiv.org/abs/2007.04150][Certifying emptiness of timed Büchi automata]]. ~ Simon Wimmer, Frédéric Herbreteau, Jaco van de Pol. #ITP #IsabelleHOL
++ [[https://repositorio.yachaytech.edu.ec/bitstream/123456789/153/1/ECMC0024.pdf][Development of a tropical algebraic geometry package in the Haskell programming language]]. ~ Fernando Patricio Zhapa Camacho. #PhD_Thesis #Haskell #FunctionalProgramming #Math
+
 * Lecturas anteriores
 + [[./Lecturas del año 2019.org][Lecturas del año 2019]]
 + [[./Lecturas del año 2018.org][Lecturas del año 2018]]
