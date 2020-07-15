@@ -1236,6 +1236,19 @@ contenido.
 + [[https://arxiv.org/abs/2007.04150][Certifying emptiness of timed Büchi automata]]. ~ Simon Wimmer, Frédéric Herbreteau, Jaco van de Pol. #ITP #IsabelleHOL
 + [[https://repositorio.yachaytech.edu.ec/bitstream/123456789/153/1/ECMC0024.pdf][Development of a tropical algebraic geometry package in the Haskell programming language]]. ~ Fernando Patricio Zhapa Camacho. #PhD_Thesis #Haskell #FunctionalProgramming #Math
 
+*** 15-Jul-20
++ [[https://repositorio.yachaytech.edu.ec/bitstream/123456789/150/1/ECMC0021.pdf][Optimization of Wu's algorithm for the elimination of polynomial variables by High-Performance Computing (HPC)]]. ~ José Luis Seraquive Cuenca. #Haskell #FunctionalProgramming #Math 
++ [[http://www.haskellforall.com/2020/07/record-constructors.html][Record constructors]]. ~ G. Gonzalez (@GabrielG439). #Haskell #FunctionalProgramming
++ [[https://www.tweag.io/blog/2020-07-13-qualified-do-announcement/][Qualified do: rebind your do-notation the right way]]. ~ Matthías Páll Gissurarson, Facundo Domínguez, Arnaud Spiwack. #Haskell #FunctionalProgramming
++ [[https://www.youtube.com/playlist?list=PLlF-CfQhukNnq2kDCw2P_vI5AfXN7egP2][Metaprogramming in Lean]]. ~ Robert Y. Lewis. #ITP #LeanProver
++ [[https://gist.github.com/jorendorff/e50832fc9d58722015c7a488cd62c860][A one-line proof of the infinitude of primes]]. ~ Jason Orendorff. #ITP #LeanProver #Math
++ [[https://youtu.be/MsSlP_P2AkM][A Lean tactic for normalising ring expressions with exponents]]. ~ Anne Baanen. #ITP #LeanProver #Math
++ [[https://youtu.be/jhISAq4l8iI][Formalization of forcing in Isabelle/ZF]]. ~ Pedro Sánchez Terraf. #ITP #Isabelle #Math 
++ [[https://youtu.be/A1oXyV27TUI][The resolution of Keller's conjecture]]. ~ Marijn Heule. #ATP #SAT_Solver #Math
++ [[https://youtu.be/lw8EfTmWzRU][Mathematics in Lean introduction]]. ~ Patrick Massot. #ITP #LeanProver #Math #LftCM2020
++ [[https://youtu.be/WGwKefZ8KFo][Logic in Lean]]. ~ Jeremy Avigad. #ITP #LeanProver #Math #LftCM2020
+
+
 * Lecturas anteriores
 + [[./Lecturas del año 2019.org][Lecturas del año 2019]]
 + [[./Lecturas del año 2018.org][Lecturas del año 2018]]
@@ -1244,4 +1257,5 @@ contenido.
 + [[./Lecturas del año 2010 al 2015.org][Lecturas del año 2010 al 2015]]
 
   
+
 
