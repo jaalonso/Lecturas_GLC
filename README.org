@@ -1248,6 +1248,14 @@ contenido.
 + [[https://youtu.be/lw8EfTmWzRU][Mathematics in Lean introduction]]. ~ Patrick Massot. #ITP #LeanProver #Math #LftCM2020
 + [[https://youtu.be/WGwKefZ8KFo][Logic in Lean]]. ~ Jeremy Avigad. #ITP #LeanProver #Math #LftCM2020
 
+*** 16-Jul-20
++ [[https://youtu.be/iEs2U_kzYy4][Numbers in Lean]]. ~ Rob Lewis. #ITP #LeanProver #Math #LftCM2020
++ [[https://youtu.be/qlJrCtYiEkI][Sets in Lean]]. ~ Jeremy Avigad. #ITP #LeanProver #Math #LftCM2020
++ [[https://www.youtube.com/playlist?list=PLlF-CfQhukNloaV_NiVvgJt-Pr6lQd56q][Structures and classes in Lean]]. ~ Floris van Doorn. #ITP #LeanProver #Math #LftCM2020 
++ [[https://youtu.be/ATlAQPAtiTY][Building an algebraic hierarchy in Lean]]. ~ Kevin Buzzard. #ITP #LeanProver #Math #LftCM2020 
++ [[https://apurvanakade.github.io/courses/lean_at_MC2020/index.html][Lean at Mathcamp 2020]]. ~ Apurva Nakade, Jalex Stark. #ITP #LeanProver #Math
+
+*** 17-Jul-20
 
 * Lecturas anteriores
 + [[./Lecturas del año 2019.org][Lecturas del año 2019]]
