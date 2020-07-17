@@ -1255,7 +1255,15 @@ contenido.
 + [[https://youtu.be/ATlAQPAtiTY][Building an algebraic hierarchy in Lean]]. ~ Kevin Buzzard. #ITP #LeanProver #Math #LftCM2020 
 + [[https://apurvanakade.github.io/courses/lean_at_MC2020/index.html][Lean at Mathcamp 2020]]. ~ Apurva Nakade, Jalex Stark. #ITP #LeanProver #Math
 
+
 *** 17-Jul-20
++ [[https://youtu.be/RTfjSlwbKjQ][Building the topological hierarchy in Lean]]. ~ Alex Best. #ITP #LeanProver #Math #LftCM2020 
++ [[https://arxiv.org/abs/2005.09452][PubSub implementation in Haskell with formal verification in Coq]]. ~ Boro Sitnikovski, Biljana Stojcevska, Lidija Goracinova-Ilieva, Irena Stojmenovska. #Haskell #FunctionalProgramming #ITP #Coq
++ [[https://kowainik.github.io/posts/2019-02-06-style-guide][Haskell style guide]]. ~ Kowainik. #Haskell #FunctionalProgramming
++ [[https://semantic.org/post/forbidden-haskell-types/][Forbidden Haskell types]]. ~ Ashley Yakeley. #Haskell #FunctionalProgramming
++ [[https://erkin.party/blog/200715/evolution/][The evolution of a Scheme programmer]]. ~ Erkin Batu Altunbaş. #Programming #Scheme
+
+*** 18-Jul-20
 
 * Lecturas anteriores
 + [[./Lecturas del año 2019.org][Lecturas del año 2019]]
