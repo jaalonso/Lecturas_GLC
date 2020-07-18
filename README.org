@@ -1264,6 +1264,13 @@ contenido.
 + [[https://erkin.party/blog/200715/evolution/][The evolution of a Scheme programmer]]. ~ Erkin Batu Altunbaş. #Programming #Scheme
 
 *** 18-Jul-20
++ [[https://neilmitchell.blogspot.com/2020/07/managing-haskell-extensions.html][Managing Haskell extensions]]. ~ Neil Mitchell (@ndm_haskell).  #Haskell #FunctionalProgramming
++ [[https://medium.com/swlh/optimizing-ray-tracing-in-haskell-3dc412fff20a][Optimizing ray tracing in Haskell]]. ~ Sarfaraz Nawaz. #Haskell #FunctionalProgramming
++ [[https://youtu.be/vsnB7W9nODI][Order structures in Lean]]. ~ Kevin Buzzard. #ITP #LeanProver #Math #LftCM2020 
++ [[https://youtu.be/SdXvUU75cDA][Groups, rings, and fields in Lean]]. ~ Johan Commelin. #ITP #LeanProver #Math #LftCM2020 
++ [[https://xenaproject.wordpress.com/2020/07/17/lean-for-the-curious-mathematician-2020/][Lean for the Curious Mathematician 2020]]. ~ Kevin Buzzard (@XenaProject). #ITP #LeanProver #Math #LftCM2020
+
+*** 19-Jul-20
 
 * Lecturas anteriores
 + [[./Lecturas del año 2019.org][Lecturas del año 2019]]
