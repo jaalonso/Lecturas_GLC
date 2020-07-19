@@ -1271,6 +1271,14 @@ contenido.
 + [[https://xenaproject.wordpress.com/2020/07/17/lean-for-the-curious-mathematician-2020/][Lean for the Curious Mathematician 2020]]. ~ Kevin Buzzard (@XenaProject). #ITP #LeanProver #Math #LftCM2020
 
 *** 19-Jul-20
++ [[https://youtu.be/EnZvGCU_jp][Linear algebra in Lean]]. ~ Anne Baanen.c#ITP #ITP #LeanProver #Math #LftCM2020 
++ [[https://youtu.be/1NUc-ZNC_2s][Category theory in Lean]]. ~ Scott Morrison. #ITP #LeanProver #Math #LftCM2020 
++ [[https://youtu.be/hhOPRaR3tx0][Topology and filters in Lean]]. ~ Patrick Massot. #ITP #LeanProver #Math #LftCM2020 
++ [[https://youtu.be/p8Etfv1_VqQ][Calculus and integration in Lean]]. ~ Yury Kudryashov. #ITP #LeanProver #Math #LftCM2020 
++ [[https://lean-forward.github.io/norm_cast/norm_cast.pdf][Simplifying casts and coercions]]. ~ Robert Y. Lewis, Paul-Nicolas Madelaine. #ITP #LeanProver
++ [[https://byorgey.wordpress.com/2020/07/18/competitive-programming-in-haskell-cycle-decomposition-with-mutable-arrays/][Competitive programming in Haskell: cycle decomposition with mutable arrays]]. ~ Brent Yorgey. #Haskell #FunctionalProgramming
+
+*** 20-Jul-20
 
 * Lecturas anteriores
 + [[./Lecturas del año 2019.org][Lecturas del año 2019]]
