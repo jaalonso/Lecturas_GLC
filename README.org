@@ -1279,6 +1279,12 @@ contenido.
 + [[https://byorgey.wordpress.com/2020/07/18/competitive-programming-in-haskell-cycle-decomposition-with-mutable-arrays/][Competitive programming in Haskell: cycle decomposition with mutable arrays]]. ~ Brent Yorgey. #Haskell #FunctionalProgramming
 
 *** 20-Jul-20
++ [[https://youtu.be/1xXRQmhldFs][Differential geometry in Lean]]. ~ Sebastien Gouëzel. #ITP #LeanProver #Math #LftCM2020 
++ [[https://arxiv.org/abs/2007.06776][Verification of ML systems via reparameterization]]. ~ Jean-Baptiste Tristan et als. #ITP #LeanProver #MachineLearning
++ [[https://bahr.io/pubs/files/bahr21popl2-paper.pdf][Modal FRP For All (Functional reactive programming without space leaks in Haskell)]]. ~ Patrick Bahr. #Haskell #FunctionalProgramming #ITP #Coq
++ [[https://intranet.math.vt.edu/people/fquinn/history_nature/nature0.pdf][Contributions to a science of contemporary mathematics]]. ~ Frank Quinn. #Math
+
+*** 21-Jul-20
 
 * Lecturas anteriores
 + [[./Lecturas del año 2019.org][Lecturas del año 2019]]
