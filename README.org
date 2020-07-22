@@ -1255,7 +1255,6 @@ contenido.
 + [[https://youtu.be/ATlAQPAtiTY][Building an algebraic hierarchy in Lean]]. ~ Kevin Buzzard. #ITP #LeanProver #Math #LftCM2020 
 + [[https://apurvanakade.github.io/courses/lean_at_MC2020/index.html][Lean at Mathcamp 2020]]. ~ Apurva Nakade, Jalex Stark. #ITP #LeanProver #Math
 
-
 *** 17-Jul-20
 + [[https://youtu.be/RTfjSlwbKjQ][Building the topological hierarchy in Lean]]. ~ Alex Best. #ITP #LeanProver #Math #LftCM2020 
 + [[https://arxiv.org/abs/2005.09452][PubSub implementation in Haskell with formal verification in Coq]]. ~ Boro Sitnikovski, Biljana Stojcevska, Lidija Goracinova-Ilieva, Irena Stojmenovska. #Haskell #FunctionalProgramming #ITP #Coq
@@ -1285,6 +1284,18 @@ contenido.
 + [[https://intranet.math.vt.edu/people/fquinn/history_nature/nature0.pdf][Contributions to a science of contemporary mathematics]]. ~ Frank Quinn. #Math
 
 *** 21-Jul-20
++ [[https://link.springer.com/chapter/10.1007/978-3-030-53518-6_5][Metamath Zero: Designing a theorem prover prover]]. ~ Mario Carneiro. #ITP #MethamathZero0
++ [[https://link.springer.com/chapter/10.1007/978-3-030-53518-6_1][A promising path towards autoformalization and general Artificial Intelligence]]. ~ Christian Szegedy. #MKM #AI #ITP #MachineLearning0
++ [[https://das.li/articles/linear.html][Graphics in Haskell: linear algebra]]. ~ David Alexander Stuart. #Haskell #FunctionalProgramming #Math
++ [[https://dev.to/techway/how-to-read-haskell-documentation-step-by-step-guide-12ic][How to read Haskell Documentation]]. Step by step guide. ~ Theofanis Despoudis. #Haskell #FunctionalProgramming
+
+*** 22-Jul-20
++ [[https://link.springer.com/chapter/10.1007/978-3-030-53518-6_12][Formalizing graph trail properties in Isabelle/HOL]]. ~ Laura Kovács, Hanna Lachnitt, Stefan Szeider. #ITP #IsabelleHOL #Math0
++ [[https://link.springer.com/chapter/10.1007/978-3-030-53518-6_4][Leveraging the information contained in theory presentations]]. ~ Jacques Carette, William M. Farmer, Yasmine Sharoda. #ITP #Agda #IsabelleHOL #LeanProver
++ [[https://link.springer.com/chapter/10.1007/978-3-030-53518-6_7][A framework for formal dynamic dependability analysis using HOL theorem proving]]. ~ Yassmeen Elderhalli, Osman Hasan, Sofiène Tahar. #ITP #HOL4
++ [[https://link.springer.com/chapter/10.1007/978-3-030-53518-6_16][Maintaining a library of formal mathematics]]. ~ Floris van Doorn, Gabriel Ebner, Robert Y. Lewis. #ITP #LeanProver #Math
+
+*** 23-Jul-20
 
 * Lecturas anteriores
 + [[./Lecturas del año 2019.org][Lecturas del año 2019]]
