@@ -1296,6 +1296,14 @@ contenido.
 + [[https://link.springer.com/chapter/10.1007/978-3-030-53518-6_16][Maintaining a library of formal mathematics]]. ~ Floris van Doorn, Gabriel Ebner, Robert Y. Lewis. #ITP #LeanProver #Math
 
 *** 23-Jul-20
++ [[https://osf.io/ag6e9/download][Formalizing Henkin-Style completeness of an axiomatic system for propositional logic]]. ~ Asta Halkjær From. #ITP #IsabelleHOL #Logic
++ [[https://xenaproject.wordpress.com/2020/07/23/two-types-of-universe-for-two-types-of-mathematician/][Two types of universe for two types of mathematician]]. ~ Kevin Buzzard (@XenaProject). #ITP #LeanProver #Math
++ [[https://link.springer.com/chapter/10.1007/978-3-030-53518-6_17][The Tactician (A seamless, interactive tactic learner and prover for Coq)]]. ~ Lasse Blaauwbroek, Josef Urban, Herman Geuvers. #ITP #Coq #MachineLearning
++ [[https://arxiv.org/abs/2007.07571][Computational logic for biomedicine and neurosciences]]. ~ A. Bahrami, E. de Maria, J. Despeyroux, A. Felty, P. Lió. #ITP #Coq
++ [[https://link.springer.com/chapter/10.1007/978-3-030-53518-6_18][Tree neural networks in HOL4]]. ~ Thibault Gauthier. #ITP #HOL4 #NeuralNetwork
++ [[https://herebeseaswines.net/essays/2020-the-stillness-of-haskell-code][The stillness of Haskell code]]. ~ Claes-Magnus Berg. #Haskell #FunctionalProgramming
+
+*** 24-Jul-20
 
 * Lecturas anteriores
 + [[./Lecturas del año 2019.org][Lecturas del año 2019]]
