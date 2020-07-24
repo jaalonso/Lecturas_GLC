@@ -1304,6 +1304,14 @@ contenido.
 + [[https://herebeseaswines.net/essays/2020-the-stillness-of-haskell-code][The stillness of Haskell code]]. ~ Claes-Magnus Berg. #Haskell #FunctionalProgramming
 
 *** 24-Jul-20
+*** 24-Jul-20
++ [[https://odr.chalmers.se/bitstream/20.500.12380/301372/1/CSE%2020-44%20Andersson.pdf][A formally verified compiler for programs that deal with cached address translation]]. ~ J. Andersson. #MsC_Thesis #ITP #IsabelleHOL
++ [[https://github.com/gihanmarasingha/miu_language][An MIU decision procedure in Lean]]. ~ Gihan Marasingha. #ITP #LeanProver
++ [[http://kodu.ut.ee/%7Evarmo/tday-andu/chapman-slides.pdf][A biased history of equality in type theory]. (Some equations are more equal than others)]]. ~ James Chapman. #TypeTheory #ITP #Coq
++ [[https://arxiv.org/abs/2007.10842][Who verifies the verifiers? A computer-checked implementation of the DPLL algorithm in Dafny]]. ~ Cezar-Constantin Andrici, Ştefan Ciobâcă. #Dafny #Logic
++ [[https://arxiv.org/abs/1606.08514][Towards verified Artificial Intelligence]]. ~ Sanjit A. Seshia, Dorsa Sadigh, S. Shankar Sastry. #AI #FormalVerification
+
+*** 25-Jul-20
 
 * Lecturas anteriores
 + [[./Lecturas del año 2019.org][Lecturas del año 2019]]
