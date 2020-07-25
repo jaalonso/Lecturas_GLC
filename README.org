@@ -1312,6 +1312,14 @@ contenido.
 + [[https://arxiv.org/abs/1606.08514][Towards verified Artificial Intelligence]]. ~ Sanjit A. Seshia, Dorsa Sadigh, S. Shankar Sastry. #AI #FormalVerification
 
 *** 25-Jul-20
+*** 25-Jul-20
++ [[https://hal.inria.fr/hal-02903548/document][Playing with the tower of Hanoi formally]]. ~ Laurent Théry. #ITP #Coq
++ [[http://nachivpn.me/haski.pdf][Towards secure IoT programming in Haskell]]. ~ N. Valliappan, R. Krook, A. Russo, K. Claessen. #Haskell #FunctionalProgramming
++ [[https://schooloffp.co/2020/07/25/setting-up-haskell-development-environment-the-basics.html][Setting up Haskell development environment: The basics]]. #Haskell #FunctionalProgramming
++ [[http://homepage.divms.uiowa.edu/~astump/papers/stump-icfp20.pdf][Strong functional pearl: Harper’s regular-expression matcher in Cedille]]. ~ Aaron Stump et als. #Haskell #Cedille #FunctionalProgramming
++ [[https://arxiv.org/abs/2007.09737][Approaches to the implementation of generalized complex numbers in the Julia language]]. ~ M.N. Gevorkyan, A.V. Korolkova, D.S. Kulyabov. #JuliaLang #Math
+
+*** 26-Jul-20
 
 * Lecturas anteriores
 + [[./Lecturas del año 2019.org][Lecturas del año 2019]]
