@@ -1320,6 +1320,17 @@ contenido.
 + [[https://arxiv.org/abs/2007.09737][Approaches to the implementation of generalized complex numbers in the Julia language]]. ~ M.N. Gevorkyan, A.V. Korolkova, D.S. Kulyabov. #JuliaLang #Math
 
 *** 26-Jul-20
++ [[https://arxiv.org/abs/2007.12105v1 ][Formalizing Nakamoto-style proof of Stake]]. ~ Søren Eller Thomsen, Bas Spitters. #ITP #Coq
+
+*** 28-Jul-20
++ [[https://www.isa-afp.org/entries/Relational_Paths.html][Relational characterisations of paths]]. ~ Walter Guttmann, Peter Höfner. #ITP #IsabelleHOL
++ [[https://link.springer.com/chapter/10.1007/978-3-030-53518-6_14][Formally verifying proofs for algebraic identities of matrices]]. ~ Leonard Schmitz, Viktor Levandovskyy. #ITP
++ [[http://materials.dagstuhl.de/files/15/15381/15381.CatherineDubois.Slides.pdf][Formally verified constraint solvers]]. ~ Catherine Dubois, Sourour Elloumi, Arnaud Gotlieb. #ITP #Coq #CSP
++ [[http://tonyday567.github.io/posts/learning/][Machine learning in Haskell]]. ~ @tonyday567 #Haskell #FunctionalProgramming #MachineLearning
++ [[http://www.haskellforall.com/2020/07/the-golden-rule-of-software-quality.html][The golden rule of software quality]]. ~ G. Gonzalez (@GabrielG439). #Programming #Haskell
++ [[https://spel.org.pe/dia-logica-2021/][Día Mundial de la Lógica 2021]]. #Lógica
+
+*** 29-Jul-20
 
 * Lecturas anteriores
 + [[./Lecturas del año 2019.org][Lecturas del año 2019]]
