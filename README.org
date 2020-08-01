@@ -1,5 +1,5 @@
-#+TITLE: Lecturas del Grupo de Lógica Computacional
 #+OPTIONS: ^:nil
+#+TITLE: Lecturas del Grupo de Lógica Computacional
 
 Este repositorio es una recopilación de lecturas compartidas en la lista
 de correo del [[http://www.glc.us.es][grupo de lógica computacional]]. La recopilación está
@@ -1330,7 +1330,13 @@ contenido.
 + [[http://www.haskellforall.com/2020/07/the-golden-rule-of-software-quality.html][The golden rule of software quality]]. ~ G. Gonzalez (@GabrielG439). #Programming #Haskell
 + [[https://spel.org.pe/dia-logica-2021/][Día Mundial de la Lógica 2021]]. #Lógica
 
-*** 29-Jul-20
+*** 30-Jul-20
++ [[https://youtu.be/CxS0ONDfWJg][Metamath Zero: Designing a theorem prover prover]]. ~ #ITP
++ [[https://youtu.be/5HDlgsjO8-w][Maintaining a library of formal Mathematics]]. ~ Gabriel Ebner. #ITP #LeanProver #Math
+
+*** 31-Jul-20
++ [[https://arxiv.org/abs/2007.13529][Automated verification of reactive and concurrent programs by calculation]]. ~ Simon Foster, Kangfeng Ye, Ana Cavalcanti, Jim Woodcock. #ITP #Isabelle
++ [[https://hal.inria.fr/hal-02907622/document][Certifying a rule-based model transformation engine for proof preservation]]. ~ Z. Cheng, M. Tisi, J. Hotonnier. #ITP #Coq 
 
 * Lecturas anteriores
 + [[./Lecturas del año 2019.org][Lecturas del año 2019]]
