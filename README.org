@@ -16,6 +16,7 @@ contenido.
   - [[#mayo-de-2020][Mayo de 2020]]
   - [[#junio-de-2020][Junio de 2020]]
   - [[#julio-de-2020][Julio de 2020]]
+  - [[#agosto-de-2020][Agosto de 2020]]
 - [[#lecturas-anteriores][Lecturas anteriores]]
 
 * Lecturas del año 2020
@@ -1337,6 +1338,18 @@ contenido.
 *** 31-Jul-20
 + [[https://arxiv.org/abs/2007.13529][Automated verification of reactive and concurrent programs by calculation]]. ~ Simon Foster, Kangfeng Ye, Ana Cavalcanti, Jim Woodcock. #ITP #Isabelle
 + [[https://hal.inria.fr/hal-02907622/document][Certifying a rule-based model transformation engine for proof preservation]]. ~ Z. Cheng, M. Tisi, J. Hotonnier. #ITP #Coq 
+
+** Agosto de 2020
+
+*** 02-Ago-20
++ [[https://gergo.erdi.hu/blog/2020-08-01-solving_text_adventure_games_via_symbolic_execution/][Solving text adventure games via symbolic execution]]. ~ Gergő Érdi. #Haskell #FunctionalProgramming #SMT
+
+*** 03-Ago-20
++ [[https://www.cs.us.es/~jalonso/apuntes/Matematicas_en_Lean/Matematicas_en_Lean.pdf][#ForMatUS: Libro "Matemáticas en Lean"]]. #DAO #LeanProver #Matemáticas
++ [[https://www.philipzucker.com/checkpoint-implementing-linear-relations-for-linear-time-invariant-systems/][Checkpoint: Implementing linear relations for linear time invariant systems]]. ~ Philip Zucker (@SandMouth). #JuliaLang #CategoryTheory
++ [[https://www.47deg.com/blog/mu-in-haskell-symposium/][Describing microservices using modern Haskell]]. ~ Alejandro Serrano (@trupill). #FuncionalProgramming #Haskell 
+
+*** 04-Ago-20
 
 * Lecturas anteriores
 + [[./Lecturas del año 2019.org][Lecturas del año 2019]]
