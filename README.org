@@ -23,6 +23,12 @@ contenido.
 
 ** Agosto de 2020
 
+*** 05-Ago-20
++ [[https://research.fb.com/wp-content/uploads/2020/08/Eliminating-Bugs-with-Dependent-Haskell-Experience-Report.pdf][Eliminating bugs with dependent Haskell(Experience report)]]. ~ Noam Zilberstein. #Haskell #FunctionalProgramming
++ [[https://www.andres-loeh.de/StagedSOP/staged-sop-paper.pdf][Staged sums of products]]. ~ Matthew Pickering, Andres Löh, Nicolas Wu. #Haskell #FunctionalProgramming
++ [[https://github.com/i-am-tom/haskell-exercises][GHC exercises (A little course to learn about some of the more obscure GHC extensions)]]. ~ Tom Harding (@am_i_tom). #Haskell #FunctionalProgramming
++ [[https://blog.poisson.chat/posts/2020-08-05-applicative-difference-lists.html][Generic traversals with applicative difference lists]]. ~ Li-yao Xia (@lysxia). #Haskell #FunctionalProgramming
+
 *** 04-Ago-20
 + [[https://www.microsoft.com/en-us/research/uploads/prod/2020/07/effev.pdf][Effect handlers in Haskell, evidently]]. ~ N. Xie, D. Leijen. #Haskell #FunctionalProgramming 
 + [[https://richarde.dev/papers/2018/stitch/stitch.pdf][Stitch: the sound type-indexed type checker (functional pearl)]]. ~ R.A. Eisenberg. #Haskell #FunctionalProgramming
