@@ -23,6 +23,16 @@ contenido.
 
 ** Agosto de 2020
 
+*** 08-Ago-20
++ [[https://arxiv.org/abs/2008.00120][The Tactician (extended version): A seamless, interactive tactic learner and prover for Coq]]. ~ Lasse Blaauwbroek, Josef Urban, Herman Geuvers. #ITP #Coq #MachineLearning
++ [[https://leanprover.github.io/theorem_proving_in_lean/][Theorem proving in Lean (Release 3.18.4, Aug 06, 2020)]]. ~ Jeremy Avigad, Leonardo de Moura, Soonho Kong. #eBook #ITP #LeanProver
++ [[https://leanprover-community.github.io/100.html][Formalizing 100 theorems in Lean]]. #ITP #LeanProver #Math
++ [[http://www.lirmm.fr/~viampietro/files/SHARC19.pdf][Designing critical digital systems (Formal verification of a token player for synchronously executed Petri Nets)]]. ~ Vincent Iampietro. #ITP #Coq
++ [[https://cicm-conference.org/2020/NFM/paper_1_Koepke_Penquitt_Schuetz_Sturzenhecker.pdf][Formalizing foundational notions in Naproche-SAD]]. ~ P. Koepke, J. Penquitt, M. Schütz, E. Sturzenhecker. #ITP #NaprocheSAD #Math
++ [[https://paedubucher.ch/articles/2020-08-03-four-in-a-row-in-haskell-part-i.html][«Four in a Row» in Haskell (Part I: Background and General Considerations)]]. ~ Patrick Bucher. #Haskell #FunctionalProgramming
++ [[https://paedubucher.ch/articles/2020-08-05-four-in-a-row-in-haskell-part-ii.html][«Four in a Row» in Haskell (Part II: Implementation of the Board Logic)]]. ~ Patrick Bucher. #Haskell #FunctionalProgramming
++ [[http://people.math.harvard.edu/~knill/graphgeometry/papers/fundamental.pdf][Some fundamental theorems in Mathematics]]. ~ Oliver Knill. #Math
+
 *** 05-Ago-20
 + [[https://research.fb.com/wp-content/uploads/2020/08/Eliminating-Bugs-with-Dependent-Haskell-Experience-Report.pdf][Eliminating bugs with dependent Haskell(Experience report)]]. ~ Noam Zilberstein. #Haskell #FunctionalProgramming
 + [[https://www.andres-loeh.de/StagedSOP/staged-sop-paper.pdf][Staged sums of products]]. ~ Matthew Pickering, Andres Löh, Nicolas Wu. #Haskell #FunctionalProgramming
