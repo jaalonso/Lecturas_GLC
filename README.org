@@ -23,6 +23,15 @@ contenido.
 
 ** Agosto de 2020
 
+*** 09-Ago-20
++ [[https://www21.in.tum.de/~eberlm/pdfs/algorithms_survey.pdf][Verified textbook algorithms (A biased survey)]]. ~ T. Nipkow, M. Eberl, M.P.L. Haslbeck. #ITP #FormalVerification #Algorithms
++ [[https://scholarship.tricolib.brynmawr.edu/bitstream/handle/10066/22621/2020LowensteinS.pdf?sequence=1&isAllowed=y][Tools for teaching Theoretical Computer Science]]. ~ Sam Lowenstein. #ITP #Coq 
++ [[https://www.taezos.dev/posts/2020-07-30-extracting-io.html][Haskell - Extracting IO]]. ~ Ken Aguilar. #Haskell #FunctionalProgramming
++ [[https://www.michaelpj.com/blog/2020/08/02/lenses-for-tree-traversals.html][Lenses for tree traversas]]. ~ Michael Peyton Jones (@mpeytonjones). #Haskell #FunctionalProgramming
++ [[https://blog.poisson.chat/posts/2020-08-08-definitional-lawfulness.html][Definitional lawfulness: proof by inspection testing]]. ~ Li-yao Xia (@lysxia). #Haskell #FunctionalProgramming
++ [[http://michaelbeeson.com/research/papers/Tarski-JAR.pdf][Finding proofs in Tarskian geometry]]. ~ M. Beeson, L. Wos. #ATP #Otter #Math via @SandMouth 
++ [[https://www.philipzucker.com/defunctionalizing-arithmetic-to-an-abstract-machine/][Defunctionalizing arithmetic to an abstract machine]]. ~ Philip Zucker (@SandMouth). #Haskell #FunctionalProgramming #Math
+
 *** 08-Ago-20
 + [[https://arxiv.org/abs/2008.00120][The Tactician (extended version): A seamless, interactive tactic learner and prover for Coq]]. ~ Lasse Blaauwbroek, Josef Urban, Herman Geuvers. #ITP #Coq #MachineLearning
 + [[https://leanprover.github.io/theorem_proving_in_lean/][Theorem proving in Lean (Release 3.18.4, Aug 06, 2020)]]. ~ Jeremy Avigad, Leonardo de Moura, Soonho Kong. #eBook #ITP #LeanProver
