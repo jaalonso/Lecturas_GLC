@@ -23,6 +23,23 @@ contenido.
 
 ** Agosto de 2020
 
+*** 11-Ago-20
++ [[https://youtu.be/FDx0nXFQloE][Formalising undergraduate mathematics]]. ~ Kevin Buzzard (@XenaProject). #ITP #LeanProver #Math 
++ [[http://wwwf.imperial.ac.uk/~buzzard/one_off_lectures/ug_maths.pdf][Formalising undergraduate mathematics [Slides]]]. ~ Kevin Buzzard (@XenaProject). #ITP #LeanProver #Math 
++ [[https://devanla.com/posts/read-you-a-blaze.html][Read you a blaze]]. ~ Guru Devanla (@grdvnl). #Haskell #FunctionalProgramming
++ [[https://youtu.be/b3wRqlEc6ts][Down to the wire]]. ~ Eric Torreborre. #Haskell #FunctionalProgramming
++ [[https://youtu.be/LBiFYbQMAXc][Getting acquainted with Lens]]. ~ Pawel Szulc. #Haskell #FunctionalProgramming
++ [[https://youtu.be/wb5PLv6-e6I][Stan: Haskell static analyser]]. ~ Veronika Romashkina, Dmitrii Kovanikov. #Haskell #FunctionalProgramming
++ [[https://www.genbeta.com/desarrollo/lenguaje-prolog-ejemplo-paradigma-programacion-logica][El lenguaje Prolog: un ejemplo del paradigma de programación lógica]]. ~ Marcos Merino (@MarcosMerino_B) #Prolog #ProgramaciónLógica
+*** 10-Ago-20
++ [[https://blog.patchgirl.io/haskell/2020/08/02/testing-haskell-with-stack-ghcid-and-hspec.html][Testing Haskell code with Stack, Ghcid and Hspec]]. ~ Iori Matsuhara (@Matsumonkie). #Haskell #FunctionalProgramming
++ [[https://boxbase.org/entries/2020/aug/5/how-a-haskell-programmer-wrote-a-tris-in-haskell/][How a Haskell programmer wrote a tris in Purescript]]. ~ Henri Tuhola (@HenriTuhola). #Haskell #Purescript #FunctionalProgramming
++ [[https://serokell.io/blog/lorentz-haskell-newtypes][Lorentz: Achieving correctness with Haskell Newtypes]]. ~ Kostya Ivanov. #Haskell #FunctionalProgramming
++ [[https://www.fpcomplete.com/haskell/tutorial/fundeps/][Functional dependencies]]. ~ Michael Snoyman (@snoyberg). #Haskell #FunctionalProgramming
++ [[https://youtu.be/4i8hvUcKnH0][Clojure basics: How code is evaluated]].  #Clojure #FunctionalProgramming
++ [[https://youtu.be/jH2Je6wUvPs][Elastic sheet-defined functions]]. ~ Simon Peyton Jones. #Haskell #FunctionalProgramming
++ [[https://youtu.be/5-P0Jjku3cY][The many faces of isOrderedTree]]. ~ Joachim Breitner. #Haskell #FunctionalProgramming
++ [[https://youtu.be/HhpH8DKFBls][Bit vectors without compromises]]. ~ Andrew Lelechenko. #Haskell #FunctionalProgramming
 *** 09-Ago-20
 + [[https://www21.in.tum.de/~eberlm/pdfs/algorithms_survey.pdf][Verified textbook algorithms (A biased survey)]]. ~ T. Nipkow, M. Eberl, M.P.L. Haslbeck. #ITP #FormalVerification #Algorithms
 + [[https://scholarship.tricolib.brynmawr.edu/bitstream/handle/10066/22621/2020LowensteinS.pdf?sequence=1&isAllowed=y][Tools for teaching Theoretical Computer Science]]. ~ Sam Lowenstein. #ITP #Coq 
