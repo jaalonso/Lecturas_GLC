@@ -23,6 +23,15 @@ contenido.
 
 ** Agosto de 2020
 
+*** 12-Ago-20
++ [[https://www.andreipopescu.uk/pdf/conserv_HOL_IsabelleHOL.pdf][Safety and conservativity of definitions in HOL and Isabelle/HOL]]. ~ Ondřej Kunčar, Andrei Popescu. #Logic #ITP #HOL #IsabelleHOL
++ [[https://hal.archives-ouvertes.fr/hal-02380196v2/document][Coq Coq correct! (Verification of type checking and erasure for Coq, in Coq)]]. ~ M. Sozeau, S. Boulier, Y. Forster, N. Tabareau, T. Winterhalter. #ITP #Coq
++ [[https://hal.inria.fr/hal-02422273/document][FreeSpec: Specifying, verifying and executing impure computations in Coq]]. ~ Thomas Letan, Yann Régis-Gianas. #ITP #Coq
++ [[http://eprints.whiterose.ac.uk/161211/15/Popescu2020_Article_CoConAConferenceManagementSyst.pdf][CoCon: A conference management system with formally verified document confidentiality]]. ~ Andrei Popescu, Peter Lammich, Ping Hou. #ITP #IsabelleHOL
++ [[https://youtu.be/fty9QL4aSRc][Haskell to core: Understanding Haskell features through their desugaring]]. ~ Vladislav Zavialov. #Haskell #FunctionalProgramming
++ [[https://youtu.be/KY27LsV11Rg][Agile generation of Cloud API bindings with Haskell]]. ~ Michal Gajda. #Haskell #FunctionalProgramming
++ [[https://youtu.be/JbeqwfZ2dRc][GraphQL :heart: Haskell]]. ~ Alejandro Serrano. #Haskell #FunctionalProgramming
+
 *** 11-Ago-20
 + [[https://youtu.be/FDx0nXFQloE][Formalising undergraduate mathematics]]. ~ Kevin Buzzard (@XenaProject). #ITP #LeanProver #Math 
 + [[http://wwwf.imperial.ac.uk/~buzzard/one_off_lectures/ug_maths.pdf][Formalising undergraduate mathematics [Slides]]]. ~ Kevin Buzzard (@XenaProject). #ITP #LeanProver #Math 
