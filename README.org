@@ -23,6 +23,14 @@ contenido.
 
 ** Agosto de 2020
 
+*** 13-Ago-20
++ [[https://lean-forward.github.io/lean-together/2019/slides/avigad.pdf][Datatypes as quotients of polynomial functors]]. ~ Jeremy Avigad. #ITP #LeanProver
++ [[https://lean-forward.github.io/lean-together/2019/slides/barton.pdf][Model categories in Lean]]. ~ Reid Barton. #ITP #LeanProver #CategoryTheory
++ [[https://lean-forward.github.io/lean-together/2019/slides/bentzen.pdf][A formalization of a Henkin-style completeness proof for propositional modal logic in Lean]]. ~ Bruno Bentzen. #ITP #LeanProver #Logic
++ [[https://lean-forward.github.io/lean-together/2019/slides/blanchette.pdf][So what are hammers good for?]] ~ Jasmin Blanchette. #ITP #IsabelleHOL
++ [[https://youtu.be/gm2pK01S8_g][Data vs Control: a tale of two functors]]. ~ Arnaud Spiwack. #Haskell #FunctionalProgramming
++ [[https://youtu.be/icgl9FuPxKA][Building a web library using super hard Haskell]]. ~ Marcin Rzeźnicki. #Haskell #FunctionalProgramming
++ [[https://youtu.be/2uD6bCbL1-A][Zero-overhead abstractions in Haskell using staging]]. ~ Andres Löh. #Haskell #FunctionalProgramming
 *** 12-Ago-20
 + [[https://www.andreipopescu.uk/pdf/conserv_HOL_IsabelleHOL.pdf][Safety and conservativity of definitions in HOL and Isabelle/HOL]]. ~ Ondřej Kunčar, Andrei Popescu. #Logic #ITP #HOL #IsabelleHOL
 + [[https://hal.archives-ouvertes.fr/hal-02380196v2/document][Coq Coq correct! (Verification of type checking and erasure for Coq, in Coq)]]. ~ M. Sozeau, S. Boulier, Y. Forster, N. Tabareau, T. Winterhalter. #ITP #Coq
