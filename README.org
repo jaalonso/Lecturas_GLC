@@ -23,6 +23,14 @@ contenido.
 
 ** Agosto de 2020
 
+*** 14-Ago-20
++ [[https://lean-forward.github.io/lean-together/2019/slides/buzzard.pdf][Using Lean with undergraduate mathematicians]]. ~ Kevin Buzzard (@XenaProject). #ITP #LeanProver #Math 
++ [[https://lean-forward.github.io/lean-together/2019/slides/hoelzl.pdf][mathlib: Lean’s mathematical library]]. ~ Johannes Hölzl. #ITP #LeanProver #Math
++ [[https://lean-forward.github.io/lean-together/2019/slides/hudon.pdf][Embedding specialized proof languages into Lean (A case study)]]. ~ Simon Hudon. #ITP #LeanProver #Logic
++ [[https://lean-forward.github.io/lean-together/2019/slides/lewis.pdf][A formal proof of Hensel’s lemma over the p-adic integers]]. ~ Robert Y. Lewis. #ITP #LeanProver #Math
++ [[https://youtu.be/w2XCnbLBHmw][How to design co-programs]]. ~ Jeremy Gibbons. #Haskell #FunctionalProgramming
++ [[https://bentnib.org/posts/2020-08-13-non-idempotent-intersection-types.html][Quantitative typing with non-idempotent intersection types]]. ~ Bob Atkey (@bentnib). #ITP #Agda
+
 *** 13-Ago-20
 + [[https://lean-forward.github.io/lean-together/2019/slides/avigad.pdf][Datatypes as quotients of polynomial functors]]. ~ Jeremy Avigad. #ITP #LeanProver
 + [[https://lean-forward.github.io/lean-together/2019/slides/barton.pdf][Model categories in Lean]]. ~ Reid Barton. #ITP #LeanProver #CategoryTheory
