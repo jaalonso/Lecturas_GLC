@@ -23,6 +23,18 @@ contenido.
 
 ** Agosto de 2020
 
+*** 15-Ago-20
++ [[https://lean-forward.github.io/lean-together/2019/slides/wu.pdf][A verified tableau prover for modal logic K- ~ Minchao Wu]]. #ITP #LeanProver #Logic
++ [[https://iokasimov.github.io/posts/2020/08/wgc-effects][Cross wolf, goat and cabbage across the river with effects]]. ~ Murat Kasimov #Haskell #FunctionalProgramming
++ [[https://jmtd.net/log/generic_haskell/][Generic Haskell]]. ~ Jonathan Dowland (@jmtd). #Haskell #FunctionalProgramming
++ [[http://wcl.cs.rpi.edu/papers/DDDAS2020_Cruz.pdf][Towards provably correct probabilistic flight systems]]. ~ Elkin Cruz-Camacho, Saswata Paul, Fotis Kopsaftopoulos, Carlos A. Varela. #ITP #Agda
++ [[https://www.isa-afp.org/entries/Amicable_Numbers.html][Amicable numbers in Isabelle/HOL]]. ~ Angeliki Koutsoukou-Argyraki. #ITP #IsabelleHOL #Math
+
+*** 16-Ago-20
++ [[https://arxiv.org/abs/2008.04165v1][Proof-carrying plans: a resource logic for AI planning]]. ~ Alasdair Hill, Ekaterina Komendantskaya, Ronald P. A. Petrick. #ITP #Agda #AI
++ [[https://www.researchgate.net/publication/335335097_Verifying_an_Incremental_Theory_Solver_for_Linear_Arithmetic_in_IsabelleHOL][Verifying an incremental theory solver for linear arithmetic in Isabelle/HOL]]. ~ Ralph Bottesch, Max W. Haslbeck, René Thiemann. #ITP #IsabelleHOL
++ [[http://olivernash.org/2020/08/08/mathlib/index.html][The Mathlib formalisation project needs your help (A serious effort to formalise modern mathematics)]]. ~ Oliver Nash. #ITP #LeanProver #Math
+
 *** 14-Ago-20
 + [[https://lean-forward.github.io/lean-together/2019/slides/buzzard.pdf][Using Lean with undergraduate mathematicians]]. ~ Kevin Buzzard (@XenaProject). #ITP #LeanProver #Math 
 + [[https://lean-forward.github.io/lean-together/2019/slides/hoelzl.pdf][mathlib: Lean’s mathematical library]]. ~ Johannes Hölzl. #ITP #LeanProver #Math
