@@ -23,6 +23,14 @@ contenido.
 
 ** Agosto de 2020
 
+*** 18-Ago-20
++ [[https://www.helsinki.fi/sites/default/files/atoms/files/finalshortpapermain.pd][Hybrid logic in the Isabelle proof assistant: Benefits, challenges and the road ahead]]. ~ Asta Halkjær From.f#page=27 #ITP #IsabelleHOL #Logic
++ [[https://arxiv.org/abs/1906.11203][A formalisation of the SPARC TSO memory model for multi-core machine code]]. ~ Zhe Hou, David Sanan, Alwen Tiu, Yang Liu, Jin Song Dong. #ITP #IsabelleHOL
++ [[https://www.helsinki.fi/sites/default/files/atoms/files/finalshortpapermain.pd][Generalised Veltman semantics in Agda]]. ~ J.M. Rovira, L. Mikec, J.J. Joosten.f#page=90 #ITP #Agda #Logic
++ [[https://dl.acm.org/doi/pdf/10.1145/3386569.3392375][Penrose: from mathematical notation to beautiful diagrams]]. ~ K. Ye, W. Ni, M. Krieger, D. Ma'ayan, J. Wise, J. Aldrich. #DSL #Haskell #FunctionalProgramming #Math
++ [[http://fse.studenttheses.ub.rug.nl/23070/1/bCS_2020_HarmannyAJ.pdf][Automatic verification of annotated sequential imperative programs]]. ~ Alinda Harmanny. #Haskell #FunctionalProgramming #Logic
++ [[https://notxor.nueva-actitud.org/blog/2020/08/14/un-poco-mas-sobre-magit/][Un poco más sobre magit]]. #Emacs #Git
+
 *** 17-Ago-20
 + [[https://github.com/foxthomson/impartial][A proof of the Sprague-Grundy theorem and other results related to impartial games in Lean]]. ~ Fox Thomson. #ITP #LeanProver
 + [[https://arxiv.org/abs/1904.03241][HOList: An environment for machine learning of higher-order theorem proving]]. ~ Kshitij Bansal, Sarah M. Loos, Markus N. Rabe, Christian Szegedy, Stewart Wilcox. #ITP #HOL_Light #MachineLearning
