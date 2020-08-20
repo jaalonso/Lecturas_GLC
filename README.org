@@ -23,6 +23,12 @@ contenido.
 
 ** Agosto de 2020
 
+*** 19-Ago-20
++ [[https://www.isa-afp.org/entries/Ordinal_Partitions.html][Ordinal partitions in Isabelle/HOL]]. ~ Lawrence C. Paulson. #ITP #IsabelleHOL #Logic #Math
++ [[https://eprint.iacr.org/2020/962.pdf][Post-quantum verification of Fujisaki-Okamoto]]. ~ Dominique Unruh. #ITP #IsabelleHOL 
++ [[https://youtu.be/UjcpfKtq7wY][Logipedia: towards a Wikipedia of formal proofs]]. ~ Gilles Dowek. #ITP #Math
++ [[https://topology.pubpub.org/][Topology (A categorical approach)]]. ~ Tai-Danae Bradley, Tyler Bryson, and John Terilla. #Ebook #Math #CategoryTheory
+
 *** 18-Ago-20
 + [[https://www.helsinki.fi/sites/default/files/atoms/files/finalshortpapermain.pd][Hybrid logic in the Isabelle proof assistant: Benefits, challenges and the road ahead]]. ~ Asta Halkjær From.f#page=27 #ITP #IsabelleHOL #Logic
 + [[https://arxiv.org/abs/1906.11203][A formalisation of the SPARC TSO memory model for multi-core machine code]]. ~ Zhe Hou, David Sanan, Alwen Tiu, Yang Liu, Jin Song Dong. #ITP #IsabelleHOL
