@@ -23,6 +23,16 @@ contenido.
 
 ** Agosto de 2020
 
+*** 20-Ago-20
++ [[https://www.quantamagazine.org/computer-search-settles-90-year-old-math-problem-20200819][Computer search settles 90-year-old Math problem]]. ~ Kevin Hartnett. #Math #CompSci #ATP #SAT_Solvers
++ [[https://schooloffp.co/2020/08/17/whirlwind-tour-of-cabal-for-beginners.html][Whirlwind tour of Cabal for beginners]]. #Haskell #FunctionalProgramming
++ [[https://felixmulder.com/writing/2020/08/20/How-Stylish-Haskell-works.html][How stylish-haskell works]]. ~ Felix Mulder. #Haskell #FunctionalProgramming
++ [[https://dl.acm.org/doi/pdf/10.1145/3406088.3409024][A graded Monad for deadlock-free concurrency (Functional Pearl)]]. ~ Andrej Ivašković, Alan  Mycroft. #Haskell #FunctionalProgramming
++ [[https://dl.acm.org/doi/pdf/10.1145/3406088.3409026][Finger trees explained anew, and slightly simplified (Functional Pearl)]]. ~ Koen Claessen. #Haskell #FunctionalProgramming
++ [[https://blog.jle.im/entry/enhancing-functor-structures-step-by-step-1.html][Enhancing functor structures step-by-step (Part 1)]]. ~ Justin Le (@mstk). #Haskell #FunctionalProgramming
++ [[https://blog.jle.im/entry/enhancing-functor-structures-step-by-step-2.html][Enhancing functor structures step-by-step (Part 2)]]. ~ Justin Le (@mstk). #Haskell #FunctionalProgramming
++ [[https://mathvault.ca/hub/higher-math/math-symbols/set-theory-symbols/][Set theory symbols]]. ~ Math Vault. #Math
+
 *** 19-Ago-20
 + [[https://www.isa-afp.org/entries/Ordinal_Partitions.html][Ordinal partitions in Isabelle/HOL]]. ~ Lawrence C. Paulson. #ITP #IsabelleHOL #Logic #Math
 + [[https://eprint.iacr.org/2020/962.pdf][Post-quantum verification of Fujisaki-Okamoto]]. ~ Dominique Unruh. #ITP #IsabelleHOL 
