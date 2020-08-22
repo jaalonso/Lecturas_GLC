@@ -23,6 +23,14 @@ contenido.
 
 ** Agosto de 2020
 
+*** 21-Ago-20
++ [[http://www.andrew.cmu.edu/user/avigad/Talks/quarantine.pdf][Formal Mathematics and the Lean theorem prover]]. ~ Jeremy Avigad. #Logic #Math #ITP #LeanProver
++ [[https://youtu.be/uPCxm1_R_4I][Formal Mathematics and the Lean theorem prover [Video]]]. ~ Jeremy Avigad. #Logic #Math #ITP #LeanProver
++ [[https://dl.acm.org/doi/pdf/10.1145/3406088.3409022][Effect handlers in Haskell, evidently]]. ~ Ningning Xie, Daan Leijen. #Haskell #FunctionalProgramming
++ [[https://dl.acm.org/doi/pdf/10.1145/3406088.3409016][Scripted signal functions]]. ~ David A. Stuart. #Haskell #FunctionalProgramming
++ [[https://lexi-lambda.github.io/blog/2020/08/13/types-as-axioms-or-playing-god-with-static-types/][Types as axioms, or: playing god with static types]]. ~ Alexis King (@lexi_lambda). #Haskell #FunctionalProgramming
++ [[https://arxiv.org/abs/2008.07912][Inductive logic programming at 30: a new introduction]]. ~ Andrew Cropper, Sebastijan Dumančić. #ILP #MachineLearning #LogicProgramming
+
 *** 20-Ago-20
 + [[https://www.quantamagazine.org/computer-search-settles-90-year-old-math-problem-20200819][Computer search settles 90-year-old Math problem]]. ~ Kevin Hartnett. #Math #CompSci #ATP #SAT_Solvers
 + [[https://schooloffp.co/2020/08/17/whirlwind-tour-of-cabal-for-beginners.html][Whirlwind tour of Cabal for beginners]]. #Haskell #FunctionalProgramming
