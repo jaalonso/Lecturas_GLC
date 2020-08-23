@@ -23,6 +23,14 @@ contenido.
 
 ** Agosto de 2020
 
+*** 22-Ago-20
++ [[https://github.com/EgbertRijke/HoTT-Intro][Introduction to Homotopy Type Theory]]. ~ Egbert Rijke. #HoTT #ITP #Agda #Coq
++ [[https://arxiv.org/abs/2008.09067v1][Adventures in mathematical reasoning]]. ~ Toby Walsh. #ATP #Math
++ [[https://www.well-typed.com/blog/2020/08/memory-fragmentation/][Understanding memory fragmentation]]. ~ David Eichmann. #Haskell #FunctionalProgramming
++ [[https://julesh.com/2020/08/15/probabilistic-programming-with-continuations/][Probabilistic programming with continuations]]. ~ Jules Hedges (@_julesh_). #Haskell #FunctionalProgramming
++ [[https://www.ams.org/journals/bull/2017-54-03/S0273-0979-2016-01556-4/S0273-0979-2016-01556-4.pdf][Five stages of accepting constructive mathematics]]. ~ Andrej Bauer. #Logic #Math
++ [[https://mathvault.ca/hub/higher-math/math-symbols/logic-symbols/][Logic symbols (A comprehensive collection of the most notable symbols in formal/mathematical logic)]]. ~ Math Vault. #Logic #Math
+
 *** 21-Ago-20
 + [[http://www.andrew.cmu.edu/user/avigad/Talks/quarantine.pdf][Formal Mathematics and the Lean theorem prover]]. ~ Jeremy Avigad. #Logic #Math #ITP #LeanProver
 + [[https://youtu.be/uPCxm1_R_4I][Formal Mathematics and the Lean theorem prover [Video]]]. ~ Jeremy Avigad. #Logic #Math #ITP #LeanProver
