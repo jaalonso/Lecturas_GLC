@@ -23,6 +23,11 @@ contenido.
 
 ** Agosto de 2020
 
+*** 23-Ago-20
++ [[https://www.logicmatters.net/resources/pdfs/IFL2_LM.pdf][An introduction to formal logic]]. ~ Peter Smith. #eBook #Logic
++ [[https://www.logicmatters.net/resources/pdfs/godelbook/GodelBookLM.pdf][An introduction to Gödel's theorems]]. ~ Peter Smith. #eBook #Logic
++ [[https://doisinkidney.com/posts/2020-08-22-some-more-list-algorithms.html][Some more list algorithms]]. ~ Donnacha Oisín Kidney (@oisdk). #Haskell #FunctionalProgramming
+
 *** 22-Ago-20
 + [[https://github.com/EgbertRijke/HoTT-Intro][Introduction to Homotopy Type Theory]]. ~ Egbert Rijke. #HoTT #ITP #Agda #Coq
 + [[https://arxiv.org/abs/2008.09067v1][Adventures in mathematical reasoning]]. ~ Toby Walsh. #ATP #Math
