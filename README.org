@@ -23,6 +23,11 @@ contenido.
 
 ** Agosto de 2020
 
+*** 25-Ago-20
++ [[http://anshula.com/blog/latticetheoryduality.pdf][Automating proofs of lattice inequalities in Coq with reinforcement learning and duality]]. ~ Anshula Gandhi, Favio E. Miranda-Perea, Lourdes del Carmen Gonz. #ITP #Coq #MachineLearning
++ [[https://sites.google.com/view/anshula-research-blog/entries/getting-started-with-proving-math-theorems-through-reinforcement-learning][Getting started with proving math theorems through reinforcement learning (An experiment at MIT's Brains, Minds, and Machines Lab)]]. ~ Anshula Gandhi. #ITP #Coq #MachineLearning
++ [[https://sites.google.com/view/anshula-research-blog/entries/guaranteeing-proof-termination][Guaranteeing proof termination (Dealing with infinite proof search in reinforcement-learning automated proofs)]]. ~ Anshula Gandhi. #ITP #Coq #MachineLearning
+
 *** 24-Ago-20
 + [[https://ucsd-progsys.github.io/liquidhaskell-blog/2020/08/20/lh-as-a-ghc-plugin.lhs/][LiquidHaskell is a GHC plugin]]. ~ Ranjit Jhala (@RanjitJhala). #Haskell #FunctionalProgramming
 + [[https://amandeepsp.github.io/fp-is-awesome/][Functional programming is awesome!!]] ~ Amandeep Singh (@theamndeepsingh). #FunctionalProgramming #Haskell
