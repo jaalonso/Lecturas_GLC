@@ -23,6 +23,12 @@ contenido.
 
 ** Agosto de 2020
 
+*** 26-Ago-20
++ [[https://www.isa-afp.org/entries/Relational_Disjoint_Set_Forests.html][Relational disjoint-set forests in Isabelle/HOL]]. ~ Walter Guttmann. #ITP #IsabelleHOL
++ [[https://softwarefoundations.cis.upenn.edu/vc-current/][Verifiable C]]. ~ Andrew W. Appel, Qinxiang Cao. #eBook #ITP #Coq
++ [[https://youtu.be/TPpmmkmUaws][Do more with your types: GADTs and LiquidHaskell]]. ~ Alejandro Serrano, Haskeller (@trupill). #Haskell #FunctionalProgramming #LiquidHaskell
++ [[https://ocaml.xyz/_downloads/fb4b6b2df3a933e0d679dbb8a3f72ff9/book.pdf][OCaml scientific computing (Functional programming meets Data Science)]]. ~ Liang Wang, Jianxin Zhao. #eBook #OCaml #FunctionalProgramming #DataScience
+
 *** 25-Ago-20
 + [[http://anshula.com/blog/latticetheoryduality.pdf][Automating proofs of lattice inequalities in Coq with reinforcement learning and duality]]. ~ Anshula Gandhi, Favio E. Miranda-Perea, Lourdes del Carmen Gonz. #ITP #Coq #MachineLearning
 + [[https://sites.google.com/view/anshula-research-blog/entries/getting-started-with-proving-math-theorems-through-reinforcement-learning][Getting started with proving math theorems through reinforcement learning (An experiment at MIT's Brains, Minds, and Machines Lab)]]. ~ Anshula Gandhi. #ITP #Coq #MachineLearning
