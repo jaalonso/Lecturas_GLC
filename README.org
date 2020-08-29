@@ -23,6 +23,12 @@ contenido.
 
 ** Agosto de 2020
 
+*** 28-Ago-20
++ [[https://www.quantamagazine.org/how-close-are-computers-to-automating-mathematical-reasoning-20200827/][How close are computers to automating mathematical reasoning?]] ~ Stephen Ornes (@StephenOrnes). #ATP #ITP #Math #CompSci
++ [[https://www.quantamagazine.org/can-computers-solve-the-collatz-conjecture-20200826/][Computer scientists attempt to corner the Collatz conjecture]]. ~ Kevin Hartnett (@KSHartnett). #ATP #SAT_Solver #Math #CompSci
++ [[https://www.ac.tuwien.ac.at/files/tr/ac-tr-20-008.pdf][Finding the hardest formulas for resolution]]. ~ Tomáš Peitl, Stefan Szeider. #ATP #SAT_Solver #Logic
++ [[https://www.47deg.com/blog/what-is-haskell/][What is Haskell, and who should use it?]] ~ Jason McClellan (@jk_mcclellan). #Haskell #FunctionalProgramming
+
 *** 27-Ago-20
 + [[https://arxiv.org/abs/1907.05523][Towards a verified model of the Algorand consensus protocol in Coq]]. ~ Musab A. Alturki et als. #ITP #Coq
 
