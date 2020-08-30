@@ -23,6 +23,13 @@ contenido.
 
 ** Agosto de 2020
 
+*** 29-Ago-20
++ [[https://www.cl.cam.ac.uk/~lp15/papers/Formath/Ackermann.pdf][Ackermann's function in iterative form: A subtle termination proof with Isabelle/HOL]]. ~ Lawrence C. Paulson. #ITP #IsabelleHOL #Math
++ [[https://era.ed.ac.uk/bitstream/handle/1842/37209/Butler2020.pdf][Formalising cryptography using CryptHOL]]. ~ David Thomas Butler. #PhD_Thesis #ITP #IsabelleHOL
++ [[https://arxiv.org/abs/2008.09253][Describing console I/O behavior for testing student submissions in Haskell]]. ~ Oliver Westphal, Janis Voigtländer. #Haskell #FunctionalProgramming
++ [[https://rainbyte.net.ar/posts/200828-01-haskell-0-to-io.html][Haskell from 0 to IO (Maybe Hero)]]. #Haskell #FunctionalProgramming
++ [[https://towardsdatascience.com/knowledge-representation-and-reasoning-with-answer-set-programming-376e3113a421][Knowledge representation and reasoning with Answer Set Programming]]. ~ Natalie Kuster (@natalie_kuster). #ASP #LogicProgramming
+
 *** 28-Ago-20
 + [[https://www.quantamagazine.org/how-close-are-computers-to-automating-mathematical-reasoning-20200827/][How close are computers to automating mathematical reasoning?]] ~ Stephen Ornes (@StephenOrnes). #ATP #ITP #Math #CompSci
 + [[https://www.quantamagazine.org/can-computers-solve-the-collatz-conjecture-20200826/][Computer scientists attempt to corner the Collatz conjecture]]. ~ Kevin Hartnett (@KSHartnett). #ATP #SAT_Solver #Math #CompSci
