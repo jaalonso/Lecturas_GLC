@@ -23,6 +23,10 @@ contenido.
 
 ** Agosto de 2020
 
+*** 31-Ago-20
++ [[https://arxiv.org/abs/2008.12613][Type-driven neural programming by example]]. ~ Kiara Grouwstra. #PhD_Thesis #Haskell #FunctionalProgramming #NeuralNetwork
++ [[https://gitlab.com/tycho01/hasktorch/-/tree/synthesis/synthesis][Typed neuro-symbolic program synthesis for the typed lambda calculus]]. ~ Kiara Grouwstra. #Haskell #FunctionalProgramming #NeuralNetwork
+
 *** 29-Ago-20
 + [[https://www.cl.cam.ac.uk/~lp15/papers/Formath/Ackermann.pdf][Ackermann's function in iterative form: A subtle termination proof with Isabelle/HOL]]. ~ Lawrence C. Paulson. #ITP #IsabelleHOL #Math
 + [[https://era.ed.ac.uk/bitstream/handle/1842/37209/Butler2020.pdf][Formalising cryptography using CryptHOL]]. ~ David Thomas Butler. #PhD_Thesis #ITP #IsabelleHOL
