@@ -9,6 +9,7 @@ contenido.
 
 * Contenido                                                             :TOC:
 - [[#lecturas-del-año-2020][Lecturas del año 2020]]
+  - [[#septiembre-de-2020][Septiembre de 2020]]
   - [[#agosto-de-2020][Agosto de 2020]]
   - [[#julio-de-2020][Julio de 2020]]
   - [[#junio-de-2020][Junio de 2020]]
@@ -20,6 +21,16 @@ contenido.
 - [[#lecturas-anteriores][Lecturas anteriores]]
 
 * Lecturas del año 2020
+
+** Septiembre de 2020
+
+*** 01-Sep-20
++ [[https://ethz.ch/en/news-and-events/eth-news/news/2020/08/infinite-fun-with-the-infinite-worlds.html][Infinite fun with infinite worlds]]. ~ Florian Meyer. #Logic #Math
++ [[https://www.isa-afp.org/entries/PAC_Checker.html?utm_source=dlvr.it&utm_medium=twitter][Practical algebraic calculus checker in Isabelle/HOL]]. ~ Mathias Fleury, Daniela Kaufmann. #ITP #IsabelleHOL #Logic #Math
++ [[https://raw.githubusercontent.com/oswald2/haskell_articles/master/HaskellArticles_1_6.pdf][A list of Haskell articles on good design, good testing]]. ~ William Yao et als. #Haskell #FunctionalProgramming
++ [[https://www.researchgate.net/profile/Walter_Carnielli2/publication/343838215_Godel's_Incompleteness_Theorems_from_a_Paraconsistent_Perspective/links/5f445bde299bf13404ef921e/Goedels-Incompleteness-Theorems-from-a-Paraconsistent-Perspective.pdf][Gödel's incompleteness theorems from a paraconsistent perspective]]. ~ Walter Carnielli, David Fuenmayor. #ITP #IsabelleHOL #Logic #Math
++ [[https://arxiv.org/abs/2008.13610][VerifyThis 2019: A program verification competition (Extended report)]]. ~ Claire Dross, Carlo A. Furia, Marieke Huisman, Rosemary Monahan, Peter Müller. #FormalVerification
++ [[https://research.metastate.dev/a-gentle-introduction-to-dependent-types/][A gentle introduction to dependent types]]. ~ A. Samartino. #FunctionalProgramming
 
 ** Agosto de 2020
 
@@ -203,7 +214,6 @@ contenido.
 + [[https://www.47deg.com/blog/mu-in-haskell-symposium/][Describing microservices using modern Haskell]]. ~ Alejandro Serrano (@trupill). #FuncionalProgramming #Haskell 
 *** 02-Ago-20
 + [[https://gergo.erdi.hu/blog/2020-08-01-solving_text_adventure_games_via_symbolic_execution/][Solving text adventure games via symbolic execution]]. ~ Gergő Érdi. #Haskell #FunctionalProgramming #SMT
-
 
 ** Julio de 2020
 
