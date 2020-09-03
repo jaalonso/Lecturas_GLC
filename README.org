@@ -24,6 +24,12 @@ contenido.
 
 ** Septiembre de 2020
 
+*** 02-Sep-20
++ [[https://arxiv.org/abs/2009.00416][Church’s thesis and related axiomsin Coq’s type theory]]. ~ Yannick Forster. #ITP #Coq #Logic #TypeTheory
++ [[https://mathscholar.org/2020/09/can-computers-do-mathematical-research/][Can computers do mathematical research? ~ David H Bailey]]. #Math #CompSci
++ [[https://mathematicswithoutapologies.wordpress.com/2020/09/01/the-inevitable-questions-about-automated-theorem-proving/][The inevitable questions about automated theorem proving]]. ~ Michael Harris. #ATP #ITP #AI #Math
++ [[https://cacm.acm.org/blogs/blog-cacm/247125-can-machine-learning-algorithms-replace-exams/fulltext][Can machine learning algorithms replace exams? ~ Orit Hazzan, Koby Mike]]. #AI #DataScience
+
 *** 01-Sep-20
 + [[https://ethz.ch/en/news-and-events/eth-news/news/2020/08/infinite-fun-with-the-infinite-worlds.html][Infinite fun with infinite worlds]]. ~ Florian Meyer. #Logic #Math
 + [[https://www.isa-afp.org/entries/PAC_Checker.html?utm_source=dlvr.it&utm_medium=twitter][Practical algebraic calculus checker in Isabelle/HOL]]. ~ Mathias Fleury, Daniela Kaufmann. #ITP #IsabelleHOL #Logic #Math
