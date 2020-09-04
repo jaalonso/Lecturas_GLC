@@ -24,6 +24,11 @@ contenido.
 
 ** Septiembre de 2020
 
+*** 03-Sep-20
++ [[http://lsfa2020.ufba.br/lsfa2020-preproc.pd][Formalization of cryptographic algorithms in the Lean Theorem Prover]]. ~ Guilherme Gomes Felix da Silva, Edward Hermann Haeusler, Bruno Lopes.f#page=127 #ITP #LeanProver #Math
++ [[https://www.isa-afp.org/entries/Inductive_Inference.html][Some classical results in inductive inference of recursive functions in Isabelle/HOL]]. ~ Frank J. Balbach. #ITP #IsabelleHOL
++ [[https://www.isa-afp.org/entries/BirdKMP.html][Putting the 'K' into Bird's derivation of Knuth-Morris-Pratt string matching in Isabelle/HOL]]. ~ Peter Gammie. #ITP #IsabelleHOL
+
 *** 02-Sep-20
 + [[https://arxiv.org/abs/2009.00416][Church’s thesis and related axiomsin Coq’s type theory]]. ~ Yannick Forster. #ITP #Coq #Logic #TypeTheory
 + [[https://mathscholar.org/2020/09/can-computers-do-mathematical-research/][Can computers do mathematical research? ~ David H Bailey]]. #Math #CompSci
