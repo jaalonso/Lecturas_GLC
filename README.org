@@ -24,6 +24,17 @@ contenido.
 
 ** Septiembre de 2020
 
+*** 05-Sep-20
++ [[https://arxiv.org/abs/2009.00416][Church's thesis and related axioms in Coq's type theory]]. ~ Yannick Forster. #ITP #Coq #Logic #Math
++ [[https://www.labri.fr/perso/casteran/addition-chains.pdf][Addition chains]]. ~ Pierre Castéran. #ITP #Coq #Math
++ [[http://leanprover.github.io/presentations/20150123_lean-mode/lean-mode.pdf][lean-mode (emacs mode for Lean Theorem Prover)]]. ~ Soonho Kong, Leonardo de Moura. #ITP #LeanProver #Emacs
++ [[https://era.ed.ac.uk/bitstream/handle/1842/37236/McLaughlin2020.pdf][Relational reasoning for effects and handlers]]. ~ Craig McLaughlin. #PhDThesis #Haskell #FunctionalProgramming #ITP #Agda 
++ [[http://formacionib.org/congreso-entorno-digital/0018.pdf][Herramientas de razonamiento automático en GeoGebra: qué son y para qué sirven]]. ~  Steven Van Vaerenbergh, Tomás Recio, Pilar Vélez. #RA #GeoGebra #Matemáticas
++ [[https://www.poberezkin.com/posts/2020-09-04-dependent-types-to-code-are-what-static-types-to-data.html][Dependent types to code are what static types to data (Modeling state machines: Part 2)]]. ~ Evgeny Poberezkin (@epoberezkin). #Haskell #FunctionalProgramming
++ [[https://free.cofree.io/2019/07/31/beautiful-bridges/][Solving the "Beautiful bridges" problem, algebraically]]. ~ Ziyang Liu. #Math #Haskell #FunctionalProgramming
++ [[https://research.chalmers.se/publication/518742/file/518742_Fulltext.pdf][Practical dependent type checking using twin types]]. ~ Víctor López Juan, Nils Anders Danielsson. #ITP #Agda #FunctionalProgramming
++ [[https://arxiv.org/abs/2008.12751][A framework for generating diverse Haskell-IO exercise tasks]]. ~ Oliver Westphal. #Haskell #FunctionalProgramming
+
 *** 03-Sep-20
 + [[http://lsfa2020.ufba.br/lsfa2020-preproc.pd][Formalization of cryptographic algorithms in the Lean Theorem Prover]]. ~ Guilherme Gomes Felix da Silva, Edward Hermann Haeusler, Bruno Lopes.f#page=127 #ITP #LeanProver #Math
 + [[https://www.isa-afp.org/entries/Inductive_Inference.html][Some classical results in inductive inference of recursive functions in Isabelle/HOL]]. ~ Frank J. Balbach. #ITP #IsabelleHOL
