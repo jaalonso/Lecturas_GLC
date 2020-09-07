@@ -24,6 +24,14 @@ contenido.
 
 ** Septiembre de 2020
 
+*** 06-Sep-20
++ [[https://arxiv.org/abs/2008.12716v1][Practical idiomatic considerations for checkable meta-logic in experimental functional programming]]. ~ Baltasar Trancón y Widemann, Markus Lepper. #Haskell #FunctionalProgramming
++ [[https://ostina.to/posts/2020-08-20-maybe-is-great.html][Actually, Maybe is great]]. ~ Dave Della Costa. #Haskell #FunctionalProgramming
++ [[https://www.well-typed.com/blog/2020/08/implementing-a-ghc-plugin-for-liquid-haskell/][Implementing a GHC plugin for Liquid Haskell]]. ~ Alfredo Di Napoli. #Haskell #FunctionalProgramming #LiquidHaskell
++ [[https://free.cofree.io/2020/09/01/type-errors/][Un-obscuring a few GHC type error messages]]. ~ Ziyang Liu. #Haskell #FunctionalProgramming
++ [[https://oleg.fi/gists/posts/2020-08-28-indexed-fixpoint.html][Fixed points of indexed functors]]. ~ Oleg Grenrus. #Haskell #FunctionalProgramming
++ [[https://notxor.nueva-actitud.org/blog/2020/09/04/la-calculadora-de-emacs/][La calculadora de Emacs]]. #Emacs
+
 *** 05-Sep-20
 + [[https://arxiv.org/abs/2009.00416][Church's thesis and related axioms in Coq's type theory]]. ~ Yannick Forster. #ITP #Coq #Logic #Math
 + [[https://www.labri.fr/perso/casteran/addition-chains.pdf][Addition chains]]. ~ Pierre Castéran. #ITP #Coq #Math
