@@ -24,6 +24,12 @@ contenido.
 
 ** Septiembre de 2020
 
+*** 08-Sep-20
++ [[https://www.ps.uni-saarland.de/~rech/master/thesis.pdf][Mechanising set theory in Coq (The generalised continuum hypothesis and the axiom of choice)]]. ~ Felix Rech. #MsC_Thesis #ITP #Coq #Logic #Math
++ [[https://www.cs.princeton.edu/~appel/papers/plcc.pdf][Program logics for certified compilers]]. ~ Andrew W. Appel et als. #eBook #ITP #Coq 
++ [[https://youtu.be/0DTg1sgw58Y][Language-integrated verification]]. ~ Ranjit Jhala. #Haskell #FunctionalProgramming
++ [[https://arxiv.org/abs/2009.01326][Check your (students') proofs-with holes]]. ~ Dennis Renz, Sibylle Schwarz, Johannes Waldmann. #Haskell #FunctionalProgramming
+
 *** 06-Sep-20
 + [[https://arxiv.org/abs/2008.12716v1][Practical idiomatic considerations for checkable meta-logic in experimental functional programming]]. ~ Baltasar Trancón y Widemann, Markus Lepper. #Haskell #FunctionalProgramming
 + [[https://ostina.to/posts/2020-08-20-maybe-is-great.html][Actually, Maybe is great]]. ~ Dave Della Costa. #Haskell #FunctionalProgramming
