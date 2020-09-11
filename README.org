@@ -24,6 +24,15 @@ contenido.
 
 ** Septiembre de 2020
 
+*** 10-Sep-20
++ [[http://minikanren.org/workshop/2020/minikanren-2020-paper11.pdf][Certified semantics for disequality]]. ~ Dmitry Rozplokhas, Dmitry Boulytchev. #ITP #Coq
++ [[https://github.com/dboulytchev/miniKanren-coq/tree/disequality][miniKanren-coq: A certified semantics for relational programming workout]]. ~ Dmitry Boulytchev. #ITP #Coq
++ [[https://link.springer.com/article/10.1007/s10817-020-09576-7][Machine learning guidance for connection tableaux]]. ~ Michael Färber, Cezary Kaliszyk, Josef Urban. #Logic #ATP #MachineLearning
++ [[https://codygman.dev/posts/2020-09-07-Ergonomic_haskell_1_records.html][Ergonomic Haskell 1: Records]]. #Haskell #FunctionalProgramming
+
+*** 09-Sep-20
++ [[https://github.com/liamoc/holbert][Holbert: A graphical interactive proof assistant designed for education]]. ~ Liam O'Connor (@kamatsu8). #ITP #Haskell #Logic
+
 *** 08-Sep-20
 + [[https://www.ps.uni-saarland.de/~rech/master/thesis.pdf][Mechanising set theory in Coq (The generalised continuum hypothesis and the axiom of choice)]]. ~ Felix Rech. #MsC_Thesis #ITP #Coq #Logic #Math
 + [[https://www.cs.princeton.edu/~appel/papers/plcc.pdf][Program logics for certified compilers]]. ~ Andrew W. Appel et als. #eBook #ITP #Coq 
