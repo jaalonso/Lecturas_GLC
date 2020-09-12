@@ -24,6 +24,12 @@ contenido.
 
 ** Septiembre de 2020
 
+*** 11-Sep-20
++ [[https://sanj.ink/posts/2020-06-13-contravariant-functors-are-weird.html][Contravariant functors are weird]]. ~ Sanjiv Sahayam (@ssanj). #Haskell #FunctionalProgramming 
++ [[https://meeshkan.com/blog/purescript-2020/][Four reasons that PureScript is your best choice to build a server in 2020]]. ~ Mike Solomon. #PureScript #FunctionalProgramming
++ [[https://github.com/pepeiborra/hls-tutorial][Let’s write a Haskell Language Server plugin]]. ~ Pepe Iborra. #Haskell #FunctionalProgramming
++ [[https://dev.to/samhh/monoids-and-semigroups-2b94][Monoids (and semigroups)]]. ~ Sam A. Horvath-Hunt. #Haskell #TypeScript #FunctionalProgramming
+
 *** 10-Sep-20
 + [[http://minikanren.org/workshop/2020/minikanren-2020-paper11.pdf][Certified semantics for disequality]]. ~ Dmitry Rozplokhas, Dmitry Boulytchev. #ITP #Coq
 + [[https://github.com/dboulytchev/miniKanren-coq/tree/disequality][miniKanren-coq: A certified semantics for relational programming workout]]. ~ Dmitry Boulytchev. #ITP #Coq
