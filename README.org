@@ -24,6 +24,13 @@ contenido.
 
 ** Septiembre de 2020
 
+*** 12-Sep-20
++ [[https://www.cs.ru.nl/bachelors-theses/2020/Rick_Koenders___4576519___Intuitionism_in_Lean.pdf][Intuitionism in Lean]]. ~ Rick Koenders. #BsC_Thesis #ITP #LeanProver #Logic
++ [[https://arxiv.org/abs/2009.03393][Generative language modeling for automated theorem proving]]. ~ Stanislas Polu, Ilya Sutskever. #ATP #MachineLearning #DeepLearning
++ [[https://softwarefoundations.cis.upenn.edu/vc-current/index.html][Verifiable C (Software foundations, Volume 5)]]. ~ Andrew W. Appel, Qinxiang Cao, #eBook #ITP #Coq
++ [[https://youtu.be/TGLmbl9x7s0][Theorems for free]]. ~ Lars Hupel. #Haskell #FunctionalProgramming
++ [[https://obround.blogspot.com/2020/09/understanding-ghcs-error-messages-ghcs.html][Haskell: Understanding GHC's error messages]]. ~ Obro Und. #Haskell #FunctionalProgramming
+
 *** 11-Sep-20
 + [[https://sanj.ink/posts/2020-06-13-contravariant-functors-are-weird.html][Contravariant functors are weird]]. ~ Sanjiv Sahayam (@ssanj). #Haskell #FunctionalProgramming 
 + [[https://meeshkan.com/blog/purescript-2020/][Four reasons that PureScript is your best choice to build a server in 2020]]. ~ Mike Solomon. #PureScript #FunctionalProgramming
