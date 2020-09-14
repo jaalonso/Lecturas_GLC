@@ -24,6 +24,10 @@ contenido.
 
 ** Septiembre de 2020
 
+*** 13-Sep-20
++ [[https://github.com/rpgcbaptista/coq][Some proofs about sequences and series in Coq]]. #ITP #Coq #Math0
++ [[https://youtu.be/zCJV0xNY06o][Liquid Haskell]]. ~ Andres Löh. #Haskell #FunctionalProgramming
+
 *** 12-Sep-20
 + [[https://www.cs.ru.nl/bachelors-theses/2020/Rick_Koenders___4576519___Intuitionism_in_Lean.pdf][Intuitionism in Lean]]. ~ Rick Koenders. #BsC_Thesis #ITP #LeanProver #Logic
 + [[https://arxiv.org/abs/2009.03393][Generative language modeling for automated theorem proving]]. ~ Stanislas Polu, Ilya Sutskever. #ATP #MachineLearning #DeepLearning
