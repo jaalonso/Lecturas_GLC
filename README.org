@@ -24,6 +24,10 @@ contenido.
 
 ** Septiembre de 2020
 
+*** 14-Sep-20
++ [[https://arxiv.org/abs/2009.05539][A general definition of dependent type theories]]. ~ Andrej Bauer, Philipp G. Haselwarter, Peter LeFanu Lumsdaine. #TypeTheory #Logic #Math #ITP #Coq
++ [[http://tomasp.net/academic/papers/monads/monads-programming.pdf][What we talk about when we talk about monads]]. ~ Tomas Petriceka. #Haskell #FunctionalProgramming #CategoryTheory via @impurepics
+
 *** 13-Sep-20
 + [[https://github.com/rpgcbaptista/coq][Some proofs about sequences and series in Coq]]. #ITP #Coq #Math0
 + [[https://youtu.be/zCJV0xNY06o][Liquid Haskell]]. ~ Andres Löh. #Haskell #FunctionalProgramming
