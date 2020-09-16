@@ -24,6 +24,13 @@ contenido.
 
 ** Septiembre de 2020
 
+*** 15-Sep-20
++ [[https://raw.githubusercontent.com/maxd13/logic-soundness/master/docs/paper_final.pdf][Proving the consistency of Logic in Lean]]. ~ Luiz Carlos R. Viana. #ITP #LeanProver #Logic
++ [[https://fmbc.gitlab.io/2020/files/FMBC2020.pd][Authenticated data structures as functors in Isabelle/HOL]]. ~ Andreas Lochbihler, Ognjen Marić.f#page=52 #ITP #IsabelleHOL
++ [[https://fmbc.gitlab.io/2020/files/FMBC2020.pd][Inter-blockchain protocols with the Isabelle infrastructure framework]]. ~ Florian Kammüller, Uwe Nestmann.f#page=105 #ITP #IsabelleHOL
++ [[https://fmbc.gitlab.io/2020/files/FMBC2020.pd][Verifying, testing and running smart contracts in ConCert]]. ~ Danil Annenkov, Mikkel Milo, Jakob Botsch Nielsen, Bas Spitters.f#page=118 #ITP #Coq
++ [[https://fmbc.gitlab.io/2020/files/FMBC2020.pd][Albert, an intermediate smart-contract language for the Tezos blockchain]]. ~ Bruno Bernardo, Raphaël Cauderlier, Arvid Jakobsson, Basile Pesin, Julien Tesson.f#page=128 #ITP #Coq
+
 *** 14-Sep-20
 + [[https://arxiv.org/abs/2009.05539][A general definition of dependent type theories]]. ~ Andrej Bauer, Philipp G. Haselwarter, Peter LeFanu Lumsdaine. #TypeTheory #Logic #Math #ITP #Coq
 + [[http://tomasp.net/academic/papers/monads/monads-programming.pdf][What we talk about when we talk about monads]]. ~ Tomas Petriceka. #Haskell #FunctionalProgramming #CategoryTheory via @impurepics
