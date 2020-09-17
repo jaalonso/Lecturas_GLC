@@ -24,6 +24,12 @@ contenido.
 
 ** Septiembre de 2020
 
+*** 16-Sep-20
++ [[https://link.springer.com/content/pdf/10.1007/s10817-020-09581-w.pdf][Formalising Σ-protocols and commitment schemes using CryptHOL]]. ~ D. Butler, A. Lochbihler, D. Aspinall, A. Gascón. #ITP #IsabelleHOL 
++ [[https://conferences.computer.org/eurosp/pdfs/EuroSPW2020-7k9FlVRX4z43j4uE2SeXU0/859700a634/859700a634.pdf][Towards formal verification of program obfuscation]]. ~ Weiyun Lu, Bahman Sistany, Amy Felty, Philip Scott. #ITP #Coq
++ [[https://pdfs.semanticscholar.org/4136/15ac7e17e039baaa5a17ec869c96b5e038dc.pdf][The duality of subtyping]]. ~ Bruno C. d. S. Oliveira, Cuui Shaobo, Baber Rehman. #ITP #Coq
++ [[https://www.quantamagazine.org/computer-scientist-donald-knuth-cant-stop-telling-stories-20200416/][The computer scientist who can’t stop telling stories]]. ~ Susan D'Agostino (@susan_dagostino). #CompSci
+
 *** 15-Sep-20
 + [[https://raw.githubusercontent.com/maxd13/logic-soundness/master/docs/paper_final.pdf][Proving the consistency of Logic in Lean]]. ~ Luiz Carlos R. Viana. #ITP #LeanProver #Logic
 + [[https://fmbc.gitlab.io/2020/files/FMBC2020.pd][Authenticated data structures as functors in Isabelle/HOL]]. ~ Andreas Lochbihler, Ognjen Marić.f#page=52 #ITP #IsabelleHOL
