@@ -24,6 +24,11 @@ contenido.
 
 ** Septiembre de 2020
 
+*** 17-Sep-20
++ [[https://www.mdpi.com/2227-7390/8/9/1573/pdf][Coinductive natural semantics for compiler verification in Coq]]. ~ Angel Zúñiga, Gemma Bel-Enguix. #ITP #Coq
++ [[https://arxiv.org/abs/2005.04722][Dynamic IFC theorems for free!]] ~ Maximilian Algehed, Jean-Philippe Bernardy, Catalin Hritcu. #ITP #Agda
++ [[https://obround.blogspot.com/2020/09/haskell-functors-in-detail-in-depth.html][Haskell functors in detail: An in-depth tutorial/reference about functors]].  #Haskell #FunctionalProgramming
+
 *** 16-Sep-20
 + [[https://link.springer.com/content/pdf/10.1007/s10817-020-09581-w.pdf][Formalising Σ-protocols and commitment schemes using CryptHOL]]. ~ D. Butler, A. Lochbihler, D. Aspinall, A. Gascón. #ITP #IsabelleHOL 
 + [[https://conferences.computer.org/eurosp/pdfs/EuroSPW2020-7k9FlVRX4z43j4uE2SeXU0/859700a634/859700a634.pdf][Towards formal verification of program obfuscation]]. ~ Weiyun Lu, Bahman Sistany, Amy Felty, Philip Scott. #ITP #Coq
