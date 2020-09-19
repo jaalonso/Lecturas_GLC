@@ -24,6 +24,18 @@ contenido.
 
 ** Septiembre de 2020
 
+*** 18-Sep-20
++ [[https://youtu.be/gAuvVPw6_CQ][Lean: The Calculator on Steroids]]. ~ James Arthur. #ITP #LeanProver #Math
++ [[https://vimeo.com/459020971][Cubical Agda: A dependently typed programming language with univalence and higher inductive types]]. ~ Anders Mörtberg. #ITP #Agda
++ [[https://bit.ly/3hI19Ij][Art and automated reasoning tools in geometry]]. ~  F. Botana, Tomás Recio. #Math #CompSci #ATP #GeoGebra
++ [[http://www.cril.univ-artois.fr/~roussel/satgame/satgame.php?lang=eng][The SAT game]]. ~ Olivier Roussel. #Logic #Game #SAT
++ [[https://www.sciencedirect.com/science/article/pii/S0167642320301313][Which monads Haskell developers use: An exploratory study]]. ~ Ismael Figueroa, Paul Leger, Hiroaki Fukuda. #Haskell #FunctionalProgramming via @FunctorFact
++ [[https://pritesh-shrivastava.github.io/blog/2020/09/13/fun-with-haskell][Fun with Haskell]]. ~ Pritesh Shrivastava (@pritesh_shri). #Haskell #FunctionalProgramming
++ [[https://dev.to/sshine/aggressive-refactoring-55m2][Aggressive refactoring]]. ~ Simon Shine. #Haskell #FunctionalProgramming
++ [[https://aneksteind.github.io/posts/2020-08-09.html][Tensor chain contraction with refolds]]. ~ David Anekstein. #Haskell #FunctionalProgramming
++ [[http://downloads.hindawi.com/journals/mpe/2020/3485846.pdf][An application of knowledge engineering to mathematics curricula organization and formal verification]]. ~ Eugenio Roanes-Lozano, Angélica Martínez-Zarzuelo, María José Fernández-Díaz. #Math #CompSci #FormalVerification #RBES
++ [[https://www.rsme.es/wp-content/uploads/2020/09/PM-4-Sept-2020.pdf][Problemas del mes (Septiembre 2020)]]. #Matemáticas
+
 *** 17-Sep-20
 + [[https://www.mdpi.com/2227-7390/8/9/1573/pdf][Coinductive natural semantics for compiler verification in Coq]]. ~ Angel Zúñiga, Gemma Bel-Enguix. #ITP #Coq
 + [[https://arxiv.org/abs/2005.04722][Dynamic IFC theorems for free!]] ~ Maximilian Algehed, Jean-Philippe Bernardy, Catalin Hritcu. #ITP #Agda
