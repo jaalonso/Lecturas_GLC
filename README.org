@@ -24,6 +24,17 @@ contenido.
 
 ** Septiembre de 2020
 
+*** 19-Sep-20
++ [[https://people.inf.ethz.ch/trayteld/papers/cade19-incompleteness/incompleteness.pdf][A formally verified abstract account of Gödel’s incompleteness theorems]]. ~ Andrei Popescu, Dmitriy Traytel. #ITP #IsabelleHOL #Logic #Math
++ [[https://www.isa-afp.org/entries/Goedel_Incompleteness.html][An abstract formalization of Gödel's incompleteness theorems]]. ~ Andrei Popescu, Dmitriy Traytel. #ITP #IsabelleHOL #Logic #Math
++ [[https://www.isa-afp.org/entries/Goedel_HFSet_Semantic.html][From abstract to concrete Gödel's incompleteness theorems (Part I)]]. ~ Andrei Popescu, Dmitriy Traytel. #ITP #IsabelleHOL #Logic #Math
++ [[https://www.isa-afp.org/entries/Goedel_HFSet_Semanticless.html][From abstract to concrete Gödel's incompleteness theorems (Part II)]]. ~ Andrei Popescu, Dmitriy Traytel. #ITP #IsabelleHOL #Logic #Math
++ [[https://www.isa-afp.org/entries/Syntax_Independent_Logic.html][Syntax-independent logic infrastructure]]. ~ Andrei Popescu, Dmitriy Traytel. #ITP #IsabelleHOL #Logic #Math
++ [[https://www.isa-afp.org/entries/Robinson_Arithmetic.html][Robinson arithmetic]]. ~ Andrei Popescu, Dmitriy Traytel. #ITP #IsabelleHOL #Logic #Math
++ [[https://www.isa-afp.org/entries/Extended_Finite_State_Machines.html][A formal model of extended finite state machines]]. ~ Michael Foster, Achim D. Brucker, Ramsay G. Taylor, John Derrick. #ITP #IsabelleHOL 
++ [[https://www.isa-afp.org/entries/Extended_Finite_State_Machine_Inference.html][Inference of extended finite state machines]]. ~ Michael Foster, Achim D. Brucker, Ramsay G. Taylor, John Derrick. #ITP #IsabelleHOL
++ [[https://jaspervdj.be/posts/2020-09-17-lazysort.html][Lazy sort: Counting comparisons]]. ~ Jasper Van der Jeugt (@jaspervdj). #Haskell #FunctionalProgramming
+
 *** 18-Sep-20
 + [[https://youtu.be/gAuvVPw6_CQ][Lean: The Calculator on Steroids]]. ~ James Arthur. #ITP #LeanProver #Math
 + [[https://vimeo.com/459020971][Cubical Agda: A dependently typed programming language with univalence and higher inductive types]]. ~ Anders Mörtberg. #ITP #Agda
