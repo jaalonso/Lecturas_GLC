@@ -24,6 +24,12 @@ contenido.
 
 ** Septiembre de 2020
 
+*** 20-Sep-20
++ [[https://github.com/alashworth/sf-lean/][Software Foundations in Lean]]. ~ Andrew Ashworth. #ITP #LeanProver
++ [[https://xenaproject.wordpress.com/2020/09/19/thoughts-on-the-pythagorean-theorem/][Thoughts on the Pythagorean theorem]]. ~ Kevin Buzzard (@XenaProject). #Math
++ [[https://www.wikiwand.com/en/List_of_unsolved_problems_in_mathematics][List of unsolved problems in mathematics]]. #Math
++ [[https://youtu.be/ip92VMpf_-A][Finger trees explained anew, and slightly simplified (functional pearl) Haskell]]. ~ Koen Claessen. #Haskell #FunctionalProgramming 
+
 *** 19-Sep-20
 + [[https://people.inf.ethz.ch/trayteld/papers/cade19-incompleteness/incompleteness.pdf][A formally verified abstract account of Gödel’s incompleteness theorems]]. ~ Andrei Popescu, Dmitriy Traytel. #ITP #IsabelleHOL #Logic #Math
 + [[https://www.isa-afp.org/entries/Goedel_Incompleteness.html][An abstract formalization of Gödel's incompleteness theorems]]. ~ Andrei Popescu, Dmitriy Traytel. #ITP #IsabelleHOL #Logic #Math
