@@ -24,6 +24,14 @@ contenido.
 
 ** Septiembre de 2020
 
+*** 22-Sep-20
++ [[https://arxiv.org/abs/2009.09541v1][Foundations: a draft of a chapter on mathematical logic and foundations for an upcoming handbook of computational proof assistants]]. ~ Jeremy Avigad. #Logic #Math #ITP #CompSci
++ [[https://www.quantamagazine.org/at-the-international-mathematical-olympiad-artificial-intelligence-prepares-to-go-for-the-gold-20200921/][At the Math Olympiad, computers prepare to go for the gold]]. ~ Kevin Hartnett (@KSHartnett). #Math #AI #ITP
++ [[https://arxiv.org/abs/2009.09215][Faster smarter induction in Isabelle/HOL with SeLFiE]]. ~ Yutaka Nagashima. #ITP #IsabelleHOL
++ [[https://owenlynch.org/posts/2020-09-16-haskells-children/][Haskell's children]]. ~ Owen Lynch (@u_map_prop). #Haskell #FunctionalProgramming #Rust #Idris #JuliaLang
++ [[http://eptcs.web.cse.unsw.edu.au/paper.cgi?ICLP2020.6.pdf][Logic programming and machine ethics]]. ~ Abeer Dyoub, Stefania Costantini, Francesca A. Lisi. #LogicProgramming
++ [[http://eptcs.web.cse.unsw.edu.au/paper.cgi?ICLP2020.18.pdf][Deriving theorems in implicational linear logic, declaratively]]. ~ Paul Tarau, Valeria de Paiva. #Prolog #LogicProgramming #Logic
+
 *** 20-Sep-20
 + [[https://github.com/alashworth/sf-lean/][Software Foundations in Lean]]. ~ Andrew Ashworth. #ITP #LeanProver
 + [[https://xenaproject.wordpress.com/2020/09/19/thoughts-on-the-pythagorean-theorem/][Thoughts on the Pythagorean theorem]]. ~ Kevin Buzzard (@XenaProject). #Math
