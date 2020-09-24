@@ -24,6 +24,14 @@ contenido.
 
 ** Septiembre de 2020
 
+*** 23-Sep-20
++ [[https://arxiv.org/abs/2009.08174][Higher-order nonemptiness step by step]]. ~ Paweł Parys. #ITP #Coq
++ [[http://www.csl.sri.com/users/rushby/papers/ontargbegs18.pdf][A mechanically assisted examination of vacuity and question begging in Anselm’s ontological argument]]. ~ John Rushby. #ITP #PVS
++ [[https://www.diva-portal.org/smash/get/diva2:1468318/FULLTEXT01.pdf][Verifying correctness of contract decompositions]]. ~ Gustav Hedengran. #ITP #HOL4
++ [[https://netsec.ethz.ch/publications/papers/Logres2020.pdf][A formally verified protocol for log replication with byzantine fault tolerance]]. ~ Joel Wanner, Laurent Chuat, Adrian Perrig. #ITP #IsabelleHOL
++ [[https://hal.inria.fr/inria-00585203/document][Similar triangles and orientation in plane elementary geometry for Coq-based proofs]]. ~ Tuan Minh Pham. #ITP #Coq #Math
++ [[https://kowainik.github.io/posts/deriving][Strategic deriving]]. ~ Veronika Romashkina (@vrom911), Dmitrii Kovanikov ((@ChShersh)). #Haskell #FunctionalProgramming
+
 *** 22-Sep-20
 + [[https://arxiv.org/abs/2009.09541v1][Foundations: a draft of a chapter on mathematical logic and foundations for an upcoming handbook of computational proof assistants]]. ~ Jeremy Avigad. #Logic #Math #ITP #CompSci
 + [[https://www.quantamagazine.org/at-the-international-mathematical-olympiad-artificial-intelligence-prepares-to-go-for-the-gold-20200921/][At the Math Olympiad, computers prepare to go for the gold]]. ~ Kevin Hartnett (@KSHartnett). #Math #AI #ITP
