@@ -24,6 +24,11 @@ contenido.
 
 ** Septiembre de 2020
 
+*** 24-Sep-20
++ [[http://composition.al/blog/2020/09/20/course-retrospective-smt-solving-and-solver-aided-systems/][Course retrospective: SMT solving and solver-aided systems]]. ~ Lindsey Kuper (@lindsey). #SMT #ATP
++ [[http://incredible.pm/][The Incredible Proof Machine]]. #Logic
++ [[https://www.euclidea.xyz/][Euclidea: Geometric constructions game with straightedge and compass]]. #Math #Game 
+
 *** 23-Sep-20
 + [[https://arxiv.org/abs/2009.08174][Higher-order nonemptiness step by step]]. ~ Paweł Parys. #ITP #Coq
 + [[http://www.csl.sri.com/users/rushby/papers/ontargbegs18.pdf][A mechanically assisted examination of vacuity and question begging in Anselm’s ontological argument]]. ~ John Rushby. #ITP #PVS
