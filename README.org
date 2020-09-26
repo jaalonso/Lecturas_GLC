@@ -24,6 +24,14 @@ contenido.
 
 ** Septiembre de 2020
 
+*** 25-Sep-20
++ [[https://arxiv.org/abs/2009.11403][CertRL: Formalizing convergence proofs for value and policy iteration in Coq]]. ~ Koundinya Vajjha, Avraham Shinnar, Vasily Pestun, Barry Trager, Nathan Fulton. #ITP #Coq
++ [[https://etd.ohiolink.edu/!etd.send_file?accession=ohiou1594805966855804&disposition=inline][Formalized generalization bounds for perceptron-like algorithms]]. ~ Robin J. Kelby. #MSc_Thesis #ITP #Coq #Haskell
++ [[https://reanimate.github.io/][Reanimate: Build declarative animations with SVG and Haskell]]. #Haskell #FunctionalProgramming
++ [[https://medium.com/cantors-paradise/the-chessboard-puzzle-and-the-mathematics-of-invariants-8283e5b8cdeb][The chessboard puzzle and the mathematics of invariants]]. ~ Maths and Musings in Cantor’s Paradise. #Math #CompSci
++ [[https://www.gaussianos.com/un-problema-que-llevaba-20-anos-abierto-i-grupos-de-trenzas-y-grupos-de-artin/][Un problema que llevaba 20 años abierto (I): Grupos de trenzas y grupos de Artin]]. ~ María Cumplido. #Matemáticas
++ [[https://chris-martin.org/2020/in-the-computer][In the computer]]. ~ Chris Martin (@chris__martin). #Programming 
+
 *** 24-Sep-20
 + [[http://composition.al/blog/2020/09/20/course-retrospective-smt-solving-and-solver-aided-systems/][Course retrospective: SMT solving and solver-aided systems]]. ~ Lindsey Kuper (@lindsey). #SMT #ATP
 + [[http://incredible.pm/][The Incredible Proof Machine]]. #Logic
