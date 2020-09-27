@@ -24,6 +24,19 @@ contenido.
 
 ** Septiembre de 2020
 
+*** 26-Sep-20
++ [[http://aitp-conference.org/2020/slides/LP.pdf][Machine learning and the formalisation of mathematics: Research challenges]]. ~ Lawrence C Paulson. #ITP #ML
++ [[http://aitp-conference.org/2020/slides/YS.pdf][Developing a concept-oriented search engine for Isabelle based on natural language: Technical challenges]]. ~ Yiannos Stathopoulos, Angeliki Koutsoukou-Argyraki, Lawrence Paulson. #ITP #IsabelleHOL #MKM #Math
++ [[http://aitp-conference.org/2020/slides/YN.pdf][Automation of proof by induction in Isabelle/HOL using Domain-Specific Languages (LiFtEr: Logical Feature Extractor, SeLFiE: Semantic Logical Feature Extractor)]]. ~ Yutaka Nagashima. #ITP #IsabelleHOL #ML
++ [[http://aitp-conference.org/2020/slides/MW.pdf][Reinforcement learning for interactive theorem proving in HOL4]]. ~ Minchao Wu, Michael Norrish, Christian Walder, Amir Dezfouli. #ITP #HOL4 #ML
++ [[http://aitp-conference.org/2020/slides/LB.pdf][Relieving user effort for the auto tactic in Coq with machine learning]]. ~ Lasse Blaauwbroek. #ITP #Coq #MachineLearning
++ [[http://aitp-conference.org/2020/slides/DS.pdf][The IMO Grand Challenge]]. ~ Daniel Selsam. #AI #ITP #LeanProver #Math
++ [[http://aitp-conference.org/2020/slides/NG.pdf][Classification of finite semigroups and categories using computational methods]]. ~ Najwa Ghannoum et als. #APT #MACE4 #Math
++ [[http://aitp-conference.org/2020/slides/MD.pdf][Formal/symbolic/numerical computational methods]]. ~ Michael R. Douglas. #AI #ITP #ML
++ [[http://aitp-conference.org/2020/slides/JH.pdf][Learning cubing heuristics for SAT from DRAT proofs]]. ~ Jesse Michael Han. #ATP #SAT #ML 
++ [[http://aitp-conference.org/2020/slides/SP.pdf][Learning theorem proving through self-play]]. ~ Stanisław Purgał. #ATP #MachineLearning
++ [[http://builds.openlogicproject.org/open-logic-complete.pdf][The open logic text (Revision: 2020-09-24)]]. #eBook #Logic
+
 *** 25-Sep-20
 + [[https://arxiv.org/abs/2009.11403][CertRL: Formalizing convergence proofs for value and policy iteration in Coq]]. ~ Koundinya Vajjha, Avraham Shinnar, Vasily Pestun, Barry Trager, Nathan Fulton. #ITP #Coq
 + [[https://etd.ohiolink.edu/!etd.send_file?accession=ohiou1594805966855804&disposition=inline][Formalized generalization bounds for perceptron-like algorithms]]. ~ Robin J. Kelby. #MSc_Thesis #ITP #Coq #Haskell
