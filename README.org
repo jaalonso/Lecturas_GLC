@@ -24,6 +24,15 @@ contenido.
 
 ** Septiembre de 2020
 
+*** 28-Sep-20
++ [[https://arxiv.org/abs/2009.12154][Integration of formal proof into unified assurance cases with Isabelle/SACM]]. ~ Simon Foster, Yakoub Nemouchi, Mario Gleirscher, Ran Wei, Tim Kelly. #ITP #Isabelle/SACM
++ [[https://youtu.be/SJ-_zqw5UHk][Proving excluded middle in Lean (FP lunch 25/9/20)]]. ~  Thorsten Altenkirch. #ITP #LeanProver #Logic
++ [[https://leanprover-community.github.io/mathlib_docs/field_theory/primitive_element.html][Primitive element theorem in Lean]]. #ITP #LeanProver #Math
++ [[https://leanprover-community.github.io/mathlib_docs/algebra/universal_enveloping_algebra.html][Universal enveloping algebra in Lean]]. #ITP #LeanProver #Math
++ [[https://leanprover-community.github.io/mathlib_docs/analysis/convex/integral.html][Jensen's inequality for integrals in Lean]]. #ITP #LeanProver #Math
++ [[https://haskell-via-sokoban.nomeata.de/][Haskell via Sokoban]]. ~ Joachim Breitner (@nomeata). #Haskell #FunctionalProgramming #CodeWorld
++ [[https://blog.adrianistan.eu/que-es-idris-y-por-que-es-un-lenguaje-de-programacion-tan-interesante][¿Qué es Idris y por qué es un lenguaje de programación tan interesante?]] ~ Adrián Arroyo (@aarroyoca). #Idris #ProgramaciónFuncional
+
 *** 26-Sep-20
 + [[http://aitp-conference.org/2020/slides/LP.pdf][Machine learning and the formalisation of mathematics: Research challenges]]. ~ Lawrence C Paulson. #ITP #ML
 + [[http://aitp-conference.org/2020/slides/YS.pdf][Developing a concept-oriented search engine for Isabelle based on natural language: Technical challenges]]. ~ Yiannos Stathopoulos, Angeliki Koutsoukou-Argyraki, Lawrence Paulson. #ITP #IsabelleHOL #MKM #Math
