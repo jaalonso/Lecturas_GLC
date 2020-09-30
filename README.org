@@ -24,6 +24,15 @@ contenido.
 
 ** Septiembre de 2020
 
+*** 29-Sep-20
++ [[https://writings.stephenwolfram.com/2020/09/the-empirical-metamathematics-of-euclid-and-beyond/][The empirical metamathematics of Euclid and beyond]]. ~ Stephen Wolfram. #Logic #Math #ITP #LeanProver #Metamath
++ [[https://drops.dagstuhl.de/opus/volltexte/2020/13063/pdf/lipics-vol175-types2019-complete.pd][Making Isabelle content accessible in knowledge representation formats]]. ~ Michael Kohlhase, Florian Rabe, Makarius Wenzel.f#page=11 #ITP #IsabelleHOL #MKM
++ [[https://drops.dagstuhl.de/opus/volltexte/2020/13063/pdf/lipics-vol175-types2019-complete.pd][Type theory unchained: Extending Agda with user-defined rewrite rules]]. ~ Jesper Cockx.f#page=35 #Agda #ITP #FunctionalProgramming
++ [[https://youtu.be/29yTPSZAw_4][The Tao of Types]]. ~ Thorsten Altenkirch. #TypeTheory
++ [[https://drops.dagstuhl.de/opus/volltexte/2020/13063/pdf/lipics-vol175-types2019-complete.pd][Big step normalisation for type theory]]. ~ Thorsten Altenkirch, Colin Geniet.f#page=99 #ITP #Agda #TypeTheory
++ [[https://drops.dagstuhl.de/opus/volltexte/2020/13063/pdf/lipics-vol175-types2019-complete.pd][For finitary induction-induction, induction is enough]]. ~ Ambrus Kaposi, András Kovács, Ambroise Lafont.   f#page=137 #ITP #Agda
++ [[https://drops.dagstuhl.de/opus/volltexte/2020/13063/pdf/lipics-vol175-types2019-complete.pd][Eta-equivalence in core dependent Haskell]]. ~ Anastasiya Kravchuk-Kirilyuk, Antoine Voizard, Stephanie Weirich.f#page=167 #Haskell #FunctionalProgramming #ITP #Coq
+
 *** 28-Sep-20
 + [[https://arxiv.org/abs/2009.12154][Integration of formal proof into unified assurance cases with Isabelle/SACM]]. ~ Simon Foster, Yakoub Nemouchi, Mario Gleirscher, Ran Wei, Tim Kelly. #ITP #Isabelle/SACM
 + [[https://youtu.be/SJ-_zqw5UHk][Proving excluded middle in Lean (FP lunch 25/9/20)]]. ~  Thorsten Altenkirch. #ITP #LeanProver #Logic
