@@ -24,6 +24,15 @@ contenido.
 
 ** Septiembre de 2020
 
+*** 30-Sep-20
++ [[https://arxiv.org/abs/2009.13762][Iteration in ACL2]]. ~ Matt Kaufmann, J Strother Moore. #ITP #ACL2 #CommonLisp
++ [[https://arxiv.org/abs/2009.13761][Formal verification of arithmetic RTL: Translating Verilog to C++ to ACL2]]. ~ David M. Russinoff. #ITP #ACL2
++ [[https://drops.dagstuhl.de/opus/volltexte/2020/13063/pdf/lipics-vol175-types2019-complete.pd][Coherence for monoidal groupoids in HoTT]]. ~ Stefano Piceghello.f#page=199 #ITP #Coq #HoTT
++ [[https://drops.dagstuhl.de/opus/volltexte/2020/13063/pdf/lipics-vol175-types2019-complete.pd][Is impredicativity implicitly implicit? Stefan Monnier, Nathaniel Bos]].f#page=219 #ITP #Coq
++ [[https://drops.dagstuhl.de/opus/volltexte/2020/13063/pdf/lipics-vol175-types2019-complete.pd][Higher inductive type eliminators without paths]]. ~ Nils Anders Danielsson.f#page=239 #ITP #Agda #HoTT
++ [[https://youtu.be/jKCQsndqEGQ][¿Qué es una red neuronal? | Aprendizaje profundo. Capítulo 1]]. #AI #AprendizajeAutomático
++ [[https://youtu.be/mwHiaTrQOiI][Descenso de gradiente. Cómo aprenden las redes neuronales | Aprendizaje profundo. Capítulo 2]]. #AI #AprendizajeAutomático
+
 *** 29-Sep-20
 + [[https://writings.stephenwolfram.com/2020/09/the-empirical-metamathematics-of-euclid-and-beyond/][The empirical metamathematics of Euclid and beyond]]. ~ Stephen Wolfram. #Logic #Math #ITP #LeanProver #Metamath
 + [[https://drops.dagstuhl.de/opus/volltexte/2020/13063/pdf/lipics-vol175-types2019-complete.pd][Making Isabelle content accessible in knowledge representation formats]]. ~ Michael Kohlhase, Florian Rabe, Makarius Wenzel.f#page=11 #ITP #IsabelleHOL #MKM
