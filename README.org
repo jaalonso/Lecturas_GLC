@@ -9,6 +9,7 @@ contenido.
 
 * Contenido                                                             :TOC:
 - [[#lecturas-del-año-2020][Lecturas del año 2020]]
+  - [[#octubre-de-2020][Octubre de 2020]]
   - [[#septiembre-de-2020][Septiembre de 2020]]
   - [[#agosto-de-2020][Agosto de 2020]]
   - [[#julio-de-2020][Julio de 2020]]
@@ -21,6 +22,11 @@ contenido.
 - [[#lecturas-anteriores][Lecturas anteriores]]
 
 * Lecturas del año 2020
+
+** Octubre de 2020
+
+*** 01-Oct-20
++ [[https://www.quantamagazine.org/building-the-mathematical-library-of-the-future-20201001/][Building the mathematical library of the future]]. ~ Kevin Hartnett (@KSHartnett). #ITP #LeanProver #Math
 
 ** Septiembre de 2020
 
