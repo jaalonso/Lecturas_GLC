@@ -25,6 +25,10 @@ contenido.
 
 ** Octubre de 2020
 
+*** 02-Oct-20
++ [[https://doi.org/10.1016/j.jsc.2014.09.032][Learning-assisted theorem proving with millions of lemmas]]. ~ Cezary Kaliszyk, Josef Urban. #ITP #ATP #MachineLearning
++ [[https://arxiv.org/abs/2007.12737][Build scripts with perfect dependencies]]. ~ Sarah Spall, Neil Mitchell, Sam Tobin-Hochstadt. #Haskell #FunctionalProgramming
+
 *** 01-Oct-20
 + [[https://www.quantamagazine.org/building-the-mathematical-library-of-the-future-20201001/][Building the mathematical library of the future]]. ~ Kevin Hartnett (@KSHartnett). #ITP #LeanProver #Math
 
