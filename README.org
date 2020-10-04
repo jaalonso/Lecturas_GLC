@@ -25,6 +25,15 @@ contenido.
 
 ** Octubre de 2020
 
+*** 03-Oct-20
++ [[https://arxiv.org/abs/2009.13065v1][Fixed points theorems for non-transitive relations]]. ~ Jérémy Dubut, Akihisa Yamada. #ITP #IsabelleHOL #Math
++ [[https://arxiv.org/abs/2009.13764v1][Computing and proving well-founded orderings through finite abstractions]]. ~ Rob Sumners. #ITP #ACL2
++ [[https://arxiv.org/abs/2009.13766v1][Quadratic extensions in ACL2]]. ~ Ruben Gamboa, John Cowles, Woodrow Gamboa. #ITP #ACL2 #Math
++ [[https://books.google.es/books?id=0oCADwAAQBAJ&lpg=PP1&pg=PP][Essential logic for computer science]]. ~ Rex Page, Ruben Gamboa.1#v=onepage&q&f=true #eBook #Logic #ITP #ACL2
++ [[https://en.wikipedia.org/wiki/Grzegorczyk_hierarchy][Grzegorczyk hierarchy]]. #Logic #Math #CompSci
++ [[https://matematicascontraelcoronavirus.wordpress.com/][Matemáticas vs Coronavirus: recursos matemáticos para la docencia online]]. #Matemáticas
++ [[https://notxor.nueva-actitud.org/2020/10/02/cambiando-el-blog-a-org-static-blog.html][Cambiando el blog a org-static-blog]]. #Emacs
+
 *** 02-Oct-20
 + [[https://doi.org/10.1016/j.jsc.2014.09.032][Learning-assisted theorem proving with millions of lemmas]]. ~ Cezary Kaliszyk, Josef Urban. #ITP #ATP #MachineLearning
 + [[https://arxiv.org/abs/2007.12737][Build scripts with perfect dependencies]]. ~ Sarah Spall, Neil Mitchell, Sam Tobin-Hochstadt. #Haskell #FunctionalProgramming
