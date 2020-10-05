@@ -25,6 +25,13 @@ contenido.
 
 ** Octubre de 2020
 
+*** 04-Oct-20
++ [[https://softech.cs.uni-kl.de/homepage/staff/PeterZeller/PeterZellerDissertation_preprint.pdf][Tool supported specification and verification of highly available applications]]. ~ Peter Zeller. #ITP #IsabelleHOL
++ [[https://arxiv.org/abs/2009.13767v1][Generating mutually inductive theorems from concise descriptions]]. ~ Sol Swords. #ITP #ACL2
++ [[https://arxiv.org/abs/2009.13769v1][Ethereum's recursive length prefix in ACL2]]. ~ Alessandro Coglio. #ITP #ACL2 #Ethereum
++ [[https://arxiv.org/abs/2009.13771v1][Isomorphic data type transformations]]. ~ Alessandro Coglio, Stephen Westfold. #ITP #ACL2 
++ [[http://math.bu.edu/people/aki/16.pdf][Set theory from Cantor to Cohen]]. ~ Akihiro Kanamori. #Logic #Math vía @logicians
+
 *** 03-Oct-20
 + [[https://arxiv.org/abs/2009.13065v1][Fixed points theorems for non-transitive relations]]. ~ Jérémy Dubut, Akihisa Yamada. #ITP #IsabelleHOL #Math
 + [[https://arxiv.org/abs/2009.13764v1][Computing and proving well-founded orderings through finite abstractions]]. ~ Rob Sumners. #ITP #ACL2
