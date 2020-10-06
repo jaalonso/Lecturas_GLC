@@ -25,6 +25,11 @@ contenido.
 
 ** Octubre de 2020
 
+*** 05-Oct-20
++ [[https://cs.au.dk/~gregersen/papers/2021-tiniris.pdf][Mechanized logical relations for termination-insensitive noninterference]]. ~ S.O. Gregersen, J. Bay, A. Timany, L. Birkedal. #ITP #Coq
++ [[https://github.com/b-mehta/combinatorics][Combinatorics in Lean]]. ~ Bhavik Mehta. #ITP #LeanProver #Math
++ [[https://gist.github.com/serras/5152ec18ec5223b676cc67cac0e99b70][Optics and Kleisli arrows]]. ~ Alejandro Serrano. #Haskell #FunctionalProgramming
+
 *** 04-Oct-20
 + [[https://softech.cs.uni-kl.de/homepage/staff/PeterZeller/PeterZellerDissertation_preprint.pdf][Tool supported specification and verification of highly available applications]]. ~ Peter Zeller. #ITP #IsabelleHOL
 + [[https://arxiv.org/abs/2009.13767v1][Generating mutually inductive theorems from concise descriptions]]. ~ Sol Swords. #ITP #ACL2
