@@ -25,6 +25,17 @@ contenido.
 
 ** Octubre de 2020
 
+*** 06-Oct-20
++ [[https://repositum.tuwien.at/bitstream/20.500.12708/15528/1/32_Smart%20Induction%20for%20Isabelle_HOL%20%28Tool%20Paper%29.pdf][Smart induction for Isabelle/HOL (Tool paper)]]. ~ Yutaka Nagashima. #ITP #IsabelleHOL
++ [[http://lopezacosta.net/assets/pdf/iFM20.pdf][Chain of events: Modular process models for the law]]. ~ Søren Debois et als. #ITP #IsabelleHOL
++ [[https://www.itu.dk/people/debois/thys/ifm20/document.pdf][Formalisation: Chain of events: Modular process models for the law]]. ~ Søren Debois #ITP #IsabelleHOL
++ [[https://github.com/adamtopaz/comb_geom][Combinatorial geometries in Lean]]. ~ Adam Topaz. #ITP #LeanProver #Math
++ [[https://arxiv.org/abs/2010.00774][Proof repair across type equivalences]]. ~ Talia Ringer, RanDair Porter, Nathaniel Yazdani, John Leo, Dan Grossman. #ITP #Coq
++ [[https://www.fpcomplete.com/blog/2017/09/all-about-strictness/][All about strictness]]. ~ Michael Snoyman (@snoyberg). #Haskell #FunctionalProgramming via @FPComplete
++ [[https://mmhaskell.com/blog/2020/10/5/starting-haskellings][Starting Haskellings!]] ~ James Bowen (@james_OWA). #Haskell #FunctionalProgramming
++ [[https://alhassy.github.io/AlBasmala][Blogging with Emacs & Org-mode]]. ~ Musa Al-hassy (@musa314). #Emacs #OrgMode
++ [[https://alhassy.github.io/CalcCheck/][Calculational Mathematics and CalcCheck]]. ~ Musa Al-hassy (@musa314). #Math #CalcCheck
+
 *** 05-Oct-20
 + [[https://cs.au.dk/~gregersen/papers/2021-tiniris.pdf][Mechanized logical relations for termination-insensitive noninterference]]. ~ S.O. Gregersen, J. Bay, A. Timany, L. Birkedal. #ITP #Coq
 + [[https://github.com/b-mehta/combinatorics][Combinatorics in Lean]]. ~ Bhavik Mehta. #ITP #LeanProver #Math
