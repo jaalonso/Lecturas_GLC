@@ -25,6 +25,16 @@ contenido.
 
 ** Octubre de 2020
 
+*** 07-Oct-20
++ [[https://arxiv.org/abs/2010.02595][Formalizing the ring of Witt vectors]]. ~ Johan Commelin, Robert Y. Lewis. #ITP #LeanProver #Math
++ [[https://boarders.github.io/posts/peano.html][On characterizing Nat in Agda]]. ~ Callan McGill. #ITP #Agda #Logic #Math
++ [[https://favonia.org/courses/hdtt2020/][Course: Higher-Dimensional Type Theory]]. ~ Favonia. #TypeTheory #ITP #Agda
++ [[https://www.youtube.com/playlist?list=PL0OBHndHAAZrGQEkOZGyJu7S7KudAJ8M9][Higher-dimensional type theory (Lecture recordings)]]. ~ Favonia. #TypeTheory
++ [[https://phys.org/news/2020-10-scientists-year-old-geometry-problem.amp][Scientists solve 90-year-old geometry problem]]. ~ Byron Spice. #Math #ATP #SAT_solver
++ [[https://github.com/bobatkey/CS316-2020][Course "Functional Programming"]]. ~ Bob Atkey. #Haskell #FunctionalProgramming
++ [[https://www.fpcomplete.com/blog/collect-rust-traverse-haskell-scala/][Collect in Rust, traverse in Haskell and Scala]]. Michael Snoyman (@snoyberg). #Haskell #Rust #Scala #FunctionalProgramming via @FPComplete
++ [[https://rjlipton.wordpress.com/2020/10/06/knowledge-is-good/][Knowledge is good]]. ~ R.J. Lipton. #Logic #Math
+
 *** 06-Oct-20
 + [[https://repositum.tuwien.at/bitstream/20.500.12708/15528/1/32_Smart%20Induction%20for%20Isabelle_HOL%20%28Tool%20Paper%29.pdf][Smart induction for Isabelle/HOL (Tool paper)]]. ~ Yutaka Nagashima. #ITP #IsabelleHOL
 + [[http://lopezacosta.net/assets/pdf/iFM20.pdf][Chain of events: Modular process models for the law]]. ~ Søren Debois et als. #ITP #IsabelleHOL
