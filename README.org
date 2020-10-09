@@ -25,6 +25,10 @@ contenido.
 
 ** Octubre de 2020
 
+*** 08-Oct-20
++ [[https://users-cs.au.dk/birke/papers/2021-monotone.pdf][Reasoning about monotonicity in separation logic]]. ~ Amin Timany, Lars Birkedal. #ITP #Coq
++ [[https://www.algorithm-archive.org/][The Arcane Algorithm Archive (a collaborative effort to create a guide for all important algorithms in all languages)]]. #Algorithms #Programming 
+
 *** 07-Oct-20
 + [[https://arxiv.org/abs/2010.02595][Formalizing the ring of Witt vectors]]. ~ Johan Commelin, Robert Y. Lewis. #ITP #LeanProver #Math
 + [[https://boarders.github.io/posts/peano.html][On characterizing Nat in Agda]]. ~ Callan McGill. #ITP #Agda #Logic #Math
