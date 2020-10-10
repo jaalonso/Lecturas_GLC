@@ -25,6 +25,10 @@ contenido.
 
 ** Octubre de 2020
 
+*** 09-Oct-20
++ [[https://www.qrg.northwestern.edu/BPS/readme.html][Building problem solvers]]. ~ Kenneth D. Forbus, Johan de Kleer. #eBook #AI #CommonLisp
++ [[https://www.quantamagazine.org/computer-scientists-break-traveling-salesperson-record-20201008/][Computer scientists break traveling salesperson record]]. ~ Erica Klarreich (@EricaKlarreich). #Algorithms #CompSci
+
 *** 08-Oct-20
 + [[https://users-cs.au.dk/birke/papers/2021-monotone.pdf][Reasoning about monotonicity in separation logic]]. ~ Amin Timany, Lars Birkedal. #ITP #Coq
 + [[https://www.algorithm-archive.org/][The Arcane Algorithm Archive (a collaborative effort to create a guide for all important algorithms in all languages)]]. #Algorithms #Programming 
