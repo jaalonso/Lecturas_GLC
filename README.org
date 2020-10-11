@@ -25,6 +25,14 @@ contenido.
 
 ** Octubre de 2020
 
+*** 10-Oct-20
++ [[https://limperg.de/paper/cpp2021-induction/draft.pdf][A novice-friendly induction tactic for Lean (Draft)]]. ~ Jannis Limperg. #ITP #LeanProver
++ [[https://arxiv.org/abs/2010.01240][Proving quantum programs correct]]. ~ Kesha Hietala, Robert Rand, Shih-Han Hung, Liyi Li, Michael Hicks. #ITP #Coq
++ [[https://arxiv.org/abs/1906.03930][Formalization of the axiom of choice and its equivalent theorems]]. ~ Tianyu Sun, Wensheng Yu. #ITP #Coq #Logic #Math
++ [[https://arxiv.org/abs/2010.01187v1][On the Nielsen-Schreier theorem in homotopy type theory]]. ~ Andrew W Swan. #ITP #Agda #Math #HoTT 
++ [[http://cseweb.ucsd.edu/~hpeleg/hplus-oopsla20.pdf][Digging for fold: Synthesis-aided API discovery for Haskell]]. ~ Michael B. James et als. #Haskell #FunctionalProgramming
++ [[https://dspace.mit.edu/bitstream/handle/1721.1/100853/18-304-spring-2006/contents/projects/fallacy_yuan.pdf][Mathematical fallacy proofs]]. ~  Xing Yuan. #Logic #Math
+
 *** 09-Oct-20
 + [[https://www.qrg.northwestern.edu/BPS/readme.html][Building problem solvers]]. ~ Kenneth D. Forbus, Johan de Kleer. #eBook #AI #CommonLisp
 + [[https://www.quantamagazine.org/computer-scientists-break-traveling-salesperson-record-20201008/][Computer scientists break traveling salesperson record]]. ~ Erica Klarreich (@EricaKlarreich). #Algorithms #CompSci
