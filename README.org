@@ -25,6 +25,15 @@ contenido.
 
 ** Octubre de 2020
 
+*** 11-Oct-20
++ [[https://www.researchgate.net/profile/Christoph_Benzmueller/publication/344452246_Dyadic_Deontic_Logic_in_HOL_Faithful_Embedding_and_Meta-Theoretical_Experiments/links/5f7719a1a6fdcc0086506d5d/Dyadic-Deontic-Logic-in-HOL-Faithful-Embedding-and-Meta-Theoretical-Experiments.pdf][Dyadic deontic logic in HOL: Faithful embedding and meta-theoretical experiments]]. ~ Christoph Benzmüller, Ali Farjami, Xavier Parent. #ITP #IsabelleHOL #Logic
++ [[https://arxiv.org/abs/2010.00810v1][Public announcement logic in HOL]]. ~ Sebastian Reiche, Christoph Benzmüller. #ITP #IsabelleHOL
++ [[http://isabelle.in.tum.de/~ballarin/publications/isabelle2020.pdf][An antiquotation for locale graphs]]. ~ Clemens Ballarin. #ITP #IsabelleHOL
++ [[https://www.cis.upenn.edu/~plclub/blog/2020-10-09-hs-to-coq/][Tutorial: Verify Haskell programs with hs-to-coq]]. ~ Li-yao Xia. #ITP #Coq #Haskell #FunctionalProgramming
++ [[https://youtu.be/1NA6yV3cxNY][Embracing a mechanized formalization]]. ~ Li-yao Xia. #ITP #Coq #Haskell #FunctionalProgramming
++ [[https://hal.archives-ouvertes.fr/hal-02956858/document][Separation logic-based verification atop a binary-compatible filesystem model]]. ~ Mihir Mehta, William Cook. #ITP #ACL2
++ [[https://medium.com/cantors-paradise/the-anarchist-abstractionist-who-was-alexander-grothendieck-cc396083d94e ][The anarchist abstractionist: Who was Alexander Grothendieck?]] ~ Jørgen Veisdal (@JorgenVeisdal). #Math
+
 *** 10-Oct-20
 + [[https://limperg.de/paper/cpp2021-induction/draft.pdf][A novice-friendly induction tactic for Lean (Draft)]]. ~ Jannis Limperg. #ITP #LeanProver
 + [[https://arxiv.org/abs/2010.01240][Proving quantum programs correct]]. ~ Kesha Hietala, Robert Rand, Shih-Han Hung, Liyi Li, Michael Hicks. #ITP #Coq
