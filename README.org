@@ -25,6 +25,10 @@ contenido.
 
 ** Octubre de 2020
 
+*** 12-Oct-20
++ [[https://arxiv.org/abs/2008.07912][Inductive logic programming at 30: a new introduction]]. ~ Andrew Cropper, Sebastijan Dumančić. #ILP #MachineLearning #LogicProgramming
++ [[https://medium.com/@fommil/delivering-with-haskell-a347d8359597][Delivering with Haskell]]. ~ Sam Halliday (@fommil). #Haskell #FunctionalProgramming
+
 *** 11-Oct-20
 + [[https://www.researchgate.net/profile/Christoph_Benzmueller/publication/344452246_Dyadic_Deontic_Logic_in_HOL_Faithful_Embedding_and_Meta-Theoretical_Experiments/links/5f7719a1a6fdcc0086506d5d/Dyadic-Deontic-Logic-in-HOL-Faithful-Embedding-and-Meta-Theoretical-Experiments.pdf][Dyadic deontic logic in HOL: Faithful embedding and meta-theoretical experiments]]. ~ Christoph Benzmüller, Ali Farjami, Xavier Parent. #ITP #IsabelleHOL #Logic
 + [[https://arxiv.org/abs/2010.00810v1][Public announcement logic in HOL]]. ~ Sebastian Reiche, Christoph Benzmüller. #ITP #IsabelleHOL
