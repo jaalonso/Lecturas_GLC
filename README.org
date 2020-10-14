@@ -25,6 +25,12 @@ contenido.
 
 ** Octubre de 2020
 
+*** 13-Oct-20
++ [[https://reasonablypolymorphic.com/blog/towards-tactics/][Towards tactic metaprogramming in Haskell]]. ~ Sandy Maguire. #Haskell #FunctionalProgramming
++ [[https://programmable.computer/posts/normal-forms.html][Normal forms]]. ~ Travis Whitaker. #Haskell #FunctionalProgramming
++ [[https://dcabrejas.github.io/software-development/haskell/2020/10/11/haskell-adts.html][What are algebraic data types? ~ @dicabrejas]]. #Haskell #FunctionalProgramming
++ [[https://liberationtech.net/emacs-might-not-be-doomed-after-all/][Emacs might not be doomed after all]]. ~ Oivvio Polite. #Emacs
+
 *** 12-Oct-20
 + [[https://arxiv.org/abs/2008.07912][Inductive logic programming at 30: a new introduction]]. ~ Andrew Cropper, Sebastijan Dumančić. #ILP #MachineLearning #LogicProgramming
 + [[https://medium.com/@fommil/delivering-with-haskell-a347d8359597][Delivering with Haskell]]. ~ Sam Halliday (@fommil). #Haskell #FunctionalProgramming
