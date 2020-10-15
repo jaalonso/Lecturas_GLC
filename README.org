@@ -25,6 +25,9 @@ contenido.
 
 ** Octubre de 2020
 
+*** 14-Oct-20
++ [[https://arstechnica.com/science/2020/10/the-unreasonable-effectiveness-of-the-julia-programming-language/][The unreasonable effectiveness of the Julia programming language]]. ~ Lee Phillips. #JuliaLang #Programming
+
 *** 13-Oct-20
 + [[https://reasonablypolymorphic.com/blog/towards-tactics/][Towards tactic metaprogramming in Haskell]]. ~ Sandy Maguire. #Haskell #FunctionalProgramming
 + [[https://programmable.computer/posts/normal-forms.html][Normal forms]]. ~ Travis Whitaker. #Haskell #FunctionalProgramming
