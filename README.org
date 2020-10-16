@@ -25,6 +25,11 @@ contenido.
 
 ** Octubre de 2020
 
+*** 15-Oct-20
++ [[https://raw.githubusercontent.com/barry-jay-personal/tree-calculus/master/tree_book.pdf][Reflective programs in tree calculus]]. ~ Barry Jay (@Jay59009444). #ITP #Coq #Logic
++ [[https://chrispenner.ca/posts/interview][Silly job interview questions in Haskell]]. ~ Chris Penner (@chrislpenner). #Haskell #FunctionalProgramming
++ [[https://raw.githubusercontent.com/blanchette/logical_verification_2020/master/hitchhikers_guide.pdf][The Hitchhiker’s Guide to Logical Verification (2020 Standard Edition (October 12, 2020))]]. ~ Anne Baanen, Alexander Bentkamp, Jasmin Blanchette, Johannes Hölzl. #eBook #ITP #LeanProver
+
 *** 14-Oct-20
 + [[https://arstechnica.com/science/2020/10/the-unreasonable-effectiveness-of-the-julia-programming-language/][The unreasonable effectiveness of the Julia programming language]]. ~ Lee Phillips. #JuliaLang #Programming
 
