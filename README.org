@@ -25,6 +25,13 @@ contenido.
 
 ** Octubre de 2020
 
+*** 16-Oct-20
++ [[https://github.com/TheoWinterhalter/phd-thesis/releases/download/v1.2.1/TheoWinterhalter-PhD-v1.2.1.pdf][Formalisation and meta-theory of type theory]]. ~ Théo Winterhalter. #ITP #Coq #TypeTheory
++ [[https://arxiv.org/abs/2010.07763v1][Refinement types: A tutorial]]. ~ Ranjit Jhala, Niki Vazou. #Haskell #FunctionalProgramming
++ [[https://leanpub.com/production-haskell][Production Haskell (Succeeding in industry with Haskell)]]. ~ Matt Parsons (@mattoflambda). #Haskell #FunctionalProgramming
++ [[https://tech.channable.com/posts/2020-10-15-bottlenecked-on-haskells-text.html][Bottlenecked on Haskell's text library]]. ~ Falco Peijnenburg. #Haskell #FunctionalProgramming
++ [[http://www.cs.us.es/~fsancho/?e=237][Sintaxis y semántica de la lógica proposicional]]. ~ Fernando Sancho (@sanchocaparrini). #Lógica #Matemática 
+
 *** 15-Oct-20
 + [[https://raw.githubusercontent.com/barry-jay-personal/tree-calculus/master/tree_book.pdf][Reflective programs in tree calculus]]. ~ Barry Jay (@Jay59009444). #ITP #Coq #Logic
 + [[https://chrispenner.ca/posts/interview][Silly job interview questions in Haskell]]. ~ Chris Penner (@chrislpenner). #Haskell #FunctionalProgramming
