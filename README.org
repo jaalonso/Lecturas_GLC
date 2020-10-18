@@ -25,6 +25,20 @@ contenido.
 
 ** Octubre de 2020
 
+*** 17-Oct-20
++ [[https://ir.canterbury.ac.nz/bitstream/handle/10092/101132/Robinson-O%27Brien%2c%20Nicolas_Master%27s%20Thesis.pdf?sequence=1&isAllowed=y][A formal correctness proof of Boruvka's minimum spanning tree algorithm]]. ~ Nicolas Robinson-O'Brien. #MSc_Thesis #ITP #IsabelleHOL #Math
++ [[https://repositum.tuwien.at/bitstream/20.500.12708/1084/2/Formalizing%20Graph%20Trail%20Properties.pdf][Formalizing graph trail properties]]. ~ Hanna Elif Lachnitt. #Thesis #ITP #IsabelleHOL #Math
++ [[https://www.cambridge.org/core/services/aop-cambridge-core/content/view/BB3F7C0A0DACE740AE110D43414E0DEC/S0960129520000213a.pdf/model_structure_on_the_universe_of_all_types_in_interval_type_theory.pdf][Model structure on the universe of all types in interval type theory]]. ~ Simon Boulier, Nicolas Tabareau. #ITP #Coq 
++ [[https://perso.telecom-paristech.fr/bloch/OptionIA/IA301-Lecture1-IntroDL-OWL.pdf][Symbolic Artificial Intelligence (Lecture 1: Introduction to description logics and ontologies)]]. ~ Natalia Díaz Rodríguez. #AI #Logic
++ [[https://perso.telecom-paristech.fr/bloch/OptionIA/IntroSymbAI.pdf][Logics and symbolic AI: Knowledge representation and reasoning]]. ~ Isabelle Bloch, Natalia Dı́az Rodrı́guez. #AI #Logic
++ [[https://perso.telecom-paristech.fr/bloch/OptionIA/Logics-SymbolicAI.html][Course: Logics and symbolic AI]]. ~ Isabelle Bloch, Natalia Dı́az Rodrı́guez. #AI #Logic
++ [[https://theconversation.com/what-is-an-algorithm-how-computers-know-what-to-do-with-data-146665][What is an algorithm? How computers know what to do with data]]. ~ Jory Denny. #Algorithms
++ [[https://correl.phoenixinquis.net/2015/07/12/git-graphs.html][Drawing Git Graphs with Graphviz and Org-Mode]]. ~ Correl Roush (@correlr). #Emacs #OrgMode
++ [[https://cacm.acm.org/blogs/blog-cacm/247225-things-to-do-to-an-algorithm/fulltext][Things to do to an algorithm]]. ~ Bertrand Meyer. #Algorithms
++ [[https://cacm.acm.org/blogs/blog-cacm/248046-the-pros-and-cons-of-online-lab-classes-for-computer-science-2020-pandemic-edition/fulltext][The pros and cons of online lab classes for Computer Science - 2020 pandemic edition]]. ~ Philip Guo. #CompSci
++ [[https://www.sciencedirect.com/science/article/pii/S1571066120300463][Strong normalization for the simply-typed lambda calculus in constructive type theory using Agda]]. ~ Sebastián Urciuoli, Álvaro Tasistro Nora Szasz. #ITP #Agda
++ [[https://youtu.be/Mq9sHgXjsG4][Resolución de los 99 ejercicios de Prolog]]. #Prolog #ProgramaciónLógica
+
 *** 16-Oct-20
 + [[https://github.com/TheoWinterhalter/phd-thesis/releases/download/v1.2.1/TheoWinterhalter-PhD-v1.2.1.pdf][Formalisation and meta-theory of type theory]]. ~ Théo Winterhalter. #ITP #Coq #TypeTheory
 + [[https://arxiv.org/abs/2010.07763v1][Refinement types: A tutorial]]. ~ Ranjit Jhala, Niki Vazou. #Haskell #FunctionalProgramming
