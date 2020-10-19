@@ -25,6 +25,11 @@ contenido.
 
 ** Octubre de 2020
 
+*** 18-Oct-20
++ [[https://github.com/leanprover-community/mathlib/blob/c83c28a1ef16790f62c893379b75f77d30ab068e/archive/imo/imo2019_q4.lean][IMO 2019 problem 4 in Lean]]. ~ Floris van Doorn. #ITP #LeanProver #Math #IMO
++ [[https://doisinkidney.com/posts/2020-10-17-ski.html][Fun with combinators]]. ~ Donnacha Oisín Kidney (@oisdk). #Logic #CompSci #Combinators
++ [[http://www.cs.us.es/~fsancho/?e=238][Sintaxis y semántica de la lógica de primer orden]]. ~ Fernando Sancho (@sanchocaparrini). #Lógica #Matemática 
+
 *** 17-Oct-20
 + [[https://ir.canterbury.ac.nz/bitstream/handle/10092/101132/Robinson-O%27Brien%2c%20Nicolas_Master%27s%20Thesis.pdf?sequence=1&isAllowed=y][A formal correctness proof of Boruvka's minimum spanning tree algorithm]]. ~ Nicolas Robinson-O'Brien. #MSc_Thesis #ITP #IsabelleHOL #Math
 + [[https://repositum.tuwien.at/bitstream/20.500.12708/1084/2/Formalizing%20Graph%20Trail%20Properties.pdf][Formalizing graph trail properties]]. ~ Hanna Elif Lachnitt. #Thesis #ITP #IsabelleHOL #Math
