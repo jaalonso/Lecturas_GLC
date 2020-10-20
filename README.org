@@ -25,6 +25,12 @@ contenido.
 
 ** Octubre de 2020
 
+*** 19-Oct-20
++ [[https://link.springer.com/chapter/10.1007/978-3-030-59152-6_2][Verified textbook algorithms (A biased survey)]]. #ITP #IsabelleHOL
++ [[https://www.philipzucker.com/theorem-proving-for-catlab-2-lets-try-z3-this-time-nope/][Theorem proving for Catlab 2: Let's try Z3 this time]]. Nope. ~ Philip Zucker (@SandMouth) #CategoryTheory #JuliaLang
++ [[https://blog.cofree.coffee/2020-10-17-bounded-space-automata/][Implementing cellular automata with comonads and dependent types]]. #Haskell #FunctionalProgramming
++ [[https://stopa.io/post/263][Fun with Lambda Calculus]]. ~ Stepan Parunashvili (@stopachka). #Clojure #FunctionalProgramming #LambdaCalculus
+
 *** 18-Oct-20
 + [[https://github.com/leanprover-community/mathlib/blob/c83c28a1ef16790f62c893379b75f77d30ab068e/archive/imo/imo2019_q4.lean][IMO 2019 problem 4 in Lean]]. ~ Floris van Doorn. #ITP #LeanProver #Math #IMO
 + [[https://doisinkidney.com/posts/2020-10-17-ski.html][Fun with combinators]]. ~ Donnacha Oisín Kidney (@oisdk). #Logic #CompSci #Combinators
