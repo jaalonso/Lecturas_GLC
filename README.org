@@ -25,6 +25,16 @@ contenido.
 
 ** Octubre de 2020
 
+*** 20-Oct-20
++ [[https://github.com/leanprover-community/mathlib/blob/a249c9a4ee252ad64171fa779883d48c3a0fe93a/archive/imo/imo1998_q2.lean][IMO 1998 Q2 in Lean]]. ~ Oliver Nash. #ITP #LeanProver #Math #IMO
++ [[https://www.microsiervos.com/archivo/mundoreal/coleccion-falacias-logicas-ilustradas-ejemplos.html][Una colección de falacias lógicas ilustradas con ejemplos]]. ~ @Alvy. #Lógica
++ [[https://www.cardsoflogic.com/][Common logical fallacies (A handy collection of the most common logical fallacies for you to bookmark)]]. #Logic
++ [[https://sol.sbc.org.br/index.php/semish/article/view/11331/11194][EvoLogic: Sistema tutor inteligente para ensino de Lógica]]. ~ Cristiano Galafassi, Fabiane F.P. Galafassi, Eliseo B. Reategui, Rosa M. Vicari. #Logic #AI
++ [[https://emacssurvey.org/][Emacs user survey]]. #Emacs
++ [[https://code.librehq.com/qhong/crdt.el/][crdt]].el: a real-time collaborative editing environment for Emacs using Conflict-free Replicated Data Types. #Emacs
++ [[https://github.com/dickmao/nntwitter][nntwitter: A Gnus backend for Twitter]]. #Emacs #Twitter
++ [[https://github.com/p3r7/awesome-elisp][Awesome Elisp: a list of resources linked to Emacs LISP (Elisp) development]]. #Emacs #Elisp
+
 *** 19-Oct-20
 + [[https://link.springer.com/chapter/10.1007/978-3-030-59152-6_2][Verified textbook algorithms (A biased survey)]]. #ITP #IsabelleHOL
 + [[https://www.philipzucker.com/theorem-proving-for-catlab-2-lets-try-z3-this-time-nope/][Theorem proving for Catlab 2: Let's try Z3 this time]]. Nope. ~ Philip Zucker (@SandMouth) #CategoryTheory #JuliaLang
