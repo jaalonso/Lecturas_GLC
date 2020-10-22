@@ -25,6 +25,9 @@ contenido.
 
 ** Octubre de 2020
 
+*** 21-Oct-20
++ [[https://emanuelpeg.blogspot.com/2020/10/quien-utiliza-haskell.html?spref=tw][Quien utiliza Haskell??]] ~ Emanuel Goette (@emanuelpeg). #Haskell #ProgramaciónFuncional
+
 *** 20-Oct-20
 + [[https://github.com/leanprover-community/mathlib/blob/a249c9a4ee252ad64171fa779883d48c3a0fe93a/archive/imo/imo1998_q2.lean][IMO 1998 Q2 in Lean]]. ~ Oliver Nash. #ITP #LeanProver #Math #IMO
 + [[https://www.microsiervos.com/archivo/mundoreal/coleccion-falacias-logicas-ilustradas-ejemplos.html][Una colección de falacias lógicas ilustradas con ejemplos]]. ~ @Alvy. #Lógica
