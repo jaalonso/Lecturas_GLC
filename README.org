@@ -25,6 +25,12 @@ contenido.
 
 ** Octubre de 2020
 
+*** 22-Oct-20
++ [[https://github.com/xiw/arithcc][A formalization of "Correctness of a compiler for arithmetic expressions" (McCarthy and Painter 1967) using the Lean theorem prover]]. ~ Xi Wang. #ITP #LeanProver
++ [[https://serokell.io/blog/functional-programming-in-fintech][Why fintech companies use Haskell]]. ~ Roman Alterman. #Haskell #FunctionalProgramming
++ [[https://medium.com/@aronwith1a/the-coin-change-problem-in-haskell-bc1fa89cd09c][The coin change problem in Haskell]]. ~ Aron. #Haskell #FunctionalProgramming
++ [[https://youtu.be/0O_boW9YA7I][The greatest mathematician that never lived]]. ~ Pratik Aghor. #Math
+
 *** 21-Oct-20
 + [[https://emanuelpeg.blogspot.com/2020/10/quien-utiliza-haskell.html?spref=tw][Quien utiliza Haskell??]] ~ Emanuel Goette (@emanuelpeg). #Haskell #ProgramaciónFuncional
 
