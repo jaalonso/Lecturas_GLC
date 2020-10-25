@@ -25,6 +25,11 @@ contenido.
 
 ** Octubre de 2020
 
+*** 24-Oct-20
++ [[https://easychair.org/publications/preprint_download/T98x][Automated theorem proving, fast and slow]]. ~ Michael Rawson, Giles Reger.  #ATP #MachineLearning 
++ [[https://arxiv.org/abs/2010.10296][SeLFiE: Modular semantic reasoning for induction in Isabelle/HOL]]. ~ Yutaka Nagashima. #ITP #IsabelleHOL
++ [[https://www.quantamagazine.org/the-map-of-mathematics-20200213/][The Map of Mathematics]]. #Math
+
 *** 22-Oct-20
 + [[https://github.com/xiw/arithcc][A formalization of "Correctness of a compiler for arithmetic expressions" (McCarthy and Painter 1967) using the Lean theorem prover]]. ~ Xi Wang. #ITP #LeanProver
 + [[https://serokell.io/blog/functional-programming-in-fintech][Why fintech companies use Haskell]]. ~ Roman Alterman. #Haskell #FunctionalProgramming
