@@ -25,6 +25,10 @@ contenido.
 
 ** Octubre de 2020
 
+*** 25-Oct-20
++ [[https://www.quantamagazine.org/how-the-towering-p-adic-numbers-work-20201019/][An infinite universe of number systems]]. ~ Kelsey Houston-Edwards. #Math
++ [[http://www.cs.us.es/~fsancho/?e=239][Tableros semánticos en lógica proposicional]]. ~ Fernando Sancho (@sanchocaparrini). #Lógica #Matemática 
+
 *** 24-Oct-20
 + [[https://easychair.org/publications/preprint_download/T98x][Automated theorem proving, fast and slow]]. ~ Michael Rawson, Giles Reger.  #ATP #MachineLearning 
 + [[https://arxiv.org/abs/2010.10296][SeLFiE: Modular semantic reasoning for induction in Isabelle/HOL]]. ~ Yutaka Nagashima. #ITP #IsabelleHOL
