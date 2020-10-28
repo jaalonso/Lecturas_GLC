@@ -25,6 +25,11 @@ contenido.
 
 ** Octubre de 2020
 
+*** 27-Oct-20
++ [[https://www.site.uottawa.ca/~afelty/dist/vecos20.pdf][Formal verification of a certified policy language]]. ~ Amir Eaman, Amy Felty. #ITP #Coq
++ [[https://itu.dk/people/jkas/papers/actris2.pdf][Actris 2]].0: Asynchronous session-type based reasoning in separation logic. ~ Jonas Kastberg Hinrichsen, Jesper Bengtson, Robbert Krebbers. #ITP #Coq
++ [[https://qrs20.techconf.org/QRS2020_FULL/pdfs/QRS2020-4LGdOos7NAbR8M2s6S6ezE/891300a254/891300a254.pdf][Development method of three kinds of typical tree structure algorithms and Isabelle-based machine assisted verification]]. ~ Changjing Wang et als. #ITP #IsabelleHOL
+
 *** 25-Oct-20
 + [[https://www.quantamagazine.org/how-the-towering-p-adic-numbers-work-20201019/][An infinite universe of number systems]]. ~ Kelsey Houston-Edwards. #Math
 + [[http://www.cs.us.es/~fsancho/?e=239][Tableros semánticos en lógica proposicional]]. ~ Fernando Sancho (@sanchocaparrini). #Lógica #Matemática 
