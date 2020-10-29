@@ -25,6 +25,9 @@ contenido.
 
 ** Octubre de 2020
 
+*** 28-Oct-20
++ [[https://www.snoyman.com/blog/2020/10/haskell-bad-parts-1][Haskell: The bad parts, part 1]]. ~ Michael Snoyman (@snoyberg). #Haskell #FunctionalProgramming
+
 *** 27-Oct-20
 + [[https://www.site.uottawa.ca/~afelty/dist/vecos20.pdf][Formal verification of a certified policy language]]. ~ Amir Eaman, Amy Felty. #ITP #Coq
 + [[https://itu.dk/people/jkas/papers/actris2.pdf][Actris 2]].0: Asynchronous session-type based reasoning in separation logic. ~ Jonas Kastberg Hinrichsen, Jesper Bengtson, Robbert Krebbers. #ITP #Coq
