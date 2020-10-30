@@ -25,6 +25,11 @@ contenido.
 
 ** Octubre de 2020
 
+*** 29-Oct-20
++ [[https://www.isa-afp.org/entries/Physical_Quantities.html][A sound type system for physical quantities, units, and measurements in Isabelle/HOL]]. ~ Simon Foster, Burkhart Wolff. #ITP #IsabelleHOL
++ [[http://ceur-ws.org/Vol-2710/paper21.pdf][Tautology checkers in Isabelle and Haskell]]. ~ Jørgen Villadsen. #ITP #IsabelleHOL #Haskell #Logic
++ [[https://github.com/leanprover-community/mathlib/blob/dfa85b54bbba02433e0cb924547808ff5120f78c/archive/imo/imo1981_q3.lean][IMO 1981 Q3 in Lean]]. ~ Kevin Lacker. #ITP #LeanProver #Math #IMO
+
 *** 28-Oct-20
 + [[https://www.snoyman.com/blog/2020/10/haskell-bad-parts-1][Haskell: The bad parts, part 1]]. ~ Michael Snoyman (@snoyberg). #Haskell #FunctionalProgramming
 
