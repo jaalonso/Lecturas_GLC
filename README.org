@@ -25,6 +25,19 @@ contenido.
 
 ** Octubre de 2020
 
+*** 30-Oct-20
++ [[https://youtu.be/17gfCTnw6uE][Efficient automatic differentiation made easy via category theory]]. ~ Conal Elliott. #Haskell #CategoryTheory
++ [[https://eptcs.web.cse.unsw.edu.au/paper.cgi?thedu2020.1.pdf][Teaching interactive proofs to mathematicians]]. ~ M. Ayala-Rincón, T.A. de Lima. #ITP #PVS #Math
++ [[https://eptcs.web.cse.unsw.edu.au/paper.cgi?thedu2020.2.pdf][Isabelle/HOL as a meta-language for teaching logic]]. ~ Asta Halkjær From, Jørgen Villadsen, Patrick Blackburn. #ITP #IsabelleHOL #Logic
++ [[https://eptcs.web.cse.unsw.edu.au/paper.cgi?thedu2020.3.pdf][Formalizing IMO problems and solutions in Isabelle/HOL]]. ~ Filip Marić, Sana Stojanović-Đurđević. #ITP #IsabelleHOL #Math
++ [[https://github.com/filipmaric/IMO][Formalization of IMO solutions in Isabelle/HOL]]. ~ Filip Marić. #ITP #IsabelleHOL #Math
++ [[https://ihp.digitallyinduced.com/ShowPost?postId=14ed1d41-5ea4-4608-9c96-465443cd6e55][Haskell: The good parts]]. ~ Marc Scholten. #Haskell #FunctionalProgramming
++ [[https://culturacientifica.com/2020/10/21/rompecabezas-matematicos-con-numeros/][Rompecabezas matemáticos con números]]. ~ Raúl Ibáñez (@mtpibtor). #Matemáticas
++ [[https://qnikst.github.io/posts/2020-10-18-quicksort.html][Quicksort in Haskell]]. ~ Alexander Vershilov. #Haskell #FunctionalProgramming
++ [[https://her.esy.fun/posts/0015-how-i-use-org-mode/index.html][How I use org-mode]]. ~ Yann Esposito (@yogsototh). #Emacs #OrgMode
++ [[http://www.cs.us.es/~fsancho/?e=240][Tableros semánticos en lógica de primer orden]]. ~ Fernando Sancho (@sanchocaparrini). #Lógica  
++ [[http://www.haskellforall.com/2020/10/why-i-prefer-functional-programming.html][Why I prefer functional programming]]. ~ G. Gonzalez (@GabrielG439). #FunctionalProgramming
+
 *** 29-Oct-20
 + [[https://www.isa-afp.org/entries/Physical_Quantities.html][A sound type system for physical quantities, units, and measurements in Isabelle/HOL]]. ~ Simon Foster, Burkhart Wolff. #ITP #IsabelleHOL
 + [[http://ceur-ws.org/Vol-2710/paper21.pdf][Tautology checkers in Isabelle and Haskell]]. ~ Jørgen Villadsen. #ITP #IsabelleHOL #Haskell #Logic
