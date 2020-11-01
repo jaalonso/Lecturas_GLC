@@ -25,6 +25,14 @@ contenido.
 
 ** Octubre de 2020
 
+*** 31-Oct-20
++ [[https://herebeseaswines.net/essays/2020-10-23-wireworld ][Cellular automaton in Haskell (II)]]. WireWorld. ~ Claes-Magnus Berg. #Haskell #FunctionalProgramming
++ [[http://jackkelly.name/blog/archives/2020/10/16/accidentally-quadratic_hashmaps/index.html][Accidentally-quadratic HashMaps]]. ~ Jack Kelly. #Haskell #FunctionalProgramming
++ [[https://serokell.io/blog/uncaught-exception-handling][Handling of uncaught exceptions in Haskell]]. ~ Ivan Gromakovsky. #Haskell #FunctionalProgramming
++ [[https://www.parsonsmatt.org/2020/10/27/plucking_in_plucking_out.html][Plucking In, Plucking Out]]. ~ Matt Parsons (@mattoflambda). #Haskell #FunctionalProgramming
++ [[https://www.ensiie.fr/wp-content/uploads/2020/10/poster_dubois-1.pdf][Formally verified constraints solvers (A guided tour)]]. ~ Catherine Dubois. #ITP #Coq #CSP
++ [[https://books.google.es/books?id=JA0FEAAAQBAJ&lpg=PP1&pg=PP][Competitive programming in Python (128 algorithms to develop your coding skills)]]. ~ Christoph Dürr, Jill-Jênn Vie.1#v=onepage&q&f=false #Programming #Python
+
 *** 30-Oct-20
 + [[https://youtu.be/17gfCTnw6uE][Efficient automatic differentiation made easy via category theory]]. ~ Conal Elliott. #Haskell #CategoryTheory
 + [[https://eptcs.web.cse.unsw.edu.au/paper.cgi?thedu2020.1.pdf][Teaching interactive proofs to mathematicians]]. ~ M. Ayala-Rincón, T.A. de Lima. #ITP #PVS #Math
