@@ -9,6 +9,7 @@ contenido.
 
 * Contenido                                                             :TOC:
 - [[#lecturas-del-año-2020][Lecturas del año 2020]]
+  - [[#noviembre-de-2020][Noviembre de 2020]]
   - [[#octubre-de-2020][Octubre de 2020]]
   - [[#septiembre-de-2020][Septiembre de 2020]]
   - [[#agosto-de-2020][Agosto de 2020]]
@@ -22,6 +23,15 @@ contenido.
 - [[#lecturas-anteriores][Lecturas anteriores]]
 
 * Lecturas del año 2020
+
+** Noviembre de 2020
+*** 01-Nov-20
++ [[https://people.cs.umass.edu/~brun/pubs/pubs/First20oopsla.pdf][TacTok: Semantics-aware proof synthesis]]. ~ Emily First, Yuriy Brun, Arjun Guha. #ITP #Coq
++ [[https://link.springer.com/article/10.1007/s00283-020-10006-0][Big Math and the one-brain barrier: The tetrapod model of mathematical knowledge]]. ~ Jacques Carette, William M. Farmer, Michael Kohlhase, Florian Rabe. #Math #CompSci 
++ [[https://eprint.iacr.org/2020/1331.pdf][Efficient mixing of arbitrary ballots with everlasting privacy: How to verifiably mix the PPATC scheme ]]. ~ Kristian Gjøsteen, Thomas Haines, Morten Rotvold Solberg. #ITP #Coq
++ [[https://github.com/bergsans/glossy-haskell-game][Glossy Haskell game]]. ~ Claes-Magnus Berg. #Haskell #FunctionalProgramming #Game 
++ [[https://chrispenner.ca/posts/witherable-optics][Composable filters using Witherable optics]]. ~ Chris Penner (@chrislpenner). #Haskell #FunctionalProgramming
+
 
 ** Octubre de 2020
 
