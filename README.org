@@ -25,6 +25,11 @@ contenido.
 * Lecturas del año 2020
 
 ** Noviembre de 2020
+
+*** 02-Nov-20
++ [[https://arxiv.org/abs/2002.07019][Learning to prove theorems by learning to generate theorems]]. ~ Mingzhe Wang, Jia Deng. #ATP #ITP #MachineLearning
++ [[https://dev.to/moniquelive/haskell-lsp-bonus-for-vim-4nlj][Haskell LSP (bonus: for Vim)]]. ~ Monique Oliveira (@moniquelive). #Haskell #FunctionalProgramming
+
 *** 01-Nov-20
 + [[https://people.cs.umass.edu/~brun/pubs/pubs/First20oopsla.pdf][TacTok: Semantics-aware proof synthesis]]. ~ Emily First, Yuriy Brun, Arjun Guha. #ITP #Coq
 + [[https://link.springer.com/article/10.1007/s00283-020-10006-0][Big Math and the one-brain barrier: The tetrapod model of mathematical knowledge]]. ~ Jacques Carette, William M. Farmer, Michael Kohlhase, Florian Rabe. #Math #CompSci 
