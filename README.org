@@ -26,6 +26,12 @@ contenido.
 
 ** Noviembre de 2020
 
+*** 03-Nov-20
++ [[https://arxiv.org/abs/2010.14648][Formally verified SAT-based AI planning]]. ~ Mohammad Abdulaziz, Friedrich Kurz. #ITP #IsabelleHOL #AI
++ [[https://www.researchgate.net/publication/344864795_An_Analysis_of_Implementing_PVS_in_SPARK_Ada][An analysis of implementing PVS in SPARK Ada]]. ~ A. Benjamin Hocking, Jonathan C. Rowanhill, Ben L Di Vito. #ITP #PVS
++ [[https://fenix.tecnico.ulisboa.pt/downloadFile/1689244997260666/tese_maria_ribeiro.pdf][Formal verification of Ethereum smart contracts using Isabelle/HOL]]. ~ Maria Saraiva de Campos Mendes Ribeiro. #ITP #IsabelleHOL
++ [[https://semantic.org/post/whole-haskell-is-best-haskell/][Whole Haskell is best Haskell]]. ~ Ashley Yakeley. #Haskell #FunctionalProgramming
+
 *** 02-Nov-20
 + [[https://arxiv.org/abs/2002.07019][Learning to prove theorems by learning to generate theorems]]. ~ Mingzhe Wang, Jia Deng. #ATP #ITP #MachineLearning
 + [[https://dev.to/moniquelive/haskell-lsp-bonus-for-vim-4nlj][Haskell LSP (bonus: for Vim)]]. ~ Monique Oliveira (@moniquelive). #Haskell #FunctionalProgramming
