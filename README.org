@@ -26,6 +26,14 @@ contenido.
 
 ** Noviembre de 2020
 
+*** 04-Nov-20
++ [[https://haskell.foundation/whitepaper/][A new chapter for Haskell: The Haskell Foundation]]. #Haskell #FunctionalProgramming
++ [[https://www.proofsociety.org/the-proof-manifesto/][The Proof Manifesto]]. #Logic
++ [[https://plato.stanford.edu/entries/quantification/][Quantifiers and quantification]]. ~ Gabriel Uzquiano. #Logic
++ [[https://culturacientifica.com/2020/11/04/mas-rompecabezas-matematicos-con-numeros/][Más rompecabezas matemáticos con números]]. ~ Raúl Ibáñez (@mtpibtor). #Matemáticas
++ [[https://adventofhaskell.com/][Advent of Haskell 2020 (Call for participation)]]. #Haskell #FunctionalProgramming
++ [[https://medium.com/cantors-paradise/the-nature-of-infinity-and-beyond-a05c146df02c][The nature of infinity — and beyond (An introduction to Georg Cantor and his transfinite paradise)]]. ~ Jørgen Veisdal (@JorgenVeisdal). #Logic #Math
+
 *** 03-Nov-20
 + [[https://arxiv.org/abs/2010.14648][Formally verified SAT-based AI planning]]. ~ Mohammad Abdulaziz, Friedrich Kurz. #ITP #IsabelleHOL #AI
 + [[https://www.researchgate.net/publication/344864795_An_Analysis_of_Implementing_PVS_in_SPARK_Ada][An analysis of implementing PVS in SPARK Ada]]. ~ A. Benjamin Hocking, Jonathan C. Rowanhill, Ben L Di Vito. #ITP #PVS
