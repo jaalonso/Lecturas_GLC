@@ -26,6 +26,12 @@ contenido.
 
 ** Noviembre de 2020
 
+*** 05-Nov-20
++ [[https://htmlpreview.github.io/?https://github.com/effectfully/inference-in-agda/blob/master/InferenceInAgda.html][Inference in Agda (a tutorial on how Agda infers things)]]. ~ Andreas Abel. #ITP #Agda 
++ [[https://mcorbin.fr/pdf/slides/clojure_snowcamp.pdf][Clojure en production]]. ~ Mathieu Corbin. #Clojure
++ [[https://www.lambdabetaeta.eu/talks/domains-logsem-2020.pdf][How to define things by recursion]]. ~ Alex Kavvos. #Logic #Math
++ [[https://dpt-info.u-strasbg.fr/~narboux/slides/slides_toulouse.pdf][Les assistants de preuve et applications à l’apprentissage du raisonnement mathématique]]. ~ Julien Narboux. #Logic #Math #ITP
+
 *** 04-Nov-20
 + [[https://haskell.foundation/whitepaper/][A new chapter for Haskell: The Haskell Foundation]]. #Haskell #FunctionalProgramming
 + [[https://www.proofsociety.org/the-proof-manifesto/][The Proof Manifesto]]. #Logic
