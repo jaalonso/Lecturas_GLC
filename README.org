@@ -26,6 +26,13 @@ contenido.
 
 ** Noviembre de 2020
 
+*** 07-Nov-20
++ [[https://arxiv.org/abs/2003.09993v3][A trustful monad for axiomatic reasoning with probability and nondeterminism]]. ~ Reynald Affeldt, Jacques Garrigue, David Nowak, Takafumi Saikawa. #ITP #Coq
++ [[https://arxiv.org/abs/2011.00720v1][Towards a certified reference monitor of the Android 10 permission system]]. ~ Guido De Luca, Carlos Luna. #ITP #Coq
++ [[https://ifazk.com/pubs/idot-oopsla20.pdf][ιDOT: A DOT calculus with object initialization]]. ~ Ifaz Kabir, Yufeng Li, Ondřej Lhoták. #ITP #Coq
++ [[http://www.csl.sri.com/users/rushby/papers/ontargbegsvac20.pdf][A mechanically assisted examinationof vacuity and question beggingin Anselm’s ontological argument]]. ~ John Rushby. #ITP #PVS
++ [[https://www.researchgate.net/profile/Joosep_Jaeaeger/publication/344905880_Implementation_of_affine_arithmetic_in_Haskell/links/5f987a87a6fdccfd7b84a8a9/Implementation-of-affine-arithmetic-in-Haskell.pdf][Implementation of affine arithmetic in Haskell]]. ~ Joosep Jääger. #BSc_Thesis #Haskell #FunctionalProgramming #Math
+
 *** 06-Nov-20
 + [[https://www.michaelpj.com/blog/2020/10/29/your-orphans-are-fine.html][Your orphan instances are probably fine]]. ~ Michael Peyton Jones. #Haskell #FunctionalProgramming
 + [[https://iokasimov.github.io/posts/2020/10/arrow-and-comma][A story of an arrow and a comma]]. ~  Murat Kasimov. #Haskell #FunctionalProgramming
