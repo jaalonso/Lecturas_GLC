@@ -26,6 +26,10 @@ contenido.
 
 ** Noviembre de 2020
 
+*** 09-Nov-20
++ [[https://gist.github.com/digikar99/a1925ad3249a431c9eecf09af2fdef8a][Opinionated Common Lisp resources 2020]]. ~ Shubhamkar Ayare. #Programming #CommonLisp
++ [[https://blog.sulami.xyz/posts/writing-for-reasons/index.html][Writing for reasons]]. ~ Robin Schroer.
+
 *** 08-Nov-20
 + [[https://medium.com/cantors-paradise/category-theory-the-math-behind-mathematics-7143af49f0ae][Category theory: The math behind mathematics]]. ~ Cole Persch. #Math #CategoryTheory
 
