@@ -26,6 +26,13 @@ contenido.
 
 ** Noviembre de 2020
 
+*** 10-Nov-20
++ [[https://www.quantamagazine.org/inside-the-secret-math-society-known-as-nicolas-bourbaki-20201109/][Inside the secret math society known simply as Nicolas Bourbaki]]. ~ Kevin Hartnett (@KSHartnett). #Math
++ [[https://zoep.github.io/thesis_final.pdf][Verified optimizations for functional languages]]. ~ Zoe Paraskevopoulou. #ITP #Coq #PhD_Thesis
++ [[https://link.springer.com/content/pdf/10.1007/s40593-020-00222-2.pdf][Generation and use of hints and feedback in a Hilbert-style axiomatic proof tutor]]. ~ Josje Lodder, Bastiaan Heeren, Johan Jeuring, Wendy Neijenhuis. #Logic #Teaching
++ [[https://reasonablypolymorphic.com/blog/separate-your-views-reify-your-reasoning/][Separate your views; reify your reasoning]]. ~ Sandy Maguire. #Haskell #FunctionalProgramming
++ [[http://www.haskellforall.com/2020/11/pretty-print-syntax-trees-with-this-one.html][Pretty-print syntax trees with this one simple trick]]. ~ Gabriel Gonzalez (@GabrielG439). #Haskell #FunctionalProgramming
+
 *** 09-Nov-20
 + [[https://gist.github.com/digikar99/a1925ad3249a431c9eecf09af2fdef8a][Opinionated Common Lisp resources 2020]]. ~ Shubhamkar Ayare. #Programming #CommonLisp
 + [[https://blog.sulami.xyz/posts/writing-for-reasons/index.html][Writing for reasons]]. ~ Robin Schroer.
