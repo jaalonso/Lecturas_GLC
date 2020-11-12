@@ -26,6 +26,10 @@ contenido.
 
 ** Noviembre de 2020
 
+*** 11-Nov-20
++ [[https://arxiv.org/abs/2010.16302][Programming metamorphic algorithms: An experiment in type-driven algorithm design]]. ~ Hsiang-Shang Ko. #ITP #Agda #FunctionalProgramming
++ [[http://www.cs.us.es/~fsancho/?e=242][Formas normales, cláusulas y algoritmo DPLL]]. ~ Fernando Sancho (@sanchocaparrini). #Lógica
+
 *** 10-Nov-20
 + [[https://www.quantamagazine.org/inside-the-secret-math-society-known-as-nicolas-bourbaki-20201109/][Inside the secret math society known simply as Nicolas Bourbaki]]. ~ Kevin Hartnett (@KSHartnett). #Math
 + [[https://zoep.github.io/thesis_final.pdf][Verified optimizations for functional languages]]. ~ Zoe Paraskevopoulou. #ITP #Coq #PhD_Thesis
