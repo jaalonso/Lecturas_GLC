@@ -26,6 +26,11 @@ contenido.
 
 ** Noviembre de 2020
 
+*** 12-Nov-20
++ [[https://www.tweag.io/blog/2020-11-11-linear-dps/][Pure destination-passing style in Linear Haskell]]. ~ Arnaud Spiwack. #Haskell #FunctionalProgramming
++ [[https://raw.githubusercontent.com/oscarsanchezromero/Calculo-Cientifico-Octave/master/MNOctave2018.pdf][Métodos numéricos básicos con Octave]]. ~ Antonia M. Delgado, Juanjo Nieto, Aureliano M. Robles, Óscar Sánchez. #Octave #Matemáticas
++ [[https://github.com/oscarsanchezromero/Calculo-Cientifico-Octave][Algoritmos básicos de Cálculo Científico programados con Octave]]. ~ Óscar Sánchez. #Octave #Matemáticas
+
 *** 11-Nov-20
 + [[https://arxiv.org/abs/2010.16302][Programming metamorphic algorithms: An experiment in type-driven algorithm design]]. ~ Hsiang-Shang Ko. #ITP #Agda #FunctionalProgramming
 + [[http://www.cs.us.es/~fsancho/?e=242][Formas normales, cláusulas y algoritmo DPLL]]. ~ Fernando Sancho (@sanchocaparrini). #Lógica
