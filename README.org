@@ -26,6 +26,11 @@ contenido.
 
 ** Noviembre de 2020
 
+*** 13-Nov-20
++ [[https://github.com/leanprover-community/mathlib/blob/6b3a2d1d07abe083e281b3617f376cabc6043e66/archive/imo/imo1964_q1.lean][IMO 1964 Q1 in Lean]]. ~ Kevin Buzzard. #ITP #LeanProver #Math
++ [[https://bit.ly/3nm70qc][Ranas, pájaros ... y la hipótesis de Riemann]]. ~ Juan Arias de Reyna. #Matemáticas
++ [[https://www.stephendiehl.com/posts/exotic01.html][Exotic programming ideas: Part 1 (Module systems)]]. ~ Stephen Diehl (@smdiehl). #Haskell #FunctionalProgramming
+
 *** 12-Nov-20
 + [[https://www.tweag.io/blog/2020-11-11-linear-dps/][Pure destination-passing style in Linear Haskell]]. ~ Arnaud Spiwack. #Haskell #FunctionalProgramming
 + [[https://raw.githubusercontent.com/oscarsanchezromero/Calculo-Cientifico-Octave/master/MNOctave2018.pdf][Métodos numéricos básicos con Octave]]. ~ Antonia M. Delgado, Juanjo Nieto, Aureliano M. Robles, Óscar Sánchez. #Octave #Matemáticas
