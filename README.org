@@ -26,6 +26,11 @@ contenido.
 
 ** Noviembre de 2020
 
+*** 15-Nov-20
++ [[https://pit-claudel.fr/clement/papers/alectryon-SLE20.pdf][Untangling mechanized proofs]]. ~ Clément Pit-Claudel. #ITP #Coq
++ [[https://youtu.be/f8CKGoP3_us][Video: Untangling mechanized proofs]]. ~ Clément Pit-Claudel. #ITP #Coq
++ [[https://devanla.com/posts/de-mystifying-emacs-haskell-language-server-setup.html][De-mystifying Emacs, lsp-haskell and haskell-language-server Setup]]. ~ Guru Devanla (@grdvnl). #Haskell #Emacs
+
 *** 14-Nov-20
 + [[https://www.isa-afp.org/browser_info/current/AFP/AI_Planning_Languages_Semantics/document.pdf][AI planning languages semantics (in Isabelle/HOL)]]. ~ Mohammad Abdulaziz, Peter Lammich. #ITP #IsabelleHOL #AI
 + [[https://www.isa-afp.org/browser_info/current/AFP/Verified_SAT_Based_AI_Planning/document.pdf][Verified SAT-based AI planning]]. ~ Mohammad Abdulaziz, Friedrich Kurz. #ITP #IsabelleHOL #AI
