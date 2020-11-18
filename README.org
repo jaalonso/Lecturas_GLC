@@ -26,6 +26,11 @@ contenido.
 
 ** Noviembre de 2020
 
+*** 17-Nov-20
++ [[https://plato.stanford.edu/entries/logic-ai/][Logic and Artificial Intelligence]]. ~ Richmond Thomason. #Logic #AI
++ [[https://arxiv.org/abs/2010.14648][Formally verified SAT-based AI planning]]. ~ Mohammad Abdulaziz, Friedrich Kurz. #ITP #IsabelleHOL
++ [[https://www.logicmatters.net/2020/11/16/philosophy-of-mathematics-a-reading-list/][Philosophy of mathematics — a reading list]]. ~ Peter Smith (@PeterSmith). #Math
+
 *** 15-Nov-20
 + [[https://pit-claudel.fr/clement/papers/alectryon-SLE20.pdf][Untangling mechanized proofs]]. ~ Clément Pit-Claudel. #ITP #Coq
 + [[https://youtu.be/f8CKGoP3_us][Video: Untangling mechanized proofs]]. ~ Clément Pit-Claudel. #ITP #Coq
