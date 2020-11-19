@@ -26,6 +26,11 @@ contenido.
 
 ** Noviembre de 2020
 
+*** 18-Nov-20
++ [[http://wld.cipsh.international/wld.html][List of events for World Logic Day 2021]]. #Logic
++ [[https://arxiv.org/abs/1912.02250][A verified optimizer for quantum circuits]]. ~ Kesha Hietala, Robert Rand, Shih-Han Hung, Xiaodi Wu, Michael Hicks. #ITP #Coq
++ [[http://www.cs.us.es/~fsancho/?e=243][Formas prenex, de Skolem y teorema de Herbrand]]. ~ Fernando Sancho (@sanchocaparrini). #Lógica
+
 *** 17-Nov-20
 + [[https://plato.stanford.edu/entries/logic-ai/][Logic and Artificial Intelligence]]. ~ Richmond Thomason. #Logic #AI
 + [[https://arxiv.org/abs/2010.14648][Formally verified SAT-based AI planning]]. ~ Mohammad Abdulaziz, Friedrich Kurz. #ITP #IsabelleHOL
