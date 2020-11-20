@@ -26,6 +26,18 @@ contenido.
 
 ** Noviembre de 2020
 
+*** 19-Nov-20
++ [[https://blog.jle.im/entry/shuffling-things-up.htm][Shuffling things up: Applying Group Theory in Advent of Code]]. ~ Justin Le (@mstk).l#.X7Vk_XYPDuk.twitter #Haskell #FunctionalProgramming #Math
++ [[https://github.com/digama0/lean-type-theory/releases/download/v1.0/main.pdf][The type theory of Lean]]. ~ Mario Carneiro. #ITP #LeanProver #Logic #Math #TypeTheory
++ [[https://lean-forward.github.io/internships/arithmetic_and_casting_in_lean.pdf][Arithmetic and casting in Lean]]. ~ Paul-Nicolas Madelaine. #MSc_Thesis #ITP #LeanProver #Math
++ [[https://matryoshka-project.github.io/pubs/lehenaff_report.pdf][Meta-programming with the Lean proof assistant]]. ~ Pablo Le Hénaff. #ITP #LeanProver
++ [[https://raw.githubusercontent.com/filipmaric/IMO/master/IMO_files/output/document.pdf][Formulations and solutions of IMO problemsin Isabelle/HOL]]. Filip Marić, Sana Stojanović-Ðurđević. #ITP #IsabelleHOL #Math #IMO
++ [[https://www.isa-afp.org/browser_info/current/AFP/IMO2019/document.pdf ][Selected problems from the International Mathematical Olympiad 2019]]. ~ Manuel Eberl. #ITP #IsabelleHOL #Math
++ [[https://github.com/jaalonso/Bibliografia_de_Lean][Bibliografía sobre Lean]]. #ITP #LeanProver
++ [[https://richardzach.org/2019/11/01/the-significance-of-the-curry-howard-isomorphism/][The significance of the Curry-Howard isomorphism]]. ~ Richard Zach. #Logic #CompSci
++ [[https://github.com/azzamsa/awesome-lisp-companies][Awesome-Lisp-companies: A list of companies using Lisp in production]]. #CommonLisp
++ [[https://plato.stanford.edu/entries/logic-combinatory/][#SEP: Combinatory logic]]. ~ Katalin Bimbó. #Logic
+
 *** 18-Nov-20
 + [[http://wld.cipsh.international/wld.html][List of events for World Logic Day 2021]]. #Logic
 + [[https://arxiv.org/abs/1912.02250][A verified optimizer for quantum circuits]]. ~ Kesha Hietala, Robert Rand, Shih-Han Hung, Xiaodi Wu, Michael Hicks. #ITP #Coq
