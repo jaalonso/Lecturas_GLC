@@ -26,6 +26,13 @@ contenido.
 
 ** Noviembre de 2020
 
+*** 20-Nov-20
++ [[https://www.cl.cam.ac.uk/~jdy22/papers/certified-optimisation-of-stream-operations-using-heterogeneous-staging.pdf][Certified optimisation of stream operations using heterogeneous staging]]. ~ J. Lowenthal, J. Yallop. #ITP #Agda
++ [[https://dl.acm.org/doi/pdf/10.1145/3428284][Verifying replicated data types with typeclass refinements in Liquid Haskell]]. ~ Yiyun Liu et als. #Haskell #FuncBl%C3%B6ndal.pdf #MSc_Thesis #Haskell #FunctionalProgramming #LiquidHaskelltionalProgramming #LiquidHaskell
++ [[https://odr.chalmers.se/bitstream/20.500.12380/302035/1/CSE%2020-86%20Bl%C3%B6ndal.pdf][Deriving Via (Type-directed instances)]]. ~ Baldur Blöndal. #MSc_Thesis #Haskell #FunctionalProgramming
++ [[https://www.kovach.me/Superpowered_keyword_args_in_Haskell.html][Superpowered keyword args in Haskell]]. ~ Ben Kovach. #Haskell #FunctionalProgramming
++ [[https://www.doc.ic.ac.uk/~rak/papers/LPOP.pdf][Logical English]]. ~ Robert Kowalski. #LogicProgramming #Prolog
+
 *** 19-Nov-20
 + [[https://blog.jle.im/entry/shuffling-things-up.htm][Shuffling things up: Applying Group Theory in Advent of Code]]. ~ Justin Le (@mstk).l#.X7Vk_XYPDuk.twitter #Haskell #FunctionalProgramming #Math
 + [[https://github.com/digama0/lean-type-theory/releases/download/v1.0/main.pdf][The type theory of Lean]]. ~ Mario Carneiro. #ITP #LeanProver #Logic #Math #TypeTheory
