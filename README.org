@@ -26,6 +26,12 @@ contenido.
 
 ** Noviembre de 2020
 
+*** 21-Nov-20
++ [[https://github.com/nasa/pvslib][Release of the NASA PVS Library (NASALib) v7]].1. #ITP #PVS
++ [[https://openreview.net/pdf?id=yDOqCwuvUb2][BioShake: a Haskell EDSL forbioinformatics workflows]]. ~ Justin Bedo. #Haskell #FunctionalProgramming
++ [[https://raw.githubusercontent.com/ashok-khanna/common-lisp-by-example/main/Common%20Lisp%20by%20Example.pdf][Common Lisp by Example (A compilation of notes from various sources)]]. ~ Ashok Khanna. #CommonLisp
++ [[https://interstices.info/le-probleme-des-8-reines/][Le problème des 8 reines]]. ~ Maxime Amblard (@maximeamblard). #Algorithms via @interstices_eu
+
 *** 20-Nov-20
 + [[https://www.cl.cam.ac.uk/~jdy22/papers/certified-optimisation-of-stream-operations-using-heterogeneous-staging.pdf][Certified optimisation of stream operations using heterogeneous staging]]. ~ J. Lowenthal, J. Yallop. #ITP #Agda
 + [[https://dl.acm.org/doi/pdf/10.1145/3428284][Verifying replicated data types with typeclass refinements in Liquid Haskell]]. ~ Yiyun Liu et als. #Haskell #FuncBl%C3%B6ndal.pdf #MSc_Thesis #Haskell #FunctionalProgramming #LiquidHaskelltionalProgramming #LiquidHaskell
