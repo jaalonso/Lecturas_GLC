@@ -26,6 +26,18 @@ contenido.
 
 ** Noviembre de 2020
 
+*** 24-Nov-20
++ [[https://doisinkidney.com/posts/2020-11-23-applicative-queue.html][A queue for effectful breadth-first traversals (Part 10 of a 10-part series on breadth-first traversals)]]. ~ Donnacha Oisín Kidney (@oisdk). #Haskell #FunctionalProgramming
++ [[https://blog.poisson.chat/posts/2020-11-23-hs-to-coq-containers-sequence.html][hs-to-coq and Data]].Sequence. ~ Li-yao Xia (@lysxia). #Haskell #Coq #FunctionalProgramming #ITP
++ [[https://ivanbakel.github.io/posts/intuitionistic-logic-in-haskell/][Intuitionistic logic in Haskell]]. ~ Isaac van Bakel. #Logic #Haskell
++ [[https://ivanbakel.github.io/posts/theorem-proving-in-haskell/][Theorem proving in Haskell]]. ~ Isaac van Bakel. #Logic #Haskell #ITP
++ [[http://www.ben-sherman.net/aux/curry-howard.pdf][Haskell and the Curry-Howard isomorphism (Part 1)]]. ~ Ben Sherman. #Haskell #Logic
++ [[https://web.archive.org/web/20080819185521/http://www.thenewsh.com/~newsham/formal/curryhoward/][The Curry-Howard correspondence in Haskell]]. ~ Tim Newsham. #Logic #Haskell
++ [[https://wiki.haskell.org/wikiupload/1/14/TMR-Issue6.pd][Adventures in Classical-Land]]. ~ Dan Piponi.f#page=17 #Logic #Haskell
++ [[https://wiki.ifs.hsr.ch/SemProgAnTr/files/Curry-Howard_Isomorphism_Down-to-Earth.pdf][Curry-Howard isomorphism down-to-earth]]. ~ Jannis Grimm. #Logic #Haskell
++ [[https://www.ccs.neu.edu/home/mates/pubs/mates_ugrad_thesis.pdf][A survey into the Curry-Howard isomorphism & type systems]]. ~ Phillip Mates. #Logic #Haskell
++ [[https://www.pinterest.es/vseloved/lisp-books/][Lisp books (Most of Lisp books in one place)]]. ~ Vsevolod Dyomkin. #Lisp #Programming
+
 *** 22-Nov-20
 + [[http://www.lix.polytechnique.fr/Labo/Dale.Miller/papers/lp-coq.pdf][Two applications of logic programming to Coq]]. ~ M. Manighetti, D. Miller, A. Momigliano. #ITP #Coq #LogicProgramming
 + [[https://dl.acm.org/doi/abs/10.1145/3426425.3426940][Untangling mechanized proofs]]. ~ Clément Pit-Claude. #ITP #Coq
