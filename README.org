@@ -26,6 +26,9 @@ contenido.
 
 ** Noviembre de 2020
 
+*** 25-Nov-20
++ [[https://kqueue.org/blog/2020/10/15/arithcc/][Correctness of a compiler for arithmetic expressions in Lean]]. ~  Xi Wang. #ITP #LeanProver
+
 *** 24-Nov-20
 + [[https://doisinkidney.com/posts/2020-11-23-applicative-queue.html][A queue for effectful breadth-first traversals (Part 10 of a 10-part series on breadth-first traversals)]]. ~ Donnacha Oisín Kidney (@oisdk). #Haskell #FunctionalProgramming
 + [[https://blog.poisson.chat/posts/2020-11-23-hs-to-coq-containers-sequence.html][hs-to-coq and Data]].Sequence. ~ Li-yao Xia (@lysxia). #Haskell #Coq #FunctionalProgramming #ITP
