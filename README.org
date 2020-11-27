@@ -26,6 +26,13 @@ contenido.
 
 ** Noviembre de 2020
 
+*** 26-Nov-20
++ [[https://matryoshka-project.github.io/pubs/satur_isa_paper.pdf][A modular Isabelle framework for verifying saturation provers]]. ~ Sophie Tourret, Jasmin Blanchette. #ITP #IsabelleHOL
++ [[https://chrispenner.ca/posts/virtual-fields][Virtual record fields using lenses]]. ~ Chris Penner (@chrislpenner). #Haskell #FunctionalProgramming
++ [[https://blog.sumtypeofway.com/posts/existential-haskell.html][Existential Haskell]]. ~ Patrick Thomson. #Haskell #FunctionalProgramming
++ [[https://reasonablypolymorphic.com/blog/3d-printing/index.html][Haskell in the Real World]]. ~ Sandy Maguire. #Haskell #FunctionalProgramming
++ [[https://smlfamily.github.io/history/SML-history.pdf][The history of Standard ML]]. ~ David Macqueen, Robert Harper, John Reppy. #SML #FunctionalProgramming
+
 *** 25-Nov-20
 + [[https://kqueue.org/blog/2020/10/15/arithcc/][Correctness of a compiler for arithmetic expressions in Lean]]. ~  Xi Wang. #ITP #LeanProver
 
