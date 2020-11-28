@@ -26,6 +26,12 @@ contenido.
 
 ** Noviembre de 2020
 
+*** 27-Nov-20
++ [[https://www.researchgate.net/publication/346399483_Formalising_Ordinal_Partition_Relations_Using_IsabelleHOL][Formalising ordinal partition relations using Isabelle/HOL]]. ~ Mirna Dzamonja, Angeliki Koutsoukou-Argyraki, Lawrence Paulson. #ITP #IsabelleHOL #Math
++ [[https://youtu.be/T_IINWzQhow][Program correctness]]. ~ Graham Hutton. #Haskell #FunctionalProgramming
++ [[https://www.logicmatters.net/2020/11/27/logic-a-study-guide-first-order-logic/][Logic: A study guide — First order logic]]. ~ Peter Smith. #Logic
++ [[https://books.google.es/books?id=xq7DDwAAQBAJ&lpg=PP1&dq=Mathematics%20for%20Human%20Flourishing&pg=PR1#v=onepage&q&f=false][Mathematics for human flourishing]]. ~ Francis Su. #Book #Math
+
 *** 26-Nov-20
 + [[https://matryoshka-project.github.io/pubs/satur_isa_paper.pdf][A modular Isabelle framework for verifying saturation provers]]. ~ Sophie Tourret, Jasmin Blanchette. #ITP #IsabelleHOL
 + [[https://chrispenner.ca/posts/virtual-fields][Virtual record fields using lenses]]. ~ Chris Penner (@chrislpenner). #Haskell #FunctionalProgramming
