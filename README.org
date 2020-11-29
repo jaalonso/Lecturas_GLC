@@ -26,6 +26,12 @@ contenido.
 
 ** Noviembre de 2020
 
+*** 28-Nov-20
++ [[https://arxiv.org/abs/2011.10618][Gradualizing the Calculus of Inductive Constructions]]. ~ Meven Lennon-Bertrand, Kenji Maillard, Nicolas Tabareau, Éric Tanter. #ITP #Coq
++ [[https://www.cs.utexas.edu/users/moore/acl2/seminar/2020.11.09-kwan.pdf][A brief introduction to Smtlink]]. ~ Carl Kwan. #ITP #ACL2 #SMT #Z3
++ [[https://hazel.org/hazeltutor-hatra2020.pdf][Hazel tutor: Guiding novices through type-driven development strategies]]. ~ Hannah Potter, Cyrus Omar. #FunctionalProgramming
++ [[https://hazel.org/][Hazel: a live functional programming environment featuring typed holes]]. #FunctionalProgramming
+
 *** 27-Nov-20
 + [[https://www.researchgate.net/publication/346399483_Formalising_Ordinal_Partition_Relations_Using_IsabelleHOL][Formalising ordinal partition relations using Isabelle/HOL]]. ~ Mirna Dzamonja, Angeliki Koutsoukou-Argyraki, Lawrence Paulson. #ITP #IsabelleHOL #Math
 + [[https://youtu.be/T_IINWzQhow][Program correctness]]. ~ Graham Hutton. #Haskell #FunctionalProgramming
