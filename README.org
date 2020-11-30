@@ -26,6 +26,13 @@ contenido.
 
 ** Noviembre de 2020
 
+*** 29-Nov-20
++ [[https://www.ams.org/journals/notices/202011/rnoti-p1791.pdf][Proving theorems with computers]]. ~ Kevin Buzzard. #ITP #LeanProver #Math
++ [[https://github.com/jdan/compiler.lean][A formally verified compiler for a simple language with numbers and sums]]. ~ Jordan Scales. #ITP #LeanProver
++ [[https://hackage.haskell.org/package/nuha-0.3.0.0][nuha: Multidimensional arrays, linear algebra, numerical analysis]]. ~ Johannes Kropp. #Haskell #FunctionalProgramming #Math
++ [[https://raw.githubusercontent.com/dcernst/IBL-IntroToProof/master/Spring2020/IntroToProof.pdf][An introduction to proof via inquiry-based learning]]. ~ Dana C. Ernst. #eBook #Logic #Math
++ [[https://dzackgarza.com/introduction-to-infinity-categories/][Introduction to infinity categories]]. (Some notes on a short introductory video on some foundational aspects of infinity categories). ~ Zack Garza (@dzackgarza). #CategoryTheory
+
 *** 28-Nov-20
 + [[https://arxiv.org/abs/2011.10618][Gradualizing the Calculus of Inductive Constructions]]. ~ Meven Lennon-Bertrand, Kenji Maillard, Nicolas Tabareau, Éric Tanter. #ITP #Coq
 + [[https://www.cs.utexas.edu/users/moore/acl2/seminar/2020.11.09-kwan.pdf][A brief introduction to Smtlink]]. ~ Carl Kwan. #ITP #ACL2 #SMT #Z3
