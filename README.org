@@ -26,6 +26,12 @@ contenido.
 
 ** Noviembre de 2020
 
+*** 30-Nov-20
++ [[https://raw.githubusercontent.com/jaalonso/Logica_con_Lean/master/Ejercicios_de_logica_proposicional_con_Lean.pdf][#ForMatUS: Libro "Ejercicios de lógica proposicional con Lean"]]. #DAO #LeanProver #Lógica #Matemática #ProgramaciónFuncional
++ [[https://www.isa-afp.org/browser_info/current/AFP/Isabelle_Marries_Dirac/document.pdf][Isabelle Marries Dirac: a Library for Quantum Computation and Quantum Information]]. ~ Anthony Bordg, Hanna Lachnitt, Yijun He. #ITP #IsabelleHOL
++ [[https://arxiv.org/abs/2011.13218][Formalising ordinal partition relations using Isabelle/HOL]]. ~ Mirna Džamonja, Angeliki Koutsoukou-Argyraki, Lawrence C. Paulson. #ITP #IsabelleHOL #Math
++ [[https://bindthegap.news/issues/BindTheGap-01Nov2020.pdf][Bind the gap (Pilot issue, November 2020)]]. #Haskell #FunctionalProgramming
+
 *** 29-Nov-20
 + [[https://www.ams.org/journals/notices/202011/rnoti-p1791.pdf][Proving theorems with computers]]. ~ Kevin Buzzard. #ITP #LeanProver #Math
 + [[https://github.com/jdan/compiler.lean][A formally verified compiler for a simple language with numbers and sums]]. ~ Jordan Scales. #ITP #LeanProver
