@@ -9,6 +9,7 @@ contenido.
 
 * Contenido                                                             :TOC:
 - [[#lecturas-del-año-2020][Lecturas del año 2020]]
+  - [[#diciembre-de-2020][Diciembre de 2020]]
   - [[#noviembre-de-2020][Noviembre de 2020]]
   - [[#octubre-de-2020][Octubre de 2020]]
   - [[#septiembre-de-2020][Septiembre de 2020]]
@@ -23,6 +24,14 @@ contenido.
 - [[#lecturas-anteriores][Lecturas anteriores]]
 
 * Lecturas del año 2020
+
+** Diciembre de 2020
+
+*** 01-Dic-20
++ [[https://eprint.iacr.org/2020/1477.pdf][Machine-checking the universal verifiability of Election Guard]]. ~ Thomas Haines, Rageev Goré, Jack Stodart. #ITP #Coq
++ [[http://pu.edu.pk/images/journal/maths/PDF/Paper_4_52_11_2020.pdf ][A note on right abelian distributive AG-groupoids]]. ~ Bashar Khan et als. #ATP #Prover9 #Mace4 #Math
+
+
 
 ** Noviembre de 2020
 
@@ -199,7 +208,6 @@ contenido.
 + [[https://eprint.iacr.org/2020/1331.pdf][Efficient mixing of arbitrary ballots with everlasting privacy: How to verifiably mix the PPATC scheme ]]. ~ Kristian Gjøsteen, Thomas Haines, Morten Rotvold Solberg. #ITP #Coq
 + [[https://github.com/bergsans/glossy-haskell-game][Glossy Haskell game]]. ~ Claes-Magnus Berg. #Haskell #FunctionalProgramming #Game
 + [[https://chrispenner.ca/posts/witherable-optics][Composable filters using Witherable optics]]. ~ Chris Penner (@chrislpenner). #Haskell #FunctionalProgramming
-
 
 ** Octubre de 2020
 
