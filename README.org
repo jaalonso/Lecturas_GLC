@@ -27,6 +27,13 @@ contenido.
 
 ** Diciembre de 2020
 
+*** 02-Dic-20
++ [[http://www.lix.polytechnique.fr/Labo/Samuel.Mimram/teaching/INF551/course.pdf][Program = Proof]]. ~ Samuel Mimram. #eBook #Logic #Math #ITP #Agda
++ [[https://www.isa-afp.org/browser_info/current/AFP/Finite-Map-Extras/document.pdf][Finite map extras (in Isabelle/HOL)]]. ~ Javier Díaz. #ITP #IsabelleHOL
++ [[https://github.com/haskelling/aoc2020][Haskell solutions to Advent of Code 2020]]. #Haskell #FunctionalProgramming #AdventOfCode
++ [[https://github.com/mstksg/advent-of-code-2020][Haskell solutions to Advent of Code 2020]]. ~ Justin Le. #Haskell #FunctionalProgramming #AdventOfCode
++ [[https://github.com/rwbarton/advent-of-lean-4][Advent of Code 2020 solutions in Lean 4]]. ~ Reid Barton. #LeanProver #ITP #FuncionalProgramming
+
 *** 01-Dic-20
 + [[https://eprint.iacr.org/2020/1477.pdf][Machine-checking the universal verifiability of Election Guard]]. ~ Thomas Haines, Rageev Goré, Jack Stodart. #ITP #Coq
 + [[http://pu.edu.pk/images/journal/maths/PDF/Paper_4_52_11_2020.pdf ][A note on right abelian distributive AG-groupoids]]. ~ Bashar Khan et als. #ATP #Prover9 #Mace4 #Math
