@@ -27,6 +27,14 @@ contenido.
 
 ** Diciembre de 2020
 
+*** 03-Dic-20
++ [[https://arxiv.org/abs/2012.00856][Another tool in the box: Why use formal methods for autonomous systems?]] ~ Matt Luckcuck. #FormalMethods
++ [[https://gustavofranke.github.io/posts/2020-12-01-my-journey-into-haskell.html][My journey into Haskell]]. ~ Gustavo Franke. #Haskell #FunctionalProgramming
++ [[https://juliu.is/complicated-haskell-words-isomorphism/][Complicated Haskell words - Isomorphism]]. ~ Ju Liu (@arkh4m). #Haskell #FunctionalProgramming
++ [[https://3fx.ch/blog/2020/12/03/composition-in-trick-taking-card-games/][Composition in trick-taking card games]]. ~ Ben Fiedler. #Haskell #FunctionalProgramming
++ [[https://redtachyon.me/post/aoc-haskell/ ][Advent of Code 2020 with Haskell]]. ~ Ariel Kwiatkowski (@RedTachyon). #Haskell #FunctionalProgramming #AdventOfCode
++ [[https://pit-claudel.fr/clement/papers/koika-dsls-CoqPL21.pdf][An experience report on writing usable DSLs in Coq]]. ~ Clément Pit-Claudel, Thomas Bourgeat. #ITP #Coq
+
 *** 02-Dic-20
 + [[http://www.lix.polytechnique.fr/Labo/Samuel.Mimram/teaching/INF551/course.pdf][Program = Proof]]. ~ Samuel Mimram. #eBook #Logic #Math #ITP #Agda
 + [[https://www.isa-afp.org/browser_info/current/AFP/Finite-Map-Extras/document.pdf][Finite map extras (in Isabelle/HOL)]]. ~ Javier Díaz. #ITP #IsabelleHOL
