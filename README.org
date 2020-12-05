@@ -27,6 +27,10 @@ contenido.
 
 ** Diciembre de 2020
 
+*** 04-Dic-20
++ [[https://hackage.haskell.org/package/numhask-free-0.0.3/docs/NumHask-FreeAlgebra.html][The Free Num is a Sequence of Bags]]. ~ Tony Day (@tonyday567). #Haskell #FunctionalProgramming #AdventOfHaskell
++ [[https://medium.com/@terezk_a/haskell-in-elm-terms-type-classes-415f1612b335][Haskell, in Elm terms: Type Classes]]. ~ @terezk_a #Haskell #FuncionalProgramming #Elm
+
 *** 03-Dic-20
 + [[https://arxiv.org/abs/2012.00856][Another tool in the box: Why use formal methods for autonomous systems?]] ~ Matt Luckcuck. #FormalMethods
 + [[https://gustavofranke.github.io/posts/2020-12-01-my-journey-into-haskell.html][My journey into Haskell]]. ~ Gustavo Franke. #Haskell #FunctionalProgramming
