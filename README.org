@@ -27,6 +27,15 @@ contenido.
 
 ** Diciembre de 2020
 
+*** 05-Dic-20
++ [[https://www.hindawi.com/journals/mpe/2020/6191537/][Lolisa: Formal syntax and semantics for a subset of the Solidity programming language in mathematical tool Coq]]. ~ Zheng Yang. #ITP #Coq
++ [[https://harporoeder.com/posts/haskell-runtime/][The Haskell runtime is what sets it apart from the competition]]. ~ Harpo Roeder (@HarpoRoeder). #Haskell #FunctionalProgramming
++ [[https://blind.guru/blog/2020-12-05-codeblock.html][Processing CodeBlocks in Hakyll]]. ~ Mario Lang. #Haskell #FunctionalProgramming #Hakyll #AdventOfHaskell
++ [[https://www.microsiervos.com/archivo/matematicas/algoritmos-calcular-valor-numero-pi.html][Una recopilación de algoritmos para calcular el valor del número π]]. ~ @Alvy. #Matemáticas #Algoritmos #Programación
++ [[https://thomas-joly.com/yet-another-pi-computation-algorithms/][Yet another π computation algorithms]]. ~ Thomas Joly. #Math #Algorithms #Programming
++ [[https://www.microsiervos.com/archivo/ordenadores/nandgame-juego-logica-binaria-circuitos.html][NandGame: un juego de lógica binaria en el que hay que construir circuitos cada vez más complejos]]. ~ @Alvy. #Lógica #Computación
++ [[http://nandgame.com/][The Nand Game]]. #Logic #CompSci
+
 *** 04-Dic-20
 + [[https://hackage.haskell.org/package/numhask-free-0.0.3/docs/NumHask-FreeAlgebra.html][The Free Num is a Sequence of Bags]]. ~ Tony Day (@tonyday567). #Haskell #FunctionalProgramming #AdventOfHaskell
 + [[https://medium.com/@terezk_a/haskell-in-elm-terms-type-classes-415f1612b335][Haskell, in Elm terms: Type Classes]]. ~ @terezk_a #Haskell #FuncionalProgramming #Elm
