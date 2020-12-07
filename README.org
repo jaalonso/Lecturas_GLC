@@ -27,6 +27,13 @@ contenido.
 
 ** Diciembre de 2020
 
+*** 06-Dic-20
++ [[https://xenaproject.wordpress.com/2020/12/05/liquid-tensor-experiment/][Liquid tensor experiment]]. ~ Peter Scholze. #ITP #LeanProver #Math
++ [[https://www.joachim-breitner.de/blog/777-Named_goals_in_Coq][Named goals in Coq]]. ~ Joachim Breitner (@nomeata). #ITP #Coq
++ [[https://hackage.haskell.org/package/group-theory][The group-theory package]]. ~ Emily Pillmore (@pitopos). #Haskell #FunctionalProgramming #Math
++ [[https://gilmi.me/blog/post/2020/12/05/scotty-bulletin-board][Building a bulletin board using Scotty and friend]]. ~ Gil Mizrahi (@_gilmi). #Haskell #FunctionalProgramming
++ [[https://logicday.vcla.at/][Ambassadors of Logic]]. #Logic
+
 *** 05-Dic-20
 + [[https://www.hindawi.com/journals/mpe/2020/6191537/][Lolisa: Formal syntax and semantics for a subset of the Solidity programming language in mathematical tool Coq]]. ~ Zheng Yang. #ITP #Coq
 + [[https://harporoeder.com/posts/haskell-runtime/][The Haskell runtime is what sets it apart from the competition]]. ~ Harpo Roeder (@HarpoRoeder). #Haskell #FunctionalProgramming
