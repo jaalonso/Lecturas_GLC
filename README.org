@@ -27,6 +27,11 @@ contenido.
 
 ** Diciembre de 2020
 
+*** 07-Dic-20
++ [[https://schooloffp.co/2020/12/05/whirlwind-tour-of-stack-for-beginners.html][Whirlwind tour of Stack for beginners]]. ~ School of FP (@schooloffp). #Haskell #FunctionalProgramming
++ [[http://kenta.blogspot.com/2020/12/orptuqka-bits-instance-of-integer.html][Bits instance of Integer]]. ~ Ken T Takusagawa. #Haskell #FuncionalProgramming
++ [[https://gelisam.blogspot.com/2020/12/capturing-magic-of-preludeinteract.html][Capturing the magic of Prelude]].interact. ~ Samuel (@haskell_cat). #Haskell #FuncionalProgramming #AdventOfHaskell
+
 *** 06-Dic-20
 + [[https://xenaproject.wordpress.com/2020/12/05/liquid-tensor-experiment/][Liquid tensor experiment]]. ~ Peter Scholze. #ITP #LeanProver #Math
 + [[https://www.joachim-breitner.de/blog/777-Named_goals_in_Coq][Named goals in Coq]]. ~ Joachim Breitner (@nomeata). #ITP #Coq
