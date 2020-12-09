@@ -27,6 +27,21 @@ contenido.
 
 ** Diciembre de 2020
 
+*** 08-Dic-20
++ [[https://www.isa-afp.org/browser_info/current/AFP/Relational_Method/document.pdf][The relational method with message anonymity for the verification of cryptographic protocols]]. ~ Pasquale Noce. #ITP #IsabelleHOL
++ [[https://www.isa-afp.org/browser_info/current/AFP/Relational_Minimum_Spanning_Trees/document.pdf][Relational minimum spanning tree algorithms (in Isabelle/HOL)]]. ~ Walter Guttmann, Nicolas Robinson-O'Brien. #ITP #IsabelleHOL #Algorithms
++ [[https://drops.dagstuhl.de/opus/volltexte/2020/13291/pdf/LIPIcs-FSTTCS-2020-50.pdf][Computable analysis for verified exact real computation]]. ~ M. Konečný, F. Steinberg, H. Thies. #ITP #Coq #Math
++ [[https://www.cs.au.dk/~birke/papers/mpmc-queue.pdf][Mechanized verification of a fine-grained concurrent queue from Facebook's Folly library]]. ~ S.F. Vindum, D. Frumin, L. Birkedal. #ITP #Coq
++ [[https://raw.githubusercontent.com/jonaprieto/the-pigeonhole-principle/master/The-pigeonhole-principle-HoTT.pdf][The Pigeonhole principle]]. ~ Jonathan Prieto-Cubides (@jonacubides). #ITP #Agda #Math
++ [[https://boarders.github.io/posts/halting1.html][The halting problem (part 1)]]. ~ Callan McGill. #Haskell #FunctionalProgramming #Logic #Math
++ [[https://boarders.github.io/posts/halting2.html][The halting problem (part 2)]]. ~ Callan McGill. #ITP #Agda #Logic #Math
++ [[https://arxiv.org/abs/2012.01150v1][Voevodsky's unachieved project]]. ~ Andrei Rodin. #ITP #Math
++ [[https://kowainik.github.io/posts/haddock-tips][Haskell documentation with Haddock: Wishes'n'tips]]. ~ Veronika Romashkina (@vrom911), Dmitrii Kovanikov (@ChShersh). #Haskell #FunctionalProgramming
++ [[https://plato.stanford.edu/entries/proof-theory-development/][The development of proof theory]]. ~ Jan von Plato. #Logic #ATP
++ [[https://plato.stanford.edu/entries/reasoning-automated/][Automated reasoning]]. ~ Frederic Portoraro. #ATP #ITP #Logic #Math #LogicProgramming
++ [[https://carboncloud.com/2020/12/07/tech-knowledge-as-code/][Benefits of statically typed functional programming? Wrong question]]. ~ Mikael Tönnberg. #FunctionalProgramming #AdventOfHaskell
++ [[http://tomasp.net/academic/drafts/cultures/ ][Cultures of programming: Understanding the history of programming through controversies and technical artifacts]]. ~ Tomas Petricek (@tomaspetricek). #Programming #Emacs
+
 *** 07-Dic-20
 + [[https://schooloffp.co/2020/12/05/whirlwind-tour-of-stack-for-beginners.html][Whirlwind tour of Stack for beginners]]. ~ School of FP (@schooloffp). #Haskell #FunctionalProgramming
 + [[http://kenta.blogspot.com/2020/12/orptuqka-bits-instance-of-integer.html][Bits instance of Integer]]. ~ Ken T Takusagawa. #Haskell #FuncionalProgramming
