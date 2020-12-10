@@ -27,6 +27,11 @@ contenido.
 
 ** Diciembre de 2020
 
+*** 09-Dic-20
++ [[https://github.com/bolt12/advent-of-haskell-dd][Denotational design]]. ~ Armando Santos (@_bolt12). #Haskell #FunctionalProgramming #AdventOfHaskell
++ [[https://www.oreilly.com/radar/what-is-functional-programming/][What is functional programming? ~ Mike Loukides (@mikeloukides)]]. #FunctionalProgramming
++ [[https://emacsredux.com/blog/2020/12/08/favorite-emacs-packages/][Favorite Emacs packages]]. ~ Bozhidar Batsov. #Emacs
+
 *** 08-Dic-20
 + [[https://www.isa-afp.org/browser_info/current/AFP/Relational_Method/document.pdf][The relational method with message anonymity for the verification of cryptographic protocols]]. ~ Pasquale Noce. #ITP #IsabelleHOL
 + [[https://www.isa-afp.org/browser_info/current/AFP/Relational_Minimum_Spanning_Trees/document.pdf][Relational minimum spanning tree algorithms (in Isabelle/HOL)]]. ~ Walter Guttmann, Nicolas Robinson-O'Brien. #ITP #IsabelleHOL #Algorithms
