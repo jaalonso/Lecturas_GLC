@@ -27,6 +27,12 @@ contenido.
 
 ** Diciembre de 2020
 
+*** 10-Dic-20
++ [[https://arxiv.org/abs/2012.04715][A SAT-based resolution of Lam's problem]]. ~ Curtis Bright, Kevin K. H. Cheung, Brett Stevens, Ilias Kotsireas, Vijay Ganesh. #ATP #SAT_Solvers #Math
++ [[https://www.cs.au.dk/~spitters/Concert2.pdf][Extracting smart contracts tested and verified in Coq]]. ~ D. Annenkov, M. Milo, J.B. Nielsen, B. Spitters. #ITP #Coq
++ [[https://chrispenner.ca/posts/gadt-design][Simpler and safer API design using GADTs]]. ~ Chris Penner (@chrislpenner). #Haskell #FunctionalProgramming #AdventOfHaskell
++ [[https://arstechnica.com/features/2020/12/a-damn-stupid-thing-to-do-the-origins-of-c/]["A damn stupid thing to do" - the origins of C]]. ~ Richard Jensen. #Programming
+
 *** 09-Dic-20
 + [[https://github.com/bolt12/advent-of-haskell-dd][Denotational design]]. ~ Armando Santos (@_bolt12). #Haskell #FunctionalProgramming #AdventOfHaskell
 + [[https://www.oreilly.com/radar/what-is-functional-programming/][What is functional programming? ~ Mike Loukides (@mikeloukides)]]. #FunctionalProgramming
