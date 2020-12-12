@@ -27,6 +27,14 @@ contenido.
 
 ** Diciembre de 2020
 
+*** 11-Dic-20
++ [[https://rjlipton.wordpress.com/2020/12/10/the-future-of-mathematics/][The future of Mathematics?]] ~ R.J. Lipton. #ITP #Math
++ [[https://wjwh.eu/posts/2020-12-11-haskell-retries.html][The 'retry' package]]. ~ Wander Hillen. #Haskell #FunctionalProgramming #AdventOfHaskell
++ [[https://anardil.net/2020/haskell-coreutils-tee.html][Haskell coreutils: tee]]. ~ Austin Gandalf. #Haskell #FunctionalProgramming
++ [[https://hasura.io/blog/parser-combinators-walkthrough/][Parser combinators: a walkthrough (Or: Write you a Parsec for great good)]]. ~ Antoine Leblanc (@nicuveo). #Haskell #FunctionalProgramming
++ [[https://www.tweag.io/blog/2020-12-03-shrinks-applicative/][The shrinks applicative]]. ~ Arnaud Spiwack. #Haskell #FunctionalProgramming
++ [[https://github.com/NorfairKing/sydtest][sydtest: An experimental testing framework for Haskell]]. ~ Tom Sydney Kerckhove. #Haskell #FunctionalProgramming
+
 *** 10-Dic-20
 + [[https://arxiv.org/abs/2012.04715][A SAT-based resolution of Lam's problem]]. ~ Curtis Bright, Kevin K. H. Cheung, Brett Stevens, Ilias Kotsireas, Vijay Ganesh. #ATP #SAT_Solvers #Math
 + [[https://www.cs.au.dk/~spitters/Concert2.pdf][Extracting smart contracts tested and verified in Coq]]. ~ D. Annenkov, M. Milo, J.B. Nielsen, B. Spitters. #ITP #Coq
