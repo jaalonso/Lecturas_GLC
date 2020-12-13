@@ -27,6 +27,19 @@ contenido.
 
 ** Diciembre de 2020
 
+*** 12-Dic-20
++ [[https://www21.in.tum.de/~eberlm/pdfs/diss.pdf][Asymptotic reasoning in a proof assistant]]. ~ Manuel Eberl. #PhD_Thesis #ITP #IsabelleHOL #Math
++ [[https://arxiv.org/abs/2012.04400][An answer to the Bose-Nelson sorting problem for 11 and 12 channels]]. ~ Jannis Harder. #ITP #IsabelleHOL
++ [[https://www.college-de-france.fr/media/xavier-leroy/UPL5416659662307063394_9.pdf][Programmer = démontrer? La correspondance de Curry-Howard aujourd’hui]]. ~ Xavier Leroy. #Logic #Math #CompSci #ITP
++ [[https://cronokirby.com/posts/2020/11/haskell-in-haskell-0][(Haskell in Haskell) 0]]. Introduction. ~ Lúcás Meier (@cronokirby). #Haskell #FunctionalProgramming
++ [[https://cronokirby.com/posts/2020/11/haskell-in-haskell-1][(Haskell in Haskell) 1]]. Setup. ~ Lúcás Meier (@cronokirby). #Haskell #FunctionalProgramming
++ [[https://cronokirby.com/posts/2020/12/haskell-in-haskell-2/][(Haskell in Haskell) 2]]. Lexing. ~ Lúcás Meier (@cronokirby) #Haskell #FunctionalProgramming
++ [[https://functional.christmas/2020][Functional Christmas (2020)]]. #FunctionalProgramming
++ [[https://www.elm.christmas/2020][Elm Christmas (2020)]]. #Elm #FunctionalProgramming
++ [[https://www.quantamagazine.org/the-busy-beaver-game-illuminates-the-fundamental-limits-of-math-20201210/][How the slowest computer programs illuminate math’s fundamental limits]]. ~ John Pavlus (@johnpavlus). #Math #CompSci
++ [[https://johncarlosbaez.wordpress.com/2018/09/20/patterns-that-eventually-fail/][Patterns that eventually fail]]. ~ John Baez (@johncarlosbaez). #Math
++ [[http://texteditors.org/cgi-bin/wiki.pl?EmacsFamily][Emacs family editors]]. #Emacs
+
 *** 11-Dic-20
 + [[https://rjlipton.wordpress.com/2020/12/10/the-future-of-mathematics/][The future of Mathematics?]] ~ R.J. Lipton. #ITP #Math
 + [[https://wjwh.eu/posts/2020-12-11-haskell-retries.html][The 'retry' package]]. ~ Wander Hillen. #Haskell #FunctionalProgramming #AdventOfHaskell
