@@ -27,6 +27,9 @@ contenido.
 
 ** Diciembre de 2020
 
+*** 13-Dic-20
++ [[https://blog.jle.im/entry/holly-jolly-streaming-combinators.html][Roll your own Holly Jolly streaming combinators with Free]]. ~ Justin Le (@mstk). #Haskell #FunctionalProgramming #AdventOfHaskell
+
 *** 12-Dic-20
 + [[https://www21.in.tum.de/~eberlm/pdfs/diss.pdf][Asymptotic reasoning in a proof assistant]]. ~ Manuel Eberl. #PhD_Thesis #ITP #IsabelleHOL #Math
 + [[https://arxiv.org/abs/2012.04400][An answer to the Bose-Nelson sorting problem for 11 and 12 channels]]. ~ Jannis Harder. #ITP #IsabelleHOL
