@@ -27,6 +27,10 @@ contenido.
 
 ** Diciembre de 2020
 
+*** 14-Dic-20
++ [[https://potocpav.github.io/programming/2020/12/11/functional-programming.html][Precise typing implies functional programming]]. ~ Pavel Potoček. #Haskell #FunctionalProgramming
++ [[https://jelv.is/blog/Structure-your-Errors/][Structure your errors]]. ~ Tikhon Jelvis (@tikhonjelvis). #Haskell #FunctionalProgramming #AdventOfHaskell
+
 *** 13-Dic-20
 + [[https://blog.jle.im/entry/holly-jolly-streaming-combinators.html][Roll your own Holly Jolly streaming combinators with Free]]. ~ Justin Le (@mstk). #Haskell #FunctionalProgramming #AdventOfHaskell
 
