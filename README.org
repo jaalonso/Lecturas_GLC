@@ -27,6 +27,17 @@ contenido.
 
 ** Diciembre de 2020
 
+*** 15-Dic-20
++ [[https://blog.jpolak.org/?p=2281][On the Lean proof assistant, Part 1]]. ~ Jason Polak. #ITP #LeanProver
++ [[https://drops.dagstuhl.de/opus/volltexte/2020/13422/pdf/OASIcs-FMBC-2020-9.pdf][On the formal verification of the Stellar Consensus Protocol]]. ~ G. Losa, M. Dodds. #ITP #IsabelleHOL
++ [[https://drops.dagstuhl.de/opus/volltexte/2020/13412/pdf/oasics-vol084-fmbc2020-complete.pdf#page=67][Authenticated data structures as functors in Isabelle/HOL]]. ~ A. Lochbihler, O. Marić. #ITP #IsabelleHOL
++ [[https://hal.archives-ouvertes.fr/hal-03053930/document][On the use of formal methods to model and verify neuronal archetypes]]. ~ E. de Maria et als. #ITP #Coq
++ [[https://drops.dagstuhl.de/opus/volltexte/2020/13412/pdf/oasics-vol084-fmbc2020-complete.pdf#page=83][Mechanized formal model of bitcoin's blockchain validation procedures]]. ~ K. Rupić, L. Rožić, A. Derek. #ITP #Coq
++ [[https://doisinkidney.com/posts/2020-12-14-enumerating-trees.html][Enumerating trees]]. ~ Donnacha Oisín Kidney (@oisdk). #Haskell #FunctionalProgramming #Agda
++ [[https://www.fpcomplete.com/blog/pattern-matching/][Pattern matching]]. ~ Michael Snoyman (@snoyberg). #Haskell #FunctionalProgramming
++ [[https://arxiv.org/abs/2004.05631][At the interface of algebra and statistics]]. ~ Tai-Danae Bradley (@math3ma). #Math #CategoryTheory
++ [[https://thibaultmarin.github.io/blog/posts/2016-11-13-Personal_website_in_org.html][Personal website in org]]. #Emacs #OrgMode
+
 *** 14-Dic-20
 + [[https://potocpav.github.io/programming/2020/12/11/functional-programming.html][Precise typing implies functional programming]]. ~ Pavel Potoček. #Haskell #FunctionalProgramming
 + [[https://jelv.is/blog/Structure-your-Errors/][Structure your errors]]. ~ Tikhon Jelvis (@tikhonjelvis). #Haskell #FunctionalProgramming #AdventOfHaskell
