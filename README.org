@@ -27,6 +27,11 @@ contenido.
 
 ** Diciembre de 2020
 
+*** 16-Dic-20
++ [[https://arxiv.org/abs/2012.08231v1][A new perspective of paramodulation complexity by solving massive 8 puzzles]]. ~ Ruo Ando, Yoshiyasu Takefuji. #ATP #Otter
++ [[https://www.math3ma.com/blog/fibonacci-sequence][The Fibonacci sequence as a functor]]. ~ Tai-Danae Bradley (@math3ma). #CategoryTheory
++ [[https://vivid-synth.com/advent-2020/][A vivid christmas carol]]. #Haskell #FuncionalProgramming #AdventOfHaskell
+
 *** 15-Dic-20
 + [[https://blog.jpolak.org/?p=2281][On the Lean proof assistant, Part 1]]. ~ Jason Polak. #ITP #LeanProver
 + [[https://drops.dagstuhl.de/opus/volltexte/2020/13422/pdf/OASIcs-FMBC-2020-9.pdf][On the formal verification of the Stellar Consensus Protocol]]. ~ G. Losa, M. Dodds. #ITP #IsabelleHOL
