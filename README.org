@@ -27,6 +27,11 @@ contenido.
 
 ** Diciembre de 2020
 
+*** 17-Dic-20
++ [[https://arxiv.org/abs/2012.08990][A novice-friendly induction tactic for Lean]]. ~ Jannis Limperg. #ITP #LeanProver
++ [[https://gist.github.com/serras/bb33947855f539761d4873a3d18313c3][Talking about Toys]]. ~ Alejandro Serrano (@trupill). #Haskell #FunctionalProgramming #AdventOfHaskell
++ [[https://arifordsham.com/haskell-doomed-to-succeed/][Haskell - Doomed to succeed?]] ~ Ari Fordsham. #Haskell #FunctionalProgramming
+
 *** 16-Dic-20
 + [[https://arxiv.org/abs/2012.08231v1][A new perspective of paramodulation complexity by solving massive 8 puzzles]]. ~ Ruo Ando, Yoshiyasu Takefuji. #ATP #Otter
 + [[https://www.math3ma.com/blog/fibonacci-sequence][The Fibonacci sequence as a functor]]. ~ Tai-Danae Bradley (@math3ma). #CategoryTheory
