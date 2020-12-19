@@ -27,6 +27,13 @@ contenido.
 
 ** Diciembre de 2020
 
+*** 18-Dic-20
++ [[https://arxiv.org/abs/2012.09388][Formalization of PAL⋅S5 in proof assistant]]. ~ Jiatu Li. #ITP #LeanProver #Logic
++ [[https://github.com/ljt12138/Proof-of-Surreal][Formal proof of the main theorem for surreal]]. ~ Jiatu Li. #ITP #LeanProver
++ [[https://jesper.sikanda.be/posts/quickcheck-intro.html][An introduction to property-based testing with QuickCheck]]. ~ Jesper Cockx (@dregntael). #Haskell #FunctionalProgramming #QuickCheck
++ [[https://nliu.net/posts/2020-11-06-bytestring.html][Beauty and the bytestring]]. ~ Norman Liu. #Haskell #FunctionalProgramming #AdventOfHaskell
++ [[https://bor0.wordpress.com/2020/12/11/haskell-memoization-and-evaluation-model/][Haskell memoization and evaluation model]]. ~ Boro Sitnikovski (@BSitnikovski). #Haskell #FunctionalProgramming
+
 *** 17-Dic-20
 + [[https://arxiv.org/abs/2012.08990][A novice-friendly induction tactic for Lean]]. ~ Jannis Limperg. #ITP #LeanProver
 + [[https://gist.github.com/serras/bb33947855f539761d4873a3d18313c3][Talking about Toys]]. ~ Alejandro Serrano (@trupill). #Haskell #FunctionalProgramming #AdventOfHaskell
