@@ -27,6 +27,13 @@ contenido.
 
 ** Diciembre de 2020
 
+*** 19-Dic-20
++ [[https://pit-claudel.fr/clement/papers/koika-dsls-CoqPL21.pdf][An experience report on writing usable DSLs in Coq]]. ~ Clément Pit-Claudel, Thomas Bourgeat. #ITP #Coq
++ [[https://serokell.io/blog/hackage-search][Hackage search: Regex-based online code search]]. ~  Vladislav Zavialov. #Haskell #FunctionalProgramming
++ [[https://github.com/soupi/haskell-study-plan][Haskell study plan]]. ~ Gil Mizrahi (@_gilmi). #Haskell #FunctionalProgramming
++ [[http://ojs.elte.hu/cejntrep/article/view/965/1042][Classical programming topics with functional programming]]. ~ Visnovitz Márton #FunctionalProgramming #TypeScript
++ [[https://www.logicmatters.net/wp-content/uploads/2020/12/LogicStudyGuide.pdf][Logic: A study guide]]. ~ Peter Smith (@PeterSmith). #Logic
+
 *** 18-Dic-20
 + [[https://arxiv.org/abs/2012.09388][Formalization of PAL⋅S5 in proof assistant]]. ~ Jiatu Li. #ITP #LeanProver #Logic
 + [[https://github.com/ljt12138/Proof-of-Surreal][Formal proof of the main theorem for surreal]]. ~ Jiatu Li. #ITP #LeanProver
