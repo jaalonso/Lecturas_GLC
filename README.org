@@ -27,6 +27,13 @@ contenido.
 
 ** Diciembre de 2020
 
+*** 20-Dic-20
++ [[https://benoit.viguier.nl/files/tweetverif.pdf][A Coq proof of the correctness of X25519 in TweetNaCl]]. ~ P. Schwabe, B. Viguier, T. Weerwag, F. Wiedijk. #ITP #Coq
++ [[https://ryan.orendorff.io/posts/2020-12-19-dependent-fold/][Dependently typed folds (folds that change type at each step!)]]. ~ Ryan Orendorff. #Haskell #FunctionalProgramming #AdventOfHaskell
++ [[https://encodepanda.com/posts/2020-12-15-getting-acquainted-with-lens.html][Getting acquainted with Lens (part 1)]]. ~ Pawel Szulc (@EncodePanda). #Haskell #FunctionalProgramming
++ [[https://kowainik.github.io/posts/naming-conventions][Foo to bar: Naming conventions in Haskell]]. ~ Veronika Romashkina (@vrom911), Dmitrii Kovanikov (@ChShersh). #Haskell #FunctionalProgramming
++ [[https://republicaweb.es/podcast/descubriendo-la-programacion-funcional-haskell-con-hector-navarro/][Descubriendo la programación funcional: Haskell con Héctor Navarro]]. #Haskell #ProgramaciónFuncional
+
 *** 19-Dic-20
 + [[https://pit-claudel.fr/clement/papers/koika-dsls-CoqPL21.pdf][An experience report on writing usable DSLs in Coq]]. ~ Clément Pit-Claudel, Thomas Bourgeat. #ITP #Coq
 + [[https://serokell.io/blog/hackage-search][Hackage search: Regex-based online code search]]. ~  Vladislav Zavialov. #Haskell #FunctionalProgramming
