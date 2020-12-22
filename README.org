@@ -27,6 +27,11 @@ contenido.
 
 ** Diciembre de 2020
 
+*** 21-Dic-20
++ [[https://thma.github.io/posts/2020-12-20-reconciling-fp-and-oop-concepts.html][Reconciling concepts from FP and OOP]]. ~ Thomas Mahler. #Haskell #FunctionalProgramming #AdventOfHaskell
++ [[https://www.fpcomplete.com/haskell/library/vector/][vector: Efficient packed-memory data representations]]. ~ @FPComplete. #Haskell #FunctionalProgramming
++ [[https://odone.io/posts/2020-12-21-scripting-the-hell-out-of-trello-in-haskell.html][Scripting the Hell out of Trello with Haskell]]. ~ Riccardo Odone (@RiccardoOdone). #Haskell #FunctionalProgramming #AdventOfHaskell
+
 *** 20-Dic-20
 + [[https://benoit.viguier.nl/files/tweetverif.pdf][A Coq proof of the correctness of X25519 in TweetNaCl]]. ~ P. Schwabe, B. Viguier, T. Weerwag, F. Wiedijk. #ITP #Coq
 + [[https://ryan.orendorff.io/posts/2020-12-19-dependent-fold/][Dependently typed folds (folds that change type at each step!)]]. ~ Ryan Orendorff. #Haskell #FunctionalProgramming #AdventOfHaskell
