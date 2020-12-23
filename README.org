@@ -27,6 +27,13 @@ contenido.
 
 ** Diciembre de 2020
 
+*** 22-Dic-20
++ [[https://orbit.dtu.dk/files/236443090/Isabelle_2020_paper_6.pdf][A concise sequent calculus for teaching first-order logic]]. ~ Asta Halkjær From, Jørgen Villadsen. #ITP #IsabelleHOL #Logic
++ [[https://www.ps.uni-saarland.de/Publications/documents/KirstRech_2021_The-Generalised.pdf][The generalised continuum hypothesis implies the axiom of choice in Coq]]. ~ Dominik Kirst, Felix Rech. #ITP #Coq #Logic #Math
++ [[https://www.researchgate.net/publication/347256855_GeoGebra_Reasoning_Tools_for_Humans_and_for_Automatons][GeoGebra reasoning tools for humans and for automatons]]. ~ Zoltán Kovács, Tomás Recio. #ATP #GeoGebra #Math
++ [[https://tonyday567.github.io/posts/lowercase/][Lower case Haskell]]. ~ @tonyday567. #Haskell #FunctionalProgramming #AdventOfHaskell
++ [[https://gist.github.com/ChrisPenner/1f7b6923448b3396a45d04a2b6b9d066][Optics by example cheat sheets]]. ~ Chris Penner (@chrislpenner). #Haskell #FunctionalProgramming
+
 *** 21-Dic-20
 + [[https://thma.github.io/posts/2020-12-20-reconciling-fp-and-oop-concepts.html][Reconciling concepts from FP and OOP]]. ~ Thomas Mahler. #Haskell #FunctionalProgramming #AdventOfHaskell
 + [[https://www.fpcomplete.com/haskell/library/vector/][vector: Efficient packed-memory data representations]]. ~ @FPComplete. #Haskell #FunctionalProgramming
