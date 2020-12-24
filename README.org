@@ -27,6 +27,11 @@ contenido.
 
 ** Diciembre de 2020
 
+*** 23-Dic-20
++ [[https://www.isa-afp.org/entries/Topological_Semantics.html][Topological semantics for paraconsistent and paracomplete logics]]. ~ David Fuenmayor. #ITP #IsabelleHOL #Math
++ [[https://www.joachim-breitner.de/blog/778-Don%E2%80%99t_think%2C_just_defunctionalize][Don’t think, just defunctionalize]]. ~ Joachim Breitner (@nomeata). #Haskell #FunctionalProgramming
++ [[http://www.cs.us.es/~fsancho/?e=245][Sistemas deductivos proposicionales]]. ~ Fernando Sancho (@sanchocaparrini). #Lógica
+
 *** 22-Dic-20
 + [[https://orbit.dtu.dk/files/236443090/Isabelle_2020_paper_6.pdf][A concise sequent calculus for teaching first-order logic]]. ~ Asta Halkjær From, Jørgen Villadsen. #ITP #IsabelleHOL #Logic
 + [[https://www.ps.uni-saarland.de/Publications/documents/KirstRech_2021_The-Generalised.pdf][The generalised continuum hypothesis implies the axiom of choice in Coq]]. ~ Dominik Kirst, Felix Rech. #ITP #Coq #Logic #Math
