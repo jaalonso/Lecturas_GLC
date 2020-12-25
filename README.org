@@ -27,6 +27,14 @@ contenido.
 
 ** Diciembre de 2020
 
+*** 24-Dic-20
++ [[https://github.com/mmasdeu/euler][Formalization of Euler summation formula (in Lean)]]. ~ Marc Masdeu (@marcmasdeu). #ITP #LeanProver #Math
++ [[https://www21.in.tum.de/~haslbema/documents/Haslbeck_Lammich_LLVM_with_Time.pdf][For a few dollars more (Verified fine-grained algorithm analysis down to LLVM)]]. ~ Maximilian P. L. Haslbeck, Peter Lammich. #ITP #IsabelleHOL
++ [[https://arxiv.org/abs/2012.10313][Towards formally verified compilation of tag-based policy enforcement]]. ~ CHR Chhak, Andrew Tolmach, Sean Anderson. #ITP #Coq
++ [[https://arxiv.org/abs/2007.08017][λS: Computable semantics for differentiable programming with higher-order functions and datatypes]]. ~ Benjamin Sherman, Jesse Michel, Michael Carbin. #Haskell #FunctionalProgramming
++ [[https://www.quantamagazine.org/quantas-year-in-math-and-computer-science-2020-20201223/][The year in Math and Computer Science]]. ~ Bill Andrews. #Math #CompSci
++ [[https://notxor.nueva-actitud.org/2020/12/23/slime-lisp-y-emacs.html][Lisp, Slime y Emacs]]. #Lisp #Emacs
+
 *** 23-Dic-20
 + [[https://www.isa-afp.org/entries/Topological_Semantics.html][Topological semantics for paraconsistent and paracomplete logics]]. ~ David Fuenmayor. #ITP #IsabelleHOL #Math
 + [[https://www.joachim-breitner.de/blog/778-Don%E2%80%99t_think%2C_just_defunctionalize][Don’t think, just defunctionalize]]. ~ Joachim Breitner (@nomeata). #Haskell #FunctionalProgramming
