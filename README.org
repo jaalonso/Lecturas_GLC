@@ -27,6 +27,16 @@ contenido.
 
 ** Diciembre de 2020
 
+*** 26-Dic-20
++ [[https://github.com/leanprover-community/lean/blob/master/doc/faq.md][Lean prover: Frequently Asked Questions]]. #ITP #LeanProver
++ [[https://blog.ocharles.org.uk/posts/2020-12-23-monad-transformers-and-effects-with-backpack.html][Monad transformers and effects with Backpack]]. ~ Ollie Charles (@acid2). #Haskell #FunctionalProgramming
++ [[https://frasertweedale.github.io/blog-fp/posts/2020-12-21-refactoring-type-classes-optics.html][Refactoring using type classes and optics]]. ~ Fraser Tweedale (@hackuador). #Haskell #FunctionalProgramming
++ [[https://github.com/lucasdicioccio/santa-wrap][Santa Wrap]]. ~ Lucas Di Cioccio (@lucasdicioccio). #Haskell #FunctionalProgramming #MiniZinc
++ [[https://ai.ia.agh.edu.pl/_media/pl:dydaktyka:est:essential_thinking_2020-59.pdf][Essential thinking]]. The art of creative thinking for problem solving. ~ Antoni Ligeza. #ProblemSolving #Prolog #CLP #AI
++ [[https://leanpub.com/hy-lisp-python/read][A Lisp programmer living in Python-land: The Hy programming language]]. ~ Mark Watson (@mark_l_watson). #eBook #Lisp #Python #Programmig
++ [[http://www.math.ac.vn/training/images/TTDaotao/VinIF/Laptrinh_TNTrung.pdf][Python programming and scientific computation]]. ~ Tran Nam Trung. #eBook #Python #Programming
++ [[https://republicaweb.es/podcast/descubriendo-la-programacion-funcional-elixir-con-erick-navarro/][Descubriendo la programación funcional: Elixir con Erick Navarro (@erickgnavar)]]. #Elixir #ProgramaciónFuncional vía @republicawebes
+
 *** 24-Dic-20
 + [[https://github.com/mmasdeu/euler][Formalization of Euler summation formula (in Lean)]]. ~ Marc Masdeu (@marcmasdeu). #ITP #LeanProver #Math
 + [[https://www21.in.tum.de/~haslbema/documents/Haslbeck_Lammich_LLVM_with_Time.pdf][For a few dollars more (Verified fine-grained algorithm analysis down to LLVM)]]. ~ Maximilian P. L. Haslbeck, Peter Lammich. #ITP #IsabelleHOL
