@@ -27,6 +27,9 @@ contenido.
 
 ** Diciembre de 2020
 
+*** 27-Dic-20
++ [[https://doisinkidney.com/posts/2020-12-27-cayley-trees.html][Trees indexed by a Cayley Monoid]]. ~ Donnacha Oisín Kidney (@oisdk). #Haskell #FunctionalProgramming
+
 *** 26-Dic-20
 + [[https://github.com/leanprover-community/lean/blob/master/doc/faq.md][Lean prover: Frequently Asked Questions]]. #ITP #LeanProver
 + [[https://blog.ocharles.org.uk/posts/2020-12-23-monad-transformers-and-effects-with-backpack.html][Monad transformers and effects with Backpack]]. ~ Ollie Charles (@acid2). #Haskell #FunctionalProgramming
