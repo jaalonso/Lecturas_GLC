@@ -27,6 +27,12 @@ contenido.
 
 ** Diciembre de 2020
 
+*** 28-Dic-20
++ [[https://www.isa-afp.org/browser_info/current/AFP/Delta_System_Lemma/document.pdf][Cofinality and the delta system lemma (in Isabelle)]]. ~ Pedro Sánchez Terraf. #ITP #IsabelleZF #Logic #Math
++ [[https://youtu.be/drYFAEzKJOE][Counting bits with Haskell (The bad and the good way)]]. ~ Flavio Corpa (@FlavioCorpa). #Haskell #FunctionalProgramming
++ [[https://cronokirby.com/posts/2020/12/haskell-in-haskell-3/][(Haskell in Haskell) 3: Parsing]]. ~ Lúcás Meier (@cronokirby). #Haskell #FunctionalProgramming
++ [[https://youtu.be/BQNOjum8YlU][My first type theory]]. ~ Arved Friedemann. #TypeTheory
+
 *** 27-Dic-20
 + [[https://doisinkidney.com/posts/2020-12-27-cayley-trees.html][Trees indexed by a Cayley Monoid]]. ~ Donnacha Oisín Kidney (@oisdk). #Haskell #FunctionalProgramming
 
