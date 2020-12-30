@@ -27,6 +27,13 @@ contenido.
 
 ** Diciembre de 2020
 
+*** 29-Dic-20
++ [[https://www.researchgate.net/publication/347964119_Irrationality_and_Transcendence_Criteria_for_Infinite_Series_in_IsabelleHOL][Irrationality and transcendence criteria for infinite series in Isabelle/HOL]]. ~ Angeliki Koutsoukou-Argyraki, Wenda Li, Lawrence Paulson. #ITP #IsabelleHOL #Math
++ [[https://notes.abhinavsarkar.net/2020/aoc-learnings][Learnings from solving Advent of Code 2020 in Haskell]]. ~ Abhinav Sarkar (@abhin4v). #Haskell #FunctionalProgramming
++ [[https://nauths.fr/en/2020/12/27/haskell-type-level-shenanigans.html][Haskell type-level functions shenanigans (An introduction to some useful language extensions)]]. ~ Antoine Leblanc (@nicuveo). #Haskell #FunctionalProgramming
++ [[https://dev.to/kakkun61/ephemeral-purely-functional-data-structure-and-linear-type-489j][Ephemeral purely functional data structure and linear type]]. ~ Kazuki Okamoto (@kakkun61). #Haskell #FunctionalProgramming
++ [[http://kremer.cpsc.ucalgary.ca/courses/seng403/W2013/papers/11ProgrammingLanguages.pdf][Programming language families (Procedural, object oriented, logic, and functional languages)]]. ~ Jobelle Firme, Nicolas Valera, Yunus Canemre, Stephen Burchill, Beenish Khurshid. #Programming
+
 *** 28-Dic-20
 + [[https://www.isa-afp.org/browser_info/current/AFP/Delta_System_Lemma/document.pdf][Cofinality and the delta system lemma (in Isabelle)]]. ~ Pedro Sánchez Terraf. #ITP #IsabelleZF #Logic #Math
 + [[https://youtu.be/drYFAEzKJOE][Counting bits with Haskell (The bad and the good way)]]. ~ Flavio Corpa (@FlavioCorpa). #Haskell #FunctionalProgramming
