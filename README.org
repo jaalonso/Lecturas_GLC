@@ -27,6 +27,10 @@ contenido.
 
 ** Diciembre de 2020
 
+*** 30-Dic-20
++ [[https://dev.to/kakkun61/the-simplest-monadfail-instance-2i4e][The simplest MonadFail instance]]. ~ Kazuki Okamoto (@kakkun61). #Haskell #FunctionalProgramming
++ [[https://ro-che.info/articles/2020-12-29-statet-vs-ioref][StateT vs IORef: a benchmark]]. ~ Roman Cheplyaka. #Haskell #FunctionalProgramming
+
 *** 29-Dic-20
 + [[https://www.researchgate.net/publication/347964119_Irrationality_and_Transcendence_Criteria_for_Infinite_Series_in_IsabelleHOL][Irrationality and transcendence criteria for infinite series in Isabelle/HOL]]. ~ Angeliki Koutsoukou-Argyraki, Wenda Li, Lawrence Paulson. #ITP #IsabelleHOL #Math
 + [[https://notes.abhinavsarkar.net/2020/aoc-learnings][Learnings from solving Advent of Code 2020 in Haskell]]. ~ Abhinav Sarkar (@abhin4v). #Haskell #FunctionalProgramming
