@@ -16,6 +16,13 @@ contenido.
 
 ** Enero de 2021
 
+*** 02-Ene-21
++ [[https://arxiv.org/abs/2012.14133v1][Verifying C11-style weak memory libraries]]. ~ Sadegh Dalvandi, Brijesh Dongol. #ITP #IsabelleHOL
++ [[https://leanprover.github.io/lean4/doc/whatIsLean.html][Lean 4 manual]]. #Lean4 #FunctionalProgramming #ITP
++ [[https://www.mdpi.com/2227-7390/9/1/38/pdf][Formalization of the equivalence among completeness theorems of real number in Coq]]. ~ Yaoshun Fu, Wensheng Yu. #ITP #Coq #Math
++ [[https://www.lri.fr/~keller/Documents-recherche/Publications/cpp21.pdf][A Coq formalization of data provenance]]. Véronique Benzaken et als. #ITP #Coq
++ [[https://www.ps.uni-saarland.de/~kirst/downloads/talk_TSEM_20.pdf][Synthetic undecidability proofs in Coq]]. ~ Dominik Kirst. #ITP #Coq
+
 *** 01-Ene-21
 + [[https://schooloffp.co/2020/12/27/two-reasons-why-you-found-learning-haskell-hard.html][Two reasons why you found learning haskell hard]]. ~ School of FP (@schooloffp). #Haskell #FunctionalProgramming
 + [[https://tek.brick.do/64693fb8-39b4-40a5-8762-768009eeed91][Learn just enough about linear types]]. ~ Artyom Kazak (@availablegreen). #Haskell #FunctionalProgramming
