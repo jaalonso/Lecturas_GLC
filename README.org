@@ -16,6 +16,9 @@ contenido.
 
 ** Enero de 2021
 
+*** 03-Ene-21
++ [[https://github.com/leanprover-community/mathlib/blob/04f8fd744a1d8e9f5aec9fd8d4809d4345365916/src/group_theory/dihedral.lean][Dihedral groups in Lean]]. ~ Shing Tak Lam. #ITP #LeanProver #Math
+
 *** 02-Ene-21
 + [[https://arxiv.org/abs/2012.14133v1][Verifying C11-style weak memory libraries]]. ~ Sadegh Dalvandi, Brijesh Dongol. #ITP #IsabelleHOL
 + [[https://leanprover.github.io/lean4/doc/whatIsLean.html][Lean 4 manual]]. #Lean4 #FunctionalProgramming #ITP
