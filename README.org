@@ -16,6 +16,17 @@ contenido.
 
 ** Enero de 2021
 
+*** 04-Ene-21
++ [[http://ceur-ws.org/Vol-2710/paper21.pdf][Tautology checkers in Isabelle and Haskell]]. ~ Jørgen Villadsen. #Logic #ITP #IsabelleHOL #Haskell #FunctionalProgramming
++ [[http://ceur-ws.org/Vol-2710/paper13.pdf][Theorem proving for Lewis logics of counterfactual reasoning]]. ~ Marianna Girlando, Bjoern Lellmann, Nicola Olivetti, Stefano Pesce, Gian Luca Pozzato. #ATP #Logic #Prolog #LogicProgramming
++ [[https://github.com/leanprover-community/mathlib/blob/384ba88bf56209e52a0bed1b7176805c09b05c9a/src/computability/DFA.lean][Deterministic Finite Automata (DFA) in Lean]]. ~ Fox Thomson. #ITP #LeanProver
++ [[https://github.com/leanprover-community/mathlib/blob/384ba88bf56209e52a0bed1b7176805c09b05c9a/src/computability/NFA.lean][Nondeterministic Finite Automata (NFA) in Lean]]. ~ Fox Thomson. #ITP #LeanProver
++ [[https://blog.poisson.chat/posts/2021-01-03-iterative-categories.html][Theory of iteration and recursion]]. ~ Li-yao Xia (@lysxia). #Haskell #FunctionalProgramming
++ [[https://bindthegap.news/issues/02dec2020.html][Bind the gap (Monthly digital functional programming magazine) [Issue 2, Dec 2020]]]. #Haskell #FunctionalProgramming
++ [[https://www.parsonsmatt.org/2020/02/04/mirror_mirror.html https://www.parsonsmatt.org/2020/02/04/mirror_mirror.html][Mirror mirror: Reflection and encoding via]]. ~ Matt Parsons (@mattoflambda). #Haskell #FunctionalProgramming
++ [[https://wespiser.com/posts/2021-01-03-Lessons-Learned-From-A-Year-Of-Haskell.html][Lessons learned from a year of writing Haskell]]. ~ Adam Wespiser (@wespiser). #Haskell #FunctionalProgramming
++ [[https://oleg.fi/gists/posts/2021-01-04-coindexed-optics.htm][Coindexed optics]]. ~ Oleg Grenrus (@phadej).l#Haskell #FunctionalProgramming
+
 *** 03-Ene-21
 + [[https://github.com/leanprover-community/mathlib/blob/04f8fd744a1d8e9f5aec9fd8d4809d4345365916/src/group_theory/dihedral.lean][Dihedral groups in Lean]]. ~ Shing Tak Lam. #ITP #LeanProver #Math
 
