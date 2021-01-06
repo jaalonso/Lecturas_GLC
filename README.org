@@ -16,6 +16,17 @@ contenido.
 
 ** Enero de 2021
 
+*** 05-Ene-21
++ [[https://arxiv.org/abs/2101.00127][Formalizing Hall's Marriage Theorem in Lean]]. ~ Alena Gusakov, Bhavik Mehta, Kyle A. Miller. #ITP #LeanProver #Math
++ [[https://doisinkidney.com/pdfs/masters-thesis.pdf][Finiteness in cubical type theory]]. ~ Donnacha Oisín Kidney (@oisdk). #MSc_Thesis #ITP #Agda #HoTT
++ [[https://youtu.be/UeGvhfW1v9M][An overview of Lean 4]]. ~ Leonardo de Moura, Sebastian Ullrich. #ITP #LeanProver
++ [[https://leanprover-community.github.io/lt2021/slides/floris-measure.pdf][Measure theory in Lean [slides]]]. ~ Floris van Doorn. #ITP #LeanProver #Math
++ [[https://youtu.be/yH3-zE0bYCU][Measure theory in Lean [video]]]. ~ Floris van Doorn. #ITP #LeanProver #Math
++ [[https://www.haskellforall.com/2021/01/the-visitor-pattern-is-essentially-same.html][The visitor pattern is essentially the same thing as Church encoding]]. ~ Gabriel Gonzalez (@GabrielG439). #Haskell #FunctionalProgramming
++ [[http://www.cs.nott.ac.uk/~pszgmh/123.pdf][Functional Pearl: It’s easy as 1,2,3]]. ~ Graham Hutton. #Haskell #FunctionalProgramming
++ [[https://iokasimov.github.io/posts/2021/01/composable-monad-transformers][Trying to compose non-composable: monads]]. ~ Murat Kasimov. #Haskell #FunctionalProgramming
++ [[https://youtu.be/l13D-CcwM5A][Learning TypeFamilies together! ~  Flavio Corpa (@FlavioCorpa)]]. #Haskell #FunctionalProgramming
+
 *** 04-Ene-21
 + [[http://ceur-ws.org/Vol-2710/paper21.pdf][Tautology checkers in Isabelle and Haskell]]. ~ Jørgen Villadsen. #Logic #ITP #IsabelleHOL #Haskell #FunctionalProgramming
 + [[http://ceur-ws.org/Vol-2710/paper13.pdf][Theorem proving for Lewis logics of counterfactual reasoning]]. ~ Marianna Girlando, Bjoern Lellmann, Nicola Olivetti, Stefano Pesce, Gian Luca Pozzato. #ATP #Logic #Prolog #LogicProgramming
