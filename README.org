@@ -16,6 +16,15 @@ contenido.
 
 ** Enero de 2021
 
+*** 06-Ene-21
++ [[https://www.cs.rice.edu/~vardi/papers/SATSolvers21.pdf][On the unreasonable effectiveness of SAT Solvers]]. ~ Vijay Ganesh, Moshe Y. Vardi. #Logic #ATP #SAT_Solvers
++ [[https://github.com/bhgomes/lean-riemann-hypothesis][Riemann Hypothesis in Lean]]. ~ Brandon H. Gomes (@brandonhgomes), Alex Kontorovich. #ITP #LeanProver #Math
++ [[https://leanprover-community.github.io/lt2021/slides/Macbeth-slides.pdf][An example of a manifold [Slides]]]. ~ Heather Macbeth. #ITP #LeanProver #Math
++ [[https://youtu.be/deppJ2q_5a0][An example of a manifold [Video]]]. ~ Heather Macbeth. #ITP #LeanProver #Math
++ [[http://maude.cs.illinois.edu/w/images/7/70/Maude-tapas.pdf][Symbolic computation in Maude: Some tapas]]. ~ José Meseguer. #ITP #Maude
++ [[https://serokell.io/blog/compile-time-evaluation-haskell][Compile-time evaluation in Haskell]]. ~ Vladislav Zavialov. #Haskell #FunctionalProgramming
++ [[https://rjlipton.wordpress.com/2021/01/05/predictions-for-2021/][Predictions for 2021]]. | Gödel’s Lost Letter and P = NP. ~ R.J. Lipton & K.W. Regan. #CompSci
+
 *** 05-Ene-21
 + [[https://arxiv.org/abs/2101.00127][Formalizing Hall's Marriage Theorem in Lean]]. ~ Alena Gusakov, Bhavik Mehta, Kyle A. Miller. #ITP #LeanProver #Math
 + [[https://doisinkidney.com/pdfs/masters-thesis.pdf][Finiteness in cubical type theory]]. ~ Donnacha Oisín Kidney (@oisdk). #MSc_Thesis #ITP #Agda #HoTT
