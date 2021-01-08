@@ -16,6 +16,15 @@ contenido.
 
 ** Enero de 2021
 
+*** 07-Ene-21
++ [[https://www.cs.utexas.edu/users/moore/publications/acl2-induction-heuristics.pdf][ACL2 induction heuristics]]. ~ J Strother Moore. #ITP #ACL2
++ [[https://youtu.be/cLuEaAsUvL4][Word problem for one-relator groups]]. ~ Chris Hughes. #ITP #LeanProver #Math
++ [[https://github.com/gihanmarasingha/mth1001_tutorial][A Lean introduction to pure mathematics]]. ~ Gihan Marasingha (@gihanmarasingha). #ITP #LeanProver #Logic #Math
++ [[https://github.com/gihanmarasingha/mth1001_sphinx][MTH1001 (Mathematical structures) in Lean]]. ~ Gihan Marasingha (@gihanmarasingha). #ITP #LeanProver #Logic #Math
++ [[https://github.com/gihanmarasingha/ems_reals][EMS reals (A project for investigating the real number system via the interactive theorem prover Lean)]]. ~ Gihan Marasingha (@gihanmarasingha). #ITP #LeanProver #Logic #Math
++ [[https://people.mpi-sws.org/~eva/papers/cpp2021.pdf][Lassie: HOL4 tactics by example]]. ~ Heiko Becker et als.. #ITP #HOL4
++ [[https://gupea.ub.gu.se/bitstream/2077/67193/1/gupea_2077_67193_1.pdf][Formalizing domain models of the typed and the untyped lambda calculus in Agda]]. ~ David Lidell. #MSc_Thesis #ITP #Agda
+
 *** 06-Ene-21
 + [[https://www.cs.rice.edu/~vardi/papers/SATSolvers21.pdf][On the unreasonable effectiveness of SAT Solvers]]. ~ Vijay Ganesh, Moshe Y. Vardi. #Logic #ATP #SAT_Solvers
 + [[https://github.com/bhgomes/lean-riemann-hypothesis][Riemann Hypothesis in Lean]]. ~ Brandon H. Gomes (@brandonhgomes), Alex Kontorovich. #ITP #LeanProver #Math
