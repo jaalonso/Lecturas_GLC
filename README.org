@@ -16,6 +16,18 @@ contenido.
 
 ** Enero de 2021
 
+*** 08-Ene-21
++ [[https://youtu.be/eSXiClL4COw][LeanStep: a dataset and environment for (interactive) neural theorem proving [Video]]]. ~ Jason Rute. #ITP #Leanprover #MachineLearning
++ [[https://docs.google.com/presentation/d/1poOu2gP9mSGAdAFvOupHvf4tpgD33jACQLJAVcphA1g/edit?usp=sharing][LeanStep: a dataset and environment for (interactive) neural theorem proving [Slides]]]. ~ Jason Rute. #ITP #Leanprover #MachineLearning
++ [[https://arxiv.org/abs/2101.02690][Theorem proving and algebra]]. ~ Joseph A. Goguen. #eBook #ITP #Math
++ [[https://www.michaelpj.com/blog/2021/01/02/elementary-programming.html][Elementary programming]]. ~ Michael Peyton Jones. #Haskell #Programming
++ [[https://well-typed.com/blog/2021/01/first-look-at-hi-profiling-mode/][A first look at info table profiling]]. ~ Matthew Pickering, David Eichmann. #Haskell #FunctionalProgramming
++ [[https://oleg.fi/gists/posts/2021-01-07-discrimination-benchmarks.html][Benchmarks of discrimination package]]. ~ Oleg Grenrus (@phadej).  #Haskell #FunctionalProgramming
++ [[https://www.metalevel.at/prolog/clpz][CLP(FD) and CLP(ℤ): Prolog integer arithmetic]]. ~ Markus Triska (@MarkusTriska). #Prolog #LogicProgramming #CLP
++ [[https://eclipseclp.org/doc/tutorial.pdf][ECLIPSE (A tutorial introduction)]]. ~ Andrew M. Cheadle et als. #Prolog #LogicProgramming #CLP
++ [[https://www.cs.us.es/~jalonso/cursos/d-pl-03/temas/tema-8.pdf][Programación lógica con restricciones]]. #Prolog #CLP
++ [[https://www.cs.us.es/~jalonso/apuntes/Soluciones_logicas_de_problemas_logicos/Tema_2.html][Soluciones lógicas de problemas lógicos]]. #Prolog #ProgramaciónLógica #CLP
+
 *** 07-Ene-21
 + [[https://www.cs.utexas.edu/users/moore/publications/acl2-induction-heuristics.pdf][ACL2 induction heuristics]]. ~ J Strother Moore. #ITP #ACL2
 + [[https://youtu.be/cLuEaAsUvL4][Word problem for one-relator groups]]. ~ Chris Hughes. #ITP #LeanProver #Math
