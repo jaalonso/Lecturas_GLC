@@ -16,6 +16,18 @@ contenido.
 
 ** Enero de 2021
 
+*** 09-Ene-15
++ [[https://arxiv.org/abs/2101.02602][Schemes in Lean]]. ~ Kevin Buzzard, Chris Hughes, Kenny Lau, Amelia Livingston, Ramon Fernández Mir, Scott Morrison. #ITP #LeanProver #Math
++ [[https://user.informatik.uni-bremen.de/fritjof/pdfs/performance-aspects-of-correctness-oriented-synthesis-flows.pdf][Performance aspects of correctness-oriented synthesis flows]]. ~ F. Bornebusch, C. Lüth, R. Wille, R. Drechsler. #ITP #Coq
++ [[https://hal.archives-ouvertes.fr/hal-03096253/document][An anti-locally-nameless approach to formalizing quantifiers]]. ~ Olivier Laurent. #ITP #Coq
++ [[https://arxiv.org/abs/2009.13761][Formal verification of arithmetic RTL: Translating Verilog to C++ to ACL2]]. ~ David M. Russinoff. #ITP #ACL2
++ [[http://www.cs.ru.nl/~freek/100][Formalizing 100 theorems]]. ~ Freek Wiedijk. #ITP #Math
++ [[https://leanprover-community.github.io/100.html][Formalizing 100 theorems in Lean]]. #ITP #Math #LeanProver
++ [[https://github.com/effectfully/sketches/tree/master/trouble-in-paradise-fibonacci][Trouble in paradise: Fibonacci]]. #Haskell #FunctionalProgramming
++ [[https://oleg.fi/gists/posts/2021-01-08-indexed-optics-dilemma.html][Indexed optics dilemma]]. ~ Oleg Grenrus (@phadej). #Haskell #FunctionalProgramming
++ [[https://jsannemo.se/aps.pdf][Algorithmic problem solving]]. ~ Johan Sannemo. #eBook #Programming #Algorithms
++ [[https://www.gaussianos.com/la-saga-del-infinito-de-mates-mike/][La saga del infinito, de Mates Mike]]. ~ M.A. Morales (@gaussianos). #Matemáticas
+
 *** 08-Ene-21
 + [[https://youtu.be/eSXiClL4COw][LeanStep: a dataset and environment for (interactive) neural theorem proving [Video]]]. ~ Jason Rute. #ITP #Leanprover #MachineLearning
 + [[https://docs.google.com/presentation/d/1poOu2gP9mSGAdAFvOupHvf4tpgD33jACQLJAVcphA1g/edit?usp=sharing][LeanStep: a dataset and environment for (interactive) neural theorem proving [Slides]]]. ~ Jason Rute. #ITP #Leanprover #MachineLearning
