@@ -16,6 +16,12 @@ contenido.
 
 ** Enero de 2021
 
+*** 10-Ene-15
++ [[https://github.com/mhk119/fibonacci_squares][144 is the largest square in the Fibonacci Sequence (A formalisation of Cohn's Proof)]]. ~ Harun Khan #ITP #LeanProver #Math via @XenaProject
++ [[https://github.com/Lix0120/eudoxus/][The Eudoxus real numbers in Lean]]. ~ Xiang Li. #ITP #LeanProver #Math via @XenaProject
++ [[http://wwwf.imperial.ac.uk/~buzzard/xena/pdfs/Set_theory_Type_Theory_and_the_future_of_Proof_verification_software.pdf][Set theory, type theory and the future of proof verification software]]. ~ James Palmer. #ITP #LeanProver #Math via @XenaProject
++ [[https://github.com/mdickinson/snippets/blob/master/proofs/isqrt/src/isqrt.lean][A formal proof of correctness of a recursive integer square root algorithm]]. ~ Mark Dickinson. #ITP #LeanProver #Math
+
 *** 09-Ene-15
 + [[https://arxiv.org/abs/2101.02602][Schemes in Lean]]. ~ Kevin Buzzard, Chris Hughes, Kenny Lau, Amelia Livingston, Ramon Fernández Mir, Scott Morrison. #ITP #LeanProver #Math
 + [[https://user.informatik.uni-bremen.de/fritjof/pdfs/performance-aspects-of-correctness-oriented-synthesis-flows.pdf][Performance aspects of correctness-oriented synthesis flows]]. ~ F. Bornebusch, C. Lüth, R. Wille, R. Drechsler. #ITP #Coq
