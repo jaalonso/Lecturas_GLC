@@ -16,6 +16,13 @@ contenido.
 
 ** Enero de 2021
 
+*** 11-Ene-15
++ [[https://youtu.be/k-YncL7Cd4Q][Formalizing the ring of Witt vectors]]. ~ Robert Y. Lewis. #ITP #LeanProver #Math
++ [[http://eptcs.web.cse.unsw.edu.au/paper.cgi?LFMTP2020.1.pdf][Mechanisation of model-theoretic conservative extension for HOL with ad-hoc overloading]]. ~ Arve Gengelbach, Johannes Åman Pohjola, Tjark Weber. #ITP #HOL4
++ [[http://eptcs.web.cse.unsw.edu.au/paper.cgi?LFMTP2020.2.pdf][Object-level reasoning with logics encoded in HOL Light]]. ~ Petros Papapanagiotou, Jacques Fleuriot. #ITP #HOL_Light #Logic
++ [[http://eptcs.web.cse.unsw.edu.au/paper.cgi?LFMTP2020.3.pdf][Deductive systems and coherence for skew prounital closed categories]]. ~ Tarmo Uustalu, Niccolò Veltri, Noam Zeilberger. #ITP #Agda
++ [[https://www.foxhound.systems/blog/why-haskell-for-production/][Why Haskell is our first choice for building production software systems]]. ~ Christian Charukiewicz (@charukiewicz). #Haskell #FunctionalProgramming
+
 *** 10-Ene-15
 + [[https://github.com/mhk119/fibonacci_squares][144 is the largest square in the Fibonacci Sequence (A formalisation of Cohn's Proof)]]. ~ Harun Khan #ITP #LeanProver #Math via @XenaProject
 + [[https://github.com/Lix0120/eudoxus/][The Eudoxus real numbers in Lean]]. ~ Xiang Li. #ITP #LeanProver #Math via @XenaProject
