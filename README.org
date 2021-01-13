@@ -16,6 +16,16 @@ contenido.
 
 ** Enero de 2021
 
+*** 12-Ene-21
++ [[http://alexjbest.github.io/talks/lean-generalisation][Automatically generalising theorems using typeclasses in Lean [Slides]]]. ~ Alex  J. Best./#/#ITP #LeanProver #Math
++ [[https://bostonu.zoom.us/rec/play/yPZ5hwU7T5C2wwAUYMKEwed7Y83lsvPEci6CP-AiIel8A9u05OHbOLcAy-mi__tqgg3vBDvhXc4wVY_p.B9N6zDkf2SMpf2Nh?startTime=1609940780000][Automatically generalising theorems using typeclasses in Lean [Video]]]. ~ Alex J. Best. #ITP #LeanProver #Math
++ [[http://eptcs.web.cse.unsw.edu.au/paper.cgi?LFMTP2020.4.pdf][Implementation of two layers type theory in Dedukti and application to Cubical Type Theory]]. ~ Bruno Barras, Valentin Maestracci. #ITP #Dedukti
++ [[https://xenaproject.wordpress.com/2021/01/12/lean-together-2021/][Lean Together 2021]]. ~ Kevin Buzzard (@XenaProject). #ITP #LeanProver #Math
++ [[https://arxiv.org/abs/2005.07059][Formalizing category theory in Agda]]. ~ Jason Z.S. Hu, Jacques Carette. #ITP #Agda #CategoryTheory #Math
++ [[https://shemesh.larc.nasa.gov/people/amd/publications/CPP2021-SAS_RA-draft.pdf][Formal verification of semi-algebraic sets and real analytic functions]]. ~ J. Tanner Slagel, Lauren White, Aaron Dutle. #ITP #PVS #Math
++ [[https://www.dropbox.com/s/q1whqz0v2c0falm/CPP2021-Kolmogorov-complexity.pdf?dl=0][On the formalisation of Kolmogorov complexity]]. ~ Elliot Catt, Michael Norrish. #ITP #HOL4
++ [[https://melkornemesis.medium.com/haskell-explained-3f91658a67d3][Haskell: (.) . (.) explained (Let’s get a grasp of composition equivalences in Haskell)]]. #Haskell #FunctionalProgramming
+
 *** 11-Ene-15
 + [[https://youtu.be/k-YncL7Cd4Q][Formalizing the ring of Witt vectors]]. ~ Robert Y. Lewis. #ITP #LeanProver #Math
 + [[http://eptcs.web.cse.unsw.edu.au/paper.cgi?LFMTP2020.1.pdf][Mechanisation of model-theoretic conservative extension for HOL with ad-hoc overloading]]. ~ Arve Gengelbach, Johannes Åman Pohjola, Tjark Weber. #ITP #HOL4
