@@ -16,6 +16,13 @@ contenido.
 
 ** Enero de 2021
 
+*** 13-Ene-21
++ [[https://www.cs.au.dk/~birke/papers/2021-ms-queue.pdf][Contextual refinement of the Michael-Scott queue (Proof pearl)]]. ~ Simon Friis Vindum, Lars Birkedal. #ITP #Coq
++ [[https://cs.au.dk/~birke/papers/2021-monotone.pdf][Reasoning about monotonicity in separation logic]]. ~ Amin Timany, Lars Birkedal. #ITP #Coq
++ [[https://www-verimag.imag.fr/~monin/Publis/Docs/datalog-cpp21.pdf][Developing and certifying Datalog optimizations in Coq/MathComp]]. ~ Pierre-Léo Bégay, Pierre Crégut, Jean-François Monin. #ITP #Coq
++ [[http://cl-informatik.uibk.ac.at/isafor/papers/cpp2021.pdf][An Isabelle/HOL formalization of AProVE's termination method for LLVM IR]]. ~ Max W. Haslbeck, René Thiemann. #ITP #IsabelleHOL #Haskell
++ [[https://link.springer.com/article/10.1007/s10817-020-09584-7][Certified quantum computation in Isabelle/HOL]]. ~ Anthony Bordg, Hanna Lachnitt, Yijun He. #ITP #IsabelleHOL
+
 *** 12-Ene-21
 + [[http://alexjbest.github.io/talks/lean-generalisation][Automatically generalising theorems using typeclasses in Lean [Slides]]]. ~ Alex  J. Best./#/#ITP #LeanProver #Math
 + [[https://bostonu.zoom.us/rec/play/yPZ5hwU7T5C2wwAUYMKEwed7Y83lsvPEci6CP-AiIel8A9u05OHbOLcAy-mi__tqgg3vBDvhXc4wVY_p.B9N6zDkf2SMpf2Nh?startTime=1609940780000][Automatically generalising theorems using typeclasses in Lean [Video]]]. ~ Alex J. Best. #ITP #LeanProver #Math
