@@ -16,6 +16,14 @@ contenido.
 
 ** Enero de 2021
 
+*** 14-Ene-21
++ [[http://cl-informatik.uibk.ac.at/software/fortissimo/cpp2021/paper.pdf][A verified decision procedure for the first-order theory of rewriting for linear variable-separated rewrite systems]]. ~ Alexander Lochmann, Aart Middeldorp, Fabian Mitterwallner, Bertram Felgenhauer. #ITP #IsabelleHOL
++ [[https://arxiv.org/abs/1911.00385][A formal proof of PAC learnability for decision stumps]]. ~ Joseph Tassarotti, Koundinya Vajjha, Anindya Banerjee, Jean-Baptiste Tristan. #ITP #LeanProver
++ [[https://github.com/leanprover-community/mathlib/blob/1509c2950946374803b265830452880816e0f0c1/archive/100-theorems-list/83_friendship_graphs.lean][The friendship theorem in Lean]]. ~ Aaron Anderson. #ITP #LeanProver #Math
++ [[https://arxiv.org/abs/2009.11403][CertRL: Formalizing convergence proofs for value and policy iteration in Coq]]. ~ Koundinya Vajjha, Avraham Shinnar, Vasily Pestun, Barry Trager, Nathan Fulton. #ITP #Coq
++ [[https://github.com/math-comp/Abel][Abel-Ruffini Theorem as a Mathematical Component]]. ~ Sophie Bernard, Cyril Cohen, Assia Mahboubi, Pierre-Yves Strub. #ITP #Coq #Math
++ [[https://cronokirby.com/posts/2021/01/making-an-io/][Making an IO]]. ~ Lúcás Meier (@cronokirby). #Haskell #FunctionalProgramming
+
 *** 13-Ene-21
 + [[https://www.cs.au.dk/~birke/papers/2021-ms-queue.pdf][Contextual refinement of the Michael-Scott queue (Proof pearl)]]. ~ Simon Friis Vindum, Lars Birkedal. #ITP #Coq
 + [[https://cs.au.dk/~birke/papers/2021-monotone.pdf][Reasoning about monotonicity in separation logic]]. ~ Amin Timany, Lars Birkedal. #ITP #Coq
