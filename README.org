@@ -16,6 +16,18 @@ contenido.
 
 ** Enero de 2021
 
+*** 15-Ene-21
++ [[https://vaibhavkarve.github.io/leanteach_2020.html][Axiomatic Geometry in Lean]]. ~ Vaibhav Karve, Lawrence Zhao, Edward Kong, Alex Dolcos, Nicholas Phillips. #ITP #LeanProver #Math
++ [[https://youtu.be/K-kLck8BvDM][Axiomatic Geometry in Lean [Video]]]. ~ Vaibhav Karve. #ITP #LeanProver #Math
++ [[https://github.com/vaibhavkarve/leanteach2020][Axiomatic Geometry in Lean [Code]]]. ~ Vaibhav Karve, Lawrence Zhao, Edward Kong, Alex Dolcos, Nicholas Phillips. #ITP #LeanProver #Math
++ [[https://arxiv.org/abs/2101.05678][Lebesgue integration]]. (Detailed proofs to be formalized in Coq). ~ François Clément, Vincent Martin. #ITP #Coq #Math
++ [[https://juliu.is/permutate-parsers/][Permutate parsers, don't validate]]. ~ Ju Liu (@arkh4m). #Haskell #FunctionalProgramming
++ [[https://youtu.be/9zuAsGk9xoM][An introduction to ghc-debug: precise memory analysis for Haskell programs]]. ~  Matthew Pickering. #Haskell #FunctionalProgramming
++ [[https://tek.brick.do/a6d9388a-208e-4b18-a219-85457faf69aa][Why exactly I want Boring Haskell to happen]]. ~ Artyom Kazak (@availablegreen). #Haskell #FunctionalProgramming
++ [[https://medium.com/cantors-paradise/beginners-guide-to-mathematical-constructivism-4015ca66825d][Beginner’s guide to mathematical constructivism]]. ~ Jan Gronwald. #Math
++ [[https://interstices.info/en-toute-logique-une-origine-de-lordinateur/][En toute logique: une origine de l’ordinateur]]. ~ Frédéric Prost. #Logic #CompSci
++ [[https://notxor.nueva-actitud.org/2021/01/13/publicar-html-con-org-mode.html][Publicar HTML con Org-Mode]]. #Emacs #OrgMode
+
 *** 14-Ene-21
 + [[http://cl-informatik.uibk.ac.at/software/fortissimo/cpp2021/paper.pdf][A verified decision procedure for the first-order theory of rewriting for linear variable-separated rewrite systems]]. ~ Alexander Lochmann, Aart Middeldorp, Fabian Mitterwallner, Bertram Felgenhauer. #ITP #IsabelleHOL
 + [[https://arxiv.org/abs/1911.00385][A formal proof of PAC learnability for decision stumps]]. ~ Joseph Tassarotti, Koundinya Vajjha, Anindya Banerjee, Jean-Baptiste Tristan. #ITP #LeanProver
