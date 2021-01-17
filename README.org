@@ -16,6 +16,12 @@ contenido.
 
 ** Enero de 2021
 
+*** 16-Ene-21
++ [[https://youtu.be/pMCZFrii4lA][Model theory in Lean]]. ~ Vaibhav Karve. #ITP #LeanProver #Logic
++ [[http://people.rennes.inria.fr/Assia.Mahboubi/assia_hdr_thesis.pdf][Machine-checked computer-aided mathematics]]. ~ Assia Mahboubi. #ITP #Coq #Math
++ [[https://martin.desharnais.me/public/documents/cpp2021-Dyn-Inca-Ubx.pdf][Towards efficient and verified virtual machines for dynamic languages]]. ~ Martin Desharnais, Stefan Brunthaler. #ITP #IsabelleHOL
++ [[https://youtu.be/wOQuW6QFdos][From Aristotle to the iPhone]]. ~ Moshe Y. Vardi (@vardi). #Logic #CompSci
+
 *** 15-Ene-21
 + [[https://vaibhavkarve.github.io/leanteach_2020.html][Axiomatic Geometry in Lean]]. ~ Vaibhav Karve, Lawrence Zhao, Edward Kong, Alex Dolcos, Nicholas Phillips. #ITP #LeanProver #Math
 + [[https://youtu.be/K-kLck8BvDM][Axiomatic Geometry in Lean [Video]]]. ~ Vaibhav Karve. #ITP #LeanProver #Math
