@@ -16,6 +16,12 @@ contenido.
 
 ** Enero de 2021
 
+*** 17-Ene-21
++ [[https://leanprover-community.github.io/lt2021/slides/paula-LeanTogether2021.pdf][Results in modal and dynamic epistemic logic (A formalization in Lean) [Slides]]]. ~ Paula Neeley. #ITP #LeanProver #Logic
++ [[https://youtu.be/kXCB5wzQTKc][Results in modal and dynamic epistemic logic (A formalization in Lean) [Video]]]. ~ Paula Neeley. #ITP #LeanProver #Logic
++ [[https://github.com/paulaneeley/modal][Results in modal and dynamic epistemic logic (A formalization in Lean) [Repo]]]. ~ Paula Neeley. #ITP #LeanProver #Logic
++ [[https://blog.poisson.chat/posts/2021-01-16-dependent-fcfs.html][Defunctionalizing dependent type families in Haskell]]. ~ Li-yao Xia (@lysxia). #Haskell #FunctionalProgramming
+
 *** 16-Ene-21
 + [[https://youtu.be/pMCZFrii4lA][Model theory in Lean]]. ~ Vaibhav Karve. #ITP #LeanProver #Logic
 + [[http://people.rennes.inria.fr/Assia.Mahboubi/assia_hdr_thesis.pdf][Machine-checked computer-aided mathematics]]. ~ Assia Mahboubi. #ITP #Coq #Math
