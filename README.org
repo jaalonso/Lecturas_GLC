@@ -16,6 +16,12 @@ contenido.
 
 ** Enero de 2021
 
+*** 18-Ene-21
++ [[https://leanprover-community.github.io/lt2021/slides/thomas-LT2021-Galois-Theory.pdf][Formalizing Galois Theory in Lean [Slides]]]. ~ Thomas Browning, Patrick Lutz. #ITP #LeanProver #Math
++ [[https://youtu.be/-6z6qTD_vv8][Formalizing Galois Theory in Lean [Vídeo]]]. ~ Thomas Browning, Patrick Lutz. #ITP #LeanProver #Math
++ [[https://bit.ly/2XPH8Iq][Las Matemáticas son suficientes para mí]]. ~ Juan Arias de Reyna. #Matemáticas
++ [[https://alhassy.github.io/org-special-block-extras][org-special-block-extras (A unified interface for special blocks and links: defblock)]]. ~ Musa Al-hassy./#Judgements-Inference-rules-and-proof-trees #Emacs #OrgMode
+
 *** 17-Ene-21
 + [[https://leanprover-community.github.io/lt2021/slides/paula-LeanTogether2021.pdf][Results in modal and dynamic epistemic logic (A formalization in Lean) [Slides]]]. ~ Paula Neeley. #ITP #LeanProver #Logic
 + [[https://youtu.be/kXCB5wzQTKc][Results in modal and dynamic epistemic logic (A formalization in Lean) [Video]]]. ~ Paula Neeley. #ITP #LeanProver #Logic
