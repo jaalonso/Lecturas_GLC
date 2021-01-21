@@ -16,6 +16,10 @@ contenido.
 
 ** Enero de 2021
 
+*** 20-Ene-21
++ [[https://raw.githubusercontent.com/DSLsofMath/DSLsofMath/master/L/snapshots/DSLsofMathBook_snapshot_2021-01-17.pdf][Domain-specific languages of Mathematics [Draft of January 17, 2021]]]. ~ Patrik Jansson (@patrikja), Cezar Ionescu, Jean-Philippe Bernardy. #Haskell #FunctionalProgramming #Math
++ [[https://github.com/DSLsofMath/DSLsofMath][DSLsofMath: Domain-specific languages of Mathematics [Repo]]]. ~ Patrik Jansson (@patrikja) et als. #Haskell #FunctionalProgramming #Math
+
 *** 19-Ene-21
 + [[https://youtu.be/S4xl0CtJIb4][A novice-friendly induction tactic for Lean]]. ~ Jannis Limperg. #ITP #LeanProver
 + [[https://bor0.wordpress.com/2021/01/18/towards-hoare-logic-for-a-small-imperative-language-in-haskell/][Towards Hoare logic for a small imperative language in Haskell]]. ~ Boro Sitnikovski (@BSitnikovski). #Haskell #FunctionalProgramming
