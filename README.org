@@ -16,6 +16,9 @@ contenido.
 
 ** Enero de 2021
 
+*** 22-Ene-21
++ [[https://www.lambdabytes.io/posts/teachinghaskell/][Teaching Haskell means teaching important concepts]]. ~ Jonathan Thaler (@JonathanThaler). #Haskell #FunctionalProgramming
+
 *** 21-Ene-21
 + [[https://xenaproject.wordpress.com/2021/01/21/formalising-mathematics-an-introduction/][Formalising mathematics: an introduction]]. ~ Kevin Buzzard (@XenaProject). #ITP #LeanProver #Math
 + [[https://maksbotan.github.io/posts/2021-01-20-callstacks.html][Capturing call stack with Haskell exceptions]]. ~ Maxim Koltsov (@maksbotan). #Haskell #FunctionalProgramming
