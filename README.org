@@ -16,6 +16,13 @@ contenido.
 
 ** Enero de 2021
 
+*** 23-Ene-21
++ [[https://youtu.be/4d6B1C0wuaE][Las bases matemáticas de la programación funcional]]. ~ Héctor Iván Patricio Moreno. #ProgramaciónFuncional
++ [[https://arxiv.org/abs/2101.06759][Proceedings of the 2020 Scheme and Functional Programming Workshop]]. #FunctionalProgramming
++ [[https://arxiv.org/abs/2101.06317][Machine-learning mathematical structures]]. ~ Yang-Hui He. #MachineLearning #Math
++ [[https://www.nature.com/articles/d41586-021-00075-2][Ten computer codes that transformed science]]. ~ Jeffrey M. Perkel. #CompSci via @vardi
++ [[https://notxor.nueva-actitud.org/2021/01/22/tablas-para-calculos-en-org-mode.html][Tablas para cálculos en org-mode]]. #Emacs #OrgMode
+
 *** 22-Ene-21
 + [[https://www.lambdabytes.io/posts/teachinghaskell/][Teaching Haskell means teaching important concepts]]. ~ Jonathan Thaler (@JonathanThaler). #Haskell #FunctionalProgramming
 
