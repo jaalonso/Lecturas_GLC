@@ -16,6 +16,10 @@ contenido.
 
 ** Enero de 2021
 
+*** 24-Ene-21
++ [[https://www.johndcook.com/blog/2021/01/23/sums-of-consecutive-reciprocals/][Sums of consecutive reciprocals]]. ~ John D. Cook (@JohnDCook). #Math
++ [[https://republicaweb.es/podcast/descubriendo-la-programacion-funcional-lisp-con-diego-sevilla/][Descubriendo la programación funcional: Lisp con Diego Sevilla (@diegosevilla)]]. #Lisp #CommonLisp #ProgramaciónFuncional12
+
 *** 23-Ene-21
 + [[https://youtu.be/4d6B1C0wuaE][Las bases matemáticas de la programación funcional]]. ~ Héctor Iván Patricio Moreno. #ProgramaciónFuncional
 + [[https://arxiv.org/abs/2101.06759][Proceedings of the 2020 Scheme and Functional Programming Workshop]]. #FunctionalProgramming
