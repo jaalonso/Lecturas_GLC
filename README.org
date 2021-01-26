@@ -16,6 +16,9 @@ contenido.
 
 ** Enero de 2021
 
+*** 25-Ene-21
++ [[https://xenaproject.wordpress.com/2021/01/24/formalising-mathematics-workshop-1][Formalising mathematics: workshop 1]]. ~ Kevin Buzzard (@XenaProject). #ITP #LeanProver #Math
+
 *** 24-Ene-21
 + [[https://www.johndcook.com/blog/2021/01/23/sums-of-consecutive-reciprocals/][Sums of consecutive reciprocals]]. ~ John D. Cook (@JohnDCook). #Math
 + [[https://republicaweb.es/podcast/descubriendo-la-programacion-funcional-lisp-con-diego-sevilla/][Descubriendo la programación funcional: Lisp con Diego Sevilla (@diegosevilla)]]. #Lisp #CommonLisp #ProgramaciónFuncional12
