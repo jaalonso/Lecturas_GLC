@@ -16,6 +16,9 @@ contenido.
 
 ** Enero de 2021
 
+*** 27-Ene-21
++ [[https://github.com/leanprover-community/mathlib/blob/1eb1293706c569ef94776d63fd4900923cc66270/archive/imo/imo2011_q3.lean][IMO 2011 Q3 in Lean]]. ~ David Renshaw. #ITP #LeanProver #Math
+
 *** 26-Ene-21
 + [[https://dl.acm.org/doi/pdf/10.1145/3437992.3439910][Teaching algorithms and data structures with a proof assistant]]. ~ Tobias Nipkow. #ITP #IsabelleHOL
 + [[https://lmcs.episciences.org/7124/pdf][2-Adjoint equivalences in Homotopy Type Theory]]. ~ Daniel Carranza, Jonathan Chang, Krzysztof Kapulkin, Ryan Sandford. #ITP #LeanProver #HoTT
