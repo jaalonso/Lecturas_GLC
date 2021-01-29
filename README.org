@@ -16,6 +16,11 @@ contenido.
 
 ** Enero de 2021
 
+*** 28-Ene-21
++ [[https://github.com/leanprover-community/mathlib/blob/6585eff99deca6bb21ae0c84c5c7b609c0406189/archive/imo/imo2013_q5.lean][IMO 2013 Q5 in Lean]]. ~ David Renshaw. #ITP #LeanProver #Math
++ [[https://arxiv.org/abs/2101.11501][Evolution of artificial intelligence languages, a systematic literature review]]. ~ Emmanuel Adetiba, Temitope John, Adekunle Akinrinmade, Funmilayo Moninuola, Oladipupo Akintade, Joke Badejo. #AI #Programming
++ [[https://tecdigital.tec.ac.cr/revistamatematica/Libros/LaTeX/LaTeX_2018.pdf][Edición de textos científicos con LaTeX]]. (Composición, gráficos, Inkscape, Tikz y presentaciones Beamer). ~ Alexánder Borbón, Walter Mora. #LaTeX
+
 *** 27-Ene-21
 + [[https://github.com/leanprover-community/mathlib/blob/1eb1293706c569ef94776d63fd4900923cc66270/archive/imo/imo2011_q3.lean][IMO 2011 Q3 in Lean]]. ~ David Renshaw. #ITP #LeanProver #Math
 
