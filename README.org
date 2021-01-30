@@ -16,6 +16,12 @@ contenido.
 
 ** Enero de 2021
 
+*** 29-Ene-21
++ [[https://xenaproject.wordpress.com/2021/01/28/formalising-mathematics-workshop-2][Formalising mathematics: Workshop 2 (Groups and subgroups)]]. ~ Kevin Buzzard (@XenaProject). #ITP #LeanProver #Math
++ [[https://mjj.io/2021/01/26/building-a-passphrase-generator-in-haskell/][Building a passphrase generator in Haskell]]. ~ Mathias Jean Johansen. #Haskell #FunctionalProgramming
++ [[https://youtu.be/g2--VL2SkMo][What do we mean by equality?]] ~ Kevin Buzzard (@XenaProject). #Logic #Math
++ [[https://youtu.be/ehlXpfFuLvI][¿Cuántos infinitos existen?️ El teorema de Cantor]]. ~ Urtzi Buijs (@UrtziBuijs). #Matemáticas
+
 *** 28-Ene-21
 + [[https://github.com/leanprover-community/mathlib/blob/6585eff99deca6bb21ae0c84c5c7b609c0406189/archive/imo/imo2013_q5.lean][IMO 2013 Q5 in Lean]]. ~ David Renshaw. #ITP #LeanProver #Math
 + [[https://arxiv.org/abs/2101.11501][Evolution of artificial intelligence languages, a systematic literature review]]. ~ Emmanuel Adetiba, Temitope John, Adekunle Akinrinmade, Funmilayo Moninuola, Oladipupo Akintade, Joke Badejo. #AI #Programming
