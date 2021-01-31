@@ -16,6 +16,12 @@ contenido.
 
 ** Enero de 2021
 
+*** 30-Ene-21
++ [[https://kilthub.cmu.edu/ndownloader/files/26180729][HELIX: From math to verified code]]. ~ Vadim Zaliva. #PhD_Thesis #ITP #Coq #Math
++ [[https://repository.tudelft.nl/islandora/object/uuid:54b01377-1f79-4758-b79b-4859df05dbd6][Implementing the decomposition of soundness proofs of abstract interpreters in Coq]]. ~ Jens de Waard. #MSc_Thesis #ITP #Coq
++ [[https://arxiv.org/abs/2101.09699][Longest segment of balanced parentheses: an exercise in program inversion in a segment problem (Functional Pearl)]]. ~ Shin-Cheng Mu, Tsung-Ju Chiang. #Haskell #FunctionalProgramming
++ [[https://arxiv.org/abs/2101.09700][A greedy algorithm for dropping digits (Functional Pearl)]]. ~ Richard Bird, Shin-Cheng Mu. #Haskell #FunctionalProgramming
+
 *** 29-Ene-21
 + [[https://xenaproject.wordpress.com/2021/01/28/formalising-mathematics-workshop-2][Formalising mathematics: Workshop 2 (Groups and subgroups)]]. ~ Kevin Buzzard (@XenaProject). #ITP #LeanProver #Math
 + [[https://mjj.io/2021/01/26/building-a-passphrase-generator-in-haskell/][Building a passphrase generator in Haskell]]. ~ Mathias Jean Johansen. #Haskell #FunctionalProgramming
