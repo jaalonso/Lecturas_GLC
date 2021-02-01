@@ -16,6 +16,9 @@ contenido.
 
 ** Enero de 2021
 
+*** 31-Ene-21
++ [[https://www.bbc.com/mundo/noticias-55815156][Paul Cohen, el matemático que por resolver un problema terminó creando dos mundos]]. ~ Dalia Ventura. #Matemáticas
+
 *** 30-Ene-21
 + [[https://kilthub.cmu.edu/ndownloader/files/26180729][HELIX: From math to verified code]]. ~ Vadim Zaliva. #PhD_Thesis #ITP #Coq #Math
 + [[https://repository.tudelft.nl/islandora/object/uuid:54b01377-1f79-4758-b79b-4859df05dbd6][Implementing the decomposition of soundness proofs of abstract interpreters in Coq]]. ~ Jens de Waard. #MSc_Thesis #ITP #Coq
