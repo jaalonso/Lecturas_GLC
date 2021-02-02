@@ -9,10 +9,20 @@ contenido.
 
 * Contenido                                                             :TOC:
 - [[#lecturas-del-año-2021][Lecturas del año 2021]]
+  - [[#febrero-de-2021][Febrero de 2021]]
   - [[#enero-de-2021][Enero de 2021]]
 - [[#lecturas-anteriores][Lecturas anteriores]]
 
 * Lecturas del año 2021
+
+** Febrero de 2021
+
+*** 01-Feb-21
++ [[https://people.mpi-sws.org/~beta/papers/jlamp20.pdf][Verification of dynamic bisimulation theorems in Coq]]. ~ R Fervari, F Trucco, B Ziliani. #ITP #Coq
++ [[https://arxiv.org/abs/2101.11320v1][Tutorial on implementing Hoare logic for imperative programs in Haskell]]. ~ Boro Sitnikovski. #Haskell #FunctionalProgramming
++ [[https://arxiv.org/abs/2101.11421v1][Deriving monadic quicksort (Declarative Pearl)]]. ~ Shin-Cheng Mu, Tsung-Ju Chiang. #Haskell #FunctionalProgramming
+
+
 
 ** Enero de 2021
 
