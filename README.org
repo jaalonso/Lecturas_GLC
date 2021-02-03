@@ -17,6 +17,11 @@ contenido.
 
 ** Febrero de 2021
 
+*** 02-Feb-21
++ [[https://www.isa-afp.org/browser_info/current/AFP/IsaGeoCoq/document.pdf][Tarski's parallel postulate implies the 5th postulate of Euclid, the postulate of Playfair and the original parallel postulate of Euclid]]. ~ Roland Coghetto. #ITP #IsabelleHOL #Math
++ [[https://www.isa-afp.org/entries/Blue_Eyes.html][Solution to the xkcd Blue Eyes puzzle (in Isabelle/HOL)]]. ~ Jakub Kądziołka. #ITP #IsabelleHOL
++ [[https://thma.github.io/posts/2021-01-30-How-QuickCheck-destroyed-my-favourite-theory.html][Proving me wrong (How QuickCheck destroyed my favourite theory)]]. ~ Thomas Mahler. #Haskell #FunctionalProgramming #QuickCheck
+
 *** 01-Feb-21
 + [[https://people.mpi-sws.org/~beta/papers/jlamp20.pdf][Verification of dynamic bisimulation theorems in Coq]]. ~ R Fervari, F Trucco, B Ziliani. #ITP #Coq
 + [[https://arxiv.org/abs/2101.11320v1][Tutorial on implementing Hoare logic for imperative programs in Haskell]]. ~ Boro Sitnikovski. #Haskell #FunctionalProgramming
