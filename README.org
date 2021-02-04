@@ -17,6 +17,10 @@ contenido.
 
 ** Febrero de 2021
 
+*** 03-Feb-21
++ [[https://jonascarpay.com/posts/2021-01-28-haskell-project-template.html][The working programmer’s guide to setting up Haskell projects]]. ~ Jonas Carpay (@jonascarpay). #Haskell #FunctionalProgramming
++ [[https://www.microsiervos.com/archivo/seguridad/cifrado-monjes-cistercienses.html][El cifrado de los monjes cistercienses: de 0000 a 9999 con «símbolos raros»]]. ~ @Alvy. #Matemáticas
+
 *** 02-Feb-21
 + [[https://www.isa-afp.org/browser_info/current/AFP/IsaGeoCoq/document.pdf][Tarski's parallel postulate implies the 5th postulate of Euclid, the postulate of Playfair and the original parallel postulate of Euclid]]. ~ Roland Coghetto. #ITP #IsabelleHOL #Math
 + [[https://www.isa-afp.org/entries/Blue_Eyes.html][Solution to the xkcd Blue Eyes puzzle (in Isabelle/HOL)]]. ~ Jakub Kądziołka. #ITP #IsabelleHOL
