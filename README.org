@@ -17,6 +17,13 @@ contenido.
 
 ** Febrero de 2021
 
+*** 04-Feb-21
++ [[https://xenaproject.wordpress.com/2021/02/04/formalising-mathematics-workshop-3/][Formalising mathematics: Workshop 3 (Limits of sequences)]]. ~ Kevin Buzzard (@XenaProject). #ITP #LeanProver #Math
++ [[https://xenaproject.wordpress.com/2018/08/04/what-is-a-filter-how-some-computer-scientists-think-about-limits/][What is a filter? How some computer scientists think about limits]]. ~ Kevin Buzzard (@XenaProject). #ITP #LeanProver #Math
++ [[https://xenaproject.wordpress.com/2018/08/05/what-is-a-uniform-space-how-some-computer-scientists-think-about-completions/][What is a uniform space? How some computer scientists think about completions]]. ~ Kevin Buzzard (@XenaProject). #ITP #LeanProver #Math
++ [[https://www.researchgate.net/profile/Marco_Bonatto/publication/348662657_Superconnected_left_quasigroups_and_involutory_quandles/links/6009d8bea6fdccdcb86fc158/Superconnected-left-quasigroups-and-involutory-quandles.pdf][Superconnected left quasigroups and involutory quandles]]. ~ Marco Bonatto. #ATP #Prover9 #Math
++ [[https://zacwood.me/posts/haskell-type-application/][Haskell's @ symbol - Type application]]. ~ Zac Wood. #Haskell #FunctionalProgramming
+
 *** 03-Feb-21
 + [[https://jonascarpay.com/posts/2021-01-28-haskell-project-template.html][The working programmer’s guide to setting up Haskell projects]]. ~ Jonas Carpay (@jonascarpay). #Haskell #FunctionalProgramming
 + [[https://www.microsiervos.com/archivo/seguridad/cifrado-monjes-cistercienses.html][El cifrado de los monjes cistercienses: de 0000 a 9999 con «símbolos raros»]]. ~ @Alvy. #Matemáticas
