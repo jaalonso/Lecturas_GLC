@@ -17,6 +17,11 @@ contenido.
 
 ** Febrero de 2021
 
+*** 05-Feb-21
++ [[https://arxiv.org/abs/2102.02627][Formalising a Turing-complete choreographic language in Coq]]. ~ Luís Cruz-Filipe, Fabrizio Montesi, Marco Peressotti. #ITP #Coq
++ [[https://arxiv.org/abs/2102.02600][A formalization of Dedekind domains and class groups of global fields]]. ~ Anne Baanen, Sander R. Dahmen, Ashvni Narayanan, Filippo A. E. Nuccio Mortarino Majno di Capriglio. #ITP #LeanProver #Math
++ [[https://alexey.kuleshevi.ch/blog/2021/01/29/random-interface/][New random interface]]. ~ Alexey Kuleshevich. #Haskell #FunctionalProgramming
+
 *** 04-Feb-21
 + [[https://xenaproject.wordpress.com/2021/02/04/formalising-mathematics-workshop-3/][Formalising mathematics: Workshop 3 (Limits of sequences)]]. ~ Kevin Buzzard (@XenaProject). #ITP #LeanProver #Math
 + [[https://xenaproject.wordpress.com/2018/08/04/what-is-a-filter-how-some-computer-scientists-think-about-limits/][What is a filter? How some computer scientists think about limits]]. ~ Kevin Buzzard (@XenaProject). #ITP #LeanProver #Math
