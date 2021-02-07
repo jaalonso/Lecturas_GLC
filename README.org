@@ -17,6 +17,15 @@ contenido.
 
 ** Febrero de 2021
 
+*** 06-Feb-21
++ [[https://arxiv.org/abs/2102.00378][Model-based testing of networked applications]]. ~ Yishuai Li, Benjamin C. Pierce, Steve Zdancewic. #ITP #Coq
++ [[https://arxiv.org/abs/2102.01167][Verifying the Hashgraph consensus algorithm]]. ~ Karl Crary. #ITP #Coq
++ [[https://www.nature.com/articles/d41586-021-00304-8][AI maths whiz creates tough new problems for humans to solve]]. ~ Davide Castelvecchi. #AI #Math #ITP
++ [[https://www.ramanujanmachine.com/][The Ramanujan Machine (an algorithmic approach to discover new mathematical conjectures)]]. #AI #Math
++ [[https://arxiv.org/abs/1907.00205][The Ramanujan Machine: automatically generated conjectures on fundamental constants]]. ~ Gal Raayoni, Shahar Gottlieb, George Pisha, Yoav Harris, Yahel Manor, Uri Mendlovic, Doron Haviv, Yaron Hadad, Ido Kaminer. #AI #Math
++ [[https://takenobu-hs.github.io/downloads/haskell_ghc_reading_guide.pdf][GHC reading guide (Exploring entrances and mental models to the source code)]]. ~ Takenobu Tani. #Haskell #FunctionalProgramming
++ [[https://cscx.org/][Computer Science by Example]]. #CompSci #Programming
+
 *** 05-Feb-21
 + [[https://arxiv.org/abs/2102.02627][Formalising a Turing-complete choreographic language in Coq]]. ~ Luís Cruz-Filipe, Fabrizio Montesi, Marco Peressotti. #ITP #Coq
 + [[https://arxiv.org/abs/2102.02600][A formalization of Dedekind domains and class groups of global fields]]. ~ Anne Baanen, Sander R. Dahmen, Ashvni Narayanan, Filippo A. E. Nuccio Mortarino Majno di Capriglio. #ITP #LeanProver #Math
