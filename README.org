@@ -17,6 +17,9 @@ contenido.
 
 ** Febrero de 2021
 
+*** 07-Feb-21
++ [[https://www.haskellforall.com/2021/02/folds-are-constructor-substitution.html][Folds are constructor substitution]]. ~ Gabriel Gonzalez (@GabrielG439). #Haskell #FunctionalProgramming
+
 *** 06-Feb-21
 + [[https://arxiv.org/abs/2102.00378][Model-based testing of networked applications]]. ~ Yishuai Li, Benjamin C. Pierce, Steve Zdancewic. #ITP #Coq
 + [[https://arxiv.org/abs/2102.01167][Verifying the Hashgraph consensus algorithm]]. ~ Karl Crary. #ITP #Coq
