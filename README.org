@@ -17,6 +17,13 @@ contenido.
 
 ** Febrero de 2021
 
+*** 08-Feb-21
++ [[https://arxiv.org/abs/2102.03003][A verified decision procedure for univariate real arithmetic with the BKR algorithm]]. ~ Katherine Cordwell, Yong Kiam Tan, André Platzer. #ITP #IsabelleHOL #Math
++ [[https://arxiv.org/abs/2102.02901][A formal proof of the independence of the continuum hypothesis]]. ~ Jesse Michael Han, Floris van Doorn. #ITP #LeanProver #Logic #Math
++ [[https://www.philipzucker.com/javascript-automated-proving/][Automated propositional sequent proofs in your browser with Tau Prolog]]. Philip Zucker (@SandMouth). #ATP #Logic #Prolog #LogicProgramming
++ [[https://fosdem.org/2021/schedule/event/open_research_emacs_orgmode/][Emacs and org-mode for reproducible research]]. (Organize your research in plain text!). ~ Thibault Lestang. #Emacs #OrgMode
++ [[https://www.hhyu.org/posts/literate_config/][Writing the Emacs configuration script in org-mode: a simple example of literate programming]]. ~ Hsin-Hao Yu (@HsinHaoYu). #Emacs
+
 *** 07-Feb-21
 + [[https://www.haskellforall.com/2021/02/folds-are-constructor-substitution.html][Folds are constructor substitution]]. ~ Gabriel Gonzalez (@GabrielG439). #Haskell #FunctionalProgramming
 
