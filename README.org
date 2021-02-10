@@ -17,6 +17,13 @@ contenido.
 
 ** Febrero de 2021
 
+*** 09-Feb-21
++ [[https://arxiv.org/abs/2102.02679][Certifying differential equation solutions from computer algebra systems in Isabelle/HOL]]. ~ Thomas Hickman, Christian Pardillo Laursen, Simon Foster. #ITP #IsabelleHOL #Math
++ [[https://arxiv.org/abs/2102.03529][Vampire with a brain is a good ITP hammer]]. ~ Martin Suda. #Vampire #ATP #ITP #MachineLearning
++ [[https://users.utcluj.ro/~agroza/puzzles/maloga/preface.html][Modelling puzzles in First Order Logic]]. ~ Adrian Groza. #Logic #ATP #Prover9
++ [[https://blog.ch3m4.org/2021/02/08/evaluacion-perezosa-en-python-parte-1/][Evaluación perezosa en Python]]. Parte 1: Introducción a la evaluación perezosa. ~ Chema Cortés (@chemacortes). #Python #Programming
++ [[https://www.galoisrepresentations.com/2019/07/17/the-ramanujan-machine-is-an-intellectual-fraud/][The Ramanujan Machine is an intellectual fraud]]. #AI #Math
+
 *** 08-Feb-21
 + [[https://arxiv.org/abs/2102.03003][A verified decision procedure for univariate real arithmetic with the BKR algorithm]]. ~ Katherine Cordwell, Yong Kiam Tan, André Platzer. #ITP #IsabelleHOL #Math
 + [[https://arxiv.org/abs/2102.02901][A formal proof of the independence of the continuum hypothesis]]. ~ Jesse Michael Han, Floris van Doorn. #ITP #LeanProver #Logic #Math
