@@ -17,6 +17,9 @@ contenido.
 
 ** Febrero de 2021
 
+*** 10-Feb-21
++ [[https://github.com/leanprover-community/mathlib/blob/fdbd4bffdc00b53b0b337ff308378a448b069f7e/archive/imo/imo2013_q1.lean][IMO 2013 Q1 in Lean]]. ~ David Renshaw. #ITP #LeanProver #Math
+
 *** 09-Feb-21
 + [[https://arxiv.org/abs/2102.02679][Certifying differential equation solutions from computer algebra systems in Isabelle/HOL]]. ~ Thomas Hickman, Christian Pardillo Laursen, Simon Foster. #ITP #IsabelleHOL #Math
 + [[https://arxiv.org/abs/2102.03529][Vampire with a brain is a good ITP hammer]]. ~ Martin Suda. #Vampire #ATP #ITP #MachineLearning
