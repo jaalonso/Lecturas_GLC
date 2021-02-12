@@ -17,6 +17,12 @@ contenido.
 
 ** Febrero de 2021
 
+*** 11-Feb-21
++ [[https://www.isa-afp.org/entries/Laws_of_Large_Numbers.html][The laws of large numbers (in Isabelle/HOL)]]. ~ Manuel Eberl (@pruvisto). #ITP #IsabelleHOL #Math
++ [[https://xenaproject.wordpress.com/2021/02/10/formalising-mathematics-workshop-4/][Formalising mathematics: workshop 4 (topology)]]. ~ Kevin Buzzard (@XenaProject). #ITP #LeanProver #Math
++ [[https://arxiv.org/abs/2102.05547][Learning equational theorem proving]]. ~ Jelle Piepenbrock, Tom Heskes, Mikoláš Janota, Josef Urban. #ATP #MachineLearning
++ [[https://arxiv.org/abs/2102.05616][An algebra of properties of binary relations]]. ~ Jochen Burghardt. #Logic #Math #ATP #Eprover
+
 *** 10-Feb-21
 + [[https://github.com/leanprover-community/mathlib/blob/fdbd4bffdc00b53b0b337ff308378a448b069f7e/archive/imo/imo2013_q1.lean][IMO 2013 Q1 in Lean]]. ~ David Renshaw. #ITP #LeanProver #Math
 
