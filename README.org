@@ -10,12 +10,21 @@ contenido.
 * Contenido                                                             :TOC:
 - [[#lecturas-del-año-2021][Lecturas del año 2021]]
   - [[#febrero-de-2021][Febrero de 2021]]
+  - [[#12-feb-21][12-Feb-21]]
   - [[#enero-de-2021][Enero de 2021]]
 - [[#lecturas-anteriores][Lecturas anteriores]]
 
 * Lecturas del año 2021
 
 ** Febrero de 2021
+
+** 12-Feb-21
++ [[https://github.com/leanprover-community/mathlib/blob/72141fdc94feec6f394b95c9310687f517bb4d02/src/combinatorics/hall.lean][Hall's Marriage Theorem in Lean]]. ~ Alena Gusakov, Bhavik Mehta, Kyle Miller. #ITP #LeanProver #Math
++ [[https://github.com/leanprover-community/mathlib/blob/2f566202f1bbefee115b5b45b48a7127133309c7/src/data/real/liouville.lean][Liouville's theorem in Lean]]. ~ Jujian Zhang. #ITP #LeanProver #Math
++ [[https://github.com/leanprover-community/mathlib/blob/983cb905e2468a820d833263bd537686b549267a/archive/imo/imo1987_q1.lean][Formalization in Lean of IMO (International Mathematical Olympiads) 1987, Q1]]. ~ Yury Kudryashov. #ITP #LeanProver #Math
++ [[https://arxiv.org/abs/2102.05945][A formal proof of modal completeness for provability logic]]. ~ Marco Maggesi, Cosimo Perini Brogi. #ITP #HOL_Light #Logic
++ [[https://youtube.com/playlist?list=PLguYJK7ydFE4aS8fq4D6DqjF6qsysxTnx][HaskellRank: HackerRank in Haskell]]. ~ @tsoding. #Haskell #FunctionalProgramming
++ [[https://blog.ch3m4.org/2021/02/09/evaluacion-perezosa-en-python-parte-2/][Evaluación perezosa en Python - Parte 2: Secuencias infinitas]]. ~ Chema Cortés (@chemacortes). #Python #Programming
 
 *** 11-Feb-21
 + [[https://www.isa-afp.org/entries/Laws_of_Large_Numbers.html][The laws of large numbers (in Isabelle/HOL)]]. ~ Manuel Eberl (@pruvisto). #ITP #IsabelleHOL #Math
