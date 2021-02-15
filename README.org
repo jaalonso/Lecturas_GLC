@@ -17,6 +17,10 @@ contenido.
 
 ** Febrero de 2021
 
+*** 14-Feb-21
++ [[https://kaygun.tumblr.com/post/643010859143151616/kruskals-algorithm-implemented-in-clojure][Kruskal’s algorithm implemented in Clojure]]. ~ Atabey Kaygun (@Atabey_Kaygun). #Clojure #Algorithms
++ [[https://kaygun.tumblr.com/post/643088741013012480/kruskals-algorithm-in-common-lisp][Kruskal’s algorithm in Common Lisp]]. ~ Atabey Kaygun (@Atabey_Kaygun). #CommonLisp #Algorithms
+
 *** 13-Feb-21
 + [[https://www.researchgate.net/profile/Christoph-Benzmueller/publication/349027173_Value-oriented_Legal_Argumentation_in_IsabelleHOL/links/601b90b5299bf1cc26a00e9a/Value-oriented-Legal-Argumentation-in-Isabelle-HOL.pdf][Value-oriented legal argumentation in Isabelle/HOL]]. ~ Christoph Benzmüller, David Fuenmayor. #ITP #IsabelleHOL
 + [[https://hal.inria.fr/hal-03136002/document][Unsolvability of the quintic formalized in dependent type theory]]. ~ Sophie Bernard, Cyril Cohen, Assia Mahboubi, Pierre-Yves Strub. #ITP #Coq #Math
