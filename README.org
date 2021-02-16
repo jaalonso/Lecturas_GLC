@@ -17,6 +17,10 @@ contenido.
 
 ** Febrero de 2021
 
+*** 15-Feb-21
++ [[https://plato.stanford.edu/entries/fallacies/][#SEP: Fallacies]]. ~ Hans Hansen. #Logic
++ [[https://plato.stanford.edu/entries/algebra-logic-tradition/][#SEP: The algebra of logic tradition]]. ~ Stanley Burris, Javier Legris. #Logic
+
 *** 14-Feb-21
 + [[https://kaygun.tumblr.com/post/643010859143151616/kruskals-algorithm-implemented-in-clojure][Kruskal’s algorithm implemented in Clojure]]. ~ Atabey Kaygun (@Atabey_Kaygun). #Clojure #Algorithms
 + [[https://kaygun.tumblr.com/post/643088741013012480/kruskals-algorithm-in-common-lisp][Kruskal’s algorithm in Common Lisp]]. ~ Atabey Kaygun (@Atabey_Kaygun). #CommonLisp #Algorithms
