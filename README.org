@@ -17,6 +17,10 @@ contenido.
 
 ** Febrero de 2021
 
+*** 16-Feb-21
++ [[https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9348915][Study of Isabelle/HOL on formal algorithm analysis and code generation]]. ~ Haitao Wang, Lihua Song. #ITP #IsabelleHOL
++ [[https://www.researchgate.net/profile/Christoph-Benzmueller/publication/349061647_Cantor's_Theorem_without_Reductio_Ad_Absurdum/links/601e41a592851c4ed54fa746/Cantors-Theorem-without-Reductio-Ad-Absurdum.pdf][Cantor’s theorem without reductio ad absurdum]]. ~ Christoph Benzmüller, David Fuenmayor. #ITP #IsabelleHOL #Logic #Math
+
 *** 15-Feb-21
 + [[https://plato.stanford.edu/entries/fallacies/][#SEP: Fallacies]]. ~ Hans Hansen. #Logic
 + [[https://plato.stanford.edu/entries/algebra-logic-tradition/][#SEP: The algebra of logic tradition]]. ~ Stanley Burris, Javier Legris. #Logic
