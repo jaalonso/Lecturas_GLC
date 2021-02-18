@@ -17,6 +17,13 @@ contenido.
 
 ** Febrero de 2021
 
+*** 17-Feb-21
++ [[https://www.lri.fr/~wolff/teach-material/2020-2021/M2-CSMR/index.html][Course: Interactive theorem proving and applications]]. ~ Burkhart Wolff. #ITP #IsabelleHOL
++ [[https://plato.stanford.edu/entries/algebra/][#SEP: Algebra (in "The Stanford Encyclopedia of Philosophy")]]. ~ Vaughan Pratt. #Math
++ [[https://blog.ch3m4.org/2021/02/14/evaluacion-perezosa-en-python-parte-3/][Evaluación perezosa en Python]]. Parte 3: Cachés y memoización. ~ Chema Cortés (@chemacortes). #Python #Programación
++ [[https://arxiv.org/abs/2102.05242][Patterns, predictions, and actions: A story about machine learning]]. ~ Moritz Hardt, Benjamin Recht. #eBook #MachineLearning
++ [[http://mathcentral.uregina.ca/RR/database/RR.09.95/grzesina1.html][A geometric view of the square root algorithm]]. ~ A. Grzesina. #Math #Algorithms
+
 *** 16-Feb-21
 + [[https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9348915][Study of Isabelle/HOL on formal algorithm analysis and code generation]]. ~ Haitao Wang, Lihua Song. #ITP #IsabelleHOL
 + [[https://www.researchgate.net/profile/Christoph-Benzmueller/publication/349061647_Cantor's_Theorem_without_Reductio_Ad_Absurdum/links/601e41a592851c4ed54fa746/Cantors-Theorem-without-Reductio-Ad-Absurdum.pdf][Cantor’s theorem without reductio ad absurdum]]. ~ Christoph Benzmüller, David Fuenmayor. #ITP #IsabelleHOL #Logic #Math
