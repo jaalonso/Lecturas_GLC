@@ -17,6 +17,10 @@ contenido.
 
 ** Febrero de 2021
 
+*** 18-Feb-21
++ [[https://alistairb.dev/reflections-on-haskell-for-startup/][Reflections on using Haskell for my startup]]. ~ Alistair Burrowes (@AlistairBuzz). #Haskell #FunctionalProgramming
++ [[https://arxiv.org/abs/2102.08595v1][Formalizing relations in type theory]]. ~ Farida Kachapova. #Logic #Math
+
 *** 17-Feb-21
 + [[https://www.lri.fr/~wolff/teach-material/2020-2021/M2-CSMR/index.html][Course: Interactive theorem proving and applications]]. ~ Burkhart Wolff. #ITP #IsabelleHOL
 + [[https://plato.stanford.edu/entries/algebra/][#SEP: Algebra (in "The Stanford Encyclopedia of Philosophy")]]. ~ Vaughan Pratt. #Math
