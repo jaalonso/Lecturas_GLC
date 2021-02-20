@@ -17,6 +17,16 @@ contenido.
 
 ** Febrero de 2021
 
+*** 19-Feb-21
++ [[https://arxiv.org/abs/2102.09125v1][Formalizing groups in type theory]]. ~ Farida Kachapova. #Logic #Math #ITP
++ [[https://xenaproject.wordpress.com/2021/02/18/formalising-mathematics-workshop-5-filters][Formalising mathematics: workshop 5 (filters)]]. ~ Kevin Buzzard (@XenaProject). #ITP #LeanProver #Math
++ [[https://en.wikipedia.org/wiki/Filter_(mathematics)][Filter (mathematics)]]. ~ Wikipedia. #Math
++ [[https://en.wikipedia.org/wiki/Filters_in_topology][Filters in topology]]. ~ Wikipedia. #Math
++ [[https://plato.stanford.edu/entries/set-theory/][Set theory (in "The Stanford Encyclopedia of Philosophy")]]. ~ Joan Bagaria (@BagariaJoan). #Logic #Math
++ [[https://www.icrea.cat/security/files/researchers/researcher-sections/pcm_set_theory_long_revised.pdf][Set theory]]. ~ Joan Bagaria (@BagariaJoan). #Logic #Math
++ [[https://www.icrea.cat/security/files/researchers/researcher-sections/mst2019-20.pdf][Models of set theory]]. ~ Joan Bagaria (@BagariaJoan). #Logic #Math #Set_theory
++ [[https://plato.stanford.edu/entries/boolalg-math/][The mathematics of boolean algebra (in "The Stanford Encyclopedia of Philosophy")]]. ~ J. Donald Monk. #Logic #Math
+
 *** 18-Feb-21
 + [[https://alistairb.dev/reflections-on-haskell-for-startup/][Reflections on using Haskell for my startup]]. ~ Alistair Burrowes (@AlistairBuzz). #Haskell #FunctionalProgramming
 + [[https://arxiv.org/abs/2102.08595v1][Formalizing relations in type theory]]. ~ Farida Kachapova. #Logic #Math
