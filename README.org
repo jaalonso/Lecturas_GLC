@@ -17,6 +17,14 @@ contenido.
 
 ** Febrero de 2021
 
+*** 20-Feb-21
++ [[https://arxiv.org/abs/2102.07636][Formalized Haar measure]]. ~ Floris van Doorn. #ITP #LeanProver #Math
++ [[https://hal.archives-ouvertes.fr/hal-03142192/document][A variant of Wagner’s theorem based on combinatorial hypermaps]]. ~ Christian Doczkal. #ITP #Coq #Math
++ [[https://eprint.iacr.org/2021/147.pdf][IPDL: A simple framework for formally verifying distributed cryptographic protocols]]. ~ Greg Morrisett, Elaine Shi, Kristina Sojakova, Xiong Fan, Joshua Gancher. #ITP #Coq
++ [[http://angg.twu.net/LATEX/2021excuse.pdf][Category theory as an excuse to learn type theory]]. ~ Eduardo Ochs, Selana Ochs. #CategoryTheory #TypeTheory
++ [[https://youtu.be/ipIY7MWhk8s][Introducción al sistema de tipos en Haskell]]. ~ Manuel Soto (@manu_msr). #Haskell #FunctionalProgramming
++ [[https://youtu.be/ipIY7MWhk8s][Type classes: de aprendiz a maestro]]. ~ Alejandro Serrano (@trupill). #Haskell #FunctionalProgramming
+
 *** 19-Feb-21
 + [[https://arxiv.org/abs/2102.09125v1][Formalizing groups in type theory]]. ~ Farida Kachapova. #Logic #Math #ITP
 + [[https://xenaproject.wordpress.com/2021/02/18/formalising-mathematics-workshop-5-filters][Formalising mathematics: workshop 5 (filters)]]. ~ Kevin Buzzard (@XenaProject). #ITP #LeanProver #Math
