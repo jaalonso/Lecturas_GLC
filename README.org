@@ -17,6 +17,9 @@ contenido.
 
 ** Febrero de 2021
 
+*** 21-Feb-21
++ [[https://link.medium.com/LjTU9hQL3db][A formal proof of safegcd bounds]]. ~ Russell O’Connor, Andrew Poelstra. #ITP #Coq
+
 *** 20-Feb-21
 + [[https://arxiv.org/abs/2102.07636][Formalized Haar measure]]. ~ Floris van Doorn. #ITP #LeanProver #Math
 + [[https://hal.archives-ouvertes.fr/hal-03142192/document][A variant of Wagner’s theorem based on combinatorial hypermaps]]. ~ Christian Doczkal. #ITP #Coq #Math
