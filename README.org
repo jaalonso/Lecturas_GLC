@@ -17,6 +17,13 @@ contenido.
 
 ** Febrero de 2021
 
+*** 23-Feb-21
++ [[https://student.cs.uwaterloo.ca/~cs442/W21/notes/][Course: Principles of Programming Languages]]. ~ Gregor Richards. #Programming #Haskell #Prolog #Pascal #Smalltalk #Erlang #C
++ [[https://cacm.acm.org/magazines/2021/3/250711-knowledge-graphs/fulltext][Knowledge graphs]]. ~ Claudio Gutierrez, Juan F. Sequeda. #AI #Logic #CompSci
++ [[https://cacm.acm.org/magazines/2021/3/250710-the-decline-of-computers-as-a-general-purpose-technology/fulltext][The decline of computers as a general purpose technology]]. ~ Neil C. Thompson, Svenja Spanuth. #CompSci
++ [[https://cacm.acm.org/magazines/2021/3/250705-50-years-of-pascal/fulltext][50 years of Pascal]]. ~ Niklaus Wirth. #Pascal #Programming #CompSci
++ [[https://arxiv.org/abs/2102.10556v1][Inductive logic programming at 30]]. ~ Andrew Cropper, Sebastijan Dumančić, Richard Evans, Stephen H. Muggleton. #ILP #LogicProgramming #MachineLearning
+
 *** 21-Feb-21
 + [[https://link.medium.com/LjTU9hQL3db][A formal proof of safegcd bounds]]. ~ Russell O’Connor, Andrew Poelstra. #ITP #Coq
 
