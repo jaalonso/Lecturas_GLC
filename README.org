@@ -17,6 +17,9 @@ contenido.
 
 ** Febrero de 2021
 
+*** 24-Feb-21
++ [[https://youtu.be/YqAu1hdd4Z4][Rerecorded introduction to the Algebra of Programming research group]]. ~  Jeremy Gibbons (@jer_gib). #CompSci #Haskell #FunctionalProgramming
+
 *** 23-Feb-21
 + [[https://student.cs.uwaterloo.ca/~cs442/W21/notes/][Course: Principles of Programming Languages]]. ~ Gregor Richards. #Programming #Haskell #Prolog #Pascal #Smalltalk #Erlang #C
 + [[https://cacm.acm.org/magazines/2021/3/250711-knowledge-graphs/fulltext][Knowledge graphs]]. ~ Claudio Gutierrez, Juan F. Sequeda. #AI #Logic #CompSci
