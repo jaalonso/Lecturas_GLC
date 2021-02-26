@@ -17,6 +17,11 @@ contenido.
 
 ** Febrero de 2021
 
+*** 25-Feb-21
++ [[https://www.isa-afp.org/entries/Formal_Puiseux_Series.html][Formal Puiseux series (in Isabelle/HOL)]]. ~ Manuel Eberl. #ITP #IsabelleHOL #Math
++ [[https://blog.drewolson.org/purescript-and-haskell][PureScript and Haskell]]. ~ Drew Olson. #Haskell #PureScript #FunctionalProgramming
++ [[http://math.andrej.com/2021/02/22/burali-forti-in-hott-uf/][The Burali-Forti argument in HoTT/UF]]. ~ Martin Escardo. #Logic #Math #HoTT
+
 *** 24-Feb-21
 + [[https://youtu.be/YqAu1hdd4Z4][Rerecorded introduction to the Algebra of Programming research group]]. ~  Jeremy Gibbons (@jer_gib). #CompSci #Haskell #FunctionalProgramming
 
