@@ -17,6 +17,12 @@ contenido.
 
 ** Febrero de 2021
 
+*** 26-Feb-21
++ [[https://xenaproject.wordpress.com/2021/02/25/formalising-mathematics-workshop-6-limits/][Formalising mathematics: workshop 6 (limits)]]. ~ Kevin Buzzard (@XenaProject). #ITP #LeanProver #Math
++ [[https://mediatum.ub.tum.de/doc/1596550/1596550.pdf][A verified imperative implementation of B-trees (in Isabelle/HOL)]]. ~ Niels Mündle. #ITP #IsabelleHOL
++ [[https://kowainik.github.io/posts/totality][Totality]]. ~ Veronika Romashkina (@vrom911), Dmitrii Kovanikov (@ChShersh). #Haskell #FunctionalProgramming
++ [[https://blog.ch3m4.org/2021/02/15/evaluacion-perezosa-en-python-parte-4/][Evaluación perezosa en Python. Parte 4: Evaluación perezosa avanzada]]. ~ Chema Cortés (@chemacortes). #Python #Programación
+
 *** 25-Feb-21
 + [[https://www.isa-afp.org/entries/Formal_Puiseux_Series.html][Formal Puiseux series (in Isabelle/HOL)]]. ~ Manuel Eberl. #ITP #IsabelleHOL #Math
 + [[https://blog.drewolson.org/purescript-and-haskell][PureScript and Haskell]]. ~ Drew Olson. #Haskell #PureScript #FunctionalProgramming
