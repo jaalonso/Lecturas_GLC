@@ -17,6 +17,10 @@ contenido.
 
 ** Febrero de 2021
 
+*** 27-Feb-21
++ [[https://www.scitepress.org/Papers/2020/94644/94644.pdf][Computational logic in the first semester of computer science: An experience report]]. ~ David M. Cerna et als. #Logic #CompSci
++ [[https://arxiv.org/abs/2102.10698v1][Certifying choreography compilation]]. ~ Luís Cruz-Filipe, Fabrizio Montesi, Marco Peressotti. #ITP #Coq
+
 *** 26-Feb-21
 + [[https://xenaproject.wordpress.com/2021/02/25/formalising-mathematics-workshop-6-limits/][Formalising mathematics: workshop 6 (limits)]]. ~ Kevin Buzzard (@XenaProject). #ITP #LeanProver #Math
 + [[https://mediatum.ub.tum.de/doc/1596550/1596550.pdf][A verified imperative implementation of B-trees (in Isabelle/HOL)]]. ~ Niels Mündle. #ITP #IsabelleHOL
