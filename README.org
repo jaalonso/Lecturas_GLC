@@ -18,13 +18,17 @@ contenido.
 
 ** Marzo de 2021
 
-*** 28-Feb-21
-+ [[https://cs.nyu.edu/faculty/davise/papers/proof.pdf][Proof verification technology and elementary physics]]. ~ Ernest Davis. #FormalVerification #Physics
-+ [[http://h2.jaguarpaw.co.uk/posts/how-i-use-dante/][How I use Dante]]. #Haskell #FunctionalProgramming #Emacs
-
+*** 01-Mar-21
++ [[https://www.isa-afp.org/entries/Sunflowers.html][The sunflower lemma of Erdős and Rado (in Isabelle/HOL)]]. ~ René Thiemann. #ITP #IsabelleHOL #Math
++ [[http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.303.8201&rep=rep1&type=pdf][12² beautiful mathematical theorems with short proofs]]. ~ Jörg Neunhäuserer. #Math via @@lizardbill
++ [[http://www.cut-the-knot.org/proofs/index.shtml][Proofs in Mathematics]]. ~ Alexander Bogomolny. #Math
 
 
 ** Febrero de 2021
+
+*** 28-Feb-21
++ [[https://cs.nyu.edu/faculty/davise/papers/proof.pdf][Proof verification technology and elementary physics]]. ~ Ernest Davis. #FormalVerification #Physics
++ [[http://h2.jaguarpaw.co.uk/posts/how-i-use-dante/][How I use Dante]]. #Haskell #FunctionalProgramming #Emacs
 
 *** 27-Feb-21
 + [[https://www.scitepress.org/Papers/2020/94644/94644.pdf][Computational logic in the first semester of computer science: An experience report]]. ~ David M. Cerna et als. #Logic #CompSci
