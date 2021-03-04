@@ -18,6 +18,11 @@ contenido.
 
 ** Marzo de 2021
 
+*** 03-Mar-21
++ [[https://blog.plover.com/math/topology-doc.html][Short introduction to Topology (for Computer Science grad students)]]. ~ Mark Jason Dominus (2010). #Math via @CompSciFact
++ [[https://jcodev.eu/posts/using-nix-for-haskell-development-in-emacs-with-lsp/][Using Nix for Haskell development in Emacs with LSP]]. ~ Jonas Collberg. #Haskell #Emacs
++ [[https://www.researchgate.net/publication/348829872_Towards_a_Notion_of_Basis_for_Knowledge-Based_Systems_-_Applications][Towards a notion of basis for knowledge-based systems - Applications]]. ~ Gonzalo A. Aranda, Joaquín Borrego, Juan Galán, Daniel Rodríguez. #Math #CompSci
+
 *** 02-Mar-21
 + [[https://youtu.be/UnYrWuOzOlc][AI and Theorem Proving [Video]]]. ~ Josef Urban. #ATP #ITP #MachineLearning #AI
 + [[https://cmsa.fas.harvard.edu/wp-content/uploads/2021/01/Urbanslides.pdf][AI and Theorem Proving [Slides]]]. ~ Josef Urban. #ATP #ITP #MachineLearning #AI
