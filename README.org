@@ -18,6 +18,10 @@ contenido.
 
 ** Marzo de 2021
 
+*** 04-Mar-21
++ [[https://www.cs.rice.edu/~vardi/comp409/history.pdf][A brief history of Logic]]. ~ Moshe Y. Vardi (2003). #Logic #Math #CompSci via @prathyvsh
++ [[https://arxiv.org/abs/2103.02102][Experimental mathematics approach to Gauss diagrams realizability]]. ~ A. Khan, A. Lisitsa, A. Vernitski. #Prolog #LogicProgramming #Math
+
 *** 03-Mar-21
 + [[https://blog.plover.com/math/topology-doc.html][Short introduction to Topology (for Computer Science grad students)]]. ~ Mark Jason Dominus (2010). #Math via @CompSciFact
 + [[https://jcodev.eu/posts/using-nix-for-haskell-development-in-emacs-with-lsp/][Using Nix for Haskell development in Emacs with LSP]]. ~ Jonas Collberg. #Haskell #Emacs
