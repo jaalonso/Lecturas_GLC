@@ -18,6 +18,12 @@ contenido.
 
 ** Marzo de 2021
 
+*** 05-Mar-21
++ [[https://xenaproject.wordpress.com/2021/03/04/formalising-mathematics-workshop-7-quotients/][Formalising mathematics: workshop 7 (quotients)]]. ~ Kevin Buzzard (@XenaProject). #ITP #LeanProver #Math
++ [[https://functional.works-hub.com/learn/tutorial-cellular-automata-and-comonads-fc3a6][Tutorial: Cellular automata and comonads]]. ~ Siddharth Bhat. #Haskell #FunctionalProgramming
++ [[https://www.popularmechanics.com/science/math/g29008356/hard-math-problems/][These are the 10 toughest math problems ever solved]]. ~ Dave Linkletter. #Math
++ [[https://www.lemonde.fr/blog/binaire/2021/03/05/linformatique-quelques-questions-pour-se-facher-entre-amis/][L’informatique, quelques questions pour se fâcher entre amis]]. ~ Serge Abiteboul, Inria Paris, Gilles Dowek. #CompSci
+
 *** 04-Mar-21
 + [[https://www.cs.rice.edu/~vardi/comp409/history.pdf][A brief history of Logic]]. ~ Moshe Y. Vardi (2003). #Logic #Math #CompSci via @prathyvsh
 + [[https://arxiv.org/abs/2103.02102][Experimental mathematics approach to Gauss diagrams realizability]]. ~ A. Khan, A. Lisitsa, A. Vernitski. #Prolog #LogicProgramming #Math
