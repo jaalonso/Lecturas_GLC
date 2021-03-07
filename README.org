@@ -18,6 +18,17 @@ contenido.
 
 ** Marzo de 2021
 
+*** 06-Mar-21
++ [[https://wiki.tfpie.science.ru.nl/images/a/a6/TFPIE_AHF_JV.pdf][Teaching automated reasoning and formally verified functional programming in Agda and Isabelle/HOL]]. ~ Asta Halkjær From, Jørgen Villadsen. #Logic #FunctionalProgramming #ITP #Agda #IsabelleHOL
++ [[https://www.scitepress.org/Papers/2020/98936/98936.pdf][Formalization and verification of reconfigurable discrete-event system using model driven engineering and Isabelle/HOL]]. ~ S. Soualah, Y. Hafidi, M. Khalgui, A. Chaoui, L. Kahloul. #ITP #IsabelleHOL
++ [[https://arxiv.org/abs/2103.00223][Generalized universe hierarchies and first-class universe levels]]. ~ András Kovács. #ITP #Agda
++ [[https://arxiv.org/abs/2103.01346][Roosterize: Suggesting lemma names for Coq verification projects using deep learning]]. ~ Pengyu Nie, Karl Palmskog, Junyi Jessy Li, Milos Gligoric. #ITP #Coq #DeepLearning
++ [[https://youtu.be/EXpmbAfBNnw][Neural theorem proving in Lean using Proof Artifact Co-training and language models]]. ~ Jason Rute. #ITP #LeanProver #MachineLearning
++ [[https://cmsa.fas.harvard.edu/wp-content/uploads/2021/03/LeanStep-Talk-New-Technology-in-Mathematics-Seminar.pdf][Neural theorem proving in Lean using Proof Artifact Co-training and language models]]. [Slides] ~ Jason Rute. #ITP #LeanProver #MachineLearning
++ [[https://github.com/atarnoam/lean-automata][Proving theorems about regular languages and DFAs in Lean]]. ~ Noam Atar. #ITP #LeanProver
++ [[https://github.com/leanprover-community/mathlib/blob/5962c76fb636d17a041726adcc11299c8a23e2b6/src/algebra/ring/boolean_ring.lean][Boolean rings (in Lean prover)]]. ~ Bryan Gin-ge Chen. #ITP #LeanProver #Math
++ [[https://hgeometry.org/][HGeometry: Computational Geometry in Haskell]]. #Haskell #FunctionalProgramming #Math
+
 *** 05-Mar-21
 + [[https://xenaproject.wordpress.com/2021/03/04/formalising-mathematics-workshop-7-quotients/][Formalising mathematics: workshop 7 (quotients)]]. ~ Kevin Buzzard (@XenaProject). #ITP #LeanProver #Math
 + [[https://functional.works-hub.com/learn/tutorial-cellular-automata-and-comonads-fc3a6][Tutorial: Cellular automata and comonads]]. ~ Siddharth Bhat. #Haskell #FunctionalProgramming
