@@ -18,6 +18,11 @@ contenido.
 
 ** Marzo de 2021
 
+*** 08-Mar-21
++ [[https://arxiv.org/abs/2103.03607][Formalizing graph trail properties in Isabelle/HOL]]. ~ Laura Kovacs, Hanna Lachnitt, Stefan Szeider. #ITP #IsabelleHOL #Math
++ [[https://arxiv.org/abs/2103.03798][Training a first-order theorem prover from synthetic data]]. ~ Vlad Firoiu, Eser Aygun, Ankit Anand, Zafarali Ahmed, Xavier Glorot, Laurent Orseau, Lei Zhang, Doina Precup, Shibl Mourad. #ATP #MachineLearning
++ [[https://arxiv.org/abs/2103.03874][Measuring mathematical problem solving with the MATH dataset]]. ~ Dan Hendrycks, Collin Burns, Saurav Kadavath, Akul Arora, Steven Basart, Eric Tang, Dawn Song, Jacob Steinhardt. #MachineLearning #ITP #Math
+
 *** 07-Mar-21
 + [[https://users-cs.au.dk/birke/papers/free-theorems-sep-logic.pdf ][Theorems for free from separation logic specifications]]. ~ Lars Birkedal et als. #ITP #Coq
 + [[https://www.isa-afp.org/entries/Mereology.html][Mereology (in Isabelle/HOL)]]. ~ Ben Blumson. #ITP #IsabelleHOL #Logic
