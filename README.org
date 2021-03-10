@@ -18,6 +18,18 @@ contenido.
 
 ** Marzo de 2021
 
+*** 09-Mar-21
++ [[https://github.com/jespercockx/agda-lecture-notes/blob/master/agda.pdf][Programming and proving in Agda]]. ~ Jesper Cockx (@dregntael). #ITP #Agda #FunctionalProgramming #Haskell
++ [[https://arxiv.org/abs/2103.04519][Formal verification of authenticated, append-only skip lists in Agda: Extended version]]. ~ Victor Cacciari Miraldo, Harold Carr, Mark Moir, Lisandra Silva, Guy L. Steele Jr. #ITP #Agda
++ [[http://conal.net/papers/language-derivatives/paper.pdf][Symbolic and automatic differentiation of languages]]. ~ Conal Elliott. #ITP #Agda
++ [[https://www.isa-afp.org/entries/Projective_Measurements.html][Quantum projective measurements and the CHSH inequality (in Isabelle/HOL)]]. ~ Mnacho Echenim. #ITP #IsabelleHOL
++ [[https://github.com/leanprover-community/mathlib/blob/b25994d522d1368e19a6e568aa7e642d72a95294/src/number_theory/bernoulli_polynomials.lean][Bernoulli polynomials (in Lean prover)]]. ~ Ashvni Narayanan. #ITP #LeanProver #Math
++ [[https://dfithian.github.io/2021/03/08/pruning-unused-haskell-dependencies.html][Pruning unused Haskell dependencies]]. ~ Dan Fithian. #Haskell #FunctionalProgramming
++ [[https://arxiv.org/abs/2103.03930][Logical foundations: Personal perspective]]. ~ Yuri Gurevich. #Logic #Math #CompSci
++ [[http://math.fau.edu/yiu/RecreationalMathematics2003.pdf][Recreational Mathematics]]. ~ Paul Yiu. #eBook #Math
++ [[https://cacm.acm.org/blogs/blog-cacm/203554-five-principles-for-programming-languages-for-learners][Five principles for programming languages for learners]]. ~ Mark Guzdial (@guzdial). #CompSci #Teaching #Programming
++ [[https://blog.jpolak.org/?p=2358][Fifteen awesome cross-platform math apps]]. ~ Jason Polak. #Math #CompSci #Programming
+
 *** 08-Mar-21
 + [[https://arxiv.org/abs/2103.03607][Formalizing graph trail properties in Isabelle/HOL]]. ~ Laura Kovacs, Hanna Lachnitt, Stefan Szeider. #ITP #IsabelleHOL #Math
 + [[https://arxiv.org/abs/2103.03798][Training a first-order theorem prover from synthetic data]]. ~ Vlad Firoiu, Eser Aygun, Ankit Anand, Zafarali Ahmed, Xavier Glorot, Laurent Orseau, Lei Zhang, Doina Precup, Shibl Mourad. #ATP #MachineLearning
