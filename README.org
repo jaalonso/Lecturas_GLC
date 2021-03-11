@@ -18,6 +18,11 @@ contenido.
 
 ** Marzo de 2021
 
+*** 10-Mar-21
++ [[https://arxiv.org/abs/2103.05581][The Agda universal algebra library - Part 1: Foundation (Equality, extensionality, truncation, and dependent types for relations and algebras)]]. ~ William DeMeo. #ITP #Agda #Math
++ [[https://link.springer.com/article/10.1007/s00283-020-10037-7][A replication crisis in mathematics?]] ~ Anthony Bordg. #Math #ITP
++ [[http://www.divulgamat.net/index.php?option=com_content&view=article&id=18][Contrastando dos códices matemáticos iluminados]]. ~ Ángel Requena Fraile. #Matemáticas
+
 *** 09-Mar-21
 + [[https://github.com/jespercockx/agda-lecture-notes/blob/master/agda.pdf][Programming and proving in Agda]]. ~ Jesper Cockx (@dregntael). #ITP #Agda #FunctionalProgramming #Haskell
 + [[https://arxiv.org/abs/2103.04519][Formal verification of authenticated, append-only skip lists in Agda: Extended version]]. ~ Victor Cacciari Miraldo, Harold Carr, Mark Moir, Lisandra Silva, Guy L. Steele Jr. #ITP #Agda
