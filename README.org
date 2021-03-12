@@ -18,6 +18,9 @@ contenido.
 
 ** Marzo de 2021
 
+*** 11-Mar-21
++ [[https://notxor.nueva-actitud.org/2021/03/11/emacs-y-lsp-mode.html][Emacs y lsp-mode]]. #Emacs #LSPmode
+
 *** 10-Mar-21
 + [[https://arxiv.org/abs/2103.05581][The Agda universal algebra library - Part 1: Foundation (Equality, extensionality, truncation, and dependent types for relations and algebras)]]. ~ William DeMeo. #ITP #Agda #Math
 + [[https://link.springer.com/article/10.1007/s00283-020-10037-7][A replication crisis in mathematics?]] ~ Anthony Bordg. #Math #ITP
