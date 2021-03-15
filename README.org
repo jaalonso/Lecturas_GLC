@@ -18,6 +18,9 @@ contenido.
 
 ** Marzo de 2021
 
+*** 14-Mar-21
++ [[https://ubikium.gitlab.io/portfolio/2021-03-13-wait-a-moment.html][(((Wait a moment .) .) .) - Composing functions with multiple arguments]]. ~ Philip K. Dick. #Haskell #FunctionalProgramming
+
 *** 13-Mar-21
 + [[https://magnus.therning.org/posts/2021-03-05-000-flycheck-and-hls.html][Flycheck and HLS]]. ~ Magnus Therning. #Emacs #LSPmode #Haskell #HLS via @jneira
 
