@@ -18,6 +18,12 @@ contenido.
 
 ** Marzo de 2021
 
+*** 15-Mar-21
++ [[https://xenaproject.wordpress.com/2021/03/15/formalising-mathematics-workshop-8-group-cohomology/][Formalising mathematics: workshop 8 (group cohomology)]]. ~ Kevin Buzzard (@XenaProject). #ITP #LeanProver #Math
++ [[https://www.isa-afp.org/entries/Modular_arithmetic_LLL_and_HNF_algorithms.html][Two algorithms based on modular arithmetic: lattice basis reduction and Hermite normal form computation (in Isabelle/HOL)]]. ~ Ralph Bottesch, Jose Divason, Rene Thiemann. #ITP #IsabelleHOL #Math
++ [[https://doisinkidney.com/posts/2021-03-14-hyperfunctions.html][Hyperfunctions]]. ~ Donnacha Oisín Kidney (@oisdk). #Haskell #FunctionalProgramming
++ [[https://www.wikiwand.com/en/List_of_formulae_involving_%CF%80][List of formulae involving π]]. #Math via @mathematicsprof
+
 *** 14-Mar-21
 + [[https://ubikium.gitlab.io/portfolio/2021-03-13-wait-a-moment.html][(((Wait a moment .) .) .) - Composing functions with multiple arguments]]. ~ Philip K. Dick. #Haskell #FunctionalProgramming
 
