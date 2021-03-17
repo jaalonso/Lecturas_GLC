@@ -18,6 +18,12 @@ contenido.
 
 ** Marzo de 2021
 
+*** 16-Mar-21
++ [[https://ps.uni-saarland.de/Publications/documents/KirstHermes_2021_Synthetic.pdf][Synthetic undecidability and incompleteness of first-order axiom systems in Coq]]. ~ Dominik Kirst, Marc Hermes. #ITP #Coq #Logic #Math
++ [[https://webspace.science.uu.nl/~swier004/publications/2020-jfp.pdf][Functional Pearls: Heterogeneous binary random-access lists]]. ~ Wouter Swierstra. #Agda #FunctionalProgramming
++ [[https://kowainik.github.io/images/Haskell_Knowledge_Map.png][Haskell knowledge map]]. ~ Veronika Romashkina (@vrom911), Dmitrii Kovanikov (@ChShersh). #Haskell #FunctionalProgramming
++ [[https://blog.ch3m4.org/2021/03/07/evaluacion-perezosa-en-python-parte-5/][Evaluación perezosa en Python. Parte 5: Formalización de la secuencia perezosa]]. ~ Chema Cortés (@chemacortes). #Python #Programación
+
 *** 15-Mar-21
 + [[https://xenaproject.wordpress.com/2021/03/15/formalising-mathematics-workshop-8-group-cohomology/][Formalising mathematics: workshop 8 (group cohomology)]]. ~ Kevin Buzzard (@XenaProject). #ITP #LeanProver #Math
 + [[https://www.isa-afp.org/entries/Modular_arithmetic_LLL_and_HNF_algorithms.html][Two algorithms based on modular arithmetic: lattice basis reduction and Hermite normal form computation (in Isabelle/HOL)]]. ~ Ralph Bottesch, Jose Divason, Rene Thiemann. #ITP #IsabelleHOL #Math
