@@ -18,6 +18,13 @@ contenido.
 
 ** Marzo de 2021
 
+*** 17-Mar-21
++ [[https://arxiv.org/abs/2103.09092][The Agda universal algebra library, Part 2: Structure]]. ~ William DeMeo. #ITP #Agda #Math
++ [[https://youtu.be/5e7UdWzITyQ][Formal methods for the informal engineer (Tutorial 2: The Coq theorem prover)]]. ~ Cody Roux. #ITP #Coq
++ [[https://gilmi.me/blog/post/2021/03/16/bottom-haskell-pyramid][The bottom of the Haskell Pyramid]]. ~ Gil Mizrahi (@_gilmi). #Haskell #FunctionalProgramming
++ [[https://www.math.wustl.edu/~sk/eolss.pdf][The history and concept of mathematical proof]]. ~ Steven G. Krantz. #Logic #Math via @mathematicsprof
++ [[https://ingenieriadesoftware.es/historia-visual-lenguajes-programacion/][Historia visual de los lenguajes de programación]]. ~ Jordi Cabot (@ingdesoftware). #Programación vía @fernand0
+
 *** 16-Mar-21
 + [[https://ps.uni-saarland.de/Publications/documents/KirstHermes_2021_Synthetic.pdf][Synthetic undecidability and incompleteness of first-order axiom systems in Coq]]. ~ Dominik Kirst, Marc Hermes. #ITP #Coq #Logic #Math
 + [[https://webspace.science.uu.nl/~swier004/publications/2020-jfp.pdf][Functional Pearls: Heterogeneous binary random-access lists]]. ~ Wouter Swierstra. #Agda #FunctionalProgramming
