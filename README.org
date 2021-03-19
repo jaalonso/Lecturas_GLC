@@ -18,6 +18,16 @@ contenido.
 
 ** Marzo de 2021
 
+*** 18-Mar-21
++ [[https://www21.in.tum.de/~haslbema/documents/haslbeck2021thesis.pdf][Verified quantitative analysis of imperative algorithms]]. ~ Maximilian P.L. Haslbeck. #PhDThesis #ITP #IsabelleHOL
++ [[https://www.isa-afp.org/entries/Constructive_Cryptography_CM.html][Constructive cryptography in HOL: the communication modeling aspect]]. ~ Andreas Lochbihler, S. Reza Sefidgar. #ITP #IsabelleHOL
++ [[https://www.cs.helsinki.fi/u/jllang/Introduction_to_Lambda_Calculus.pdf][Introduction to lambda calculus]]. ~ John Lång. #LambdaCalculus #FunctionalProgramming
++ [[https://www.quantamagazine.org/avi-wigderson-and-laszlo-lovasz-win-abel-prize-20210317/][Pioneers linking Math and Computer Science win the Abel Prize]]. ~ Kevin Hartnett (@KSHartnett). #Math #CompSci
++ [[https://plus.maths.org/content/laszlo-lovasz-working-mathematical-miracles][László Lovász: Working mathematical miracles]]. ~ Marianne Freiberger. #Math #CompSci
++ [[https://plus.maths.org/content/its-good-have-hard-problems][Avi Wigderson: "It's good to have hard problems"]]. ~ Rachel Thomas. #Math #CompSci
++ [[http://www.cs.toronto.edu/~ledt/papers/Avi/L2.pdf][Cryptography and pseudorandomness]]. ~ Avi Wigderson. #Math #CompSci
++ [[https://www.math.ias.edu/avi/book][Mathematics and computation (A theory revolutionizing technology and science)]]. ~ Avi Wigderson. #eBook #Math #CompSci via @mbelcrypt_vasco
+
 *** 17-Mar-21
 + [[https://arxiv.org/abs/2103.09092][The Agda universal algebra library, Part 2: Structure]]. ~ William DeMeo. #ITP #Agda #Math
 + [[https://youtu.be/5e7UdWzITyQ][Formal methods for the informal engineer (Tutorial 2: The Coq theorem prover)]]. ~ Cody Roux. #ITP #Coq
