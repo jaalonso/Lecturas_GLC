@@ -18,6 +18,13 @@ contenido.
 
 ** Marzo de 2021
 
+*** 20-Mar-21
++ [[https://arxiv.org/abs/2103.08535v1][Quantum projective measurements and the CHSH inequality in Isabelle/HOL]]. ~ Mnacho Echenim, Mehdi Mhalla. #ITP #IsabelleHOL
++ [[https://arxiv.org/abs/2103.07543v1][Reasoning about the garden of forking paths]]. ~ Yao Li, Li-yao Xia, Stephanie Weirich. #ITP #Coq
++ [[https://hal.inria.fr/hal-03168208/document][Plotting in a formally verified way]]. ~ Guillaume Melquiond. #ITP #Coq
++ [[https://arxiv.org/abs/2103.06913v1][Classical (co)recursion: Programming]]. ~ Paul Downen, Zena M. Ariola. #Agda #Scheme #Python #Java
++ [[http://web.wakayama-u.ac.jp/~sakama/slide/aspocp2018-slide.pdf][Partial evaluation of logic programs in vector spaces]]. ~ Chiaki Sakama, Hien D. Nguyen, Taisuke Sato, Katsumi Inoue. #LogicProgramming #Math
+
 *** 18-Mar-21
 + [[https://www21.in.tum.de/~haslbema/documents/haslbeck2021thesis.pdf][Verified quantitative analysis of imperative algorithms]]. ~ Maximilian P.L. Haslbeck. #PhDThesis #ITP #IsabelleHOL
 + [[https://www.isa-afp.org/entries/Constructive_Cryptography_CM.html][Constructive cryptography in HOL: the communication modeling aspect]]. ~ Andreas Lochbihler, S. Reza Sefidgar. #ITP #IsabelleHOL
