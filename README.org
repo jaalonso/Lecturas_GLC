@@ -18,6 +18,9 @@ contenido.
 
 ** Marzo de 2021
 
+*** 21-Mar-21
++ [[https://readerunner.wordpress.com/2021/03/20/diagrams-for-penrose-tiles/][Diagrams for Penrose tiles]]. ~ Chris Reade. #Haskell #FunctionalProgramming #Math
+
 *** 20-Mar-21
 + [[https://arxiv.org/abs/2103.08535v1][Quantum projective measurements and the CHSH inequality in Isabelle/HOL]]. ~ Mnacho Echenim, Mehdi Mhalla. #ITP #IsabelleHOL
 + [[https://arxiv.org/abs/2103.07543v1][Reasoning about the garden of forking paths]]. ~ Yao Li, Li-yao Xia, Stephanie Weirich. #ITP #Coq
