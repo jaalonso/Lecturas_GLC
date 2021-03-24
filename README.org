@@ -18,6 +18,12 @@ contenido.
 
 ** Marzo de 2021
 
+*** 23-Mar-21
++ [[https://openreview.net/pdf/c9fb7dd359102a00d8676684bd704c54961a5285.pdf][IsarStep: A benchmark for high-level mathematical reasoning]]. ~ W. Li, L. Yu, Y. Wu, L.C. Paulson. #ITP #IsabelleHOL #Math #MachineLearning
++ [[https://arxiv.org/abs/2103.11389][Formal verification of Zagier's one-sentence proof]]. ~ Guillaume Dubach, Fabian Muehlboeck. #ITP #Coq #Math
++ [[https://www.snoyman.com/blog/2021/03/programmer-learning-list/][Programmer learning list]]. ~ Michael Snoyman (@snoyberg). #Programming
++ [[https://github.com/tomjaguarpaw/tilapia/blob/master/Windows10.md][Install GHC, Cabal and Haskell Language Server IDE on Windows 10]]. ~ Will Gould. #Haskell #FunctionalProgramming
+
 *** 21-Mar-21
 + [[https://readerunner.wordpress.com/2021/03/20/diagrams-for-penrose-tiles/][Diagrams for Penrose tiles]]. ~ Chris Reade. #Haskell #FunctionalProgramming #Math
 
