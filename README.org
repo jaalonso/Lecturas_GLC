@@ -18,6 +18,11 @@ contenido.
 
 ** Marzo de 2021
 
+*** 24-Mar-21
++ [[https://courses.cs.washington.edu/courses/cse505/17au/][Course: Programming languages]]. ~ Zach Tatlock, Leonardo De Moura. #CompSci #ITP #LeanProver
++ [[https://docs.google.com/document/d/1V22TC-vf6b7ciBquR5-IK3wJ1WCPhrBLWIP1Tf18z0Y/edit#][Coq fundamentals]]. ~ Zach Tatlock. #ITP #Coq
++ [[https://www.tomhoule.com/leaning-into-calculus-chapter-1/][Leaning into Spivak's calculus]]. ~ Tom Houle (@_tomhoule). #ITP #LeanProver #Math
+
 *** 23-Mar-21
 + [[https://openreview.net/pdf/c9fb7dd359102a00d8676684bd704c54961a5285.pdf][IsarStep: A benchmark for high-level mathematical reasoning]]. ~ W. Li, L. Yu, Y. Wu, L.C. Paulson. #ITP #IsabelleHOL #Math #MachineLearning
 + [[https://arxiv.org/abs/2103.11389][Formal verification of Zagier's one-sentence proof]]. ~ Guillaume Dubach, Fabian Muehlboeck. #ITP #Coq #Math
