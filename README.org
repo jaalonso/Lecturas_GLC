@@ -18,6 +18,11 @@ contenido.
 
 ** Marzo de 2021
 
+*** 26-Mar-21
++ [[https://plv.csail.mit.edu/blog/alectryon.html][Alectryon: a collection of tools for writing technical documents that mix Coq code and prose]]. ~ Clément Pit-Claudel. #ITP #Coq via @jjcarett2
++ [[https://www.ereslibre.es/blog/2019/09/building-a-personal-website-with-org-mode.html][Building a personal website with org-mode]]. ~ Rafael Fernández (@ereslibre). #Emacs #OrgMode
++ [[https://emacs.love/weblorg/][Weblorg: A static HTML generator for Emacs and Org-Mode]]. #Emacs #OrgMode
+
 *** 25-Mar-21
 + [[https://lexi-lambda.github.io/blog/2021/03/25/an-introduction-to-typeclass-metaprogramming/][An introduction to typeclass metaprogramming]]. ~ Alexis King (@lexi_lambda). #Haskell #FunctionalProgramming
 + [[https://www.tweag.io/blog/2021-03-25-haskell-java/][How to build hybrid Haskell and Java programs]]. ~ Facundo Domínguez, Andreas Hermann. #Haskell #Java
