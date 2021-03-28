@@ -18,6 +18,13 @@ contenido.
 
 ** Marzo de 2021
 
+*** 27-Mar-21
++ [[https://eprint.iacr.org/2021/397][SSProve: A foundational framework for modular cryptographic proofs in Coq]]. ~ C. Abate, P.G. Haselwarter, E. Rivas, A. Van Muylder, T. Winterhalter, C. Hritcu, K. Maillard, B. Spitters. #ITP #Coq
++ [[https://webspace.science.uu.nl/~swier004/publications/2021-jfp-submission.pdf][A well-known representation of monoids and its application to the function "vector reverse"]]. ~ Wouter Swierstra. #Agda #FunctionalProgramming
++ [[https://arxiv.org/abs/2103.11751v1][Functional Pearl: Witness me - Constructive arguments must be guided with concrete witness]]. ~ Hiromi Ishii. #Haskell #FunctionalProgramming
++ [[https://luctielen.com/posts/combining_folds_using_semigroups/][Combining folds using semigroups]]. ~ Luc Tielen (@luctielen). #Haskell #FunctionalProgramming
++ [[https://kowainik.github.io/posts/internal-functions][Many faces of internal functions]]. ~ Veronika Romashkina (@vrom911). #Haskell #FunctionalProgramming
+
 *** 26-Mar-21
 + [[https://plv.csail.mit.edu/blog/alectryon.html][Alectryon: a collection of tools for writing technical documents that mix Coq code and prose]]. ~ Clément Pit-Claudel. #ITP #Coq via @jjcarett2
 + [[https://www.ereslibre.es/blog/2019/09/building-a-personal-website-with-org-mode.html][Building a personal website with org-mode]]. ~ Rafael Fernández (@ereslibre). #Emacs #OrgMode
