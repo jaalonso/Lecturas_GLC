@@ -18,6 +18,13 @@ contenido.
 
 ** Marzo de 2021
 
+*** 29-Mar-21
++ [[https://perl.plover.com/yak/typing/notes.html][Strong typing]]. ~ M-J. Dominus (1999). #Programming
++ [[https://www.cse.chalmers.se/~rjmh/Papers/whyfp.pdf][Why functional programming matters]]. ~ John Hughes. #FunctionalProgramming
++ [[https://www.ams.org/journals/notices/202104/rnoti-p565.pdf][The dawning of a new era in applied mathematics]]. ~ Weinan E. #Math via @emulenews
++ [[https://www.lavanguardia.com/ciencia/20210329/6607152/inteligencia-artificial-nunca-sera-humana.html][La inteligencia artificial nunca será como la humana]]. ~ Ramón López de Mántaras. #IA
++ [[https://github.com/AbstProcDo/Master-Emacs-From-Scratch-with-Solid-Procedures/blob/master/01.semantic-keybinding-en.org][EmacsTutorial01: Semantic keybindings to memorize hundreds of keys instantly]]. #Emacs
+
 *** 27-Mar-21
 + [[https://eprint.iacr.org/2021/397][SSProve: A foundational framework for modular cryptographic proofs in Coq]]. ~ C. Abate, P.G. Haselwarter, E. Rivas, A. Van Muylder, T. Winterhalter, C. Hritcu, K. Maillard, B. Spitters. #ITP #Coq
 + [[https://webspace.science.uu.nl/~swier004/publications/2021-jfp-submission.pdf][A well-known representation of monoids and its application to the function "vector reverse"]]. ~ Wouter Swierstra. #Agda #FunctionalProgramming
