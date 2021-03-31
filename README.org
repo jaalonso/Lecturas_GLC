@@ -18,6 +18,17 @@ contenido.
 
 ** Marzo de 2021
 
+*** 30-Mar-21
++ [[https://www.ams.org//journals/bull/0000-000-00/S0273-0979-2021-01726-5/S0273-0979-2021-01726-5.pdf][Varieties of mathematical understanding]]. ~ Jeremy Avigad. #ITP #Math
++ [[https://arxiv.org/abs/2103.13534v1][A formal proof of the Lax equivalence theorem for finite difference schemes]]. ~ Mohit Tekriwal, Karthik Duraisamy, Jean-Baptiste Jeannin. #ITP #Coq #Math
++ [[https://hal.archives-ouvertes.fr/hal-03176024][Verifying min-plus Computations with Coq (extended version with appendix)]]. ~ Lucien Rakotomalala, Pierre Roux, Marc Boyer. #ITP #Coq
++ [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7984530/][For a few dollars more: Verified fine-grained algorithm analysis down to LLVM]]. ~ Maximilian P.L. Haslbeck, Peter Lammich. #ITP #IsabelleHOL
++ [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7984549/][Certifying proofs in the first-order theory of rewriting]]. ~ Fabian Mitterwallner, Alexander Lochmann, Aart Middeldorp, Bertram Felgenhauer. #ITP #IsabelleHOL
++ [[https://arxiv.org/abs/2103.15702][Limits of real numbers in the binary signed digit representation]]. ~ Franziskus Wiesnet, Nils Köpp. #Haskell #FunctionalProgramming #Math
++ [[https://www.microsiervos.com/archivo/matematicas/analisis-complejo-mandelbrot-julia-codigo-abierto.html][El Análisis complejo y una exploración de los conjuntos de Mandelbrot y Julia con código abierto]]. ~ @Alvy. #Matemáticas #Programación
++ [[https://complex-analysis.com/es.html][Análisis complejo (Una introducción visual e interactiva)]]. ~ Juan Carlos Ponce Campuzano. #eBook #Matemáticas
++ [[https://novo.manzano.pro.br/wp/download/logica-de-programacao-funcional-pense-em-hope/][Lógica de programação funcional: Pense em Hope (Exercícios de programação funcional com Hope)]]. ~ José Augusto N. G. Manzano, José A. Alonso Jiménez, María J. Hidalgo Doblado. #eBook #Hope #FunctionalProgramming
+
 *** 29-Mar-21
 + [[https://perl.plover.com/yak/typing/notes.html][Strong typing]]. ~ M-J. Dominus (1999). #Programming
 + [[https://www.cse.chalmers.se/~rjmh/Papers/whyfp.pdf][Why functional programming matters]]. ~ John Hughes. #FunctionalProgramming
