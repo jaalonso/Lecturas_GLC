@@ -18,6 +18,12 @@ contenido.
 
 ** Marzo de 2021
 
+*** 31-Mar-21
++ [[http://www.andreas-lochbihler.de/pub/basin2021.pdf][Abstract modeling of systems communication in constructive cryptography using CryptHOL]]. ~ D. Basin, A. Lochbihler, U. Maurer, S.R. Sefidgar. #ITP #IsabelleHOL
++ [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7984526/pdf/978-3-030-72019-3_Chapter_5.pdf][Verified software units]]. ~ Lennart Beringer. #ITP #Coq
++ [[https://github.com/ekmett/linear-logic][linear-logic: a version of intuitionistic linear logic on top of linear Haskell]]. ~ Edward Kmett (@kmett). #Haskell #FunctionalProgramming #Logic
++ [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7984547/pdf/978-3-030-72019-3_Chapter_10.pdf/?tool=EBI][Do judge a test by its cover: Combining combinatorial and property-based testing]]. ~ Harrison Goldstein, John Hughes, Leonidas Lampropoulos, Benjamin C. Pierce. #Haskell #FunctionalProgramming
+
 *** 30-Mar-21
 + [[https://www.ams.org//journals/bull/0000-000-00/S0273-0979-2021-01726-5/S0273-0979-2021-01726-5.pdf][Varieties of mathematical understanding]]. ~ Jeremy Avigad. #ITP #Math
 + [[https://arxiv.org/abs/2103.13534v1][A formal proof of the Lax equivalence theorem for finite difference schemes]]. ~ Mohit Tekriwal, Karthik Duraisamy, Jean-Baptiste Jeannin. #ITP #Coq #Math
