@@ -19,6 +19,9 @@ contenido.
 
 ** Abril de 2021
 
+*** 03-Abr-21
++ [[https://eprint.iacr.org/2021/397.pdf][SSProve: A foundational framework for modular cryptographic proofs in Coq]]. ~ Carmine Abate et als. #ITP #Coq
+
 *** 02-Abr-21
 + [[https://github.com/J-AugustoManzano/hope][Código fonte do livro "Lógica de programação funcional: Pense em Hope"]]. ~ José Augusto N. G. Manzano. #Hope #FunctionalProgramming
 + [[https://gallais.github.io/pdf/draft_sigbovik21.pdf][Dependent stringly-typed programming]]. ~ @anormalform. #Agda #FunctionalProgramming #ITP
