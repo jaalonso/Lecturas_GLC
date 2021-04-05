@@ -19,6 +19,9 @@ contenido.
 
 ** Abril de 2021
 
+*** 04-Abr-21
++ [[https://repositorioaberto.uab.pt/bitstream/10400.2/9925/1/TD_IvoRobert.pdf][ProverX: Rewriting and extending Prover9]]. ~ Ivo Robert. #PhDThesis #ATP #Prover9
+
 *** 03-Abr-21
 + [[https://eprint.iacr.org/2021/397.pdf][SSProve: A foundational framework for modular cryptographic proofs in Coq]]. ~ Carmine Abate et als. #ITP #Coq
 
