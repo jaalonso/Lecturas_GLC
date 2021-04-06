@@ -19,6 +19,13 @@ contenido.
 
 ** Abril de 2021
 
+*** 05-Abr-21
++ [[https://xenaproject.wordpress.com/2021/04/03/induction-and-inductive-types/][Induction, and inductive types]]. ~ Kevin Buzzard (@XenaProject). #ITP #LeanProver #Math
++ [[https://youtu.be/LZMtQNdqtvc][Doing mathematics with simple types: Infinitary combinatorics in Isabelle/HOL]]. ~ Lawrence Paulson. #ITP #IsabelleHOL #Math
++ [[https://arxiv.org/abs/2104.01052][An evaluation of the Archive of Formal Proofs]]. ~ Carlin MacKenzie, Jacques Fleuriot, James Vaughan. #ITP #IsabelleHOL
++ [[https://taylor.fausak.me/2021/04/03/default-exception-handler-in-haskell/][Default exception handler in Haskell]]. ~ Taylor Fausak. #Haskell #FunctionalProgramming
++ [[https://home.fnal.gov/~neilsen/notebook/orgExamples/org-examples.html][Emacs org-mode examples and cookbook]]. ~ Eric H. Neilsen, Jr. #Emacs
+
 *** 04-Abr-21
 + [[https://repositorioaberto.uab.pt/bitstream/10400.2/9925/1/TD_IvoRobert.pdf][ProverX: Rewriting and extending Prover9]]. ~ Ivo Robert. #PhDThesis #ATP #Prover9
 
