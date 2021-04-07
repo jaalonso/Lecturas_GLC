@@ -19,6 +19,16 @@ contenido.
 
 ** Abril de 2021
 
+*** 06-Abr-21
++ [[https://arxiv.org/abs/2104.00506v1][Intuitionistic NF Set Theory]]. ~ Michael Beeson. #Logic #Math #ITP #LeanProver
++ [[https://github.com/leanprover-community/mathlib/blob/82fd6e1e1b9b35249e25d1e19af1df0eb7cf2a15/src/logic/girard.lean][Girard's paradox]]. ~ Mario Carneiro. #ITP #LeanProver #Logic #Math
++ [[https://github.com/leanprover-community/mathlib/blob/89ea423d261b46c4e90e49362a6471a5ceb1d6d5/archive/imo/imo2005_q3.lean][Formalization in Lean of IMO 2005 Q3]]. ~ Manuel Candales. #ITP #LeanProver #Math
++ [[https://github.com/leanprover-community/mathlib/blob/1e1eaae6ad91319c1f3cc2f414a0f763b8f15641/archive/imo/imo2008_q2.lean][Formalization in Lean of IMO 2008 Q2]]. ~ Manuel Candales. #ITP #LeanProver #Math
++ [[https://github.com/leanprover-community/mathlib/blob/1e1eaae6ad91319c1f3cc2f414a0f763b8f15641/archive/imo/imo2011_q5.lean][Formalization in Lean of IMO 2011 Q5]]. ~ Alain Verberkmoes. #ITP #LeanProver #Math
++ [[https://bor0.wordpress.com/2021/04/05/capturing-number-theory-in-haskell/ https://bor0.wordpress.com/2021/04/05/capturing-number-theory-in-haskell/][Capturing number theory in Haskell]]. ~ Boro Sitnikovski (@BSitnikovski). #Haskell #FunctionalProgramming #Math
++ [[https://erick.navarro.io/blog/auto-build-and-publish-emacs-org-configuration-as-a-website/][Auto build and publish emacs org configuration as a website]]. ~ Erick Navarro (@erickgnavar). #Emacs
++ [[https://hal.archives-ouvertes.fr/hal-03184956/document][Division by zero in Logic and Computing]]. ~ Jan Bergstra. #Logic #Math #CompSci
+
 *** 05-Abr-21
 + [[https://xenaproject.wordpress.com/2021/04/03/induction-and-inductive-types/][Induction, and inductive types]]. ~ Kevin Buzzard (@XenaProject). #ITP #LeanProver #Math
 + [[https://youtu.be/LZMtQNdqtvc][Doing mathematics with simple types: Infinitary combinatorics in Isabelle/HOL]]. ~ Lawrence Paulson. #ITP #IsabelleHOL #Math
