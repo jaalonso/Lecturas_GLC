@@ -19,6 +19,11 @@ contenido.
 
 ** Abril de 2021
 
+*** 08-Abr-21
++ [[https://github.com/leanprover-community/mathlib/blob/a6024f10dde5322da06d1158221e1827d3ba4cfe/archive/imo/imo2008_q4.lean][Formalization in Lean of IMO 2008 Q4]]. ~ Manuel Candales. #ITP #LeanProver #Math
++ [[https://gilmi.me/blog/post/2021/04/06/giml-type-inference][Giml's type inference engine]]. ~ Gil Mizrahi (@_gilmi). #Haskell #FunctionalProgramming
++ [[https://github.com/jimburton/scrabble][Scrabbλe: A one- or two-player implementation of Scrabble for teaching functional programming]]. ~ Jim Burton. #eBook #Haskell #FunctionalProgramming
+
 *** 06-Abr-21
 + [[https://arxiv.org/abs/2104.00506v1][Intuitionistic NF Set Theory]]. ~ Michael Beeson. #Logic #Math #ITP #LeanProver
 + [[https://github.com/leanprover-community/mathlib/blob/82fd6e1e1b9b35249e25d1e19af1df0eb7cf2a15/src/logic/girard.lean][Girard's paradox]]. ~ Mario Carneiro. #ITP #LeanProver #Logic #Math
