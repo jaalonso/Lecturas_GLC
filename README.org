@@ -19,6 +19,12 @@ contenido.
 
 ** Abril de 2021
 
+*** 09-Abr-21
++ [[https://www.isa-afp.org/entries/Grothendieck_Schemes.html][Grothendieck's Schemes in Algebraic Geometry]]. ~ Anthony Bordg, Lawrence Paulson, Wenda Li. #ITP #IsabelleHOL #Math
++ [[https://code.world/haskel][Continued fractions in Haskell]]. ~ Chris Smith (@cdsmithus).l#P7oZc6pbWBK6wRaBBMm0goA #Haskell #FunctionalProgramming #Math
++ [[https://bor0.wordpress.com/2021/04/09/algorithmic-puzzle-continuous-increasing-subsequences/][Algorithmic puzzle: Continuous increasing subsequences]]. ~ Boro Sitnikovski (@BSitnikovski). #Haskell #FunctionalProgramming
++ [[https://www.haskellforall.com/2021/04/how-to-replace-proxy-with.html][How to replace Proxy with AllowAmbiguousTypes]]. ~ Gabriel Gonzalez (@GabrielG439). #Haskell #FunctionalProgramming
+
 *** 08-Abr-21
 + [[https://github.com/leanprover-community/mathlib/blob/a6024f10dde5322da06d1158221e1827d3ba4cfe/archive/imo/imo2008_q4.lean][Formalization in Lean of IMO 2008 Q4]]. ~ Manuel Candales. #ITP #LeanProver #Math
 + [[https://gilmi.me/blog/post/2021/04/06/giml-type-inference][Giml's type inference engine]]. ~ Gil Mizrahi (@_gilmi). #Haskell #FunctionalProgramming
