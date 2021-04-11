@@ -19,6 +19,15 @@ contenido.
 
 ** Abril de 2021
 
+*** 10-Abr-21
++ [[https://arxiv.org/abs/2104.02549][Connecting constructive notions of ordinals in Homotopy Type Theory]]. ~ Nicolai Kraus, Fredrik Nordvall Forsberg, Chuangjie Xu. #ITP #Agda #Logic #Math #HoTT
++ [[https://49jaiio.sadio.org.ar/pdfs/saei/SAEI-12.pdf][Propuesta de enseñanza de la formalización de la Matemática utilizando un asistente de pruebas en estudiantes de la Licenciatura en Ciencias de la Computación]]. ~ Daniel Severın, Alejandro Hernández. #ITP #Coq
++ [[https://github.com/leanprover-community/mathlib/blob/c6b06369392473fe9ebc480fbcfed1695db3e554/archive/imo/imo2008_q3.lean][Formalization in Lean of IMO 2008 Q3]]. ~ Manuel Candales. #ITP #LeanProver #Math
++ [[https://arxiv.org/abs/2104.01112][NaturalProofs: Mathematical theorem proving in natural language]]. ~ Sean Welleck, Jiacheng Liu, Ronan Le Bras, Hannaneh Hajishirzi, Yejin Choi, Kyunghyun Cho. #ATP #MachineLearning
++ [[https://youtu.be/79ymkGQW3b4][Type theory from the perspective of Artificial Intelligence]]. ~ David McAllester. #TypeTheory #AI
++ [[https://arxiv.org/abs/2104.02466][A review of formal methods applied to machine learning]]. ~ Caterina Urban, Antoine Miné. #MachineLearning #FormalMethods
++ [[https://youtu.be/nmBkU-l1zyc][Prolog meta-interpreters]]. ~ Markus Triska (@MarkusTriska). #Prolog #LogicProgramming
+
 *** 09-Abr-21
 + [[https://www.isa-afp.org/entries/Grothendieck_Schemes.html][Grothendieck's Schemes in Algebraic Geometry]]. ~ Anthony Bordg, Lawrence Paulson, Wenda Li. #ITP #IsabelleHOL #Math
 + [[https://code.world/haskel][Continued fractions in Haskell]]. ~ Chris Smith (@cdsmithus).l#P7oZc6pbWBK6wRaBBMm0goA #Haskell #FunctionalProgramming #Math
