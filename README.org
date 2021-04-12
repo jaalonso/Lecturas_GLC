@@ -19,6 +19,9 @@ contenido.
 
 ** Abril de 2021
 
+*** 11-Abr-21
++ [[https://osa1.net/posts/2021-04-10-sums-and-products.html][Products and sums, named and anonymous]]. ~ Ömer Sinan Ağacan. #Haskell #FunctionalProgramming
+
 *** 10-Abr-21
 + [[https://arxiv.org/abs/2104.02549][Connecting constructive notions of ordinals in Homotopy Type Theory]]. ~ Nicolai Kraus, Fredrik Nordvall Forsberg, Chuangjie Xu. #ITP #Agda #Logic #Math #HoTT
 + [[https://49jaiio.sadio.org.ar/pdfs/saei/SAEI-12.pdf][Propuesta de enseñanza de la formalización de la Matemática utilizando un asistente de pruebas en estudiantes de la Licenciatura en Ciencias de la Computación]]. ~ Daniel Severın, Alejandro Hernández. #ITP #Coq
