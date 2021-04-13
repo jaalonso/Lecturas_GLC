@@ -19,6 +19,13 @@ contenido.
 
 ** Abril de 2021
 
+*** 12-Abr-21
++ [[https://github.com/leanprover-community/mathlib/blob/e269dbc17a978dfabe57975b84d0b0250b78a2db/src/tactic/itauto.lean][Intuitionistic tautology (`itauto`) decision procedure in Lean]]. ~ Mario Carneiro. #ITP #LeanProver #Logic
++ [[https://arxiv.org/abs/2104.04095][First-order natural deduction in Agda]]. ~ Louis Warren. #ITP #Agda #Logic
++ [[https://github.com/BartoszMilewski/Publications/tree/master/TheDaoOfFP][The Dao of functional programming]]. ~ Bartosz Milewski (@BartoszMilewski). #Haskell #FunctionalProgramming #CategoryTheory
++ [[https://www.brynmawr.edu/cs/resources/beauty-of-programming][The beauty of programming]]. ~ Linus Torvalds. #Programming
++ [[https://www.vidal-rosset.net/gnus_emacs_as_email_client_in_imap_with_protonmail.html][Gnus Emacs as email client in IMAP with ProtonMail]]. ~ Joseph Vidal-Rosset. #Emacs #ProtonMail
+
 *** 11-Abr-21
 + [[https://osa1.net/posts/2021-04-10-sums-and-products.html][Products and sums, named and anonymous]]. ~ Ömer Sinan Ağacan. #Haskell #FunctionalProgramming
 
