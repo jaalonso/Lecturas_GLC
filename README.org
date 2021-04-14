@@ -19,6 +19,16 @@ contenido.
 
 ** Abril de 2021
 
+*** 13-Abr-21
++ [[https://www.researchgate.net/profile/David-Fuenmayor/publication/349043183_Topological_semantics_for_paraconsistent_and_paracomplete_logics_in_IsabelleHOL/links/606c0941458515614d3a53c9/Topological-semantics-for-paraconsistent-and-paracomplete-logics-in-Isabelle-HOL.pdf][Topological semantics for paraconsistent and paracomplete logics in Isabelle/HOL]]. ~ David Fuenmayor. #ITP #IsabelleHOL #Logic
++ [[https://jonascarpay.com/posts/2021-01-28-haskell-project-template.html][The working programmer’s guide to setting up Haskell projects]]. ~ Jonas Carpay (@jonascarpay). #Haskell #FunctionalProgramming
++ [[https://jrsinclair.com/articles/2019/what-i-wish-someone-had-explained-about-functional-programming/][Things I wish someone had explained about functional programming (Part 1: Faulty assumptions)]]. ~ James Sinclair (@jrsinclair). #FunctionalProgramming
++ [[https://jrsinclair.com/articles/2019/algebraic-structures-what-i-wish-someone-had-explained-about-functional-programming/][Things I wish someone had explained about functional programming (Part 2: Algebraic structures)]]. ~ James Sinclair (@jrsinclair). #FunctionalProgramming
++ [[https://jrsinclair.com/articles/2019/type-classes-what-i-wish-someone-had-explained-about-functional-programming/][Things I wish someone had explained about functional programming (Part 3: Type classes)]]. ~ James Sinclair (@jrsinclair). #FunctionalProgramming
++ [[https://jrsinclair.com/articles/2019/algebraic-data-types-what-i-wish-someone-had-explained-about-functional-programming/][Things I wish someone had explained about functional programming (Part 4: Algebraic data types)]]. ~ James Sinclair (@jrsinclair). #FunctionalProgramming
++ [[https://github.com/quchen/generative-art][Generative art using Haskell]]. ~ David Luposchainsky (@quch3n). #Haskell #FunctionalProgramming
++ [[https://blogs.elconfidencial.com/tecnologia/tribuna/2021-04-13/programador-software-consultoria-producto-universidad_3030868/][Programar es de pobres: por qué el mundo del 'software' está roto en España]]. ~ Eduardo Manchón (@eduardomanchon). #Programación #Informática
+
 *** 12-Abr-21
 + [[https://github.com/leanprover-community/mathlib/blob/e269dbc17a978dfabe57975b84d0b0250b78a2db/src/tactic/itauto.lean][Intuitionistic tautology (`itauto`) decision procedure in Lean]]. ~ Mario Carneiro. #ITP #LeanProver #Logic
 + [[https://arxiv.org/abs/2104.04095][First-order natural deduction in Agda]]. ~ Louis Warren. #ITP #Agda #Logic
