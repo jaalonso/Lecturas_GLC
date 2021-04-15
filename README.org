@@ -19,6 +19,9 @@ contenido.
 
 ** Abril de 2021
 
+*** 14-Abr-21
++ [[https://culturacientifica.com/2013/04/24/para-que-sirven-las-matematicas/][¿Para qué sirven las matemáticas?]] ~ Marta Macho Stadler (@MartaMachoS). #Matemáticas
+
 *** 13-Abr-21
 + [[https://www.researchgate.net/profile/David-Fuenmayor/publication/349043183_Topological_semantics_for_paraconsistent_and_paracomplete_logics_in_IsabelleHOL/links/606c0941458515614d3a53c9/Topological-semantics-for-paraconsistent-and-paracomplete-logics-in-Isabelle-HOL.pdf][Topological semantics for paraconsistent and paracomplete logics in Isabelle/HOL]]. ~ David Fuenmayor. #ITP #IsabelleHOL #Logic
 + [[https://jonascarpay.com/posts/2021-01-28-haskell-project-template.html][The working programmer’s guide to setting up Haskell projects]]. ~ Jonas Carpay (@jonascarpay). #Haskell #FunctionalProgramming
