@@ -19,6 +19,10 @@ contenido.
 
 ** Abril de 2021
 
+*** 15-Abr-21
++ [[https://github.com/leanprover-community/mathlib/blob/8d3e8b5b2635fc20a27922893cdf852bd0bd5706/archive/imo/imo1977_q6.lean][Formalization in Lean of IMO 1977 Q6]]. ~ Tian Chen. #ITP #LeanProver #Math
++ [[https://github.com/leanprover-community/mathlib/blob/3379f3ed992a6bce819a030178082efb6f6a92b4/archive/100-theorems-list/57_herons_formula.lean][Heron's Formula (in Lean)]]. ~ Matt Kempster. #ITP #LeanProver #Math
+
 *** 14-Abr-21
 + [[https://culturacientifica.com/2013/04/24/para-que-sirven-las-matematicas/][¿Para qué sirven las matemáticas?]] ~ Marta Macho Stadler (@MartaMachoS). #Matemáticas
 
