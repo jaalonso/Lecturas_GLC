@@ -19,6 +19,15 @@ contenido.
 
 ** Abril de 2021
 
+*** 16-Abr-21
++ [[https://plato.stanford.edu/entries/type-theory/][Type theory]]. ~ Thierry Coquand. #TypeTheory
++ [[https://functional.works-hub.com/learn/more-on-types-typeclasses-and-the-foldable-typeclass-e1862][More on types, typeclasses and the foldable typeclass]]. ~ Marty Stumpf. #Haskell #FunctionalProgramming
++ [[https://chrisdone.com/posts/the-movement-principle/][The movement principle]]. ~ Chris Done (@christopherdone). #Haskell #FunctionalProgramming
++ [[https://www.tweag.io/blog/2021-04-15-arrows-through-a-different-lens/][Arrows, through a different lens]]. ~ Juan Raphael Diaz Simões. #Haskell #FunctionalProgramming
++ [[https://www.tweag.io/blog/2021-04-08-capabilities-ad-hoc-interpreters/][Ad-hoc interpreters with capability]]. ~ Gaël Deest, Andreas Herrmann. #Haskell #FunctionalProgramming
++ [[https://medium.math.dev/lisp-the-web-4c00c88d11f9][Lisp & the Web (Introductory reference guide to creating Web applications with Common Lisp & Google Compute Engine)]]. ~ Ashok Khanna. #CommonLisp #Programming
++ [[https://www.quantamagazine.org/mathematician-disproves-group-algebra-unit-conjecture-20210412/][Mathematician disproves 80-year-old algebra conjecture]]. ~ Erica Klarreich (@EricaKlarreich). #Math
+
 *** 15-Abr-21
 + [[https://github.com/leanprover-community/mathlib/blob/8d3e8b5b2635fc20a27922893cdf852bd0bd5706/archive/imo/imo1977_q6.lean][Formalization in Lean of IMO 1977 Q6]]. ~ Tian Chen. #ITP #LeanProver #Math
 + [[https://github.com/leanprover-community/mathlib/blob/3379f3ed992a6bce819a030178082efb6f6a92b4/archive/100-theorems-list/57_herons_formula.lean][Heron's Formula (in Lean)]]. ~ Matt Kempster. #ITP #LeanProver #Math
