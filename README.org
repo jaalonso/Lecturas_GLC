@@ -19,6 +19,18 @@ contenido.
 
 ** Abril de 2021
 
+*** 17-Abr-21
++ [[https://arxiv.org/abs/2104.05256][A Coq formalization of Lebesgue integration of nonnegative functions]]. ~ Sylvie Boldo, François Clément, Florian Faissole, Vincent Martin, Micaela Mayero. #ITP #Coq #Math
++ [[https://www.cs.columbia.edu/~rgu/publications/oakland21-li.pdf][A secure and formally verified Linux KVM hypervisor]]. ~ Shih-Wei Li, Xupeng Li, Ronghui Gu, Jason Nieh, John Zhuang Hui. #ITP #Coq
++ [[https://arxiv.org/abs/2104.05516][Machine-checked ZKP for NP-relations: Formally verified security proofs and implementations of MPC-in-the-head]]. ~ José Carlos Bacelar Almeida et als. #EasyCrypt
++ [[https://www.easycrypt.info][EasyCrypt: Computer-aided cryptographic proofs]]. #EasyCrypt
++ [[https://www.easycrypt.info/downloads/tutorial/tutorial-prg.pdf][EasyCrypt: A tutorial]]. ~ Gilles Barthe et als. #EasyCrypt
++ [[https://arxiv.org/abs/2104.05207][Online machine learning techniques for Coq: A comparison]]. ~ Liao Zhang, Lasse Blaauwbroek, Bartosz Piotrowski, Prokop Černý, Cezary Kaliszyk, Josef Urban. #ITP #Coq #MachineLearning
++ [[https://turcomat.org/index.php/turkbilmat/article/download/2435/2138][Balanced Academic Curriculum: Looking for an optimal solution with metaheuristics and functional programming]]. ~ José Miguel Rubio, Cristian Vidal-Silva, Luis Carter, Miguel Tupac-Yupanqui. #Haskell #FunctionalProgramming
++ [[http://gallais.github.io/blog/poltergeist-types][Poltergeist types]]. ~ G. Allais. #Haskell #FunctionalProgramming
++ [[https://ec-jones.github.io/flocking.html][Functional flocks]]. ~ Eddie Jones. #Haskell #FunctionalProgramming
++ [[https://aadaa-fgtaa.github.io/blog/optionally/][Checking for uncheckable: optional constraints]]. #Haskell #FunctionalProgramming
+
 *** 16-Abr-21
 + [[https://plato.stanford.edu/entries/type-theory/][Type theory]]. ~ Thierry Coquand. #TypeTheory
 + [[https://functional.works-hub.com/learn/more-on-types-typeclasses-and-the-foldable-typeclass-e1862][More on types, typeclasses and the foldable typeclass]]. ~ Marty Stumpf. #Haskell #FunctionalProgramming
