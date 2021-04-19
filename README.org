@@ -19,6 +19,9 @@ contenido.
 
 ** Abril de 2021
 
+*** 18-Abr-21
++ [[https://xenaproject.wordpress.com/2021/04/18/induction-on-equality/][Induction on equality]]. ~ Kevin Buzzard (@XenaProject). #ITP #LeanProver #Math
+
 *** 17-Abr-21
 + [[https://arxiv.org/abs/2104.05256][A Coq formalization of Lebesgue integration of nonnegative functions]]. ~ Sylvie Boldo, François Clément, Florian Faissole, Vincent Martin, Micaela Mayero. #ITP #Coq #Math
 + [[https://www.cs.columbia.edu/~rgu/publications/oakland21-li.pdf][A secure and formally verified Linux KVM hypervisor]]. ~ Shih-Wei Li, Xupeng Li, Ronghui Gu, Jason Nieh, John Zhuang Hui. #ITP #Coq
