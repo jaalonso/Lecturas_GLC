@@ -19,6 +19,13 @@ contenido.
 
 ** Abril de 2021
 
+*** 20-Abr-21
++ [[https://arxiv.org/abs/2104.09366][Simple type theory is not too simple: Grothendieck's schemes without dependent types]]. ~ Anthony Bordg, Lawrence Paulson, Wenda Li. #ITP #IsabelleHOL #Math
++ [[https://github.com/mirefek/sokoban.lean][Sokoban implementation in Lean for proving solvability / unsolvability]]. ~ Miroslav Olšák. #ITP #LeanProver
++ [[https://cdsmithus.medium.com/continued-fractions-haskell-equational-reasoning-property-testing-and-rewrite-rules-in-action-77a16d750e3f][Continued fractions: Haskell, equational reasoning, property testing, and rewrite rules in action]]. ~ Chris Smith (@cdsmithus). #Haskell #FunctionalProgramming
++ [[https://medium.com/geekculture/a-random-tour-of-typeclass-in-haskell-87a5a2125e1a][A random tour of typeclass in Haskell]]. ~ Ong Yi Ren. #Haskell #FunctionalProgramming
++ [[https://alpha2phi.medium.com/writing-technical-documentation-with-emacs-276f13284e54][Writing technical documentation with Emacs]]. #Emacs #OrgMode
+
 *** 18-Abr-21
 + [[https://xenaproject.wordpress.com/2021/04/18/induction-on-equality/][Induction on equality]]. ~ Kevin Buzzard (@XenaProject). #ITP #LeanProver #Math
 
