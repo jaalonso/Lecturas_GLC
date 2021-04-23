@@ -19,6 +19,11 @@ contenido.
 
 ** Abril de 2021
 
+*** 22-Abr-21
++ [[https://www.pointedset.ca/blog/2020/02/06/proptype.html][A practical difference between Props and Types in Lean]]. ~ Mathieu Guay-Paquet. #ITP #LeanProver
++ [[https://github.com/leanprover-community/mathlib/blob/afa6b72e20728cf46912ef9333d0f08ccebf7a6f/src/geometry/euclidean/sphere.lean][Product of segments of chords in Lean]]. ~ Manuel Candales. #ITP #LeanProver #Math
++ [[https://www.haskellforall.com/2021/04/the-end-of-history-for-programming.html][The end of history for programming]]. ~ Gabriel Gonzalez (@GabrielG439). #Programming
+
 *** 20-Abr-21
 + [[https://arxiv.org/abs/2104.09366][Simple type theory is not too simple: Grothendieck's schemes without dependent types]]. ~ Anthony Bordg, Lawrence Paulson, Wenda Li. #ITP #IsabelleHOL #Math
 + [[https://github.com/mirefek/sokoban.lean][Sokoban implementation in Lean for proving solvability / unsolvability]]. ~ Miroslav Olšák. #ITP #LeanProver
