@@ -19,6 +19,13 @@ contenido.
 
 ** Abril de 2021
 
+*** 23-Abr-21
++ [[https://arxiv.org/abs/2104.11157][Ackermann's function in iterative form: A proof assistant experiment]]. ~ Lawrence C Paulson. #ITP #IsabelleHOL
++ [[https://www.danielbrice.net/blog/of-function-instances-and-abstract-syntax/][Of function instances and abstract syntax]]. ~ Daniel Brice. #Haskell #FunctionalProgramming
++ [[https://serokell.io/blog/type-families-haskell][Type families in Haskell: The definitive guide]]. ~ Vladislav Zavialov. #Haskell #FunctionalProgramming
++ [[https://www.poberezkin.com/posts/2021-04-21-what-i-wish-somebody-told-me-when-i-was-learning-Haskell.html][What I wish somebody told me when I was learning Haskell]]. ~ Evgeny Poberezkin (@epoberezkin). #Haskell #FunctionalProgramming
++ [[https://spectrum.ieee.org/tech-talk/artificial-intelligence/machine-learning/the-state-of-ai-in-15-graphs][15 graphs you need to see to understand AI in 2021]]. ~ Eliza Strickland. #AI
+
 *** 22-Abr-21
 + [[https://www.pointedset.ca/blog/2020/02/06/proptype.html][A practical difference between Props and Types in Lean]]. ~ Mathieu Guay-Paquet. #ITP #LeanProver
 + [[https://github.com/leanprover-community/mathlib/blob/afa6b72e20728cf46912ef9333d0f08ccebf7a6f/src/geometry/euclidean/sphere.lean][Product of segments of chords in Lean]]. ~ Manuel Candales. #ITP #LeanProver #Math
