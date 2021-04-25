@@ -19,6 +19,14 @@ contenido.
 
 ** Abril de 2021
 
+*** 24-Abr-21
++ [[https://arxiv.org/abs/2002.09282][Homotopy Type Theory in Isabelle]]. ~ Joshua Chen. #ITP #IsabelleHOL #HoTT
++ [[https://pp.ipd.kit.edu/uploads/publikationen/dieterichs21masterarbeit.pdf][Formal verification of pattern matching analyses]]. ~ Henning Dieterichs. #ITP #LeanProver
++ [[https://www.ps.uni-saarland.de/~smolka/drafts/icl2021.pdf][Modeling and proving in computational type theory using the Coq proof assistant]]. ~ Gert Smolka. #eBook #ITP #Coq
++ [[https://tel.archives-ouvertes.fr/tel-03202580/document][Formalisation en Coq des algorithmes de filtre numérique calculés en précision finie]]. ~ Diane Gallois-Wong. #ITP #Coq #Math
++ [[https://lmcs.episciences.org/7383/pdf][Logic for exact real arithmetic]]. ~ Helmut Schwichtenberg, Franziskus Wiesnet. #ITP #MinLog #Haskell
++ [[https://home.sandiego.edu/~shulman/papers/induction.pdf][Induction on equality]]. #Logic #Math #CompSci
+
 *** 23-Abr-21
 + [[https://arxiv.org/abs/2104.11157][Ackermann's function in iterative form: A proof assistant experiment]]. ~ Lawrence C Paulson. #ITP #IsabelleHOL
 + [[https://www.danielbrice.net/blog/of-function-instances-and-abstract-syntax/][Of function instances and abstract syntax]]. ~ Daniel Brice. #Haskell #FunctionalProgramming
