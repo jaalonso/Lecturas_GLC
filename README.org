@@ -19,6 +19,10 @@ contenido.
 
 ** Abril de 2021
 
+*** 25-Abr-21
++ [[https://youtu.be/44fb3tI2Cak][Grandes ideas de la Filosofía: Lógica]]. #Lógica
++ [[https://github.com/leanprover-community/mathlib/blob/2ecd65e6de2939f09df9d964782f8ec7ba4aeb5c/archive/imo/imo2001_q2.lean][Formalization in Lean of IMO 2001 Q2]]. ~ Tian Chen. #ITP #LeanProver #Math #IMO
+
 *** 24-Abr-21
 + [[https://arxiv.org/abs/2002.09282][Homotopy Type Theory in Isabelle]]. ~ Joshua Chen. #ITP #IsabelleHOL #HoTT
 + [[https://pp.ipd.kit.edu/uploads/publikationen/dieterichs21masterarbeit.pdf][Formal verification of pattern matching analyses]]. ~ Henning Dieterichs. #ITP #LeanProver
