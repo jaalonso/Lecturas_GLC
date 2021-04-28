@@ -19,6 +19,16 @@ contenido.
 
 ** Abril de 2021
 
+*** 27-Abr-21
++ [[https://youtu.be/N7orNWIur-c][Induction and collection up to definable elements: calibrating the strength of parameter-free Δn-minimization]]. ~ Andrés Cordón. #Logic #Math
++ [[https://novo.manzano.pro.br/wp/download/logica-de-programacao-funcional-programe-em-hope/][Lógica de programação funcional: Programe em Hope]]. ~ José Augusto N. G. Manzano, José A. Alonso. #Hope #FunctionalProgramming
++ [[https://github.com/J-AugustoManzano/hope_programe][Código fonte do livro "Lógica de programação funcional: Programe em Hope"]]. ~ José Augusto N. G. Manzano. #Hope #FunctionalProgramming
++ [[https://www21.in.tum.de/~rosskops/papers/metalogic_pre.pdf][Isabelle's metalogic: Formalization and proof checker]]. ~ Tobias Nipkow, Simon Roßkopf. #ITP #IsabelleHOL #Logic
++ [[https://youtu.be/1SCvFDZDLgQ][Mathematical structures in dependent type theory]]. ~ Assia Mahboubi. #ITP #Coq #Math
++ [[https://academic.oup.com/iwc/advance-article/doi/10.1093/iwcomp/iwab012/6232199][Balancing the formal and the informal in user-centred design]]. ~ M.D. Harrison, P. Masci, J.C. Campos. #ITP #PVS
++ [[https://cacm.acm.org/magazines/2021/5/252165-a-satisfying-result/fulltex][A satisfying result]]. ~ Don Monroe.t#.YIeLaVxXfk0.twitter #Math #CompSci #SATSolvers
++ [[https://www.investigacionyciencia.es/noticias/el-producto-de-matrices-en-pos-de-una-meta-mtica-19718][El producto de matrices, en pos de una meta mítica]]. ~ Kevin Hartnett. #Matemáticas #Computación
+
 *** 26-Abr-21
 + [[https://arxiv.org/abs/2104.11613][A formalised theorem in the partition calculus]]. ~ Lawrence C. Paulson. #ITP #IsabelleHOL #Math
 + [[https://www.isa-afp.org/entries/BenOr_Kozen_Reif.html][The BKR decision procedure for univariate real arithmetic (in Isabelle/HOL)]]. ~ Katherine Cordwell, Yong Kiam Tan, André Platzer. #ITP #IsabelleHOL #Math
