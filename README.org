@@ -19,6 +19,11 @@ contenido.
 
 ** Abril de 2021
 
+*** 28-Abr-21
++ [[https://www.math.umd.edu/~jda/seminarNotes/carneiro.pdf][Mathematics in the computer]]. ~ Mario Carneiro. #Math #ITP #LeanProver #Metamath #Metamath_Zero
++ [[https://arxiv.org/abs/2104.13117][A verified decision procedure for orders in Isabelle/HOL]]. ~ Lukas Stevens, Tobias Nipkow. #ITP #IsabelleHOL #Logic #Math
++ [[https://www.isa-afp.org/entries/GaleStewart_Games.html][Gale-Stewart games (in Isabelle/HOL)]]. ~ Sebastiaan Joosten. #ITP #IsabelleHOL
+
 *** 27-Abr-21
 + [[https://youtu.be/N7orNWIur-c][Induction and collection up to definable elements: calibrating the strength of parameter-free Δn-minimization]]. ~ Andrés Cordón. #Logic #Math
 + [[https://novo.manzano.pro.br/wp/download/logica-de-programacao-funcional-programe-em-hope/][Lógica de programação funcional: Programe em Hope]]. ~ José Augusto N. G. Manzano, José A. Alonso. #Hope #FunctionalProgramming
