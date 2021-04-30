@@ -19,6 +19,13 @@ contenido.
 
 ** Abril de 2021
 
+*** 29-Abr-21
++ [[https://arxiv.org/abs/2104.13792][A mechanised proof of Gödel's incompleteness theorems using Nominal Isabelle]]. ~ Lawrence C. Paulson. #ITP #IsabelleHOL #Logic #Math
++ [[https://arxiv.org/abs/2104.13851][Verified approximation algorithms]]. ~ Robin Eßmann, Tobias Nipkow, Simon Robillard. #ITP #IsabelleHOL #Algorithms
++ [[https://iwilare.com/bsc-thesis.pdf][Formalizations of the Church-Rosser theorem in Agda]]. ~ Andrea Laretto. #ITP #Agda
++ [[https://arxiv.org/abs/2104.13645][Learning from Łukasiewicz and Meredith: Investigations into proof structures (Extended version)]]. ~ Christoph Wernhard, Wolfgang Bibel. #ATP #Prover9 #Logic
++ [[https://www.educative.io/blog/haskell-tutorial][Haskell tutorial: Get started with functional programming]]. ~ Ryan Thelin. #Haskell #FunctionalProgramming
+
 *** 28-Abr-21
 + [[https://www.math.umd.edu/~jda/seminarNotes/carneiro.pdf][Mathematics in the computer]]. ~ Mario Carneiro. #Math #ITP #LeanProver #Metamath #Metamath_Zero
 + [[https://arxiv.org/abs/2104.13117][A verified decision procedure for orders in Isabelle/HOL]]. ~ Lukas Stevens, Tobias Nipkow. #ITP #IsabelleHOL #Logic #Math
