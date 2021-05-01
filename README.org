@@ -19,6 +19,13 @@ contenido.
 
 ** Abril de 2021
 
+*** 30-Abr-21
++ [[https://arxiv.org/abs/2104.14445][Trakhtenbrot's theorem in Coq: Finite model theory through the constructive lens]]. ~ Dominik Kirst, Dominique Larchey-Wendling. #ITP #Coq #Logic #Math
++ [[https://github.com/youtakaoka/topos][Topos: Programming language which can treat set and topology]]. #Haskell #FunctionalProgramming #Math
++ [[https://notes.srid.ca/ema-announce][Announcing Ema - Static sites in Haskell]]. ~ Sridhar Ratnakumar. #Haskell #FunctionalProgramming
++ [[https://z.haskell.world/design/2021/04/20/introduce-BIO-a-simple-streaming-abstraction.html][Introduce BIO: A simple streaming abstraction]]. ~ Dong Han. #Haskell #FunctionalProgramming
++ [[https://bit.ly/3344TyV][We are happy being poor: El problema de Erdös-Faber-Lovász]]. ~ Juan Arias de Reyna. #Matemáticas
+
 *** 29-Abr-21
 + [[https://arxiv.org/abs/2104.13792][A mechanised proof of Gödel's incompleteness theorems using Nominal Isabelle]]. ~ Lawrence C. Paulson. #ITP #IsabelleHOL #Logic #Math
 + [[https://arxiv.org/abs/2104.13851][Verified approximation algorithms]]. ~ Robin Eßmann, Tobias Nipkow, Simon Robillard. #ITP #IsabelleHOL #Algorithms
