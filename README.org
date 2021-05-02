@@ -9,6 +9,7 @@ contenido.
 
 * Contenido                                                             :TOC:
 - [[#lecturas-del-año-2021][Lecturas del año 2021]]
+  - [[#mayo-de-2021][Mayo de 2021]]
   - [[#abril-de-2021][Abril de 2021]]
   - [[#marzo-de-2021][Marzo de 2021]]
   - [[#febrero-de-2021][Febrero de 2021]]
@@ -16,6 +17,18 @@ contenido.
 - [[#lecturas-anteriores][Lecturas anteriores]]
 
 * Lecturas del año 2021
+
+** Mayo de 2021
+
+*** 01-May-21
++ [[https://arxiv.org/abs/2104.11613v1][A formalised theorem in the partition calculus]]. ~ Lawrence C. Paulson. #ITP #IsabelleHOL #Logic #Math
++ [[https://arxiv.org/abs/2104.11622v1][Producing symmetrical facts for lists induced by the list reversal mapping in Isabelle/HOL]]. ~ Martin Raška, Štěpán Starosta. #ITP #IsabelleHOL
++ [[https://schurr.io/academic/pubs/cade2021.pdf][Reliable reconstruction of fine-grained proofs in a proof assistant]]. ~ HJ Schurr, M Fleury, M Desharnais. #ITP #IsabelleHOL
++ [[https://docs.zkproof.org/pages/standards/accepted-workshop4/proposal-leo.pdf][LEO: A programming language for formally verified, zero-knowledge applications]]. ~ C. Chin et als. #ITP #ACL2
++ [[https://shemesh.larc.nasa.gov/fm/papers/itp2021.pdf][Formal verification of termination criteria for first-order recursive functions]]. ~ C.A. Muñoz et als. #ITP #PVS
++ [[https://repository.tudelft.nl/islandora/object/uuid:2d831aa4-df6b-4ab6-983e-9776c710b450][Verifying the semantics of disambiguation rules (Using parse tree repairing for showing safety and completeness of associativity and priority rules)]]. ~ L. Miljak. #ITP #Coq
+
+
 
 ** Abril de 2021
 
@@ -183,7 +196,6 @@ contenido.
 + [[https://www.stephanschiffels.de/posts/2021-03-24-Haskell-CLI/][Designing command line interfaces in Haskell]]. ~ Stephan Schiffels (@stschiff). #Haskell #FunctionalProgramming
 + [[https://boris-marinov.github.io/category-theory-illustrated/04_order/][Category theory illustrated]]. ~ Boris Marinov (@AlexanderKatt). #CategoryTheory
 + [[https://plato.stanford.edu/entries/category-theory][#SEP: Category theory]]. ~ Jean-Pierre Marquis. #CategoryTheory #Logic #Math
-
 
 
 ** Marzo de 2021
@@ -509,7 +521,6 @@ contenido.
 + [[https://people.mpi-sws.org/~beta/papers/jlamp20.pdf][Verification of dynamic bisimulation theorems in Coq]]. ~ R Fervari, F Trucco, B Ziliani. #ITP #Coq
 + [[https://arxiv.org/abs/2101.11320v1][Tutorial on implementing Hoare logic for imperative programs in Haskell]]. ~ Boro Sitnikovski. #Haskell #FunctionalProgramming
 + [[https://arxiv.org/abs/2101.11421v1][Deriving monadic quicksort (Declarative Pearl)]]. ~ Shin-Cheng Mu, Tsung-Ju Chiang. #Haskell #FunctionalProgramming
-
 
 ** Enero de 2021
 
