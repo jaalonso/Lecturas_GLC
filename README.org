@@ -20,6 +20,9 @@ contenido.
 
 ** Mayo de 2021
 
+*** 02-May-21
++ [[https://www.logicmatters.net/2021/05/01/fefermans-logic-mathematics-and-conceptual-structuralism/][Feferman’s virtual book: Logic, Mathematics, and Conceptual Structuralism]]. ~ Peter Smith (@PeterSmith). #Logic #Math
+
 *** 01-May-21
 + [[https://arxiv.org/abs/2104.11613v1][A formalised theorem in the partition calculus]]. ~ Lawrence C. Paulson. #ITP #IsabelleHOL #Logic #Math
 + [[https://arxiv.org/abs/2104.11622v1][Producing symmetrical facts for lists induced by the list reversal mapping in Isabelle/HOL]]. ~ Martin Raška, Štěpán Starosta. #ITP #IsabelleHOL
