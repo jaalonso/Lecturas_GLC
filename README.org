@@ -20,6 +20,11 @@ contenido.
 
 ** Mayo de 2021
 
+*** 03-May-21
++ [[https://arxiv.org/abs/2104.15021][Formalizing the face lattice of polyhedra]]. ~ Xavier Allamigeon, Ricardo D. Katz, Pierre-Yves Strub. #ITP #Coq #Math
++ [[https://youtu.be/mTLuON5eRZI][Lean Together 2021: Panel on teaching with proof assistants]]. #ITP #LeanProver
++ [[https://mazzo.li/posts/haskell-backprop-short.html][Quick and dirty backpropagation in Haskell]]. ~ Francesco Mazzoli (@trascendentale). #Haskell #FunctionalProgramming #NeuralNetwork
+
 *** 02-May-21
 + [[https://www.logicmatters.net/2021/05/01/fefermans-logic-mathematics-and-conceptual-structuralism/][Feferman’s virtual book: Logic, Mathematics, and Conceptual Structuralism]]. ~ Peter Smith (@PeterSmith). #Logic #Math
 
