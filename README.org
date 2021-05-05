@@ -20,6 +20,11 @@ contenido.
 
 ** Mayo de 2021
 
+*** 04-May-21
++ [[https://www.isa-afp.org/entries/Regression_Test_Selection.html][Regression test selection]]. ~ Susannah Mansky. #ITP #IsabelleHOL #Math
++ [[http://people.rennes.inria.fr/Frederic.Besson/itauto.pdf][Itauto: an extensible intuitionistic SAT solver]]. ~ Frédéric Besson. #ITP #Coq #Logic #SAT_Solver
++ [[https://bellmar.medium.com/programming-in-z3-by-learning-to-think-like-a-compiler-401fd46828d5][Programming in Z3 by learning to think like a compiler]]. ~ Marianne Bellotti. #SMT #Z3
+
 *** 03-May-21
 + [[https://arxiv.org/abs/2104.15021][Formalizing the face lattice of polyhedra]]. ~ Xavier Allamigeon, Ricardo D. Katz, Pierre-Yves Strub. #ITP #Coq #Math
 + [[https://youtu.be/mTLuON5eRZI][Lean Together 2021: Panel on teaching with proof assistants]]. #ITP #LeanProver
