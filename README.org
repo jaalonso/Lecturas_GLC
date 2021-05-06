@@ -20,6 +20,11 @@ contenido.
 
 ** Mayo de 2021
 
+*** 05-May-21
++ [[https://www.welcometothejungle.com/en/articles/btc-deep-learning-clojure-haskell][The beauty of functional languages in Deep Learning — Clojure and Haskell]]. ~ Jun Wu. #Clojure #Haskell #FunctionalProgramming #DeepLearning
++ [[https://youtu.be/GtAo8wqWHHg][The IMO Grand Challenge]]. ~ Daniel Selsam. #ITP #LeanProver
++ [[https://www.haskellforall.com/2021/05/the-trick-to-avoid-deeply-nested-error.html][The trick to avoid deeply-nested error-handling code]]. ~ Gabriel Gonzalez (@GabrielG439). #Haskell #FunctionalProgramming
+
 *** 04-May-21
 + [[https://www.isa-afp.org/entries/Regression_Test_Selection.html][Regression test selection]]. ~ Susannah Mansky. #ITP #IsabelleHOL #Math
 + [[http://people.rennes.inria.fr/Frederic.Besson/itauto.pdf][Itauto: an extensible intuitionistic SAT solver]]. ~ Frédéric Besson. #ITP #Coq #Logic #SAT_Solver
