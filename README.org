@@ -20,6 +20,9 @@ contenido.
 
 ** Mayo de 2021
 
+*** 06-May-21
++ [[https://www.artofmathematics.org/books][Books: Inquiry-Based Learning Guides]]. #eBooks #Math
+
 *** 05-May-21
 + [[https://www.welcometothejungle.com/en/articles/btc-deep-learning-clojure-haskell][The beauty of functional languages in Deep Learning — Clojure and Haskell]]. ~ Jun Wu. #Clojure #Haskell #FunctionalProgramming #DeepLearning
 + [[https://youtu.be/GtAo8wqWHHg][The IMO Grand Challenge]]. ~ Daniel Selsam. #ITP #LeanProver
