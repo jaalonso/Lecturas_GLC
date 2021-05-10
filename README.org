@@ -20,6 +20,11 @@ contenido.
 
 ** Mayo de 2021
 
+*** 09-May-21
++ [[https://github.com/IPDSnelting/tba-2021][Slides and exercises of the Lean 4 course "Theorem prover lab: applications in programming languages"]]. ~ Jakob von Raumer, Sebastian Ullrich (@derKha). #ITP #Lean4
++ [[https://github.com/digama0/mm-lean4][Lean 4 Metamath verifier]]. ~ Mario Carneiro. #ITP #Lean4 #Metamath
++ [[https://github.com/digama0/lean-type-theory/releases/download/v1.0/main.pdf][The type theory of Lean]]. ~ Mario Carneiro. #ITP #LeanProver #TypeTheory
+
 *** 06-May-21
 + [[https://www.artofmathematics.org/books][Books: Inquiry-Based Learning Guides]]. #eBooks #Math
 
