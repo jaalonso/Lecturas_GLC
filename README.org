@@ -20,6 +20,10 @@ contenido.
 
 ** Mayo de 2021
 
+*** 10-May-21
++ [[http://functional-algorithms-verified.org/.][Functional algorithms, verified! ~ Tobias Nipkow et als]]. #eBook #ITP #IsabelleHOL #Algorithms
++ [[https://github.com/leanprover-community/mathlib/blob/93e9e0d7057889fe4d5ffea7a3f4b45c236a916b/archive/100-theorems-list/16_abel_ruffini.lean][Construction of an algebraic number that is not solvable by radicals]]. ~ Thomas Browning. #ITP #LeanProver #Math
+
 *** 09-May-21
 + [[https://github.com/IPDSnelting/tba-2021][Slides and exercises of the Lean 4 course "Theorem prover lab: applications in programming languages"]]. ~ Jakob von Raumer, Sebastian Ullrich (@derKha). #ITP #Lean4
 + [[https://github.com/digama0/mm-lean4][Lean 4 Metamath verifier]]. ~ Mario Carneiro. #ITP #Lean4 #Metamath
