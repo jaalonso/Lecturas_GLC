@@ -20,6 +20,9 @@ contenido.
 
 ** Mayo de 2021
 
+*** 11-May-21
++ [[http://www.cse.chalmers.se/~jomoa/papers/Automated_Conjecturing_in_QuickSpec.pdf][Automated conjecturing in QuickSpec]]. ~ Moa Johansson, Nicholas Smallbone. #Haskell #FuncionalProgramming
+
 *** 10-May-21
 + [[http://functional-algorithms-verified.org/.][Functional algorithms, verified! ~ Tobias Nipkow et als]]. #eBook #ITP #IsabelleHOL #Algorithms
 + [[https://github.com/leanprover-community/mathlib/blob/93e9e0d7057889fe4d5ffea7a3f4b45c236a916b/archive/100-theorems-list/16_abel_ruffini.lean][Construction of an algebraic number that is not solvable by radicals]]. ~ Thomas Browning. #ITP #LeanProver #Math
