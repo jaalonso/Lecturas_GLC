@@ -20,6 +20,12 @@ contenido.
 
 ** Mayo de 2021
 
+*** 12-May-21
++ [[https://patternsinfp.wordpress.com/2021/05/10/the-genuine-sieve-of-eratosthenes/][The Genuine Sieve of Eratosthenes]]. ~ Jeremy Gibbons (@jer_gib). #Haskell #FunctionalProgramming
++ [[https://frasertweedale.github.io/blog-fp/posts/2021-05-12-types-garden-path.html][Type-guided development and garden paths]]. ~ Fraser Tweedale (@hackuador). #Haskell  #FunctionalProgramming
++ [[https://forketyfork.medium.com/why-you-should-learn-functional-programming-type-classes-vs-interfaces-9d2192d20ac2][Why you should learn functional programming: Type classes vs. interfaces]]. ~ @forketyfork #Java #Haskell #FunctionalProgramming
++ [[https://www.quantamagazine.org/how-mathematicians-use-homology-to-make-sense-of-topology-20210511/][How mathematicians use homology to make sense of topology]]. ~ Kelsey Houston-Edwards. #Math
+
 *** 11-May-21
 + [[http://www.cse.chalmers.se/~jomoa/papers/Automated_Conjecturing_in_QuickSpec.pdf][Automated conjecturing in QuickSpec]]. ~ Moa Johansson, Nicholas Smallbone. #Haskell #FuncionalProgramming
 
