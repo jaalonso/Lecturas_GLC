@@ -20,6 +20,10 @@ contenido.
 
 ** Mayo de 2021
 
+*** 14-May-21
++ [[https://www.microsiervos.com/archivo/ia/enigma-gpt-2-trabajo-falso.html][Enigma GPT-2: ¿Puedes distinguir un artículo real de otro falso generado mediante inteligencia artificial simplemente leyendo el resumen?]]. ~ @Alvy. #IA
++ [[https://theconversation.com/regreso-al-futuro-de-las-matematicas-si-hipatia-levantara-la-cabeza-158094][Regreso al futuro de las matemáticas: Si Hipatia levantara la cabeza]]. ~ Patricia Contreras Tejada (@_PatriciaCT). #Matemáticas
+
 *** 12-May-21
 + [[https://patternsinfp.wordpress.com/2021/05/10/the-genuine-sieve-of-eratosthenes/][The Genuine Sieve of Eratosthenes]]. ~ Jeremy Gibbons (@jer_gib). #Haskell #FunctionalProgramming
 + [[https://frasertweedale.github.io/blog-fp/posts/2021-05-12-types-garden-path.html][Type-guided development and garden paths]]. ~ Fraser Tweedale (@hackuador). #Haskell  #FunctionalProgramming
