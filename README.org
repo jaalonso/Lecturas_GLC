@@ -20,6 +20,14 @@ contenido.
 
 ** Mayo de 2021
 
+*** 15-May-21
++ [[https://www.researchgate.net/profile/Angeliki-Koutsoukou-Argyraki/publication/351126012_On_Preserving_the_Computational_Content_of_Mathematical_Proofs_Toy_Examples_for_a_Formalising_Strategy/links/60895dfe299bf1ad8d632b7b/On-Preserving-the-Computational-Content-of-Mathematical-Proofs-Toy-Examples-for-a-Formalising-Strategy.pdf][On preserving the computational content of mathematical proofs: toy examples for a formalising strategy]]. ~ Angeliki Koutsoukou-Argyraki. #ITP #IsabelleHOL #Math
++ [[https://www.isa-afp.org/entries/Padic_Ints.html][Hensel's Lemma for the p-adic integers (in Isabelle/HOL)]]. ~ Aaron Crighton. #ITP #IsabelleHOL #Math
++ [[https://typeclasses.com/phrasebook][The Haskell Phrasebook]]. ~ Chris Martin (@chris__martin), Julie Moronuki (@argumatronic). #Haskell #FunctionalProgramming
++ [[https://haskell.mooc.fi/part1][Haskell MOOC University of Helsinki]]. ~ Joel Kaasinen, John Lång. #Haskell #FunctionalProgramming
++ [[http://counterexamples.org/][Counterexamples in type systems]]. ~ Stephen Dolan. #TypeTheory
++ [[https://youtu.be/RSJrBEhdZxw][Qué son los algoritmos y cómo aprenden de nosotros]]. | BBC Mundo. #Algoritmos
+
 *** 14-May-21
 + [[https://www.microsiervos.com/archivo/ia/enigma-gpt-2-trabajo-falso.html][Enigma GPT-2: ¿Puedes distinguir un artículo real de otro falso generado mediante inteligencia artificial simplemente leyendo el resumen?]]. ~ @Alvy. #IA
 + [[https://theconversation.com/regreso-al-futuro-de-las-matematicas-si-hipatia-levantara-la-cabeza-158094][Regreso al futuro de las matemáticas: Si Hipatia levantara la cabeza]]. ~ Patricia Contreras Tejada (@_PatriciaCT). #Matemáticas
