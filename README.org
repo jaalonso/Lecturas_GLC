@@ -20,6 +20,9 @@ contenido.
 
 ** Mayo de 2021
 
+*** 16-May-21
++ [[https://arxiv.org/abs/2104.14516][Constructions in combinatorics via neural networks]]. ~ Adam Zsolt Wagner. #MachineLearning #Math
+
 *** 15-May-21
 + [[https://www.researchgate.net/profile/Angeliki-Koutsoukou-Argyraki/publication/351126012_On_Preserving_the_Computational_Content_of_Mathematical_Proofs_Toy_Examples_for_a_Formalising_Strategy/links/60895dfe299bf1ad8d632b7b/On-Preserving-the-Computational-Content-of-Mathematical-Proofs-Toy-Examples-for-a-Formalising-Strategy.pdf][On preserving the computational content of mathematical proofs: toy examples for a formalising strategy]]. ~ Angeliki Koutsoukou-Argyraki. #ITP #IsabelleHOL #Math
 + [[https://www.isa-afp.org/entries/Padic_Ints.html][Hensel's Lemma for the p-adic integers (in Isabelle/HOL)]]. ~ Aaron Crighton. #ITP #IsabelleHOL #Math
