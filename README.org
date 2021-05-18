@@ -20,6 +20,9 @@ contenido.
 
 ** Mayo de 2021
 
+*** 17-May-21
++ [[https://github.com/leanprover-community/mathlib/blob/9084a3c765f7177d6466c72563998b9f48cf8e81/src/order/fixed_points.lean][Fixed point construction on complete lattices]]. ~ Johannes Hölzl et als. #ITP #LeanProver #Math
+
 *** 16-May-21
 + [[https://arxiv.org/abs/2104.14516][Constructions in combinatorics via neural networks]]. ~ Adam Zsolt Wagner. #MachineLearning #Math
 
