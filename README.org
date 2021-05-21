@@ -20,6 +20,10 @@ contenido.
 
 ** Mayo de 2021
 
+*** 20-May-21
++ [[https://www.haskellforall.com/2021/05/module-organization-guidelines-for.html][Module organization guidelines for Haskell projects]]. ~ Gabriel Gonzalez (@GabrielG439). #Haskell #FunctionalProgramming
++ [[https://github.com/Debdut/oeis.haskell][A collection of OEIS sequences in Haskell]]. ~ Debdut Karmakar (@KarmakarDebdut). #Haskell #FunctionalProgramming #Math
+
 *** 18-May-21
 + [[https://arxiv.org/abs/2105.05133][Formally verified simulations of state-rich processes using interaction trees in Isabelle/HOL]]. ~ Simon Foster, Chung-Kil Hur, Jim Woodcock. #ITP #IsabelleHOL
 + [[https://www.mat.unb.br/~ayala/Formalization_of_Ring_TheoryR1.pdf][Formalization of ring theory in PVS (Isomorphism theorems, principal, prime and maximal ideals, chinese remainder theorem)]]. ~ Thaynara Arielly de Lima et als. #ITP #PVS #Math
