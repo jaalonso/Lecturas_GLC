@@ -20,6 +20,13 @@ contenido.
 
 ** Mayo de 2021
 
+*** 21-May-21
++ [[https://blog.shaynefletcher.org/2021/05/annotations-in-ghc.html][Annotations in GHC]]. ~ Shayne Fletcher. #Haskell #FunctionalProgramming
++ [[https://www.quantamagazine.org/mathematicians-answer-old-question-about-odd-graphs-20210519/][Mathematicians answer old question about odd graphs]]. ~ Kevin Hartnett (@KSHartnett). #Maths
++ [[https://github.com/project-oak/silveroak][Silver Oak: Formal specification and verification of hardware, especially for security and privacy]]. #ITP #Coq
++ [[https://outline.com/he3HH7][An AI has disproved five mathematical conjectures with no human help]]. #AI #Math
++ [[https://arxiv.org/abs/2104.14516][Constructions in combinatorics via neural networks]]. ~ Adam Zsolt Wagner. #AI #Math #MachineLearning #NeuralNetwork
+
 *** 20-May-21
 + [[https://www.haskellforall.com/2021/05/module-organization-guidelines-for.html][Module organization guidelines for Haskell projects]]. ~ Gabriel Gonzalez (@GabrielG439). #Haskell #FunctionalProgramming
 + [[https://github.com/Debdut/oeis.haskell][A collection of OEIS sequences in Haskell]]. ~ Debdut Karmakar (@KarmakarDebdut). #Haskell #FunctionalProgramming #Math
