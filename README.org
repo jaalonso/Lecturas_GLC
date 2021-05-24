@@ -20,6 +20,13 @@ contenido.
 
 ** Mayo de 2021
 
+*** 23-May-21
++ [[https://etd.ohiolink.edu/apexprod/rws_etd/send_file/send?accession=ouhonors161919616626269&disposition=inline][Translating LaTeX to Coq: A recurrent neural network approach to formalizing natural language proofs]]. ~ Benjamin A. Carman. #PhD_Thesis #ITP #Coq #NeuralNetwork
++ [[https://eprint.iacr.org/2021/588.pdf][A novel proof of shuffle: Exponentially secure cut-and-choose]]. ~ Thomas Haines, Johannes Müller. #ITP #Coq
++ [[https://langsec.org/spw21/papers/Egolf_LangSec21.pdf][Verbatim: A verified lexer generator]]. ~ D. Egolf, S. Lasser, K. Fisher. #ITP #Coq
++ [[https://github.com/openai/miniF2F][miniF2F: Formal to Formal Mathematics Benchmark consisting of exercise statements from olympiads (AMC, AIME, IMO)]]. #ITP #LeanProver #Math
++ [[http://www.netlib.org/tex/bib/jfunctprogram.pdf][A complete bibliography of publications in the Journal of Functional Programming]]. ~ Nelson H.F. Beebe. #FunctionalProgramming
+
 *** 21-May-21
 + [[https://blog.shaynefletcher.org/2021/05/annotations-in-ghc.html][Annotations in GHC]]. ~ Shayne Fletcher. #Haskell #FunctionalProgramming
 + [[https://www.quantamagazine.org/mathematicians-answer-old-question-about-odd-graphs-20210519/][Mathematicians answer old question about odd graphs]]. ~ Kevin Hartnett (@KSHartnett). #Maths
