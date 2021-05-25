@@ -20,6 +20,9 @@ contenido.
 
 ** Mayo de 2021
 
+*** 24-May-21
++ [[https://kowainik.github.io/posts/fixity][Fix(ity) me]]. ~ Veronika Romashkina (@vrom911), Dmitrii Kovanikov (@ChShersh). #Haskell #FunctionalProgramming
+
 *** 23-May-21
 + [[https://etd.ohiolink.edu/apexprod/rws_etd/send_file/send?accession=ouhonors161919616626269&disposition=inline][Translating LaTeX to Coq: A recurrent neural network approach to formalizing natural language proofs]]. ~ Benjamin A. Carman. #PhD_Thesis #ITP #Coq #NeuralNetwork
 + [[https://eprint.iacr.org/2021/588.pdf][A novel proof of shuffle: Exponentially secure cut-and-choose]]. ~ Thomas Haines, Johannes Müller. #ITP #Coq
