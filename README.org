@@ -20,6 +20,11 @@ contenido.
 
 ** Mayo de 2021
 
+*** 25-May-21
++ [[https://cister-labs.pt/f-ide2021/images/preprints/F-IDE_2021_paper_10.pdf][Verifying time complexity of binary search using Dafny]]. ~ Shiri Morshtein et als. #Dafny #Algorithms
++ [[https://hal.archives-ouvertes.fr/hal-03225987/document][Two new ways to formally prove Dandelin-Gallucci's theorem]]. ~ D. Braun, N. Magaud, P. Schreck. #ITP #Coq #Math
++ [[https://cister-labs.pt/f-ide2021/images/preprints/F-IDE_2021_paper_4.pdf][A logic theory pattern for linearized control systems]]. ~ A. Domenici, C. Bernardeschi. #ITP #PVS
+
 *** 24-May-21
 + [[https://kowainik.github.io/posts/fixity][Fix(ity) me]]. ~ Veronika Romashkina (@vrom911), Dmitrii Kovanikov (@ChShersh). #Haskell #FunctionalProgramming
 
