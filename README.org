@@ -20,6 +20,15 @@ contenido.
 
 ** Mayo de 2021
 
+*** 26-May-21
++ [[https://softwarefoundations.cis.upenn.edu/slf-current][Separation logic foundations (Software Foundations, Volume 6)]]. ~ Arthur Charguéraud. #ITP #Coq
++ [[https://mathlesstraveled.com/2021/05/25/the-natural-number-game/][The Natural Number Game]]. ~ Brent Yorgey. #ITP #LeanProver #Math
++ [[https://www.isa-afp.org/entries/Combinatorics_Words.html][Combinatorics on words basics]]. ~ Štěpán Holub, Martin Raška, Štěpán Starosta. #ITP #IsabelleHOL
++ [[https://www.isa-afp.org/entries/Combinatorics_Words_Graph_Lemma.html][Graph lemma]]. ~ Štěpán Holub, Štěpán Starosta. #ITP #IsabelleHOL
++ [[https://www.isa-afp.org/entries/Combinatorics_Words_Lyndon.html][Lyndon words]]. ~ Štěpán Holub, Štěpán Starosta. #ITP #IsabelleHOL
++ [[http://www.jerf.org/iri/post/2958][Functors and monads for people who have read too many "tutorials"]]. ~ Jeremy Bowers. #Haskell #FunctionalProgramming
++ [[https://www.fpcomplete.com/blog/tying-the-knot-haskell/][Tying the Knot in Haskell]]. ~ Michael Snoyman (@snoyberg). #Haskell #FunctionalProgramming
+
 *** 25-May-21
 + [[https://cister-labs.pt/f-ide2021/images/preprints/F-IDE_2021_paper_10.pdf][Verifying time complexity of binary search using Dafny]]. ~ Shiri Morshtein et als. #Dafny #Algorithms
 + [[https://hal.archives-ouvertes.fr/hal-03225987/document][Two new ways to formally prove Dandelin-Gallucci's theorem]]. ~ D. Braun, N. Magaud, P. Schreck. #ITP #Coq #Math
