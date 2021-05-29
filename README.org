@@ -20,6 +20,12 @@ contenido.
 
 ** Mayo de 2021
 
+*** 28-May-21
++ [[https://frasertweedale.github.io/blog-fp/posts/2021-05-23-tax-combinators.html][A combinator library for taxes]]. ~ Fraser Tweedale (@hackuador). #Haskell #FunctionalProgramming
++ [[https://cstml.github.io/2021/05/23/applicative.html][Haskell: Applicative]]. ~ Vlad P. Luchian (@Cstml1). #Haskell #FunctionalProgramming
++ [[https://youtu.be/V9_14jjJiuQ][Testing smart contracts with QuickCheck]]. ~ John Hughes. #Haskell #FunctionalProgramming #QuickCheck
++ [[http://www.fstar-lang.org/tutorial/][Proof-oriented programming in F*]]. #ITP #FunctionalProgramming
+
 *** 26-May-21
 + [[https://softwarefoundations.cis.upenn.edu/slf-current][Separation logic foundations (Software Foundations, Volume 6)]]. ~ Arthur Charguéraud. #ITP #Coq
 + [[https://mathlesstraveled.com/2021/05/25/the-natural-number-game/][The Natural Number Game]]. ~ Brent Yorgey. #ITP #LeanProver #Math
