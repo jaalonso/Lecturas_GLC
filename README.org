@@ -10,6 +10,7 @@ contenido.
 * Contenido                                                             :TOC:
 - [[#lecturas-del-año-2021][Lecturas del año 2021]]
   - [[#mayo-de-2021][Mayo de 2021]]
+- [[#29-may-21][29-May-21]]
   - [[#abril-de-2021][Abril de 2021]]
   - [[#marzo-de-2021][Marzo de 2021]]
   - [[#febrero-de-2021][Febrero de 2021]]
@@ -19,6 +20,16 @@ contenido.
 * Lecturas del año 2021
 
 ** Mayo de 2021
+
+* 29-May-21
++ [[https://arxiv.org/abs/2105.10914v1][Quantum and classical registers]]. ~ Dominique Unruh. #ITP #IsabelleHOL
++ [[https://dependenttyp.es/pdf/thesis.pdf][Proof repair]]. ~ Talia Ringer. #PhD_Thesis #ITP #Coq
++ [[https://www.hindawi.com/journals/complexity/2021/5525539/][CoCEC: An automatic combinational circuit equivalence checker based on the interactive theorem prover]]. ~ Wilayat Khan, Farrukh Aslam Khan, Abdelouahid Derhab, Adi Alhudhaif. #ITP #Coq
++ [[https://hal.inria.fr/hal-03233227/document][Some formal tools for computer arithmetic: Flocq and Gappa]]. ~ S. Boldo, G. Melquiond. #ITP #Coq
++ [[https://arxiv.org/abs/2105.12077][A beginner guide to Iris, Coq and separation logic]]. ~ Elizabeth Dietrich. #ITP #Coq
++ [[https://langsec.org/spw21/papers/Chen_LangSec21.pdf][Mechanized type safety for gradual information flow]]. ~ Tianyu Chen, Jeremy G. Siek. #ITP #Agda
++ [[https://arxiv.org/abs/2105.11267v1][Actions you can handle: Dependent types for AI plans]]. ~ Alasdair Hill, Ekaterina Komendantskaya, Matthew L. Daggitt, Ronald P. A. Petrick. #ITP #Agda #AI
++ [[https://langsec.org/spw21/papers/Hardin_LangSec21.pdf][Formal synthesis of filter components for use in security-enhancing architectural transformations]]. ~ David S. Hardin, Konrand L. Slind. #ITP #ACL2
 
 *** 28-May-21
 + [[https://frasertweedale.github.io/blog-fp/posts/2021-05-23-tax-combinators.html][A combinator library for taxes]]. ~ Fraser Tweedale (@hackuador). #Haskell #FunctionalProgramming
