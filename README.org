@@ -10,7 +10,6 @@ contenido.
 * Contenido                                                             :TOC:
 - [[#lecturas-del-año-2021][Lecturas del año 2021]]
   - [[#mayo-de-2021][Mayo de 2021]]
-- [[#29-may-21][29-May-21]]
   - [[#abril-de-2021][Abril de 2021]]
   - [[#marzo-de-2021][Marzo de 2021]]
   - [[#febrero-de-2021][Febrero de 2021]]
@@ -20,8 +19,12 @@ contenido.
 * Lecturas del año 2021
 
 ** Mayo de 2021
+*** 30-May-21
++ [[https://cdsmithus.medium.com/fun-with-category-theory-and-dynamical-systems-f470ea5e7809][Fun with category theory and dynamical systems]]. ~ Chris Smith (@cdsmithus). #CategoryTheory
++ [[https://functional.works-hub.com/learn/representable-functors-by-example-6c5c0][Representable functors: Practical examples]]. ~ Siddharth Bhat. #Haskell #FunctionalProgramming
 
-* 29-May-21
+
+*** 29-May-21
 + [[https://arxiv.org/abs/2105.10914v1][Quantum and classical registers]]. ~ Dominique Unruh. #ITP #IsabelleHOL
 + [[https://dependenttyp.es/pdf/thesis.pdf][Proof repair]]. ~ Talia Ringer. #PhD_Thesis #ITP #Coq
 + [[https://www.hindawi.com/journals/complexity/2021/5525539/][CoCEC: An automatic combinational circuit equivalence checker based on the interactive theorem prover]]. ~ Wilayat Khan, Farrukh Aslam Khan, Abdelouahid Derhab, Adi Alhudhaif. #ITP #Coq
