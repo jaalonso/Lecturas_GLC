@@ -19,10 +19,12 @@ contenido.
 * Lecturas del año 2021
 
 ** Mayo de 2021
+
+*** 31-May-21
++ [[https://www.lavanguardia.com/ciencia/20210531/7484405/maquinas-creativas.html][¿Pueden las máquinas ser creativas?]] ~ Ramón López de Mántaras. #IA
 *** 30-May-21
 + [[https://cdsmithus.medium.com/fun-with-category-theory-and-dynamical-systems-f470ea5e7809][Fun with category theory and dynamical systems]]. ~ Chris Smith (@cdsmithus). #CategoryTheory
 + [[https://functional.works-hub.com/learn/representable-functors-by-example-6c5c0][Representable functors: Practical examples]]. ~ Siddharth Bhat. #Haskell #FunctionalProgramming
-
 
 *** 29-May-21
 + [[https://arxiv.org/abs/2105.10914v1][Quantum and classical registers]]. ~ Dominique Unruh. #ITP #IsabelleHOL
