@@ -9,6 +9,7 @@ contenido.
 
 * Contenido                                                             :TOC:
 - [[#lecturas-del-año-2021][Lecturas del año 2021]]
+  - [[#junio-de-2021][Junio de 2021]]
   - [[#mayo-de-2021][Mayo de 2021]]
   - [[#abril-de-2021][Abril de 2021]]
   - [[#marzo-de-2021][Marzo de 2021]]
@@ -17,6 +18,24 @@ contenido.
 - [[#lecturas-anteriores][Lecturas anteriores]]
 
 * Lecturas del año 2021
+
+** Junio de 2021
+
+*** 01-Jun-21
++ [[https://www.quantamagazine.org/how-a-simple-math-puzzle-can-guide-discovery-20210528/][How a simple arithmetic puzzle can guide discovery]]. ~ Pradeep Mutalik. #Math
++ [[https://exlean.org/relations-in-lean/][Relations in Lean]]. ~ Gihan Marasingha (@gihanmarasingha). #ITP #LeanProver #Math
++ [[https://exlean.org/decidable-propositions-i/][Decidable propositions I]]. ~ Gihan Marasingha (@gihanmarasingha). #ITP #LeanProver #Math
++ [[https://exlean.org/decidable-propositions-ii/][Decidable propositions II]]. ~ Gihan Marasingha (@gihanmarasingha). #ITP #LeanProver #Math
++ [[https://exlean.org/decidable-propositions-iii/][Decidable propositions III]]. ~ Gihan Marasingha (@gihanmarasingha). #ITP #LeanProver #Math
++ [[https://exlean.org/vectors-and-dependent-function-types/][Vectors and dependent function types]]. ~ Gihan Marasingha (@gihanmarasingha). #ITP #LeanProver #Math
++ [[https://link.springer.com/article/10.1007/s10516-021-09561-8][The limits of computation]]. ~ A. Powell. #CompSci #LambdaCalculus #TypeTheory
++ [[https://homepages.inf.ed.ac.uk/slindley/papers/nbe-for-edsls-draft-may2021.pdf][Practical normalization by evaluation for EDSLs]]. ~ N. Valliappan, A. Russo, S. Lindley. #Haskell #FunctionalProgramming
++ [[http://www.cs.tufts.edu/t/tech_reports/reports/2021-01/report.pdf][Hook: An embedded domain-specific language for fusing implicit interactions to explicit event handlers]]. ~ Tomoki Shibata, Usamatthew Ahrens, Usarobert J.K. Jacob. #Haskell #FunctionalProgramming
++ [[https://blanqui.gitlabpages.inria.fr/papers/fscd21.pdf][Some axioms for mathematics]]. ~ Frédéric Blanqui et als. #Logic #Math
++ [[http://profs.sci.univr.it/~bonacina/papers/JARLWHistoricSurvey.pdf][Set of support, demodulation, paramodulation: a historical Perspective]]. ~ Maria Paola Bonacina. #ATP #Logic #Math
++ [[https://www.isa-afp.org/entries/Lifting_the_Exponent.html][Lifting the exponent]]. ~ Jakub Kądziołka. #ITP #IsabelleHOL #Math
+
+
 
 ** Mayo de 2021
 
