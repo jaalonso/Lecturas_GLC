@@ -21,6 +21,9 @@ contenido.
 
 ** Junio de 2021
 
+*** 02-Jun-21
++ [[https://suzdalnitski.medium.com/functional-programming-the-true-silver-bullet-fbeb7cf4a17a][Functional Programming - the True Silver Bullet]]. ~ Ilya Suzdalnitski. #FunctionalProgramming
+
 *** 01-Jun-21
 + [[https://www.quantamagazine.org/how-a-simple-math-puzzle-can-guide-discovery-20210528/][How a simple arithmetic puzzle can guide discovery]]. ~ Pradeep Mutalik. #Math
 + [[https://exlean.org/relations-in-lean/][Relations in Lean]]. ~ Gihan Marasingha (@gihanmarasingha). #ITP #LeanProver #Math
