@@ -21,6 +21,9 @@ contenido.
 
 ** Junio de 2021
 
+*** 03-Jun-21
++ [[https://janmasrovira.gitlab.io/ascetic-slug/post/haskell-proofs/][Using dependent types to write proofs in Haskell]]. ~ Jan Mas Rovira. #Haskell #FunctionalProgramming #Logic
+
 *** 02-Jun-21
 + [[https://suzdalnitski.medium.com/functional-programming-the-true-silver-bullet-fbeb7cf4a17a][Functional Programming - the True Silver Bullet]]. ~ Ilya Suzdalnitski. #FunctionalProgramming
 
