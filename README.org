@@ -21,6 +21,10 @@ contenido.
 
 ** Junio de 2021
 
+*** 04-Jun-21
++ [[https://youtu.be/IoCcZ5CjuGc][El Teorema de Cantor-Schröder-Bernstein]]. ~ Urtzi Buijs @archimedestub. #Lógica #Matemática
++ [[https://www.quantamagazine.org/mathematicians-identify-threshold-at-which-shapes-give-way-20210603/][Mathematicians identify threshold at which shapes give way]]. ~ Mordechai Rorvig. #Math
+
 *** 03-Jun-21
 + [[https://janmasrovira.gitlab.io/ascetic-slug/post/haskell-proofs/][Using dependent types to write proofs in Haskell]]. ~ Jan Mas Rovira. #Haskell #FunctionalProgramming #Logic
 
