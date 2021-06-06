@@ -10,6 +10,7 @@ contenido.
 * Contenido                                                             :TOC:
 - [[#lecturas-del-año-2021][Lecturas del año 2021]]
   - [[#junio-de-2021][Junio de 2021]]
+- [[#05-jun-21][05-Jun-21]]
   - [[#mayo-de-2021][Mayo de 2021]]
   - [[#abril-de-2021][Abril de 2021]]
   - [[#marzo-de-2021][Marzo de 2021]]
@@ -20,6 +21,19 @@ contenido.
 * Lecturas del año 2021
 
 ** Junio de 2021
+
+* 05-Jun-21
++ [[https://paulaneeley.com/wp-content/uploads/2021/05/draft1.pdf][A formalization of dynamic epistemic logic]]. ~ Paula Neeley. #ITP #LeanProver #Logic
++ [[https://arxiv.org/abs/2105.14183][Verified quadratic virtual substitution for real arithmetic]]. ~ Matias Scharager, Katherine Cordwell, Stefan Mitsch, André Platzer. #ITP #IsabelleHOL #Logic #Math
++ [[https://etd.ohiolink.edu/apexprod/rws_etd/send_file/send?accession=ohiou1618999718015199&disposition=inline][Verifying value iteration and policy iteration in Coq]]. ~ David M. Masters. #MSc_Thesis #ITP #Coq #MachineLearning
++ [[https://www.ps.uni-saarland.de/~kirst/downloads/abstract_CoqWS_21.pdf][A toolbox for mechanised first-order logic]]. ~ Johannes Hostert, Mark Koch, Dominik Kirst. #ITP #Coq #Logic #Math
++ [[https://arxiv.org/abs/2105.14706v1][The role of entropy in guiding a connection prover]]. ~ Zsolt Zombori, Josef Urban, Miroslav Olšák. #ATP #MachineLearning
++ [[https://blog.monadfix.com/th-groups][Declaration groups: where order of declarations suddenly matters in Haskell]]. ~ Artyom Kazak. #Haskell #FunctionalProgramming
++ [[https://www.foxhound.systems/blog/final-tagless/][Final tagless encodings have little to do with typeclasses]]. ~ Ben Levy. #Haskell #FunctionalProgramming
++ [[https://www.stackbuilders.com/tutorials/haskell/getting-started-with-haskell-projects-using-scotty/][Getting started with Haskell projects using Scotty]]. ~ Juan Pedro Villa Isaza. #Haskell #FunctionalProgramming
++ [[https://pbrisbin.com/posts/phantom-types-and-globbing-bugs/][Phantom types and globbing bugs]]. ~ Patrick Brisbin. #Haskell #FunctionalProgramming
++ [[https://www.haskellforall.com/2021/06/probability-for-slay-spire-fanatics.html][Probability for Slay the Spire fanatics]]. ~ Gabriel Gonzalez (@GabrielG439). #Haskell #FunctionalProgramming #Math
++ [[https://mathscholar.org/2021/06/bach-as-mathematician/][Bach as mathematician]]. ~ David H Bailey. #Math #Music #Bach
 
 *** 04-Jun-21
 + [[https://youtu.be/IoCcZ5CjuGc][El Teorema de Cantor-Schröder-Bernstein]]. ~ Urtzi Buijs @archimedestub. #Lógica #Matemática
