@@ -10,7 +10,6 @@ contenido.
 * Contenido                                                             :TOC:
 - [[#lecturas-del-año-2021][Lecturas del año 2021]]
   - [[#junio-de-2021][Junio de 2021]]
-- [[#05-jun-21][05-Jun-21]]
   - [[#mayo-de-2021][Mayo de 2021]]
   - [[#abril-de-2021][Abril de 2021]]
   - [[#marzo-de-2021][Marzo de 2021]]
@@ -22,7 +21,11 @@ contenido.
 
 ** Junio de 2021
 
-* 05-Jun-21
+*** 06-Jun-21
++ [[https://youtu.be/w11mI67R95I][Roger Penrose explains Godel's incompleteness theorem in 3 minutes]]. #Logic #Math
++ [[https://xenaproject.wordpress.com/2021/06/05/half-a-year-of-the-liquid-tensor-experiment-amazing-developments/][Half a year of the Liquid Tensor Experiment: Amazing developments]]. ~ Peter Scholze. #ITP #LeanProver #Math
+
+*** 05-Jun-21
 + [[https://paulaneeley.com/wp-content/uploads/2021/05/draft1.pdf][A formalization of dynamic epistemic logic]]. ~ Paula Neeley. #ITP #LeanProver #Logic
 + [[https://arxiv.org/abs/2105.14183][Verified quadratic virtual substitution for real arithmetic]]. ~ Matias Scharager, Katherine Cordwell, Stefan Mitsch, André Platzer. #ITP #IsabelleHOL #Logic #Math
 + [[https://etd.ohiolink.edu/apexprod/rws_etd/send_file/send?accession=ohiou1618999718015199&disposition=inline][Verifying value iteration and policy iteration in Coq]]. ~ David M. Masters. #MSc_Thesis #ITP #Coq #MachineLearning
