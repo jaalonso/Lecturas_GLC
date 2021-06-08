@@ -21,6 +21,10 @@ contenido.
 
 ** Junio de 2021
 
+*** 07-Jun-21
++ [[https://logicaltypes.blogspot.com/2021/06/why-kleisli-arrow-matter.html][Why Kleisli arrows matter]]. ~ Douglas M. Auclair (geophf). #Haskell #FunctionalProgramming
++ [[https://github.com/williamdemeo/TypeFunc][TypeFunc: This repository collects some links and resources for learning about type theory, functional programming, and related subjects]]. ~  Avatar William DeMeo. #ITP #FunctionalProgramming #Agda #Coq #Haskell #Idris #LeanProver #Scala
+
 *** 06-Jun-21
 + [[https://youtu.be/w11mI67R95I][Roger Penrose explains Godel's incompleteness theorem in 3 minutes]]. #Logic #Math
 + [[https://xenaproject.wordpress.com/2021/06/05/half-a-year-of-the-liquid-tensor-experiment-amazing-developments/][Half a year of the Liquid Tensor Experiment: Amazing developments]]. ~ Peter Scholze. #ITP #LeanProver #Math
