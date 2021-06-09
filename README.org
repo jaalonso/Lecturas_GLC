@@ -21,6 +21,14 @@ contenido.
 
 ** Junio de 2021
 
+*** 08-Jun-21
++ [[https://arxiv.org/abs/2106.01184][Formally verified convergence of policy-rich DBF routing protocols]]. ~ Matthew L. Daggitt, Timothy G. Griffin. #ITP #Agda
++ [[https://d1wqtxts1xzle7.cloudfront.net/66762807/tphols05.pdf?1619895651=&response-content-disposition=inline%3B+filename%3DTeaching_a_HOL_course_Experience_report.pdf&Expires=1623139510&Signature=FnVfzvP4dk3Wo~3AiYraNZVPRtbII4B6XawBO4iMOhP~nJIzG39oRQfdKJFy8Ts9Pi6NuS5QcnBgdASL0XaM4OlO46wQsWe~y5kt70-UdA-iYGnXcsK-t7iyx~MF6OIKGEspN3AbRas1WKEyRRniSGsJmfmwvXVlH0u202o-GXHehmk5F8agabp9EqSwST3-8IiOwCLDJTWsBdjN22CXs~3YVPUnn0FFjoND5Rmg5hRpfzSpLo1CGmsShzNA3kQLQ~OJ7G3BTfvgY~-OM30x4UOFJ4Sor-waAeerRNJGy-uFoIqJwdhkyoh6-6XfpWZ1KJ8HpvhHOIl-h7Ilt-~9Xg__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA][Teaching a HOL course: experience report]]. ~ Konrad Slind et als. #ITP #HOL4
++ [[https://slate.com/technology/2021/05/artificial-intelligence-moonshots-usually-fail.html][Why A.I. Moonshots Miss (Ambitious predictions about the future powers of computers keep turning out to be wrong).]] ~ Jeffrey Funk, Gary Smith. #AI
++ [[https://arxiv.org/abs/2104.05207 Liao Zhang, Lasse Blaauwbroek, Bartosz Piotrowski, Prokop Černý, Cezary Kaliszyk, Josef Urban.][Online machine learning techniques for Coq: a comparison]]. ~ #ITP #Coq #MachineLearning
++ [[https://arxiv.org/abs/2106.03015][Learning proofs for the classification of nilpotent semigroups]]. ~ Carlos Simpson. #ATP #MachineLearning #Math
++ [[https://bor0.wordpress.com/2021/06/07/re-inventing-the-monad-wheel/][Re-inventing the Monad wheel]]. ~ Boro Sitnikovski (@BSitnikovski). #Haskell #FunctionalProgramming
+
 *** 07-Jun-21
 + [[https://logicaltypes.blogspot.com/2021/06/why-kleisli-arrow-matter.html][Why Kleisli arrows matter]]. ~ Douglas M. Auclair (geophf). #Haskell #FunctionalProgramming
 + [[https://github.com/williamdemeo/TypeFunc][TypeFunc: This repository collects some links and resources for learning about type theory, functional programming, and related subjects]]. ~  Avatar William DeMeo. #ITP #FunctionalProgramming #Agda #Coq #Haskell #Idris #LeanProver #Scala
