@@ -10,6 +10,7 @@ contenido.
 * Contenido                                                             :TOC:
 - [[#lecturas-del-año-2021][Lecturas del año 2021]]
   - [[#junio-de-2021][Junio de 2021]]
+- [[#09-jun-21][09-Jun-21]]
   - [[#mayo-de-2021][Mayo de 2021]]
   - [[#abril-de-2021][Abril de 2021]]
   - [[#marzo-de-2021][Marzo de 2021]]
@@ -20,6 +21,12 @@ contenido.
 * Lecturas del año 2021
 
 ** Junio de 2021
+
+* 09-Jun-21
++ [[https://arxiv.org/abs/2106.03906][Learning to guide a saturation-based theorem prover]]. ~ Ibrahim Abdelaziz et als. #ATP #MachineLearning
++ [[https://coqmath.blogspot.com/2015/01/learning-set-theory-through-coq-part-1.html][Learning set theory through Coq (part 1)]]. ~ Kyle Stemen. #ITP #Coq #Math
++ [[https://coqmath.blogspot.com/2015/02/learning-set-theory-through-coq-part-2.html][Learning set theory through Coq (part 2)]]. ~ Kyle Stemen. #ITP #Coq #Math
++ [[https://coqmath.blogspot.com/2015/02/learning-set-theory-through-coq-part-3.html][Learning set theory through Coq (part 3)]]. ~ Kyle Stemen. #ITP #Coq #Math
 
 *** 08-Jun-21
 + [[https://arxiv.org/abs/2106.01184][Formally verified convergence of policy-rich DBF routing protocols]]. ~ Matthew L. Daggitt, Timothy G. Griffin. #ITP #Agda
