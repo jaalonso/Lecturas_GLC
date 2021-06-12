@@ -21,6 +21,15 @@ contenido.
 
 ** Junio de 2021
 
+*** 11-Jun-21
++ [[https://exlean.org/blog/][What the rec? Types dependent on terms, Lean eliminators, and threshold concepts]]. ~ Gihan Marasingha (@gihanmarasingha). #ITP #LeanProver
++ [[https://www.softwarefactory-project.io/practical-haskell-use-cases.html][Practical Haskell use cases]]. #Haskell #FunctionalProgramming
++ [[https://marcosh.github.io/post/2021/06/04/introducing-haskell-in-soisy.html][Introducing Haskell in Soisy]]. ~ Marco Perone. #Haskell #FunctionalProgramming
++ [[https://arxiv.org/abs/2106.05784][Programming puzzles]]. ~ Tal Schuster, Ashwin Kalyan, Oleksandr Polozov, Adam Tauman Kalai. #Programming #Python
++ [[https://github.com/microsoft/PythonProgrammingPuzzles][Python Programming Puzzles (P3)]]. #Programming #Python
++ [[https://www.lemonde.fr/blog/binaire/2021/06/11/des-bibliotheques-aux-logiciels-une-histoire-damour/][Des bibliothèques aux logiciels: une histoire d’amour!]] ~ Sabrina Granger. #Programming
++ [[https://youtu.be/6otIuI89fcU][Jornada sobre Inteligencia Artificial de los Institutos de Investigación de la Universidad de Zaragoza]]. #IA
+
 *** 10-Jun-21
 + [[https://link.springer.com/content/pdf/10.1007%2Fs10817-020-09584-7.pdf][Certified quantum computation in Isabelle/HOL]]. ~ Anthony Bordg, Hanna Lachnitt, Yijun He. #ITP #IsabelleHOL
 + [[https://icube-publis.unistra.fr/docs/15134/hal.pdf][Combining pencil/paper proofs and formal proofs, a challenge for Artificial Intelligence and mathematics education]]. ~ Julien Narboux, Viviane Durand-Guerrier. #ITP #Coq #Math
