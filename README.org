@@ -21,6 +21,17 @@ contenido.
 
 ** Junio de 2021
 
+*** 12-Jun-21
++ [[https://ensiwiki.ensimag.fr/images/2/20/Rapport_cousin_marie.pdf][Formalisation du théorème de décomposition de Hahn avec le démonstrateur interactif Isabelle]]. ~ Marie Cousin. #ITP #IsabelleHOL #Math
++ [[https://drops.dagstuhl.de/opus/volltexte/2021/13884/pdf/LIPIcs-TYPES-2020-5.pdf][Synthetic completeness for a terminating Seligman-Style tableau system]]. ~ Asta Halkjær From. #ITP #IsabelleHOL #Logic #Math
++ [[https://youtu.be/aIObfpWdDbo][Teaching computers about numbers]]. ~ Kevin Buzzard  (@XenaProject). #ITP #LeanProver #Math
++ [[http://www.cse.unsw.edu.au/~crizkallah/theses/harrison-scott-honours-thesis.pdf][Towards a verified compiler from Cogent to LLVM]]. ~ Harrison Jay Scott. #BsC_Thesis #ITP #Coq
++ [[https://www.cse.chalmers.se/~abela/agda/MultiSortedAlgebra.pdf][Birkhoff's completeness theorem for multi-sorted algebras formalized in Agda]]. ~ Andreas Abel. #ITP #Agda #Math
++ [[https://www.cs.bham.ac.uk/~txw467/lics21.pdf][Global optimisation with constructive reals]]. ~ Dan R. Ghica, odd Waugh Ambridge. #ITP #Agda #Math
++ [[https://tonyday567.github.io/posts/avoid/][Haskell and the elegant attack]]. ~ Tony Day (@tonyday567). #Haskell #FunctionalProgramming
++ [[https://youtu.be/bwI3MSWQ-po][Demostración del teorema de Cantor-Schröder-Bernstein]]. ~ Urtzi Buijs (@archimedestub). #Matemáticas
++ [[https://rebeccaskinner.net/posts/2021-06-09-getting-to-the-fixed-point.html][The fixed point]]. ~ Rebecca Skinner. #Haskell #FunctionalProgramming
+
 *** 11-Jun-21
 + [[https://exlean.org/blog/][What the rec? Types dependent on terms, Lean eliminators, and threshold concepts]]. ~ Gihan Marasingha (@gihanmarasingha). #ITP #LeanProver
 + [[https://www.softwarefactory-project.io/practical-haskell-use-cases.html][Practical Haskell use cases]]. #Haskell #FunctionalProgramming
