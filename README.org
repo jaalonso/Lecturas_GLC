@@ -21,6 +21,18 @@ contenido.
 
 ** Junio de 2021
 
+*** 13-Jun-21
++ [[https://micahcantor.xyz/blog/median-heap-haskell][Median heaps in Haskell]]. ~ Micah Cantor. #Haskell #FunctionalProgramming
++ [[https://bit.ly/3xiBmyF][Theorem proving and Artificial Intelligence (A brief introduction)]]. ~ Josef Urban. #ATP #ITP #AI #MachineLearning
++ [[https://bit.ly/3gl4akg][Towards a human-like reasoning system]]. ~ Mateja Jamnik. #ATP #AI
++ [[https://bit.ly/35hF7IB][Mathematical reasoning in humans]]. ~ Jay McClelland. #AI #Math
++ [[https://bit.ly/2RT6ANU][From Hammer to Scalpel: Progress in Automated Theorem Proving]]. ~ Markus Rabe. #ATP #AI
++ [[https://bit.ly/3xlg1EC][Training a first-order theorem prover from synthetic data]]. ~ Vlad Firoiu et als. #ATP #AI #MachineLearning
++ [[https://mathai-iclr.github.io/papers/papers/MATHAI_18_paper.pdf][Training a first-order theorem prover from synthetic data]]. ~ Vlad Firoiu et als. #ATP #AI #MachineLearning
++ [[https://arxiv.org/abs/2102.06203][Proof artifact co-training for theorem proving with language models]]. ~ Jesse Michael Han, Jason Rute, Yuhuai Wu, Edward W. Ayers, Stanislas Polu. #ITP #LeanProver #MachineLearning
++ [[https://bit.ly/3wm5hG3][Neural theorem proving in Lean using proof artifact co-training and language models]]. ~ Jesse Michael Han. #ITP #LeanProver #MachineLearning
++ [[https://youtube.com/playlist?list=PLp2qifo30hMuNgmUUhgl82DTK2JTUqK6M][Video series "Haskell by Example"]]. ~ Michael Oswald. #Haskell #FunctionalProgramming
+
 *** 12-Jun-21
 + [[https://ensiwiki.ensimag.fr/images/2/20/Rapport_cousin_marie.pdf][Formalisation du théorème de décomposition de Hahn avec le démonstrateur interactif Isabelle]]. ~ Marie Cousin. #ITP #IsabelleHOL #Math
 + [[https://drops.dagstuhl.de/opus/volltexte/2021/13884/pdf/LIPIcs-TYPES-2020-5.pdf][Synthetic completeness for a terminating Seligman-Style tableau system]]. ~ Asta Halkjær From. #ITP #IsabelleHOL #Logic #Math
