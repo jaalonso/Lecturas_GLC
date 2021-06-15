@@ -21,6 +21,9 @@ contenido.
 
 ** Junio de 2021
 
+*** 14-Jun-21
++ [[https://arxiv.org/abs/2106.05987][Hybrid systems verification with Isabelle/HOL: Simpler syntax, better models, faster proofs]]. ~ Simon Foster, Jonathan Julián Huerta y Munive, Mario Gleirscher, Georg Struth. #ITP #IsabelleHOL
+
 *** 13-Jun-21
 + [[https://micahcantor.xyz/blog/median-heap-haskell][Median heaps in Haskell]]. ~ Micah Cantor. #Haskell #FunctionalProgramming
 + [[https://bit.ly/3xiBmyF][Theorem proving and Artificial Intelligence (A brief introduction)]]. ~ Josef Urban. #ATP #ITP #AI #MachineLearning
