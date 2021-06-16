@@ -21,6 +21,12 @@ contenido.
 
 ** Junio de 2021
 
+*** 15-Jun-21
++ [[https://benjaminselfridge.github.io/haskell/mathematics/2021/06/13/finite-algebra-1.html][Finite abstract algebra in Haskell]]. ~ Ben Selfridge. #Haskell #FunctionalProgramming #Math
++ [[https://www.ps.uni-saarland.de/~koch/bachelor/incompleteness.pdf][Undecidability and incompleteness of second-order logic]]. ~ Mark Koch. #ITP #Cog #Logic #Math
++ [[https://samuelgruetter.net/assets/lightbulb_pldi21.pdf][Integration verification across software and hardware for a simple embedded system]]. ~ A. Erbsen, S. Gruetter, J. Choi, C. Wood, A. Chlipala. #ITP #Coq
++ [[https://www.cis.upenn.edu/~sweirich/papers/spector-zabusky-thesis.pdf][Don’t mind the formalization gap: The design and usage of Hs-to-Coq]]. ~ Antal Spector-Zabusky. #PhD_Thesis #ITP #Coq #Haskell #FunctionalProgramming
+
 *** 14-Jun-21
 + [[https://arxiv.org/abs/2106.05987][Hybrid systems verification with Isabelle/HOL: Simpler syntax, better models, faster proofs]]. ~ Simon Foster, Jonathan Julián Huerta y Munive, Mario Gleirscher, Georg Struth. #ITP #IsabelleHOL
 
