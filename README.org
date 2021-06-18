@@ -21,6 +21,10 @@ contenido.
 
 ** Junio de 2021
 
+*** 17-Jun-21
++ [[https://youtu.be/ikR4T44PT9w][La gran familia de los números]]. ~ Raúl Ibáñez. #Matemáticas
++ [[https://youtu.be/8LUPWXW_6rc][Computer says 'I don't know' (The case for Honest AI)]]. ~ Peter Flach. #AI via @hakankj
+
 *** 15-Jun-21
 + [[https://benjaminselfridge.github.io/haskell/mathematics/2021/06/13/finite-algebra-1.html][Finite abstract algebra in Haskell]]. ~ Ben Selfridge. #Haskell #FunctionalProgramming #Math
 + [[https://www.ps.uni-saarland.de/~koch/bachelor/incompleteness.pdf][Undecidability and incompleteness of second-order logic]]. ~ Mark Koch. #ITP #Cog #Logic #Math
