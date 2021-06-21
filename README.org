@@ -21,6 +21,11 @@ contenido.
 
 ** Junio de 2021
 
+*** 20-Jun-21
++ [[https://doisinkidney.com/pdfs/algebras-for-weighted-search.pdf][Algebras for weighted search]]. ~ Donnacha Oisín Kidney, Nicolas Wu. #Haskell #FunctionalProgramming
++ [[https://byorgey.wordpress.com/2021/06/19/competitive-programming-in-haskell-folding-folds/][Competitive programming in Haskell: folding folds]]. ~ Brent Yorgey. #Haskell #FunctionalProgramming
++ [[https://mkdoku.github.io/posts/2021-06-19-molecular-dynamics.html ][Molecular dynamic simulations in Haskell]]. ~ Sascha Bubeck (@SaschaBubeck). #Haskell #FunctionalProgramming
+
 *** 19-Jun-21
 + [[https://www.nature.com/articles/d41586-021-01627-2 ][Mathematicians welcome computer-assisted proof in 'grand unification' theory]]. ~ Davide Castelvecchi. #ITP #LeanProver #Mat
 + [[https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/489454/thesis.pdf?sequence=3][Formal verification of composable security proofs]]. ~ Seyed Reza Sefidgar. #PhDThesis #ITP #IsabelleHOL
