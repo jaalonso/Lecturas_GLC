@@ -21,6 +21,17 @@ contenido.
 
 ** Junio de 2021
 
+*** 21-Jun-21
++ [[https://cj-xu.github.io/abm19/mainzer.pdf][From proof theory to proof assistants (Challenges of responsible software and AI)]]. ~ Klaus Mainzer. #ITP #Coq #AI
++ [[https://www.isa-afp.org/entries/IMP_Compiler.html][A shorter compiler correctness proof for language IMP]]. ~ Pasquale Noce. #ITP #IsabelleHOL
++ [[https://isabelle.systems/conventions/][Isabelle community conventions]]. #ITP #IsabelleHOL
++ [[https://search.isabelle.in.tum.de][FindFacts: Experimental search platform for Isabelle and the AFP]]./# #ITP #IsabelleHOL
++ [[https://isabelle.systems/][Isabelle quick access links]]. #ITP #IsabelleHOL
++ [[https://cdsmithus.medium.com/hmock-first-rate-mocks-in-haskell-e59d7c3b066c][HMock: first rate mocks in Haskell]]. ~ Chris Smith (@cdsmithus). #Haskell #FunctionalProgramming
++ [[https://youtu.be/S0HvfXq3454][A new kind of programming: Tactic metaprogramming in Haskell]]. ~ Sandy Maguire. #Haskell #FunctionalProgramming
++ [[https://youtu.be/n4IgYrc0pes][Testing smart contracts with QuickCheck]]. ~ John Hughes. #Haskell #FunctionalProgramming
++ [[https://youtu.be/wJsXjsCvSPg][Lift unliftable (and unlift liftable)]]. ~ Veronika Romashkina (@vrom911). #Haskell #FunctionalProgramming
+
 *** 20-Jun-21
 + [[https://doisinkidney.com/pdfs/algebras-for-weighted-search.pdf][Algebras for weighted search]]. ~ Donnacha Oisín Kidney, Nicolas Wu. #Haskell #FunctionalProgramming
 + [[https://byorgey.wordpress.com/2021/06/19/competitive-programming-in-haskell-folding-folds/][Competitive programming in Haskell: folding folds]]. ~ Brent Yorgey. #Haskell #FunctionalProgramming
