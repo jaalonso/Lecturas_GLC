@@ -21,6 +21,21 @@ contenido.
 
 ** Junio de 2021
 
+*** 22-Jun-21
++ [[https://drops.dagstuhl.de/opus/volltexte/2021/13901/pdf/LIPIcs-ITP-2021-6.pdf][A formally verified checker for first-order proofs]]. ~ Seulkee Baek. #ITP #Agda #Logic
++ [[https://drops.dagstuhl.de/opus/volltexte/2021/13924/pdf/LIPIcs-ITP-2021-29.pdf][Reaching for the star: Tale of a monad in Coq]]. ~ Pierre Nigron, Pierre-Évariste Dagand. #ITP #Coq
++ [[https://drops.dagstuhl.de/opus/volltexte/2021/13915/pdf/LIPIcs-ITP-2021-20.pdf][Mechanising complexity theory: The Cook-Levin theorem in Coq]]. ~ Lennard Gäher, Fabian Kunze. #ITP #Coq
++ [[https://drops.dagstuhl.de/opus/volltexte/2021/13920/pdf/LIPIcs-ITP-2021-25.pdf][A mechanized proof of the max-flow min-cut theorem for countable networks]]. ~ Andreas Lochbihler. #ITP #IsabelleHOL
++ [[https://drops.dagstuhl.de/opus/volltexte/2021/13917/pdf/LIPIcs-ITP-2021-22.pdf][Formalization of basic combinatorics on words]]. ~ Štěpán Holub, Štěpán Starosta. #ITP #IsabelleHOL
++ [[https://drops.dagstuhl.de/opus/volltexte/2021/13926/pdf/LIPIcs-ITP-2021-31.pdf][Proof Pearl: Playing with the Tower of Hanoi formally]]. ~ Laurent Théry. #ITP #Coq
++ [[https://drops.dagstuhl.de/opus/volltexte/2021/13896/pdf/LIPIcs-ITP-2021-1.pdf][The CakeML project's quest for ever stronger correctness theorems]]. ~ Magnus O. Myreen. #ITP #HOL4
++ [[https://drops.dagstuhl.de/opus/volltexte/2021/13911/pdf/LIPIcs-ITP-2021-16.pdf][A natural formalization of the mutilated checkerboard problem in Naproche]]. ~ Adrian De Lon, Peter Koepke, Anton Lorenzen. #ITP #Naproche
++ [[https://drops.dagstuhl.de/opus/volltexte/2021/13905/pdf/LIPIcs-ITP-2021-10.pdf][Verified progress tracking for timely dataflow]]. ~ M. Brun, S. Decova, A. Lattuada, D. Traytel. #ITP #IsabelleHOL
++ [[https://github.com/leanprover-community/mathlib/blob/master/src/geometry/euclidean/sphere.lean][Ptolemy’s Theorem in Lean]]. ~ Manuel Candales, Benjamin Davidson. #ITP #LeanProver #Math
++ [[https://cacm.acm.org/magazines/2021/7/253452-formal-software-verification-measures-up/fulltext][Formal software verification measures up]]. ~ Samuel Greengard. #FormalVerification
++ [[https://cacm.acm.org/magazines/2021/7/253448-program-verification/fulltext][Program verification: Vision and reality]]. ~ Moshe Y. Vardi. #FormalVerification
++ [[https://arxiv.org/abs/2106.10966][Consequence relations (An introduction to the Tarski-Lindenbaum method)]]. ~ Alex Citkin, Alexey Muravitsky. #eBook #Logic #Math
+
 *** 21-Jun-21
 + [[https://cj-xu.github.io/abm19/mainzer.pdf][From proof theory to proof assistants (Challenges of responsible software and AI)]]. ~ Klaus Mainzer. #ITP #Coq #AI
 + [[https://www.isa-afp.org/entries/IMP_Compiler.html][A shorter compiler correctness proof for language IMP]]. ~ Pasquale Noce. #ITP #IsabelleHOL
