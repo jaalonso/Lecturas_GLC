@@ -21,6 +21,10 @@ contenido.
 
 ** Junio de 2021
 
+*** 23-Jun-21
++ [[https://www.isa-afp.org/entries/Van_der_Waerden.html][Van der Waerden's theorem in Isabelle/HOL]]. ~ Katharina Kreuzer, Manuel Eberl. #ITP #IsabelleHOL #Math
++ [[https://www.tweag.io/blog/2021-06-23-deconstructing-class/][Deconstructing classes]]. ~ Nicholas Clarke. #Haskell #FunctionalProgramming
+
 *** 22-Jun-21
 + [[https://drops.dagstuhl.de/opus/volltexte/2021/13901/pdf/LIPIcs-ITP-2021-6.pdf][A formally verified checker for first-order proofs]]. ~ Seulkee Baek. #ITP #Agda #Logic
 + [[https://drops.dagstuhl.de/opus/volltexte/2021/13924/pdf/LIPIcs-ITP-2021-29.pdf][Reaching for the star: Tale of a monad in Coq]]. ~ Pierre Nigron, Pierre-Évariste Dagand. #ITP #Coq
