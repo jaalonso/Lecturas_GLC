@@ -21,6 +21,15 @@ contenido.
 
 ** Junio de 2021
 
+*** 24-Jun-21
++ [[https://link.springer.com/content/pdf/10.1007/s42979-020-00417-3.pdf][Verified model checking for conjunctive positive logic]]. ~ Alex Abuin et als. #ITP #Dafny
++ [[https://dl.acm.org/doi/pdf/10.1145/3453483.3454053][CoStar: a verified ALL (*) parser]]. ~ Sam Lasser et als. #ITP #Coq
++ [[https://dl.acm.org/doi/pdf/10.1145/3453483.3454027][Revamping hardware persistency models: view-based and axiomatic persistency models for Intel-x86 and Armv8]]. ~ Kyeongmin Cho et als. #ITP #Coq
++ [[https://elpais.com/ciencia/2021-06-24/las-matematicas-que-estudian-los-limites-de-los-ordenadores.html][Las matemáticas que estudian los límites de los ordenadores]]. ~ Daniel Graça, Ágata A. Timón. #Matemáticas #Computación
++ [[http://www.contrib.andrew.cmu.edu/~avigad/Students/zipperer_ms_thesis.pdf][A formalization of elementary group theory in the proof assistant Lean]]. ~ Andrew Zipperer. #ITP #LeanProver #Math
++ [[https://byorgey.wordpress.com/2021/06/24/types-versus-sets-in-math-and-programming-languages/][Types versus sets in math and programming languages]]. ~ Brent Yorgey. #Haskell #FunctionalProgramming
++ [[http://math.andrej.com/2021/06/24/the-dawn-of-formalized-mathematics/][The dawn of formalized mathematics]]. ~ Andrej Bauer (@andrejbauer). #ITP #Math
+
 *** 23-Jun-21
 + [[https://www.isa-afp.org/entries/Van_der_Waerden.html][Van der Waerden's theorem in Isabelle/HOL]]. ~ Katharina Kreuzer, Manuel Eberl. #ITP #IsabelleHOL #Math
 + [[https://www.tweag.io/blog/2021-06-23-deconstructing-class/][Deconstructing classes]]. ~ Nicholas Clarke. #Haskell #FunctionalProgramming
