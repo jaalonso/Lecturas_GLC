@@ -21,6 +21,17 @@ contenido.
 
 ** Junio de 2021
 
+*** 25-Jun-21
++ [[https://bit.ly/3h3jXDD][Creación artística y creación matemática]]. ~ Juan Arias de Reyna. #Matemáticas #ITP #LeanProver
++ [[http://abstract.ups.edu/index.html][Abstract algebra: Theory and applications]]. ~ Thomas W. Judson et als. #eBook #Math #Sage
++ [[http://antoniobehn.cl/cursillo2017/][Taller de Sage]]. ~ Antonio Behn. #Sage #Matemáticas
++ [[https://www.isa-afp.org/entries/MiniSail.html][MiniSail: A kernel language for the ISA specification language SAIL in Isabelle/HOL]]. ~ Mark Wassell. #ITP #IsabelleHOL
++ [[https://www.isa-afp.org/entries/Public_Announcement_Logic.html][Public announcement logic (in Isabelle/HOL)]]. ~ Asta Halkjær From (@astahfrom). #ITP #IsabelleHOL
++ [[http://people.compute.dtu.dk/ahfrom/Formalizing%20Epistemic%20Logic.pdf][Formalized soundness and completeness of epistemic logic]]. ~ Asta Halkjær From (@astahfrom) et als. #Logic #ITP #IsabelleHOL
++ [[https://leanprover-community.github.io/lt2021/slides/paula-LeanTogether2021.pdf][Results in modal and dynamic epistemic logic (A formalization in Lean)]]. ~ Paula Neeley. #Logic #ITP #LeanProver
++ [[https://www.rsme.es/2021/06/hito-de-las-demostraciones-asistidas-por-ordenador-en-nature/][Hito de las demostraciones asistidas por ordenador en Nature]]. ~ Nerea Diez López. #DAO #LeanProver #Matemáticas
++ [[http://endlessparentheses.com/embedding-youtube-videos-with-org-mode-links.html][Embedding Youtube videos with org-mode links]]. ~ Artur Malabarba. #OrgMode #Emacs
+
 *** 24-Jun-21
 + [[https://link.springer.com/content/pdf/10.1007/s42979-020-00417-3.pdf][Verified model checking for conjunctive positive logic]]. ~ Alex Abuin et als. #ITP #Dafny
 + [[https://dl.acm.org/doi/pdf/10.1145/3453483.3454053][CoStar: a verified ALL (*) parser]]. ~ Sam Lasser et als. #ITP #Coq
