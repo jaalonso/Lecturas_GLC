@@ -21,6 +21,11 @@ contenido.
 
 ** Junio de 2021
 
+*** 26-Jun-21
++ [[https://bit.ly/3AboKvE][La prova del software (in Italian)]]. ~ Riccardo Brasca et als. #ITP #LeanProver #Math
++ [[https://philpapers.org/archive/DETGFA.pdf][Groundwork for a fallibilist account of Mathematics]]. ~ Silvia De Toffoli. #Math
++ [[https://morrowm.github.io/posts/2021-06-26-assoc.html][Associated types in two different ways]]. #Haskell #FunctionalProgramming
+
 *** 25-Jun-21
 + [[https://bit.ly/3h3jXDD][Creación artística y creación matemática]]. ~ Juan Arias de Reyna. #Matemáticas #ITP #LeanProver
 + [[http://abstract.ups.edu/index.html][Abstract algebra: Theory and applications]]. ~ Thomas W. Judson et als. #eBook #Math #Sage
