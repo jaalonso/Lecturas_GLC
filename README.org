@@ -21,6 +21,10 @@ contenido.
 
 ** Junio de 2021
 
+*** 27-Jun-21
++ [[https://dodisturb.me/posts/2021-06-27-Typed-Programs-Dont-Leak-Data.html][Typed programs don't leak data]]. ~ Mistral Contrastin. #Haskell #FunctionalProgramming
++ [[https://youtu.be/yLw5j-4-aEE][Historia de desafíos matemáticos]]. Cómo ganar un millón de dólares. ~ Antonio Pérez (@aperezsanz). #Matemáticas vía @manuel_de_leon
+
 *** 26-Jun-21
 + [[https://bit.ly/3AboKvE][La prova del software (in Italian)]]. ~ Riccardo Brasca et als. #ITP #LeanProver #Math
 + [[https://philpapers.org/archive/DETGFA.pdf][Groundwork for a fallibilist account of Mathematics]]. ~ Silvia De Toffoli. #Math
