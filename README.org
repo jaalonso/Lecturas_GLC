@@ -21,6 +21,15 @@ contenido.
 
 ** Junio de 2021
 
+*** 28-Jun-21
++ [[https://hal.inria.fr/inria-00139131v2/document][A modular formalisation of finite group theory]]. ~ Georges Gonthier, Assia Mahboubi, Laurence Rideau, Enrico Tassi, LaurentThéry. #ITP #Coq #Math
++ [[https://siddhartha-gadgil.github.io/automating-mathematics/posts/sat-prover-lean/][SAT solver-prover in Lean 4]]. ~ Siddhartha Gadgil. #ITP #LeanProver #Logic
++ [[http://siddhartha-gadgil.github.io/ProvingGround/][ProvingGround: Automated Theorem proving by learning]]. ~ Siddhartha Gadgil. #ITP #LeanProver #MachineLearning
++ [[http://siddhartha-gadgil.github.io/presentations/KWK-AutoMath.htm][Automating Mathematics? ~ Siddhartha Gadgil]].l#/ #Math #ATP #ITP #AI
++ [[http://math.iisc.ac.in/~gadgil/SMTGeom.pdf][Euclidean geometry by high-performance solvers? ~ Siddhartha Gadgil, Anand Tadipatri]]. #Math #ATP #SAT #SMT
++ [[http://www.contrib.andrew.cmu.edu/~avigad/Students/serafin_thesis.pdf][A formally verified proof of the central limit theorem]]. ~ Luke Serafin. #PhD_Thesis #ITP #IsabelleHOL #Math
++ [[http://www.contrib.andrew.cmu.edu/~avigad/Students/wu_thesis.pdf][A formally verified proof of Kruskal’s tree theorem in Lean]]. ~ Minchao Wu. #ITP #LeanProver #Math
+
 *** 27-Jun-21
 + [[https://dodisturb.me/posts/2021-06-27-Typed-Programs-Dont-Leak-Data.html][Typed programs don't leak data]]. ~ Mistral Contrastin. #Haskell #FunctionalProgramming
 + [[https://youtu.be/yLw5j-4-aEE][Historia de desafíos matemáticos]]. Cómo ganar un millón de dólares. ~ Antonio Pérez (@aperezsanz). #Matemáticas vía @manuel_de_leon
