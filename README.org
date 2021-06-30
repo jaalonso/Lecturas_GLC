@@ -21,6 +21,9 @@ contenido.
 
 ** Junio de 2021
 
+*** 29-Jun-21
++ [[https://exlean.org/well-founded-recursion/][Well-founded recursion]]. ~ Gihan Marasingha (@gihanmarasingha). #ITP #LeanProver #Math
+
 *** 28-Jun-21
 + [[https://hal.inria.fr/inria-00139131v2/document][A modular formalisation of finite group theory]]. ~ Georges Gonthier, Assia Mahboubi, Laurence Rideau, Enrico Tassi, LaurentThéry. #ITP #Coq #Math
 + [[https://siddhartha-gadgil.github.io/automating-mathematics/posts/sat-prover-lean/][SAT solver-prover in Lean 4]]. ~ Siddhartha Gadgil. #ITP #LeanProver #Logic
