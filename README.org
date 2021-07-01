@@ -21,6 +21,14 @@ contenido.
 
 ** Junio de 2021
 
+*** 30-Jun-21
++ [[https://www.sciencedirect.com/science/article/pii/S2352220821000626][A Perron–Frobenius theorem for deciding matrix growth]]. ~ RenéThiemann. #ITP #IsabelleHOL #Math
++ [[https://yfu.tw/publication/cav21-coq-qfbv/cav21-coq-qfbv.pdf][CoqQFBV: A scalable certified SMT quantifier-free bit-vector solver]]. ~ Xiaomu Shi et als. #ITP #Coq
++ [[http://www.ccas.ru/ca/_media/ca-2021.pd][On a machine-checked proof for an optimized method to multiply polynomials]]. ~ S.D. Meshveliani.f#page=88 #ITP #Agda #Math
++ [[https://www.researchgate.net/profile/Hester-Breman/publication/350607318_Augmenting_the_human_mathematician/links/608bc486a6fdccaebdf9063e/Augmenting-the-human-mathematician.pdf][Augmenting the human mathematician]]. ~ H.K. Sørensen, M.W. Johansen, R. Hoekzema, H. Breman. #ITP #ATP #Math
++ [[https://arxiv.org/abs/1905.13100][Towards finding longer proofs]]. ~ Zsolt Zombori, Adrián Csiszárik, Henryk Michalewski, Cezary Kaliszyk, Josef Urban. #ATP #MachineLearning
++ [[https://cdsmithus.medium.com/towers-of-hanoi-from-a-random-start-db22d09da027][Towers of Hanoi from a random start]]. ~ Chris Smith (@cdsmithus). #Haskell #FunctionalProgramming
+
 *** 29-Jun-21
 + [[https://exlean.org/well-founded-recursion/][Well-founded recursion]]. ~ Gihan Marasingha (@gihanmarasingha). #ITP #LeanProver #Math
 
