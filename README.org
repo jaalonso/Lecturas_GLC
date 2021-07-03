@@ -9,6 +9,7 @@ contenido.
 
 * Contenido                                                             :TOC:
 - [[#lecturas-del-año-2021][Lecturas del año 2021]]
+  - [[#julio-de-2021][Julio de 2021]]
   - [[#junio-de-2021][Junio de 2021]]
   - [[#mayo-de-2021][Mayo de 2021]]
   - [[#abril-de-2021][Abril de 2021]]
@@ -18,6 +19,13 @@ contenido.
 - [[#lecturas-anteriores][Lecturas anteriores]]
 
 * Lecturas del año 2021
+
+** Julio de 2021
+
+*** 02-Jul-21
++ [[https://arxiv.org/abs/2104.12224v1][Isabelle's metalogic: Formalization and proof checker]]. ~ Tobias Nipkow, Simon Roßkopf. #ITP #IsabelleHOL
++ [[https://rpeszek.github.io/posts/2021-06-28-polysemy-arrows.html][Arming polysemy with Arrows]]. ~ Robert Peszek. #Haskell #FunctionalProgramming
++ [[http://www.jerf.org/iri/post/2958][Functors and monads for people who have read too many "Tutorials"]]. ~ Jeremy Bowers. #Haskell #FunctionalProgramming
 
 ** Junio de 2021
 
