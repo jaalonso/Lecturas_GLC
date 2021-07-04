@@ -22,6 +22,18 @@ contenido.
 
 ** Julio de 2021
 
+*** 03-Jul-21
++ [[https://costa.fdi.ucm.es/wst2021/WST2021_proceedings.pd][Formalizing higher-order termination in Coq]]. ~ Deivid Vale, Niels van der Weide.f#page=71 #ITP #Coq
++ [[https://hal.inria.fr/hal-03274013/document][Formalization of a sign determination algorithm in real algebraic geometry]]. ~ Cyril Cohen. #ITP #Coq #Math
++ [[https://www.cs.bham.ac.uk/%7emhe/agda-new/CantorSchroederBernstein.html][The Cantor-Schröder-Bernstein for homotopy types, or ∞-groupoids, in Agda]]. ~ Martin Escardo. #ITP #Agda #Logic #Math
++ [[https://link.springer.com/article/10.1007/s40062-021-00284-6][The Cantor–Schröder–Bernstein Theorem for ∞-groupoids]]. ~ Martin Escardo. #Logic #Math
++ [[https://repository.tudelft.nl/islandora/object/uuid:2c32c354-42e4-466e-9869-b7c68b4388ec/datastream/OBJ/download][Practical verification of the Haskell ranged-sets library]]. ~ Ioana Savu, Jesper Cockx, Lucas Escot. #ITP #Agda #Haskell #FunctionalProgramming
++ [[https://repository.tudelft.nl/islandora/object/uuid:065b9e87-43e5-4e3c-8e37-04f1b50c8cf7/datastream/OBJ/download][Producing a verified implementation of sequences using agda2hs]]. ~ Shashank Anand, Jesper Cockx, Lucas Escot. #ITP #Agda #Haskell #FunctionalProgramming
++ [[https://raw.githubusercontent.com/barry-jay-personal/tree-calculus/master/tree_book.pdf][Reflective programs in tree calculus]]. ~ Barry Jay (@Jay59009444). #eBook #ITP #Coq
++ [[https://github.com/barry-jay-personal/tree-calculus][Proofs in Coq for the book "Reflective programs in tree calculus"]]. ~ Barry Jay (@Jay59009444). #ITP #Coq
++ [[https://webspace.science.uu.nl/~swier004/publications/2010-fundamentae-informatica.pdf][A tutorial implementationof a dependently typed lambda calculus]]. ~ Andres Löh, Conor McBride, Wouter Swierstra. #ITP #Agda
++ [[https://youtu.be/tYqbbRsx8DI][Formalising contemporary mathematics in simple type theory]]. ~ Lawrence Paulson. #ITP #IsabelleHOL #Math
+
 *** 02-Jul-21
 + [[https://arxiv.org/abs/2104.12224v1][Isabelle's metalogic: Formalization and proof checker]]. ~ Tobias Nipkow, Simon Roßkopf. #ITP #IsabelleHOL
 + [[https://rpeszek.github.io/posts/2021-06-28-polysemy-arrows.html][Arming polysemy with Arrows]]. ~ Robert Peszek. #Haskell #FunctionalProgramming
