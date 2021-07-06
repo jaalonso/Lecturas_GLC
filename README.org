@@ -22,6 +22,19 @@ contenido.
 
 ** Julio de 2021
 
+*** 05-Jul-21
++ [[https://exlean.org/groups-i/][Groups I]]. Omar Harhara. #ITP #LeanProver #Math
++ [[https://www.iiia.csic.es/sat2021/program/Slides39.pdf][Chinese remainder encoding for hamiltonian cycles [Slides]]]. ~ Marijn Heule. #ATP #SATSolvers #Math
++ [[https://www.iiia.csic.es/sat2021/program/Presentation39.mp4][Chinese remainder encoding for hamiltonian cycles [Video]]]. ~ Marijn Heule. #ATP #SATSolvers #Math
++ [[https://www.iiia.csic.es/sat2021/program/Slides48.pdf ][DiMo: Discrete modelling using propositional logic [Slides]]]. ~ Norbert Hundeshagen, Martin Lange and Georg Siebert. #Logic #Math
++ [[https://www.iiia.csic.es/sat2021/program/Presentation48.mp4][DiMo: Discrete modelling using propositional logic [Video]]]. ~ Norbert Hundeshagen, Martin Lange and Georg Siebert. #Logic #Math
++ [[https://dumbarton.fm.cs.uni-kassel.de/assets/manual/DiMoManual_v0.2.2.pdf][DiMo: A tool for discrete modelling using propositional logic (version 0]].2.2). ~ Martin Lange. #Logic #Math
++ [[https://repository.tudelft.nl/islandora/object/uuid:989e34ff-c81f-43ba-a851-59dca559ab90/datastream/OBJ/download][Verifying correctness of Haskell programs using the programming language Agda and framework agda2hs]]. ~ Dixit Sabharwal, Jesper G.H. Cockx, Lucas F.B. Escot. #ITP #Agda #Haskell #FunctionalProgramming
++ [[https://www.itl.waw.pl/czasopisma/JTIT/2021/2/107.pdf][Security verification in the context of 5G sensor networks]]. ~ Piotr Remlein, Urszula Stachowiak. #Haskell #FunctionalProgramming
++ [[https://repository.tudelft.nl/islandora/object/uuid:5f308592-49ac-4395-985c-77f8c48a52f2/datastream/OBJ/download][Deriving a symbolic executor for definitional interpreters suitable for the study of heuristics]]. ~ Laura-Ana Pîrcalaboiu, Casper Bach Poulsen, Cas van der Rest. #Haskell #FunctionalProgramming
++ [[https://gopiandcode.uk/logs/log-certified-synthesis.html][Goodbye C developers: The future of programming with certified program synthesis]]. ~ Kiran Gopinathan (@Gopiandcoshow). #ITP #Coq
++ [[https://ilyasergey.net/assets/pdf/papers/certisuslik-icfp21.pdf][Certifying the synthesis of heap-manipulating programs]]. ~ Y. Watanabe, K. Gopinathan, George Pîrlea, Nadia Polikarpova, I. Sergey. #ITP #Coq
+
 *** 03-Jul-21
 + [[https://costa.fdi.ucm.es/wst2021/WST2021_proceedings.pd][Formalizing higher-order termination in Coq]]. ~ Deivid Vale, Niels van der Weide.f#page=71 #ITP #Coq
 + [[https://hal.inria.fr/hal-03274013/document][Formalization of a sign determination algorithm in real algebraic geometry]]. ~ Cyril Cohen. #ITP #Coq #Math
