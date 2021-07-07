@@ -22,6 +22,12 @@ contenido.
 
 ** Julio de 2021
 
+*** 06-Jul-21
++ [[https://github.com/FredericLeRoux/LEAN_ESPACES_METRIQUES][Code Lean contenant les preuves d'un cours standard sur les espaces métriques]]. ~  Frederic Le Roux. #ITP #LeanProver #Math
++ [[https://mmhaskell.com/blog/2021/7/5/function-application-using-the-dollar-sign-][Function application: Using the dollar sign ($)]]. ~ James Bowen (@james_OWA). #Haskell #FunctionalProgramming
++ [[https://serokell.io/blog/introduction-to-template-haskell][A brief introduction to Template Haskell]]. ~ Heitor Toledo Lassarote de Paula. #Haskell #FunctionalProgramming
++ [[https://cacm.acm.org/news/253785-will-ai-rewrite-coding/fulltext][Will AI rewrite coding?]] ~ Samuel Greengard. #AI
+
 *** 05-Jul-21
 + [[https://exlean.org/groups-i/][Groups I]]. Omar Harhara. #ITP #LeanProver #Math
 + [[https://www.iiia.csic.es/sat2021/program/Slides39.pdf][Chinese remainder encoding for hamiltonian cycles [Slides]]]. ~ Marijn Heule. #ATP #SATSolvers #Math
