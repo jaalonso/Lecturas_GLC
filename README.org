@@ -22,6 +22,9 @@ contenido.
 
 ** Julio de 2021
 
+*** 07-Jul-21
++ [[https://odr.chalmers.se/bitstream/20.500.12380/302935/1/CSE%2021-74%20Engsmyre%20Wikstr%c3%b6m.pdf][Complementing the digital programming tutor Ask-Elle with program synthesis]]. ~ Gustav Engsmyre, Karl Wikström. #MSc_Thesis #Haskell #FunctionalProgramming
+
 *** 06-Jul-21
 + [[https://github.com/FredericLeRoux/LEAN_ESPACES_METRIQUES][Code Lean contenant les preuves d'un cours standard sur les espaces métriques]]. ~  Frederic Le Roux. #ITP #LeanProver #Math
 + [[https://mmhaskell.com/blog/2021/7/5/function-application-using-the-dollar-sign-][Function application: Using the dollar sign ($)]]. ~ James Bowen (@james_OWA). #Haskell #FunctionalProgramming
