@@ -22,6 +22,18 @@ contenido.
 
 ** Julio de 2021
 
+*** 09-Jul-21
++ [[https://raw.githubusercontent.com/sofsanfer/TFM/main/output/document.pdf][Formalización del teorema de existencia de modelo en Isabelle/HOL]]. ~ Sofı́a Santiago Fernández. #TFM #ITP #IsabelleHOL #Lógica #Matemática
++ [[https://www.lix.polytechnique.fr/iwc2021/IWC2021_proceedings.pdf#page=29][Formalized signature extension results for confluence, commutation and unique normal forms]]. ~ A. Lochmann, F. Mitterwallner, A. Middeldorp. #ITP #IsabelleHOL
++ [[http://fitelson.org/walsh.pdf][Answers to some open questions of Ulrich & Meredith]]. ~ Matthew Walsh, Branden Fitelson. #ATP #Otter #Logic #Math
++ [[https://www.isa-afp.org/entries/SpecCheck.html?utm_source=dlvr.it&utm_medium=twitter][SpecCheck: Specification-based testing for Isabelle/ML]]. ~ Kevin Kappelmann, Lukas Bulwahn. #ITP #IsabelleHOL
++ [[https://media.suub.uni-bremen.de/bitstream/elib/4986/4/Dissertation_Bornebusch.pdf][Coq meets CλaSH (Proposing a hardware design synthesis flow that combines proof assistants with functional hardware description languages)]]. ~ Fritjof Bornebusch. #PhD_Thesis #ITP #Coq
++ [[https://utmsjoe.mk/files/Vol.12.No.1/3.MODELS_FOR_SOFTWARE_VERIFICATION_PROVING_PROGRAM_CORRECTNESS.pdf][Models for software verification: Proving program correctness]]. ~ Boro Sitnikovski, Lidija Goracinova-Ilieva, Biljana Stojcevska. #FormalVerification #Coq #Dafny
++ [[http://ksiresearch.org/seke/seke21paper/paper047.pdf][Using LSTM to predict tactics in Coq]]. ~ X. Luan, X. Zhang, M. Sun. #ITP #Coq #MachineLearning #NeuralNetwork
++ [[https://arxiv.org/abs/2107.01883][A theory of higher-order subtyping with type intervals]]. ~ Sandro Stucki, Paolo G. Giarrusso. #ITP #Agda
++ [[https://bit.ly/3AO50OI][Curry-Howard correspondence: An intuitive language for mathematics]]. ~ Xiao Tan. #MSc_Thesis #Logic #CompSci
++ [[https://www.ams.org/journals/notices/202106/rnoti-p930.pdf][Practical suggestions for mathematical writing]]. ~ R. Bell, B. Kadets, P. Srinivasan, N. Triantafillou, I. Vogt. #Math
+
 *** 07-Jul-21
 + [[https://odr.chalmers.se/bitstream/20.500.12380/302935/1/CSE%2021-74%20Engsmyre%20Wikstr%c3%b6m.pdf][Complementing the digital programming tutor Ask-Elle with program synthesis]]. ~ Gustav Engsmyre, Karl Wikström. #MSc_Thesis #Haskell #FunctionalProgramming
 
