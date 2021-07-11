@@ -22,6 +22,16 @@ contenido.
 
 ** Julio de 2021
 
+*** 10-Jul-21
++ [[https://link.springer.com/content/pdf/10.1007%2F978-3-030-79876-5.pd][Isabelle’s metalogic: Formalization and proof checker]]. ~ Tobias Nipkow, Simon Roßkopf.f#page=104 #ITP #IsabelleHOL
++ [[https://link.springer.com/content/pdf/10.1007%2F978-3-030-79876-5.pd][Reliable reconstruction of fine-grained proofs in a proof assistant]]. ~ Hans-Jörg Schurr, Mathias Fleury, Martin Desharnais.f#page=459 #ATP #SMT #ITP #IsabelleHOL
++ [[https://link.springer.com/content/pdf/10.1007%2F978-3-030-79876-5.pd][The Isabelle/Naproche natural language proof assistant]]. ~ Adrian De Lon et als.f#page=619 #ITP #IsabelleHOL
++ [[https://leanprover-community.github.io/mathlib_docs/computability/turing_machine.html][Turing machines in Lean]]. ~ Mario Carneiro et als. #ITP #LeanProver #CompSci
++ [[https://www.tweag.io/blog/2021-07-08-linear-traversable/][Exploring linear Traversable using generics]]. ~ Sjoerd Visscher. #Haskell #FunctionalProgramming
++ [[https://bdtechtalks.com/2021/07/05/openai-github-gpt-3-copilot/][What OpenAI and GitHub’s "AI pair programmer" means for the software industry]]. ~ Ben Dickson. #AI #Programming #Copilot
++ [[https://cacm.acm.org/news/253847-using-ai-to-drill-down-in-physics/fulltext][Using AI to Drill Down in Physics]]. ~ Bennie Mols. #AI
++ [[https://www.microsiervos.com/archivo/matematicas/matematicas-dinamicas-visualizaciones-codigo-abierto.html][Matemáticas dinámicas: estupendas visualizaciones a partir de código abierto]]. ~ @Alvy. #Matemáticas #Computación
++ [[https://www.dynamicmath.xyz/][Dynamic mathematics (Interactive mathematical applets & animations)]]. ~ Juan Carlos Ponce. #Math
 *** 09-Jul-21
 + [[https://raw.githubusercontent.com/sofsanfer/TFM/main/output/document.pdf][Formalización del teorema de existencia de modelo en Isabelle/HOL]]. ~ Sofı́a Santiago Fernández. #TFM #ITP #IsabelleHOL #Lógica #Matemática
 + [[https://www.lix.polytechnique.fr/iwc2021/IWC2021_proceedings.pdf#page=29][Formalized signature extension results for confluence, commutation and unique normal forms]]. ~ A. Lochmann, F. Mitterwallner, A. Middeldorp. #ITP #IsabelleHOL
