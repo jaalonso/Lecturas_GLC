@@ -22,6 +22,14 @@ contenido.
 
 ** Julio de 2021
 
+*** 11-Jul-21
++ [[https://arxiv.org/abs/2107.02353][General automation in Coq through modular transformations]]. ~ Valentin Blot, Louise Dubois de Prisque, Chantal Keller, Pierre Vial. #ITP #Coq
++ [[https://drops.dagstuhl.de/opus/volltexte/2021/14256/ ][Synthetic undecidability of MSELL via FRACTRAN mechanised in Coq]]. ~ Dominique Larchey-Wendling. #ITP #Coq
++ [[https://drops.dagstuhl.de/opus/volltexte/2021/14260/pdf/LIPIcs-FSCD-2021-22.pdf][Type-theoretic constructions of the final coalgebra of the finite powerset functor]]. ~ Niccolò Veltri. #ITP #Agda
++ [[https://arxiv.org/abs/2107.02354][Alethe: Towards a generic SMT proof format]]. ~ Hans-Jörg Schurr, Mathias Fleury, Haniel Barbosa, Pascal Fontaine. #ATP #SMT
++ [[http://www.cse.chalmers.se/~jomoa/papers/VPT21QuickSpec.pdf][Conjectures, tests and proofs: An overview of theory exploration]]. ~ Moa Johansson, Nicholas Smallbone. #Haskell #FunctionalProgramming #QuickSpec
++ [[https://arxiv.org/abs/2107.02352][A framework for proof-carrying logical transformations]]. ~ Quentin Garchery. #FunctionalProgramming #OCaml #Why3
+
 *** 10-Jul-21
 + [[https://link.springer.com/content/pdf/10.1007%2F978-3-030-79876-5.pd][Isabelle’s metalogic: Formalization and proof checker]]. ~ Tobias Nipkow, Simon Roßkopf.f#page=104 #ITP #IsabelleHOL
 + [[https://link.springer.com/content/pdf/10.1007%2F978-3-030-79876-5.pd][Reliable reconstruction of fine-grained proofs in a proof assistant]]. ~ Hans-Jörg Schurr, Mathias Fleury, Martin Desharnais.f#page=459 #ATP #SMT #ITP #IsabelleHOL
