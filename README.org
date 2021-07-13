@@ -22,6 +22,9 @@ contenido.
 
 ** Julio de 2021
 
+*** 12-Jul-21
++ [[https://www.extrema.is/articles/haskell-books][Haskell books: a tagged index of English books related to the Haskell programming language]]. ~ Travis Cardwell. #Haskell #FunctionalProgramming
+
 *** 11-Jul-21
 + [[https://arxiv.org/abs/2107.02353][General automation in Coq through modular transformations]]. ~ Valentin Blot, Louise Dubois de Prisque, Chantal Keller, Pierre Vial. #ITP #Coq
 + [[https://drops.dagstuhl.de/opus/volltexte/2021/14256/ ][Synthetic undecidability of MSELL via FRACTRAN mechanised in Coq]]. ~ Dominique Larchey-Wendling. #ITP #Coq
