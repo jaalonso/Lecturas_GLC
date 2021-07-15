@@ -22,6 +22,16 @@ contenido.
 
 ** Julio de 2021
 
+*** 14-Jul-21
++ [[https://drops.dagstuhl.de/opus/frontdoor.php?source_opus=13914][A mechanised proof of the time invariance thesis for the weak call-by-value λ-calculus]]. ~ Yannick Forster, Fabian Kunze, Gert Smolka, Maximilian Wuttke. #ITP #Coq #CompSci
++ [[https://arxiv.org/abs/2107.06015][A classification of artificial intelligence systems for mathematics education]]. ~ Steven Van Vaerenbergh, Adrián Pérez-Suay. #AI #Math
++ [[https://youtu.be/XspZEqNl6Wo][GHC: Dependency analysis of Haskell declarations]]. ~ Artyom Kuznetsov. #Haskell #FunctionalProgramming
++ [[https://www.isa-afp.org/entries/Finitely_Generated_Abelian_Groups.html][Finitely generated abelian groups (in Isabelle/HOL)]]. ~ Joseph Thommes, Manuel Eberl. #ITP #IsabelleHOL #Math
++ [[https://perso.univ-rennes1.fr/sebastien.gouezel/articles/gromov_hausdorff.pdf][Formalizing the Gromov-Hausdorff space]]. ~ Sébastien Gouëzel. #ITP #LeanProver #Math
++ [[https://www.xixilogic.org/events/wp-content/uploads/2021/07/proceedingsfinal.pd][A flexible approach to argumentation framework analysis using theorem proving]]. ~ David Fuenmayor, Alexander Steen.f#page=26 #ITP #IsabelleHOL
++ [[https://matela.com.br/express.pdf][Express: Applications of dynamically typed Haskell expressions]]. ~ Rudy Matela. #Haskell #FunctionalProgramming
++ [[https://link.springer.com/article/10.1007/s40753-021-00140-1][Learning about proof with the theorem prover Lean: the abundant numbers task]]. ~ Athina Thoma, Paola Iannone. #ITP #LeanProver #Math
+
 *** 12-Jul-21
 + [[https://www.extrema.is/articles/haskell-books][Haskell books: a tagged index of English books related to the Haskell programming language]]. ~ Travis Cardwell. #Haskell #FunctionalProgramming
 
