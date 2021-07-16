@@ -22,6 +22,16 @@ contenido.
 
 ** Julio de 2021
 
+*** 15-Jul-21
++ [[https://blog.desdelinux.net/copilot-el-asistente-de-ai-de-github-recibio-fuertes-criticas-de-la-comunidad-open-source][Copilot, el asistente de AI de GitHub recibió fuertes críticas de la comunidad open source]]. ~ Darkcrizt. #AI #Copilot #Programación
++ [[https://cacm.acm.org/careers/253975-hrs-role-in-understanding-and-mitigating-ai-bias/fulltext][HR's role in understanding and mitigating AI bias]]. ~ Laura Baldwin. #AI
++ [[https://stopachka.essay.dev/post/5/risp-in-rust-lisp][(Risp (in (Rust) (Lisp)))]]. ~ Stepan Parunashvili (@stopachka). #Rust #Lisp
++ [[https://www.fotonixx.com/posts/rust-fizzbuzz/][Writing an (overly) idiomatic Fizzbuzz with Rust]]. ~ Ryan Frazier. #RustLang
++ [[https://arxiv.org/abs/2007.00752][Is Rust used safely by software developers?]] ~ Ana Nora Evans, Bradford Campbell, Mary Lou Soffa. #RustLang
++ [[https://neptune.ai/blog/explainability-auditability-ml-definitions-techniques-tools][Explainability and auditability in ML: Definitions, techniques, and tools]]. ~ Ejiro Onose. #AI #MachineLearning #XAI
++ [[https://pure.tue.nl/ws/portalfiles/portal/174690614/Final_thesis_Cottaar.pdf][Reinforcement learning for interactive theorem proving (Creating an artificial student)]]. ~ Jolijn Cottaar. #ITP #Coq #MachineLearning
++ [[https://is.muni.cz/th/zedur/Game_development_in_Haskell_Archive.pdf][Game development in Haskell]]. ~ Jan Rychlý. #BSc_Thesis #Haskell #FunctionalProgramming
+
 *** 14-Jul-21
 + [[https://drops.dagstuhl.de/opus/frontdoor.php?source_opus=13914][A mechanised proof of the time invariance thesis for the weak call-by-value λ-calculus]]. ~ Yannick Forster, Fabian Kunze, Gert Smolka, Maximilian Wuttke. #ITP #Coq #CompSci
 + [[https://arxiv.org/abs/2107.06015][A classification of artificial intelligence systems for mathematics education]]. ~ Steven Van Vaerenbergh, Adrián Pérez-Suay. #AI #Math
