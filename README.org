@@ -22,6 +22,21 @@ contenido.
 
 ** Julio de 2021
 
+*** 16-Jul-21
++ [[http://eptcs.web.cse.unsw.edu.au/paper.cgi?LFMTP2021.1][Facilitating meta-theory reasoning]]. ~ Giselle Reis. #Logic #CompSci #SELLF #TATU #QUATI #OCaml #FunctionalProgramming
++ [[http://eptcs.web.cse.unsw.edu.au/paper.cgi?LFMTP2021.2][Touring the MetaCoq project]]. ~ Matthieu Sozeau. #ITP #Coq
++ [[http://eptcs.web.cse.unsw.edu.au/paper.cgi?LFMTP2021.4][Automating induction by reflection]]. ~ Johannes Schoisswohl, Laura Kovács. #ATP #Logic
++ [[https://repositum.tuwien.at/handle/20.500.12708/16472][Automated induction by reflection]]. ~ Johannes Schoisswohl. #MSc_Thesis #ATP #Logic
++ [[http://eptcs.web.cse.unsw.edu.au/paper.cgi?LFMTP2021.5][Countability of inductive types formalized in the object-logic level]]. ~ Qinxiang Cao, Xiwei Wu. #ITP #Coq
++ [[http://eptcs.web.cse.unsw.edu.au/paper.cgi?LFMTP2021.6][SMLtoCoq: Automated generation of Coq specifications and proof obligations from SML programs with contracts]]. ~ Laila El-Beheiry, Giselle Reis, Ammar Karkour. #ITP #Coq #SML #FunctionalProgramming
++ [[http://eptcs.web.cse.unsw.edu.au/paper.cgi?LFMTP2021.7][Systematic translation of formalizations of type theory from intrinsic to extrinsic style]]. ~ Florian Rabe, Navid Roux. #MMT #LogicalFramework
++ [[https://arxiv.org/abs/2107.07373][A reinforcement learning environment for mathematical reasoning via program synthesis]]. ~ Joseph Palermo, Johnny Ye, Alok Singh. #AI #MachineLearning #Math
++ [[https://arxiv.org/abs/2107.07045][Explainable AI: current status and future directions]]. ~ Prashant Gohel, Priyanka Singh, Manoranjan Mohanty. #XAI #AI #MachineLearning
++ [[https://cuddly-octo-palm-tree.com/posts/2021-07-11-cwafi-4/][Cheap interpreter, part 4: stack machines]]. ~ Gary Verhaegen. #Haskell #FunctionalProgramming
++ [[https://blog.kalvad.com/haskell-series-part-1/][Haskell series part 1]]. ~ Pierre Guillemot (@hnb_02). #Haskell #FunctionalProgramming
++ [[https://www.parsonsmatt.org/2021/07/12/template_haskell_performance_tips.html][Template Haskell performance tips]]. ~ Matt Parsons. #Haskell #FunctionalProgramming
++ [[http://libros.csic.es/product_info.php?cPath=164&products_id=1493&PHPSESSID=ccd9b6102a86d43bb8272bb1de415d03][Artificial Intelligence, Robotics & Data Science (CSIC Scientific Challenges: Towards 2030, Volume 11)]]. #AI #DataScience #MachineLearning
+
 *** 15-Jul-21
 + [[https://blog.desdelinux.net/copilot-el-asistente-de-ai-de-github-recibio-fuertes-criticas-de-la-comunidad-open-source][Copilot, el asistente de AI de GitHub recibió fuertes críticas de la comunidad open source]]. ~ Darkcrizt. #AI #Copilot #Programación
 + [[https://cacm.acm.org/careers/253975-hrs-role-in-understanding-and-mitigating-ai-bias/fulltext][HR's role in understanding and mitigating AI bias]]. ~ Laura Baldwin. #AI
