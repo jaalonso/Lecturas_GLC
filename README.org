@@ -22,6 +22,14 @@ contenido.
 
 ** Julio de 2021
 
+*** 17-Jul-21
++ [[https://arxiv.org/abs/2107.05225][Incremental vulnerability detection via back-propagating symbolic execution of insecurity separation logic]]. ~ Toby Murray, Pengbo Yan, Gidon Ernst. #ITP #IsabelleHOL
++ [[https://arxiv.org/abs/2107.05493][Integrating an automated prover for projective geometry as a new tactic in the Coq proof assistant]]. ~ Nicolas Magaud. #ITP #Coq #Math
++ [[https://dione.lib.unipi.gr/xmlui/bitstream/handle/unipi/13557/AI_MSc_Thesis_EiriniVandorou.pdf][Reasoning on figures of theoretical geometry theorems]]. ~ Eirini Vandorou. #MSc_Thesis #Clojure #FunctionalProgramming #Prolog #LogicProgramming #Math
++ [[https://www.parsonsmatt.org/2021/07/16/hspec_hooks.html][Hspec hooks]]. ~ Matt Parsons (@mattoflambda). #Haskell #FunctionalProgramming
++ [[https://i.cs.hku.hk/~bruno/papers/icfp2021.pdf][Distributing intersection and union types with splits and duality (Functional pearl)]]. ~ Xuejing Huang, Bruno C.D.S. Oliveira. #Haskell #FunctionalProgramming
++ [[https://mally.stanford.edu/Papers/logicism.pdf][A defense of logicism]]. ~ Hannes Leitgeb, Uri Nodelman, Edward N. Zalta. #Logic #Math
+
 *** 16-Jul-21
 + [[http://eptcs.web.cse.unsw.edu.au/paper.cgi?LFMTP2021.1][Facilitating meta-theory reasoning]]. ~ Giselle Reis. #Logic #CompSci #SELLF #TATU #QUATI #OCaml #FunctionalProgramming
 + [[http://eptcs.web.cse.unsw.edu.au/paper.cgi?LFMTP2021.2][Touring the MetaCoq project]]. ~ Matthieu Sozeau. #ITP #Coq
