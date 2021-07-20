@@ -22,6 +22,9 @@ contenido.
 
 ** Julio de 2021
 
+*** 19-Jul-21
++ [[https://lucidmanager.org/productivity/publishing-with-org-mode-export/][Publishing articles and books with Org Mode export]]. ~ Peter Prevos (@pprevos). #Emacs #OrgMode #LaTeX
+
 *** 18-Jul-21
 + [[https://github.com/leanprover-community/mathlib/blob/master/src/combinatorics/hales_jewett.lean][The Hales-Jewett theorem (in Lean)]]. ~ David Wärn. #ITP #LeanProver #Math
 + [[https://www.genbeta.com/herramientas/emacs-editor-texto-libre-vocacion-sistema-operativo-sus-extensiones-usadas-suplen-toda-clase-aplicaciones][Emacs, el editor de texto libre con vocación de sistema operativo: sus 'extensiones' más usadas suplen toda clase de aplicaciones]]. ~ Marcos Merino (@MarcosMerino_B). #Emacs
