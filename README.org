@@ -22,6 +22,17 @@ contenido.
 
 ** Julio de 2021
 
+*** 20-Jul-21
++ [[http://fmv.jku.at/papers/Fleury-EDA-Challenge-2021.pdf][IsaSAT and Kissat entering the EDA Challenge 2021]]. ~ Mathias Fleury. #ITP #IsabelleHOL #SATSolvers
++ [[https://github.com/impermeable/waterproof][Waterproof: an educational environment for writing mathematical proofs in interactive notebooks]]. #ITP #Coq #Math
++ [[https://pure.tue.nl/ws/portalfiles/portal/174693710/BFP_Jan_Moraal.pdf][Measure theory in Waterproof (Interactive theorem-proving for measure theory in an educational setting)]]. ~ Jan Moraal. #ITP #Coq #Math
++ [[https://www.cs.princeton.edu/~appel/papers/comp-opt-certicoq.pdf][Compositional optimizations for CertiCoq]]. ~ Zoe Paraskevopoulou, John M. Li, Andrew W. Appel. #ITP #Coq
++ [[https://hal.archives-ouvertes.fr/tel-03286314/document][Noetherian induction for computer-assisted first-order reasoning]]. ~ Sorin Stratulat. #ITP #Coq #Logic #Math
++ [[https://eprints.ucm.es/id/eprint/66943/1/BLAZQUEZ%20SABORIDO%2069815_JORGE_BLAZQUEZ_SABORIDO_Verificacion_de_estructuras_de_datos_enlazadas_en_Dafny_784051_493349558%20%281%29.pdf][Verification of linked data structures in Dafny]]. ~ Jorge Blázquez Saborido. #TFG #ATP #SMT #Dafny
++ [[https://rpeszek.github.io/posts/2021-07-18-prob-tree-scheme.html][Probability tree diagrams. Recursion schemes. Why finding the right solution is sometimes hard?]] ~ Robert Peszek. #Haskell #FunctionalProgramming
++ [[http://ocramz.github.io/haskell/automatic-differentiation/2021/07/19/ad-delcont.html][Purely-functional reverse-mode automatic differentiation with delimited continuations]]. ~ Marco Zocca (@ocramz_yo). #Haskell #FunctionalProgramming
++ [[https://arxiv.org/abs/2107.08821][Proceedings of ICML 2021 workshop on theoretic foundation, criticism, and application trend of explainable AI]]. #AI #MachineLearning #XAI
+
 *** 19-Jul-21
 + [[https://lucidmanager.org/productivity/publishing-with-org-mode-export/][Publishing articles and books with Org Mode export]]. ~ Peter Prevos (@pprevos). #Emacs #OrgMode #LaTeX
 
