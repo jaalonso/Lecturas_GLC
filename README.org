@@ -22,6 +22,10 @@ contenido.
 
 ** Julio de 2021
 
+*** 21-Jul-21
++ [[https://mathematicswithoutapologies.wordpress.com/2021/07/21/announcing-a-new-newsletter-on-mechanizing-mathematics][Announcing a new newsletter on mechanizing mathematics]]. ~ Michael Harris. #ITP #ATP #Math
++ [[https://siliconreckoner.substack.com/about][Silicon Reckoner: an opinionated newsletter about the implications of mechanization of mathematics]]. ~ Michael Harris. #ITP #ATP #Math
+
 *** 20-Jul-21
 + [[http://fmv.jku.at/papers/Fleury-EDA-Challenge-2021.pdf][IsaSAT and Kissat entering the EDA Challenge 2021]]. ~ Mathias Fleury. #ITP #IsabelleHOL #SATSolvers
 + [[https://github.com/impermeable/waterproof][Waterproof: an educational environment for writing mathematical proofs in interactive notebooks]]. #ITP #Coq #Math
