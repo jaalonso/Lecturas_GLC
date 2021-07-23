@@ -22,6 +22,12 @@ contenido.
 
 ** Julio de 2021
 
+*** 22-Jul-21
++ [[https://link.springer.com/chapter/10.1007/978-3-030-81685-8_2][Balancing automation and control for formal verification of microprocessors]]. #ITP #ACL2
++ [[https://arxiv.org/abs/2107.10034][Learning theorem proving components]]. ~ Karel Chvalovský, Jan Jakubův, Miroslav Olšák, Josef Urban. #ATP #MachineLearning
++ [[https://arxiv.org/abs/2104.02549][Connecting constructive notions of ordinals in Homotopy Type Theory]]. ~ Nicolai Kraus, Fredrik Nordvall Forsberg, Chuangjie Xu. #HoTT #ITP #Agda #Logic #Math
++ [[https://books.google.es/books?id=NvI4EAAAQBAJ&lpg=PR3&hl=es&pg=PR][Artificial intelligence (A textbook)]]. ~ Charu C. Aggarwal.3#v=onepage&q&f=false #eBook #AI
+
 *** 21-Jul-21
 + [[https://mathematicswithoutapologies.wordpress.com/2021/07/21/announcing-a-new-newsletter-on-mechanizing-mathematics][Announcing a new newsletter on mechanizing mathematics]]. ~ Michael Harris. #ITP #ATP #Math
 + [[https://siliconreckoner.substack.com/about][Silicon Reckoner: an opinionated newsletter about the implications of mechanization of mathematics]]. ~ Michael Harris. #ITP #ATP #Math
