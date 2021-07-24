@@ -22,6 +22,9 @@ contenido.
 
 ** Julio de 2021
 
+*** 23-Jul-21
++ [[https://github.com/leanprover-community/mathlib/blob/cb21104b83e13a814b913cecc9601f55405bd888/archive/mccune.lean][Every group is a McCune group (in Lean)]]. ~ Bhavik Mehta. #ITP #LeanProver #Math
+
 *** 22-Jul-21
 + [[https://link.springer.com/chapter/10.1007/978-3-030-81685-8_2][Balancing automation and control for formal verification of microprocessors]]. #ITP #ACL2
 + [[https://arxiv.org/abs/2107.10034][Learning theorem proving components]]. ~ Karel Chvalovský, Jan Jakubův, Miroslav Olšák, Josef Urban. #ATP #MachineLearning
