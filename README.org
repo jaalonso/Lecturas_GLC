@@ -22,6 +22,10 @@ contenido.
 
 ** Julio de 2021
 
+*** 24-Jul-21
++ [[https://luctielen.com/posts/static_analysis_using_haskell_and_datalog/][Static analysis using Haskell and Datalog]]. ~ Luc Tielen (@luctielen). #Haskell #FunctionalProgramming
++ [[https://brandonchinn178.github.io/blog/2021/07/23/foralls-in-data-types.html][`forall`s in Data Types]]. ~ Brandon Chinn. #Haskell #FunctionalProgramming
+
 *** 23-Jul-21
 + [[https://github.com/leanprover-community/mathlib/blob/cb21104b83e13a814b913cecc9601f55405bd888/archive/mccune.lean][Every group is a McCune group (in Lean)]]. ~ Bhavik Mehta. #ITP #LeanProver #Math
 
