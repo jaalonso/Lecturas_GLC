@@ -22,6 +22,19 @@ contenido.
 
 ** Julio de 2021
 
+*** 25-Jul-21
++ [[https://github.com/b-mehta/combinatorics][Combinatorics in Lean]]. ~  Bhavik Mehta. #ITP #LeanProver #Math
++ [[https://github.com/leanprover-community/mathlib/blob/056d709743bfc8371400dfbe1b2d4b627d89f6ef/src/model_theory/basic.lean][First-order languages and structures in Lean]]. ~ Aaron Anderson, Jesse Michael Han, Floris van Doorn. #ITP #LeanProver #Logic #Math
++ [[https://github.com/leanprover-community/mathlib/blob/8a0d5e07c88b8b6a36f183e4b1b8d8a4d81f9df8/src/group_theory/complement.lean][Schur–Zassenhaus theorem in Lean]]. ~ Thomas Browning. #ITP #LeanProver #Math
++ [[https://youtu.be/j5RIZAzooAg][Univalence from a computer science point-of-view]]. ~ Dan Licata. #Logic #Math #CompSci
++ [[https://mpodlasin.com/articles/haskell-i][Haskell (The most gentle introduction ever)]]. ~ Mateusz Podlasin (@m_podlasin). #Haskell #FunctionalProgramming
++ [[https://www21.in.tum.de/~wenzelm/papers/romantic.pdf][A comparison of the mathematical proof languages Mizar and Isar]]. ~ Freek Wiedijk, Markus Wenzel. #ITP #Mizar #IsabelleHOL #Isar
++ [[https://www.cs.ru.nl/~freek/notes/mv.pdf][The mathematical vernacular]]. ~ Freek Wiedijk. #ITP #Mizar #IsabelleIsar
++ [[https://github.com/leanprover-community/mathlib/blob/53c830592cc48471c873df6b6ba726b764fcd7f0/src/analysis/convex/krein_milman.lean][The Krein-Milman theorem in Lean]]. ~ Yaël Dillies. #ITP #LeanProver #Math
++ [[https://www.ma.imperial.ac.uk/~buzzard/M4000x_html/M40001/M40001_C1.html][Sets and logic in Lean]]. ~ Kevin Buzzard. #ITP #LeanProver #Logic #Math
++ [[https://www.ma.imperial.ac.uk/~buzzard/M4000x_html/M40001/M40001_C2.html][Functions and equivalence relations in Lean]]. ~ Kevin Buzzard. #ITP #LeanProver #Logic #Math
++ [[https://arxiv.org/abs/0809.1552][A computer verified, monadic, functional implementation of the integral]]. ~ Russell O'Connor, Bas Spitters. #ITP #Coq #Math
+
 *** 24-Jul-21
 + [[https://luctielen.com/posts/static_analysis_using_haskell_and_datalog/][Static analysis using Haskell and Datalog]]. ~ Luc Tielen (@luctielen). #Haskell #FunctionalProgramming
 + [[https://brandonchinn178.github.io/blog/2021/07/23/foralls-in-data-types.html][`forall`s in Data Types]]. ~ Brandon Chinn. #Haskell #FunctionalProgramming
