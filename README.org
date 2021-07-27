@@ -22,6 +22,12 @@ contenido.
 
 ** Julio de 2021
 
+*** 26-Jul-21
++ [[https://gist.github.com/MantasBaksys/5db553021d417b62f33a8c821581498f][Formalization in Lean of IMO 2021 Q1]]. ~ Mantas Baksys. #ITP #LeanProver #Math #IMO
++ [[https://arxiv.org/abs/2107.10988][Formalizing Galois theory (in Lean)]]. ~ Thomas Browning, Patrick Lutz. #ITP #LeanProver #Math
++ [[https://frasertweedale.github.io/blog-fp/posts/2021-07-26-hakyll-without-sources.html][Hakyll how-to: pages without source files]]. ~ Fraser Tweedale (@hackuador). #Haskell #FunctionalProgramming
++ [[https://www.cantorsparadise.com/why-math-is-an-art-not-a-science-94d234cacb76][Why math is an art, not a science]]. ~ Peter Flom. #Math
+
 *** 25-Jul-21
 + [[https://github.com/b-mehta/combinatorics][Combinatorics in Lean]]. ~  Bhavik Mehta. #ITP #LeanProver #Math
 + [[https://github.com/leanprover-community/mathlib/blob/056d709743bfc8371400dfbe1b2d4b627d89f6ef/src/model_theory/basic.lean][First-order languages and structures in Lean]]. ~ Aaron Anderson, Jesse Michael Han, Floris van Doorn. #ITP #LeanProver #Logic #Math
