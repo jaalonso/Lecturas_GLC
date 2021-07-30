@@ -22,6 +22,26 @@ contenido.
 
 ** Julio de 2021
 
+*** 29-Jul-21
++ [[http://flaviomoura.info/files/fmm21.pdf][A formalization of the (compositional) Z property]]. ~ Flávio L. C. de Moura,a Leandro O. Rezende. #ITP #Coq
++ [[http://flaviomoura.info/files/reportZtoConfl.pdf][Confluence via the Z property in Coq]]. ~ Flávio L. C. de Moura, Leandro O. Rezende. #ITP #Coq
++ [[https://arxiv.org/abs/2107.13509][The who in explainable AI: How AI background shapes perceptions of AI explanations]]. ~ Upol Ehsan, Samir Passi, Q. Vera Liao, Larry Chan, I-Hsiang Lee, Michael Muller, Mark O. Riedl. #AI #XAI
++ [[http://www.cse.chalmers.se/research/group/logic/TypesSS05/Extra/wiedijk_2.pdf][The QED Manifesto]]. #ATP #ITP
++ [[https://www.quantamagazine.org/lean-computer-program-confirms-peter-scholze-proof-20210728/][Proof assistant makes jump to big-league Math]]. ~ Kevin Hartnett (@KSHartnett). #ITP #LeanProver #Math
++ [[https://www.researchgate.net/publication/353208312_Integrating_an_Automated_Prover_for_Projective_Geometry_as_a_New_Tactic_in_the_Coq_Proof_Assistant][Integrating an automated prover for projective geometry as a new tactic in the Coq proof assistant]]. ~ Nicolas Magaud. #ITP #Coq #Math
++ [[https://www.researchgate.net/publication/353526866_Is_computer_algebra_ready_for_conjecturing_and_proving_geometric_inequalities_in_the_classroom][Is computer algebra ready for conjecturing and proving geometric inequalities in the classroom?]] ~ Zoltán Kovács, Tomás Recio, Robert Vajda, M. Pilar Vélez. #GeoGebra #Math
++ [[https://www.researchgate.net/profile/Zoltan-Kovacs-3/publication/353466393_Is_computer_algebra_ready_for_conjecturing_and_proving_geometric_inequalities_in_the_classroom/links/60ff0d602bf3553b29142ca4/Is-computer-algebra-ready-for-conjecturing-and-proving-geometric-inequalities-in-the-classroom.pdf?origin=homeFeed_download&_iepl%5BactivityId%5D=1396227761647622&_iepl%5BactivityTimestamp%5D=1627257600&_iepl%5BactivityType%5D=person_publish_publication&_iepl%5Bcontexts%5D%5B0%5D=homeFeed&_iepl%5BrecommendationActualVariant%5D=&_iepl%5BrecommendationDomain%5D=&_iepl%5BrecommendationScore%5D=&_iepl%5BrecommendationTargetActivityCombination%5D=&_iepl%5BrecommendationType%5D=&_iepl%5BfeedVisitIdentifier%5D=&_iepl%5BpositionInFeed%5D=11&_iepl%5BsingleItemViewId%5D=KUZ4i5ThvdxaoZf1ctK2jh1s&_iepl%5BviewId%5D=mkX7HMc1c9d9Y7Hyr4ISW4R9&_iepl%5BhomeFeedVariantCode%5D=ncls&_iepl%5B__typename%5D=HomeFeedTrackingPayload&_iepl%5BinteractionType%5D=publicationDownload&_iepl%5BtargetEntityId%5D=PB%3A353466393][Is computer algebra ready for conjecturing and proving geometric inequalities in the classroom? [Slides]]] ~ Zoltán Kovács, Tomás Recio, Robert Vajda, M. Pilar Vélez. #GeoGebra #Math
++ [[https://link.springer.com/content/pdf/10.1007%2F978-3-030-52200-1_27.pdf][A formalization of properties of continuous functions on closed intervals]]. ~ Yaoshun Fu, Wensheng Yu. #ITP #Coq #Math
++ [[https://github.com/coderfys/Analysis][Formal analysis in Coq]]. #ITP #Coq #Math
++ [[https://raw.githubusercontent.com/mirefek/geo_logic/master/article/geo_logic.pdf][GeoLogic – Graphical interactive theorem prover for Euclidean geometry]]. ~ Miroslav Olsak. #ITP #Logic #Math
++ [[https://github.com/mirefek/geo_logic][GeoLogic: Tool for euclidean geometry aware of logic]]. ~ Miroslav Olsak. #ITP #Logic #Math
+
+*** 27-Jul-21
++ [[https://arxiv.org/abs/2107.11674][Case studies in formal reasoning about lambda-calculus: Semantics, Church-Rosser, standardization and HOAS]]. ~ Lorenzo Gheri, Andrei Popescu. #ITP #IsabelleHOL
++ [[http://www.math.uni-bonn.de/ag/logik/teaching/2021SS/Introduction_Naproche.pdf][An introduction to the Naproche natural language proof checker]]. ~ Peter Koepke. #ITP #IsabelleHOL #Naproche #Logic #Math
++ [[https://www.ps.uni-saarland.de/~hagemeier/files/thesis.pdf][Intuitionistic epistemic logic in Coq]]. ~ Christian Albert Hagemeier. #BSc_Thesis #ITP #Coq #Logic
++ [[https://cacm.acm.org/magazines/2021/8/254304-what-does-saying-that-programming-is-hard-really-say-and-about-whom/fulltext][What does saying that 'Programming is hard' really say, and about whom? ~ Brett A]]. Becker. #Programming
+
 *** 26-Jul-21
 + [[https://gist.github.com/MantasBaksys/5db553021d417b62f33a8c821581498f][Formalization in Lean of IMO 2021 Q1]]. ~ Mantas Baksys. #ITP #LeanProver #Math #IMO
 + [[https://arxiv.org/abs/2107.10988][Formalizing Galois theory (in Lean)]]. ~ Thomas Browning, Patrick Lutz. #ITP #LeanProver #Math
