@@ -22,6 +22,18 @@ contenido.
 
 ** Julio de 2021
 
+*** 30-Jul-21
++ [[https://arxiv.org/abs/2107.14044][Ethical AI for Social Good]]. ~ Ramya Akula, Ivan Garibay. #AI
++ [[https://www.foxhound.systems/blog/composable-data-validation/][Composable data validation with Haskell]]. ~ Ben Levy, Christian Charukiewicz. #Haskell #FunctionalProgramming
++ [[https://blog.sumtypeofway.com/posts/ode-to-a-streaming-bytestream.html][Ode to a streaming ByteString (Or: lazy I/O without shooting yourself in the foot)]]. ~ Patrick Thomson. #Haskell #FunctionalProgramming
++ [[https://coot.me/posts/containers-strict-foldr.html][Strictness of foldr' from containers]]. ~ Marcin Szamotulski (@me_coot). #Haskell #FunctionalProgramming
++ [[https://easychair.org/publications/preprint/k1hv][Formalization of Gambler’s Ruin Problem in Isabelle/HOL]]. ~ Zibo Yang. #ITP #IsabelleHOL #Math
++ [[https://easychair.org/publications/preprint/XmvS][Formalization of RBD-based Cause Consequence Analysis in HOL]]. ~ Mohamed Abdelghany, Sofiene Tahar. #ITP #HOL4
++ [[https://easychair.org/publications/preprint/gGb9][Inductive Benchmarks for Automated Reasoning]]. ~ Márton Hajdu, Petra Hozzová, Laura Kovács, Johannes Schoisswohl, Andrei Voronkov. #ATP
++ [[https://easychair.org/publications/preprint/sD76][Formalizing the Gromov-Hausdorff Space]]. ~ Sébastien Gouëzel. #ITP #LeanProver #Math
++ [[https://easychair.org/publications/preprint/38w1][Formalizing rotation number and its properties in Lean]]. ~ Yury Kudryashov. #ITP #LeanProver #Math
++ [[https://easychair.org/publications/preprint/mC9X][Scalar actions in Lean's Mathlib]]. ~ Eric Wieser. #ITP #LeanProver #Math
+
 *** 29-Jul-21
 + [[http://flaviomoura.info/files/fmm21.pdf][A formalization of the (compositional) Z property]]. ~ Flávio L. C. de Moura,a Leandro O. Rezende. #ITP #Coq
 + [[http://flaviomoura.info/files/reportZtoConfl.pdf][Confluence via the Z property in Coq]]. ~ Flávio L. C. de Moura, Leandro O. Rezende. #ITP #Coq
