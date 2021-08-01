@@ -10,6 +10,7 @@ contenido.
 * Contenido                                                             :TOC:
 - [[#lecturas-del-año-2021][Lecturas del año 2021]]
   - [[#julio-de-2021][Julio de 2021]]
+  - [[#31-jul-21][31-Jul-21]]
   - [[#junio-de-2021][Junio de 2021]]
   - [[#mayo-de-2021][Mayo de 2021]]
   - [[#abril-de-2021][Abril de 2021]]
@@ -21,6 +22,13 @@ contenido.
 * Lecturas del año 2021
 
 ** Julio de 2021
+
+** 31-Jul-21
++ [[https://www21.informatik.tu-muenchen.de/students/past/interval_newton/assets/newton.pdf][Formalisation of interval methods for nonlinear root-finding]]. ~ Daniel Seidl. #BSc_Thesis #ITP #IsabelleHOL #Math
++ [[https://arxiv.org/abs/2107.11838][New algebraic normative theories for ethical and legal reasoning in the LogiKEy framework]]. ~ Ali Farjami. #ITP #IsabelleHOL
++ [[https://dspace.library.uu.nl/handle/1874/403363][The categorical origin of monads in Haskell]]. ~ Marien Matser. #BSc_Thesis #Haskell #FunctionalProgramming #CategoryTheory
++ [[https://analyticsindiamag.com/what-separates-ai-from-an-idiot-savant-is-common-sense-hector-levesque/][What separates AI from an idiot savant is common sense: Hector Levesque]]. #AI #KRR
++ [[https://mathscholar.org/2021/07/computer-theorem-prover-verifies-sophisticated-new-result/][Computer theorem prover verifies sophisticated new result]]. ~ David H Bailey. #ITP #ATP #Math #AI
 
 *** 30-Jul-21
 + [[https://arxiv.org/abs/2107.14044][Ethical AI for Social Good]]. ~ Ramya Akula, Ivan Garibay. #AI
