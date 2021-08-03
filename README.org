@@ -9,6 +9,7 @@ contenido.
 
 * Contenido                                                             :TOC:
 - [[#lecturas-del-año-2021][Lecturas del año 2021]]
+  - [[#agosto-de-2021][Agosto de 2021]]
   - [[#julio-de-2021][Julio de 2021]]
   - [[#31-jul-21][31-Jul-21]]
   - [[#junio-de-2021][Junio de 2021]]
@@ -20,6 +21,15 @@ contenido.
 - [[#lecturas-anteriores][Lecturas anteriores]]
 
 * Lecturas del año 2021
+
+** Agosto de 2021
+
+*** 02-Ago-21
++ [[https://www.philipzucker.com/egglog2-monic/][Egglog 2: Automatically proving the pullback of a monic is monic]]. ~ Philip Zucke. #CategoryTheory
++ [[http://www.wouterspekkink.org/academia/writing/tool/doom-emacs/2021/02/27/writing-academic-papers-with-org-mode.html][Writing academic papers with org-mode]]. ~ Wouter Spekkink (@wouterspekkink). #Emacs #OrgMode
++ [[https://morrowm.github.io/posts/2021-08-02-shoes.html][Tying shoes with GADTs]]. ~ MorrowM. #Haskell #FunctionalProgramming
+
+
 
 ** Julio de 2021
 
