@@ -24,6 +24,11 @@ contenido.
 
 ** Agosto de 2021
 
+*** 03-Ago-21
++ [[https://www.worldscientific.com/doi/pdf/10.1142/9789811236488_0001][Proof and computation: Perspectives for mathematics, computer science, and philosophy]]. ~ Klaus Mainzer. #Logic #Math #CompSci #ITP
++ [[https://www.cs.purdue.edu/homes/bendy/OADT/oadt.pdf][Oblivious Algebraic Data Types]]. ~ Qianchuan Ye, Benjamin Delaware. #ITP #Coq
++ [[https://ryanglscott.github.io/2021/08/01/equality-constraints-in-kinds/][GHC curiosities: Equality constraints in kinds]]. ~ Ryan Scott. #Haskell #FunctionalProgramming
+
 *** 02-Ago-21
 + [[https://www.philipzucker.com/egglog2-monic/][Egglog 2: Automatically proving the pullback of a monic is monic]]. ~ Philip Zucke. #CategoryTheory
 + [[http://www.wouterspekkink.org/academia/writing/tool/doom-emacs/2021/02/27/writing-academic-papers-with-org-mode.html][Writing academic papers with org-mode]]. ~ Wouter Spekkink (@wouterspekkink). #Emacs #OrgMode
