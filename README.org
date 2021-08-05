@@ -24,6 +24,9 @@ contenido.
 
 ** Agosto de 2021
 
+*** 04-Ago-21
++ [[https://github.com/FrickHazard/thomaes-function][Lean proof of Thomaes (popcorn) function]]. ~ Ender Doe. #ITP #LeanProver #Math
+
 *** 03-Ago-21
 + [[https://www.worldscientific.com/doi/pdf/10.1142/9789811236488_0001][Proof and computation: Perspectives for mathematics, computer science, and philosophy]]. ~ Klaus Mainzer. #Logic #Math #CompSci #ITP
 + [[https://www.cs.purdue.edu/homes/bendy/OADT/oadt.pdf][Oblivious Algebraic Data Types]]. ~ Qianchuan Ye, Benjamin Delaware. #ITP #Coq
