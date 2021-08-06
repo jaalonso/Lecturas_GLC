@@ -24,6 +24,11 @@ contenido.
 
 ** Agosto de 2021
 
+*** 05-Ago-21
++ [[https://project-archive.inf.ed.ac.uk/msc/20204462/msc_proj.pdf][Axiomatic Minkowski spacetime in Isabelle/HOL]]. ~ Richard Schmoetten. #MSc_Thesis #ITP #IsabelleHOL
++ [[https://afp.theoremproving.org/][Archive of Formal Proofs]]. #ITP #IsabelleHOL
++ [[https://github.com/carlinmack/afp][Archive of Formal Proofs redesign]]. ~ Carlin MacKenzie. #ITP #IsabelleHOL
+
 *** 04-Ago-21
 + [[https://github.com/FrickHazard/thomaes-function][Lean proof of Thomaes (popcorn) function]]. ~ Ender Doe. #ITP #LeanProver #Math
 
