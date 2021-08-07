@@ -24,6 +24,19 @@ contenido.
 
 ** Agosto de 2021
 
+*** 06-Ago-21
++ [[http://eptcs.web.cse.unsw.edu.au/paper.cgi?FIDE2021.6][Plotting in a formally verified way]]. ~ Guillaume Melquiond. #ITP #Coq
++ [[https://www.edukera.com/][Edukera: Teach Logic and Math with a proof assistant]]. #ITP #Coq #Edukera #Logic #Math
++ [[https://medium.com/coinmonks/archetype-a-dsl-for-tezos-6f55c92d1035][Archetype, a DSL for Tezos]]. ~ Benoit Rognier. #ITP #Coq #Edukera #Archetype
++ [[http://eptcs.web.cse.unsw.edu.au/paper.cgi?FIDE2021.7][A logic theory pattern for linearized control systems]]. ~ Andrea Domenici, Cinzia Bernardeschi. #ITP #PVS
++ [[http://eptcs.web.cse.unsw.edu.au/paper.cgi?FIDE2021.9][Verifying time complexity of binary search using Dafny]]. ~ Shiri Morshtein, Ran Ettinger, Shmuel Tyszberowicz. #ATP #FormalVerification #Dafny
++ [[http://eptcs.web.cse.unsw.edu.au/paper.cgi?FIDE2021.10][Explaining counterexamples with giant-step assertion checking]]. ~ Benedikt Becker, Cláudio Belo Lourenço, Claude Marché. #ATP #Why3 #FormalVerification
++ [[https://arxiv.org/html/2108.02369v1][VeriFly: On-the-fly assertion checking with CiaoPP (extended abstract)]]. ~ Miguel A. Sanchez-Ordaz, Isabel Garcia-Contreras, Víctor Pérez, Jose F. Morales, Pedro Lopez-Garcia, Manuel V. Hermenegildo./#EPTCS338.13 #Prolog #CiaoPP
++ [[https://blog.noredink.com/post/658510851000713216/haskell-for-the-elm-enthusiast][Haskell for the Elm enthusiast]]. ~ No Red Ink. #Haskell #Elm #FunctionalProgramming
++ [[https://blog.kalvad.com/haskell-series-part-2/][Haskell series part 2 (This is the second article of a series on the functional language Haskell for beginners)]]. ~ Pierre Guillemot. #Haskell #FunctionalProgramming
++ [[https://danso.ca/blog/frommaybe-is-just-a-fold/][fromMaybe is Just a fold]]. ~ Dan Soucy (@ninedotnine). #Haskell #FunctionalProgramming
++ [[https://antitypical.com/posts/2021-07-28-when-howard-met-curry/][When Howard Met Curry]]. ~ Rob Rix (@rob_rix). #Haskell #FunctionalProgramming
+
 *** 05-Ago-21
 + [[https://project-archive.inf.ed.ac.uk/msc/20204462/msc_proj.pdf][Axiomatic Minkowski spacetime in Isabelle/HOL]]. ~ Richard Schmoetten. #MSc_Thesis #ITP #IsabelleHOL
 + [[https://afp.theoremproving.org/][Archive of Formal Proofs]]. #ITP #IsabelleHOL
