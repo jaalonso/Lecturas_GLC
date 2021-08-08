@@ -24,6 +24,12 @@ contenido.
 
 ** Agosto de 2021
 
+*** 07-Ago-21
++ [[https://www.imperial.ac.uk/media/imperial-college/faculty-of-engineering/computing/public/2021-ug-projects/Theorem-proving-with-classical-logic.pdf][Theorem proving in classical logic]]. ~ David Davies. #Haskell #FunctionalProgramming #Logic
++ [[https://easychair.org/publications/preprint_download/KLfT][Automatically generalizing theorems using typeclasses]]. ~ Alex J. Best. #ITP #LeanProver
++ [[https://blog.cofree.coffee/2021-08-05-a-brief-intro-to-monad-transformers/][A brief intro to monad transformers]]. ~ Solomon. #Haskell #FunctionalProgramming
++ [[https://arxiv.org/abs/2108.00484][Elements of differential geometry in Lean: A report for mathematicians]]. ~ Anthony Bordg, Nicolò Cavalleri. #ITP #LeanProver #Math
+
 *** 06-Ago-21
 + [[http://eptcs.web.cse.unsw.edu.au/paper.cgi?FIDE2021.6][Plotting in a formally verified way]]. ~ Guillaume Melquiond. #ITP #Coq
 + [[https://www.edukera.com/][Edukera: Teach Logic and Math with a proof assistant]]. #ITP #Coq #Edukera #Logic #Math
