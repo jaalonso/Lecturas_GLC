@@ -24,6 +24,9 @@ contenido.
 
 ** Agosto de 2021
 
+*** 08-Ago-21
++ [[https://www.isa-afp.org/entries/Relational_Forests.html][Relational forests (in Isabelle/HOL)]]. ~ Walter Guttmann. #ITP #IsabelleHOL
+
 *** 07-Ago-21
 + [[https://www.imperial.ac.uk/media/imperial-college/faculty-of-engineering/computing/public/2021-ug-projects/Theorem-proving-with-classical-logic.pdf][Theorem proving in classical logic]]. ~ David Davies. #Haskell #FunctionalProgramming #Logic
 + [[https://easychair.org/publications/preprint_download/KLfT][Automatically generalizing theorems using typeclasses]]. ~ Alex J. Best. #ITP #LeanProver
