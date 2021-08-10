@@ -24,6 +24,10 @@ contenido.
 
 ** Agosto de 2021
 
+*** 09-Ago-21
++ [[https://arxiv.org/abs/2108.02995][Extracting functional programs from Coq, in Coq]]. ~ Danil Annenkov, Mikkel Milo, Jakob Botsch Nielsen, Bas Spitters. #ITP #Coq
++ [[https://github.com/synacktiv/toy-wasm-symbexp][A toy WASM symbolic interpreter]]. ~ Simon Marechal et als. #Haskell #FunctionalProgramming
+
 *** 08-Ago-21
 + [[https://www.isa-afp.org/entries/Relational_Forests.html][Relational forests (in Isabelle/HOL)]]. ~ Walter Guttmann. #ITP #IsabelleHOL
 
