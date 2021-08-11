@@ -24,6 +24,14 @@ contenido.
 
 ** Agosto de 2021
 
+*** 10-Ago-21
++ [[https://arxiv.org/abs/2108.01883v1][Reasoning about iteration and recursion uniformly based on big-step semantics]]. ~ Ximeng Li, Qianying Zhang, Guohui Wang, Zhiping Shi, Yong Guan. #ITP #Coq
++ [[https://academiccommons.columbia.edu/doi/10.7916/d8-3tsv-1117/download][A secure and formally verified commodity multiprocessor hypervisor]]. ~ Shih-Wei Li. #PhD_Thesis #ITP #Coq
++ [[https://github.com/leanprover-community/mathlib/blob/master/src/data/matrix/kronecker.lean][Kronecker product of matrices (in Lean)]]. ~ Filippo A. E. Nuccio, Eric Wieser. #ITP #LeanProver #Math
++ [[https://malv.in/posts/2021-01-09-depth-first-and-breadth-first-search-in-haskell.html][Depth-first and breadth-first search in Haskell]]. ~ Malvin Gattinger (@m4lvin). #Haskell #FunctionalProgramming
++ [[https://www.slideshare.net/pjschwarz/left-and-right-folds-comparison-of-a-mathematical-definition-and-a-programmatic-one-polyglot-fp-for-fun-and-profit-haskell-and-scala][Left and right folds (Comparison of a mathematical definition and a programmatic one)]]. ~ Philip Schwarz (@philip_schwarz). #Haskell #Scala #FunctionalProgramming
++ [[https://arxiv.org/abs/2108.03574][Elementary recursive algorithms]]. ~ Yiannis N. Moschovakis. #Algorithms #Logic #Math #CompSci
+
 *** 09-Ago-21
 + [[https://arxiv.org/abs/2108.02995][Extracting functional programs from Coq, in Coq]]. ~ Danil Annenkov, Mikkel Milo, Jakob Botsch Nielsen, Bas Spitters. #ITP #Coq
 + [[https://github.com/synacktiv/toy-wasm-symbexp][A toy WASM symbolic interpreter]]. ~ Simon Marechal et als. #Haskell #FunctionalProgramming
