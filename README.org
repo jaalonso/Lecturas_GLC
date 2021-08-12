@@ -24,6 +24,9 @@ contenido.
 
 ** Agosto de 2021
 
+*** 11-Ago-21
++ [[https://github.com/leanprover-community/mathlib/blob/master/archive/imo/imo2001_q6.lean][Formalization in Lean of IMO 2001 Q6]]. ~ Sara Díaz, Johan Commelin. #ITP #LeanProver #Math #IMO
+
 *** 10-Ago-21
 + [[https://arxiv.org/abs/2108.01883v1][Reasoning about iteration and recursion uniformly based on big-step semantics]]. ~ Ximeng Li, Qianying Zhang, Guohui Wang, Zhiping Shi, Yong Guan. #ITP #Coq
 + [[https://academiccommons.columbia.edu/doi/10.7916/d8-3tsv-1117/download][A secure and formally verified commodity multiprocessor hypervisor]]. ~ Shih-Wei Li. #PhD_Thesis #ITP #Coq
