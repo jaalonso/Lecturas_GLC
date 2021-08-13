@@ -24,6 +24,11 @@ contenido.
 
 ** Agosto de 2021
 
+*** 12-Ago-21
++ [[http://adam.chlipala.net/papers/FrapICFP21/FrapICFP21.pdf][Skipping the binder bureaucracy with mixed embeddings in a semantics course (Functional Pearl)]]. ~ Adam Chlipala. #ITP #Coq
++ [[http://www.cs.ru.nl/~wouters/Publications/HoareLogicStateMonad.pdf][The Hoare State Monad (Proof Pearl)]]. ~ Wouter Swierstra. #ITP #Coq
++ [[https://byorgey.wordpress.com/2021/08/11/competitive-programming-in-haskell-monoidal-accumulation/][Competitive programming in Haskell: monoidal accumulation]]. ~ Brent Yorgey. #Haskell #FunctionalProgramming
+
 *** 11-Ago-21
 + [[https://github.com/leanprover-community/mathlib/blob/master/archive/imo/imo2001_q6.lean][Formalization in Lean of IMO 2001 Q6]]. ~ Sara Díaz, Johan Commelin. #ITP #LeanProver #Math #IMO
 
