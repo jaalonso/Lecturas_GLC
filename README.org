@@ -24,6 +24,10 @@ contenido.
 
 ** Agosto de 2021
 
+*** 13-Ago-21
++ [[https://youtu.be/alByz_LoANE][What is the point of Lean's maths library?]] ~ Kevin Buzzard. #ITP #LeanProver #Math
++ [[https://vitez.me/counting-cardinalities][Counting cardinalities]]. ~ Mitchell Vitez. #Haskell #FunctionalProgramming
+
 *** 12-Ago-21
 + [[http://adam.chlipala.net/papers/FrapICFP21/FrapICFP21.pdf][Skipping the binder bureaucracy with mixed embeddings in a semantics course (Functional Pearl)]]. ~ Adam Chlipala. #ITP #Coq
 + [[http://www.cs.ru.nl/~wouters/Publications/HoareLogicStateMonad.pdf][The Hoare State Monad (Proof Pearl)]]. ~ Wouter Swierstra. #ITP #Coq
