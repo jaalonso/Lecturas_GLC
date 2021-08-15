@@ -24,6 +24,19 @@ contenido.
 
 ** Agosto de 2021
 
+*** 14-Ago-21
++ [[https://easychair.org/publications/preprint/RDH3][Assimilating the structure of formal and informal proof]]. ~ Kensho Tsurusaki, Akiko Aizawa. #ITP #LeanProver
++ [[https://repositorio.inesctec.pt/bitstream/123456789/12455/1/P-00V-35V.pdf][Balancing the formal and the informal in user-centred design]]. ~ JC Campos, MD Harrison, P Masci. #ITP #PVS
++ [[https://arxiv.org/abs/2108.02995][Extracting functional programs from Coq, in Coq]]. ~ Danil Annenkov, Mikkel Milo, Jakob Botsch Nielsen, Bas Spitters. #ITP #Coq
++ [[https://www.cybok.org/media/downloads/Formal_Methods_for_Security_v1.0.0.pdf][Formal methods for security knowledge area]]. ~ David Basin. #FormalMethods
++ [[https://publications.waset.org/10012167/haskellfl-a-tool-for-detecting-logical-errors-in-haskell][HaskellFL: A tool for detecting logical errors in Haskell]]. ~ Vanessa Vasconcelos, Mariza A. S. Bigonha. #Haskell #FunctionalProgramming
++ [[https://cdsmithus.medium.com/abstraction-in-reflex-and-codeworld-a1b42ad36923][Abstraction in Reflex and CodeWorld]]. ~ Chris Smith (@cdsmithus). #Haskell #CodeWorld #FunctionalProgramming
++ [[https://blog.cofree.coffee/2021-08-13-that-one-cool-reader-trick/][That one cool reader trick]]. ~ Solomon. #Haskell #FunctionalProgramming
++ [[https://www.haskellforall.com/2021/08/namespaced-de-bruijn-indices.html][Namespaced De Bruijn indices]]. ~ Gabriella Gonzalez (@GabrielG439). #Haskell #FunctionalProgramming
++ [[https://arxiv.org/abs/1801.00631][Deep Learning: A critical appraisal]]. ~ Gary Marcus. #DeepLearning
++ [[https://github.com/conal/talk-2018-deep-learning-rebooted][A functional reboot for Deep Learning]]. ~ Conal Elliott (@conal). #DeepLearning #FunctionalProgramming #Haskell
++ [[http://conal.net/papers/language-derivatives/][Symbolic and automatic differentiation of languages]]. ~ Conal Elliott (@conal). #Agda #FunctionalProgramming
+
 *** 13-Ago-21
 + [[https://youtu.be/alByz_LoANE][What is the point of Lean's maths library?]] ~ Kevin Buzzard. #ITP #LeanProver #Math
 + [[https://vitez.me/counting-cardinalities][Counting cardinalities]]. ~ Mitchell Vitez. #Haskell #FunctionalProgramming
