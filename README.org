@@ -24,6 +24,12 @@ contenido.
 
 ** Agosto de 2021
 
+*** 16-Ago-21
++ [[https://books.google.es/books?id=bhkSEAAAQBAJ&lpg=PP1&pg=PP1#v=onepage&q&f=true][Ideas that created the future: Classic papers of Computer Science]]. ~ Harry R. Lewis. #eBook #CompSci
++ [[https://gilmi.me/blog/post/2021/08/14/hs-core-tools][Core Haskell tools]]. ~ Gil Mizrahi (@_gilmi). #Haskell #FunctionalProgramming
++ [[https://twobithistory.org/2018/10/14/lisp.html][How Lisp became God's own programming language]]. ~ @TwoBitHistory. #Lisp #Programming
++ [[https://arxiv.org/abs/2108.06015][Natural deduction calculus for first-order logic]]. ~ Yazeed Alrubyli.  #Logic #Math
+
 *** 14-Ago-21
 + [[https://easychair.org/publications/preprint/RDH3][Assimilating the structure of formal and informal proof]]. ~ Kensho Tsurusaki, Akiko Aizawa. #ITP #LeanProver
 + [[https://repositorio.inesctec.pt/bitstream/123456789/12455/1/P-00V-35V.pdf][Balancing the formal and the informal in user-centred design]]. ~ JC Campos, MD Harrison, P Masci. #ITP #PVS
