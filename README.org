@@ -24,6 +24,9 @@ contenido.
 
 ** Agosto de 2021
 
+*** 17-Ago-21
++ [[https://github.com/leanprover-community/mathlib/blob/53d97e1ad2b5e30eff5f9246a689ec37361f63d0/archive/oxford_invariants/2021summer/week3_p1.lean][The Oxford Invariants Puzzle Challenges (Summer 2021, Week 3, Problem 1) in Lean]]. ~ Yaël Dillies, Bhavik Mehta. #ITP #LeanProver #Math
+
 *** 16-Ago-21
 + [[https://books.google.es/books?id=bhkSEAAAQBAJ&lpg=PP1&pg=PP1#v=onepage&q&f=true][Ideas that created the future: Classic papers of Computer Science]]. ~ Harry R. Lewis. #eBook #CompSci
 + [[https://gilmi.me/blog/post/2021/08/14/hs-core-tools][Core Haskell tools]]. ~ Gil Mizrahi (@_gilmi). #Haskell #FunctionalProgramming
