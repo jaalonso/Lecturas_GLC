@@ -24,6 +24,10 @@ contenido.
 
 ** Agosto de 2021
 
+*** 18-Ago-21
++ [[https://www.cantorsparadise.com/machine-learning-and-the-continuum-hypothesis-87bb9bb23e90][Machine learning and the continuum hypothesis (How the unprovable concerns the unlearnable)]]. ~ Robert Passmann. #MachineLearning #Math
++ [[https://awakesecurity.com/blog/spectacle-a-language-for-writing-and-checking-formal-specifications-in-haskell/][Announcing Spectacle – A language for writing and checking formal specifications in Haskell]]. ~ Jacob Leach. #Haskell #FunctionalProgramming
+
 *** 17-Ago-21
 + [[https://github.com/leanprover-community/mathlib/blob/53d97e1ad2b5e30eff5f9246a689ec37361f63d0/archive/oxford_invariants/2021summer/week3_p1.lean][The Oxford Invariants Puzzle Challenges (Summer 2021, Week 3, Problem 1) in Lean]]. ~ Yaël Dillies, Bhavik Mehta. #ITP #LeanProver #Math
 
