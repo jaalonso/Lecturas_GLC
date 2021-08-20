@@ -24,6 +24,14 @@ contenido.
 
 ** Agosto de 2021
 
+*** 19-Ago-21
++ [[https://github.com/RaitoBezarius/berkovich-spaces][Formalization of Ostrowski theorems in Lean theorem prover]]. ~ Ryan Lahfad†, Julien Marquet, Hadrien Barral. #ITP #LeanProver #Math
++ [[https://arxiv.org/abs/2108.08079][On correctness and completeness of an n queens program]]. ~ Włodzimierz Drabent. #LogicProgramming #Prolog
++ [[https://www.microsiervos.com/archivo/ia/colisiones-matematicas-neuralhash.html][Colisiones matemáticas que muestran cómo confundir al algoritmo Neural Hash]]. ~ @Alvy. #AI #MachineLearning
++ [[https://arxiv.org/abs/2108.08009][XAI methods for neural time series classification: A brief review]]. ~ Ilija Šimić, Vedran Sabol, Eduardo Veas. #DeepLearning #XAI
++ [[https://arxiv.org/abs/2108.07804][A framework for understanding AI-induced field change: How AI technologies are legitimized and institutionalized]]. ~ Benjamin Cedric Larsen. #AI
++ [[https://books.google.es/books?id=DjM9EAAAQBAJ&lpg=PP1&pg=PP.1#v=onepage&q&f=true][A first course in Artificial Intelligence]]. ~ Osondu Oguike #eBook #AI
+
 *** 18-Ago-21
 + [[https://www.cantorsparadise.com/machine-learning-and-the-continuum-hypothesis-87bb9bb23e90][Machine learning and the continuum hypothesis (How the unprovable concerns the unlearnable)]]. ~ Robert Passmann. #MachineLearning #Math
 + [[https://awakesecurity.com/blog/spectacle-a-language-for-writing-and-checking-formal-specifications-in-haskell/][Announcing Spectacle – A language for writing and checking formal specifications in Haskell]]. ~ Jacob Leach. #Haskell #FunctionalProgramming
