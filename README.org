@@ -24,6 +24,11 @@ contenido.
 
 ** Agosto de 2021
 
++ [[https://youtu.be/wUUcuaegljk][The design of mathematical language]]. ~ Jeremy Avigad. #Logic #Math
++ [[https://youtu.be/-uGhuknZHJI][Verified optimization]]. ~ Alexander Bentkamp, Jeremy Avigad. #ITP #LeanProver #Math
++ [[https://youtu.be/pudd4F749tE][Automatically generalizing theorems using typeclasses]]. ~ Alexander Best. #ITP #LeanProver
++ [[https://github.com/google/formal-ml][Formal ML: A LEAN library for proving foundational results in measure theory, probability, statistics, and machine learning, based upon mathlib]]. #ITP #LeanProver #Math #MachineLearning
+
 *** 19-Ago-21
 + [[https://github.com/RaitoBezarius/berkovich-spaces][Formalization of Ostrowski theorems in Lean theorem prover]]. ~ Ryan Lahfad†, Julien Marquet, Hadrien Barral. #ITP #LeanProver #Math
 + [[https://arxiv.org/abs/2108.08079][On correctness and completeness of an n queens program]]. ~ Włodzimierz Drabent. #LogicProgramming #Prolog
