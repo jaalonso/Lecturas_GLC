@@ -24,6 +24,12 @@ contenido.
 
 ** Agosto de 2021
 
+*** 21-Ago-21
++ [[https://www.ijcai.org/proceedings/2021/0273.pdf][Faster smarter proof by induction in Isabelle/HOL]]. ~ Yutaka Nagashima. #ITP #IsabelleHOL
++ [[https://github.com/leanprover-community/mathlib/blob/15b1461951d8821c1354dcf01a89ce09e798965b/archive/imo/imo2006_q3.lean][Formalization in Lean of IMO 2006 Q3]]. ~ Tian Chen. #ITP #LeanProver #Math #IMO
++ [[https://arxiv.org/abs/2108.06944v1][Verifying C11-style weak memory libraries via refinement]]. ~ Sadegh Dalvandi, Brijesh Dongol. #ITP #IsabelleHOL
+
+*** 20-Ago-21
 + [[https://youtu.be/wUUcuaegljk][The design of mathematical language]]. ~ Jeremy Avigad. #Logic #Math
 + [[https://youtu.be/-uGhuknZHJI][Verified optimization]]. ~ Alexander Bentkamp, Jeremy Avigad. #ITP #LeanProver #Math
 + [[https://youtu.be/pudd4F749tE][Automatically generalizing theorems using typeclasses]]. ~ Alexander Best. #ITP #LeanProver
