@@ -24,6 +24,10 @@ contenido.
 
 ** Agosto de 2021
 
+*** 23-Ago-21
++ [[https://youtu.be/OCQfkhqg8Yg][Formalizing Fibonacci squares]]. ~ Harun Khan. #ITP #LeanProver #Math
++ [[https://daemons.it/posts/programacion-literaria-para-sysadminsdevops/][Programación literaria para sysadmins / devops]]. ~ drymer. #Emacs #OrgMode
+
 *** 21-Ago-21
 + [[https://www.ijcai.org/proceedings/2021/0273.pdf][Faster smarter proof by induction in Isabelle/HOL]]. ~ Yutaka Nagashima. #ITP #IsabelleHOL
 + [[https://github.com/leanprover-community/mathlib/blob/15b1461951d8821c1354dcf01a89ce09e798965b/archive/imo/imo2006_q3.lean][Formalization in Lean of IMO 2006 Q3]]. ~ Tian Chen. #ITP #LeanProver #Math #IMO
