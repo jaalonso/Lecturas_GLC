@@ -24,6 +24,9 @@ contenido.
 
 ** Agosto de 2021
 
+*** 24-Ago-21
++ [[https://github.com/leanprover-community/mathlib/blob/c811dd774f9590e9106c0780ea0983c60b659c78/src/data/nat/mul_ind.lean][Multiplicative induction principles for ℕ]]. ~ Eric Rodriguez. #ITP #LeanProver #Math
+
 *** 23-Ago-21
 + [[https://youtu.be/OCQfkhqg8Yg][Formalizing Fibonacci squares]]. ~ Harun Khan. #ITP #LeanProver #Math
 + [[https://daemons.it/posts/programacion-literaria-para-sysadminsdevops/][Programación literaria para sysadmins / devops]]. ~ drymer. #Emacs #OrgMode
