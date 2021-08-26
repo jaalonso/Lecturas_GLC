@@ -24,6 +24,11 @@ contenido.
 
 ** Agosto de 2021
 
+*** 25-Ago-21
++ [[https://arxiv.org/abs/2108.10868][Towards formalising Schutz' axioms for Minkowski spacetime in Isabelle/HOL]]. ~ Richard Schmoetten, Jake E. Palmer, Jacques D. Fleuriot. #ITP #IsabelleHOL #Math
++ [[https://arxiv.org/abs/2108.10700][Scalar actions in Lean's mathlib]]. ~ Eric Wieser. #ITP #LeanProver #Math
++ [[https://cacm.acm.org/magazines/2021/9/255036-ai-ethics/fulltext][AI ethics: A call to faculty]]. ~ Illah Reza Nourbakhsh. #AI
+
 *** 24-Ago-21
 + [[https://github.com/leanprover-community/mathlib/blob/c811dd774f9590e9106c0780ea0983c60b659c78/src/data/nat/mul_ind.lean][Multiplicative induction principles for ℕ]]. ~ Eric Rodriguez. #ITP #LeanProver #Math
 
