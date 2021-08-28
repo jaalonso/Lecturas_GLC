@@ -24,6 +24,12 @@ contenido.
 
 ** Agosto de 2021
 
+*** 27-Ago-21
++ [[https://ryanglscott.github.io/2021/08/22/leibniz-equality-in-haskell-part-1/][Leibniz equality in Haskell, part 1]]. ~ Ryan Scott. #Haskell #FunctionalProgramming
++ [[https://leanpub.com/magicalhaskell][Magical Haskell (modern functional programming and type theory in a fun and accessible way)]]. ~ Anton Antich (@aantich). #Haskell #FunctionalProgramming #eBook
++ [[https://cdsmithus.medium.com/nascent-ghc-proposal-source-rewrite-rules-and-optional-constraints-810a2f6051eb][Nascent GHC proposal: Source rewrite rules and optional constraints]]. ~ Chris Smith (@cdsmithus). #Haskell #FunctionalProgramming
++ [[https://cacm.acm.org/news/255113-life-as-a-logician/fulltext][Life as a logician (An interview with Martin Davis by Allyn Jackson)]]. #Logic #Math #CompSci #AI #MachineLearning
+
 *** 26-Ago-21
 + [[https://youtu.be/8P-X8YgsCZ0][Une idée assez folle, l'Intelligence Artificielle ]]... (un film sur le parcours d'Alain Colmerauer). #AI #LogicProgramming #Prolog
 
