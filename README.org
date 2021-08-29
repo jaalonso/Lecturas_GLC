@@ -24,6 +24,10 @@ contenido.
 
 ** Agosto de 2021
 
+*** 28-Ago-21
++ [[https://youtu.be/LwwzVpolxm8][Geometry in Lean, a report for mathematicians]]. ~ Nicolò Cavalleri, Anthony Bordg. #ITP #LeanProver #Math
++ [[https://youtu.be/qac1O4Co0IU][Formalizing the Gromov-Hausdorff space]]. ~ Sébastien Gouëzel. #ITP #LeanProver #Math
+
 *** 27-Ago-21
 + [[https://ryanglscott.github.io/2021/08/22/leibniz-equality-in-haskell-part-1/][Leibniz equality in Haskell, part 1]]. ~ Ryan Scott. #Haskell #FunctionalProgramming
 + [[https://leanpub.com/magicalhaskell][Magical Haskell (modern functional programming and type theory in a fun and accessible way)]]. ~ Anton Antich (@aantich). #Haskell #FunctionalProgramming #eBook
