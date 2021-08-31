@@ -11,7 +11,6 @@ contenido.
 - [[#lecturas-del-año-2021][Lecturas del año 2021]]
   - [[#agosto-de-2021][Agosto de 2021]]
   - [[#julio-de-2021][Julio de 2021]]
-  - [[#31-jul-21][31-Jul-21]]
   - [[#junio-de-2021][Junio de 2021]]
   - [[#mayo-de-2021][Mayo de 2021]]
   - [[#abril-de-2021][Abril de 2021]]
@@ -23,6 +22,10 @@ contenido.
 * Lecturas del año 2021
 
 ** Agosto de 2021
+
+*** 30-Ago-21
++ [[https://arxiv.org/abs/2108.12301][Computer algebra in Julia]]. ~ Dmitry S. Kulyabov, Anna V. Korolkova. #CAS #JuliaLang #Math
++ [[https://youtu.be/GhkoPskC3eY][Dijkstra: O homem que tornou a computação uma ciência]]. ~ Adriano Santos (@adrianolcp). #CompSci
 
 *** 29-Ago-21
 + [[https://katyhristova.medium.com/what-is-category-theory-and-why-is-it-trendy-b94ce59fe42b][What is category theory and why is it trendy?]] ~ Katerina Hristova. #Math #CategoryTheory
@@ -161,11 +164,9 @@ contenido.
 + [[http://www.wouterspekkink.org/academia/writing/tool/doom-emacs/2021/02/27/writing-academic-papers-with-org-mode.html][Writing academic papers with org-mode]]. ~ Wouter Spekkink (@wouterspekkink). #Emacs #OrgMode
 + [[https://morrowm.github.io/posts/2021-08-02-shoes.html][Tying shoes with GADTs]]. ~ MorrowM. #Haskell #FunctionalProgramming
 
-
-
 ** Julio de 2021
 
-** 31-Jul-21
+*** 31-Jul-21
 + [[https://www21.informatik.tu-muenchen.de/students/past/interval_newton/assets/newton.pdf][Formalisation of interval methods for nonlinear root-finding]]. ~ Daniel Seidl. #BSc_Thesis #ITP #IsabelleHOL #Math
 + [[https://arxiv.org/abs/2107.11838][New algebraic normative theories for ethical and legal reasoning in the LogiKEy framework]]. ~ Ali Farjami. #ITP #IsabelleHOL
 + [[https://dspace.library.uu.nl/handle/1874/403363][The categorical origin of monads in Haskell]]. ~ Marien Matser. #BSc_Thesis #Haskell #FunctionalProgramming #CategoryTheory
@@ -575,8 +576,6 @@ contenido.
 + [[http://profs.sci.univr.it/~bonacina/papers/JARLWHistoricSurvey.pdf][Set of support, demodulation, paramodulation: a historical Perspective]]. ~ Maria Paola Bonacina. #ATP #Logic #Math
 + [[https://www.isa-afp.org/entries/Lifting_the_Exponent.html][Lifting the exponent]]. ~ Jakub Kądziołka. #ITP #IsabelleHOL #Math
 
-
-
 ** Mayo de 2021
 
 *** 31-May-21
@@ -705,8 +704,6 @@ contenido.
 + [[https://docs.zkproof.org/pages/standards/accepted-workshop4/proposal-leo.pdf][LEO: A programming language for formally verified, zero-knowledge applications]]. ~ C. Chin et als. #ITP #ACL2
 + [[https://shemesh.larc.nasa.gov/fm/papers/itp2021.pdf][Formal verification of termination criteria for first-order recursive functions]]. ~ C.A. Muñoz et als. #ITP #PVS
 + [[https://repository.tudelft.nl/islandora/object/uuid:2d831aa4-df6b-4ab6-983e-9776c710b450][Verifying the semantics of disambiguation rules (Using parse tree repairing for showing safety and completeness of associativity and priority rules)]]. ~ L. Miljak. #ITP #Coq
-
-
 
 ** Abril de 2021
 
@@ -874,7 +871,6 @@ contenido.
 + [[https://www.stephanschiffels.de/posts/2021-03-24-Haskell-CLI/][Designing command line interfaces in Haskell]]. ~ Stephan Schiffels (@stschiff). #Haskell #FunctionalProgramming
 + [[https://boris-marinov.github.io/category-theory-illustrated/04_order/][Category theory illustrated]]. ~ Boris Marinov (@AlexanderKatt). #CategoryTheory
 + [[https://plato.stanford.edu/entries/category-theory][#SEP: Category theory]]. ~ Jean-Pierre Marquis. #CategoryTheory #Logic #Math
-
 
 ** Marzo de 2021
 
@@ -1314,20 +1310,20 @@ contenido.
 + [[https://www.dropbox.com/s/q1whqz0v2c0falm/CPP2021-Kolmogorov-complexity.pdf?dl=0][On the formalisation of Kolmogorov complexity]]. ~ Elliot Catt, Michael Norrish. #ITP #HOL4
 + [[https://melkornemesis.medium.com/haskell-explained-3f91658a67d3][Haskell: (.) . (.) explained (Let’s get a grasp of composition equivalences in Haskell)]]. #Haskell #FunctionalProgramming
 
-*** 11-Ene-15
+*** 11-Ene-21
 + [[https://youtu.be/k-YncL7Cd4Q][Formalizing the ring of Witt vectors]]. ~ Robert Y. Lewis. #ITP #LeanProver #Math
 + [[http://eptcs.web.cse.unsw.edu.au/paper.cgi?LFMTP2020.1.pdf][Mechanisation of model-theoretic conservative extension for HOL with ad-hoc overloading]]. ~ Arve Gengelbach, Johannes Åman Pohjola, Tjark Weber. #ITP #HOL4
 + [[http://eptcs.web.cse.unsw.edu.au/paper.cgi?LFMTP2020.2.pdf][Object-level reasoning with logics encoded in HOL Light]]. ~ Petros Papapanagiotou, Jacques Fleuriot. #ITP #HOL_Light #Logic
 + [[http://eptcs.web.cse.unsw.edu.au/paper.cgi?LFMTP2020.3.pdf][Deductive systems and coherence for skew prounital closed categories]]. ~ Tarmo Uustalu, Niccolò Veltri, Noam Zeilberger. #ITP #Agda
 + [[https://www.foxhound.systems/blog/why-haskell-for-production/][Why Haskell is our first choice for building production software systems]]. ~ Christian Charukiewicz (@charukiewicz). #Haskell #FunctionalProgramming
 
-*** 10-Ene-15
+*** 10-Ene-21
 + [[https://github.com/mhk119/fibonacci_squares][144 is the largest square in the Fibonacci Sequence (A formalisation of Cohn's Proof)]]. ~ Harun Khan #ITP #LeanProver #Math via @XenaProject
 + [[https://github.com/Lix0120/eudoxus/][The Eudoxus real numbers in Lean]]. ~ Xiang Li. #ITP #LeanProver #Math via @XenaProject
 + [[http://wwwf.imperial.ac.uk/~buzzard/xena/pdfs/Set_theory_Type_Theory_and_the_future_of_Proof_verification_software.pdf][Set theory, type theory and the future of proof verification software]]. ~ James Palmer. #ITP #LeanProver #Math via @XenaProject
 + [[https://github.com/mdickinson/snippets/blob/master/proofs/isqrt/src/isqrt.lean][A formal proof of correctness of a recursive integer square root algorithm]]. ~ Mark Dickinson. #ITP #LeanProver #Math
 
-*** 09-Ene-15
+*** 09-Ene-21
 + [[https://arxiv.org/abs/2101.02602][Schemes in Lean]]. ~ Kevin Buzzard, Chris Hughes, Kenny Lau, Amelia Livingston, Ramon Fernández Mir, Scott Morrison. #ITP #LeanProver #Math
 + [[https://user.informatik.uni-bremen.de/fritjof/pdfs/performance-aspects-of-correctness-oriented-synthesis-flows.pdf][Performance aspects of correctness-oriented synthesis flows]]. ~ F. Bornebusch, C. Lüth, R. Wille, R. Drechsler. #ITP #Coq
 + [[https://hal.archives-ouvertes.fr/hal-03096253/document][An anti-locally-nameless approach to formalizing quantifiers]]. ~ Olivier Laurent. #ITP #Coq
