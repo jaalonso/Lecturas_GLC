@@ -23,6 +23,16 @@ contenido.
 
 ** Agosto de 2021
 
+*** 31-Ago-21
++ [[https://bit.ly/3DxZPnp][New Software Foundations release]]. ~ Benjamin C. Pierce et als. #ITP #Coq
++ [[https://arxiv.org/abs/2108.04194][Modal logic S5 satisfiability in answer set programming]]. ~ Mario Alviano,a Sotiris Batsakis, George Baryannis. #Logic #ASP #LogicProgramming
++ [[https://raw.githubusercontent.com/BartoszMilewski/Publications/master/TheDaoOfFP/DaoFP.pdf][The Dao of Functional Programming (Last updated: August 30, 2021)]]. ~ Bartosz Milewski (@BartoszMilewski). #Haskell #FunctionalProgramming #CategoryTheory
++ [[https://youtube.com/playlist?list=PLyrlk8Xaylp6_QTmXGuRe3lShaRGaMtgc][HIW (The Haskell Implementors’ Workshop) 2021 videos]]. #Haskell #FunctionalProgramming
++ [[https://www.ppig.org/files/2021-PPIG-32nd-tavante.pdf][A data-centered user study for proof assistant tools]]. ~ Hanneli C.A. Tavante. #ITP #Coq#LeanProver
++ [[https://arxiv.org/abs/2108.11155][Latent effects for reusable language components: Extended version]]. ~ Birthe van den Berg, Tom Schrijvers, Casper Bach-Poulsen, Nicolas Wu. #Haskell #FunctionalProgramming
++ [[https://www.cs.kent.ac.uk/people/staff/dao7/publ/timo-hope21.pdf][Formalising algebraic effects with non-recoverable failure]]. ~ Timotej Tomandl, Dominic Orchard. #Haskell #FunctionalProgramming
++ [[https://www.researchgate.net/profile/Mertcan-Temel/publication/354010466_Sound_and_Automated_Verification_of_Real-World_RTL_Multipliers/links/611ed85f169a1a01031224fd/Sound-and-Automated-Verification-of-Real-World-RTL-Multipliers.pdf][Sound and automated verification of real-world RTL multipliers]]. ~ Mertcan Temel, Warren A. Hunt Jr. #ITP #ACL2
+
 *** 30-Ago-21
 + [[https://arxiv.org/abs/2108.12301][Computer algebra in Julia]]. ~ Dmitry S. Kulyabov, Anna V. Korolkova. #CAS #JuliaLang #Math
 + [[https://youtu.be/GhkoPskC3eY][Dijkstra: O homem que tornou a computação uma ciência]]. ~ Adriano Santos (@adrianolcp). #CompSci
