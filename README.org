@@ -9,6 +9,7 @@ contenido.
 
 * Contenido                                                             :TOC:
 - [[#lecturas-del-año-2021][Lecturas del año 2021]]
+  - [[#septiembre-de-2021][Septiembre de 2021]]
   - [[#agosto-de-2021][Agosto de 2021]]
   - [[#julio-de-2021][Julio de 2021]]
   - [[#junio-de-2021][Junio de 2021]]
@@ -20,6 +21,13 @@ contenido.
 - [[#lecturas-anteriores][Lecturas anteriores]]
 
 * Lecturas del año 2021
+
+** Septiembre de 2021
+
+*** 01-Sep-21
++ [[http://www-verimag.imag.fr/~boulme/boulme_hdr.pdf][Formally verified defensive programming (efficient Coq-verified computations from untrusted ML oracles)]]. ~ Sylvain Boulmé. #ITP #Coq #OCaml #FunctionalProgramming
++ [[https://www.isa-afp.org/entries/Three_Circles.html][The theorem of three circles (in Isabelle/HOL)]]. ~ Fox Thomson, Wenda Li #ITP #IsabelleHOL #Math
++ [[https://serokell.io/blog/dependency-analysis-haskell][Dependency analysis of Haskell declarations]]. ~ Artem Kuznetsov. #Haskell #FunctionalProgramming
 
 ** Agosto de 2021
 
