@@ -24,6 +24,25 @@ contenido.
 
 ** Septiembre de 2021
 
+*** 02-Sep-21
++ [[http://www.andreas-lochbihler.de/pub/lochbihler-mfmc.pdf][A mechanized proof of the max-flow min-cut theorem for countable networks with applications to probability theory]]. ~ Andreas Lochbihler. #ITP #IsabelleHOL #Math
++ [[https://sciendo.com/pdf/10.2478/forma-2021-0002][Inverse function theorem]]. Part I. ~ K. Nakasho, Y. Futa. #ITP #Mizar #Math
++ [[https://sciendo.com/pdf/10.2478/forma-2021-0006][Elementary number theory problems]]. Part II. ~ A. Korniłowicz, D. Surowik. #ITP #Mizar #Math
++ [[https://sciendo.com/pdf/10.2478/forma-2021-0001][Derivation of commutative rings and the Leibniz formula for power of derivation]]. ~ Y. Watase, S. Matsunoki. #ITP #Mizar #Math
++ [[https://sciendo.com/pdf/10.2478/forma-2021-0004][Algebraic extensions]]. ~ C. Schwarzweller, A. Rowińska-Schwarzweller. #ITP #Mizar #Mat #ITP #Mizar #Math
++ [[https://sciendo.com/pdf/10.2478/forma-2021-0003][Miscellaneous graph preliminaries]]. Part I. ~ S. Koch. #ITP #Mizar #Math
++ [[https://arxiv.org/abs/2109.00110][MiniF2F: a cross-system benchmark for formal Olympiad-level mathematics]]. ~ Kunhao Zheng, Jesse Michael Han, Stanislas Polu. #ITP #LeanProver #IsabelleHOL #Metamath #Math
++ [[https://leanprover.github.io/theorem_proving_in_lean4/][Theorem proving in Lean 4]].  #ITP #LeanProver
++ [[https://youtu.be/11QrZa6wlhw][From Euclid to Hilbert to Lean]]. ~ Tianchen Zhao. #ITP #LeanProver #Math
++ [[https://youtu.be/8hk-IO0-Zcg][Formalising nilpotent groups in Lean]]. ~ Ines Wright. #ITP #LeanProver #Math
++ [[https://youtu.be/HajwhhUyXxE][Formalising the fundamental group]]. ~ Shing Tak Lam. #ITP #LeanProver #Math
++ [[https://youtu.be/QyIrjY3ntuY][Proving Dedekind's Theorem in Lean]]. ~ Paul Lezeau. #ITP #LeanProver #Math
++ [[https://youtu.be/Xhe3IR-HSoo][Formalizing Thomae's function in Lean]]. ~ Frick Hazard. #ITP #LeanProver #Math
++ [[https://youtu.be/ZaT_ciXoc40][Ax-Grothendieck theorem in Lean]]. ~ Joseph Hua. #ITP #LeanProver #Math
++ [[https://youtu.be/pq3uc8xkTcE][Conformal maps, Liouville's theorem and random stuffs in Lean]]. ~ Yourong Zang. #ITP #LeanProver #Math
++ [[https://youtu.be/jtxysgZL8Jk][Probability in Lean: a new begnining]]. ~ Kexing Ying. #ITP #LeanProver #Math
++ [[https://www.isa-afp.org/entries/Design_Theory.html][Combinatorial design theory in Isabelle/HOL]]. ~ Chelsea Edmonds, Lawrence Paulson. #ITP #IsabelleHOL
+
 *** 01-Sep-21
 + [[http://www-verimag.imag.fr/~boulme/boulme_hdr.pdf][Formally verified defensive programming (efficient Coq-verified computations from untrusted ML oracles)]]. ~ Sylvain Boulmé. #ITP #Coq #OCaml #FunctionalProgramming
 + [[https://www.isa-afp.org/entries/Three_Circles.html][The theorem of three circles (in Isabelle/HOL)]]. ~ Fox Thomson, Wenda Li #ITP #IsabelleHOL #Math
