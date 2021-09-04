@@ -24,6 +24,10 @@ contenido.
 
 ** Septiembre de 2021
 
+*** 03-Sep-21
++ [[https://www.isa-afp.org/entries/Cubic_Quartic_Equations.html][Solving cubic and quartic equations (in Isabelle/HOL)]]. ~ René Thiemann. #ITP #IsabelleHOL #Math
++ [[https://www.parsonsmatt.org/2021/09/02/family_values.html][Family values]]. ~ Matt Parsons (@mattoflambda). #Haskell #FunctionalProgramming
+
 *** 02-Sep-21
 + [[http://www.andreas-lochbihler.de/pub/lochbihler-mfmc.pdf][A mechanized proof of the max-flow min-cut theorem for countable networks with applications to probability theory]]. ~ Andreas Lochbihler. #ITP #IsabelleHOL #Math
 + [[https://sciendo.com/pdf/10.2478/forma-2021-0002][Inverse function theorem]]. Part I. ~ K. Nakasho, Y. Futa. #ITP #Mizar #Math
