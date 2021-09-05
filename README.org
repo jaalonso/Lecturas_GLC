@@ -24,6 +24,14 @@ contenido.
 
 ** Septiembre de 2021
 
+*** 04-Sep-21
++ [[https://www.researchgate.net/profile/Giancarlo-Guizzardi-2/publication/354150631_On_the_Role_of_Automated_Proof-Assistants_in_the_Formalization_of_Upper_Ontologies/links/6127b2fd2b40ec7d8bc8321e/On-the-Role-of-Automated-Proof-Assistants-in-the-Formalization-of-Upper-Ontologies.pdf][On the role of automated proof-assistants in the formalization of upper ontologies]]. ~ João R. M. Nicola, Giancarlo Guizzardi. #ITP #IsabelleHOL
++ [[https://youtu.be/U5i2VQj5jPk][Programming with proofs]]. ~ Thorsten Altenkirch. #ITP #Agda #FunctionalProgramming
++ [[http://philsci-archive.pitt.edu/19508/1/language_archive.pdf][The design of mathematical language]]. ~ Jeremy Avigad. #Logic #Math
++ [[https://abby.how/posts/parsing-layout.html][Parsing layout, or: Haskell's syntax is a mess]]. ~ Abigail (@plt_abbie). #Haskell #FunctionalProgramming
++ [[https://serokell.io/blog/functional-programming-in-fintech][Why fintech companies use Haskell]]. ~ Roman Alterman. #Haskell #FunctionalProgramming
++ [[https://bartoszmilewski.com/2021/09/04/dependent-optics/][Dependent optics]]. ~ Bartosz Milewski (@BartoszMilewski). #FunctionalProgramming #CategoryTheory
+
 *** 03-Sep-21
 + [[https://www.isa-afp.org/entries/Cubic_Quartic_Equations.html][Solving cubic and quartic equations (in Isabelle/HOL)]]. ~ René Thiemann. #ITP #IsabelleHOL #Math
 + [[https://www.parsonsmatt.org/2021/09/02/family_values.html][Family values]]. ~ Matt Parsons (@mattoflambda). #Haskell #FunctionalProgramming
