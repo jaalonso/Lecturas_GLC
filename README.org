@@ -24,6 +24,10 @@ contenido.
 
 ** Septiembre de 2021
 
+*** 05-Sep-21
++ [[https://dev.to/viglioni/creating-haskell-notebooks-with-org-mode-4h7][Creating Haskell notebooks with org-mode]]. ~ Laura Viglioni (@LauraViglioni). #Emacs #OrgMode #Haskell #FunctionalProgramming
++ [[https://arxiv.org/abs/2108.13114][Embedded pattern matching]]. ~ Trevor L. McDonell, Joshua D. Meredith, Gabriele Keller. #Haskell #FuncionalProgramming
+
 *** 04-Sep-21
 + [[https://www.researchgate.net/profile/Giancarlo-Guizzardi-2/publication/354150631_On_the_Role_of_Automated_Proof-Assistants_in_the_Formalization_of_Upper_Ontologies/links/6127b2fd2b40ec7d8bc8321e/On-the-Role-of-Automated-Proof-Assistants-in-the-Formalization-of-Upper-Ontologies.pdf][On the role of automated proof-assistants in the formalization of upper ontologies]]. ~ João R. M. Nicola, Giancarlo Guizzardi. #ITP #IsabelleHOL
 + [[https://youtu.be/U5i2VQj5jPk][Programming with proofs]]. ~ Thorsten Altenkirch. #ITP #Agda #FunctionalProgramming
