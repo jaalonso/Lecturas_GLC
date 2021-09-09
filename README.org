@@ -24,6 +24,12 @@ contenido.
 
 ** Septiembre de 2021
 
+*** 08-Sep-21
++ [[https://www.isa-afp.org/entries/Dominance_CHK.html][A data flow analysis algorithm for computing dominators (in Isabelle/HOL)]]. ~ Nan Jiang. #ITP #IsabelleHOL
++ [[https://www.coalg.org/calco-mfps2021/files/2021/08/Veltri-Voorneveld.pdf][Inductive and coinductive predicate liftings for effectful programs]]. ~ Niccolò Veltri, Niels Voorneveld. #ITP #Agda
++ [[https://tarmean.github.io/mutable_lenses][Mutating lenses]]. ~ Tarmean. #Haskell #FunctionalProgramming
++ [[https://serokell.io/blog/how-dependent-haskell-can-improve-industry-projects][How dependent Haskell can improve industry projects]]. ~ Danya Rogozin, Vladislav Zavialov. #Haskell #FunctionalProgramming
+
 *** 07-Sep-21
 + [[https://vtss.doc.ic.ac.uk/publications/Watt2021Two.pdf][Two mechanisations of WebAssembly 1]].0. ~ Conrad Watt, Xiaojia Rao, Jean Pichon-Pharabod, Martin Bodin, Philippa Gardner. #ITP #IsabelleHOL #Coq
 + [[https://arxiv.org/abs/2109.01121][A reasoning engine for the gamification of loop-invariant discovery]]. ~ Andrew Walter, Seth Cooper, Panagiotis Manolios. #ATP #ACL2 #Program_verification
