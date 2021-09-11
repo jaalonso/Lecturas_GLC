@@ -24,6 +24,21 @@ contenido.
 
 ** Septiembre de 2021
 
+*** 10-Sep-21
++ [[https://byorgey.wordpress.com/2021/09/08/implementing-hindley-milner-with-the-unification-fd-library/][Implementing Hindley-Milner with the unification-fd library]]. ~ Brent Yorgey. #Haskell #FunctionalProgramming
++ [[https://rebeccaskinner.net/posts/2021-08-25-introduction-to-type-level-programming.html][An introduction to type level programming]]. ~ Rebecca Skinner. #Haskell #FunctionalProgramming
++ [[https://bartoszmilewski.com/2021/09/08/optics-for-the-working-mathematician/][Optics for the working mathematician]]. ~ Bartosz Milewski (@BartoszMilewski). #CategoryTheory
++ [[https://oleg.fi/gists/posts/2021-09-09-leibniz-coercion.html][Leibniz coercion]]. ~ Oleg Grenrus (@phadej). #Haskell #FunctionalProgramming
+
+*** 09-Sep-21
++ [[https://arxiv.org/abs/2109.03234][Learned provability likelihood for tactical search]]. ~ Thibault Gauthier. #ITP #HOL4 #MachineLearning
++ [[https://arxiv.org/abs/2109.03721][Conjectures, tests and proofs: An overview of theory exploration]]. ~ Moa Johansson, Nicholas Smallbone. #Haskell #FunctionalProgramming
++ [[https://gitlab.homotopic.tech/haskell/conic-graphs][Vinyl-style extensible graphs]]. ~ Daniel Firth. #Haskell #FunctionalProgramming
++ [[https://www.haskellforall.com/2021/09/optics-are-monoids.html?m=1][Optics are monoids]]. ~ Gabriella Gonzalez (@GabrielG439). #Haskell #FunctionalProgramming
++ [[https://byorgey.wordpress.com/2021/09/09/competitive-programming-in-haskell-kadanes-algorithm/][Competitive programming in Haskell: Kadane’s algorithm]]. ~ Brent Yorgey. #Haskell #FunctionalProgramming
++ [[https://ryanglscott.github.io/2021/09/06/leibniz-equality-in-haskell-part-2-heterogeneous-equality/][Leibniz equality in Haskell, part 2: heterogeneous equality]]. ~ Ryan Scott. #Haskell #FunctionalProgramming
++ [[https://kleczkow.ski/cayley-representation-of-monads/][Cayley representation of ... monads?]] ~ Konrad Kleczkowski. #Haskell #FunctionalProgramming
+
 *** 08-Sep-21
 + [[https://www.isa-afp.org/entries/Dominance_CHK.html][A data flow analysis algorithm for computing dominators (in Isabelle/HOL)]]. ~ Nan Jiang. #ITP #IsabelleHOL
 + [[https://www.coalg.org/calco-mfps2021/files/2021/08/Veltri-Voorneveld.pdf][Inductive and coinductive predicate liftings for effectful programs]]. ~ Niccolò Veltri, Niels Voorneveld. #ITP #Agda
