@@ -24,6 +24,14 @@ contenido.
 
 ** Septiembre de 2021
 
+*** 11-Sep-21
++ [[https://link.springer.com/article/10.1007/s10817-021-09599-8][Distilling the requirements of Gödel’s incompleteness theorems with a proof assistant]]. ~ Andrei Popescu, Dmitriy Traytel. #ITP #IsabelleHOL #Logic #Math
++ [[http://jssst.or.jp/files/user/taikai/2021/papers/9-L.pdf][GSOL: A confluence checker for Haskell rewrite rules]]. ~ Yao Faustin Date Makoto Hamana. #Haskell #FunctionalProgramming
++ [[https://taylor.fausak.me/2021/09/10/evoke/][Announcing Evoke, a GHC plugin for deriving type class instances quickly]]. ~ Taylor Fausak (@taylorfausak). #Haskell #FunctionalProgramming
++ [[https://www.parsonsmatt.org/2021/09/09/deferred_derivation.html][Deferred derivation]]. ~ Matt Parsons (@mattoflambda). #Haskell #FunctionalProgramming
++ [[https://inside.mines.edu/~ndantam/csci-561/L02-lisp-prelecture.pdf][Symbolic computation and Common Lisp]]. ~ Neil T. Dantam. #CommonLisp
++ [[https://www.quantamagazine.org/new-math-book-rescues-landmark-topology-proof-20210909/][New math book rescues landmark topology proof]]. ~ Kevin Hartnett (@KSHartnett). #Math
+
 *** 10-Sep-21
 + [[https://byorgey.wordpress.com/2021/09/08/implementing-hindley-milner-with-the-unification-fd-library/][Implementing Hindley-Milner with the unification-fd library]]. ~ Brent Yorgey. #Haskell #FunctionalProgramming
 + [[https://rebeccaskinner.net/posts/2021-08-25-introduction-to-type-level-programming.html][An introduction to type level programming]]. ~ Rebecca Skinner. #Haskell #FunctionalProgramming
