@@ -24,6 +24,11 @@ contenido.
 
 ** Septiembre de 2021
 
+*** 12-Sep-21
++ Hasse derivative of polynomials (in Lean).~ Johan Commelin. https://github.com/leanprover-community/mathlib/blob/56a59d3eaf3f1fad38fd3742831729bfd6d1a1dd/src/data/polynomial/hasse_deriv.lean #ITP #LeanProver #Math
++ Taylor expansions of polynomials (in Lean). ~ Johan Commelin. https://github.com/leanprover-community/mathlib/blob/3e10324f686c8d895f97e4160a8ff796adaabdd4/src/data/polynomial/taylor.lean #ITP #LeanProver #Math
++ A survey of practical formal methods for security. ~ Tomas Kulik et als. https://arxiv.org/abs/2109.01362 #FormalMethods
+
 *** 11-Sep-21
 + [[https://link.springer.com/article/10.1007/s10817-021-09599-8][Distilling the requirements of Gödel’s incompleteness theorems with a proof assistant]]. ~ Andrei Popescu, Dmitriy Traytel. #ITP #IsabelleHOL #Logic #Math
 + [[http://jssst.or.jp/files/user/taikai/2021/papers/9-L.pdf][GSOL: A confluence checker for Haskell rewrite rules]]. ~ Yao Faustin Date Makoto Hamana. #Haskell #FunctionalProgramming
