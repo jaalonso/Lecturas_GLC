@@ -24,6 +24,11 @@ contenido.
 
 ** Septiembre de 2021
 
+*** 13-Sep-21
++ [[http://aitp-conference.org/2021/abstract/paper_3.pdf][Mining counterexamples for wide-signature algebras with an Isabelle server]]. ~ Boris Shminke, Wesley Fussner. #ITP #IsabelleHOL
++ [[https://arxiv.org/abs/2109.02806v1][Symbolic computation in software science: My personal view]]. ~ Bruno Buchberger. #CompSci
++ [[https://arxiv.org/abs/2109.04886][Proceedings 18th International Conference on Quantum Physics and Logic]]. #Logic #Math #Physics
+
 *** 12-Sep-21
 + Hasse derivative of polynomials (in Lean).~ Johan Commelin. https://github.com/leanprover-community/mathlib/blob/56a59d3eaf3f1fad38fd3742831729bfd6d1a1dd/src/data/polynomial/hasse_deriv.lean #ITP #LeanProver #Math
 + Taylor expansions of polynomials (in Lean). ~ Johan Commelin. https://github.com/leanprover-community/mathlib/blob/3e10324f686c8d895f97e4160a8ff796adaabdd4/src/data/polynomial/taylor.lean #ITP #LeanProver #Math
