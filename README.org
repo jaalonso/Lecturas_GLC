@@ -24,6 +24,20 @@ contenido.
 
 ** Septiembre de 2021
 
+*** 14-Sep-21
++ [[http://aitp-conference.org/2021/abstract/paper_17.pdf][LISA: Language models of ISAbelle proofs]]. ~ Albert Q. Jiang, Wenda Li, Jesse M. Han, Yuhuai Wu. #ITP #IsabelleHOL
++ [[https://www.isa-afp.org/entries/CZH_Foundations.html ~ Mihails Milehins.][Category theory for ZFC in HOL I: Foundations: Design patterns, set theory, digraphs, semicategories]]. #ITP #IsabelleHOL #Math
++ [[https://www.isa-afp.org/entries/CZH_Elementary_Categories.html ~ Mihails Milehins.][Category theory for ZFC in HOL II: Elementary theory of 1-categories]]. #ITP #IsabelleHOL #Math
++ [[https://www.isa-afp.org/entries/CZH_Universal_Constructions.html ~ Mihails Milehins.][Category theory for ZFC in HOL III: Universal constructions]]. #ITP #IsabelleHOL #Math
++ [[https://www.isa-afp.org/entries/Types_To_Sets_Extension.html ~ Mihails Milehins.][Extension of types-to-sets]]. #ITP #IsabelleHOL #Math
++ [[https://www.isa-afp.org/entries/Intro_Dest_Elim.html ~ Mihails Milehins.][IDE: Introduction, destruction, elimination]]. #ITP #IsabelleHOL #Math
++ [[https://www.isa-afp.org/entries/Conditional_Transfer_Rule.html ~ Mihails Milehins.][Conditional transfer rule]]. #ITP #IsabelleHOL #Math
++ [[https://www.isa-afp.org/entries/Conditional_Simplification.html ~ Mihails Milehins.][Conditional simplification]]. #ITP #IsabelleHOL #Math
++ [[https://drimyswinteri.ml/esteblog.html][Como está hecho este blog]]. #Emacs #OrgMode
++ [[http://mbork.pl/2021-09-06_My_experience_with_book_writing][My experience with book writing]]. ~ Marcin Borkowski (@marcin_mbork). #Emacs #OrgMode #Elisp
++ [[https://ruor.uottawa.ca/bitstream/10393/42643/4/Bahrami_Abdorrahim_2021_thesis.pdf][Modelling and verifying dynamic properties of neuronal networks in Coq]]. ~ Abdorrahim Bahrami. #PhDThesis #ITP #Coq #NeuralNetwork
++ [[https://readerunner.wordpress.com/2021/09/13/diagrams-for-penrose-tiles/][Penrose kite and dart tilings with Haskell Diagrams]]. ~ Chris Reade. #Haskell #FunctionalProgramming #Math
+
 *** 13-Sep-21
 + [[http://aitp-conference.org/2021/abstract/paper_3.pdf][Mining counterexamples for wide-signature algebras with an Isabelle server]]. ~ Boris Shminke, Wesley Fussner. #ITP #IsabelleHOL
 + [[https://arxiv.org/abs/2109.02806v1][Symbolic computation in software science: My personal view]]. ~ Bruno Buchberger. #CompSci
