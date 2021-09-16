@@ -24,6 +24,10 @@ contenido.
 
 ** Septiembre de 2021
 
+*** 15-Sep-21
++ [[https://www.scientificamerican.com/article/infinity-category-theory-offers-a-birds-eye-view-of-mathematics/][Infinity category theory offers a bird’s-eye view of mathematics]]. ~ Emily Riehl. #Math #CategoryTheory
++ [[https://arxiv.org/abs/2109.06258][Unprovability in mathematics: A first course on ordinal analysis]]. ~ Anton Freund. #Logic #Math
+
 *** 14-Sep-21
 + [[http://aitp-conference.org/2021/abstract/paper_17.pdf][LISA: Language models of ISAbelle proofs]]. ~ Albert Q. Jiang, Wenda Li, Jesse M. Han, Yuhuai Wu. #ITP #IsabelleHOL
 + [[https://www.isa-afp.org/entries/CZH_Foundations.html ~ Mihails Milehins.][Category theory for ZFC in HOL I: Foundations: Design patterns, set theory, digraphs, semicategories]]. #ITP #IsabelleHOL #Math
