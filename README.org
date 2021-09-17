@@ -24,6 +24,10 @@ contenido.
 
 ** Septiembre de 2021
 
+*** 16-Sep-21
++ [[https://www.cs.ru.nl/bachelors-theses/2021/Michiel_Philipse___1016359___Distributed_Knowledge_Proofs_in_the_Coq_Proof_Assistant.pdf][Distributed knowledge proofs in the Coq proof assistant]]. ~ Michiel Philipse #BSc_Thesis #ITP #Coq
++ [[https://github.com/UniMath/UniMath][Univalent Mathematics: This Coq library aims to formalize a substantial body of mathematics using the univalent point of view]]. #ITP #Coq #Math
+
 *** 15-Sep-21
 + [[https://www.scientificamerican.com/article/infinity-category-theory-offers-a-birds-eye-view-of-mathematics/][Infinity category theory offers a bird’s-eye view of mathematics]]. ~ Emily Riehl. #Math #CategoryTheory
 + [[https://arxiv.org/abs/2109.06258][Unprovability in mathematics: A first course on ordinal analysis]]. ~ Anton Freund. #Logic #Math
