@@ -24,6 +24,10 @@ contenido.
 
 ** Septiembre de 2021
 
+*** 17-Sep-21
++ [[https://jmtd.net/log/ghc_rewrite_rules/][GHC rewrite rules]]. ~ Jonathan Dowland. #Haskell #FunctionalProgramming
++ [[https://blog.kalvad.com/haskell-series-part-4/][Haskell series part 4 (This is the fourth article of a series on the functional language Haskell for beginners)]]. ~ Pierre Guillemot. #Haskell #FunctionalProgramming
+
 *** 16-Sep-21
 + [[https://www.cs.ru.nl/bachelors-theses/2021/Michiel_Philipse___1016359___Distributed_Knowledge_Proofs_in_the_Coq_Proof_Assistant.pdf][Distributed knowledge proofs in the Coq proof assistant]]. ~ Michiel Philipse #BSc_Thesis #ITP #Coq
 + [[https://github.com/UniMath/UniMath][Univalent Mathematics: This Coq library aims to formalize a substantial body of mathematics using the univalent point of view]]. #ITP #Coq #Math
