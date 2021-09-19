@@ -24,6 +24,13 @@ contenido.
 
 ** Septiembre de 2021
 
+*** 18-Sep-21
++ [[https://byorgey.wordpress.com/2021/09/17/automatically-updated-cached-views-with-lens/][Automatically updated, cached views with lens]]. ~ Brent Yorgey. #Haskell #FunctionalProgramming
++ [[https://odr.chalmers.se/bitstream/20.500.12380/304114/1/CSE%2021-17%20Group%2016.pdf][Proof editor for natural deduction]]. ~ Freddy Abrahamsson, Therese Andersson, Axel Forsman, Lo Ranta, Michael Åkesson. #BSc_Thesis #Logic #PureScript #FunctionalProgramming
++ [[https://proofs.openlogicproject.org/][Natural deduction proof editor and checker]]. #Logic #PureScript #FunctionalProgramming
++ [[https://lamassr.github.io/papers/Existence-Nash.pdf][Existence of Nash equilibria in 2-player simultaneous games and priority games proven in Isabelle]]. ~ S Le Roux, É Martin-Dorel, JG Smaus. #ITP #IsabelleHOL #Math
++ [[https://lamassr.github.io/papers/Formalized-Soundness.pdf][Formalized soundness and completeness of epistemic logic]]. ~ AH From, AB Jensen, J Villadsen. #ITP #IsabelleHOL #Logic
+
 *** 17-Sep-21
 + [[https://jmtd.net/log/ghc_rewrite_rules/][GHC rewrite rules]]. ~ Jonathan Dowland. #Haskell #FunctionalProgramming
 + [[https://blog.kalvad.com/haskell-series-part-4/][Haskell series part 4 (This is the fourth article of a series on the functional language Haskell for beginners)]]. ~ Pierre Guillemot. #Haskell #FunctionalProgramming
