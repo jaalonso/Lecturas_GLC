@@ -24,6 +24,12 @@ contenido.
 
 ** Septiembre de 2021
 
+*** 20-Sep-21
++ [[https://bor0.wordpress.com/2021/09/20/closed-expression-of-a-sum-with-proof-in-coq/][Closed-expression of a sum with proof in Coq]]. ~ Boro Sitnikovski (@BSitnikovski).  #ITP #Coq #Math
++ [[http://www.andrew.cmu.edu/user/avigad/Papers/verified_optimization_wip_paper.pd][Verified optimization (work in progress)]]. ~ Alexander Bentkamp, Jeremy Avigad.f#ITP #LeanProver #Math
++ [[https://www.isa-afp.org/entries/Complex_Bounded_Operators.html][Complex bounded operators in Isabelle/HOL]]. ~ José Manuel Rodríguez Caballero, Dominique Unruh. #ITP #IsabelleHOL #Math
++ [[https://soupi.github.io/learn-haskell-blog-generator/][Learning Haskell by building a static blog generator]]. ~ Gil Mizrahi (@_gilmi). #eBook #Haskell #FunctionalProgramming
+
 *** 18-Sep-21
 + [[https://byorgey.wordpress.com/2021/09/17/automatically-updated-cached-views-with-lens/][Automatically updated, cached views with lens]]. ~ Brent Yorgey. #Haskell #FunctionalProgramming
 + [[https://odr.chalmers.se/bitstream/20.500.12380/304114/1/CSE%2021-17%20Group%2016.pdf][Proof editor for natural deduction]]. ~ Freddy Abrahamsson, Therese Andersson, Axel Forsman, Lo Ranta, Michael Åkesson. #BSc_Thesis #Logic #PureScript #FunctionalProgramming
