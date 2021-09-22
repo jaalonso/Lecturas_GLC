@@ -24,6 +24,12 @@ contenido.
 
 ** Septiembre de 2021
 
+*** 21-Sep-21
++ [[http://leanprover.github.io/papers/lean4.pdf][The Lean 4 theorem prover and programming language (System description)]]. ~ Leonardo de Moura, Sebastian Ullrich. #ITP #LeanProver
++ [[https://leanprover-community.github.io/blog/posts/continuous-partitions-of-unity/][Continuous partitions of unity (in Lean)]]. ~ Patrick Massot. #ITP #LeanProver #Math
++ [[https://lean-forward.github.io/pubs/konovalova_bsc_thesis.pdf][Verifying AVL trees in Lean]]. ~ Sofia Konovalova. #ITP #LeanProver #Algorithms
++ [[https://www.cjquines.com/files/typetheory.pdf][Type theory by example]]. ~ Carl Joshua Quines. #TypeTheory #Logic #CompSci
+
 *** 20-Sep-21
 + [[https://bor0.wordpress.com/2021/09/20/closed-expression-of-a-sum-with-proof-in-coq/][Closed-expression of a sum with proof in Coq]]. ~ Boro Sitnikovski (@BSitnikovski).  #ITP #Coq #Math
 + [[http://www.andrew.cmu.edu/user/avigad/Papers/verified_optimization_wip_paper.pd][Verified optimization (work in progress)]]. ~ Alexander Bentkamp, Jeremy Avigad.f#ITP #LeanProver #Math
