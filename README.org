@@ -24,6 +24,16 @@ contenido.
 
 ** Septiembre de 2021
 
+*** 22-Sep-21
++ [[https://buttondown.email/hillelwayne/archive/there-was-no-formal-methods-winter/][There was no formal methods winter]]. ~ Hillel Wayne (@hillelogram). #FormalMethods via @LogicPractice
++ [[https://arxiv.org/abs/2104.02549][Connecting constructive notions of ordinals in homotopy type theory]]. ~ Nicolai Kraus, Fredrik Nordvall Forsberg, Chuangjie Xu. #ITP #Agda #Logic #Math #HoTT
++ [[https://byorgey.wordpress.com/2021/09/21/competitive-programming-in-haskell-codeforces-educational-round-114/][Competitive programming in Haskell: Codeforces Educational Round 114]]. ~ Brent Yorgey. #Haskell #FunctionalProgramming
++ [[https://unimath.github.io/SymmetryBook/book.pdf][Symmetry]]. ~ Marc Bezem, Ulrik Buchholtz, Pierre Cagne, Bjørn Ian Dundas, Daniel R. Grayson. #eBook #Univalent_mathematics
++ [[https://www.gaussianos.com/primos-que-generan-primos-el-teorema-de-scherk/][Primos que generan primos: el teorema de Scherk]]. ~ M.A. Morales (@gaussianos). #Matemáticas
++ [[https://youtu.be/JOp7mH72Jlg][Online course on Category theory: 1]]. Introduction. ~ Richard E. Borcherds. #CategoryTheory
++ [[https://youtu.be/6jrQjoM8b9s][Online course on Category theory: 2]]. Functors. ~ Richard E. Borcherds. #CategoryTheory
++ [[https://youtu.be/YLZuamSNLvc][Online course on Category theory: 3]]. Natural transformations. ~ Richard E. Borcherds. #CategoryTheory
+
 *** 21-Sep-21
 + [[http://leanprover.github.io/papers/lean4.pdf][The Lean 4 theorem prover and programming language (System description)]]. ~ Leonardo de Moura, Sebastian Ullrich. #ITP #LeanProver
 + [[https://leanprover-community.github.io/blog/posts/continuous-partitions-of-unity/][Continuous partitions of unity (in Lean)]]. ~ Patrick Massot. #ITP #LeanProver #Math
