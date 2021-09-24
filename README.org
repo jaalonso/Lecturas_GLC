@@ -24,6 +24,18 @@ contenido.
 
 ** Septiembre de 2021
 
+*** 23-Sep-21
++ [[https://www.andrew.cmu.edu/user/avigad/Talks/hoskinson_inaugural.pdf][The promise of formal mathematics]]. ~ Jeremy Avigad. #ITP #LeanProver #Math
++ [[https://escholarship.org/content/qt2g73d7qv/qt2g73d7qv_noSplash_3bfa3e4d313d996081476f109a2ad825.pdf][Voting theory in the Lean theorem prover]]. ~ Wesley H. Holliday, Chase Norman, Eric Pacuit. #ITP #LeanProver #Math
++ [[https://flint.cs.yale.edu/flint/publications/ado-tr.pdf][Much ADO about failures: A fault-aware model for compositional verification of strongly consistent distributed systems]]. ~ W. Honoré, J. Kim, J.Y. Shin, Z. Shao. #ITP #Coq
++ [[https://www.researchgate.net/publication/354765192_Introduccion_a_la_programacion_funcional_usando_Haskell_y_Agda][Introducción a la programación funcional usando Haskell y Agda]]. ~ Camilo Chacón Sartori (@camilo_chacon_s). #ProgramaciónFuncional #Haskell #Agda
++ [[https://arxiv.org/abs/2109.10317][Introduction to neural network verification]]. ~ Aws Albarghouthi. #eBook #NeuralNetwork #MachineLearning #Logic
++ [[https://cacm.acm.org/magazines/2021/10/255716-trustworthy-ai/fulltext][Trustworthy AI]]. ~ Jeannette M. Wing. #AI #FormalMethods
++ [[https://cacm.acm.org/magazines/2021/10/255711-ai-futures/fulltext][AI futures: Fact and fantasy]]. ~ Devdatt Dubhashi. #AI
++ [[https://bit.ly/3u6I7Da][La inteligencia artificial y la solución de problemas]]. ~ Juan Arias de Reyna. #IA #Matemáticas
++ [[https://youtu.be/jWtPimYNA9Q][Online course on Category theory: 4. Adjoint functors]]. ~ Richard E. Borcherds. #CategoryTheory
++ [[http://videoarxiv.org/][VideoArxiv: a searchable repository of links to math videos]]. #Math
+
 *** 22-Sep-21
 + [[https://buttondown.email/hillelwayne/archive/there-was-no-formal-methods-winter/][There was no formal methods winter]]. ~ Hillel Wayne (@hillelogram). #FormalMethods via @LogicPractice
 + [[https://arxiv.org/abs/2104.02549][Connecting constructive notions of ordinals in homotopy type theory]]. ~ Nicolai Kraus, Fredrik Nordvall Forsberg, Chuangjie Xu. #ITP #Agda #Logic #Math #HoTT
