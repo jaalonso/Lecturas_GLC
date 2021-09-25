@@ -24,6 +24,15 @@ contenido.
 
 ** Septiembre de 2021
 
+*** 24-Sep-21
++ [[https://mathai-iclr.github.io/papers/papers/MATHAI_3_paper.pdf][Beyond the tactic-state automaton]]. ~ Daniel Selsam. #ITP #LeanProver #MachineLearning
++ [[https://youtu.be/tbz6cdnFyPc][Presentation by Jeremy Avigad at the opening of the Hoskinson Center for Formal Mathematics at CMU]]. ~ Jeremy Avigad. #ITP #LeanProver #Math
++ [[https://www.researchgate.net/publication/354542199_Conflict-Driven_Satisfiability_for_Theory_Combination_Lemmas_Modules_and_Proofs][Conflict-driven satisfiability for theory combination: Lemmas, modules, and proofs]]. ~ Maria Paola Bonacina, Stéphane Graham-Lengrand, Natarajan Shankar. #ATP #Logic
++ [[https://hbr.github.io/Lambda-Calculus/lambda1/untyped_lambda.pdf][Lambda calculus - Step by step]]. ~ Helmut Brandl. #LambdaCalculus
++ [[https://byorgey.wordpress.com/2021/09/23/swarm-preview-and-call-for-collaboration/][A new programming game, Swarm]]. ~ Brent Yorgey. #Haskell #FunctionalProgramming #Game
++ [[https://github.com/byorgey/swarm][Swarm: a 2D programming and resource gathering game]]. ~ Brent Yorgey. #Haskell #FunctionalProgramming #Game
++ [[https://www.tweag.io/blog/2021-09-23-funflow2-intro/][Functional data pipelines with funflow2]]. ~ Dorran Howell, Guillaume Desforges, Vince Reuter. #Haskell #FunctionalProgramming #DataScience
+
 *** 23-Sep-21
 + [[https://www.andrew.cmu.edu/user/avigad/Talks/hoskinson_inaugural.pdf][The promise of formal mathematics]]. ~ Jeremy Avigad. #ITP #LeanProver #Math
 + [[https://escholarship.org/content/qt2g73d7qv/qt2g73d7qv_noSplash_3bfa3e4d313d996081476f109a2ad825.pdf][Voting theory in the Lean theorem prover]]. ~ Wesley H. Holliday, Chase Norman, Eric Pacuit. #ITP #LeanProver #Math
