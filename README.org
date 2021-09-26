@@ -24,6 +24,11 @@ contenido.
 
 ** Septiembre de 2021
 
+*** 25-Sep-21
++ [[https://www.cs.bham.ac.uk/~axj/ccc2021/abstracts/CCC_2021_paper_10.pdf][A certified library of ordinal arithmetic]]. ~ Nicolai Kraus, Fredrik Nordvall Forsberg, Chuangjie Xu. #ITP #Agda #Logic #Math #SetTheory
++ [[https://revistas.pucsp.br/index.php/circumhc/article/view/55033][How AI can be surprisingly dangerous for the philosophy of mathematics and of science]]. ~ Walter Carnielli. #AI #MachineLearning #Math #ITP
++ [[https://odr.chalmers.se/bitstream/20.500.12380/304169/1/CSE%2021-31%20Group%2061.pdf][A functional quantum programming language]]. ~ Matilda Blomqvist et als. #Haskell #FunctionalProgramming
+
 *** 24-Sep-21
 + [[https://mathai-iclr.github.io/papers/papers/MATHAI_3_paper.pdf][Beyond the tactic-state automaton]]. ~ Daniel Selsam. #ITP #LeanProver #MachineLearning
 + [[https://youtu.be/tbz6cdnFyPc][Presentation by Jeremy Avigad at the opening of the Hoskinson Center for Formal Mathematics at CMU]]. ~ Jeremy Avigad. #ITP #LeanProver #Math
