@@ -24,6 +24,10 @@ contenido.
 
 ** Septiembre de 2021
 
+*** 26-Sep-21
++ [[https://www.extrema.is/articles/haskell-books/what-the-industrial-coder-misses][What the industrial coder misses]]. ~ Zoltán Tóth. #eBook #Haskell #FunctionalProgramming
++ [[https://github.com/leanprover-community/mathlib/wiki/Big-missing-undergraduate-theorems][Big missing undergraduate theorems (in Lean mathlib)]]. ~ Patrick Massot. #ITP #LeanProver #Math
+
 *** 25-Sep-21
 + [[https://www.cs.bham.ac.uk/~axj/ccc2021/abstracts/CCC_2021_paper_10.pdf][A certified library of ordinal arithmetic]]. ~ Nicolai Kraus, Fredrik Nordvall Forsberg, Chuangjie Xu. #ITP #Agda #Logic #Math #SetTheory
 + [[https://revistas.pucsp.br/index.php/circumhc/article/view/55033][How AI can be surprisingly dangerous for the philosophy of mathematics and of science]]. ~ Walter Carnielli. #AI #MachineLearning #Math #ITP
