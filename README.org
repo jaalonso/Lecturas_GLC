@@ -24,6 +24,11 @@ contenido.
 
 ** Septiembre de 2021
 
+*** 27-Sep-21
++ [[https://leanprover-community.github.io/blog/posts/the-radon-nikodym-theorem-in-lean/][The Radon-Nikodym theorem in Lean]]. ~ Kexing Ying. #ITP #LeanProver #Math
++ [[https://www.isa-afp.org/entries/Weighted_Path_Order.html][A formalization of weighted path orders and recursive path orders (in Isabelle/HOL)]]. ~ Christian Sternagel, René Thiemann. #ITP #IsabelleHOL
++ [[https://boris-marinov.github.io/category-theory-illustrated/05_logic/][Category theory ilustrated: Logic]]. ~ Boris Marinov (@AlexanderKatt). #CategoryTheory #Logic #Math
+
 *** 26-Sep-21
 + [[https://www.extrema.is/articles/haskell-books/what-the-industrial-coder-misses][What the industrial coder misses]]. ~ Zoltán Tóth. #eBook #Haskell #FunctionalProgramming
 + [[https://github.com/leanprover-community/mathlib/wiki/Big-missing-undergraduate-theorems][Big missing undergraduate theorems (in Lean mathlib)]]. ~ Patrick Massot. #ITP #LeanProver #Math
