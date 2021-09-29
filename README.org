@@ -24,6 +24,12 @@ contenido.
 
 ** Septiembre de 2021
 
+*** 28-Sep-21
++ [[https://repositories.lib.utexas.edu/bitstream/handle/2152/88056/TEMEL-DISSERTATION-2021.pdf][Automated, efficient, and sound verification of integer multipliers]]. ~ Mertcan Temel. #PhD_Thesis #ITP #ACL2
++ [[https://luctielen.com/posts/making_llvm_gep_safer_in_haskell/][Making LLVM GEP safer in Haskell]]. ~ Luc Tielen (@luctielen). #Haskell #FunctionalProgramming
++ [[https://arxiv.org/abs/2109.12755][Abstraction, reasoning and deep learning: A Study of the "Look and Say" sequence]]. ~ Wlodek W. Zadrozny. #AI #MachineLearning #Math
++ [[https://junjizhi.com/all/experience/2021/09/19/emacs-systems-thinking/][Use Emacs for systems thinking]]. ~ Junji Zhi. #Emacs #OrgMode
+
 *** 27-Sep-21
 + [[https://leanprover-community.github.io/blog/posts/the-radon-nikodym-theorem-in-lean/][The Radon-Nikodym theorem in Lean]]. ~ Kexing Ying. #ITP #LeanProver #Math
 + [[https://www.isa-afp.org/entries/Weighted_Path_Order.html][A formalization of weighted path orders and recursive path orders (in Isabelle/HOL)]]. ~ Christian Sternagel, René Thiemann. #ITP #IsabelleHOL
