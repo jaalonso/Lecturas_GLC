@@ -24,6 +24,11 @@ contenido.
 
 ** Septiembre de 2021
 
+*** 29-Sep-21
++ [[https://magnus.therning.org/2021-09-28-using-lens-to-set-a-value-based-on-another.html][Using lens to set a value based on another]]. ~ Magnus Therning. #Haskell #FunctionalProgramming
++ [[https://serokell.io/blog/typed-template-haskell-overview][A short overview of typed template Haskell]]. ~ Heitor Toledo Lassarote de Paula. #Haskell #FunctionalProgramming
++ [[https://arxiv.org/abs/2109.13500][Not another computer algebra system: Highlighting wxMaxima in calculus]]. ~ N. Karjanto, H. S. Husain. #CAS #Math
+
 *** 28-Sep-21
 + [[https://repositories.lib.utexas.edu/bitstream/handle/2152/88056/TEMEL-DISSERTATION-2021.pdf][Automated, efficient, and sound verification of integer multipliers]]. ~ Mertcan Temel. #PhD_Thesis #ITP #ACL2
 + [[https://luctielen.com/posts/making_llvm_gep_safer_in_haskell/][Making LLVM GEP safer in Haskell]]. ~ Luc Tielen (@luctielen). #Haskell #FunctionalProgramming
