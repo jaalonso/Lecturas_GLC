@@ -24,6 +24,14 @@ contenido.
 
 ** Septiembre de 2021
 
+*** 30-Sep-21
++ [[http://cambium.inria.fr/~fpottier/publis/moine-chargueraud-pottier-transient.pdf][Specification and verification of a transient stack]]. ~ A. Moine, A. Charguéraud, F. Pottier. #ITP #Coq
++ [[https://arxiv.org/abs/2109.14534][A verified algebraic representation of Cairo program execution]]. ~ Jeremy Avigad, Lior Goldberg, David Levit, Yoav Seginer, Alon Titleman. #ITP #LeanProver
++ [[https://www.jameskoppel.com/files/papers/phd_dissertation.pdf][Meta-metaprogramming]]. ~ James Koppel. #PhD_Thesis #Haskell #FunctionalProgramming
++ [[https://www.imo.universite-paris-saclay.fr/~pmassot/enseignement/poly_alg.pdf][Structures algébriques fondamentales (Définitions, constructions et propriétés universelles)]]. ~ Patrick Massot. #eBook #Math
++ [[https://willcrichton.net/nota/][A new medium for communicating research on programming languages]]. ~ Will Crichton. #CompSci
++ [[https://laurentrdc.xyz/posts/existential.html][Can you make heterogeneous lists in Haskell? Sure — as long your intent is clear]]. ~ Laurent P. René de Cotret. #Haskell #FunctionalProgramming
+
 *** 29-Sep-21
 + [[https://magnus.therning.org/2021-09-28-using-lens-to-set-a-value-based-on-another.html][Using lens to set a value based on another]]. ~ Magnus Therning. #Haskell #FunctionalProgramming
 + [[https://serokell.io/blog/typed-template-haskell-overview][A short overview of typed template Haskell]]. ~ Heitor Toledo Lassarote de Paula. #Haskell #FunctionalProgramming
