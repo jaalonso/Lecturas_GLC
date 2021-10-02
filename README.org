@@ -9,6 +9,7 @@ contenido.
 
 * Contenido                                                             :TOC:
 - [[#lecturas-del-año-2021][Lecturas del año 2021]]
+  - [[#octubre-de-2021][Octubre de 2021]]
   - [[#septiembre-de-2021][Septiembre de 2021]]
   - [[#agosto-de-2021][Agosto de 2021]]
   - [[#julio-de-2021][Julio de 2021]]
@@ -21,6 +22,13 @@ contenido.
 - [[#lecturas-anteriores][Lecturas anteriores]]
 
 * Lecturas del año 2021
+
+** Octubre de 2021
+
+*** 01-Oct-21
++ [[https://github.com/Agnishom/lattice-mtl][A verified online monitor for metric temporal logic with quantitative semantics]]. ~ Agnishom Chattopadhyay. #ITP #Coq
++ [[https://youtu.be/fNpsgTIpODA][How to market Haskell to a mainstream programmer]]. ~ Gabriella Gonzalez (@GabrielG439). #Haskell #FunctionalProgramming
++ [[http://h2.jaguarpaw.co.uk/posts/nested-strict-data/][Nested strict data in Haskell]]. ~ Tom Ellis. #Haskell #FunctionalProgramming
 
 ** Septiembre de 2021
 
