@@ -25,6 +25,11 @@ contenido.
 
 ** Octubre de 2021
 
+*** 02-Oct-21
++ [[https://leanprover-community.github.io/blog/posts/month-in-mathlib-sep-2021/][This month in mathlib (Sep 2021)]]. ~ Mathlib community. #ITP #LeanProver #Math
++ [[https://linuxplumbersconf.org/event/11/contributions/1036/attachments/860/1666/Polat_2021_Testing-the-Red-Black-Tree-Implementation-of-the-Linux-Kernel-against-a-Formally-Verified-Variant.pdf][Testing the Red-Black tree implementation of the Linux kernel against a formally verified variant]]. ~ Mete Polat. #ITP #IsabelleHOL
++ [[https://dl.acm.org/doi/pdf/10.1145/3477041][Verified Lustre normalization with node subsampling]]. ~ Timothy Bourke, Paul Jeanmaire, Basile Pesin, Marc Pouzet. #ITP #Coq
+
 *** 01-Oct-21
 + [[https://github.com/Agnishom/lattice-mtl][A verified online monitor for metric temporal logic with quantitative semantics]]. ~ Agnishom Chattopadhyay. #ITP #Coq
 + [[https://youtu.be/fNpsgTIpODA][How to market Haskell to a mainstream programmer]]. ~ Gabriella Gonzalez (@GabrielG439). #Haskell #FunctionalProgramming
