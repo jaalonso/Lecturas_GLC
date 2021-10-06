@@ -25,6 +25,11 @@ contenido.
 
 ** Octubre de 2021
 
+*** 05-Oct-21
++ [[https://www.isa-afp.org/entries/FOL_Axiomatic.html][Soundness and completeness of an axiomatic system for first-order logic (in Isabelle/HOL)]]. ~ Asta Halkjær From. #ITP #IsabelleHOL #Logic #Math
++ [[https://www.duo.uio.no/bitstream/handle/10852/88548/R-mming_thesis.pdf][Learning to reason]]. ~ Fredrik Rømming. #Logic #ATP #MachineLearning
++ [[https://youtu.be/kTQZiyniYYI][Logic in Lean, video 1]]. ~ Kevin Buzzard. #ITP #LeanProver #Logic
+
 *** 03-Oct-21
 + [[https://leanprover-community.github.io/mathlib_stats.html][Mathlib statistics]]. #ITP #LeanProver #Math
 + [[https://www.isa-afp.org/statistics.html][Isabelle's AFP statistics]]. #ITP #IsabelleHOL #Math
