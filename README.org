@@ -25,6 +25,9 @@ contenido.
 
 ** Octubre de 2021
 
+*** 07-Oct-21
++ [[https://es.cs.uni-kl.de/publications/datarsg/Kock21.pdf][An overview of functional reactive programming]]. ~ F. Kockelke. #FunctionalProgramming #Haskell
+
 *** 05-Oct-21
 + [[https://www.isa-afp.org/entries/FOL_Axiomatic.html][Soundness and completeness of an axiomatic system for first-order logic (in Isabelle/HOL)]]. ~ Asta Halkjær From. #ITP #IsabelleHOL #Logic #Math
 + [[https://www.duo.uio.no/bitstream/handle/10852/88548/R-mming_thesis.pdf][Learning to reason]]. ~ Fredrik Rømming. #Logic #ATP #MachineLearning
