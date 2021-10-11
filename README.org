@@ -25,6 +25,16 @@ contenido.
 
 ** Octubre de 2021
 
+*** 10-Oct-21
++ [[http://ceur-ws.org/Vol-2970/meepaper1.pdf][Logic programming for XAI: A technical perspective]]. ~ Laura State. #LogicProgramming #AI #XAI
++ [[https://arxiv.org/abs/2110.00789][Kernels and small quasi-kernels in digraphs]]. ~ Allan van Hulst. #ITP #Coq #Math
++ [[https://www.ps.uni-saarland.de/~koch/bachelor/thesis.pdf][Mechanizing second-order logic in Coq]]. ~ Mark Koch. #BSc_Thesis #ITP #Coq #Logic #Math
+
+*** 08-Oct-21
++ [[https://arxiv.org/abs/2110.03551][Formalizing geometric algebra in Lean]]. ~ Eric Wieser, Utensil Song. #ITP #LeanProver #Math
++ [[https://youtu.be/NbXkhPmUvug][Introduction to University Mathematics 2021: Logic in Lean, video 2 (true, false, not)]]. ~ Kevin Buzzard (@XenaProject). #ITP #LeanProver #Logic #Math
++ [[https://vitez.me/tuple-prelude][Tuple Prelude]]. ~ Mitchell Vitez. #Haskell #FunctionalProgramming
+
 *** 07-Oct-21
 + [[https://es.cs.uni-kl.de/publications/datarsg/Kock21.pdf][An overview of functional reactive programming]]. ~ F. Kockelke. #FunctionalProgramming #Haskell
 
