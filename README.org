@@ -25,6 +25,10 @@ contenido.
 
 ** Octubre de 2021
 
+*** 11-Oct-21
++ [[https://youtu.be/GfrBViUdWoA][Haskelling in Hackerrank!!: Episode 1: Competitive coding]].  #Haskell #FunctionalProgramming
++ [[https://youtu.be/GfrBViUdWoA][Haskelling in Hackerrank!!: Episode 2: Mini-Max Sum]].  #Haskell #FunctionalProgramming
+
 *** 10-Oct-21
 + [[http://ceur-ws.org/Vol-2970/meepaper1.pdf][Logic programming for XAI: A technical perspective]]. ~ Laura State. #LogicProgramming #AI #XAI
 + [[https://arxiv.org/abs/2110.00789][Kernels and small quasi-kernels in digraphs]]. ~ Allan van Hulst. #ITP #Coq #Math
