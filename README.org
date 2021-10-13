@@ -25,6 +25,13 @@ contenido.
 
 ** Octubre de 2021
 
+*** 12-Oct-21
++ [[https://youtu.be/arwiwBPZA-0][Introduction to University Mathematics 2021: Logic in Lean, video 3 (and, or, iff)]]. ~ Kevin Buzzard (@XenaProject). #ITP #LeanProver #Logic #Math
++ [[http://www.lix.polytechnique.fr/~dale/mpri/ln2021-v1.pdf][Proof theory, proof search, and logic programming]]. ~ Dale Miller. #eBook #Logic #LogicProgramming
++ [[https://www.researchgate.net/publication/353673818_Experiences_from_Exporting_Major_Proof_Assistant_Libraries][Experiences from exporting major proof assistant libraries]]. ~ Michael Kohlhase, Florian Rabe. #ITP #HOL_Light #Coq #IsabelleHOL #IMPS #PVS #Mizar
++ [[https://www.cantorsparadise.com/when-alan-turing-and-ludwig-wittgenstein-discussed-the-liar-paradox-3c2de0ff09d1][When Alan Turing and Ludwig Wittgenstein discussed the liar paradox]]. ~ Paul Austin Murphy. #Logic #Math
++ [[https://github.com/kuanyui/copy-as-org-mode][copy-as-org-mode: A Firefox Add-on (WebExtension) to copy selected web page into Org-mode formatted text!]]. #Emacs #OrgMode #Firefox
+
 *** 11-Oct-21
 + [[https://youtu.be/GfrBViUdWoA][Haskelling in Hackerrank!!: Episode 1: Competitive coding]].  #Haskell #FunctionalProgramming
 + [[https://youtu.be/GfrBViUdWoA][Haskelling in Hackerrank!!: Episode 2: Mini-Max Sum]].  #Haskell #FunctionalProgramming
