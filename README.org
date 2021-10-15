@@ -25,6 +25,9 @@ contenido.
 
 ** Octubre de 2021
 
+*** 14-Oct-21
++ [[https://digitalcommons.calpoly.edu/cgi/viewcontent.cgi?article=3900&context=theses][Proving correctness of a Chez Scheme compiler pass]]. ~ Ian Atol. #MSc_Thesis #ITP #Coq
+
 *** 12-Oct-21
 + [[https://youtu.be/arwiwBPZA-0][Introduction to University Mathematics 2021: Logic in Lean, video 3 (and, or, iff)]]. ~ Kevin Buzzard (@XenaProject). #ITP #LeanProver #Logic #Math
 + [[http://www.lix.polytechnique.fr/~dale/mpri/ln2021-v1.pdf][Proof theory, proof search, and logic programming]]. ~ Dale Miller. #eBook #Logic #LogicProgramming
