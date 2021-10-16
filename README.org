@@ -25,6 +25,13 @@ contenido.
 
 ** Octubre de 2021
 
+*** 15-Oct-21
++ [[https://xenaproject.wordpress.com/2021/10/14/new-year-new-teaching-material/][New year, new teaching material]]. ~ Kevin Buzzard. #ITP #LeanProver #Math
++ [[https://byorgey.wordpress.com/2021/10/14/competitive-programming-in-haskell-bfs-part-1/][Competitive programming in Haskell: BFS, part 1]]. ~ Brent Yorgey. #Haskell #FunctionalProgramming
++ [[https://www.tweag.io/blog/2021-10-13-homomorphic-testing/][Denotational homomorphic testing]]. ~ Divesh Otwani. #Haskell #FunctionalProgramming
++ [[https://bit.ly/3lDSiN3][La conjetura diabólica]]. ~ Juan Arias de Reyna. #Matemáticas
++ [[https://www.haskellforall.com/2021/10/advice-for-aspiring-bloggers.html][Advice for aspiring bloggers]]. ~ Gabriella Gonzalez (@GabrielG439). #Blogs
+
 *** 14-Oct-21
 + [[https://digitalcommons.calpoly.edu/cgi/viewcontent.cgi?article=3900&context=theses][Proving correctness of a Chez Scheme compiler pass]]. ~ Ian Atol. #MSc_Thesis #ITP #Coq
 
