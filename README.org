@@ -25,6 +25,12 @@ contenido.
 
 ** Octubre de 2021
 
+*** 16-Oct-21
++ [[https://ajrouvoet.github.io/files/thesis.pdf][Correct by construction language implementations]]. ~ Arjen Rouvoet (@ArjenRouvoet). #PhD_Thesis #ITP #Agda #FunctionalProgramming via @PerezJorgeA_
++ [[https://ocamlpro.github.io/verification_for_dummies/][Verification for dummies: SMT and induction]]. ~ Adrien Champion. #eBook #Logic #SMT #FormalVerification
++ [[https://cs3110.github.io/textbook/cover.html][OCaml Programming: Correct + Efficient + Beautiful]]. ~ Michael R. Clarkson et als. #eBook #OCaml #FunctionalProgramming
++ [[https://youtu.be/2TKuzeRG_lI][Un parser en una docena de lineas en Haskell]]. ~ Alejandro Serrano (@trupill). #Haskell #FunctionalProgramming
+
 *** 15-Oct-21
 + [[https://xenaproject.wordpress.com/2021/10/14/new-year-new-teaching-material/][New year, new teaching material]]. ~ Kevin Buzzard. #ITP #LeanProver #Math
 + [[https://byorgey.wordpress.com/2021/10/14/competitive-programming-in-haskell-bfs-part-1/][Competitive programming in Haskell: BFS, part 1]]. ~ Brent Yorgey. #Haskell #FunctionalProgramming
