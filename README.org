@@ -25,6 +25,9 @@ contenido.
 
 ** Octubre de 2021
 
+*** 18-Oct-21
++ [[https://youtu.be/3kduOmZ2Wxw][Haskell Lenses From Scratch]]. #Haskell #FunctionalProgramming
+
 *** 16-Oct-21
 + [[https://ajrouvoet.github.io/files/thesis.pdf][Correct by construction language implementations]]. ~ Arjen Rouvoet (@ArjenRouvoet). #PhD_Thesis #ITP #Agda #FunctionalProgramming via @PerezJorgeA_
 + [[https://ocamlpro.github.io/verification_for_dummies/][Verification for dummies: SMT and induction]]. ~ Adrien Champion. #eBook #Logic #SMT #FormalVerification
