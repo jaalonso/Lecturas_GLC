@@ -25,6 +25,23 @@ contenido.
 
 ** Octubre de 2021
 
+*** 19-Oct-21
++ [[https://arxiv.org/abs/2110.05063v1][Efficient extensional binary tries]]. ~ Andrew Appel, Xavier Leroy. #ITP #Coq
++ [[https://arxiv.org/abs/2110.05771v1][Toward SMT-based refinement types in Agda]]. ~ Gan Shen, Lindsey Kuper. #ITP #Agda #FunctionalProgramming
++ [[https://arxiv.org/abs/2110.04461v1][Toward hole-driven development with Liquid Haskell]]. ~ Patrick Redmond, Gan Shen, Lindsey Kuper. #Haskell #LiquidHaskell #FunctionalProgramming
++ [[https://monadplus.pro/haskell/2021/10/14/th/][Template Haskell — Use cases]]. #Haskell #FunctionalProgramming
++ [[https://arxiv.org/pdf/2110.08881.pdf][Naive descriptive set theory]]. ~ M. Foreman. #SetTheory
++ [[https://youtu.be/0NaRJa8yGEo][Mathematical Logic, Lecture 1 (First-order logic: languages, structures and formulas)]]. ~ Artem Chernikov (@archernikov). #Logic #Math
++ [[https://youtu.be/aL9AthhlHsM][Mathematical Logic, Lecture 2 (Semantics of first-order formulas)]]. ~ Artem Chernikov (@archernikov). #Logic #Math
++ [[https://youtu.be/4grFfGwQNww][Mathematical Logic, Lecture 3 (Substitution of terms into formulas)]]. ~ Artem Chernikov (@archernikov). #Logic #Math
++ [[https://youtu.be/ccGKl9P-Mck][Mathematical Logic, Lecture 4 (Universally valid formulas and propositional calculus)]]. ~ Artem Chernikov (@archernikov). #Logic #Math
++ [[https://youtu.be/KR5fF_QTJlQ][Mathematical Logic, Lecture 5 (Formal proofs)]]. ~ Artem Chernikov (@archernikov). #Logic #Math
++ [[https://youtu.be/qaLFi-StQ0g][Mathematical Logic, Lecture 6 (More on formal proofs and Gödel's completeness theorem)]]. ~ Artem Chernikov (@archernikov). #Logic #Math
++ [[https://youtu.be/tyoDrJGPlzc][Mathematical Logic, Lecture 7 (Proof of Gödel's completeness theorem)]]. ~ Artem Chernikov (@archernikov). #Logic #Math
++ [[https://youtu.be/BfFMkR9Sekw][Mathematical Logic, Lecture 8 (Finishing the proof of Gödel's completeness theorem)]]. ~ Artem Chernikov (@archernikov). #Logic #Math
++ [[https://youtu.be/IwEXosSIxw8][Mathematical Logic, Lecture 9 (Model theory: compactness, Löwenheim-Skolem, elementary substructure)]]. ~ Artem Chernikov (@archernikov). #Logic #Math
++ [[https://youtube.com/playlist?list=PL54Pt_mZzBqibWHgesgEICeQHnwHom8xz][UCLA Math 220A, Mathematical Logic]].~ Artem Chernikov (@archernikov). #Logic #Math
+
 *** 18-Oct-21
 + [[https://youtu.be/3kduOmZ2Wxw][Haskell Lenses From Scratch]]. #Haskell #FunctionalProgramming
 
