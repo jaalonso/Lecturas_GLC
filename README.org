@@ -25,6 +25,15 @@ contenido.
 
 ** Octubre de 2021
 
+*** 20-Oct-21
++ [[https://blog.poisson.chat/posts/2021-10-20-initial-final-free-monad.html][Initial and final encodings of free monads]]. ~ Li-yao Xia (@lysxia). #Haskell #FunctionalProgramming #ITP #Coq
++ [[https://barriecooper.github.io/html/index.html][The graphs game, version 0]].1. ~ Barrie Cooper. #ITP #LeanProver #Math
++ [[https://youtu.be/hrCGPTLgMA0][Mathematical Logic, Lecture 10 (Axiomatizability and the diagram method)]]. ~ Artem Chernikov (@archernikov). #Logic #Math
++ [[https://youtu.be/cT8G6FS2v94][TrieMap that match (a programming pearl)]]. ~ Simon Peyton Jones. #Haskell #FunctionalProgramming
++ [[https://byorgey.wordpress.com/2021/10/18/competitive-programming-in-haskell-bfs-part-2-alternative-apis/][Competitive programming in Haskell: BFS, part 2 (alternative APIs)]]. ~ Brent Yorgey. #Haskell #FunctionalProgramming
++ [[https://arxiv.org/abs/2110.08640][Is the twin prime conjecture independent of Peano Arithmetic? ~ Alessandro Berarducci, Antongiulio Fornasiero]]. #Logic #Math
++ [[https://www.colinmclear.net/posts/teaching-notes/][Teaching notes, slides, & handouts]]. ~ Colin McLear (@mclearc). #Emacs #OrgMode
+
 *** 19-Oct-21
 + [[https://arxiv.org/abs/2110.05063v1][Efficient extensional binary tries]]. ~ Andrew Appel, Xavier Leroy. #ITP #Coq
 + [[https://arxiv.org/abs/2110.05771v1][Toward SMT-based refinement types in Agda]]. ~ Gan Shen, Lindsey Kuper. #ITP #Agda #FunctionalProgramming
