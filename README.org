@@ -25,6 +25,17 @@ contenido.
 
 ** Octubre de 2021
 
+*** 21-Oct-21
++ [[https://lawrencecpaulson.github.io/2021/10/13/Fib-example.html][Introductory example: Fibonacci numbers (in Isabelle/HOL)]]. ~  Lawrence Paulson @Cambridge_CL #ITP #IsabelleHOL #Math
++ [[https://lawrencecpaulson.github.io/2021/10/20/Fib-example-contd.html][More on Fibonacci numbers, with equational reasoning (in Isabelle/HOL)]]. ~  Lawrence Paulson @Cambridge_CL #ITP #IsabelleHOL #Math
++ [[https://www.tandfonline.com/doi/full/10.1080/10586458.2021.1980464][Formalizing ordinal partition relations using Isabelle/HOL]]. ~ Mirna Džamonja, Angeliki Koutsoukou-Argyraki, Lawrence C. Paulson. #ITP #IsabelleHOL #Math
++ [[https://well-typed.com/blog/2021/10/large-records-part-2/][Induction without core-size blow-up a.k.a. Large records: anonymous edition]]. ~ Edsko de Vries, Adam Gundry. #Haskell #FunctionalProgramming
++ [[https://reasonablypolymorphic.com/blog/proving-commutativity/][Proving commutativity of polysemy interpreters]]. ~ Sandy Maguire. #Haskell #FunctionalProgramming
++ [[https://www.tweag.io/blog/2021-10-21-tcplugins-1/][Type-checking plugins, Part I: Why write a type-checking plugin?]]. ~ Sam Derbyshire. #Haskell #FunctionalProgramming
++ [[https://youtu.be/37uTCZqpqmk][Custom type errors using TypeError]]. ~ Richard Eisenberg (@RaeHaskell). #Haskell #FunctionalProgramming
++ [[https://www.haskellforall.com/2021/10/co-applicative-programming-style.html][Co-Applicative programming style]]. ~ Gabriella Gonzalez (@GabrielG439). #Haskell #FunctionalProgramming
++ [[https://arxiv.org/abs/2110.09947][Using program synthesis and inductive logic programming to solve Bongard problems]]. ~ Atharv Sonwane, Sharad Chitlangia, Tirtharaj Dash, Lovekesh Vig, Gautam Shroff, Ashwin Srinivasan. #MachineLearning #ILP
+
 *** 20-Oct-21
 + [[https://blog.poisson.chat/posts/2021-10-20-initial-final-free-monad.html][Initial and final encodings of free monads]]. ~ Li-yao Xia (@lysxia). #Haskell #FunctionalProgramming #ITP #Coq
 + [[https://barriecooper.github.io/html/index.html][The graphs game, version 0]].1. ~ Barrie Cooper. #ITP #LeanProver #Math
