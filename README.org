@@ -25,6 +25,12 @@ contenido.
 
 ** Octubre de 2021
 
+*** 22-Oct-21
++ [[https://youtu.be/24DUqFn9jWM][Mathematical Logic, Lecture 11 (Upward Löwenheim-Skolem and expansions by definition)]]. ~ Artem Chernikov (@archernikov). #Logic #Math
++ [[https://www.isa-afp.org/entries/Correctness_Algebras.html][Algebras for iteration, infinite executions and correctness of sequential computations]]. ~ Walter Guttmann. #ITP #IsabelleHOL
++ [[https://www.isa-afp.org/entries/Virtual_Substitution.html][Verified quadratic virtual substitution for real arithmetic]]. ~ Matias Scharager, Katherine Cordwell, Stefan Mitsch, André Platzer. #ITP #IsabelleHOL #Math
++ [[https://www.ingentaconnect.com/content/matthey/jmtr/pre-prints/content-jm_jmtr_johnsapr22][Emacs as a tool for modern science]]. ~ Timothy Johnson. #Emacs #OrgMode
+
 *** 21-Oct-21
 + [[https://lawrencecpaulson.github.io/2021/10/13/Fib-example.html][Introductory example: Fibonacci numbers (in Isabelle/HOL)]]. ~  Lawrence Paulson @Cambridge_CL #ITP #IsabelleHOL #Math
 + [[https://lawrencecpaulson.github.io/2021/10/20/Fib-example-contd.html][More on Fibonacci numbers, with equational reasoning (in Isabelle/HOL)]]. ~  Lawrence Paulson @Cambridge_CL #ITP #IsabelleHOL #Math
