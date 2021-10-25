@@ -25,6 +25,12 @@ contenido.
 
 ** Octubre de 2021
 
+*** 24-Oct-21
++ [[https://lawrencecpaulson.github.io//2021/10/27/formalisms.html][On logical formalisms]]. ~ Lawrence Paulson. #Logic #ITP
++ [[https://tel.archives-ouvertes.fr/tel-03387912/document][Integrating automated theorem provers in proof assistants]]. ~ Yacine El Haddad. #PhDThesis #ITP #ATP
++ [[https://www.isa-afp.org/entries/Belief_Revision.html][Belief revision theory (in Isabelle/HOL)]]. ~ Valentin Fouillard, Safouan Taha, Frédéric Boulanger, Nicolas Sabouret. #ITP #IsabelleHOL
++ [[https://www.researchgate.net/publication/355201728_Proof_Complexity_of_Modal_Resolution][Proof complexity of modal resolution]]. ~ Sarah Sigley, Olaf Beyersdorff. #ATP #Logic #Automated_reasoning
+
 *** 23-Oct-21
 + [[https://arxiv.org/abs/2110.09174][A formalisation of abstract argumentation in higher-order logic]]. ~ Alexander Steen, David Fuenmayor. #ITP #IsabelleHOL
 + [[https://static.miraheze.org/isacwiki/f/f2/Mawen-isa.pdf][Towards an accessible mathematics working environment in education]]. ~ K Miesenberger, W Neuper, B Stöger, M Wenzel. #ITP #IsabelleHOL #Math
