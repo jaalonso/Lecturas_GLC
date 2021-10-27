@@ -25,6 +25,9 @@ contenido.
 
 ** Octubre de 2021
 
+*** 26-Oct-21
++ [[https://cacm.acm.org/magazines/2021/11/256402-technical-perspective-on-proofs-entanglement-and-games/fulltext][Technical perspective: On proofs, entanglement, and games]]. ~ Dorit Aharonov, Michael Chapman. #CompSci
+
 *** 25-Oct-21
 + [[https://rezigned.com/posts/monad-transformers-1/][Monad transformers – Part 1: An introduction]]. ~ @rezigned. #Haskell #FunctionalProgramming
 + [[https://mariokrenn.wordpress.com/2021/10/24/quantum-physics-in-lean/][Quantum physics in Lean]]. ~ Mario Krenn (@MarioKrenn6240). #ITP #LeanProver #Physics
