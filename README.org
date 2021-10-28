@@ -25,6 +25,12 @@ contenido.
 
 ** Octubre de 2021
 
+*** 27-Oct-21
++ [[https://www.tandfonline.com/doi/full/10.1080/10586458.2021.1980465][Irrationality and transcendence criteria for infinite series in Isabelle/HOL]]. ~ Angeliki Koutsoukou-Argyraki, Wenda Li, Lawrence C. Paulson. #ITP #IsabelleHOL #Math
++ [[https://blog.poisson.chat/posts/2021-10-26-proving-lists-infinite.html][On proving lists infinite]]. ~ Li-yao Xia (@lysxia). #ITP #Coq
++ [[https://youtu.be/1kpKW69oNaI][Mathematical Logic, Lecture 12 (Quantifier elimination)]]. ~ Artem Chernikov (@archernikov). #Logic #Math
++ [[https://youtu.be/lUlsDiEbFA8][Mathematical Logic, Lecture 13 (Quantifier elimination in algebraically closed fields)]]. ~ Artem Chernikov (@archernikov). #Logic #Math
+
 *** 26-Oct-21
 + [[https://cacm.acm.org/magazines/2021/11/256402-technical-perspective-on-proofs-entanglement-and-games/fulltext][Technical perspective: On proofs, entanglement, and games]]. ~ Dorit Aharonov, Michael Chapman. #CompSci
 
