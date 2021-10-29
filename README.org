@@ -25,6 +25,9 @@ contenido.
 
 ** Octubre de 2021
 
+*** 28-Oct-21
++ [[https://youtu.be/rRGh97sOtKE][Why explain mathematics to computers?]] ~ Patrick Massot. #ITP #LeanProver #Math
+
 *** 27-Oct-21
 + [[https://www.tandfonline.com/doi/full/10.1080/10586458.2021.1980465][Irrationality and transcendence criteria for infinite series in Isabelle/HOL]]. ~ Angeliki Koutsoukou-Argyraki, Wenda Li, Lawrence C. Paulson. #ITP #IsabelleHOL #Math
 + [[https://blog.poisson.chat/posts/2021-10-26-proving-lists-infinite.html][On proving lists infinite]]. ~ Li-yao Xia (@lysxia). #ITP #Coq
