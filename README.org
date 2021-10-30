@@ -25,6 +25,13 @@ contenido.
 
 ** Octubre de 2021
 
+*** 29-Oct-21
++ [[https://github.com/leanprover-community/mathlib/blob/0cfae438fdb524f4b2b18d5cb3a5db87e2ad84cb/archive/imo/imo2021_q1.lean][Formalization in Lean of IMO 2021 Q1]]. ~ Mantas Bakšys. #ITP #LeanProver #Math #IMO
++ [[https://gaceta.rsme.es/abrir.php?id=1057][Demostración asistida por ordenador]]. ~ Jesús María Aransay Azofra, César Domínguez Pérez. #DAO #IsabelleHOL #Matemáticas
++ [[https://isabelle.in.tum.de/dist/Isabelle2021/doc/locales.pdf][Tutorial to locales and locale interpretation]]. ~ Clemens Ballarin. #ITP #IsabelleHOL #Math
++ [[https://isabelle.in.tum.de/dist/Isabelle2021/doc/classes.pdf][Haskell-style type classes with Isabelle/Isar]]. ~ Florian Haftmann. #ITP #IsabelleHOL
++ [[https://youtu.be/gFYfdkQ6cr4][Mathematical Logic, Lecture 14 (Presburger arithmetic)]]. ~ Artem Chernikov (@archernikov). #Logic #Math
+
 *** 28-Oct-21
 + [[https://youtu.be/rRGh97sOtKE][Why explain mathematics to computers?]] ~ Patrick Massot. #ITP #LeanProver #Math
 
