@@ -9,6 +9,7 @@ contenido.
 
 * Contenido                                                             :TOC:
 - [[#lecturas-del-año-2021][Lecturas del año 2021]]
+  - [[#noviembre-de-2021][Noviembre de 2021]]
   - [[#octubre-de-2021][Octubre de 2021]]
   - [[#septiembre-de-2021][Septiembre de 2021]]
   - [[#agosto-de-2021][Agosto de 2021]]
@@ -22,6 +23,17 @@ contenido.
 - [[#lecturas-anteriores][Lecturas anteriores]]
 
 * Lecturas del año 2021
+
+** Noviembre de 2021
+
+*** 01-Nov-21
++ [[https://www.imo.universite-paris-saclay.fr/~pmassot/enseignement/poly_alg/][Structures algébriques fondamentales]]. ~ Patrick Massot. #Math
++ [[https://osa1.net/posts/2014-07-12-fun-coq-exercises.html][Coq exercises for beginners]]. ~ Ömer Sinan Ağacan. #ITP #Coq #Math
++ [[https://hal.inria.fr/inria-00368403v2/document][Packaging mathematical structures]]. ~ François Garillot, Georges Gonthier, Assia Mahboubi, Laurence Rideau. #ITP #Coq #Math
++ [[https://arxiv.org/abs/1102.132][Type classes for mathematics in type theory]]. ~ Bas Spitters, Eelis van der Weegen.3# #ITP #Coq #Math
++ [[https://tqft.net/web/notes/load.php?name=students/20180219-MitchRowett-ASC-report-on-Lean][Group theory in Lean]]. ~ Mitchell Rowet. #ITP #LeanProver #Math
+
+
 
 ** Octubre de 2021
 
