@@ -26,6 +26,13 @@ contenido.
 
 ** Noviembre de 2021
 
+*** 02-Nov-21
++ [[https://lawrencecpaulson.github.io/2021/11/03/AUTOMATH.html][NG de Bruijn and AUTOMATH]]. ~ Lawrence Paulson @Cambridge_CL #ITP #AutoMath #Math
++ [[https://lambdafoo.com/posts/2021-10-29-getting-started-with-ocaml.html][Getting started with OCaml in 2021]]. ~ Tim McGilchrist. #OCaml #FunctionalProgramming
++ [[https://zenodo.org/record/4457887][Mathematical components]]. ~ Assia Mahboubi, Enrico Tassi. #ITP #Coq #Math
++ [[https://artagnon.com/articles/leancoq][Lean versus Coq: The cultural chasm]]. ~ Ramkumar Ramachandra (@artagnon). #ITP #LeanProver #Coq #Logic #Math
++ [[https://bit.ly/3k193k3][Design of quantum optical experiments with logic artificial intelligence]]. ~ Alba Cervera-Lierta, Mario Krenn, Alan Aspuru-Guzik. #AI #Logic #SAT #QuantumPhysics
+
 *** 01-Nov-21
 + [[https://www.imo.universite-paris-saclay.fr/~pmassot/enseignement/poly_alg/][Structures algébriques fondamentales]]. ~ Patrick Massot. #Math
 + [[https://osa1.net/posts/2014-07-12-fun-coq-exercises.html][Coq exercises for beginners]]. ~ Ömer Sinan Ağacan. #ITP #Coq #Math
