@@ -26,6 +26,14 @@ contenido.
 
 ** Noviembre de 2021
 
+*** 03-Nov-21
++ [[https://hal.archives-ouvertes.fr/hal-03404668/document][Hydras & Co]].: Formalized mathematics in Coq for inspiration and entertainment. ~ Pierre Castéran, Jérémy Damour, Karl Palmskog, Clément Pit-Claudel, Théo Zimmermann. #ITP #Coq #Math
++ [[https://coq-community.org/hydra-battles/doc/hydras.pdf][Hydras, Ordinals & Co]]. A library in Coq of entertaining formal mathematics. ~ Pierre Castéran. #ITP #Coq #Math
++ [[https://leanprover-community.github.io/blog/posts/contributions-to-mathlib-from-lte-about-normed-groups/][Contributions to mathlib from LTE about normed groups]]. ~ Riccardo Brasca. #ITP #LeanProver #Math
++ [[https://hal.inria.fr/tel-02451322v2/document][Challenges in the collaborative evolution of a proof language and its ecosystem]]. ~ Théo Zimmermann. #PhDThesis #ITP #Coq
++ [[https://siliconreckoner.substack.com/p/can-mathematics-be-done-by-machine][Can mathematics be done by machine? I]]. ~ Michael Harris. #ITP #Math #AI
++ [[https://www.investigacionyciencia.es/noticias/avances-en-la-resolucin-de-los-problemas-diofnticos-20388][Avances en la resolución de los problemas diofánticos]]. ~ Rachel Crowell. #Matemáticas
+
 *** 02-Nov-21
 + [[https://lawrencecpaulson.github.io/2021/11/03/AUTOMATH.html][NG de Bruijn and AUTOMATH]]. ~ Lawrence Paulson @Cambridge_CL #ITP #AutoMath #Math
 + [[https://lambdafoo.com/posts/2021-10-29-getting-started-with-ocaml.html][Getting started with OCaml in 2021]]. ~ Tim McGilchrist. #OCaml #FunctionalProgramming
