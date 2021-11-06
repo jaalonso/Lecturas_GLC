@@ -26,6 +26,9 @@ contenido.
 
 ** Noviembre de 2021
 
+*** 05-Nov-21
++ [[https://jesper.sikanda.be/posts/1001-syntax-representations.html][1001 representations of syntax with binding]]. ~ Jesper Cockx (@agdakx). #ITP #Agda
+
 *** 04-Nov-21
 + [[https://leanprover-community.github.io/blog/posts/month-in-mathlib-oct-2021/][This month in mathlib (Oct 2021)]]. #ITP #LeanProver #MathLib #Math
 + [[https://www.ps.uni-saarland.de/~lauermann/bachelor/thesis.pdf][A formalization of Kolmogorov complexity in synthetic computability theory]]. ~ Nils Lauermann. #BSc_Thesis #ITP #Coq #CompSci
