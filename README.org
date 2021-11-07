@@ -26,6 +26,11 @@ contenido.
 
 ** Noviembre de 2021
 
+*** 06-Nov-21
++ [[https://giters.com/anton-trunov/csclub-coq-course-spring-2021][A course on formal verification at CS Club]]. ~ Anton Trunov (@falsenov). #ITP #Coq #MathComp #SSReflect
++ [[https://ilyasergey.net/pnp/][Programs and proofs (Mechanizing mathematics with dependent types)]]. ~ Ilya Sergey (@ilyasergey). #ITP #Coq #MathComp #SSReflect #Math
++ [[https://team.inria.fr/marelle/en/coq-winter-school-2018-2019-ssreflect-mathcomp/][Coq Winter School 2018-2019 (SSReflect & MathComp)]]. ~ Yves Bertot, Cyril Cohen, Laurence Rideau, Enrico Tassi and Laurent Thery. #ITP #Coq #MathComp #SSReflect
+
 *** 05-Nov-21
 + [[https://jesper.sikanda.be/posts/1001-syntax-representations.html][1001 representations of syntax with binding]]. ~ Jesper Cockx (@agdakx). #ITP #Agda
 
