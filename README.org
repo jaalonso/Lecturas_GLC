@@ -26,6 +26,16 @@ contenido.
 
 ** Noviembre de 2021
 
+*** 08-Nov-21
++ [[https://www.isa-afp.org/entries/Szemeredi_Regularity.html][Szemerédi's regularity lemma (in Isabelle/HOL)]]. ~ Chelsea Edmonds, Angeliki Koutsoukou-Argyraki, Lawrence C. Paulson. #ITP #IsabelleHOL #Math
++ [[https://github.com/leanprover-community/mathlib/blob/bc55cd785d1c29fb1b276f5933dfc7f5b2ebf0eb/archive/imo/imo1994_q1.lean][Formalization in Lean of IMO 1994 Q1]]. ~ Antoine Labelle. #ITP #LeanProver #Math #IMO
++ [[https://arxiv.org/abs/2106.10165][The principles of deep learning theory (An effective theory approach to understanding neural networks)]]. ~ Daniel A. Roberts, Sho Yaida, Boris Hanin. #eBook #DeepLearning #NeuralNetwork #AI #Math
++ [[https://aihub.org/2021/11/03/coffee-corner-are-deep-learnings-returns-diminishing/][Coffee corner: are deep learning’s returns diminishing?]]. #DeepLearning #AI
+
+*** 07-Nov-21
++ [[https://github.com/llee454/functional-algebra][A Coq formalization of abstract algebra using a functional programming style]]. ~ Larry Darryl Lee Jr. #ITP #Coq #Math
++ [[https://github.com/ivashkev/math-formalizations][Formalization of some elementary mathematical theories in Coq]]. ~ Evgeny Ivashkevich. #ITP #Coq #Math
+
 *** 06-Nov-21
 + [[https://giters.com/anton-trunov/csclub-coq-course-spring-2021][A course on formal verification at CS Club]]. ~ Anton Trunov (@falsenov). #ITP #Coq #MathComp #SSReflect
 + [[https://ilyasergey.net/pnp/][Programs and proofs (Mechanizing mathematics with dependent types)]]. ~ Ilya Sergey (@ilyasergey). #ITP #Coq #MathComp #SSReflect #Math
