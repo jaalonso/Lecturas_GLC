@@ -26,6 +26,10 @@ contenido.
 
 ** Noviembre de 2021
 
+*** 10-Nov-21
++ [[https://www.isa-afp.org/entries/Real_Power.html][Real exponents as the limits of sequences of rational exponents (in Isabelle/HOL)]]. ~ Jacques D. Fleuriot. #ITP #IsabelleHOL #Math
++ [[https://github.com/quchen/articles/blob/master/loeb-moeb.md][Löb and möb: strange loops in Haskell]]. ~ David Luposchainsky (@quch3n). #Haskell #FunctionalProgramming
+
 *** 08-Nov-21
 + [[https://www.isa-afp.org/entries/Szemeredi_Regularity.html][Szemerédi's regularity lemma (in Isabelle/HOL)]]. ~ Chelsea Edmonds, Angeliki Koutsoukou-Argyraki, Lawrence C. Paulson. #ITP #IsabelleHOL #Math
 + [[https://github.com/leanprover-community/mathlib/blob/bc55cd785d1c29fb1b276f5933dfc7f5b2ebf0eb/archive/imo/imo1994_q1.lean][Formalization in Lean of IMO 1994 Q1]]. ~ Antoine Labelle. #ITP #LeanProver #Math #IMO
