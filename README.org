@@ -26,6 +26,9 @@ contenido.
 
 ** Noviembre de 2021
 
+*** 11-Nov-21
++ [[https://arxiv.org/abs/2111.05364][Towards tractable mathematical reasoning: Challenges, strategies, and opportunities for solving math word problems]]. ~ Keyur Faldu, Amit Sheth, Prashant Kikani, Manas Gaur, Aditi Avasthi. #AI #Math #MachineLearning
+
 *** 10-Nov-21
 + [[https://www.isa-afp.org/entries/Real_Power.html][Real exponents as the limits of sequences of rational exponents (in Isabelle/HOL)]]. ~ Jacques D. Fleuriot. #ITP #IsabelleHOL #Math
 + [[https://github.com/quchen/articles/blob/master/loeb-moeb.md][Löb and möb: strange loops in Haskell]]. ~ David Luposchainsky (@quch3n). #Haskell #FunctionalProgramming
