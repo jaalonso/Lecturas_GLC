@@ -26,6 +26,10 @@ contenido.
 
 ** Noviembre de 2021
 
+*** 12-Nov-21
++ [[https://arxiv.org/abs/2111.06366][Answer set programming made easy]]. ~ Jorge Fandinno, Seemran Mishra, Javier Romero, Torsten Schaub. #LogicProgramming #ASP
++ [[https://arxiv.org/abs/2111.06368][Should Type Theory replace Set Theory as the foundation of Mathematics?]] ~ Thorsten Altenkirch. #Logic #Math #TypeTheory #SetTheory
+
 *** 11-Nov-21
 + [[https://arxiv.org/abs/2111.05364][Towards tractable mathematical reasoning: Challenges, strategies, and opportunities for solving math word problems]]. ~ Keyur Faldu, Amit Sheth, Prashant Kikani, Manas Gaur, Aditi Avasthi. #AI #Math #MachineLearning
 
