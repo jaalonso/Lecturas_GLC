@@ -26,6 +26,10 @@ contenido.
 
 ** Noviembre de 2021
 
+*** 13-Nov-21
++ [[https://studenttheses.uu.nl/bitstream/handle/20.500.12932/201/Thesis_final.pdf][Conditional independence in functional probabilistic programming]]. ~ Wink van Zon. #MSc_Thesis #Haskell #FunctionalProgramming
++ [[https://lawrencecpaulson.github.io/2021/11/10/Axiom_of_Choice.html][The axiom of choice and descriptions]]. ~ Lawrence Paulson. #Logic #Math #IsabelleHOL
+
 *** 12-Nov-21
 + [[https://arxiv.org/abs/2111.06366][Answer set programming made easy]]. ~ Jorge Fandinno, Seemran Mishra, Javier Romero, Torsten Schaub. #LogicProgramming #ASP
 + [[https://arxiv.org/abs/2111.06368][Should Type Theory replace Set Theory as the foundation of Mathematics?]] ~ Thorsten Altenkirch. #Logic #Math #TypeTheory #SetTheory
