@@ -26,6 +26,10 @@ contenido.
 
 ** Noviembre de 2021
 
+*** 15-Nov-21
++ [[https://lawrencecpaulson.github.io//2021/11/17/Cauchy-Schwarz-example.html][An experiment: The Cauchy–Schwarz inequality]]. ~ Lawrence Paulson. #ITP #IsabelleHOL #Math
++ [[https://arxiv.org/abs/2111.06807][Verified optimization]]. ~ Alexander Bentkamp, Jeremy Avigad. #ITP #LeanProver #Math
+
 *** 14-Nov-21
 + [[https://drops.dagstuhl.de/opus/volltexte/2019/11086/pdf/LIPIcs-ITP-2019-31.pdf][Verified decision procedures for modal logics]]. ~ Minchao Wu, Rajeev Goré. #ITP #LeanProver #Logic
 + [[https://www.isa-afp.org/entries/PAL.html][Automating public announcement logic and the wise men puzzle in Isabelle/HOL]]. ~ Christoph Benzmüller, Sebastian Reiche. #ITP #IsabelleHOL
