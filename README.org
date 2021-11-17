@@ -26,6 +26,13 @@ contenido.
 
 ** Noviembre de 2021
 
+*** 16-Nov-21
++ [[https://project-archive.inf.ed.ac.uk/msc/20214838/msc_proj.pdf][A mechanized investigation of an axiomatic system for Minkowski spacetime]]. ~ Mathis Gerdes. #MSc_Thesis #ITP #IsabelleHOL
++ [[https://serras.github.io/haskell-exchange-2021/slide][A beginner's guide to Haskell and its ecosystem]]. ~ Alejandro Serrano (@trupill).s#1 #Haskell #FunctionalProgramming
++ [[http://ceur-ws.org/Vol-3002/paper7.pdf][A sequent calculus for first-order logic formalized in Isabelle/HOL]]. ~ Asta Halkjær From, Anders Schlichtkrull, Jørgen Villadsen. #ITP #IsabelleHOL #Logic
++ [[https://project-archive.inf.ed.ac.uk/ug4/20212543/ug4_proj.pdf][Exploring Euler’s differentials of trigonometric functions in Isabelle using nonstandard analysis]]. ~ Alice Johansen. #ITP #IsabelleHOL #Math
++ [[https://arxiv.org/abs/2105.14183][Verified quadratic virtual substitution for real arithmetic]]. ~ Matias Scharager, Katherine Cordwell, Stefan Mitsch, André Platzer. #ITP #IsabelleHOL #Logic #Math
+
 *** 15-Nov-21
 + [[https://lawrencecpaulson.github.io//2021/11/17/Cauchy-Schwarz-example.html][An experiment: The Cauchy–Schwarz inequality]]. ~ Lawrence Paulson. #ITP #IsabelleHOL #Math
 + [[https://arxiv.org/abs/2111.06807][Verified optimization]]. ~ Alexander Bentkamp, Jeremy Avigad. #ITP #LeanProver #Math
