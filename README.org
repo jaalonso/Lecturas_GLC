@@ -26,6 +26,11 @@ contenido.
 
 ** Noviembre de 2021
 
+*** 17-Nov-21
++ [[https://www.cs.umd.edu/~mwh/papers/Toward_A_Quantum_Programming_Language_for_Higher_Level_Formal_Verification.pdf][Toward a quantum programming language for higher-level formal verification]]. ~ Finn Voichick, Michael Hicks. #ITP #Coq #QuantumProgramming
++ [[https://byorgey.wordpress.com/2021/11/15/competitive-programming-in-haskell-enumeration/][Competitive programming in Haskell: Enumeration]]. ~ Brent Yorgey. #Haskell #FunctionalProgramming
++ [[https://arxiv.org/abs/2111.08171][Solving linear algebra by program synthesis]]. ~ Iddo Drori, Nakul Verma. #AI #MachineLearning #Math
+
 *** 16-Nov-21
 + [[https://project-archive.inf.ed.ac.uk/msc/20214838/msc_proj.pdf][A mechanized investigation of an axiomatic system for Minkowski spacetime]]. ~ Mathis Gerdes. #MSc_Thesis #ITP #IsabelleHOL
 + [[https://serras.github.io/haskell-exchange-2021/slide][A beginner's guide to Haskell and its ecosystem]]. ~ Alejandro Serrano (@trupill).s#1 #Haskell #FunctionalProgramming
