@@ -26,6 +26,11 @@ contenido.
 
 ** Noviembre de 2021
 
+*** 20-Nov-21
++ [[https://project-archive.inf.ed.ac.uk/msc/20215368/msc_proj.pdf][cryptolib: Security proofs in the Lean theorem prover]]. ~ Joey Lup. #MSc_Thesis #ITP #LeanProver
++ [[https://www.quantamagazine.org/amazing-math-bridge-extended-beyond-fermats-last-theorem-20200406/][‘Amazing’ Math bridge extended beyond Fermat’s Last Theorem]]. ~ Erica Klarreich. #Math
++ [[https://hal.inria.fr/hal-03429597/document][Modelling and proving safety in autonomous cars scenarios in HOL-CSP]]. ~ Burkhart Wolff, Safouan Taha. #ITP #IsabelleHOL
+
 *** 18-Nov-21
 + [[https://byorgey.wordpress.com/2021/11/17/competitive-programming-in-haskell-bfs-part-4-implementation-via-stuarray/][Competitive programming in Haskell: BFS, part 4 (implementation via STUArray)]]. ~ Brent Yorgey. #Haskell #FunctionalProgramming
 
