@@ -26,6 +26,11 @@ contenido.
 
 ** Noviembre de 2021
 
+*** 21-Nov-21
++ [[https://youtu.be/i2_LwOx3Ss4][Functional programming in Coq theorem prover - Lecture 1]]. ~ Mukesh Tiwari (@mukesh_tiwari). #ITP #Coq #FunctionalProgramming
++ [[https://youtu.be/mXl_msAaZrE][An introduction to Lean 4, a functional programming language]]. ~ Adolfo Neto (@adolfont). #ITP #LeanProver #FunctionalProgramming
++ [[https://youtu.be/BiH_A36zKwI][Programming with tactics]]. ~ Reed Mullanix. #Haskell #FunctionalProgramming
+
 *** 20-Nov-21
 + [[https://project-archive.inf.ed.ac.uk/msc/20215368/msc_proj.pdf][cryptolib: Security proofs in the Lean theorem prover]]. ~ Joey Lup. #MSc_Thesis #ITP #LeanProver
 + [[https://www.quantamagazine.org/amazing-math-bridge-extended-beyond-fermats-last-theorem-20200406/][‘Amazing’ Math bridge extended beyond Fermat’s Last Theorem]]. ~ Erica Klarreich. #Math
