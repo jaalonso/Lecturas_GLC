@@ -26,6 +26,12 @@ contenido.
 
 ** Noviembre de 2021
 
+*** 23-Nov-21
++ [[https://www.cantorsparadise.com/dijkstras-most-powerful-lessons-165bd5360237][Dijkstra’s most powerful lessons]]. ~ Eliran Turgema. #Dijkstra #CompSci
++ [[https://agentultra.github.io/lean-4-hackers/][Lean 4 Hackers]]. ~ J Kenneth King. #Lean4 #FunctionalProgramming
++ [[https://mmhaskell.com/blog/2021/11/22/ai-revisited-breaking-down-bfs][AI revisited: Breaking down BFS]]. ~ James Bowen (@james_OWA). #Haskell #FunctionalProgramming
++ [[https://leanprover-community.github.io/blog/posts/dedekind-domains-and-class-number-in-lean/][Dedekind domains and class number in Lean]]. ~ Anne Baanen. #ITP #LeanProver #Math
+
 *** 21-Nov-21
 + [[https://youtu.be/i2_LwOx3Ss4][Functional programming in Coq theorem prover - Lecture 1]]. ~ Mukesh Tiwari (@mukesh_tiwari). #ITP #Coq #FunctionalProgramming
 + [[https://youtu.be/mXl_msAaZrE][An introduction to Lean 4, a functional programming language]]. ~ Adolfo Neto (@adolfont). #ITP #LeanProver #FunctionalProgramming
