@@ -26,6 +26,13 @@ contenido.
 
 ** Noviembre de 2021
 
+*** 24-Nov-21
++ [[https://lawrencecpaulson.github.io/2021/11/24/Intuitionism.html][Intuitionism and constructive logic]]. ~ Lawrence Paulson. #Logic #Math #ITP #Coq #Agda
++ [[https://youtu.be/bwKFcLaeD1A][Entrevista com Leonardo de Moura (Microsoft Research)]]. #ITP #LeanProver #CompSci
++ [[http://ksjhandbook.org/wp-content/uploads/sites/5/2021/08/KSJ-Handbook-Spanish.pdf][Manual de edición científica por KSJ]].
++ [[http://ksjhandbook.org/wp-content/uploads/sites/5/2021/03/ksj-handbook-v1.6.pdf][KSJ Science Editing Handbook]].
++ [[https://batsov.com/articles/2021/11/24/emacs-is-a-lifestyle/][Emacs is a lifestyle]]. ~ Bozhidar Batsov (@bbatsov). #Emacs
+
 *** 23-Nov-21
 + [[https://www.cantorsparadise.com/dijkstras-most-powerful-lessons-165bd5360237][Dijkstra’s most powerful lessons]]. ~ Eliran Turgema. #Dijkstra #CompSci
 + [[https://agentultra.github.io/lean-4-hackers/][Lean 4 Hackers]]. ~ J Kenneth King. #Lean4 #FunctionalProgramming
