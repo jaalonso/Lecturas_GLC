@@ -26,6 +26,12 @@ contenido.
 
 ** Noviembre de 2021
 
+*** 25-Nov-21
++ [[https://www.isa-afp.org/browser_info/current/AFP/PAL/outline.pdf][Automating public announcement logic and the wise men puzzle in Isabelle/HOL]]. ~ Christoph Benzmüller, Sebastian Reichie. #ITP #IsabelleHOL
++ [[https://www.isa-afp.org/browser_info/current/AFP/Factor_Algebraic_Polynomial/document.pdf][Factorization of polynomials with algebraic coefficients (in Isabelle/HOL)]]. ~ Manuel Eberl, René Thiemann. #ITP #IsabelleHOL #Math
++ [[https://arxiv.org/abs/2111.12210][From Kepler to Newton: the role of explainable AI in science discovery]]. ~ Zelong Li, Jianchao Ji, Yongfeng Zhang. #AI #XAI
++ [[https://arxiv.org/abs/2111.12274][Formalization of bond graph using higher-order-logic theorem proving]]. ~ Ujala Qasim, Adnan Rashid, Osman Hasan. #ITP #HOL_Light
+
 *** 24-Nov-21
 + [[https://lawrencecpaulson.github.io/2021/11/24/Intuitionism.html][Intuitionism and constructive logic]]. ~ Lawrence Paulson. #Logic #Math #ITP #Coq #Agda
 + [[https://youtu.be/bwKFcLaeD1A][Entrevista com Leonardo de Moura (Microsoft Research)]]. #ITP #LeanProver #CompSci
