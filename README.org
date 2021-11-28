@@ -26,6 +26,13 @@ contenido.
 
 ** Noviembre de 2021
 
+*** 27-Nov-21
++ [[https://www.diva-portal.org/smash/get/diva2:1613286/FULLTEXT01.pdf][Simple formally verified compiler in Lean]]. ~ Leo Okawa Ericson. #ITP #LeanProver
++ [[http://lcs.ios.ac.cn/fm2021/recordings/fm_tea/J%C3%B8rgen.mp4][Using Isabelle in two courses on logic and automated reasoning]]. ~ Jørgen Villadsen, Frederik Krogsdal Jacobsen. #ITP #IsabelleHOL #Logic #ATP
++ [[http://lcs.ios.ac.cn/fm2021/recordings/fm_tea/Avigad.mp4][Teaching logic and mechanized reasoning with Lean 4 [Video]]]. ~ Jeremy Avigad. #ITP #LeanProver #Logic
++ [[http://lcs.ios.ac.cn/fm2021/recordings/fm_tea/Tobias.mp4][Teaching algorithms and data structures with a proof assistant [Video]]]. ~ Tobias Nipkow. #ITP #IsabelleHOL #Algorithms
++ [[https://mat.unb.br/lsfa2021/pages/lsfa2021_proceedings/LSFA_2021_paper_5.pdf][SeCaV: A sequent calculus verifier in Isabelle/HOL]]. ~ AH From, FK Jacobsen, J Villadsen. #ITP #IsabelleHOL #Logic
+
 *** 26-Nov-21
 + [[https://www.isa-afp.org/browser_info/current/AFP/Van_Emde_Boas_Trees/document.pdf][van Emde Boas trees (in Isabelle/HOL)]]. ~ Thomas Ammer, Peter Lammich. #ITP #IsabelleHOL #Algorithms
 + [[https://www.isa-afp.org/browser_info/current/AFP/SimplifiedOntologicalArgument/document.pdf][Exploring simplified variants of Gödel’s ontological argument in Isabelle/HOL]]. ~ Christoph Benzmüller. #ITP #IsabelleHOL
