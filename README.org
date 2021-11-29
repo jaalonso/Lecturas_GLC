@@ -26,6 +26,10 @@ contenido.
 
 ** Noviembre de 2021
 
+*** 28-Nov-21
++ [[https://arxiv.org/abs/2111.11144v1][A complete axiom system for 1-free Kleene star expressions under bisimilarity: An elementary proof]]. ~ Allan van Hulst. #ITP #Coq
++ [[https://bora.uib.no/bora-xmlui/bitstream/handle/11250/2830640/archive.pdf?sequence=1&isAllowed=y][Coherence for monoidal and symmetric monoidal groupoids in Homotopy Type Theory]]. ~ Stefano Piceghello. #PhD_Thesis #ITP #Coq #HoTT
+
 *** 27-Nov-21
 + [[https://www.diva-portal.org/smash/get/diva2:1613286/FULLTEXT01.pdf][Simple formally verified compiler in Lean]]. ~ Leo Okawa Ericson. #ITP #LeanProver
 + [[http://lcs.ios.ac.cn/fm2021/recordings/fm_tea/J%C3%B8rgen.mp4][Using Isabelle in two courses on logic and automated reasoning]]. ~ Jørgen Villadsen, Frederik Krogsdal Jacobsen. #ITP #IsabelleHOL #Logic #ATP
