@@ -26,6 +26,10 @@ contenido.
 
 ** Noviembre de 2021
 
+*** 30-Nov-21
++ [[https://people.csail.mit.edu/cpitcla/thesis/relational-compilation.html][On relational compilation]]. ~ Clément Pit-Claudel (@cpitclaudel). #ITP #Coq
++ [[https://mmhaskell.com/blog/2021/11/29/see-and-believe-visualizing-with-gloss][See and believe: Visualizing with Gloss]]. ~ James Bowen (@james_OWA). #Haskell #FunctionalProgramming
+
 *** 28-Nov-21
 + [[https://arxiv.org/abs/2111.11144v1][A complete axiom system for 1-free Kleene star expressions under bisimilarity: An elementary proof]]. ~ Allan van Hulst. #ITP #Coq
 + [[https://bora.uib.no/bora-xmlui/bitstream/handle/11250/2830640/archive.pdf?sequence=1&isAllowed=y][Coherence for monoidal and symmetric monoidal groupoids in Homotopy Type Theory]]. ~ Stefano Piceghello. #PhD_Thesis #ITP #Coq #HoTT
