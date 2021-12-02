@@ -9,6 +9,7 @@ contenido.
 
 * Contenido                                                             :TOC:
 - [[#lecturas-del-año-2021][Lecturas del año 2021]]
+  - [[#diciembre-de-2021][Diciembre de 2021]]
   - [[#noviembre-de-2021][Noviembre de 2021]]
   - [[#octubre-de-2021][Octubre de 2021]]
   - [[#septiembre-de-2021][Septiembre de 2021]]
@@ -23,6 +24,17 @@ contenido.
 - [[#lecturas-anteriores][Lecturas anteriores]]
 
 * Lecturas del año 2021
+
+** Diciembre de 2021
+
+*** 01-Dic-21
++ [[https://homotopytypetheory.org/2021/12/01/the-hott-game/][The HoTT Game]]. ~ Joseph Hua. #HoTT #ITP #Agda
++ [[https://nyeogmi.com/2021/11/30/assessing-haskell/][Assessing Haskell]]. ~ @nyeogmi. #Haskell #FunctionalProgramming
++ [[https://www.nature.com/articles/d41586-021-03512-4][Artificial intelligence aids intuition in mathematical discovery]]. ~ Christian Stump. #AI #Math
++ [[https://dl.acm.org/ft_gateway.cfm?id=2617811&ftid=1457525&dwn=1][Domain-specific languages and code synthesis using Haskell]]. ~ Andy Gill. #Haskell #FunctionalProgramming
++ [[https://www.parsonsmatt.org/2021/11/30/rank_n_types_via_lambda_calculus.html][RankNTypes via lambda calculus]]. ~ Matt Parsons (@mattoflambda). #Haskell #FunctionalProgramming
+
+
 
 ** Noviembre de 2021
 
