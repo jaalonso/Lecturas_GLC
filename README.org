@@ -27,6 +27,13 @@ contenido.
 
 ** Diciembre de 2021
 
+*** 02-Dic-21
++ [[https://www.ma.imperial.ac.uk/~buzzard/xena/pdfs/ICMtalkv0.pdf][What is the point of computers? A question for pure mathematicians]]. ~ Kevin Buzzard. #ITP LeanProver #Math
++ [[https://wkrozowski.github.io/files/icfp21src-paper1.pdf][Formally verified derivation of an executable and terminating CEK machine from call-by-value calculus]]. ~ Wojciech Rozowski. #ITP #Agda
++ [[https://youtu.be/IdMwDLmwzT4][Haskelling the Advent of Code 2021 - Day 0]]. #Haskell #FunctionalProgramming
++ [[https://youtu.be/-Ywc__h5_yw][Haskelling the Advent of Code 2021 - Day 1]]. #Haskell #FunctionalProgramming
++ [[https://graspablemath.com/][Graspable math activities: Assign algebra tasks to your students and see live feedback of their step-by-step work]]. Discover, create, and share engaging math activities for 4th to 12th graders. #Math
+
 *** 01-Dic-21
 + [[https://homotopytypetheory.org/2021/12/01/the-hott-game/][The HoTT Game]]. ~ Joseph Hua. #HoTT #ITP #Agda
 + [[https://nyeogmi.com/2021/11/30/assessing-haskell/][Assessing Haskell]]. ~ @nyeogmi. #Haskell #FunctionalProgramming
