@@ -27,6 +27,14 @@ contenido.
 
 ** Diciembre de 2021
 
+*** 04-Dic-21
++ [[https://drops.dagstuhl.de/opus/volltexte/2021/15427/pdf/OASIcs-FMBC-2021-3.pdf][Using Coq to enforce the checks-effects-interactions pattern in DeepSEA smart contracts]]. ~ D. Britten, V. Sjöberg, S. Reeves. #ITP #Coq
++ [[https://arxiv.org/abs/2111.14736v1][Formalization of dependent type theory: The example of CaTT]]. ~ Thibaut Benjamin. #ITP #Agda
++ [[https://arxiv.org/abs/1804.00596][TacticToe: Learning to prove with tactics]]. ~ Thibault Gauthier, Cezary Kaliszyk, Josef Urban, Ramana Kumar, Michael Norrish. #ITP #HOL4 #MachineLearning
++ [[https://serokell.io/blog/whats-that-typeclass-foldable][What’s that Typeclass: Foldable]]. ~ Alyona Antonova. #Haskell #FunctionalProgrammiang
++ [[https://javaplt.github.io/haskell-course/][A 7 lecture Haskell Crash Course]]. #Haskell #FunctionalProgramming
++ [[https://www.newscientist.com/people/muhammad-ibn-musa-al-khwarizmi/][Muḥammad ibn Mūsā al-Khwārizmī]]. ~ Chris Simms. #Math #CompSci
+
 *** 02-Dic-21
 + [[https://www.ma.imperial.ac.uk/~buzzard/xena/pdfs/ICMtalkv0.pdf][What is the point of computers? A question for pure mathematicians]]. ~ Kevin Buzzard. #ITP LeanProver #Math
 + [[https://wkrozowski.github.io/files/icfp21src-paper1.pdf][Formally verified derivation of an executable and terminating CEK machine from call-by-value calculus]]. ~ Wojciech Rozowski. #ITP #Agda
