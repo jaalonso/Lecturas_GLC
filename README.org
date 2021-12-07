@@ -27,6 +27,14 @@ contenido.
 
 ** Diciembre de 2021
 
+*** 06-Dic-21
++ [[https://www.imo.universite-paris-saclay.fr/~pmassot/files/exposition/why_formalize.pdf][Why formalize mathematics? ~ Patrick Massot]]. #ITP #LeanProver #Math
++ [[https://mmhaskell.com/blog/2021/12/6/from-world-to-environment-open-ai-gym-primer][From World to Environment: Open AI Gym Primer]]. ~ James Bowen (@james_OWA). #Haskell #FunctionalProgramming #AI
+
+*** 05-Dic-21
++ [[https://youtu.be/fOKfk9Bup_o][Functional programming in Coq theorem prover: Lecture 2]]. ~ Mukesh Tiwari (@mukesh_tiwari). #ITP #Coq #FunctionalProgramming
++ [[https://hugopeters.me/posts/13/][Demystifying the state monad]]. ~ Hugo Peters. #Haskell #FunctionalProgramming
+
 *** 04-Dic-21
 + [[https://drops.dagstuhl.de/opus/volltexte/2021/15427/pdf/OASIcs-FMBC-2021-3.pdf][Using Coq to enforce the checks-effects-interactions pattern in DeepSEA smart contracts]]. ~ D. Britten, V. Sjöberg, S. Reeves. #ITP #Coq
 + [[https://arxiv.org/abs/2111.14736v1][Formalization of dependent type theory: The example of CaTT]]. ~ Thibaut Benjamin. #ITP #Agda
