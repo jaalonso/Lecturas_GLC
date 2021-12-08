@@ -27,6 +27,15 @@ contenido.
 
 ** Diciembre de 2021
 
+*** 07-Dic-21
++ [[https://lawrencecpaulson.github.io//2021/12/08/ALEXANDRIA.html][ALEXANDRIA: Large-scale formal proof for the working mathematician]]. ~ Lawrence Paulson. #ITP #IsabelleHOL #Coq #LeanProver
++ [[https://link.springer.com/book/10.1007/978-3-030-87882-5][Fundamentals of logic and computation (With practical automated reasoning and verification)]]. Zhe Hou. #eBook #Logic #CompSci #ITP #IsabelleHOL
++ [[https://link.springer.com/chapter/10.1007/978-3-030-92124-8_2][Validating safety arguments with Lean]]. ~ Logan Murphy, Torin Viger, Alessio Dia Sandro, Ramy Shahin, Marsha Chechik. #ITP #LeanProver
++ [[https://leanprover-community.github.io/blog][This month in mathlib (Nov 2021)]]./#ITP #LeanProver #MahLib
++ [[http://nachivpn.me/nfmc.pdf][Normalization for Fitch-style modal calculi]]. ~ Nachiappan Valliappan , Fabian Ruch, Carlos Tomé Cortiñas. #ITP #Agda
++ [[http://funes.uniandes.edu.co/8476/1/Lockhart2008El.pdf][El lamento de un matemático]]. ~ Paul Lockhart. #Matemática #AI #MachineLearning #Math
++ [[http://discrete.openmathbooks.org/dmoi3.html][Discrete mathematics (An open introduction, 3rd edition)]]. ~ Oscar Levin. #eBook #Math
+
 *** 06-Dic-21
 + [[https://www.imo.universite-paris-saclay.fr/~pmassot/files/exposition/why_formalize.pdf][Why formalize mathematics? ~ Patrick Massot]]. #ITP #LeanProver #Math
 + [[https://mmhaskell.com/blog/2021/12/6/from-world-to-environment-open-ai-gym-primer][From World to Environment: Open AI Gym Primer]]. ~ James Bowen (@james_OWA). #Haskell #FunctionalProgramming #AI
