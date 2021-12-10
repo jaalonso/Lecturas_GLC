@@ -27,6 +27,10 @@ contenido.
 
 ** Diciembre de 2021
 
+*** 09-Dic-21
++ [[https://cs.famaf.unc.edu.ar/~pedro/forcing/][Formalization of forcing in set theory]]. ~ Emmanuel Gunther, Miguel Pagano, Pedro Sánchez Terraf, Matías Steinberg. #ITP #IsabelleZF #Logic #Math #SetTheory
++ [[https://www.tweag.io/blog/2021-12-09-tcplugins-2/][Type-checking plugins, Part II: GHC's constraint solver]]. ~ Sam Derbyshire. #Haskell #FunctionalProgramming
+
 *** 07-Dic-21
 + [[https://lawrencecpaulson.github.io//2021/12/08/ALEXANDRIA.html][ALEXANDRIA: Large-scale formal proof for the working mathematician]]. ~ Lawrence Paulson. #ITP #IsabelleHOL #Coq #LeanProver
 + [[https://link.springer.com/book/10.1007/978-3-030-87882-5][Fundamentals of logic and computation (With practical automated reasoning and verification)]]. Zhe Hou. #eBook #Logic #CompSci #ITP #IsabelleHOL
