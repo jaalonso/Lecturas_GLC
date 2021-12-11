@@ -27,6 +27,12 @@ contenido.
 
 ** Diciembre de 2021
 
+*** 10-Dic-21
++ [[https://arxiv.org/abs/2112.04570a][Formalising Lie algebras]]. ~ Oliver Nash. #ITP #LeanProver #Math
++ [[https://arxiv.org/abs/2104.05256][A Coq formalization of Lebesgue integration of nonnegative functions]]. ~ Sylvie Boldo, François Clément, Florian Faissole, Vincent Martin, Micaela Mayero. #ITP #Coq #Math
++ [[https://gitlab.com/ana-borges/QRC1-Coq/-/blob/ProofSociety/docs/slides/202112_ProofSocietyWorkshop/QRC1-Coq.pdf][QRC1 in Coq (Formalizing a quantified modal logic)]]. ~ Ana de Almeida Borges. #ITP #Coq #Logic
++ [[https://vitez.me/hts-language][Haskell’s type system standing alone]]. ~ Vitez. #Haskell #FunctionalProgramming
+
 *** 09-Dic-21
 + [[https://cs.famaf.unc.edu.ar/~pedro/forcing/][Formalization of forcing in set theory]]. ~ Emmanuel Gunther, Miguel Pagano, Pedro Sánchez Terraf, Matías Steinberg. #ITP #IsabelleZF #Logic #Math #SetTheory
 + [[https://www.tweag.io/blog/2021-12-09-tcplugins-2/][Type-checking plugins, Part II: GHC's constraint solver]]. ~ Sam Derbyshire. #Haskell #FunctionalProgramming
