@@ -27,6 +27,11 @@ contenido.
 
 ** Diciembre de 2021
 
+*** 11-Dic-21
++ [[https://hal.inria.fr/hal-03466807][Certified abstract machines for skeletal semantics]]. ~ Guillaume Ambal, Sergueï Lenglet, Alan Schmitt. #ITP #Coq #OCaml #FunctionalProgramming
++ [[https://leanprover-community.github.io/blog/posts/semilinear-maps/][Semilinear maps (in Lean)]]. ~ Frédéric Dupuis. #ITP #LeanProver #Math
++ [[https://arxiv.org/abs/2112.03653v1][A specification for typed template Haskell]]. ~ Matthew Pickering, Andres Löh, Nicolas Wu. #Haskell #FunctionalProgramming
+
 *** 10-Dic-21
 + [[https://arxiv.org/abs/2112.04570a][Formalising Lie algebras]]. ~ Oliver Nash. #ITP #LeanProver #Math
 + [[https://arxiv.org/abs/2104.05256][A Coq formalization of Lebesgue integration of nonnegative functions]]. ~ Sylvie Boldo, François Clément, Florian Faissole, Vincent Martin, Micaela Mayero. #ITP #Coq #Math
