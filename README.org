@@ -27,6 +27,13 @@ contenido.
 
 ** Diciembre de 2021
 
+*** 13-Dic-21
++ [[https://www.isa-afp.org/entries/Foundation_of_geometry.html][Foundation of geometry in planes, and some complements: Excluding the parallel axioms (in Isabelle/HOL)]]. ~ Fumiya Iwama. #ITP #IsabelleHOL #Math
++ [[https://arxiv.org/abs/2112.05715][Formalizing higher-order termination in Coq]]. ~ Deivid Vale, Niels van der Weide. #ITP #Coq
++ [[https://www.isa-afp.org/entries/Simplicial_complexes_and_boolean_functions.html][Simplicial complexes and boolean functions (in Isabelle/HOL)]]. ~ Jesús Aransay, Alejandro del Campo, Julius Michaelis. #ITP #IsabelleHOL #Math
++ [[https://arxiv.org/abs/2112.02142][An impossible asylum]]. ~ Jeremy Avigad, Seulkee Baek, Alexander Bentkamp, Marijn Heule, Wojciech Nawrocki. #ATP #Vampire #Logic
++ [[https://cuddly-octo-palm-tree.com/posts/2021-12-05-sieve/]["The genuine sieve of Eratosthenes" in Clojure]]. ~ Gary Verhaegen. #Clojure #FunctionalProgramming
+
 *** 11-Dic-21
 + [[https://hal.inria.fr/hal-03466807][Certified abstract machines for skeletal semantics]]. ~ Guillaume Ambal, Sergueï Lenglet, Alan Schmitt. #ITP #Coq #OCaml #FunctionalProgramming
 + [[https://leanprover-community.github.io/blog/posts/semilinear-maps/][Semilinear maps (in Lean)]]. ~ Frédéric Dupuis. #ITP #LeanProver #Math
