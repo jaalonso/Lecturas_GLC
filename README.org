@@ -27,6 +27,14 @@ contenido.
 
 ** Diciembre de 2021
 
+*** 14-Dic-21
++ [[https://github.com/leanprover-community/mathlib/blob/10fb7f91a2718c641ad4b95b180d515e943ad639/archive/imo/imo2005_q4.lean][Formalization in Lean of IMO 2005 Q4]]. ~ Heather Macbeth. #ITP #LeanProver #Math #IMO
++ [[https://www.isa-afp.org/entries/CoSMed.html][CoSMed: A confidentiality-verified social media platform (in Isabelle/HOL)]]. ~ Thomas Bauereiss, Andrei Popescu. #ITP #IsabelleHOL
++ [[https://arxiv.org/abs/2112.05996][Formalising the foundations of discrete reinforcement learning in Isabelle/HOL]]. ~ Mark Chevallier, Jacques Fleuriot. #ITP #IsabelleHOL #MachineLearning #AI
++ [[https://iris-project.org/pdfs/2022-cpp-folly-queue.pdf][Mechanized verification of a fine-grained concurrent queue from Meta's Folly Library]]. ~ S.F. Vindum, D Frumin, L Birkedal. #ITP #Coq
++ [[https://lawrencecpaulson.github.io//2021/12/15/Incompleteness.html][Do Gödel's incompleteness theorems matter?]]. ~ Lawrence Paulson #Logic #Math #ITP
++ [[https://mmhaskell.com/blog/2021/12/13/implementation-creating-a-maze-environment][Implementation: Creating a maze environment]]. ~ James Bowen (@james_OWA). #Haskell #FunctionalProgramming #Gloss
+
 *** 13-Dic-21
 + [[https://www.isa-afp.org/entries/Foundation_of_geometry.html][Foundation of geometry in planes, and some complements: Excluding the parallel axioms (in Isabelle/HOL)]]. ~ Fumiya Iwama. #ITP #IsabelleHOL #Math
 + [[https://arxiv.org/abs/2112.05715][Formalizing higher-order termination in Coq]]. ~ Deivid Vale, Niels van der Weide. #ITP #Coq
