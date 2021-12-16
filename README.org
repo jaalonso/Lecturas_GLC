@@ -27,6 +27,10 @@ contenido.
 
 ** Diciembre de 2021
 
+*** 15-Dic-21
++ [[https://arxiv.org/abs/2006.04399][Completeness theorems for first-order logic analysed in constructive type theory]]. ~ Yannick Forster, Dominik Kirst, Dominik Wehr. #ITP #Coq #Logic
++ [[https://www.gaussianos.com/como-factorizo-euler-f5/][Cómo factorizó Euler F5]]. ~ M.A. Morales (@gaussianos). #Matemáticas
+
 *** 14-Dic-21
 + [[https://github.com/leanprover-community/mathlib/blob/10fb7f91a2718c641ad4b95b180d515e943ad639/archive/imo/imo2005_q4.lean][Formalization in Lean of IMO 2005 Q4]]. ~ Heather Macbeth. #ITP #LeanProver #Math #IMO
 + [[https://www.isa-afp.org/entries/CoSMed.html][CoSMed: A confidentiality-verified social media platform (in Isabelle/HOL)]]. ~ Thomas Bauereiss, Andrei Popescu. #ITP #IsabelleHOL
