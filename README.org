@@ -27,6 +27,12 @@ contenido.
 
 ** Diciembre de 2021
 
+*** 16-Dic-21
++ [[https://www.glc.us.es/~jalonso/vestigium/materiales-para-la-ensenanza-de-la-programacion-funcional-con-haskell/][Materiales para el estudio de la programación funcional con Haskell]]. #Haskell #ProgramaciónFuncional
++ [[https://www.cs.us.es/~jalonso/publicaciones/2002-ded-automatica-1.pdf][Deducción automática (Vol. 1: Construcción lógica de sistemas lógicos)]]. ~ José A. Alonso y Joaquín Borrego. ~ #Prolog #ProgramaciónLógica #Lógica #DAT
++ [[https://blog.oxij.org/2011/12/22/howto-get-started-with-agda/][HOWTO: Get started with Agda]]. ~ Jan Malakhovski. #Agda #FunctionalProgramming
++ [[https://blog.oxij.org/2012/01/16/the-decent-way-to-learn-functional-programming/][The decent way to learn functional programming]]. ~ Jan Malakhovski. #FunctionalProgramming #Haskell #Agda
+
 *** 15-Dic-21
 + [[https://arxiv.org/abs/2006.04399][Completeness theorems for first-order logic analysed in constructive type theory]]. ~ Yannick Forster, Dominik Kirst, Dominik Wehr. #ITP #Coq #Logic
 + [[https://www.gaussianos.com/como-factorizo-euler-f5/][Cómo factorizó Euler F5]]. ~ M.A. Morales (@gaussianos). #Matemáticas
