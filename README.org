@@ -27,6 +27,15 @@ contenido.
 
 ** Diciembre de 2021
 
+*** 17-Dic-21
++ [[https://arxiv.org/abs/2112.05515][Semantic cut elimination for the logic of bunched implications, formalized in Coq]]. ~ Dan Frumin. #ITP #Coq
++ [[https://cs.uwaterloo.ca/sites/ca.computer-science/files/uploads/files/cs-2021-02.pdf][Semantics and contextual equivalence for probabilistic programs with nested queries and recursion]]. ~ Yizhou Zhang, Nada Amin. #ITP #Coq
++ [[https://leanprover-community.github.io/blog/posts/backstage-with-dillies/][Johan Commelin interviews Yaël Dillies]]. #ITP #LeanProver #MathLib
++ [[https://well-typed.com/blog/2021/12/type-level-sharing-now/][Type-level sharing in Haskell, now]]. ~ Edsko de Vries, Andres Löh, Adam Gundry, Sam Derbyshire. #Haskell #FunctionalProgramming
++ [[https://roganmurley.com/2021/12/11/free-monads.html][Game rules with a Free Monad DSL]]. ~ Rogan Murley (@RoganMurley). #Haskell #FunctionalProgramming
++ [[https://free.cofree.io/2021/12/13/space-leak/][Understanding space leaks from StateT]]. ~  Ziyang Liu. #Haskell #FunctionalProgramming
++ [[https://typeable.io/blog/2021-12-13-haskell-usage][Do you know where Haskell is used? (Examples of how Haskell is used in different industries)]]. ~ Catherine Galkina. #Haskell #FunctionalProgramming
+
 *** 16-Dic-21
 + [[https://www.glc.us.es/~jalonso/vestigium/materiales-para-la-ensenanza-de-la-programacion-funcional-con-haskell/][Materiales para el estudio de la programación funcional con Haskell]]. #Haskell #ProgramaciónFuncional
 + [[https://www.cs.us.es/~jalonso/publicaciones/2002-ded-automatica-1.pdf][Deducción automática (Vol. 1: Construcción lógica de sistemas lógicos)]]. ~ José A. Alonso y Joaquín Borrego. ~ #Prolog #ProgramaciónLógica #Lógica #DAT
