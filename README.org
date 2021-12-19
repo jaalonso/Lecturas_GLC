@@ -27,6 +27,15 @@ contenido.
 
 ** Diciembre de 2021
 
+*** 18-Dic-21
++ [[https://github.com/GeoCoq/GeoCoq][GeoCoq: A formalization of geometry in Coq]]. ~  Julien Narboux (@jnarboux). #ITP #Coq #Math
++ [[https://arxiv.org/abs/2112.06700][Verified compilation of quantum oracles]]. ~ Liyi Li, Finnegan Voichick, Kesha Hietala, Yuxiang Peng, Xiaodi Wu, Michael Hicks. #ITP #Coq
++ [[https://arxiv.org/abs/2112.07292][Verifying a minimalist reverse-mode AD library]]. ~ Paulo Emílio de Vilhena, François Pottier. #ITP #Coq
++ [[https://arxiv.org/abs/2112.06633][On planarity of graphs in homotopy type theory]]. ~ Jonathan Prieto-Cubides, Håkon Robbestad Gylterud. #ITP #Agda #HoTT #Math
++ [[https://cacm.acm.org/magazines/2022/1/257448-fifty-years-of-p-vs-np-and-the-possibility-of-the-impossible/fulltext][Fifty years of P vs. NP and the possibility of the impossible]]. ~ Lance Fortnow. #CompSci
++ [[https://cacm.acm.org/magazines/2022/1/257445-declarative-machine-learning-systems/fulltext][Declarative machine learning systems]]. ~ Piero Molino, Christopher Ré. #MachineLearning #AI
++ [[https://cacm.acm.org/magazines/2022/1/257432-will-ai-destroy-education/fulltext][Will AI destroy education?]] ~ Moshe Y. Vardi. #AI #Education
+
 *** 17-Dic-21
 + [[https://arxiv.org/abs/2112.05515][Semantic cut elimination for the logic of bunched implications, formalized in Coq]]. ~ Dan Frumin. #ITP #Coq
 + [[https://cs.uwaterloo.ca/sites/ca.computer-science/files/uploads/files/cs-2021-02.pdf][Semantics and contextual equivalence for probabilistic programs with nested queries and recursion]]. ~ Yizhou Zhang, Nada Amin. #ITP #Coq
