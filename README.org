@@ -27,6 +27,12 @@ contenido.
 
 ** Diciembre de 2021
 
+*** 19-Dic-21
++ [[https://arxiv.org/abs/2112.06039][CertiStr: A certified string solver (technical report)]]. ~ Shuanglong Kan, Anthony W. Lin, Philipp Rümmer, Micha Schrader. #ITP #IsabelleHOL
++ [[https://github.com/Karnaj/sttfa_geocoq_euclid][Formalization of Euclid's elements book 1 in Dedukti]]. ~ Karnaj. #Math #ITP #Dedukti #Coq, #HOL_Light, #Lean, #Matita, #OpenTheory #PVS
++ [[https://arxiv.org/abs/2112.06609][On homotopy of walks and spherical maps in homotopy type theory]]. ~ Jonathan Prieto-Cubides. #ITP #Agda #HoTT #Math
++ [[http://home.in.tum.de/~mansour/cv-and-website/papers/verifiedTemproalValidator.pdf][Formal semantics and formally verified validation for temporal planning]]. ~ M. Abdulaziz, L. Koller. #ITP #IsabelleHOL
+
 *** 18-Dic-21
 + [[https://github.com/GeoCoq/GeoCoq][GeoCoq: A formalization of geometry in Coq]]. ~  Julien Narboux (@jnarboux). #ITP #Coq #Math
 + [[https://arxiv.org/abs/2112.06700][Verified compilation of quantum oracles]]. ~ Liyi Li, Finnegan Voichick, Kesha Hietala, Yuxiang Peng, Xiaodi Wu, Michael Hicks. #ITP #Coq
