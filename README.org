@@ -27,6 +27,9 @@ contenido.
 
 ** Diciembre de 2021
 
+*** 20-Dic-21
++ [[https://youtu.be/6oet8OCZp9Q][Functional programming in Coq theorem prover (Lecture 3: induction on natural numbers)]]. ~ Mukesh Tiwari (@mukesh_tiwari). #ITP #Coq
+
 *** 19-Dic-21
 + [[https://arxiv.org/abs/2112.06039][CertiStr: A certified string solver (technical report)]]. ~ Shuanglong Kan, Anthony W. Lin, Philipp Rümmer, Micha Schrader. #ITP #IsabelleHOL
 + [[https://github.com/Karnaj/sttfa_geocoq_euclid][Formalization of Euclid's elements book 1 in Dedukti]]. ~ Karnaj. #Math #ITP #Dedukti #Coq, #HOL_Light, #Lean, #Matita, #OpenTheory #PVS
