@@ -27,6 +27,13 @@ contenido.
 
 ** Diciembre de 2021
 
+*** 21-Dic-21
++ [[https://www.ps.uni-saarland.de/extras/iel/][Constructive and mechanised meta-theory of intuitionistic epistemic logic]]. ~ Christian Hagemeier, Dominik Kirst. #ITP #Coq #Logic
++ [[https://hal.archives-ouvertes.fr/hal-03482567/document][Accurate calculation of euclidean norms using double-word arithmetic]]. ~ Vincent Lefèvre, Nicolas Louvet, Jean-Michel Muller, Joris Picot, Laurence Rideau. #ITP #Coq
++ [[https://odr.chalmers.se/bitstream/20.500.12380/304406/1/CSE%2021-161%20Qufei.pdf][A Haskell implementation for a dependent type theory with definitions]]. ~ Qufei Wang. #MSc_Thesis #Haskell #FunctionalProgramming
++ [[https://www.lrde.epita.fr/~didier/lectures/afp/afp_01_tutorials.en.pdf][Functional approaches to programming (Lisp / Haskell: the diff tutorial)]]. ~ Didier Verna (@didierverna). #Lisp #Haskell #FunctionalProgramming
++ [[https://mmhaskell.com/blog/2021/12/20/learning-to-navigate-the-maze][Learning to navigate the maze!]] ~ James Bowen (@james_OWA). #Haskell #FunctionalProgramming
+
 *** 20-Dic-21
 + [[https://youtu.be/6oet8OCZp9Q][Functional programming in Coq theorem prover (Lecture 3: induction on natural numbers)]]. ~ Mukesh Tiwari (@mukesh_tiwari). #ITP #Coq
 
