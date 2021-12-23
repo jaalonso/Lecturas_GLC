@@ -27,6 +27,9 @@ contenido.
 
 ** Diciembre de 2021
 
+*** 22-Dic-21
++ [[https://arxiv.org/abs/2112.11182][A machine-checked direct proof of the Steiner-Lehmus theorem]]. ~ Ariel Kellison. #ITP #Nuprl #Math
+
 *** 21-Dic-21
 + [[https://www.ps.uni-saarland.de/extras/iel/][Constructive and mechanised meta-theory of intuitionistic epistemic logic]]. ~ Christian Hagemeier, Dominik Kirst. #ITP #Coq #Logic
 + [[https://hal.archives-ouvertes.fr/hal-03482567/document][Accurate calculation of euclidean norms using double-word arithmetic]]. ~ Vincent Lefèvre, Nicolas Louvet, Jean-Michel Muller, Joris Picot, Laurence Rideau. #ITP #Coq
