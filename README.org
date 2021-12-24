@@ -27,6 +27,10 @@ contenido.
 
 ** Diciembre de 2021
 
+*** 23-Dic-21
++ [[https://lawrencecpaulson.github.io//2021/12/22/MVT-example.html][Readability in proofs: the mean value theorem (in Isabelle/HOL)]]. ~ Lawrence Paulson. #ITP #IsabelleHOL #Math
++ [[https://europroofnet.github.io/groups/][Research groups working on formal proofs in Europe]]. #FormalMethods #ITP
+
 *** 22-Dic-21
 + [[https://arxiv.org/abs/2112.11182][A machine-checked direct proof of the Steiner-Lehmus theorem]]. ~ Ariel Kellison. #ITP #Nuprl #Math
 
