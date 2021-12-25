@@ -27,6 +27,12 @@ contenido.
 
 ** Diciembre de 2021
 
+*** 24-Dic-21
++ [[https://arxiv.org/abs/2112.12758v1][A manifesto for applicable formal methods]]. ~ Mario Gleirscher, Jaco van de Pol, Jim Woodcock. #FormalMethods
++ [[https://felixspringer.xyz/homepage/blog/composingTransformers][Composing transformers: ~ Felix Springer]]. #Haskell #FunctionalProgramming
++ [[https://serokell.io/blog/parser-combinators-in-haskell][Parser combinators in Haskell]]. ~ Heitor Toledo Lassarote de Paula. #Haskell #FunctionalProgramming
++ [[https://www.quantamagazine.org/the-year-in-math-and-computer-science-20211223/][The year in math and computer science]]. ~ Bill Andrews. #Math CompSci
+
 *** 23-Dic-21
 + [[https://lawrencecpaulson.github.io//2021/12/22/MVT-example.html][Readability in proofs: the mean value theorem (in Isabelle/HOL)]]. ~ Lawrence Paulson. #ITP #IsabelleHOL #Math
 + [[https://europroofnet.github.io/groups/][Research groups working on formal proofs in Europe]]. #FormalMethods #ITP
