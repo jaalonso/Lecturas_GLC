@@ -27,6 +27,14 @@ contenido.
 
 ** Diciembre de 2021
 
+*** 25-Dic-21
++ [[https://anjapetkovic.com/img/doctoralThesis.pdf][Meta-analysis of type theories with an application to the design of formal proofs]]. ~ Anja Petković Komel (Adviser: Andrej Bauer). #PhD_Thesis #TypeTheory #ITP
++ [[https://www.ps.uni-saarland.de/~peters/resources/memo.pdf][A computational and abstract approach to Gödel's first incompleteness theorem]]. ~ Benjamin Peters. #Logic #Math
++ [[https://www.ps.uni-saarland.de/extras/axiomatisations/][Synthetic undecidability and incompleteness of first-order axiom systems in Coq]]. ~ Dominik Kirst, Marc Hermes. #ITP #Coq #Logic #Math
++ [[https://hal.inria.fr/hal-03499968/document][CertiCAN: Certifying CAN analyses and their results]]. ~ Pascal Fradet, Xiaojie Guo, Sophie Quinton. #ITP #Coq
++ [[https://arxiv.org/abs/2112.11062][L-types for resource awareness: an implicit name approach]]. ~ Silvia Ghilezan, Jelena Ivetić, Simona Kašterović, Pierre Lescanne. #Haskell #Agda #FunctionalProgramming
++ [[http://www.learningclojure.com/2021/12/fermats-christmas-theorem-fixed-points_24.html][Fermat's Christmas Theorem: Fixed points come in pairs]]. ~ John Lawrence Aspden. #Clojure #FunctionalProgramming #Math
+
 *** 24-Dic-21
 + [[https://arxiv.org/abs/2112.12758v1][A manifesto for applicable formal methods]]. ~ Mario Gleirscher, Jaco van de Pol, Jim Woodcock. #FormalMethods
 + [[https://felixspringer.xyz/homepage/blog/composingTransformers][Composing transformers: ~ Felix Springer]]. #Haskell #FunctionalProgramming
