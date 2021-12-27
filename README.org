@@ -27,6 +27,10 @@ contenido.
 
 ** Diciembre de 2021
 
+*** 26-Dic-21
++ [[https://youtu.be/wVfosnHZtjA][How Gödel discovered his incompleteness theorems]]. ~ Jan von Plato. #Logic #Math
++ [[https://arxiv.org/abs/2112.02556][Windmills of the minds: an algorithm for Fermat's Two Squares Theorem]]. ~ Hing Lun Chan. #ITP #HOL4 #Math
+
 *** 25-Dic-21
 + [[https://anjapetkovic.com/img/doctoralThesis.pdf][Meta-analysis of type theories with an application to the design of formal proofs]]. ~ Anja Petković Komel (Adviser: Andrej Bauer). #PhD_Thesis #TypeTheory #ITP
 + [[https://www.ps.uni-saarland.de/~peters/resources/memo.pdf][A computational and abstract approach to Gödel's first incompleteness theorem]]. ~ Benjamin Peters. #Logic #Math
