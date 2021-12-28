@@ -27,6 +27,9 @@ contenido.
 
 ** Diciembre de 2021
 
+*** 27-Dic-21
++ [[http://olivernash.org/2019/02/03/excursion-fv-coq/index.html][An excursion in formal verification with Coq]]. ~ Oliver Nash. #ITP #Coq #Math
+
 *** 26-Dic-21
 + [[https://youtu.be/wVfosnHZtjA][How Gödel discovered his incompleteness theorems]]. ~ Jan von Plato. #Logic #Math
 + [[https://arxiv.org/abs/2112.02556][Windmills of the minds: an algorithm for Fermat's Two Squares Theorem]]. ~ Hing Lun Chan. #ITP #HOL4 #Math
