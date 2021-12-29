@@ -27,6 +27,23 @@ contenido.
 
 ** Diciembre de 2021
 
+*** 28-Dic-21
++ [[https://metacoq.github.io/][MetaCoq]]: a project formalizing Coq in Coq and providing tools for manipulating Coq terms and developing certified plugins (i.e. translations, compilers or tactics) in Coq. #ITP #Coq
++ [[https://hal.inria.fr/hal-02167423/documenta][The MetaCoq project]]. ~ Matthieu Sozeau et als. #ITP #Coq
++ [[https://dannenkov.me/papers/COBRA2021-slides.pdf][Smart contracts in a proof assistant [Slides]]]. ~ Danil Annenkov, Mikkel Milo, Jakob Botsch Nielsen, Bas Spitters #ITP #Coq
++ [[https://www.college-de-france.fr/site/xavier-leroy/seminar-2018-12-05-11h30.htm][Mathématiques assistées par ordinateur]]. ~ Assia Mahboubi. #ITP #Coq #Math
++ [[http://www.nieuwarchief.nl/serie5/pdf/naw5-2016-17-3-172.pdf][Machine-checked mathematics]]. ~ Assia Mahboubi. #ITP #Coq #Math
++ [[https://arxiv.org/abs/2108.02995][Extracting functional programs from Coq, in Coq]]. ~ Danil Annenkov, Mikkel Milo, Jakob Botsch Nielsen, Bas Spitters. #ITP #Coq
++ [[https://www.ps.uni-saarland.de/~hostert/bachelor/ba_final_fixes.pdf][The undecidability of first-order logic over small signatures]]. ~ Johannes Hostert (Advisors: Andrej Dudenhefner and Dominik Kirst). #BSc_Thesis #ITP #Coq #Logic #Math
++ [[https://www.ps.uni-saarland.de/~hermes/thesis.pdf][Modeling Peano Arithmetic in constructive type theory (Undecidability and Tennenbaum’s theorem)]]. ~ Marc Hermes (Advisors: Dominik Kirst and Moritz Weber). #MSc_Thesis #ITP #Coq #Logic #Math
++ [[https://arxiv.org/abs/2012.09138][Extracting smart contracts tested and verified in Coq]]. ~ Danil Annenkov, Mikkel Milo, Jakob Botsch Nielsen, Bas Spitters. #ITP #Coq
++ [[https://www.ps.uni-saarland.de/Publications/documents/KochKirst_2022_Undecidability.pdf][Undecidability, incompleteness, and completeness of second-order logic in Coq]]. ~ Mark Koch, Dominik Kirst. #ITP #Coq #Logic #Math
++ [[https://www.ps.uni-saarland.de/~kirst/downloads/talk_PC_21.pdf][Formalising metamathematics in constructive type theory]]. ~ Dominik Kirst. #ITP #Coq #Logic #Math
++ [[https://hal.inria.fr/hal-01703524/document][Formalizing implicative algebras in Coq]]. ~ Étienne Miquey. #ITP #Coq
++ [[https://www.i2m.univ-amu.fr/perso/etienne.miquey/content/banner.pdf][Realizabilidad clásica y efectos colaterales: Extendiendo la correspondencia de Curry-Howard]]. ~ Étienne Miquey. #Logic #CompSci
++ [[https://www.i2m.univ-amu.fr/perso/etienne.miquey/content/imerl18.pdf][Curry-Howard: unveiling the computational content of proofs]]. ~ Étienne Miquey. #Logic #CompSci
++ [[https://www.i2m.univ-amu.fr/perso/etienne.miquey/content/lmw19.pdf][The benefits of sequent calculus]]. ~ Étienne Miquey. #Logic #CompSci
+
 *** 27-Dic-21
 + [[http://olivernash.org/2019/02/03/excursion-fv-coq/index.html][An excursion in formal verification with Coq]]. ~ Oliver Nash. #ITP #Coq #Math
 
