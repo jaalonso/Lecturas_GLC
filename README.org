@@ -27,6 +27,23 @@ contenido.
 
 ** Diciembre de 2021
 
+*** 29-Dic-21
++ [[https://docs.google.com/presentation/d/1pNI5mVX2ORn_VffgVU1aUu0HGrJvbWfZwMo60Qe9qOU/edit#slide=id.p][Proof automation (Class 1: Impacts)]]. ~ Talia Ringer (@TaliaRinger). #Proof_engineering #ITP #Coq
++ [[https://dependenttyp.es/classes/598sp2022.html][Proof automation (Spring 2022)]]. ~ Talia Ringer (@TaliaRinger). #Proof_engineering #ITP
++ [[https://dependenttyp.es/pdf/QEDatLarge.pdf][QED at large: A survey of engineering of formally verified software]]. ~ Talia Ringer, Karl Palmskog, Ilya Sergey, Milos Gligoric, and Zachary Tatlock. #Proof_engineering #ITP
++ [[https://www.researchgate.net/publication/327893218_Implementing_Euclid's_straightedge_and_compass_constructions_in_type_theory][Implementing Euclid’s straightedge and compass constructions in type theory]]. ~ Ariel Kellison, Mark Bickford, and Robert Constable (2019). #ITP #Nuprl #Math
++ [[https://www.tandfonline.com/doi/full/10.1080/10586458.2021.1980464][Formalizing ordinal partition relations using Isabelle/HOL]]. ~ Mirna Džamonja, Angeliki Koutsoukou-Argyraki, and Lawrence C. Paulson. #ITP #IsabelleHOL #Math
++ [[https://lawrencecpaulson.github.io//2021/12/29/Ramsey-1.html][Formalising Ramsey theory, I]]. ~ Lawrence Paulson. #ITP #IsabelleHOL #Math
++ [[https://www.isa-afp.org/entries/Regular_Tree_Relations.html?utm_source=dlvr.it&utm_medium=twitter][Regular tree relations (in Isabelle/HOL)]]. ~ Alexander Lochmann, Bertram Felgenhauer, Christian Sternagel, René Thiemann, and Thomas Sternagel. #ITP #IsabelleHOL
++ [[https://www.isa-afp.org/entries/MDP-Algorithms.html][Verified algorithms for solving Markov decision processes (in Isabelle/HOL)]]. ~ Maximilian Schäffeler, Mohammad Abdulaziz. #ITP #IsabelleHOL #Math
++ [[https://www.isa-afp.org/entries/MDP-Rewards.html][Markov decision processes with rewards (in Isabelle/HOL)]]. ~ Maximilian Schäffeler and Mohammad Abdulaziz. #ITP #IsabelleHOL #Math
++ [[https://hoogleplus.goto.ucsd.edu/][Hoogle+ is a type-driven synthesis engine for Haskell - like Hoogle but able to find compositions of functions]]. Given a Haskell type, Hoogle+ generates terms that inhabit this type by composing library components. #Haskell #FunctionalProgramming
++ [[https://github.com/TyGus/hoogle_plus/][Hoogle+: Type-driven, component based synthesis, showcasing TYpe Guided Abstract Refinement (TYGAR)]]. ~ Zheng Guo (@AaronGuo069). #Haskell #FunctionalProgramming
++ [[https://aaronguo1996.github.io/publication/tygar/tygar-paper.pdf][Program synthesis by type-guided abstraction refinement]]. ~ Zheng Guo et als. #Haskell #FunctionalProgramming
++ [[https://aaronguo1996.github.io/publication/hplus/hplus-oopsla20.pdf][Digging for fold: Synthesis-aided API discovery for Haskell]]. ~ Michael B. James, Zheng Guo, Ziteng Wang, Shivani Doshi, Hila Peleg, Ranjit Jhala, and Nadia Polikarpova. #Haskell #FunctionalProgramming
++ [[https://aaronguo1996.github.io/talk/tygar/tygar_v4.pdf][Hoogle+: Program synthesis by type-guided abstraction refinement [Slides]]]. ~ Zheng Guo, Michael James, David Justo, Jiaxiao Zhou, Ziteng Wang, Ranjit Jhala, and Nadia Polikarpova. #Haskell #FunctionalProgramming
++ [[https://bartoszmilewski.com/2021/12/28/co-presheaf-optics/][Co-presheaf optics]]. ~ Bartosz Milewski (@BartoszMilewski). #CategoryTheory
+
 *** 28-Dic-21
 + [[https://metacoq.github.io/][MetaCoq]]: a project formalizing Coq in Coq and providing tools for manipulating Coq terms and developing certified plugins (i.e. translations, compilers or tactics) in Coq. #ITP #Coq
 + [[https://hal.inria.fr/hal-02167423/documenta][The MetaCoq project]]. ~ Matthieu Sozeau et als. #ITP #Coq
