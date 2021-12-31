@@ -27,6 +27,29 @@ contenido.
 
 ** Diciembre de 2021
 
+*** 30-Dic-21
++ [[https://arxiv.org/abs/2112.14605][On the relational translation method for propositional modal logics]]. ~ Jian Zhang. #ATP #OTTER
++ [[https://arxiv.org/abs/2112.14603][Learning higher-order programs without meta-interpretive learning]]. ~ Stanisław J. Purgał, David M. Cerna, Cezary Kaliszyk. #ITP #MachineLearning #LogicProgramming #Prolog #ASP
++ [[https://arxiv.org/abs/2112.14057][Inductive and coinductive predicate liftings for effectful programs]]. ~ Niccolò Veltri, and Niels F.W. Voorneveld. #ITP #Agda
++ [[https://arxiv.org/abs/2112.14050][A cartesian bicategory of polynomial functors in Homotopy Type Theory]]. ~ Eric Finster, Samuel Mimram, Maxime Lucas, Thomas Seiller. #ITP #Agda #HoTT
++ [[https://www.cl.cam.ac.uk/research/hvg/haiku.html][Theorem Proving Haiku]]. #ITP
++ [[https://blog.devgenius.io/importing-csv-data-with-haskell-and-the-worlds-dependency-on-fossil-fuels-7070e7796b4a][Importing CSV data with Haskell and the World’s dependency on fossil fuels]]. ~ Fábio Molinar. #Haskell #FunctionalProgramming
++ [[https://archive.org/details/tohbcurryessayso00edit/page/n5/mode/2up][To H.B. Curry: Essays on combinatory logic, lambda calculus and formalism]]. (Edited by J.P. Seldin and J.R. Hindley, 1980). #Logic #Math #LambdaCalculus via @breandan
++ [[https://archive.uea.ac.uk/~h020/Document_principal.pdf][Évolution des mathématiques au XXe siècle et après]]. ~ Hourya Benis and Mirna Džamonja #Math
++ [[https://www.irif.fr/~curien/LMFI1.pdf][Théorie de la démonstration]]. ~ Pierre-Louis Curien (2009). #Logic #Math
++ [[https://github.com/herbelin/cours-preuves-ordinateur/][Cours: Preuves assistées par ordinateur (hiver 2021)]]. ~ Hugo Herbelin, and Théo Zimmermann.  #ITP #Coq
++ [[https://avigad.github.io/lamr/logic_and_mechanized_reasoning.pdf][Logic and mechanized reasoning]]. ~ Jeremy Avigad, Marijn J. H. Heule, and Wojciech Nawrocki. #eBook #Logic #Math #LeanProver #FunctionalProgramming #SAT #SMT
++ [[https://github.com/avigad/lamr][Logic and mechanized reasoning [Repository]]]. ~ Jeremy Avigad, Marijn J. H. Heule, and Wojciech Nawrocki. #Logic #Math #LeanProver #FunctionalProgramming #SAT #SMT
++ [[https://www.cs.cmu.edu/~mheule/15217-f21/][Logic and mechanized reasoning [Course]]]. ~ Jeremy Avigad, Marijn J. H. Heule, and Wojciech Nawrocki. #Logic #Math #LeanProver #FunctionalProgramming #SAT #SMT
++ [[https://www.andrew.cmu.edu/user/avigad/Talks/fmtea.pdf][Teaching logic and mechanized reasoning with Lean 4 [Slides]]]. ~ Jeremy Avigad (Marijn Heule and Wojciech Nawrocki). #ITP #LeanProver #Logic
++ [[https://www.cl.cam.ac.uk/~lp15/papers/Reports/Verif-Transcendental-Algs.pdf][Formal verification of transcendental fixed and floating point algorithms using an automatic theorem prover]]. ~ Samuel Coward, L. C. Paulson, Theo Drane and Emiliano Morini. #ATP #MetiTarski #Math
++ [[https://arxiv.org/abs/2105.13583][A modular first formalisation of combinatorial design theory]]. ~ Chelsea Edmonds and L. C. Paulson. #ITP #IsabelleHOL
++ [[https://www.andrew.cmu.edu/user/avigad/Talks/topos.pdf][Formal mathematics, dependent type theory, and the Topos Institute [Slides]]]. ~ Jeremy Avigad. #ITP #LeanProver #Math
++ [[https://youtu.be/Kpa8cCUZLms][Formal mathematics, dependent type theory, and the Topos Institute [Video]]]. ~ Jeremy Avigad. #ITP #LeanProver #Math
++ [[https://thma.github.io/posts/2021-12-27-Implementing-a-functional-language-with-Graph-Reduction.html][Implementing a functional language with graph reduction]]. ~ Thomas Mahler. #Haskell #FunctionalProgramming
++ [[https://notxor.nueva-actitud.org/2021/12/30/editorconfig-y-emacs.html][EditorConfig y Emacs]]. ~ Notxor. #Emacs
++ [[https://leanprover.github.io/theorem_proving_in_lean4/ ][Theorem proving in Lean 4]]. ~ Jeremy Avigad, Leonardo de Moura, Soonho Kong and Sebastian Ullrich. #Lean4 #ITP #FunctionalProgramming
+
 *** 29-Dic-21
 + [[https://docs.google.com/presentation/d/1pNI5mVX2ORn_VffgVU1aUu0HGrJvbWfZwMo60Qe9qOU/edit#slide=id.p][Proof automation (Class 1: Impacts)]]. ~ Talia Ringer (@TaliaRinger). #Proof_engineering #ITP #Coq
 + [[https://dependenttyp.es/classes/598sp2022.html][Proof automation (Spring 2022)]]. ~ Talia Ringer (@TaliaRinger). #Proof_engineering #ITP
