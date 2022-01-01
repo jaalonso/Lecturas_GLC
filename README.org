@@ -1,11 +1,13 @@
 #+OPTIONS: ^:nil
-#+TITLE: Lecturas del Grupo de Lógica Computacional
+#+TITLE: Reading list for computational logic, interactive theorem proving and functional programming
 
-Este repositorio es una recopilación de lecturas compartidas en la lista
-de correo del [[http://www.glc.us.es][grupo de lógica computacional]]. La recopilación está
-ordenada por la fecha de su publicación en la lista. Al final de cada
-artículo se encuentra etiquetas relativas a los sistemas que usa o a su
-contenido.
+This repository is a collection of readings shared on [[https://twitter.com/Jose_A_Alonso][Twitter]] about
+computational logic, interactive theorem proving and functional programming.
+
+The collection is sorted by the date of its publication on [[https://twitter.com/Jose_A_Alonso][Twitter]].
+
+At the end of each article you will find tags related to the systems it uses or
+its content.
 
 * Contenido                                                             :TOC:
 - [[#lecturas-del-año-2021][Lecturas del año 2021]]
