@@ -27,6 +27,16 @@ contenido.
 
 ** Diciembre de 2021
 
+*** 31-Dic-21
++ [[https://www.researchgate.net/publication/328518510_Classification_of_Finite_Fields_with_Applications][Classification of finite fields with applications]]. ~ Hing-Lun Chan and Michael Norrish (2019). #ITP #HOL4 #Math
++ [[https://www.researchgate.net/publication/320406041_Proof_Pearl_Bounding_Least_Common_Multiples_with_Triangles][Proof pearl: Bounding least common multiples with triangles]]. ~ Hing-Lun Chan and Michael Norrish (2019). #ITP #HOL4 #Math
++ [[https://www.researchgate.net/publication/266413080_A_String_of_Pearls_Proofs_of_Fermat's_Little_Theorem][A string of pearls: Proofs of Fermat's little theorem]]. ~ Hing-Lun Chan and Michael Norrish (2013). #ITP #HOL4 #Math
++ [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7324286/pdf/978-3-030-51074-9_Chapter_30.pdf][Mechanised modal model theory]]. ~ Yiming Xu and Michael Norrish (2020). #ITP #HOL4 #Logic
++ [[https://tqft.net/web/research/students/YimingXu/thesis.pdf][Formalizing modal logic in HOL]]. ~ Yiming Xu. #BSc_Thesis #ITP #HOL4 #Logic
++ [[https://www.logicmatters.net/categories/][Category theory: Lecture notes and online books]]. ~ Peter Smith (@PeterSmith). #CategoryTheory
++ [[https://dl.acm.org/doi/pdf/10.1145/3445984][People, ideas, milestones: a scientometric study of computational thinking]]. ~ M. Saqr, K. Ng, S. Oyelere, M. Tedre. #Computational_thinking
++ [[https://www.johndcook.com/blog/2021/12/30/modal-axioms/][Names and numbers for modal logic axioms]]. ~ John D. Cook (@JohnDCook). #Logic
+
 *** 30-Dic-21
 + [[https://arxiv.org/abs/2112.14605][On the relational translation method for propositional modal logics]]. ~ Jian Zhang. #ATP #OTTER
 + [[https://arxiv.org/abs/2112.14603][Learning higher-order programs without meta-interpretive learning]]. ~ Stanisław J. Purgał, David M. Cerna, Cezary Kaliszyk. #ITP #MachineLearning #LogicProgramming #Prolog #ASP
