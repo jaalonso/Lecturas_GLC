@@ -12,7 +12,6 @@ its content.
 * Content                                                                      :TOC:
 - [[#readings-of-the-year-2022][Readings of the year 2022]]
   - [[#january-2022][January 2022]]
-- [[#previous-readings][Previous readings]]
 - [[#readings-of-the-year-2021][Readings of the year 2021]]
   - [[#december-2021][December 2021]]
   - [[#november-2021][November 2021]]
@@ -26,6 +25,7 @@ its content.
   - [[#march-2021][March 2021]]
   - [[#february-2021][February 2021]]
   - [[#january-2021][January 2021]]
+- [[#previous-readings][Previous readings]]
 
 * Readings of the year 2022
 
@@ -57,15 +57,6 @@ its content.
 + [[https://lauratitolo.github.io/publication/2021fac/2021FAC.pdf][Formal analysis of the compact position reporting algorithm]]. ~ Aaron Dutle, Mariano M. Moscato, Laura Titolo, César A. Muñoz, Gregory Anderson, and François Bobot. #ITP #PVS
 + [[https://shemesh.larc.nasa.gov/people/amd/publications/CPP2021-SAS_RA-draft.pdf][Formal verification of semi-algebraic sets and real analytic functions]]. ~ J. Tanner Slagel, Lauren White, and Aaron Dutle. #ITP #PVS #Mat
 
-
-
-* Previous readings
-+ [[./Readings of the year 2020.org][Readings of the year 2020]]
-+ [[./Readings of the year 2019.org][Readings of the year 2019]]
-+ [[./Readings of the year 2018.org][Readings of the year 2018]]
-+ [[./Readings of the year 2017.org][Readings of the year 2017]]
-+ [[./Readings of the year 2016.org][Readings of the year 2016]]
-+ [[./Readings of the year 2010 al 2015.org][Readings from the year 2010 to 2015]]
 * Readings of the year 2021
 
 ** December 2021
@@ -2165,3 +2156,11 @@ its content.
 *** 01-Jan-21
 + [[https://schooloffp.co/2020/12/27/two-reasons-why-you-found-learning-haskell-hard.html][Two reasons why you found learning haskell hard]]. ~ School of FP (@schooloffp). #Haskell #FunctionalProgramming
 + [[https://tek.brick.do/64693fb8-39b4-40a5-8762-768009eeed91][Learn just enough about linear types]]. ~ Artyom Kazak (@availablegreen). #Haskell #FunctionalProgramming
+
+* Previous readings
++ [[./Readings of the year 2020.org][Readings of the year 2020]]
++ [[./Readings of the year 2019.org][Readings of the year 2019]]
++ [[./Readings of the year 2018.org][Readings of the year 2018]]
++ [[./Readings of the year 2017.org][Readings of the year 2017]]
++ [[./Readings of the year 2016.org][Readings of the year 2016]]
++ [[./Readings of the year 2010 al 2015.org][Readings from the year 2010 to 2015]]
