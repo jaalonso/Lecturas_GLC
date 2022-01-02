@@ -88,8 +88,8 @@ its content.
 + [[https://www.andrew.cmu.edu/user/avigad/Talks/fmtea.pdf][Teaching logic and mechanized reasoning with Lean 4 (Slides)]]. ~ Jeremy Avigad (Marijn Heule and Wojciech Nawrocki). #ITP #LeanProver #Logic
 + [[https://www.cl.cam.ac.uk/~lp15/papers/Reports/Verif-Transcendental-Algs.pdf][Formal verification of transcendental fixed and floating point algorithms using an automatic theorem prover]]. ~ Samuel Coward, L. C. Paulson, Theo Drane and Emiliano Morini. #ATP #MetiTarski #Math
 + [[https://arxiv.org/abs/2105.13583][A modular first formalisation of combinatorial design theory]]. ~ Chelsea Edmonds and L. C. Paulson. #ITP #IsabelleHOL
-+ [[https://www.andrew.cmu.edu/user/avigad/Talks/topos.pdf][Formal mathematics, dependent type theory, and the Topos Institute [Slides]]]. ~ Jeremy Avigad. #ITP #LeanProver #Math
-+ [[https://youtu.be/Kpa8cCUZLms][Formal mathematics, dependent type theory, and the Topos Institute [Video]]]. ~ Jeremy Avigad. #ITP #LeanProver #Math
++ [[https://www.andrew.cmu.edu/user/avigad/Talks/topos.pdf][Formal mathematics, dependent type theory, and the Topos Institute (Slides)]]. ~ Jeremy Avigad. #ITP #LeanProver #Math
++ [[https://youtu.be/Kpa8cCUZLms][Formal mathematics, dependent type theory, and the Topos Institute (Video)]]. ~ Jeremy Avigad. #ITP #LeanProver #Math
 + [[https://thma.github.io/posts/2021-12-27-Implementing-a-functional-language-with-Graph-Reduction.html][Implementing a functional language with graph reduction]]. ~ Thomas Mahler. #Haskell #FunctionalProgramming
 + [[https://notxor.nueva-actitud.org/2021/12/30/editorconfig-y-emacs.html][EditorConfig y Emacs]]. ~ Notxor. #Emacs
 + [[https://leanprover.github.io/theorem_proving_in_lean4/ ][Theorem proving in Lean 4]]. ~ Jeremy Avigad, Leonardo de Moura, Soonho Kong and Sebastian Ullrich. #Lean4 #ITP #FunctionalProgramming
