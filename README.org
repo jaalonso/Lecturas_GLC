@@ -31,6 +31,26 @@ its content.
 
 ** January 2022
 
+*** 02-Jan-22
++ [[https://shemesh.larc.nasa.gov/people/cam/publications/NASA-TM-20205010644.pdf][Improving automated strategies for univariate quantifier elimination]]. ~ Katherine Cordwell, Cesar A. Muñoz, and Aaron M. Dutle. #ITP #PVS #Math
++ [[http://www.ijfcc.org/vol10/578-T0142.pdf][Formal verification of MILS partition scheduling module using layered methods]]. ~ Yang Gao, Xia Yang, Wensheng Guo, and Xiutai Lu. #ITP #Coq
++ [[https://slides.com/haskellbeginners2022/lecture-1][Haskell beginners 2022: Lecture 1 (Fundamentals)]]. ~ Dmitrii Kovanikov (@ChShersh). #Haskell #FunctionalProgramming
++ [[https://slides.com/haskellbeginners2022/lecture-2][Haskell beginners 2022: Lecture 2 (Data)]]. ~ Dmitrii Kovanikov (@ChShersh). #Haskell #FunctionalProgramming
++ [[https://slides.com/haskellbeginners2022/lecture-3][Haskell beginners 2022: Lecture 3 (Typeclasses)]]. ~ Dmitrii Kovanikov (@ChShersh). #Haskell #FunctionalProgramming
++ [[http://bibliotecadigital.ilce.edu.mx/Colecciones/ReinaCiencias/_docs/Pueden_pensar_las_computadoras_Turing.pdf][¿Pueden pensar las computadoras digitales?]] ~ Alan Turing (1951). #Computación #IA
++ [[https://philipzucker.com/bap-js-1][Getting bap in the browser 1]]. ~ Philip Zucker (@SandMouth). #Ocaml #FunctionalProgramming
++ [[https://www.wittgensteinproject.org/w/index.php?title=Tractatus_Logico-Philosophicus_(English)][Tractatus Logico-Philosophicus]]. ~ Ludwig Wittgenstein (1922). #Logic
++ [[https://github.com/bolt12/advent-of-haskell-dd][Advent of Haskell: Denotational design]]. ~ Armando Santos (@_bolt12). #Haskell #FunctionalProgramming
++ [[https://raw.githubusercontent.com/bolt12/master-thesis/master/Msc_Thesis.pdf][Selective functors & probabilistic programming]]. ~ Armando Santos (@_bolt12). #MSc_Thesis #Haskell #FunctionalProgramming
++ [[https://mybinder.org/v2/gh/jamesdbrock/learn-you-a-haskell-notebook/master?urlpath=lab/tree/learn_you_a_haskell/00-preface.ipynb][Jupyter adaptation of "Learn You a Haskell for Great Good!"]] ~ James Brock (@jamesdbrock) #Haskell #FunctionalProgramming #Jupyter
++ [[https://mybinder.org/v2/gh/jaalonso/Temas_interactivos_de_PF_con_Haskell/master?filepath=temas/Indice.ipynb][Temas interactivos de programación funcional con Haskell]]. ~ J.A. Alonso. #Haskell #FunctionalProgramming #Jupyter
++ [[https://arxiv.org/abs/2010.10510][Compiling quantamorphisms for the IBM Q experience]]. ~ Ana Neri, Rui Soares Barbosa, José N. Oliveira. #Haskell #FunctionalProgramming #Quantum_computing
++ [[http://repositorium.sdum.uminho.pt/bitstream/1822/67480/1/Ana%20Isabel%20Carvalho%20Neri.pdf][Towards quantum program calculation]]. ~ Ana Neri (2018). #MSc_Thesis #Haskell #FunctionalProgramming #Quantum_computing
++ [[http://hojaynumeros.blogspot.com/2022/01/propiedades-del-numero-2022.html][Propiedades del número 2022]]. ~ Antonio Roldán (@Connumeros). #Matemáticas
++ [[https://www.lambdabytes.io/articles/defectprocess/][The source code of Defect Process]]. ~ Jonathan Thaler (@JonathanThaler). #Haskell #FunctionalProgramming
++ [[https://eccc.weizmann.ac.il/report/2022/002/][Extending merge resolution to a family of proof systems]]. ~ Sravanthi Chede, Anil Shukla. #Logic #CompSci
++ [[https://arxiv.org/abs/2103.01046][Extending Prolog for quantified boolean Horn formulas]]. ~ Anish Mallick, Anil Shukla. #Prolog #LogicProgramming
+
 *** 01-Jan-22
 + [[https://github.com/jaalonso/Lecturas_GLC][Readings on computational logic, interactive theorem proving, and functional programming]]. #ITP #FunctionalProgramming
 + [[https://raw.githubusercontent.com/mukeshtiwari/HotSpot2021/main/formal_properties_schulze.pdf][Machine checked properties of the Schulze method]]. ~ Mukesh Tiwari and Dirk Pattinson. #ITP #Coq
