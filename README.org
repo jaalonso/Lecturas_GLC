@@ -31,6 +31,29 @@ its content.
 
 ** January 2022
 
+*** 03-Ene-22
++ [[http://bibliotecadigital.ilce.edu.mx/Colecciones/ReinaCiencias/_docs/El_analisis_matematico-Boole.pdf][El análisis matemático de la lógica]]. ~ George Boole (1847). #Lógica #Matemática
++ [[https://archive.org/details/mathematicalanal00booluoft Logic][The mathematical analysis of logic]]. ~ George Boole (1847). #Math via @internetarchive
++ [[https://www.isa-afp.org/entries/Gale_Shapley.html][Gale-Shapley algorithm (in Isabelle/HOL)]]. ~ Tobias Nipkow. #ITP #IsabelleHOL
++ [[https://www.isa-afp.org/entries/Roth_Arithmetic_Progressions.html][Roth's theorem on arithmetic progressions (in Isabelle/HOL)]]. ~ Chelsea Edmonds, Angeliki Koutsoukou-Argyraki and Lawrence C. Paulson. #ITP #IsabelleHOL #Math
++ [[https://www3.risc.jku.at/conferences/adg2020/talk/Windsteiger.pdf][Automated theorem proving in the classroom]]. ~ Wolfgang Windsteiger. #ITP #ATP #Logic #Math
++ [[https://www3.risc.jku.at/publications/download/risc_6356/21-15.pdf][Automated theorem proving in the classroom]]. ~ Wolfgang Windsteiger. #ITP #ATP #Logic #Math
++ [[https://files.sketis.net/Isabelle_Workshop_2020/Isabelle_2020_paper_10.pdf][Lucas’s theorem: formalising generating function proofs]]. ~ Chelsea Edmonds (2020). #ITP #IsabelleHOL #Math
++ [[https://www3.risc.jku.at/conferences/adg2020/talk/Dowek.pdf][Sharing geometry proofs across logics and systems]]. ~ Gilles Dowek. #ITP #Dedukti #Logic #Math
++ [[https://www.enseignement.polytechnique.fr/informatique/MPRI/2-7-1/slides1-print.pdf][Foundations of formal proof systems]]. ~ Benjamin Werner. #Logic #Math
++ [[https://files.sketis.net/Isabelle_Workshop_2020/Isabelle_2020_paper_3.pdf][FindFacts: A scalable theorem search]]. ~ Fabian Huch and Alexander Krauss (2020). #ITP #IsabelleHOL
++ [[https://arxiv.org/abs/2104.09366][Simple type theory is not too simple: Grothendieck's schemes without dependent types]]. ~ Anthony Bordg, Lawrence Paulson, Wenda Li. #TypeTheory #ITP #IsabelleHOL
++ [[https://arxiv.org/abs/2101.06223][LIME: Learning inductive bias for primitives of mathematical reasoning]]. ~ Yuhuai Wu, Markus Rabe, Wenda Li, Jimmy Ba, Roger Grosse, Christian Szegedy. #ITP #MachineLearning #Math
++ [[https://www.repository.cam.ac.uk/bitstream/handle/1810/289389/thesis.pdf?sequence=1&isAllowed=y][Towards justifying computer algebra algorithms in Isabelle/HOL]]. ~ Wenda Li (2019). #PhD_Thesis #ITP #IsabelleHOL #Math
++ [[https://arxiv.org/abs/2007.02924][INT: An inequality benchmark for evaluating generalization in theorem proving]]. ~ Yuhuai Wu, Albert Qiaochu Jiang, Jimmy Ba, Roger Grosse. #ITP #MachineLearning
++ [[https://tel.archives-ouvertes.fr/tel-02512327/document][Approche combinatoire pour l'automatisation en Coq des preuves formelles en géométrie d'incidence projective]]. ~ David Braun (2019). #PhD_Thesis #ITP #Coq #Math
++ [[http://eptcs.web.cse.unsw.edu.au/paper.cgi?ADG2021.8.pdf][Mechanization of incidence projective geometry in higher dimensions, a combinatorial approach]]. ~ Pascal Schreck, Nicolas Magaud and David Braun. #ITP #Coq #Math
++ [[http://eptcs.web.cse.unsw.edu.au/paper.cgi?ADG2021.9.pdf][Automated generation of illustrations for synthetic geometry proofs]]. ~ Predrag Janičić and Julien Narboux. #ATP #Math
++ [[http://www.lsv.fr/~dowek/Cours/Pit/pit.pdf][Proofs in theories]]. ~ Gilles Dowek (2018). #eBook #Logic #Math
++ [[http://www.fmv.jku.at/papers/CernaSeidlSchreinerWindsteigerBiere-CSEDU20.pdf][Computational logic in the first semester of computer science: An experience report]]. ~ David M. Cerna, Martina Seidl, Wolfgang Schreiner, Wolfgang Windsteiger, Armin Biere (2020). #Logic #ITP #ATP
++ [[https://drive.google.com/file/d/1rY2ADHQX-rSUySSaiGi5G5iXduZD2e1D/view][Three different ways to prove Dandelin-Gallucci theorem]]. ~ David Braun, Nicolas Magaud, Pascal Schreck. #ITP #Coq #Math
++ [[http://eptcs.web.cse.unsw.edu.au/paper.cgi?ADG2021.13.pdf][Formalising geometric axioms for Minkowski spacetime and without-loss-of-generality theorems]]. ~ Richard Schmoetten, Jake Palmer, Jacques Fleuriot. #ITP #IsabelleHOL #Math
+
 *** 02-Jan-22
 + [[https://shemesh.larc.nasa.gov/people/cam/publications/NASA-TM-20205010644.pdf][Improving automated strategies for univariate quantifier elimination]]. ~ Katherine Cordwell, Cesar A. Muñoz, and Aaron M. Dutle. #ITP #PVS #Math
 + [[http://www.ijfcc.org/vol10/578-T0142.pdf][Formal verification of MILS partition scheduling module using layered methods]]. ~ Yang Gao, Xia Yang, Wensheng Guo, and Xiutai Lu. #ITP #Coq
