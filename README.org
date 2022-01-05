@@ -31,7 +31,28 @@ its content.
 
 ** January 2022
 
-*** 03-Ene-22
+*** 04-Jan-22
+ + [[https://archive.org/details/foundationsofari00freg][The foundations of arithmetic: a logico-mathematical enquiry into the concept of number]]. ~ Gottlob Frege (1884). #Logic #Math
+ + [[http://bibliotecadigital.ilce.edu.mx/Colecciones/ReinaCiencias/_docs/Los_fundamentos_aritmetica-Frege.pdf][Los fundamentos de la aritmética]]. ~ Gottlob Frege (1884). #Lógica #Matemática
+ + [[https://archive.org/details/diegrundlagende00freggoog][Die Grundlagen der Arithmetik : eine logisch mathematische Untersuchung über den Begriff der Zahl]]. ~ Gottlob Frege (1884). #Logic #Math
+ + [[https://www.metalevel.at/prolog/cryptography][Cryptography with Prolog]]. ~ Markus Triska (@MarkusTriska). #Prolog #LogicProgramming
+ + [[https://youtu.be/YnUOxsiSYfk][Cryptography with Prolog (Video)]]. ~ Markus Triska (@MarkusTriska). #Prolog #LogicProgramming
+ + [[https://arxiv.org/abs/2111.03484][Pirouette: Higher-Order typed functional choreographies]]. ~ Andrew K. Hirsch (@andrewkhirsch), Deepak Garg. #ITP #Coq
+ + [[http://people.mpi-sws.org/~dg/papers/pldi2021-refinedc.pdf][RefinedC: Automating the foundational verification of C code with refined ownership types]]. ~ Michael Sammler, Rodolphe Lepigre, Robbert Krebbers, Kayvan Memarian, Derek Dreyer, Deepak Garg. #ITP #Coq
+ + [[https://iris-project.org/pdfs/2022-popl-vip.pdf][VIP: Verifying real-world C idioms with integer-pointer casts]]. ~ Rodolphe Lepigre, Michael Sammler, Kayvan Memarian, Robbert Krebbers, Derek Dreyer, Peter Sewell. #ITP #Coq
+ + [[https://www.researchgate.net/publication/353105163_Consejos_y_reglas_de_un_simple_programador][Consejos y reglas de un simple programador]]. ~ Camilo Chacón Sartori (@camilo_chacon_s). #Computación #Aprendizaje #Filosofía
+ + [[https://robbertkrebbers.nl/research/articles/connectivity_graphs.pdf][Connectivity graphs: A method for proving deadlock freedom based on separation logic]]. ~ Jules Jacobs, Stephanie Balzer and Robbert Krebbers. #ITP #Coq
+ + [[https://arxiv.org/abs/2101.11320v10][Tutorial implementation of Hoare logic in Haskell]]. ~ Boro Sitnikovski  (@BSitnikovski). #Haskell #FunctionalProgramming
+ + [[https://robbertkrebbers.nl/research/articles/simuliris.pdf][Simuliris: A separation logic framework for verifying concurrent program optimizations]]. ~ Lennard Gäher, Michael Sammler, Simon Spies, Ralf Jung, Hai Dang, Robbert Krebbers, Jeehong Kang and Derek Dreyer. #ITP #Coq
+ + [[https://robbertkrebbers.nl/research/articles/intrinsic_compilation.pdf][Intrinsically typed compilation with nameless labels]]. ~ Arjen Rouvoet, Robbert Krebbers and Eelco Visser. #ITP #Agda #FunctionalProgramming
+ + [[https://robbertkrebbers.nl/research/articles/semantic_sessions.pdf][Machine-checked semantic session typing]]. ~ Jonas Kastberg Hinrichsen, Daniël Louwrink, Robbert Krebbers and Jesper Bengtson. #ITP #Coq
+ + [[https://robbertkrebbers.nl/research/articles/seloc.pdf][Compositional non-interference for fine-grained concurrent programs]]. ~ Dan Frumin, Robbert Krebbers and Lars Birkedal. #ITP #Coq
+ + [[https://robbertkrebbers.nl/research/articles/transfinite-iris.pdf][Transfinite Iris: resolving an existential dilemma of step-indexed separation logic]]. ~ Simon Spies, Lennard Gäher, Daniel Gratzer, Joseph Tassarotti, Robbert Krebbers, Derek Dreyer and Lars Birkedal. #ITP #Coq
+ + [[https://robbertkrebbers.nl/research/articles/reloc-reloaded.pdf][ReLoC reloaded: A mechanized relational logic for fine-grained concurrency and logical atomicity]]. ~ Dan Frumin, Robbert Krebbers and Lars Birkedal. #ITP #Coq
+ + [[https://robbertkrebbers.nl/research/articles/actris2.pdf][Actris 2]].0: Asynchronous session-type based reasoning in separation logic. ~ Jonas Kastberg Hinrichsen, Jesper Bengtson and Robbert Krebbers. #ITP #Coq
+ + [[https://royalsocietypublishing.org/doi/full/10.1098/rsta.2005.1650][The challenge of computer mathematics]]. ~ Henk Barendregt and Freek Wiedijk (2005). #ITP #Math
+
+*** 03-Jan-22
 + [[http://bibliotecadigital.ilce.edu.mx/Colecciones/ReinaCiencias/_docs/El_analisis_matematico-Boole.pdf][El análisis matemático de la lógica]]. ~ George Boole (1847). #Lógica #Matemática
 + [[https://archive.org/details/mathematicalanal00booluoft Logic][The mathematical analysis of logic]]. ~ George Boole (1847). #Math via @internetarchive
 + [[https://www.isa-afp.org/entries/Gale_Shapley.html][Gale-Shapley algorithm (in Isabelle/HOL)]]. ~ Tobias Nipkow. #ITP #IsabelleHOL
