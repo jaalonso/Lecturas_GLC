@@ -31,6 +31,27 @@ its content.
 
 ** January 2022
 
+*** 05-Jan-22
++ [[http://bibliotecadigital.ilce.edu.mx/Colecciones/ReinaCiencias/_docs/Los_principios_aritmetica.pdf][Los principios de la aritmética presentados por un nuevo método]]. ~ Giuseppe Peano (1889). #Lógica #Matemática via @kroftopkin
++ [[https://raw.githubusercontent.com/mdnahas/Peano_Book/master/Peano.pdf]["Arithmetices principia, nova methodo exposita" or "The principles of arithmetic, presented by a new method" (both in the original latin and in parallel english translation with modern mathematical notation)]]. ~ Giuseppe Peano (1889). #Logic #Math
++ [[https://archive.org/details/arithmeticespri00peangoog][Arithmetices principia: nova methodo]]. ~ Giuseppe Peano (1889). #Logic #Math via @internetarchive
++ [[https://www.cl.cam.ac.uk/archive/mjcg/papers/HolHistory.html][From LCF to HOL: a short history]]. ~ Michael J. C. Gordon (2000). #ITP #LCF #HOL
++ [[https://homepages.inf.ed.ac.uk/wadler/papers/propositions-as-types/propositions-as-types.pdf][Propositions as types]]. ~ Philip Wadler (2014). #Logic #CompSci
++ [[https://lawrencecpaulson.github.io//2022/01/05/LCF.html][The de Bruijn criterion vs the LCF architecture]]. ~ Lawrence Paulson. #ITP
++ [[https://backend.orbit.dtu.dk/ws/portalfiles/portal/266396296/Alexander_Birch_Jensen_2021_04_16_12.06.46_paper_16_finalversion.pdf][Formal verification of a cognitive agent using theorem proving]]. ~ Alexander Birch Jensen. #ITP #IsabelleHOL
++ [[https://www.ps.uni-saarland.de/Publications/documents/ForsterEtAl_2020_Synthetic-Reducibility-in-Coq.pdf][A constructive and synthetic theory of reducibility (Myhill’s isomorphism theorem and Post’s problem for many-one and truth-table reducibility in Coq)]]. ~ Yannick Forster, Felix Jahn, Gert Smolka. #ITP #Coq
++ [[https://ps.uni-saarland.de/~forster/thesis/phd-thesis-yforster-printblack.pdf][Computability in constructive type theory]]. ~ Yannick Forster. #PhD_Thesis #ITP #Coq
++ [[https://github.com/Chobbes/PiBellards][Implementation of Bellard's algorithm for calculating pi to 'n' digits in Haskell]]. ~ Calvin Beck. #Haskell #FunctionalProgramming #Math
++ [[https://github.com/dunnl/tealeaves][Tealeaves: a Coq framework for proving theorems about syntax abstractly]]. ~ Lawrence Dunn. #ITP #Coq
++ [[https://www.isa-afp.org/entries/Knights_Tour.html][Knight's tour revisited revisited (in Isabelle/HOL)]]. ~ Lukas Koller. #ITP #IsabelleHOL
++ [[https://raw.githubusercontent.com/sweirich/graded-haskell/main/ddc.pdf][A dependent dependency calculus]]. ~ Pritam Choudhury, Harley Eades III, Stephanie Weirich. #Dependent_types #Coq
++ [[https://leanprover-community.github.io/blog/posts/month-in-mathlib-dec-2021/][This month in mathlib (Dec 2021)]]. #ITP #LeanProver #Math
++ [[https://youtu.be/6JH8bFRohn8][How to implement the lambda calculus, quickly]]. ~ Stephanie Weirich. #Haskell #FunctionalProgramming #LambdaCalculus
++ [[https://www.cis.upenn.edu/~stevez/papers/ZB+21.pdf][Modular, compositional, and executable formal semantics for LLVM IR]]. ~ Yannick Zakowski, Calvin Beck, Irene Yoon, Ilya Zaichuk, Vadim Zaliva, and Steve Zdancewic. #ITP #Coq
++ [[https://paulhe.com/assets/spec-extraction-oopsla.pdf][A type system for extracting functional specifications from memory-safe imperative programs]]. ~ Paul He, Eddy Westbrook, Brent Carmer, Chris Phifer, Valentin Robert, Karl Smeltzer, Andrei Ştefănescu, Aaron Tomb, Adam Wick, Matthew Yacavone, Steve Zdancewic. #ITP #Coq
++ [[https://www.cs.umd.edu/~rrand/thesis.pdf][Formally verified quantum programming]]. ~ Robert Rand (2018). #PhD_Thesis #ITP #Coq #QuantumProgramming
++ [[https://www.isa-afp.org/browser_info/current/AFP/Hyperdual/document.pdf][Hyperdual numbers and forward differentiation (in Isabelle/HOL)]]. ~ Filip Smola and Jacques Fleuriot. #ITP #IsabelleHOL #Math
+
 *** 04-Jan-22
  + [[https://archive.org/details/foundationsofari00freg][The foundations of arithmetic: a logico-mathematical enquiry into the concept of number]]. ~ Gottlob Frege (1884). #Logic #Math
  + [[http://bibliotecadigital.ilce.edu.mx/Colecciones/ReinaCiencias/_docs/Los_fundamentos_aritmetica-Frege.pdf][Los fundamentos de la aritmética]]. ~ Gottlob Frege (1884). #Lógica #Matemática
