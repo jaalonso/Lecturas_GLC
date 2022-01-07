@@ -31,6 +31,20 @@ its content.
 
 ** January 2022
 
+*** 06-Jan-22
++ [[https://archive.org/details/aninvestigation01boolgoog][An investigation of the laws of thought: On which are founded the mathematical theories of logic]]. ~ George Boole (1854). #Logic #Matha via @internetarchive
++ [[https://www.buzzsprout.com/758831/9831422-manuel-rubio-sanchez-recursividad-investigacion-y-el-valor-de-los-fundamentos-e-69]["Recursividad, investigación y el valor de los fundamentos" por Manuel Rubio-Sánchez (@MRubSan) y Camilo Chacón Sartori (@camilo_chacon) en "Había una vez un algoritmo]]...". #Podcast #Programación #Computación #Matemáticas
++ [[https://www.buzzsprout.com/758831/9788625-andros-fenollosa-programacion-funcional-clojure-y-el-amor-a-la-informatica-e-65]["Programación funcional, Clojure y el amor a la informática" por Andros Fenollosa (@androsfenollosa) y Camilo Chacón Sartori (@camilo_chacon) en "Había una vez un algoritmo]]...". #ProgramaciónFuncional #Clojure
++ [[https://www.cs.utexas.edu/users/EWD/ewd03xx/EWD340.PDF][The humble programmer]]. ~ Edsger W. Dijkstra (1972). #CompSci
++ [[https://nummolt.blogspot.com/2019/08/el-programador-humilde.html][El programador humilde]]. ~ Edsger W. Dijkstra (1972). #Programación
++ [[https://www.youtube.com/watch?v=-4Yp3j_jk8Q][Thinking above the code (Video)]]. ~ Leslie Lamport (2014). #CompSci
++ [[https://www.microsoft.com/en-us/research/wp-content/uploads/2016/07/leslie_lamport.pdf][Thinking above the code (Slides)]]. ~ Leslie Lamport (2014). #CompSci
++ [[https://topos.site/poly-book.pdf][Polynomial functors: A general theory of interaction]]. ~ David I. Spivak, Nelson Niu. #CategoryTheory via @Iceland_jack
++ [[https://gist.github.com/wenkokke/9f608fdebe0ee335deeff4d5b01b7f69][A list of projects providing tactics for Agda]]. ~  Wen Kokke (@wenkokke). #ITP #Agda
++ [[https://starsandspira.ls/docs/esop22-draft.pdf][Linearity and uniqueness: An entente cordiale]]. ~ Daniel Marshall, Michael Vollmer, and Dominic Orchard. #Granule #FunctionalProgramming via @brendanzab
++ [[https://github.com/haskell-beginners-2022/exercises][Exercises for the Haskell Beginners 2022 course]]. ~  Dmitrii Kovanikov (@ChShersh). #Haskell #FunctionalProgramming
++ [[https://www.cs.utexas.edu/~amiltner/burst.pdf][Bottom-up synthesis of recursive functional programs using angelic execution]]. ~ Anders Miltner, Adrian Trejo Nuñez, Ana Brendel, Swarat Chaudhuri, Isil Dillig. #OCaml #FunctionalProgramming
+
 *** 05-Jan-22
 + [[http://bibliotecadigital.ilce.edu.mx/Colecciones/ReinaCiencias/_docs/Los_principios_aritmetica.pdf][Los principios de la aritmética presentados por un nuevo método]]. ~ Giuseppe Peano (1889). #Lógica #Matemática via @kroftopkin
 + [[https://raw.githubusercontent.com/mdnahas/Peano_Book/master/Peano.pdf]["Arithmetices principia, nova methodo exposita" or "The principles of arithmetic, presented by a new method" (both in the original latin and in parallel english translation with modern mathematical notation)]]. ~ Giuseppe Peano (1889). #Logic #Math
