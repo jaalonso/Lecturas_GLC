@@ -31,6 +31,25 @@ its content.
 
 ** January 2022
 
+*** 07-Jan-22
++ [[https://math.byu.edu/~grant/courses/cantor1874.pdf][On a property of the class of all real algebraic numbers]]. ~ Georg Cantor (1874). #Logic #Math #SetTheory
++ [[http://bibliotecadigital.ilce.edu.mx/Colecciones/ReinaCiencias/_docs/SobreUnaPropiedadConjunto_Cantor.pdf][Sobre una propiedad del conjunto de los números algebraicos reales]]. ~ Georg Cantor (1874). #Lógica #Matemática #Teoría_de_conjuntos vía @kroftopkin
++ [[http://www.digizeitschriften.de/dms/resolveppn/?PID=GDZPPN002155583][Ueber eine Eigenschaft des Inbegriffes aller reellen algebraischen Zahlen]]. ~ Georg Cantor (1874). #Logic #Math #SetTheory
++ [[https://www.cambridge.org/core/journals/journal-of-functional-programming/article/how-to-find-a-fake-coin/BD43BF3F22072B224171E9A0B961DF22][Functional pearl: How to find a fake coin]]. ~ Richard S. Bird (2019). #Haskell #FunctionalProgramming
++ [[https://arxiv.org/abs/2201.01943][Machine learning: Algorithms, models, and applications]]. ~ Jaydip Sen et als. #eBook #MachineLearning
++ [[https://blog.josephmorag.com/posts/databass1/][Databass, Part 1: Queries]]. ~ Joseph Morag. #Haskell #FunctionalProgramming
++ [[https://blog.josephmorag.com/posts/databass2/][Databass, Part 2: Inserting into the database]]. ~ Joseph Morag. #Haskell #FunctionalProgramming
++ [[https://www.buzzsprout.com/758831/9639262-felipe-santa-cruz-buen-codigo-teoria-y-la-programacion-funcional-e-61][Buen código, teoría y la programación funcional]] por Felipe Santa-Cruz (@Felipe_StaCruz) y Camilo Chacón Sartori (@camilo_chacon_s) en "Había una vez un algoritmo..." #Podcast #Programación #ProgramaciónFuncional
++ [[https://www.researchgate.net/publication/357573307_Knowledge_representation_for_explainable_artificial_intelligence_Modeling_foundations_from_complex_systems][Knowledge representation for explainable artificial intelligence: Modeling foundations from complex systems]]. ~ Joaquín Borrego Díaz, Juan Galán Páez. #AI #KR #XAI
++ [[http://www.cs.ox.ac.uk/jeremy.gibbons/publications/continued.pdf][Continuation-passing style, defunctionalization, accumulations, and associativity]]. ~ Jeremy Gibbons (@jer_gib). #FunctionalProgramming #Haskell
++ [[http://www.cs.ox.ac.uk/people/jeremy.gibbons/publications/ifip60.pdf][Algorithmics]]. ~ Richard Bird‚ Jeremy Gibbons‚ Ralf Hinze‚ Peter Hoefner‚ Johan Jeuring‚ Lambert Meertens‚ Bernhard Moeller‚ Carroll Morgan‚ Tom Schrijvers‚ Wouter Swierstra and Nicolas Wu (2020). #Algorithmic_programming
++ [[https://pl.cs.uni-kl.de/homepage/teaching/ss19/fp/slides.pdf][Functional programming]]. ~ Ralf Hinze (2019). #Haskell #FunctionalProgramming
++ [[http://www.thomaswong.net/introduction-to-classical-and-quantum-computing.pdf][Introduction to classical and quantum computing]]. ~ Thomas G. Wong (@thomasgwong). #eBook #Quantum_computing #CompSci
++ [[http://www.hoefner-online.de/home/pdfs/2021BannisterHoefnerStruth.pdf][Effect algebras, Girard quantales and complementation in separation logic]]. ~ Callum Bannister, Peter Höfner, Georg Struth. #ITP #IsabelleHOL
++ [[https://spiral.imperial.ac.uk/handle/10044/1/90698][Reasoning about effect interaction by fusion]]. ~ Zhixuan Yang, Nicolas Wu (2021). #Haskell #FunctionalProgramming
++ [[https://yangzhixuan.github.io/pdf/scoped-cata.pdf][Structured handling of scoped effects]]. ~ Zhixuan Yang, Marco Paviotti, Nicolas Wu, Birthe van den Berg, and Tom Schrijvers. #Haskell #FunctionalProgramming
++ [[https://yangzhixuan.github.io/pdf/fantastic-morphisms.pdf][Fantastic morphisms and where to find them (A guide to recursion schemes)]]. ~ Zhixuan Yang and Nicolas Wu (2019). #Haskell #FunctionalProgramming
+
 *** 06-Jan-22
 + [[https://archive.org/details/aninvestigation01boolgoog][An investigation of the laws of thought: On which are founded the mathematical theories of logic]]. ~ George Boole (1854). #Logic #Matha via @internetarchive
 + [[https://www.buzzsprout.com/758831/9831422-manuel-rubio-sanchez-recursividad-investigacion-y-el-valor-de-los-fundamentos-e-69]["Recursividad, investigación y el valor de los fundamentos" por Manuel Rubio-Sánchez (@MRubSan) y Camilo Chacón Sartori (@camilo_chacon) en "Había una vez un algoritmo]]...". #Podcast #Programación #Computación #Matemáticas
