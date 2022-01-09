@@ -31,6 +31,21 @@ its content.
 
 ** January 2022
 
+*** 08-Jan-22
++ [[https://archive.org/details/asurveyofsymboli00lewiuoft via @internetarchive][A survey of symbolic logic]]. ~ Clarence Irving Lewis (1918). #Logic #Math
++ [[https://notxor.nueva-actitud.org/2022/01/08/preparando-emacs-para-trabajar-con-clojure.html][Preparando Emacs para trabajar con Clojure]]. ~ Notxor. #Emacs #Clojure #FunctionalProgramming
++ [[https://youtu.be/I4pQbo5MQOs][The paradox at the heart of mathematics: Gödel's Incompleteness Theorem]]. ~ Marcus du Sautoy. #Logic #Math
++ [[https://www.en.pms.ifi.lmu.de/publications/diplomarbeiten/Wolfgang.Witt/DA_Wolfgang.Witt.pdf][Types in logic programming (An overview of type systems proposed for logic programming languages)]]. ~ Wolfgang Witt. #LogicProgramming #TypeTheory #Mercury
++ [[http://hiperfit.dk/pdf/olesen-bsc-2021.pdf][Extracting certified Futhark code from Coq]]. ~ Kristian Knudsen Olesen. #BSc_Thesis #ITP #Coq
++ [[https://research.chalmers.se/publication/527051/file/527051_Fulltext.pdf][Practical heterogeneous unification for dependent type checking]]. ~ Víctor López Juan. #PhD_Thesis #ITP #Agda #FunctionalProgramming
++ [[https://arxiv.org/abs/2201.00255v1][The solutions to single-variable polynomials, implemented and verified in Lean]]. ~ Nicholas Dyson, Benedikt Ahrens, Jacopo Emmenegger. #ITP #LeanProver #Math
++ [[https://arxiv.org/abs/2112.14809v1][Explanation by automated reasoning using the Isabelle infrastructure framework]]. ~ Florian Kammüller. #ITP #IsabelleHOL #XAI #AI #MachineLearning
++ [[https://repozytorium.uwb.edu.pl/jspui/bitstream/11320/12385/1/10.2478_forma-2021-0007.pdf][Pappus’s hexagon theorem in real projective plane]]. ~ Roland Coghetto. #ITP #Mizar #Math
++ [[https://repozytorium.uwb.edu.pl/jspui/bitstream/11320/12390/1/10.2478_forma-2021-0009.pdf][Ascoli-Arzel`a theorem (in Mizar)]]. ~ Hiroshi Yamazaki. #ITP #Mizar #Math
++ [[https://www.hindawi.com/journals/sp/2022/2079880/][A comprehensive formalization of AADL with behavior annex]]. ~ Yu Tan, Yongwang Zhao, Dianfu Ma, and Xuejun Zhang. #ITP #IsabelleHOL
++ [[https://raw.githubusercontent.com/mukeshtiwari/HotSpot2021/main/formal_properties_schulze.pdf][Machine checked properties of the Schulze method]]. ~ Mukesh Tiwari, Dirk Pattinson. #ITP #Coq
++ [[https://repozytorium.uwb.edu.pl/jspui/bitstream/11320/12387/1/10.2478_forma-2021-0008.pdf][On weakly associative lattices and near lattices (in Mizar)]]. ~ Damian Sawicki, Adam Grabowski. #ITP #Mizar #Math
+
 *** 07-Jan-22
 + [[https://math.byu.edu/~grant/courses/cantor1874.pdf][On a property of the class of all real algebraic numbers]]. ~ Georg Cantor (1874). #Logic #Math #SetTheory
 + [[http://bibliotecadigital.ilce.edu.mx/Colecciones/ReinaCiencias/_docs/SobreUnaPropiedadConjunto_Cantor.pdf][Sobre una propiedad del conjunto de los números algebraicos reales]]. ~ Georg Cantor (1874). #Lógica #Matemática #Teoría_de_conjuntos vía @kroftopkin
