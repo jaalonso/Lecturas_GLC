@@ -31,6 +31,16 @@ its content.
 
 ** January 2022
 
+*** 09-Jan-22
++ [[http://www-formal.stanford.edu/jmc/history/lisp/lisp.html][History of Lisp]]. ~ John McCarthy (1979). #Lisp #FunctionalProgramming
++ [[https://www.researchgate.net/publication/220636751_Three_Paradigms_of_Computer_Science][Three paradigms of Computer Science]]. ~ Amnon H. Eden (2007). #CompSci
++ [[http://www.f.waseda.jp/sidoli/White_2004_Philosophy_Computer_Language.pdf][The philosophy of computer languages]]. ~ Graham White (2004). #CompSci
++ [[https://courses.cs.northwestern.edu/325/readings/luv-slides.pdf][Tutorial on good Lisp programming style]]. ~ Peter Norvig and Kent Pitman (1993). #Lisp #Programming
++ [[https://leanprover-community.github.io/blog/posts/2021-the-bottom-line/][2021 - The Bottom Line]]. ~ Mathlib community. #ITP #LeanProver #Mathlib
++ [[https://www.brunogavranovic.com/posts/2022-01-05-lenses-to-the-left-of-me.html][Lenses to the left of me, Prisms to the right]]. ~ Bruno Gavranović (@bgavran3). #CategoryTheory #FunctionalProgramming #Haskell
++ [[https://www.brunogavranovic.com/posts/2021-03-03-Towards-Categorical-Foundations-Of-Neural-Networks.html][Towards categorical foundations of learning]]. ~ Bruno Gavranović (@bgavran3). #CategoryTheory #DeepLearning
++ [[https://arxiv.org/abs/2112.15594][A neural network solves and generates mathematics problems by program synthesis: Calculus, differential equations, linear algebra, and more]]. ~ Iddo Drori et als. #MachineLearning #Math
+
 *** 08-Jan-22
 + [[https://archive.org/details/asurveyofsymboli00lewiuoft via @internetarchive][A survey of symbolic logic]]. ~ Clarence Irving Lewis (1918). #Logic #Math
 + [[https://notxor.nueva-actitud.org/2022/01/08/preparando-emacs-para-trabajar-con-clojure.html][Preparando Emacs para trabajar con Clojure]]. ~ Notxor. #Emacs #Clojure #FunctionalProgramming
