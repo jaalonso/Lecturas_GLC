@@ -31,6 +31,14 @@ its content.
 
 ** January 2022
 
+*** 10-Jan-22
++ [[http://sunnyday.mit.edu/16.355/wirth-refinement.html]["Program development by stepwise refinement"]]. ~ Niklaus Wirth (1971). #CompSci
++ [[https://fpunfold.com/2022/01/09/haskell-dp.html][Dynamic programming in Haskell]]. ~ Amogh Rathore (@RathoreAmogh). #Haskell #FunctionalProgramming
++ [[https://www.johndcook.com/blog/2022/01/09/beattys-theorem/][Beatty’s theorem]]. ~ John D. Cook (@JohnDCook). #Math #Python
++ [[http://web.fdi.ucm.es/posgrado/conferencias/RicardoPenaMari-slides.pdf][Pasado, presente y futuro de los lenguajes de programación]]. ~ Ricardo Peña Marí (2017). #Programación
++ [[http://www.lix.polytechnique.fr/Labo/Samuel.Mimram/teaching/INF551/course.pdf][Program / Proof]]. ~ Samuel Mimram. #Agda #FunctionalProgramming #ITP #Logic
++ [[https://youtu.be/6MsQcUprO9o][Haskell Beginners 2022: Lecture 1 about Haskell and FP fundamentals]]. ~ Dmitrii Kovanikov (@ChShersh). #Haskell #FunctionalProgramming
+
 *** 09-Jan-22
 + [[http://www-formal.stanford.edu/jmc/history/lisp/lisp.html][History of Lisp]]. ~ John McCarthy (1979). #Lisp #FunctionalProgramming
 + [[https://www.researchgate.net/publication/220636751_Three_Paradigms_of_Computer_Science][Three paradigms of Computer Science]]. ~ Amnon H. Eden (2007). #CompSci
