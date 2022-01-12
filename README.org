@@ -31,6 +31,20 @@ its content.
 
 ** January 2022
 
+*** 11-Jan-22
++ [[http://www.leibniz-translations.com/truemethod.htm][The true method]]. ~ Gottfried Wilhelm Leibniz (1677). #Logic #CompSci #AI #Knowledge_representation #Automated_reasoning
++ [[https://arxiv.org/abs/2201.03242][A Coq formalization of the Bochner integral]]. ~ Sylvie Boldo, François Clément, Louise Leclerc. #ITP #Coq #Math
++ [[https://dreamsongs.com/ArtOfLisp.html][The art of Lisp & writing]]. ~ Richard Gabriel (2003). #Lisp #Programming
++ [[https://www.cs.princeton.edu/~appel/papers/ecosystem.pdf][Coq’s vibrant ecosystem for verification engineering]]. ~ Andrew W. Appel. #ITP #Coq
++ [[https://homes.cs.washington.edu/~emina/doc/rosette.popl22.pdf][A formal foundation for symbolic evaluation with merging]]. ~ Sorawee Porncharoenwase, Luke Nelson, Xi Wang, Emina Torlak. #ITP #LeanProver
++ [[https://mamouras.web.rice.edu/papers/monitoring-RV'20-extended.pdf][Verified online monitoring for metric temporal logic with lattice-based quantitative semantics]]. ~ Agnishom Chattopadhyay, Konstantinos Mamouras. #ITP #Coq #OCaml #FunctionalProgramming
++ [[https://arxiv.org/abs/2201.01649][WebSpec: Towards machine-checked analysis of browser security mechanisms]]. ~ Lorenzo Veronese, Benjamin Farinier, Mauro Tempesta, Marco Squarcina, Matteo Maffei. #ITP #Coq
++ [[https://youtu.be/3XaL0tjnWSk][Formalising mathematics: getting started (Video)]]. ~ Kevin Buzzard (@XenaProject). #ITP #LeanProver #Math
++ [[https://www.ma.imperial.ac.uk/~buzzard/xena/formalising-mathematics-2022/index.html][Formalising Mathematics (A course for mathematicians)]]. ~ Kevin Buzzard (@XenaProject) #ITP #LeanProver #Math
++ [[https://www.cs.princeton.edu/~appel/papers/deriving-efficient-rewriters.pdf][Deriving efficient program transformations from rewrite rules]]. ~ John M. Li, Andrew W. Appel. #ITP #Coq
++ [[https://www.comp.nus.edu.sg/~hobor/Publications/2021/CertiDKP.pdf][Functional correctness of C implementations of Dijkstra’s, Kruskal’s, and Prim’s algorithms]]. ~ Aquinas Hobor, Anshuman Mohan, Wei Xiang. #ITP #Coq
++ [[https://www.gaussianos.com/demostracion-en-una-linea-del-teorema-de-varignon/][Demostración en una línea del teorema de Varignon]]. ~ Miguel Ángel Morales (@gaussianos). #Matemáticas
+
 *** 10-Jan-22
 + [[http://sunnyday.mit.edu/16.355/wirth-refinement.html]["Program development by stepwise refinement"]]. ~ Niklaus Wirth (1971). #CompSci
 + [[https://fpunfold.com/2022/01/09/haskell-dp.html][Dynamic programming in Haskell]]. ~ Amogh Rathore (@RathoreAmogh). #Haskell #FunctionalProgramming
