@@ -31,6 +31,29 @@ its content.
 
 ** January 2022
 
+*** 12-Jan-22
++ [[https://www.gutenberg.org/files/15114/15114-pdf.pdf][An investigation of the laws of thought on which are founded the mathematical theories of logic and probabilities]]. ~ George Boole (1854). #Logic #Math
++ [[http://revue.sesamath.net/spip.php?article1478][La machine de Turing (1/2)]]. ~ Patrice Debrabant. #CompSci #Scratch
++ [[http://revue.sesamath.net/spip.php?article1462][La préhistoire de l’informatique]]. ~ Bernard Ycart. #CompSci #History
++ [[https://arxiv.org/abs/2201.03702][Learning logic programs from noisy failures]]. ~ John Wahlig. #MSc_Thesis #ILP #MachineLearning #LogicProgramming
++ [[https://www.cl.cam.ac.uk/~lp15/papers/Reports/mutil.pdf][A simple formalization and proof for the mutilated chess board]]. ~ Lawrence C. Paulson (2001). #ITP #IsabelleHOL
++ [[https://www.cl.cam.ac.uk/~jrh13/papers/wlog.pdf][Without loss of generality]]. ~ John Harrison (2013). #ITP #HOL_Light
++ [[https://lawrencecpaulson.github.io//2022/01/12/Proving-the-obvious.html][Proving the obvious]]. ~ Lawrence C. Paulson. #ITP #IsabelleHOL #Math
++ [[https://www.hobson.space/posts/haskell-foreign-library/][Building partially static libraries with Cabal]]. ~ James Hobson. #Haskell #FunctionalProgramming
++ [[https://arxiv.org/abs/2005.02259][Learning programs by learning from failures]]. ~ Andrew Cropper, Rolf Morel (2020). #ILP #MachineLearning #LogicProgramming
++ [[https://github.com/logic-and-learning-lab/Popper][Popper: an inductive logic programming (ILP) system]]. ~ Andrew Cropper et als. #ILP #MachineLearning #LogicProgramming #Prolog
++ [[https://arxiv.org/abs/2102.10556][Inductive logic programming at 30]]. ~ Andrew Cropper, Sebastijan Dumančić, Richard Evans, Stephen H. Muggleton. #ITP #MachineLearning #LogicProgramming
++ [[https://arxiv.org/abs/2109.07818v2][Learning logic programs through divide, constrain, and conquer]]. ~ Andrew Cropper. #ILP #MachineLearning #LogicProgramming
++ [[http://andrewcropper.com/slides/2021-ucsd-ilp-intro.pdf][Inductive logic programming (Slides)]]. ~ Andrew Cropper. #ILP #Logic #MachineLearning #LogicProgramming
++ [[https://www.ijcai.org/Proceedings/07/Papers/397.pdf][ProbLog: A probabilistic Prolog and its application in link discovery]]. ~ Luc De Raedt, Angelika Kimmig, Hannu Toivonen (2007). #LogicProgramming #LogicProgramming
++ [[https://github.com/ML-KULeuven/deepproblog][DeepProbLog: an extension of ProbLog that integrates probabilistic logic programming with deep learning by introducing the neural predicate]]. ~ Robin Manhaeve. #LogicProgramming #DeepLearning
++ [[https://lirias.kuleuven.be/retrieve/642795][Neural probabilistic logic]]. ~ Robin Manhaeve (Supervisor: Luc De Raedt). #PhD_Thesis #AI #DeepLearning #LogicProgramming #MachineLearning
++ [[https://link.springer.com/content/pdf/10.1007/s10994-020-05941-0.pdf][Beneficial and harmful explanatory machine learning]]. ~ Lun Ai1, Stephen H. Muggleton, Céline Hocquette, Mark Gromowski, Ute Schmid. #ILP #MachineLearning #AI #XAI
++ [[https://www.ijcai.org/proceedings/2020/0320.pdf][Complete bottom-up predicate invention in meta-interpretive learning]]. ~ Céline Hocquette, Stephen H Muggleton. #ILP #MachineLearning #LogicProgramming
++ [[https://youtu.be/OZLfDQKbdFk][[Formalising math 2022] Section 01 Logic, solutions to sheet 1]]. ~ Kevin Buzzard (@XenaProject) #ITP #LeanProver #Logic #Math
++ [[https://youtu.be/JTl6NHNxyDk][[Formalising math 2022] Section 01 Logic, solutions to sheet 2]]. ~ Kevin Buzzard (@XenaProject) #ITP #LeanProver #Logic #Math
++ [[https://youtu.be/qDKtXrOy6CM][[Formalising math 2022] Section 01 Logic, solutions to sheet 3]]. ~ Kevin Buzzard (@XenaProject) #ITP #LeanProver #Logic #Math
+
 *** 11-Jan-22
 + [[http://www.leibniz-translations.com/truemethod.htm][The true method]]. ~ Gottfried Wilhelm Leibniz (1677). #Logic #CompSci #AI #Knowledge_representation #Automated_reasoning
 + [[https://arxiv.org/abs/2201.03242][A Coq formalization of the Bochner integral]]. ~ Sylvie Boldo, François Clément, Louise Leclerc. #ITP #Coq #Math
