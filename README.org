@@ -31,6 +31,23 @@ its content.
 
 ** January 2022
 
+*** 13-Jan-22
++ [[https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf][On computable numbers, with an application to the Entscheidungsproblem]]. ~ Alan Mathison Turing (1936). #CompSci #Logic #Math
++ [[https://www.cambridge.org/core/journals/journal-of-functional-programming/article/building-a-consensus-a-rectangle-covering-problem/561C117A97FE0388AF96155469348B6B][Building a consensus: A rectangle covering problem]]. ~ Richard S. Bird (2011). #Haskell #FunctionalProgramming
++ [[https://www.theguardian.com/science/2022/jan/10/can-you-solve-it-godels-incompleteness-theorem][Can you solve it? Gödel’s incompleteness theorem (The proof that rocked maths)]]. ~ Alex Bellos (@alexbellos). #Logic #Math).
++ [[https://abakcus.com/10-beautiful-mathematical-documentaries-to-make-students-love-math/][10+ beautiful mathematical documentaries to make students love Math]]. ~ @abakcus #Math
++ [[https://arxiv.org/abs/2201.04352][Constructive theory of ordinals]]. ~ Thierry Coquand, Henri Lombardi, Stefan Neuwirth. #Logic #Math #SetTheory
++ [[https://github.com/woodrush/lisp-in-life][A Lisp interpreter implemented in Conway's Game of Life]]. ~ Hikaru Ikuta (@woodrush924). #Lisp #Programming
++ [[http://ceur-ws.org/Vol-3066/paper5.pdf][The role of functional programming in the organization of parallel computing]]. ~ Lidia V. Gorodnyaya. #FunctionalProgramming
++ [[https://arxiv.org/abs/1611.09475][Domain-Specific Languages of Mathematics: Presenting mathematical analysis using functional programming]]. ~ Cezar Ionescu, Patrik Jansson (2016). #Haskell #FunctionalProgramming #Math
++ [[http://www.cse.chalmers.se/~coquand/canorm1.pdf][Canonicity and normalization for type theory]]. ~ Thierry Coquand. #TypeTheory
++ [[http://hlombardi.free.fr/laius.html][Le point de vue constructif en mathématiques]]. ~ Henri Lombardi. #Logic #Math
++ [[http://hlombardi.free.fr/publis/JNCF2014.pdf][Algèbre constructive]]. ~ Henri Lombardi. #Math
++ [[https://youtu.be/lubSFfj4B08][[Formalising math 2022] Section 01 Logic, solutions to sheet 4 ("and")]]. ~ Kevin Buzzard (@XenaProject) #ITP #LeanProver #Logic #Math
++ [[https://youtu.be/tQSA7x4AWD4][[Formalising math 2022] Section 01 Logic, solutions to sheet 5 ("iff")]]. ~ Kevin Buzzard (@XenaProject) #ITP #LeanProver #Logic #Math
++ [[https://youtu.be/Mwx9zkQM-Kk][[Formalising math 2022] Section 01 Logic, solutions to sheet 6 ("or")]]. ~ Kevin Buzzard (@XenaProject) #ITP #LeanProver #Logic #Math
++ [[https://mmhaskell.com/blog/2022/1/13/group-theory]["Group" theory]]. ~ James Bowen (@james_OWA). #Haskell #FunctionalProgramming
+
 *** 12-Jan-22
 + [[https://www.gutenberg.org/files/15114/15114-pdf.pdf][An investigation of the laws of thought on which are founded the mathematical theories of logic and probabilities]]. ~ George Boole (1854). #Logic #Math
 + [[http://revue.sesamath.net/spip.php?article1478][La machine de Turing (1/2)]]. ~ Patrice Debrabant. #CompSci #Scratch
