@@ -31,6 +31,13 @@ its content.
 
 ** January 2022
 
+*** 14-Jan-22
++ [[https://www.cs.virginia.edu/~evans/greatworks/shannon38.pdf][A symbolic analysis of relay and switching circuits]]. Claude Shannon (1938). #CompSci
++ [[https://www.karimarttila.fi/clojure/2022/01/13/datalog-exercises.html][Clojure & Datalog is Lisp & Prolog]]. ~ Kari Marttila. #Clojure #Datalog #Lisp #Prolog #FunctionalProgramming #LogicProgramming
++ [[https://youtu.be/UykGFDVfQNA][[London Learning Lean] Formalizing adèles and idèles]]. ~ María Inés de Frutos-Fernández. #ITP #LeanProver #Math
++ [[https://youtu.be/SAMxgEtLTcg][Formalising Lie algebras]]. ~ Oliver Nash. #ITP #LeanProver #Math
++ [[https://leanprover.zulipchat.com/user_uploads/3121/mqEJI5ZdyytcJnb1L3wWGhQD/TacticGuide.pdf][A practical guide to writing tactics in Lean]]. ~ Daniel J. Velleman. #ITP #LeanProver
+
 *** 13-Jan-22
 + [[https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf][On computable numbers, with an application to the Entscheidungsproblem]]. ~ Alan Mathison Turing (1936). #CompSci #Logic #Math
 + [[https://www.cambridge.org/core/journals/journal-of-functional-programming/article/building-a-consensus-a-rectangle-covering-problem/561C117A97FE0388AF96155469348B6B][Building a consensus: A rectangle covering problem]]. ~ Richard S. Bird (2011). #Haskell #FunctionalProgramming
