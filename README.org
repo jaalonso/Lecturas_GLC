@@ -31,6 +31,31 @@ its content.
 
 ** January 2022
 
+*** 15-Jan-22
++ [[https://archive.org/details/MIND--COMPUTING-MACHINERY-AND-INTELLIGENCE][Computing machinery and intelligence]]. ~ Alan Mathison Turing (1950). #CompSci #AI via @internetarchive
++ [[https://archive.org/details/atreatiseonalge02peacgoog][A treatise on algebra]]. ~ George Peacock (1830).
++ [[https://plato.stanford.edu/entries/logic-ai/][Logic and artificial intelligence]]. ~ Richmond Thomason (2018). #Logic #AI
++ [[https://plato.stanford.edu/entries/reasoning-automated/][Automated reasoning]]. ~ Frederic Portoraro (2019) #ATP #Logic #Math #CompSci
++ [[https://plato.stanford.edu/entries/logic-firstorder-emergence/][The emergence of first-order logic]]. ~ William Ewald (2018). #Logic #Math #History
++ [[https://plato.stanford.edu/entries/settheory-early/][The early development of set theory]]. ~ José Ferreirós (2020). #Logic #Math #SetTheory #History
++ [[https://plato.stanford.edu/entries/proof-theory-development/][The development of proof theory]]. ~ Jan von Plato (2014). #Logic #Math #History
++ [[https://www.britannica.com/topic/history-of-logic]["History of logic" (Encyclopedia Britannica)]]. ~ Jaakko J. Hintikka, Paul Vincent Spade. #Logic #Math #CompSci #History
++ [[https://www.ias.ac.in/article/fulltext/sadh/034/01/0003-0025][Proof assistants: History, ideas and future]]. ~ H. Geuvers (2009). #ITP #Logic #Math #CompSci #History
++ [[http://users.encs.concordia.ca/~tphols08/TPHOLs2008/mikegordontphols08talk.pdf][Twenty years of theorem proving for HOLs (Past, present and future)]]. ~ Mike Gordon (2008). #Logic #CompSci #ITP
++ [[http://people.cs.uchicago.edu/~rchugh/static/theses/nick-collins-thesis.pdf][Delta dictionaries (Total and extensional finite maps in proof assistants)]]. ~ Nick Collins. #ITP #Agda
++ [[https://link.springer.com/book/9783030769093][Introduction to computation: Haskell, logic and automata]]. ~ Don Sannella, Michael Paul Fourman, Haoran Peng, Philip Wadler. #Haskell #FunctionalProgramming #Logic #CompSci
++ [[https://www.micahcantor.com/blog/about-that-reader-trick/][About that Reader trick]]. ~ Micah Cantor (@micah_cantor). #Haskell #FunctionalProgramming
++ [[https://lawrencecpaulson.github.io/2021/12/01/Undefined.html][Undefined values, or what do we get when we divide by zero?]] ~ Lawrence C. Paulson. #Logic #Math #ITPa
++ [[http://data.tmorris.net/talks/list-folds/b30aa0fdff296c731bc5b1c824adf1d02b3b69d9/list-folds.pdf][Explaining list folds (An easy explanation of the fold-left and fold-right functions)]]. ~ Tony Morris (2013). #Haskell #FunctionalProgramming
++ [[https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/][Parse, don’t validate]]. ~ Alexis King (@lexi_lambda). #Haskell #FunctionalProgramming
++ [[https://bradparker.com/posts/servant-types][Servant's type-level domain specific language]]. ~ Brad Parker (@parkerbrads). #Haskell #FunctionalProgramming
++ [[https://www.benjamin.pizza/posts/2017-12-15-functor-functors.html][Functor functors]]. ~ Benjamin Hodgson (2017). #Haskell #FunctionalProgramming
++ [[https://blog.ocharles.org.uk/posts/2017-08-23-extensible-effects-and-transformers.html][Providing an API for extensible-effects and monad transformers]]. ~ Ollie Charles (@acid2). #Haskell #FunctionalProgramming
++ [[https://teh.id.au][Continuations all the way down]]. ~ T. Humphries./#/posts/2017/05/10/lambdajam-slides/index.html #Haskell #FunctionalProgramming
++ [[https://blog.jle.im/entry/free-alternative-regexp.html][Applicative regular expressions using the free Alternative]]. ~ Justin Le (@mstk). #Haskell #FunctionalProgramming
++ [[https://elvishjerricco.github.io/2017/03/10/profunctors-arrows-and-static-analysis.html][Profunctors, arrows, & static analysis]]. Will Fancher (@ElvishJerricco). #Haskell #FunctionalProgramming
++ [[http://jackkelly.name/wiki/haskell.html][Haskell learning resource collection]]. ~ Jack Kelly. #Haskell #FunctionalProgramming
+
 *** 14-Jan-22
 + [[https://www.cs.virginia.edu/~evans/greatworks/shannon38.pdf][A symbolic analysis of relay and switching circuits]]. Claude Shannon (1938). #CompSci
 + [[https://www.karimarttila.fi/clojure/2022/01/13/datalog-exercises.html][Clojure & Datalog is Lisp & Prolog]]. ~ Kari Marttila. #Clojure #Datalog #Lisp #Prolog #FunctionalProgramming #LogicProgramming
