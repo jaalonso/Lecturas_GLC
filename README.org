@@ -31,6 +31,12 @@ its content.
 
 ** January 2022
 
+*** 16-Jan-22
++ [[http://jmc.stanford.edu/articles/recursive/recursive.pdf][Recursive functions of symbolic expressions and their computation by machine]]. ~ John McCarthy (1960). #CompSci #Lisp
++ [[https://archive.org/details/foundationsofari0000freg][The foundations of arithmetic: a logico-mathematical enquiry into the concept of number]]. ~ Gottlob Frege (1884). #Logic #Math via @internetarchive
++ [[https://archive.org/details/diegrundlagende00freggoog][Die Grundlagen der Arithmetik: eine logisch mathematische Untersuchung über den Begriff der Zahl]]. ~ Gottlob Frege (1884). #Logic #Math via @internetarchive
++ [[https://github.com/lecopivo/SciLean][SciLean: Framework for scientific computing written in Lean]]. ~ Tomas Skrivnan. #ITP #LeanProver #FunctionalProgramming #Math
+
 *** 15-Jan-22
 + [[https://archive.org/details/MIND--COMPUTING-MACHINERY-AND-INTELLIGENCE][Computing machinery and intelligence]]. ~ Alan Mathison Turing (1950). #CompSci #AI via @internetarchive
 + [[https://archive.org/details/atreatiseonalge02peacgoog][A treatise on algebra]]. ~ George Peacock (1830).
