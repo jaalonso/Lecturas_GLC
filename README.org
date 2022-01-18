@@ -31,6 +31,15 @@ its content.
 
 ** January 2022
 
+*** 17-Jan-22
++ [[http://sunnyday.mit.edu/16.355/Hoare-CACM-69.pdf][An axiomatic basis for computer programming]]. ~ C. A. R. Hoare (1969). #CompSci
++ [[https://zulip-uploads.s3.amazonaws.com/3121/sTt0HtbubzJwl1ZYkLpLRetd/TacticGuide.pdf?AWSAccessKeyId=AKIAIEVMBCAT2WD3M5KQ&Signature=1FJy4zP85WH4HQ4qi7E3Nm%2BTYSQ%3D&Expires=1642411032][A practical guide to writing tactics in Lean]]. ~ Daniel J. Velleman. #ITP #LeanProver
++ [[https://jxxcarlson.medium.com/lambda-calculus-an-elm-cli-fd537071db2b][Lambda calculus: an Elm CLI]]. ~ James Carlson. #Elm #FunctionalProgramming #LambdaCalculus
++ [[https://youtu.be/NBNH0_glDZg][From greek paradoxes to political paradoxes]]. ~ Moshe Y. Vardi (@vardi). #Logic
++ [[https://begriffs.com/posts/2017-01-14-design-use-quickcheck.html][The design and use of QuickCheck]]. ~ Joe "begriffs" Nelson (2017). #Haskell #FunctionalProgramming
++ [[https://lawrencecpaulson.github.io//2022/01/19/regular-pairs.html][Formalising extremal graph theory, I]]. ~ Lawrence C. Paulson. #ITP #IsabelleHOL #Math
++ [[https://mmhaskell.com/blog/2022/1/17/transposing-rows][Transposing rows]]. ~ James Bowen (@james_OWA). #Haskell #FunctionalProgramming
+
 *** 16-Jan-22
 + [[http://jmc.stanford.edu/articles/recursive/recursive.pdf][Recursive functions of symbolic expressions and their computation by machine]]. ~ John McCarthy (1960). #CompSci #Lisp
 + [[https://archive.org/details/foundationsofari0000freg][The foundations of arithmetic: a logico-mathematical enquiry into the concept of number]]. ~ Gottlob Frege (1884). #Logic #Math via @internetarchive
