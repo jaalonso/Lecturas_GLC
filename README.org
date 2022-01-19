@@ -31,6 +31,24 @@ its content.
 
 ** January 2022
 
+*** 18-Jan-22
++ [[https://www.inf.unibz.it/~calvanese/teaching/11-12-tc/material/cook-1971-NP-completeness-of-SAT.pdf][The complexity of theorem-proving procedures]]. ~ Stephen A. Cook (1971). #CompSci #Logic #Math
++ [[https://youtu.be/mbjeniWFqcM ][[Formalising math 2022] Section 02: the reals, solutions to sheet 1 ("norm_num")]]. ~ Kevin Buzzard (@XenaProject). #ITP #LeanProver #Logic #Math
++ [[https://youtu.be/fuNF7lVouWs][[Formalising math 2022] Section 02: the reals, solutions to sheet 2 ("ring")]]. ~ Kevin Buzzard (@XenaProject). #ITP #LeanProver #Logic #Math
++ [[https://youtu.be/jCQ1_zXo5GI][[Formalising math 2022] Section 02: the reals, solutions to sheet 3 (limits of sequences)]]. ~ Kevin Buzzard (@XenaProject). #ITP #LeanProver #Logic #Math
++ [[https://youtu.be/rf-lie7U04Q][[Haskell beginners 2022]: Lecture 2 about pattern matching, algebraic data types, parametric polymorphism and function composition]]. ~ Dmitrii Kovanikov (@ChShersh). #Haskell #FunctionalProgramming
++ [[https://ahistoryofai.com/][A history of Artificial Intelligence]]. ~ S. Hussain Ather (@SHussainAther). #AI #History
++ [[https://www.cs.tau.ac.il/~msagiv/courses/ATP/lecture-1.pdf][Automated Theorem Proving]]. ~ Arnon Avron, Mooly Sagiv. #ATP #Logic #CompSci
++ [[https://dl.acm.org/doi/pdf/10.1145/3498685][Certifying derivation of state machines from coroutines]]. ~ Mirai Ikebuchi, Andres Erbsen, Adam Chlipala. #ITP #Coq
++ [[https://youtu.be/u5B-jiFDKto][DSLsofMath Week 1: Extra lecture on Haskell, part 1/3]]. ~ Patrik Jansson (@patrikja). #Haskell #FunctionalProgramming
++ [[https://youtu.be/Mr_YFDX0C1w][DSLsofMath Week 1: Extra lecture on Haskell, part 2/3]]. ~ Patrik Jansson (@patrikja). #Haskell #FunctionalProgramming
++ [[https://youtu.be/NsSVRkxDdfQ][DSLsofMath Week 1: Extra lecture on Haskell, part 3/3]]. ~ Patrik Jansson (@patrikja). #Haskell #FunctionalProgramming
++ [[https://youtu.be/nsXgf1HF7E8][DSLsofMath Week 1, Lecture 1, Part 1]]. ~ Patrik Jansson (@patrikja). #Haskell #FunctionalProgramming #Math
++ [[https://youtu.be/80DeRjb06vI][DSLsofMath Week 1, Lecture 1, Part 2]]. ~ Patrik Jansson (@patrikja). #Haskell #FunctionalProgramming #Math
++ [[https://haselwarter.org/assets/pdfs/effective-metatheory-for-type-theory.pdf][Effective metatheory for type theory]]. ~ Philipp Georg Haselwarter. #PhD_Thesis #TypeTheory
++ [[https://www21.in.tum.de/~traytel/papers/tacas22-verimon_letpast/verimon_letpast.pdf][Verified first-order monitoring with recursive rules]]. ~ Sheila Zingg, Sr̄dan Krstíc, Martin Raszyk, Joshua Schneider, Dmitriy Traytel. #ITP #IsabelleHOL
++ [[https://homepages.uni-regensburg.de/~usm34387/masterarbeit.pdf][Computability and l²-Betti numbers]]. ~ Matthias Uschold. #MSc_Thesis #ITP #LeanProver
+
 *** 17-Jan-22
 + [[http://sunnyday.mit.edu/16.355/Hoare-CACM-69.pdf][An axiomatic basis for computer programming]]. ~ C. A. R. Hoare (1969). #CompSci
 + [[https://zulip-uploads.s3.amazonaws.com/3121/sTt0HtbubzJwl1ZYkLpLRetd/TacticGuide.pdf?AWSAccessKeyId=AKIAIEVMBCAT2WD3M5KQ&Signature=1FJy4zP85WH4HQ4qi7E3Nm%2BTYSQ%3D&Expires=1642411032][A practical guide to writing tactics in Lean]]. ~ Daniel J. Velleman. #ITP #LeanProver
