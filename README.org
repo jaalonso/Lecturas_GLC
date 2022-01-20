@@ -31,6 +31,11 @@ its content.
 
 ** January 2022
 
+*** 19-Jan-22
++ [[https://www.astro.puc.cl/~rparra/tools/PAPERS/hilbert_1900.pdf][Mathematical problems]]. ~ David Hilbert (1900). #Math #CompSci
++ [[https://arxiv.org/abs/2201.05716][Mechanizing matching logic in Coq]]. ~ Péter Bereczky, Xiaohong Chen, Dániel Horpácsi, Tamás Bálint Mizsei, Lucas Peña. #ITP #Coq #Logic
++ [[http://real.mtak.hu/112925/1/381][Interactive teaching of programming language theory with a proof assistant]]. ~ Péter Bereczky, István Donkó, Dániel Horpácsi, Ambrus Kaposi, Dávid János Németh. #ITP #Coq
+
 *** 18-Jan-22
 + [[https://www.inf.unibz.it/~calvanese/teaching/11-12-tc/material/cook-1971-NP-completeness-of-SAT.pdf][The complexity of theorem-proving procedures]]. ~ Stephen A. Cook (1971). #CompSci #Logic #Math
 + [[https://youtu.be/mbjeniWFqcM ][[Formalising math 2022] Section 02: the reals, solutions to sheet 1 ("norm_num")]]. ~ Kevin Buzzard (@XenaProject). #ITP #LeanProver #Logic #Math
