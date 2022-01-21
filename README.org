@@ -31,6 +31,16 @@ its content.
 
 ** January 2022
 
+*** 20-Jan-22
++ [[https://trhvidsten.com/docs/classics/Goedel-1931.pdf][On formally undecidable propositions of "Principia Mathematica" and related systems I]]. ~ Kurt Gödel (1931). #Logic #Math
++ [[https://programming-language-benchmarks.vercel.app/][Programming language and compiler benchmarks]]. #Programming
++ [[https://github.com/hanabi1224/Programming-Language-Benchmarks][Programming language and compiler benchmarks (Repo)]]. #Programming
++ [[https://arxiv.org/abs/2201.07275][Automated theorem proving in the classroom]]. ~ Wolfgang Windsteiger. #ITP #ATP #Logic #Math
++ [[https://fritzfeger.com/haskell/resolution-switching-haskell-ihp][A resolution switching responsive images template with Haskell and IHP]]. ~ Fritz Feger (@fritzfeger). #Haskell #FunctionalProgramming
++ [[https://cacm.acm.org/blogs/blog-cacm/257923-how-to-teach-mathematical-disciplines-for-it-specialties/fulltext][How to teach mathematical disciplines for IT specialties]]. ~ Andrei Sukhov. #Math #CompSci
++ [[https://www.tweag.io/blog/2022-01-19-why-liquid-haskell/][Why Liquid Haskell matters]]. ~ Facundo Domínguez. #Haskell #LiquidHaskell
++ [[https://tarmean.github.io/branch_and_bound.html][Abstracting over branch and bound]]. #Haskell #FunctionalProgramming
+
 *** 19-Jan-22
 + [[https://www.astro.puc.cl/~rparra/tools/PAPERS/hilbert_1900.pdf][Mathematical problems]]. ~ David Hilbert (1900). #Math #CompSci
 + [[https://arxiv.org/abs/2201.05716][Mechanizing matching logic in Coq]]. ~ Péter Bereczky, Xiaohong Chen, Dániel Horpácsi, Tamás Bálint Mizsei, Lucas Peña. #ITP #Coq #Logic
