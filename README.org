@@ -31,6 +31,15 @@ its content.
 
 ** January 2022
 
+*** 21-Jan-22
++ [[https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.136.3043&rep=rep1&type=pdf][Programming with abstract data types]]. ~ Barbara Liskov, Stephen Zilles (1974). #CompSci #Programming
++ [[https://www.cis.upenn.edu/~jean/math-deep.pdf][Algebra, topology, differential calculus, and optimization theory for computer science and machine learning]]. ~ Jean Gallier and Jocelyn Quaintance. #eBook #Math #MachineLearning via @CompSciFact
++ [[https://home.ttic.edu/~dreyer/course/papers/barendregt.pdf][Lambda calculi with types]]. ~ Henk Barendregt. #Logic #CompSci via @CompSciFact
++ [[http://www.andreas-lochbihler.de/pub/lochbihler-mfmc-jar.pdf][A mechanized proof of the max-flow min-cut theorem for countable networks with applications to probability theory]]. ~ Andreas Lochbihler. #ITP #IsabelleHOL
++ [[https://archive.org/details/prologprogrammin0000brat][Prolog programming for artificial intelligence]]. ~ Ivan Bratko (1990). #Prolog #LogicProgramming #AI via @internetarchive
++ [[https://book.simply-logical.space/][Simply logical (Intelligent reasoning by example)]]. ~ Peter Flach. #Logic #Prolog #LogicProgramming #AI
++ [[https://plus.maths.org/content/proof-picture][Proof by picture!]] #Math
+
 *** 20-Jan-22
 + [[https://trhvidsten.com/docs/classics/Goedel-1931.pdf][On formally undecidable propositions of "Principia Mathematica" and related systems I]]. ~ Kurt Gödel (1931). #Logic #Math
 + [[https://programming-language-benchmarks.vercel.app/][Programming language and compiler benchmarks]]. #Programming
