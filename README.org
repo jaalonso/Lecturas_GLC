@@ -31,6 +31,13 @@ its content.
 
 ** January 2022
 
+*** 22-Jan-22
++ [[http://worrydream.com/refs/Hoare%20-%20The%20Emperors%20Old%20Clothes.pdfa][The emperor’s old clothes]]. ~ C.A.R. Hoare (1981). #CompSci
++ [[https://scholarsarchive.library.albany.edu/cas_philosophy_scholar_books/4/][paratodo x: Una introducción a la lógica formal]]. ~ P.D. Magnus. #Lógica via @RrrichardZach
++ [[https://www.cs.yale.edu/homes/hudak/Papers/HSoM.pdf][The Haskell school of music (from signals to symphonies)]]. ~ Paul Hudak. #Haskell #FunctionalProgramming
++ [[https://www.cs.us.es/~jalonso/cursos/ia1-97/temas/tema-01.pdf ][Introducción a la Inteligencia Artificial]]. ~ José A. Alonso y Francisco J. Martín (1997). #IA #Historia
++ [[https://www.cs.us.es/~jalonso/cursos/ia2-02/temas/tema-1.pdf][Programación basada en reglas con CLIPS]]. ~  José A. Alonso, José Luis Ruiz y Francisco J. Martín (2002). #CLIPS
+
 *** 21-Jan-22
 + [[https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.136.3043&rep=rep1&type=pdf][Programming with abstract data types]]. ~ Barbara Liskov, Stephen Zilles (1974). #CompSci #Programming
 + [[https://www.cis.upenn.edu/~jean/math-deep.pdf][Algebra, topology, differential calculus, and optimization theory for computer science and machine learning]]. ~ Jean Gallier and Jocelyn Quaintance. #eBook #Math #MachineLearning via @CompSciFact
