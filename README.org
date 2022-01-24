@@ -31,6 +31,12 @@ its content.
 
 ** January 2022
 
+*** 23-Jan-22
++ [[http://pu.inf.uni-tuebingen.de/users/klaeren/epigrams.html][Epigrams on programming]]. ~ Alan J. Perlis (1982). #CompSci #Programming
++ [[https://en.wikipedia.org/wiki/List_of_pioneers_in_computer_science][List of pioneers in computer science]]. #CompSci #History
++ [[https://amturing.acm.org/byyear.cfm][Chronological listing of A. M. Turing award winners]]. #CompSci #History
++ [[https://www.researchgate.net/profile/Ende-Jin/publication/357605442_Parametrized_CDCL_Verified_in_Coq/links/61d5fecab6b5667157cc53dc/Parametrized-CDCL-Verified-in-Coq.pdf][Parametrized CDCL verified in Coq]]. ~ Ende Jin. #ITP #Coq
+
 *** 22-Jan-22
 + [[http://worrydream.com/refs/Hoare%20-%20The%20Emperors%20Old%20Clothes.pdfa][The emperor’s old clothes]]. ~ C.A.R. Hoare (1981). #CompSci
 + [[https://scholarsarchive.library.albany.edu/cas_philosophy_scholar_books/4/][paratodo x: Una introducción a la lógica formal]]. ~ P.D. Magnus. #Lógica via @RrrichardZach
