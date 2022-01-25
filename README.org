@@ -31,6 +31,24 @@ its content.
 
 ** January 2022
 
+*** 24-Jan-22
++ [[https://bit.ly/3qWSDgk][Brian Kernighan]]: "Controlling complexity is the essence of computer programming." #CompSci #Programming
++ [[https://archive.org/details/cprogramminglang0000kern_2ed][The C programming language]]. ~ Brian W. Kernighan and Dennis Ritchie (1972). #CompSci #Programming via @internetarchive
++ [[https://github.com/Developer-Y/cs-video-courses][Computer Science courses with video lectures]]. #CompSci
++ [[https://plato.stanford.edu/entries/algebra-logic-tradition/][The algebra of logic tradition]]. ~ Burris, Stanley and Javier Legris. #Logic #Math via @dailySEP
++ [[https://cdsmithus.medium.com/monoids-are-composable-list-summarizers-77d2baf23ffc][Monoids are composable list summarizers]]. ~ Chris Smith (@cdsmithus). #Haskell #FunctionalProgramming #Math
++ [[https://www.cs.us.es/~fsancho/IAILab/][Laboratorio de Inteligencia Artificial inmersiva de la Universidad de Sevilla]]. #IA #Aprendizaje_automático
++ [[https://www.cs.us.es/~fsancho/IAILab/indexen.html][Immersive Artificial Intelligence Lab]]. #AI #MachineLearning
++ [[https://www.youtube.com/watch?v=JqF3-mqdwpM][Lisp in production: Interview with John Mercouris and Pierre Neidhardt the leads of the Atlas, the guys behind Nyxt web browser]]. #CommonLisp #Programming #Nyxt
++ [[https://stopa.io/post/292][LLisp: Lisp in Lisp]]. ~ Stepan Parunashvili (@stopachka). #Clojure #Programming #Lisp
++ [[https://youtu.be/grjMRgmjddE][Introduction to proof theory I: Sequent calculus]]. ~ Tim Lyon. #Logic #Math #Proof_theory
++ [[https://youtu.be/hUO2D0Smh0w][An introduction to proof theory II: Invertibility, cut-elimination, and proof-search]]. ~ Tim Lyon. #Logic #Math #Proof_theory
++ [[https://youtu.be/vPGNkByvPIY][[Formalising math 2022] Section 02: the reals, solutions to sheet 4 (cheating with library_search)]]. ~ Kevin Buzzard (@XenaProject). #ITP #LeanProver #Logic #Math
++ [[https://youtu.be/Pspnhby_pfo][[Formalising math 2022] Section 02: the reals, solutions to sheet 5 (limit of sum is sum of limits)]]. ~ Kevin Buzzard (@XenaProject). #ITP #LeanProver #Logic #Math
++ [[https://youtu.be/ze_GaITsu2Q][[Formalising math 2022] Section 02: the reals, solutions to sheet 6 (limit of prod is prod of limits)]]. ~ Kevin Buzzard (@XenaProject). #ITP #LeanProver #Logic #Math
++ [[https://iccl.inf.tu-dresden.de/web/Foundations_of_Knowledge_Representation_(WS2021)/en][Course: Foundations of knowledge representation]]. ~ Hannes Straß. #KRR #Logic
++ [[https://www.researchgate.net/publication/228377589_Computational_Logic-Working_Material][Computational logic (Working material)]]. ~ Steffen Hölldobler. #Logic #AI
+
 *** 23-Jan-22
 + [[http://pu.inf.uni-tuebingen.de/users/klaeren/epigrams.html][Epigrams on programming]]. ~ Alan J. Perlis (1982). #CompSci #Programming
 + [[https://en.wikipedia.org/wiki/List_of_pioneers_in_computer_science][List of pioneers in computer science]]. #CompSci #History
