@@ -31,6 +31,33 @@ its content.
 
 ** January 2022
 
+*** 25-Jan-22
++ [[https://bit.ly/3Ag5q0v][Edsger W. Dijkstra]]: "Program testing can be used to show the presence of bugs, but never to show their absence!"  #Quote #CompSci
++ [[https://archive.org/details/disciplineofprog0000dijk][A discipline of programming]]. ~ Edsger W. Dijkstra (1976). #CompSci via @internetarchive
++ [[https://gist.github.com/elizabrock/d1206a4031c8215ad433][Great papers in Computer Science]]. ~ Eliza Brock Marcum (@elizabrock). #CompSci #History
++ [[https://books.google.es/books?id=oSq5BAAAQBAJ&lpg=PP1&hl=es&pg=PR1.6#v=onepage&q&f=false][Giants of computing: A compendium of select, pivotal pioneers]]. ~ Gerard O’Regan. #CompSci #History
++ [[https://youtu.be/Vs-vvlYLtRI][Haskell beginners 2022: Lecture 3 about ad-hoc polymorphism, typeclasses, deriving, semigroup, monoid, higher-kinded types, functor, foldable]]. ~ Dmitrii Kovanikov (@ChShersh). #Haskell #FunctionalProgramming
++ [[https://www.ma.imperial.ac.uk/~buzzard/xena/formalising-mathematics-2022/Part_A/section03groups/groups.html][Formalising Mathematics: Section 3 : An introduction to group theory]]. ~ Kevin Buzzard (@XenaProject) #ITP #LeanProver #Logic #Math
++ [[https://youtu.be/vV4jP8li9HY][[Formalising math 2022] Section 03: groups, introduction to classes and structures]]. ~ Kevin Buzzard (@XenaProject). #ITP #LeanProver #Logic #Math
++ [[https://youtu.be/myPZ7D7xyvs][[Formalising math 2022] Section 03: groups, solns to sheet 1 (basic definitions and theorems)]]. ~ Kevin Buzzard (@XenaProject). #ITP #LeanProver #Logic #Math
++ [[https://youtu.be/Qh5giF6DlZ8][[Formalising math 2022] Section 03: Playing with variants of the axioms]]. ~ Kevin Buzzard (@XenaProject). #ITP #LeanProver #Logic #Math
++ [[https://youtu.be/N5jl5lTVPGQ][[Formalising math 2022] Section 03: groups, boilerplate for subgroups]]. ~ Kevin Buzzard (@XenaProject). #ITP #LeanProver #Logic #Math
++ [[https://youtu.be/VcXsl9hqR7c][[Formalising math 2022] Section 03: groups, solns to sheet 3 (subgroups) ~ Kevin Buzzard (@XenaProject)]]. #ITP #LeanProver #Logic #Math
++ [[https://cacm.acm.org/magazines/2022/2/258231-abstractions-their-algorithms-and-their-compilers/fulltext][Abstractions, their algorithms, and their compilers]]. ~ Alfred Aho, Jeffrey Ullman. #CompSci
++ [[https://cacm.acm.org/magazines/2022/2/258223-becoming-universal/fulltext][Becoming universal (A new history of modern computing)]]. ~ Thomas Haigh. #CompSci #History
++ [[https://books.google.es/books?id=KOY9EAAAQBAJ&lpg=PP1&dq=A%20New%20History%20of%20Modern%20Computing&hl=es&pg=PP][A new history of modern computing.1#v=onepage&q&f=false]] ~ Thomas Haigh, Paul E. Ceruzzi #CompSci #History
++ [[https://cacm.acm.org/magazines/2022/2/258221-the-lives-of-hidden-figures-matter-in-computer-science-education/fulltext][The lives of hidden figures matter in computer science education]]. ~ Tiffani L. Williams. #CompSci #Education #History
++ [[https://cacm.acm.org/blogs/blog-cacm/256056-computers-were-originally-humans/fulltext][Computers were originally humans]]. ~ Herbert Bruderer. #CompSci #History
++ [[https://arxiv.org/abs/2111.11218][Parallel logic programming: A sequel]]. ~ Agostino Dovier, Andrea Formisano, Gopal Gupta, Manuel V. Hermenegildo, Enrico Pontelli, Ricardo Rocha. #LogicProgramming
++ [[https://oleg.fi/gists/posts/2022-01-25-folding-unfoldable.html][Folding the unfoldable]]. ~ Oleg Grenrus (@phadej). #Haskell #FunctionalProgramming
++ [[https://arxiv.org/abs/2201.07272][Lambda the ultimate SSA: Optimizing functional programs in SSA]]. ~ Siddharth Bhat, Tobias Grosser. #LeanProver #FunctionalProgramming #ITP
++ [[https://lmcs.episciences.org/8980/pdf][An extensible equality checking algorithm for dependent type theories]]. ~ Anja Petković Komel, Andrej Bauer. #TypeTheory #ITP #Andromeda
++ [[https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9674115&casa_token=luX0fHkWPskAAAAA:73Kj8LOBek4vzSpsFFNpcAiJTUau6d5XH12ipQIMBGwYdWsvm_doou1Muz1nvqDqVuBTvAQEgw&tag=1][Formal modeling and verification of the sequential kernel of an embedded operating system]]. ~ Zhang Haitao, Chen Lirong, Luo Lei. #ITP #IsabelleHOL
++ [[https://arxiv.org/abs/2201.08364][Mathematics and mathematics education in the 21st century]]. ~ Alexandre Borovik, Zoltan Kocsis, Vladimir Kondratiev. #Math #Education #CompSci #ITP
++ [[https://www.mpg.is/papers/gissurarson2022licentiate.pdf][The hole story: Type-driven synthesis and repair]]. ~ Matthías Páll Gissurarson. #BSc_Thesis #Haskell #FunctionalProgramming
++ [[https://www.cambridge.org/core/journals/journal-of-functional-programming/article/fregel-a-functional-domainspecific-language-for-vertexcentric-largescale-graph-processing/A6D4FC0B42C87B752E9AF88F681C5F13][Fregel: a functional domain-specific language for vertex-centric large-scale graph processing]]. ~ Hideya Iwasaki, Kento Emoto, Akimasa Morihata, Kiminori Matsuzaki, Zhenjiang Hu. #Haskell #FunctionalProgramming
++ [[https://www.buzzsprout.com/758831/9943702][Ingeniería y programación]] por Antonio Cabrera y Camilo Chacón Sartori (@camilo_chacon_s) en "Había una vez un algoritmo..." #Podcast #Programación
++ [[https://www.isa-afp.org/entries/Actuarial_Mathematics.html][Actuarial mathematics (in Isabelle/HOL)]]. ~ Yosuke Ito. #ITP #IsabelleHOL #Math
 *** 24-Jan-22
 + [[https://bit.ly/3qWSDgk][Brian Kernighan]]: "Controlling complexity is the essence of computer programming." #CompSci #Programming
 + [[https://archive.org/details/cprogramminglang0000kern_2ed][The C programming language]]. ~ Brian W. Kernighan and Dennis Ritchie (1972). #CompSci #Programming via @internetarchive
