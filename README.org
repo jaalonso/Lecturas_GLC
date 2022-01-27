@@ -31,8 +31,16 @@ its content.
 
 ** January 2022
 
+*** 26-Jan-22
++ [[https://arxiv.org/abs/2201.10443][Certifying algorithms and relevant properties of Reversible Primitive Permutations with Lean]]. ~ Giacomo Maletto, Luca Roversi. #ITP #LeanProver
++ [[https://www.ams.org/journals/bull/2022-59-01/S0273-0979-2021-01726-5/S0273-0979-2021-01726-5.pdf][Varieties of mathematical understanding]]. ~ Jeremy Avigad. #ITP #Math
++ [[https://www.isa-afp.org/entries/Median_Method.html][Median method (in Isabelle/HOL)]]. ~ Emin Karayel. #ITP #IsabelleHOL #Math
++ [[http://www.prolog-heritage.org/doc/LOr2020.pdf][Hommage à Alain Colmerauer (Livre d’or)]]. #LogicProgramming #Prolog #History
++ [[https://youtu.be/DMdiPC1ZckI][Describing a dragon curve with Prolog]]. ~ Markus Triska (@MarkusTriska). #Prolog #LogicProgramming
++ [[https://plato.stanford.edu/entries/philosophy-mathematics/][Philosophy of Mathematics]]. ~ Leon Horsten. #Math #Philosophy via @peoppenheimer
++ [[https://www.cambridge.org/core/elements/set-theory/3FE81CA4C7BAD6D472C94593914783B7][Set theory]]. ~ John P. Burgess. #Set_theory #Logic #Math
+
 *** 25-Jan-22
-+ [[https://bit.ly/3Ag5q0v][Edsger W. Dijkstra]]: "Program testing can be used to show the presence of bugs, but never to show their absence!"  #Quote #CompSci
 + [[https://archive.org/details/disciplineofprog0000dijk][A discipline of programming]]. ~ Edsger W. Dijkstra (1976). #CompSci via @internetarchive
 + [[https://gist.github.com/elizabrock/d1206a4031c8215ad433][Great papers in Computer Science]]. ~ Eliza Brock Marcum (@elizabrock). #CompSci #History
 + [[https://books.google.es/books?id=oSq5BAAAQBAJ&lpg=PP1&hl=es&pg=PR1.6#v=onepage&q&f=false][Giants of computing: A compendium of select, pivotal pioneers]]. ~ Gerard O’Regan. #CompSci #History
