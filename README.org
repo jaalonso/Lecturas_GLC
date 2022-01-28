@@ -31,6 +31,16 @@ its content.
 
 ** January 2022
 
+*** 27-Jan-22
++ [[https://arxiv.org/abs/2201.10280][The trusted computing base of the CompCert verified compiler]]. ~ David Monniaux, Sylvain Boulmé. #ITP #Coq
++ [[https://www.ias.ac.in/article/fulltext/sadh/034/01/0003-0025][Proof assistants: History, ideas and future]]. ~ H Geuvers #ITP
++ [[https://lawrencecpaulson.github.io//2022/01/26/Set_theory.html][Is Zermelo-Fraenkel set theory the foundation of mathematics? ~ Lawrence C]]. Paulson. #ITP #IsabelleHOL #Logic #Math #SetTheory
++ [[https://www.tweag.io/blog/2022-01-26-property-based-testing-of-monadic-code/][A case study on correctness and safety testing of stateful systems]]. ~ Victor Miraldo. #Haskell #FunctionalProgramming
++ [[https://bor0.wordpress.com/2022/01/24/the-computation-of-appending-lists-at-the-type-and-value-level/][The computation of appending lists at the type and value level]]. ~ Boro Sitnikovski (@BSitnikovski). #Haskell #Idris #FunctionalProgramming
++ [[https://www.quantamagazine.org/researchers-build-ai-that-builds-ai-20220125/][Researchers build AI that builds AI]]. ~ Anil Ananthaswam. #AI #DeepLearning
++ [[https://arxiv.org/abs/2201.10436][Safe AI: How is this possible?]] ~ Harald Rueß, Simon Burton. #AI
++ [[https://www.johndcook.com/blog/2022/01/25/non-equivalent-floating-point-numbers/][Non-equivalent floating point numbers]]. ~ John D. Cook (@JohnDCook). #CompSci #Programming #Math
+
 *** 26-Jan-22
 + [[https://arxiv.org/abs/2201.10443][Certifying algorithms and relevant properties of Reversible Primitive Permutations with Lean]]. ~ Giacomo Maletto, Luca Roversi. #ITP #LeanProver
 + [[https://www.ams.org/journals/bull/2022-59-01/S0273-0979-2021-01726-5/S0273-0979-2021-01726-5.pdf][Varieties of mathematical understanding]]. ~ Jeremy Avigad. #ITP #Math
