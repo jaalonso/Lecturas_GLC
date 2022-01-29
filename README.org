@@ -31,6 +31,14 @@ its content.
 
 ** January 2022
 
+*** 28-Jan-22
++ [[http://adam.chlipala.net/papers/AtlPOPL22/AtlPOPL22.pdf][Verified tensor-program optimization via high-level scheduling rewrites]]. ~ Amanda Liu, Gilbert Bernstein, Adam Chlipala, Jonathan Ragan-Kelley. #ITP #Coq via @johnregehr
++ [[https://arxiv.org/abs/2201.10816][50 Years of Prolog and beyond]]. ~ Philipp Körner, Michael Leuschel, João Barbosa, Vítor Santos Costa, Verónica Dahl, Manuel V. Hermenegildo, Jose F. Morales, Jan Wielemaker, Daniel Diaz, Salvador Abreu, Giovanni Ciatto. #Prolog #LogicProgramming
++ [[https://www.cambridge.org/core/elements/theoretical-computer-science-for-the-working-category-theorist/5F3499D1F326D2D77567AA1041627699][Theoretical Computer Science for the working category theorist]]. ~ Noson S. Yanofsky. #CategoryTheory #CompSci #Math
++ [[https://www.cambridge.org/core/elements/ontology-and-the-foundations-of-mathematics/9B135F6EEC71AD649AFB856321D2FE2D][Ontology and the foundations of mathematics (Talking past each other)]]. ~ Penelope Rush. #Math #Philosophy
++ [[https://espeon.social/2022/01/l-systems/ Lisp][L-Systems (in Lisp)]]. ~ Violet White. #Programming #Math
++ [[https://blog.acthompson.net/2022/01/what-do-computer-science-teachers-need.html][What do Computer Science teachers need for professional development? ~ Alfred Thompson (@alfredtwo)]]. #CompSci #Education
+
 *** 27-Jan-22
 + [[https://arxiv.org/abs/2201.10280][The trusted computing base of the CompCert verified compiler]]. ~ David Monniaux, Sylvain Boulmé. #ITP #Coq
 + [[https://www.ias.ac.in/article/fulltext/sadh/034/01/0003-0025][Proof assistants: History, ideas and future]]. ~ H Geuvers #ITP
