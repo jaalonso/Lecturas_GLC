@@ -31,6 +31,14 @@ its content.
 
 ** January 2022
 
+*** 29-Jan-22
++ [[https://youtu.be/YqaZchFrH5k][[London Learning Lean] Group cohomology]]. ~ Amelia Livingston. #ITP #LeanProver #Math
++ [[https://dl.acm.org/doi/pdf/10.1145/3497775.3503679][Formally verified superblock scheduling]]. ~ Cyril Six, Léo Gourdin, Sylvain Boulmé, David Monniaux, Justus Fasse, Nicolas Nardino. #ITP #Coq via @johnregehr
++ [[https://slides.com/haskellbeginners2022/lecture-4][[Haskell Beginners 2022] Lecture 4: Monads and IO]]. ~ Dmitrii Kovanikov (@ChShersh). #Haskell #FunctionalProgramming
++ [[http://lispcookbook.github.io/cl-cookbook/][The Common Lisp Cookbook (Diving into the programmable programming language)]]. ~ Vindarel. #eBook #CommonLisp #Programming
++ [[https://arxiv.org/abs/2201.09488][Comparative verification of the Digital Library of Mathematical Functions and computer algebra systems]]. ~ André Greiner-Petter, Howard S. Cohl, Abdou Youssef, Moritz Schubotz, Avi Trost, Rajen Dey, Akiko Aizawa, Bela Gipp. #Math #CAS #Maple #Mathematica
++ [[https://www.microsiervos.com/archivo/juegos-y-diversion/custom-wordle-crear-wordles-palabras-longitud-idioma.html][Custom Wordle: el creador definitivo de wordles con la palabra que quieras, de cualquier longitud e idioma]]. ~ @Alvy. #Wordle
+
 *** 28-Jan-22
 + [[http://adam.chlipala.net/papers/AtlPOPL22/AtlPOPL22.pdf][Verified tensor-program optimization via high-level scheduling rewrites]]. ~ Amanda Liu, Gilbert Bernstein, Adam Chlipala, Jonathan Ragan-Kelley. #ITP #Coq via @johnregehr
 + [[https://arxiv.org/abs/2201.10816][50 Years of Prolog and beyond]]. ~ Philipp Körner, Michael Leuschel, João Barbosa, Vítor Santos Costa, Verónica Dahl, Manuel V. Hermenegildo, Jose F. Morales, Jan Wielemaker, Daniel Diaz, Salvador Abreu, Giovanni Ciatto. #Prolog #LogicProgramming
