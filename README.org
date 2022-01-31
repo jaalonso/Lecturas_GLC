@@ -31,6 +31,10 @@ its content.
 
 ** January 2022
 
+*** 30-Jan-22
++ [[https://www.cs.utexas.edu/users/EWD/ewd03xx/EWD360.pdf][Programming as a discipline of mathematical nature]]. ~ Edsger W.Dijkstra (1971). #CompSci #Programming #Math
++ [[https://www.cantorsparadise.com/the-beautiful-world-of-number-theory-the-queen-of-mathematics-72cda533cc7d][The beautiful world of number theory — The Queen of Mathematics]]. ~ Kasper Müller. #Math
+
 *** 29-Jan-22
 + [[https://youtu.be/YqaZchFrH5k][[London Learning Lean] Group cohomology]]. ~ Amelia Livingston. #ITP #LeanProver #Math
 + [[https://dl.acm.org/doi/pdf/10.1145/3497775.3503679][Formally verified superblock scheduling]]. ~ Cyril Six, Léo Gourdin, Sylvain Boulmé, David Monniaux, Justus Fasse, Nicolas Nardino. #ITP #Coq via @johnregehr
