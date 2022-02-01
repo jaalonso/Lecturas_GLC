@@ -31,6 +31,12 @@ its content.
 
 ** January 2022
 
+*** 31-Jan-22
++ [[https://www.isa-afp.org/entries/Irrationals_From_THEBOOK.html][Irrational numbers from THE BOOK (in Isabelle/HOL)]]. ~ Lawrence C Paulson (@LawrPaulson). #ITP #IsabelleHOL #Math
++ [[https://www.huffpost.com/entry/haskell-the-language-most_b_4242119][Haskell, the language most likely to change the way you think about programming]]. ~ Aaron Contorer (@Contorer). #Haskell #FunctionalProgramming
++ [[https://chester-beard.medium.com/why-i-am-learning-haskell-d95d1e5212f3][Why I am learning Haskell (The Language for the Cardano Blockchain)]]. ~ Chester Beard (@CBeardWrites). #Haskell #FunctionalProgramming
++ [[https://cuddly-octo-palm-tree.com/posts/2022-01-30-opt-clj-3/][Notes on optimizing Clojure code: Example]]. ~ Gary Verhaegen (@gaverhae). #Clojure #FunctionalProgramming
+
 *** 30-Jan-22
 + [[https://www.cs.utexas.edu/users/EWD/ewd03xx/EWD360.pdf][Programming as a discipline of mathematical nature]]. ~ Edsger W.Dijkstra (1971). #CompSci #Programming #Math
 + [[https://www.cantorsparadise.com/the-beautiful-world-of-number-theory-the-queen-of-mathematics-72cda533cc7d][The beautiful world of number theory — The Queen of Mathematics]]. ~ Kasper Müller. #Math
