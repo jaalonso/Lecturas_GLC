@@ -32,6 +32,14 @@ its content.
 
 ** February 2022
 
+*** 02-Feb-22
++ [[https://www.cs.utexas.edu/users/EWD/transcriptions/EWD03xx/EWD316.html][A short introduction to the art of programming]]. ~ Edsger W.Dijkstra (1971). #CompSci #Programming
++ [[https://youtu.be/MG66ZQ2680c][Modular forms, Eisenstein series and modularity conjecture]]. ~ Christopher Birkbeck. #ITP #LeanProver #Math
++ [[https://arxiv.org/abs/2202.00343][IDP-Z3: a reasoning engine for FO(.)]] ~ Pierre Carbonnelle, Simon Vandevelde, Joost Vennekens, Marc Denecker. #AI #KRR #SMT #Z3
++ [[https://www.fpcomplete.com/blog/quickcheck-hedgehog-validity/][QuickCheck, Hedgehog, Validity]]. ~ Tom Sydney Kerckhove (@kerckhove_ts). #Haskell #FunctionalProgramming via @FPComplete
++ [[https://github.com/NorfairKing/validit][Validity and validity-based testing]]. ~ Tom Sydney Kerckhove (@kerckhove_ts).y#readme #Haskell #FunctionalProgramming
++ [[https://www.grammarly.com/blog/engineering/running-lisp-in-production/][Running Lisp in production]]. ~ Vsevolod Dyomkin. #CommonLisp #Programming #NLP #ML
+
 *** 01-Feb-22
 + [[https://www.isa-afp.org/entries/Interpolation_Polynomials_HOL_Algebra.html][Interpolation polynomials (in HOL-Algebra)]]. ~ Emin Karayel. #ITP #IsabelleHOL #Math
 + [[https://serokell.io/blog/introduction-to-free-monads][Introduction to free monads]]. ~ Nikolay Yakimov. #Haskell #FunctionalProgramming
