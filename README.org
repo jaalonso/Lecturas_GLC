@@ -32,6 +32,14 @@ its content.
 
 ** February 2022
 
+*** 03-Feb-22
++ [[https://lawrencecpaulson.github.io/2022/02/02/Formalising_Math_Set_theory.html][Formalising mathematics in set theory]]. ~ Lawrence C Paulson (@LawrPaulson). #Logic #Math #SetTheory #ITP #Mizar #IsabelleHOL
++ [[https://www.isa-afp.org/entries/FOL_Seq_Calc2.html][A sequent calculus prover for first-order logic with functions (in Isabelle/HOL)]]. ~ Asta Halkjær From, Frederik Krogsdal Jacobsen. #ITP #IsabelleHOL #Logic
++ [[https://arxiv.org/abs/2202.00891][Extracting efficient exact real number computation from proofs in constructive type theory]]. ~ Michal Konečný, Sewon Park, Holger Thies. #ITP #Coq #Math #Haskell #FunctionalProgramming
++ [[https://cdn.openai.com/papers/Formal_Mathematics_Statement_Curriculum_Learning__ICML_2022.pdf][Formal mathematics statement curriculum learning]]. ~ Stanislas Polu, Jesse Michael Han, Kunhao Zheng, Mantas Baksys, Igor Babuschkin, Ilya Sutskever. #AI #MachineLearning #ITP #LeanProver #Math
++ [[https://felixspringer.xyz/homepage/blog/derivingTrans][Showcase: deriving-trans]]. ~ Felix Springer. #Haskell #FunctionalProgramming
++ [[https://www.fosskers.ca/en/blog/haskell-software-dev][Software development languages: Haskell]]. ~ Colin Woodbury. #Haskell #FunctionalProgramming
+
 *** 02-Feb-22
 + [[https://www.cs.utexas.edu/users/EWD/transcriptions/EWD03xx/EWD316.html][A short introduction to the art of programming]]. ~ Edsger W.Dijkstra (1971). #CompSci #Programming
 + [[https://youtu.be/MG66ZQ2680c][Modular forms, Eisenstein series and modularity conjecture]]. ~ Christopher Birkbeck. #ITP #LeanProver #Math
