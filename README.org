@@ -32,6 +32,24 @@ its content.
 
 ** February 2022
 
+*** 04-Feb-22
++ [[https://www.cs.utexas.edu/users/EWD/transcriptions/EWD04xx/EWD473.html][On the teaching of programming, i]].e. on the teaching of thinking. ~ Edsger W.Dijkstra (1975). #CompSci #Programming
++ [[https://drops.dagstuhl.de/opus/volltexte/2022/15731/pdf/LIPIcs-CSL-2022-11.pdf][Synthetic integral cohomology in Cubical Agda]]. ~ Guillaume Brunerie, Axel Ljungström, Anders Mörtberg. #ITP #Agda #Math
++ [[https://drops.dagstuhl.de/opus/volltexte/2022/15734/pdf/LIPIcs-CSL-2022-14.pdf][Realising intensional S4 and GL modalities]]. ~ Liang-Ting Chen, Hsiang-Shang Ko. #ITP #Agda
++ [[https://youtu.be/QL5oGMxpmJI][[CPP'22] The seL4 verification: the art and craft of proof and the reality of commercial support]]. ~ June Andronick. #FormalVerification #ITP #IsabelleHOL
++ [[https://youtu.be/soinDToPFdY][[CPP'22] Structural embeddings revisited]]. ~ César Muñoz. #ITP #PVS
++ [[https://youtu.be/StQ40osfQTo][[CPP'22] Coq's vibrant ecosystem for verification engineering]]. ~ Andrew Appel. #ITP #Coq
++ [[https://youtu.be/MXyRZgWFI3M][[CPP'22] Formalising Lie algebras]]. ~ Oliver Nash. #ITP #LeanProver #Math
++ [[https://youtu.be/87jLyEj_xXI][[CPP'22] Undecidability, incompleteness, and completeness of second-order logic in Coq]]. ~ Mark Koch, Dominik Kirst. #ITP #Coq #Logic #Math
++ [[https://youtu.be/Q1vGBUyzGF8][[CPP'22] Applying formal verification to microkernel IPC at Meta]]. ~ Quentin Carbonneaux, Noam Zilberstein, Christoph Klee, Peter W. O'Hearn, Francesco Zappa Nardelli. #FormalVerification #ITP #Coq
++ [[https://youtu.be/UH_BNKk7cT8][[CPP'22] A machine-checked direct proof of the Steiner-Lehmus theorem]]. ~ Ariel Kellison. #ITP #Nuprl #Math
++ [[https://mat.unb.br/~ayala/mf_PVS0.pdf][Formalization of the computational theory of a Turing complete functional language model]]. ~ Thiago Mendonça Ferreira Ramos, Ariane Alves Almeida, Mauricio Ayala-Rincon. #ITP #PVS
++ [[https://arxiv.org/abs/2101.07758][A bi-directional extensible interface between Lean and Mathematica]]. ~ Robert Y. Lewis, Minchao Wu. #ITP #LeanProver #CAS #Mathematica
++ [[https://www.gaussianos.com/numero-1-de-la-revista-qed/][Número 1 de la revista QED]]. ~ Miguel Ángel Morales (@gaussianos). #Matemáticas
++ [[https://arxiv.org/abs/2202.01344][Formal mathematics statement curriculum learning]]. ~ Stanislas Polu, Jesse Michael Han, Kunhao Zheng, Mantas Baksys, Igor Babuschkin, Ilya Sutskever. #AI #MachineLearning #ITP #LeanProver #Math
++ [[https://www.isa-afp.org/entries/Youngs_Inequality.html][Young's inequality for increasing functions (in Isabelle/HOL)]]. ~ Lawrence C Paulson (@LawrPaulson). #ITP #IsabelleHOL #Math
++ [[https://www.isa-afp.org/entries/Quasi_Borel_Spaces.html ITP][Quasi-Borel spaces (in Isabelle/HOL)]]. ~ Michikazu Hirata, Yasuhiko Minamide, Tetsuya Sato. #IsabelleHOL
+
 *** 03-Feb-22
 + [[https://lawrencecpaulson.github.io/2022/02/02/Formalising_Math_Set_theory.html][Formalising mathematics in set theory]]. ~ Lawrence C Paulson (@LawrPaulson). #Logic #Math #SetTheory #ITP #Mizar #IsabelleHOL
 + [[https://www.isa-afp.org/entries/FOL_Seq_Calc2.html][A sequent calculus prover for first-order logic with functions (in Isabelle/HOL)]]. ~ Asta Halkjær From, Frederik Krogsdal Jacobsen. #ITP #IsabelleHOL #Logic
