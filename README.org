@@ -32,6 +32,13 @@ its content.
 
 ** February 2022
 
+*** 05-Feb-22
++ [[https://www.doc.ic.ac.uk/~rak/papers/algorithm%20=%20logic%20+%20control.pdf][Algorithm = Logic + Control]]. ~ Rober Kowalski (1979). #LogicProgramming #Prolog via @notjfmc
++ [[https://www.cambridge.org/core/journals/journal-of-functional-programming/article/solving-the-snake-cube-puzzle-in-haskell/D0C6BD42DB4BAD20F0866F162D723137][Solving the snake cube puzzle in Haskell]]. ~ Mark P. Jones (2013). #Haskell #FunctionalProgramming
++ [[https://www.cs.utexas.edu/users/EWD/transcriptions/EWD09xx/EWD924.html][Mathematicians and computing scientists: The cultural gap]]. ~ Edsger W.Dijkstra (1987). #CompSci #Math
++ [[https://royalsocietypublishing.org/doi/pdf/10.1098/rsta.1984.0073][Constructive mathematics and computer programming]]. ~ Per Martin-Löf (1984). #CompSci #Math
++ [[http://www-formal.stanford.edu/jmc/basis1/basis1.html][A basis for a mathematical theory of computation]]. ~ John McCarthy (1963). #CompSci #Math
+
 *** 04-Feb-22
 + [[https://www.cs.utexas.edu/users/EWD/transcriptions/EWD04xx/EWD473.html][On the teaching of programming, i]].e. on the teaching of thinking. ~ Edsger W.Dijkstra (1975). #CompSci #Programming
 + [[https://drops.dagstuhl.de/opus/volltexte/2022/15731/pdf/LIPIcs-CSL-2022-11.pdf][Synthetic integral cohomology in Cubical Agda]]. ~ Guillaume Brunerie, Axel Ljungström, Anders Mörtberg. #ITP #Agda #Math
