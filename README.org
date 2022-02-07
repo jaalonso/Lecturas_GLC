@@ -32,6 +32,18 @@ its content.
 
 ** February 2022
 
+*** 06-Feb-22
++ [[http://www.math.uni-bonn.de/ag/logik/teaching/2022SS/Beautiful_formalizations.pdf][Beautiful formalizations in Isabelle/Naproche]]. ~ Adrian De Lonr, Peter Koepker, Anton Lorenzen, Adrian Marti, Marcel Schütz, Erik Sturzenhecker. #ITP #IsabelleNaproche #Math
++ [[https://thma.github.io/posts/2022-02-05-Evaluating-SKI-combinators-as-native-Haskell-functions.html][Evaluating SKI combinators as native Haskell functions]]. ~ Thomas Mahler. #Haskell #FunctionalProgramming
++ [[https://reasonablypolymorphic.com/blog/bialgebras/index.html][Review: Sorting with bialgebras and distributive laws]]. ~ Sandy Maguire. #Haskell #FunctionalProgramming
++ [[https://www.cambridge.org/core/services/aop-cambridge-core/content/view/9D3E021A2B1717B186ABD500CD34AD75/S0956796822000028a.pdf/supernaturals.pdf][Functional Pearl: Super-naturals]]. ~ Ralf Hinze, Colin Runciman. #Haskell #FunctionalProgramming
++ [[https://www.hpl.hp.com/techreports/Compaq-DEC/PRL-RR-36.pdf][1983–1993: The wonder years of sequential Prolog implementation]]. ~ Peter Van Roy (1993). #Prolog #LogicProgramming via @notjfmc
++ [[https://www.cs.utexas.edu/users/EWD/transcriptions/EWD04xx/EWD480.html][Craftsman or scientist?]] ~ Edsger W. Dijkstra (1975). #CompSci #Teaching #Programming
++ [[https://en.wikipedia.org/wiki/How_to_Solve_It][How to solve it]]. ~ George Pólya (1945). #Problem_solving
++ [[https://archive.org/details/howtosolveitnewa00pl][How to solve it: a new aspect of mathematical method]]. ~ George Pólya (1945). #Polya
++ [[https://www.glc.us.es/~jalonso/vestigium/el-metodo-de-polya-para-resolver-problemas/][El método de Pólya para resolver problemas]]. #Polya
++ [[https://www.cs.kent.ac.uk/people/staff/sjt/Haskell_craft/HowToProgIt.html][How to program it]]. ~ Simon Thompson. #Polya #Programming
+
 *** 05-Feb-22
 + [[https://www.doc.ic.ac.uk/~rak/papers/algorithm%20=%20logic%20+%20control.pdf][Algorithm = Logic + Control]]. ~ Rober Kowalski (1979). #LogicProgramming #Prolog via @notjfmc
 + [[https://www.cambridge.org/core/journals/journal-of-functional-programming/article/solving-the-snake-cube-puzzle-in-haskell/D0C6BD42DB4BAD20F0866F162D723137][Solving the snake cube puzzle in Haskell]]. ~ Mark P. Jones (2013). #Haskell #FunctionalProgramming
