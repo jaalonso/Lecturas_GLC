@@ -32,6 +32,12 @@ its content.
 
 ** February 2022
 
+*** 07-Feb-22
++ [[https://archive.org/details/mathematiciansap0000hard_u4z4][A mathematician's apology]]. ~ G.H. Hardy (1940). #Math via @internetarchive
++ [[https://www.isa-afp.org/entries/Equivalence_Relation_Enumeration.html][Enumeration of equivalence relations (in Isabelle/HOL)]]. ~ Emin Karayel. #ITP #IsabelleHOL #Math
++ [[https://www.isa-afp.org/entries/LP_Duality.html][Duality of linear programming (in Isabelle/HOL)]]. ~ René Thiemann. #ITP #IsabelleHOL #Math
++ [[https://leanprover-community.github.io/blog/posts/month-in-mathlib-jan-2022/][This month in mathlib (Jan 2022)]]. #ITP #LeanProver #MathLib #Math
+
 *** 06-Feb-22
 + [[http://www.math.uni-bonn.de/ag/logik/teaching/2022SS/Beautiful_formalizations.pdf][Beautiful formalizations in Isabelle/Naproche]]. ~ Adrian De Lonr, Peter Koepker, Anton Lorenzen, Adrian Marti, Marcel Schütz, Erik Sturzenhecker. #ITP #IsabelleNaproche #Math
 + [[https://thma.github.io/posts/2022-02-05-Evaluating-SKI-combinators-as-native-Haskell-functions.html][Evaluating SKI combinators as native Haskell functions]]. ~ Thomas Mahler. #Haskell #FunctionalProgramming
