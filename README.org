@@ -32,6 +32,15 @@ its content.
 
 ** February 2022
 
+*** 08-Feb-22
++ [[https://dms.umontreal.ca/~andrew/PDF/AG.Musings.pdf][Do proofs yield objective truth, or are they culturally robust at best?]] ~ Andrew Granville. #Math #ITP #LeanProver
++ [[https://ww2.inf.ufg.br/~daniel/papers/coqpl22-final52.pdf][Towards a formalization of nominal sets in Coq]]. ~ Fabrício S. Paranhos, Daniel Ventura. #ITP #Coq
++ [[https://nautil.us/in-mathematics-mistakes-arent-what-they-used-to-be-3236/][In Mathematics, mistakes aren’t what they used to be (Computers can’t invent, but they’re changing the field anyway)]]. ~ Siobhan Roberts. #Math #ITP
++ [[https://arxiv.org/abs/2202.01629][Use and abuse of instance parameters in the Lean mathematical library]]. ~ Anne Baanen. #ITP #LeanProver #MathLib
++ [[https://www.cl.cam.ac.uk/~jrh13/papers/cacm.pdf][Formally verified Mathematics]]. ~ Jeremy Avigad, John Harrison (2014). #ITP #Math
++ [[https://www.cl.cam.ac.uk/~jrh13/papers/joerg.pdf][History of interactive theorem proving]]. ~ John Harrison, Josef Urban, Freek Wiedijk. #ITP #History
++ [[http://siek.blogspot.com/2012/08/how-to-prove-it.html][How to prove it]]. ~ Jeremy Siek. #Logic
+
 *** 07-Feb-22
 + [[https://archive.org/details/mathematiciansap0000hard_u4z4][A mathematician's apology]]. ~ G.H. Hardy (1940). #Math via @internetarchive
 + [[https://www.isa-afp.org/entries/Equivalence_Relation_Enumeration.html][Enumeration of equivalence relations (in Isabelle/HOL)]]. ~ Emin Karayel. #ITP #IsabelleHOL #Math
