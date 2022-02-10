@@ -32,6 +32,15 @@ its content.
 
 ** February 2022
 
+*** 09-Feb-22
++ [[https://arxiv.org/abs/2202.03566][Four geometry problems to introduce automated deduction in secondary schools]]. ~ Pedro Quaresma. #GATP #Math
++ [[https://arxiv.org/abs/2202.03567][Teaching intuitionistic and classical propositional logic using Isabelle]]. ~ Jørgen Villadsen, Asta Halkjær From, Patrick Blackburn. #Logic #Teaching #ITP #IsabellePure
++ [[https://lawrencecpaulson.github.io/2022/02/09/Ackermann-example.html][Fun with Ackermann's function]]. ~ Lawrence C Paulson (@LawrPaulson). #ITP #IsabelleHOL #Math
++ [[https://www.cambridge.org/core/journals/bulletin-of-symbolic-logic/article/ackermanns-function-in-iterative-form-a-proof-assistant-experiment/98B10EF8E0503F91AA2E10F822A11D16][Ackermann’s function in iterative form: A proof assistant experiment]]. ~ Lawrence C Paulson (@LawrPaulson). #ITP #IsabelleHOL #Math
++ [[https://arxiv.org/abs/2202.03565][Automated instantiation of control flow tracing exercises]]. ~ Clemens Eisenhofer, Martin Riener. #Programming #Teaching #SMT #Z3
++ [[https://amathr.org/software/][Software for Math Research]]. ~ @AMathRes #Math #CompSci
++ [[https://duplode.github.io/posts/every-distributive-is-representable.html][Every Distributive is Representable]]. ~ Daniel Mlot (@duplode). #Haskell #FunctionalProgramming
+
 *** 08-Feb-22
 + [[https://dms.umontreal.ca/~andrew/PDF/AG.Musings.pdf][Do proofs yield objective truth, or are they culturally robust at best?]] ~ Andrew Granville. #Math #ITP #LeanProver
 + [[https://ww2.inf.ufg.br/~daniel/papers/coqpl22-final52.pdf][Towards a formalization of nominal sets in Coq]]. ~ Fabrício S. Paranhos, Daniel Ventura. #ITP #Coq
