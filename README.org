@@ -32,6 +32,11 @@ its content.
 
 ** February 2022
 
+*** 10-Feb-22
++ [[https://arxiv.org/abs/2202.04192][An executable formal model of the VHDL in Isabelle/HOL]]. ~ Wilayat Khan, Zhe Hou, David Sanan, Jamel Nebhen, Yang Liu, Alwen Tiu. #ITP #IsabelleHOL
++ [[https://arxiv.org/abs/2202.04330][Reflexive tactics for algebra, revisited]]. ~ Kazuhiko Sakaguchi. #ITP #Coq #Math
++ [[https://proofassistants.stackexchange.com][Proof Assistants Stack Exchange: Q&A for mathematicians and computer scientists who develop and use proof assistants]]. #ITP #ATP #Math #CompSci
+
 *** 09-Feb-22
 + [[https://arxiv.org/abs/2202.03566][Four geometry problems to introduce automated deduction in secondary schools]]. ~ Pedro Quaresma. #GATP #Math
 + [[https://arxiv.org/abs/2202.03567][Teaching intuitionistic and classical propositional logic using Isabelle]]. ~ Jørgen Villadsen, Asta Halkjær From, Patrick Blackburn. #Logic #Teaching #ITP #IsabellePure
