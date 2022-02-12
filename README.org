@@ -32,6 +32,15 @@ its content.
 
 ** February 2022
 
+*** 11-Feb-22
++ [[https://www.researchgate.net/publication/358274541_A_Posthumous_Contribution_by_Larry_Wos_Excerpts_from_an_Unpublished_Column][A posthumous contribution by Larry Wos: Excerpts from an unpublished column]]. ~ Sophie Tourret, Christoph Weidenbach. #Automated_reasoning #History
++ [[https://github.com/mukeshtiwari/Formally_Verified_Verifiable_Group_Generator][Formally verified verifiable group generation]]. ~ Mukesh Tiwari (@mukesh_tiwari). #ITP #Coq #Math
++ [[https://www.isa-afp.org/entries/FO_Theory_Rewriting.html][First-order theory of rewriting (in Isabelle/HOL)]]. ~ Alexander Lochmann, Bertram Felgenhauer. #ITP #IsabelleHOL #Logic
++ [[https://reasonablypolymorphic.com/blog/review-codata/index.html][Review: Codata in action]]. ~ Sandy Maguire. #Haskell #FunctionalProgramming
++ [[https://serokell.io/blog/ihp-interview][IHP: A Haskell framework for type-safe Web applications]]. ~ Marc Scholten and Gints Dreimanis. #Haskell #FunctionalProgramming
++ [[https://dev.to/theclause/a-nicer-if-then-else-syntax-in-prolog-43o9][A nicer if-then-else syntax in Prolog]]. ~ Gilbert. #Prolog #LogicProgramming H/T: @ThePrologClause
++ [[http://hojaynumeros.blogspot.com/2022/02/numeros-admirables.html][Números admirables]]. ~ Antonio Roldán (@Connumeros). #Matemáticas #Programación #Excel
+
 *** 10-Feb-22
 + [[https://arxiv.org/abs/2202.04192][An executable formal model of the VHDL in Isabelle/HOL]]. ~ Wilayat Khan, Zhe Hou, David Sanan, Jamel Nebhen, Yang Liu, Alwen Tiu. #ITP #IsabelleHOL
 + [[https://arxiv.org/abs/2202.04330][Reflexive tactics for algebra, revisited]]. ~ Kazuhiko Sakaguchi. #ITP #Coq #Math
