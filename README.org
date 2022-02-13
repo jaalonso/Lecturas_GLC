@@ -32,6 +32,13 @@ its content.
 
 ** February 2022
 
+*** 12-Feb-22
++ [[https://www.amazon.science/blog/automated-reasonings-scientific-frontiers][Automated reasoning's scientific frontiers]]. ~ Byron Cook. #Automated_reasoning H/T: @jborrego
++ [[https://lmcs.episciences.org/9055/pdf][Fixed points theorems for non-transitive relations]]. ~ Jérémy Dubut, Akihisa Yamada. #ITP #IsabelleHOL
++ [[https://www.imperial.ac.uk/media/imperial-college/faculty-of-natural-sciences/public/schrodinger-scholars/virtual-exhibition-2022/poster.pdf][Formalising the GAGA theorem]]. ~ Jujian Zhang. #ITP #LeanProver #Math
++ [[https://www.tweag.io/blog/2020-04-23-deriving-isomorphically/][Deriving isomorphically]]. ~ Hans Hoeglund. #Haskell #FunctionalProgramming
++ [[https://web.engr.ship.edu/~chuo/papers/huo21.pdf][Getting lazy and pure in code contests by using Haskell]]. ~ Chen Huo. #Haskell #FunctionalProgramming
+
 *** 11-Feb-22
 + [[https://www.researchgate.net/publication/358274541_A_Posthumous_Contribution_by_Larry_Wos_Excerpts_from_an_Unpublished_Column][A posthumous contribution by Larry Wos: Excerpts from an unpublished column]]. ~ Sophie Tourret, Christoph Weidenbach. #Automated_reasoning #History
 + [[https://github.com/mukeshtiwari/Formally_Verified_Verifiable_Group_Generator][Formally verified verifiable group generation]]. ~ Mukesh Tiwari (@mukesh_tiwari). #ITP #Coq #Math
