@@ -32,6 +32,15 @@ its content.
 
 ** February 2022
 
+*** 13-Feb-22
++ [[https://cs.brown.edu/courses/cs1951x/][Course: Formal proof and verification]]. ~ Robert Y. Lewis. #ITP #LeanProver
++ [[https://arxiv.org/abs/2202.03159v1][L²-Betti numbers and computability of reals]]. ~ Clara Loeh, Matthias Uschold. #ITP #LeanProver #Math
++ [[http://ocramz.github.io/haskell/web/formlets/2022/02/12/formlets.html][Composable web forms with Applicative]]. ~ Marco Z (@ocramz_yo). #Haskell #FunctionalProgramming
++ [[https://docslib.org/doc/11446895/the-mathematical-origins-of-modern-computing][The mathematical origins of modern computing]]. ~ Mark Priestley. #Math #CompSci #History
++ [[https://www.elcorreogallego.es/galicia/lo-que-las-maquinas-no-nos-cuentan-PF10401187][Lo que las máquinas no nos cuentan]]. ~ Senén Barro Ameneiro. #AI #XAI #MachineLearning H/T: @manuel_de_leon
++ [[https://algoritmo.buzzsprout.com/758831/2592865-machine-learning-o-cuando-los-algoritmos-aprenden-de-los-datos-e8][Machine learning o cuando los algoritmos aprenden de los datos (Pódcast)]]. ~ Camilo Chacón Sartori (@camilo_chacon_s). #AI #MachineLearning #Programming
++ [[https://notxor.nueva-actitud.org/2022/02/13/trasteando-con-yasnippets.html][Trasteando con yasnippets]]. ~ Notxor. #Emacs
+
 *** 12-Feb-22
 + [[https://www.amazon.science/blog/automated-reasonings-scientific-frontiers][Automated reasoning's scientific frontiers]]. ~ Byron Cook. #Automated_reasoning H/T: @jborrego
 + [[https://lmcs.episciences.org/9055/pdf][Fixed points theorems for non-transitive relations]]. ~ Jérémy Dubut, Akihisa Yamada. #ITP #IsabelleHOL
