@@ -32,6 +32,11 @@ its content.
 
 ** February 2022
 
+*** 14-Feb-22
++ [[https://arxiv.org/abs/2202.05360][Formalized functional analysis with semilinear maps]]. ~ Frédéric Dupuis, Robert Y. Lewis, Heather Macbeth. #ITP #LeanProver #Math
++ [[https://arxiv.org/abs/2004.00055][Explosive proofs of mathematical truths]]. ~ Scott Viteri, Simon DeDeo. #ITP #Coq #Math H/T: @LogicPractice
++ [[https://people.eecs.berkeley.edu/~bh/ss-toc2.html][Simply Scheme: Introducing Computer Science]]. ~ Brian Harvey, Matthew Wright (1999) #eBook #Scheme #FunctionalProgramming #CompSci
+
 *** 13-Feb-22
 + [[https://cs.brown.edu/courses/cs1951x/][Course: Formal proof and verification]]. ~ Robert Y. Lewis. #ITP #LeanProver
 + [[https://arxiv.org/abs/2202.03159v1][L²-Betti numbers and computability of reals]]. ~ Clara Loeh, Matthias Uschold. #ITP #LeanProver #Math
