@@ -32,6 +32,13 @@ its content.
 
 ** February 2022
 
+*** 16-Feb-22
++ [[https://lawrencecpaulson.github.io/2022/02/16/Irrationals.html][A classical proof: exponentials are irrational]]. ~ Lawrence C Paulson (@LawrPaulson). #ITP #IsabelleHOL #Math
++ [[https://arxiv.org/abs/2202.05040][Lebesgue induction and Tonelli's theorem in Coq]]. ~ Sylvie Boldo, François Clément, Vincent Martin, Micaela Mayero, Houda Mouhcine. #ITP #Coq #Math
++ [[https://youtu.be/Lf7ML_ErWvQ][Software can literally be perfect (How Formal Verification and Magmide could make provably correct code tractable for practicing software engineers)]]. ~ Blaine Hansen. #ITP #Coq #Magmide
++ [[https://www.uibk.ac.at/mathematik/algebra/staff/fritz-tobias/ct2021_course_projects/report_working_with_a_computer_proof_assistant.pdf][Working with a computer proof assistant]]. ~ Andrea Mair, Martin Fuchs. #ITP #LeanProver
++ [[https://libres.uncg.edu/ir/asu/f/Lapensee-Rankine_Samantha_December%202021_Thesis.pdf][Dynamic programming insights from programming contests]]. ~ Samantha Valentine Lapensée-Rankine. #MSc_Thesis #Programming
+
 *** 15-Feb-22
 + [[https://www.isa-afp.org/entries/VYDRA_MDL.html][Multi-head monitoring of metric dynamic logic (in Isabelle/HOL)]]. ~ Martin Raszyk. #ITP #IsabelleHOL
 + [[https://arxiv.org/abs/2202.05959][Formalization of a stochastic approximation theorem]]. ~ Koundinya Vajjha, Barry Trager, Avraham Shinnar, Vasily Pestun. #ITP #Coq #Math
