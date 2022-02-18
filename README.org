@@ -32,6 +32,13 @@ its content.
 
 ** February 2022
 
+*** 17-Feb-22
++ [[https://arxiv.org/abs/2202.08131][Natural language proof checking in introduction to proof classes - First experiences with Diproche]]. ~ Merlin Carl, Hinrich Lorenzen, Michael Schmitz. #ITP #Diproche #Math
++ [[https://reasonablypolymorphic.com/blog/ring-solving/index.html][Automatic ring solving]]. ~ Sandy Maguire. #ITP #Agda #Math
++ [[https://atareao.es/tutorial/reto-python/][Reto Python]]. ~ @atareao #Python #Programación
++ [[https://songlh.github.io/paper/survey.pdf][Learning and programming challenges of Rust: A mixed-methods study]]. ~ Shuofei Zhu et als. #RustLang
++ [[https://www.ams.org/journals/notices/202203/rnoti-p351.pdf][Calibrating computational complexity via definability: The work of Julia F]]. Knight. ~ Karen Lange. #Math #CompSci H/T: @AndresECaicedo1
+
 *** 16-Feb-22
 + [[https://lawrencecpaulson.github.io/2022/02/16/Irrationals.html][A classical proof: exponentials are irrational]]. ~ Lawrence C Paulson (@LawrPaulson). #ITP #IsabelleHOL #Math
 + [[https://arxiv.org/abs/2202.05040][Lebesgue induction and Tonelli's theorem in Coq]]. ~ Sylvie Boldo, François Clément, Vincent Martin, Micaela Mayero, Houda Mouhcine. #ITP #Coq #Math
