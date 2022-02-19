@@ -32,6 +32,11 @@ its content.
 
 ** February 2022
 
+*** 18-Feb-22
++ [[https://medium.com/pragmatic-programmers/the-unreasonable-effectiveness-of-haskell-48d92c2fe266][The unreasonable effectiveness of Haskell (Reliability, resource management, and DSLs)]]. ~ Rebecca Skinner (@cercerilla). #Haskell #FunctionalProgramming
++ [[https://blog.adrianistan.eu/logtalk-prolog-orientado-objetos][Logtalk, Prolog orientado a objetos]]. ~ Adrián Arroyo Calle (@aarroyoca). #Prolog #Logtalk #LogicProgramming
++ [[https://johnwhitington.net/ocamlfromtheverybeginning/][OCaml from the very beginning]]. ~ John Whitington (@johnwhitington). #eBook #OCaml #FunctionalProgramming
+
 *** 17-Feb-22
 + [[https://arxiv.org/abs/2202.08131][Natural language proof checking in introduction to proof classes - First experiences with Diproche]]. ~ Merlin Carl, Hinrich Lorenzen, Michael Schmitz. #ITP #Diproche #Math
 + [[https://reasonablypolymorphic.com/blog/ring-solving/index.html][Automatic ring solving]]. ~ Sandy Maguire. #ITP #Agda #Math
