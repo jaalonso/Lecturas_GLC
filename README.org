@@ -32,6 +32,13 @@ its content.
 
 ** February 2022
 
+*** 19-Feb-22
++ [[https://arxiv.org/abs/2202.05872][REST: Integrating term rewriting with program verification]]. ~ Zachary Grannan, Niki Vazou, Eva Darulova, Alexander J. Summers. #Haskell #LiquidHaskell #FunctionalProgramming
++ [[https://arxiv.org/abs/2202.05959][Formalization of a stochastic approximation theorem]]. ~ Koundinya Vajjha, Barry Trager, Avraham Shinnar, Vasily Pestun. #ITP #Coq
++ [[https://arxiv.org/abs/2202.05587][Formal verification of iterative convergence of numerical algorithms]]. ~ Mohit Tekriwal, Joshua Miller, Jean-Baptiste Jeannin. #ITP #Coq
++ [[https://arxiv.org/abs/2202.06264][A simplified variant of Gödel's ontological argument]]. ~ Christoph Benzmüller. #ITP #IsabelleHOL
++ [[https://arxiv.org/abs/2202.07329][The directed plump ordering]]. ~ Daniel Gratzer, Michael Shulman, Jonathan Sterling. #ITP #Agda
+
 *** 18-Feb-22
 + [[https://medium.com/pragmatic-programmers/the-unreasonable-effectiveness-of-haskell-48d92c2fe266][The unreasonable effectiveness of Haskell (Reliability, resource management, and DSLs)]]. ~ Rebecca Skinner (@cercerilla). #Haskell #FunctionalProgramming
 + [[https://blog.adrianistan.eu/logtalk-prolog-orientado-objetos][Logtalk, Prolog orientado a objetos]]. ~ Adrián Arroyo Calle (@aarroyoca). #Prolog #Logtalk #LogicProgramming
