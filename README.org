@@ -32,6 +32,11 @@ its content.
 
 ** February 2022
 
+*** 21-Feb-22
++ [[https://www.isa-afp.org/entries/Eval_FO.html][First-order query evaluation (in Isabelle/HOL)]]. ~ Martin Raszyk. #ITP #IsabelleHOL
++ [[https://www.isa-afp.org/entries/Wetzels_Problem.html][Wetzel's Problem and the Continuum Hypothesis (in Isabelle/HOL)]]. ~ Lawrence C Paulson. #ITP #IsabelleHOL #Math
++ [[https://github.com/goens/smf-ues-2022][Repositorio del minicurso "Demostración de teoremas interactiva asistida usando Lean"]]. ~ Andrés Goens. #ITP #LeanProver
+
 *** 19-Feb-22
 + [[https://arxiv.org/abs/2202.05872][REST: Integrating term rewriting with program verification]]. ~ Zachary Grannan, Niki Vazou, Eva Darulova, Alexander J. Summers. #Haskell #LiquidHaskell #FunctionalProgramming
 + [[https://arxiv.org/abs/2202.05959][Formalization of a stochastic approximation theorem]]. ~ Koundinya Vajjha, Barry Trager, Avraham Shinnar, Vasily Pestun. #ITP #Coq
