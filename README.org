@@ -32,6 +32,15 @@ its content.
 
 ** February 2022
 
+*** 22-Feb-22
++ [[https://arxiv.org/abs/2202.08017][Mechanization of LAGC semantics in Isabelle]]. ~ Niklas Heidler. #ITP #IsabelleHOL
++ [[https://www.isa-afp.org/entries/Universal_Hash_Families.html][Universal hash families (in Isabelle/HOL)]]. ~ Emin Karayel. #ITP #IsabelleHOL
++ [[https://ntnuopen.ntnu.no/ntnu-xmlui/bitstream/handle/11250/2980281/no.ntnu%3ainspera%3a79432288%3a34495681.pdf?sequence=1&isAllowed=y][Power quandles]]. ~ Torstein Vik. #ITP #LeanProver #Math
++ [[https://hal.inria.fr/hal-03580081/document][A constructive and synthetic theory of reducibility: Myhill's isomorphism theorem and Post's problem for many-one and truth-table reducibility in Coq]]. ~ Y. Forster, F. Jahn, G. Smolka. #ITP #Coq
++ [[https://lmcs.episciences.org/9100/pdf][Proof theory of Riesz spaces and modal Riesz spaces]]. ~ Christophe Lucas, Matteo Mio. #ITP #Coq #Logic
++ [[https://github.com/clucas26e4/Proof-Theory-of-Riesz-Spaces-and-Modal-Riesz-Spaces][Implementation of the hypersequent calculii HR and HMR introduced in the  article "Proof theory of Riesz spaces and modal Riesz spaces"]]. ~ Christophe Lucas. #ITP #Coq #Logic
++ [[https://github.com/nebhrajani-a/sicp][Structure and interpretation of computer programs notes]]. ~ Aditya Nebhrajani. #Racket #Programming #Emacs #OrgMode
+
 *** 21-Feb-22
 + [[https://www.isa-afp.org/entries/Eval_FO.html][First-order query evaluation (in Isabelle/HOL)]]. ~ Martin Raszyk. #ITP #IsabelleHOL
 + [[https://www.isa-afp.org/entries/Wetzels_Problem.html][Wetzel's Problem and the Continuum Hypothesis (in Isabelle/HOL)]]. ~ Lawrence C Paulson. #ITP #IsabelleHOL #Math
