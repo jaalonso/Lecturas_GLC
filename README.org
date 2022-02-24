@@ -32,6 +32,9 @@ its content.
 
 ** February 2022
 
+*** 23-Feb-22
++ [[https://lawrencecpaulson.github.io/2022/02/23/Hereditarily_Finite.html][The hereditarily finite sets]]. ~ Lawrence C Paulson (@LawrPaulson). #ITP #IsabelleHOL #Math
+
 *** 22-Feb-22
 + [[https://arxiv.org/abs/2202.08017][Mechanization of LAGC semantics in Isabelle]]. ~ Niklas Heidler. #ITP #IsabelleHOL
 + [[https://www.isa-afp.org/entries/Universal_Hash_Families.html][Universal hash families (in Isabelle/HOL)]]. ~ Emin Karayel. #ITP #IsabelleHOL
