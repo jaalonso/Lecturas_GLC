@@ -32,6 +32,10 @@ its content.
 
 ** February 2022
 
+*** 24-Feb-22
++ [[https://people.cs.umass.edu/~brun/pubs/pubs/First22icse.pdf][Diversity-driven automated formal verification]]. ~ Emily First, Yurity Brun. #ITP #Coq #MachineLearning
++ [[https://stefan-klinger.de/files/monadGuide.pdf][The Haskell programmer’s guide to the IO Monad (Don’t panic)]]. ~ Stefan Klinger (2005). #Haskell #FunctionalProgramming #CategoryTheory
+
 *** 23-Feb-22
 + [[https://lawrencecpaulson.github.io/2022/02/23/Hereditarily_Finite.html][The hereditarily finite sets]]. ~ Lawrence C Paulson (@LawrPaulson). #ITP #IsabelleHOL #Math
 
