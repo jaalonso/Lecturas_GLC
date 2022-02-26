@@ -32,6 +32,14 @@ its content.
 
 ** February 2022
 
+*** 25-Feb-22
++ [[https://dash.harvard.edu/handle/1/17463136][A foundational proof framework for cryptography]]. ~ Adam Petcher. #PhDThesis #ITP #Coq
++ [[https://blockscope.com/posts/2022-02-23-iffy-diffy.html][Conditional coding]]. ~ Phil de Joux (@philderbeast). #Haskell #FunctionalProgramming
++ [[https://dfithian.github.io/2021/02/18/database-implementation-part-2.html][Haskell database implementation, Part 2: Domain specific language and transactionality]]. ~ Dan Fithian. #Haskell #FunctionalProgramming
++ [[https://castillodel.github.io/aoc-haskell/][Learning Haskell during AOC]]. ~ Daniel del Castillo de la Rosa. #Haskell #FunctionalProgramming
++ [[https://mmhaskell.com/blog/2022/2/24/fusion-powered-strings][Fusion powered strings!]] ~ James Bowen (@james_OWA). #Haskell #FunctionalProgramming
++ [[https://www.youtube.com/watch?v=l-luyVRgWVU][Programming Arduinos with Haskell and NASA's Copilot]]. ~ Joey Hess. #Haskell #FunctionalProgramming
+
 *** 24-Feb-22
 + [[https://people.cs.umass.edu/~brun/pubs/pubs/First22icse.pdf][Diversity-driven automated formal verification]]. ~ Emily First, Yurity Brun. #ITP #Coq #MachineLearning
 + [[https://stefan-klinger.de/files/monadGuide.pdf][The Haskell programmer’s guide to the IO Monad (Don’t panic)]]. ~ Stefan Klinger (2005). #Haskell #FunctionalProgramming #CategoryTheory
