@@ -32,6 +32,12 @@ its content.
 
 ** February 2022
 
+*** 26-Feb-22
++ [[https://www.cs.ru.nl/bachelors-theses/2022/Kimberley_Frings___1027103___Formalizing_and_proving_knights_and_knaves_puzzles_in_three_valued_logic_in_Coq.pdf][Formalizing and proving knights and knaves puzzles in three valued logic in Coq]]. ~ Kimberley Frings. #ITP #Coq
++ [[https://arxiv.org/abs/2202.10349][Certified verification of relational properties]]. ~ Lionel Blatter, Nikolai Kosmatov, Virgile Prevosto, Pascale Le Gall. #ITP #Coq
++ [[http://www.lix.polytechnique.fr/Labo/Samuel.Mimram/docs/mimram_div2.pdf][Division by two, in homotopy type theory]]. ~ Samuel Mimram, Émile Oleon. #ITP #Agda #HoTT
++ [[https://arxiv.org/abs/2202.09230][United monoids: Finding simplicial sets and labelled algebraic graphs in trees]]. ~ Andrey Mokhov. #Haskell #FunctionalProgramming
+
 *** 25-Feb-22
 + [[https://dash.harvard.edu/handle/1/17463136][A foundational proof framework for cryptography]]. ~ Adam Petcher. #PhDThesis #ITP #Coq
 + [[https://blockscope.com/posts/2022-02-23-iffy-diffy.html][Conditional coding]]. ~ Phil de Joux (@philderbeast). #Haskell #FunctionalProgramming
