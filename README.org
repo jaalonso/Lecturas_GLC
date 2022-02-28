@@ -32,6 +32,9 @@ its content.
 
 ** February 2022
 
+*** 27-Feb-22
++ [[https://jappie.me/failing-in-haskell.html][Failing in Haskell]]. ~ Jappie Klooster (@jappieklooster). #Haskell #FunctionalProgramming
+
 *** 26-Feb-22
 + [[https://www.cs.ru.nl/bachelors-theses/2022/Kimberley_Frings___1027103___Formalizing_and_proving_knights_and_knaves_puzzles_in_three_valued_logic_in_Coq.pdf][Formalizing and proving knights and knaves puzzles in three valued logic in Coq]]. ~ Kimberley Frings. #ITP #Coq
 + [[https://arxiv.org/abs/2202.10349][Certified verification of relational properties]]. ~ Lionel Blatter, Nikolai Kosmatov, Virgile Prevosto, Pascale Le Gall. #ITP #Coq
