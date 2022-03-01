@@ -32,6 +32,10 @@ its content.
 
 ** February 2022
 
+*** 28-Feb-22
++ [[https://www.haskellforall.com/2022/02/what-is-monad-morphism-in-haskell.html][What is a monad morphism (in Haskell)?]] ~ Gabriella Gonzalez (@GabriellaG439). #Haskell #FunctionalProgramming
++ [[https://reasonablypolymorphic.com/blog/review-sheafs/index.html][Review: A very elementary introduction to sheaves]]. ~ Sandy Maguire. #ITP #Agda #FunctionalProgramming #Math
+
 *** 27-Feb-22
 + [[https://jappie.me/failing-in-haskell.html][Failing in Haskell]]. ~ Jappie Klooster (@jappieklooster). #Haskell #FunctionalProgramming
 
