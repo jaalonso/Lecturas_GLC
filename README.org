@@ -11,6 +11,7 @@ its content.
 
 * Content                                                                      :TOC:
 - [[#readings-of-the-year-2022][Readings of the year 2022]]
+  - [[#march-2022][March 2022]]
   - [[#february-2022][February 2022]]
   - [[#january-2022][January 2022]]
 - [[#readings-of-the-year-2021][Readings of the year 2021]]
@@ -29,6 +30,13 @@ its content.
 - [[#previous-readings][Previous readings]]
 
 * Readings of the year 2022
+
+** March 2022
+
+*** 01-Mar-22
++ [[https://hal.inria.fr/hal-03585618/document][A formalisation of algorithms for sorting network]]. ~ Laurent Théry. #ITP #Coq
++ [[https://mmhaskell.com/blog/2022/2/28/treating-strings-like-lists][Treating strings like lists]]. ~ James Bowen (@james_OWA). #Haskell #FunctionalProgramming
++ [[https://amodernist.com/texts/emacs-compat.html][Teaching old Emacsen new tricks]]. ~ Philip Kaludercic. #Emacs #Lisp
 
 ** February 2022
 
