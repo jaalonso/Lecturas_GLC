@@ -33,6 +33,15 @@ its content.
 
 ** March 2022
 
+*** 02-Mar-22
++ [[https://lawrencecpaulson.github.io//2022/03/02/Type_classes.html][Axiomatic type classes: some history, some examples]]. ~ Lawrence C Paulson (@LawrPaulson). #ITP #IsabelleHOL #FunctionalProgramming
++ [[https://www.haskellforall.com/2022/03/applicatives-should-usually-implement.html][Applicatives should usually implement Semigroup and Monoid]]. ~ Gabriella Gonzalez (@GabriellaG439). #Haskell #FunctionalProgramming
++ [[https://interstices.info/lavenement-de-la-synthese-de-programme/][L’avènement de la synthèse de programme]]. ~ Nathanaël Fijalkow. #Programming
++ [[https://plato.stanford.edu/entries/lambda-calculus/][The lambda calculus]]. ~ Jesse Alama, Johannes Korbmacher. #LambdaCalculus
++ [[https://pbrown.me/blog/functional-prolog-map-filter-and-reduce/][Functional Prolog: Map, filter and reduce]]. ~ Paul Brown. #Prolog #LogicProgramming #FunctionalProgramming H/T: @ThePrologClause
++ [[https://introajulia.org/][Introducción a la programación en Julia]]. ~ Ben Lauwens y Allen Downey. Traducido por Pamela Bustamante(@pambusf). #JuliaLang #Programación
++ [[https://algoritmo.buzzsprout.com/758831/10159734-pamela-bustamante-optimizacion-matematica-y-los-retos-de-la-inteligencia-artificial-e-77][Optimización matemática y los retos de la inteligencia artificial (Pódcast) ~ Pamela Bustamante (@pambusf) y Camilo Chacón Sartori (@camilo_chacon_s) en "Había una vez un algoritmo]]..." #JuliaLang #Programación
+
 *** 01-Mar-22
 + [[https://hal.inria.fr/hal-03585618/document][A formalisation of algorithms for sorting network]]. ~ Laurent Théry. #ITP #Coq
 + [[https://mmhaskell.com/blog/2022/2/28/treating-strings-like-lists][Treating strings like lists]]. ~ James Bowen (@james_OWA). #Haskell #FunctionalProgramming
