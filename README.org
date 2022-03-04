@@ -33,6 +33,10 @@ its content.
 
 ** March 2022
 
+*** 03-Mar-22
++ [[https://arxiv.org/abs/2203.01173][Characteristics of de Bruijn's early proof checker Automath]]. ~ Herman Geuvers, Rob Nederpelt. #ITP #Automath
++ [[https://mmhaskell.com/blog/2022/3/3/using-either-as-a-monad][Using Either as a Monad]]. ~ James Bowen (@james_OWA). #Haskell #FunctionalProgramming
+
 *** 02-Mar-22
 + [[https://lawrencecpaulson.github.io//2022/03/02/Type_classes.html][Axiomatic type classes: some history, some examples]]. ~ Lawrence C Paulson (@LawrPaulson). #ITP #IsabelleHOL #FunctionalProgramming
 + [[https://www.haskellforall.com/2022/03/applicatives-should-usually-implement.html][Applicatives should usually implement Semigroup and Monoid]]. ~ Gabriella Gonzalez (@GabriellaG439). #Haskell #FunctionalProgramming
