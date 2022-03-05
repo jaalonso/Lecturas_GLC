@@ -33,6 +33,12 @@ its content.
 
 ** March 2022
 
+*** 04-Mar-22
++ [[https://arxiv.org/abs/2202.13833][Formally verified asymptotic consensus in robust networks]]. ~ Mohit Tekriwal, Avi Tachna-Fram, Jean-Baptiste Jeannin, Manos Kapritsos, Dimitra Panagou. #ITP #Coq
++ [[https://arxiv.org/abs/2202.12662][VLSM: Validating labelled state transition and message production systems]]. ~ Vlad Zamfir, Mihai Calancea, Denisa Diaconescu, Brandon Moore, Karl Palmskog, Traian Florin Şerbănuţă, Michael Stay. #ITP #Coq
++ [[https://www.isa-afp.org/browser_info/current/AFP/Transitive_Models/document.pdf][Transitive models of fragments of ZFC (in Isabelle/HOL)]]. ~ Emmanuel Gunther, Miguel Pagano, Pedro Sánchez Terraf, Matías Steinberg. #ITP #IsabelleHOL #Math
++ [[https://wadler.blogspot.com/2022/03/optics-vs-lenses-operationally.html][Optics vs lenses, operationally]]. ~ Philip Wadler. #CategoryTheory #FunctionalProgramming
+
 *** 03-Mar-22
 + [[https://arxiv.org/abs/2203.01173][Characteristics of de Bruijn's early proof checker Automath]]. ~ Herman Geuvers, Rob Nederpelt. #ITP #Automath
 + [[https://mmhaskell.com/blog/2022/3/3/using-either-as-a-monad][Using Either as a Monad]]. ~ James Bowen (@james_OWA). #Haskell #FunctionalProgramming
