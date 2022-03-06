@@ -33,6 +33,15 @@ its content.
 
 ** March 2022
 
+*** 05-Mar-22
++ [[https://lmcs.episciences.org/9148/pdf][Verified approximation algorithms]]. ~ Robin Eßmann, Tobias Nipkow, Simon Robillard, Ujkan Sulejmani. #ITP #IsabelleHOL
++ [[https://research.chalmers.se/publication/528615/file/528615_Fulltext.pdf][Theory exploration for programs and proofs]]. ~ Sólrún Halla Einarsdóttir. #ITP #IsabelleHOL #Haskell #FunctionalProgramming
++ [[https://hal.inria.fr/hal-03592675/document][Reliably reproducing machine-checked proofs with the Coq platform]]. ~ Karl Palmskog, Enrico Tassi, Théo Zimmermann. #ITP #Coq
++ [[https://arxiv.org/abs/2202.13823 ][Automatic test-case reduction in proof assistants: A case study in Coq]]. ~ Jason Gross, Théo Zimmermann, Miraya Poddar-Agrawal, Adam Chlipala. #ITP #Coq
++ [[https://lemonidas.github.io/pdf/TestingOcamlThroughCoq.pdf][Property-based testing for OCaml through Coq]]. ~ Paaras Bhandari, Leonidas Lampropoulos. #ITP #Coq #OCaml #FunctionalProgramming
++ [[https://youtu.be/O15dbvEDApg][[POPL'22] Panel 1: Proof assistants for PL and math]]. #ITP #CompSci #Math
++ [[https://arxiv.org/abs/2202.13771][Conceptual mathematics via literate programming]]. ~ Ian Benson, Jim Darby, Neil MacDonald, Jesse Sigal. #Math #Python #Haskell
+
 *** 04-Mar-22
 + [[https://arxiv.org/abs/2202.13833][Formally verified asymptotic consensus in robust networks]]. ~ Mohit Tekriwal, Avi Tachna-Fram, Jean-Baptiste Jeannin, Manos Kapritsos, Dimitra Panagou. #ITP #Coq
 + [[https://arxiv.org/abs/2202.12662][VLSM: Validating labelled state transition and message production systems]]. ~ Vlad Zamfir, Mihai Calancea, Denisa Diaconescu, Brandon Moore, Karl Palmskog, Traian Florin Şerbănuţă, Michael Stay. #ITP #Coq
