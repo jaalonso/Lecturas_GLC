@@ -33,6 +33,14 @@ its content.
 
 ** March 2022
 
+*** 07-Mar-22
++ [[https://www.isa-afp.org/entries/ResiduatedTransitionSystem.html][Residuated transition systems (in Isabelle/HOL)]]. ~ Eugene W. Stark. #ITP #IsabelleHOL
++ [[https://www.isa-afp.org/entries/Independence_CH.html][The independence of the continuum hypothesis in Isabelle/ZF]]. ~ Emmanuel Gunther, Miguel Pagano, Pedro Sánchez Terraf, Matías Steinberg. #ITP #IsabelleZF #Math
++ [[https://youtu.be/lvYVuOmUVs8][OpenAI tackles Math: Formal mathematics statement curriculum learning]]. ~  Yannic Kilcher. #ITP #LeanProver #Math #IMO #AI
++ [[https://elbear.com/how-to-use-monads-without-understanding-them.html][How to use monads without understanding them]]. ~ Lucian Ursu. #Haskell #FunctionalProgramming
++ [[https://reasonablypolymorphic.com/blog/complexity-analysis/index.html][Review: Lightweight semiformal time complexity analysis for purely functional data structures]]. ~ Sandy Maguire. #Haskell #FunctionalProgramming
++ [[https://cuddly-octo-palm-tree.com/posts/2022-03-06-opt-clj-8/][Notes on optimizing Clojure code: Arrays]]. ~ Gary Verhaegen (@gaverhae). #Clojure #FunctionalProgramming
+
 *** 06-Mar-22
 + [[https://bit.ly/3ChzBFP][Fantasmas en Matemáticas]]. ~ Juan Arias de Reyna. #Matemáticas
 
