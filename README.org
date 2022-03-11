@@ -33,6 +33,12 @@ its content.
 
 ** March 2022
 
+*** 10-Mar-22
++ [[https://serokell.io/blog/how-to-learn-haskell-in-10-minutes][15 Resources to help you learn Haskell in 2022]]. ~ Gints Dreimanis. #Haskell #FunctionalProgramming
+
+*** 09-Mar-22
++ [[https://lawrencecpaulson.github.io//2022/03/09/Quaternions.html][The quaterions—and type classes]]. ~ Lawrence C Paulson (@LawrPaulson). #ITP #IsabelleHOL #Math
+
 *** 08-Mar-22
 + [[https://hal.inria.fr/hal-03596267/document][Synthetic Kolmogorov complexity in Coq]]. ~ Yannick Forster,Fabian Kunze, Nils Lauermann. #ITP #Coq
 + [[https://people.eng.unimelb.edu.au/rizkallahc/theses/jack-drury-postgrad-project-report.pdf][Information flow aware languages (Kuifje emerges from the Shadows)]]. ~ Jack Drury. #ITP #IsabelleHOL
