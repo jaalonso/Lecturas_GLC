@@ -33,6 +33,12 @@ its content.
 
 ** March 2022
 
+*** 11-Mar-22
++ [[https://mmhaskell.com/blog/2022/3/10/shorter-run-functions][Shorter run functions]]. ~ James Bowen (@james_OWA). #Haskell #FunctionalProgramming
++ [[https://towardsdev.com/beginning-haskell-type-system-part-1-198b2bb42d9e][Beginning Haskell type system, part 1 (The basics of the Haskell type system)]]. ~ C. L. Beard. #Haskell #FunctionalProgramming
++ [[https://www.tomwells.org/blog/haskell_for_prototyping][Haskell for extreme idea brainstorming]]. ~ Tom Wells. #Haskell #FunctionalProgramming
++ [[https://youtube.com/playlist?list=PLw2QsPIp2pxtkNQRvnOlV2xFkrQ8mPqAb][Learn Haskell for Plutus (Cardano ADA Contracts)]]. ~ Jason Barhorst. #Haskell #FunctionalProgramming
+
 *** 10-Mar-22
 + [[https://serokell.io/blog/how-to-learn-haskell-in-10-minutes][15 Resources to help you learn Haskell in 2022]]. ~ Gints Dreimanis. #Haskell #FunctionalProgramming
 
