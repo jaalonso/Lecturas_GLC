@@ -33,6 +33,10 @@ its content.
 
 ** March 2022
 
+*** 12-Mar-22
++ [[https://www.cambridge.org/core/elements/higherorder-logic-and-type-theory/1412809E9BB47277CD407882B3B6374B][Higher-Order logic and type theory]]. ~ John L. Bell. #Logic #TypeTheory
++ [[https://blog.adrianistan.eu/codigo-morse-prolog][Código Morse en Prolog]]. ~ Adrián Arroyo Calle (@aarroyoca). #Prolog #ProgramaciónLógica
+
 *** 11-Mar-22
 + [[https://mmhaskell.com/blog/2022/3/10/shorter-run-functions][Shorter run functions]]. ~ James Bowen (@james_OWA). #Haskell #FunctionalProgramming
 + [[https://towardsdev.com/beginning-haskell-type-system-part-1-198b2bb42d9e][Beginning Haskell type system, part 1 (The basics of the Haskell type system)]]. ~ C. L. Beard. #Haskell #FunctionalProgramming
