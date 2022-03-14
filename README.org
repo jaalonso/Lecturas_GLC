@@ -33,6 +33,10 @@ its content.
 
 ** March 2022
 
+*** 13-Mar-22
++ [[https://coot.me/posts/lazy-st.html][A remark on Lazy ST monad and MonadFix]]. ~ Marcin Szamotulski. #Haskell #FunctionalProgramming
++ [[https://reasonablypolymorphic.com/blog/generic-parallel-fp/index.html][Review: Generic parallel functional programming]]. ~ Sandy Maguire. #Haskell #FunctionalProgramming
+
 *** 12-Mar-22
 + [[https://www.cambridge.org/core/elements/higherorder-logic-and-type-theory/1412809E9BB47277CD407882B3B6374B][Higher-Order logic and type theory]]. ~ John L. Bell. #Logic #TypeTheory
 + [[https://blog.adrianistan.eu/codigo-morse-prolog][Código Morse en Prolog]]. ~ Adrián Arroyo Calle (@aarroyoca). #Prolog #ProgramaciónLógica
