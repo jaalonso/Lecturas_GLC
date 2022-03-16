@@ -33,6 +33,19 @@ its content.
 
 ** March 2022
 
+*** 15-Mar-22
++ [[https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9733177][Formally verifying industry cryptography]]. ~ Mike Dodds. #ITP #FormalMethods #Cryptography
++ [[https://siddhartha-gadgil.github.io/automating-mathematics/posts/forward-reasoning-in-lean4/][Forward reasoning in Lean 4]]. ~ Siddhartha Gadgil. #ITP #LeanProver
++ [[https://github.com/siddhartha-gadgil/lean-loris][Experiments with some ways of automating reasoning in Lean 4]]. ~ Siddhartha Gadgil. #ITP #LeanProver
++ [[https://github.com/leanprover-community/mathzoo][Lean mathzoo: a collection of mathematical formalizations in the Lean theorem prover]]. #ITP #LeanProver #Math #IMO
++ [[https://arxiv.org/abs/2109.09665][A flexible proof format for SAT solver-elaborator communication]]. ~ Seulkee Baek, Mario Carneiro, Marijn J.H. Heule. #ATP #Satisfiability #SAT_solver
++ [[https://arxiv.org/abs/2203.04608][Modular probabilistic models via algebraic effects]]. ~ Minh Nguyen, Roly Perera, Meng Wang, Nicolas Wu. #Haskell #FunctionalProgramming #ProbabilisticProgramming
++ [[https://starsandspira.ls/docs/places22-draft.pdf][Replicate, reuse, repeat: Capturing non-linear communication via session types and graded modal types]]. ~ Daniel Marshall, Dominic Orchard. #Haskell #FunctionalProgramming
++ [[https://mmhaskell.com/blog/2022/3/14/does-your-monad-even-lift][Does your Monad even Lift?]] ~ James Bowen (@james_OWA). #Haskell #FunctionalProgramming
++ [[https://arxiv.org/abs/2203.06804][Infinite Wordle and the Mastermind numbers]]. ~ Joel David Hamkins. #Logic #Math
++ [[https://mihaiolteanu.me/books.html][A non-standard book list for software developers]]. ~ Mihai Olteanu. #Books #Math #CompSci
++ [[http://hojaynumeros.blogspot.com/2022/03/los-numeros-cuadrados-1.html][Los números cuadrados (1)]]. ~ Antonio Roldán (@Connumeros). #Matemáticas #Programación
+
 *** 13-Mar-22
 + [[https://coot.me/posts/lazy-st.html][A remark on Lazy ST monad and MonadFix]]. ~ Marcin Szamotulski. #Haskell #FunctionalProgramming
 + [[https://reasonablypolymorphic.com/blog/generic-parallel-fp/index.html][Review: Generic parallel functional programming]]. ~ Sandy Maguire. #Haskell #FunctionalProgramming
