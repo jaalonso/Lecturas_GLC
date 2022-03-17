@@ -33,6 +33,11 @@ its content.
 
 ** March 2022
 
+*** 16-Mar-22
++ [[https://www.isa-afp.org/entries/Cotangent_PFD_Formula.html][A proof from THE BOOK: The partial fraction expansion of the cotangent]]. ~ Manuel Eberl (@pruvisto). #ITP #IsabelleHOL #Math
++ [[https://arxiv.org/abs/2203.08016][Formalising decentralised exchanges in Coq]]. ~ Eske Hoy Nielsen, Danil Annenkov, Bas Spitters. #ITP #Coq
++ [[https://lawrencecpaulson.github.io//2022/03/16/Types_vs_Sets.html][Types versus sets (and what about categories?)]]. ~ Lawrence C Paulson (@LawrPaulson). #Logic #math #SetTheory #TypeTheory #LambdaCalculus
+
 *** 15-Mar-22
 + [[https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9733177][Formally verifying industry cryptography]]. ~ Mike Dodds. #ITP #FormalMethods #Cryptography
 + [[https://siddhartha-gadgil.github.io/automating-mathematics/posts/forward-reasoning-in-lean4/][Forward reasoning in Lean 4]]. ~ Siddhartha Gadgil. #ITP #LeanProver
