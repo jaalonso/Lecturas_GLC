@@ -33,6 +33,11 @@ its content.
 
 ** March 2022
 
+*** 17-Mar-22
++ [[https://aarinc.org/Newsletters/135-2021-07.html#guest][The power of proof certificates]]. ~ Chantal Keller. #Automated_reasoning
++ [[https://aarinc.org/Newsletters/137-2022-03.html#guest][On how to improve cooperation between automated reasoning tools]]. ~ Pascal Fontaine. #Automated_reasoning
++ [[https://mmhaskell.com/blog/2022/3/17/cool-monad-combinators][Cool monad combinators]]. ~ James Bowen (@james_OWA). #Haskell #FunctionalProgramming
+
 *** 16-Mar-22
 + [[https://www.isa-afp.org/entries/Cotangent_PFD_Formula.html][A proof from THE BOOK: The partial fraction expansion of the cotangent]]. ~ Manuel Eberl (@pruvisto). #ITP #IsabelleHOL #Math
 + [[https://arxiv.org/abs/2203.08016][Formalising decentralised exchanges in Coq]]. ~ Eske Hoy Nielsen, Danil Annenkov, Bas Spitters. #ITP #Coq
