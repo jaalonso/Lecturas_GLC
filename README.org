@@ -33,6 +33,9 @@ its content.
 
 ** March 2022
 
+*** 19-Mar-22
++ [[http://philsci-archive.pitt.edu/20355/1/talk_archive.pdf][What we talk about when we talk about mathematics]]. ~ Jeremy Avigad. #Math
+
 *** 17-Mar-22
 + [[https://aarinc.org/Newsletters/135-2021-07.html#guest][The power of proof certificates]]. ~ Chantal Keller. #Automated_reasoning
 + [[https://aarinc.org/Newsletters/137-2022-03.html#guest][On how to improve cooperation between automated reasoning tools]]. ~ Pascal Fontaine. #Automated_reasoning
