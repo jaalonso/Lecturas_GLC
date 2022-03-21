@@ -33,6 +33,11 @@ its content.
 
 ** March 2022
 
+*** 20-Mar-22
++ "Some mathematician, I believe, has said that true pleasure lies not in the discovery of truth, but in the search for it." ~ [[https://en.wikipedia.org/wiki/Leo_Tolstoy][Leo Tolstoy]].
++ [[https://cacm.acm.org/magazines/2022/4/259398-explainable-ai/fulltext][Explainable AI]]. ~ By Veda C. Storey, Roman Lukyanenko, Wolfgang Maass, Jeffrey Parsons. #AI #XAI
++ [[https://cacm.acm.org/magazines/2022/4/259395-systems-abstractions/fulltext][Systems abstractions]]. ~ Peter J. Denning. #CompSci
+
 *** 19-Mar-22
 + [[http://philsci-archive.pitt.edu/20355/1/talk_archive.pdf][What we talk about when we talk about mathematics]]. ~ Jeremy Avigad. #Math
 
