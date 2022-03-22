@@ -33,6 +33,9 @@ its content.
 
 ** March 2022
 
+*** 21-Mar-22
++ [[https://mmhaskell.com/blog/2022/3/21/an-alternative-approach][An Alternative Approach]]. ~ James Bowen (@james_OWA). #Haskell #FunctionalProgramming
+
 *** 20-Mar-22
 + [[https://cacm.acm.org/magazines/2022/4/259398-explainable-ai/fulltext][Explainable AI]]. ~ By Veda C. Storey, Roman Lukyanenko, Wolfgang Maass, Jeffrey Parsons. #AI #XAI
 + [[https://cacm.acm.org/magazines/2022/4/259395-systems-abstractions/fulltext][Systems abstractions]]. ~ Peter J. Denning. #CompSci
