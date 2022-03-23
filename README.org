@@ -33,6 +33,10 @@ its content.
 
 ** March 2022
 
+*** 22-Mar-22
++ [[https://serokell.io/blog/algebraic-data-types-in-haskell][Algebraic data types in Haskell]]. ~ Gints Dreimanis. #Haskell #FunctionalProgramming
++ [[https://www.buzzsprout.com/758831/10297185][Teoría de los lenguajes de programación]]. (Entrevista a Uma Zalakain (@typer_uma) por Camilo Chacón Sartori (@camilo_chacon_s)). #ProgramaciónFuncional
+
 *** 21-Mar-22
 + [[https://mmhaskell.com/blog/2022/3/21/an-alternative-approach][An Alternative Approach]]. ~ James Bowen (@james_OWA). #Haskell #FunctionalProgramming
 
