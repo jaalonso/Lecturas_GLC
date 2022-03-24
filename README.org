@@ -33,6 +33,11 @@ its content.
 
 ** March 2022
 
+*** 23-Mar-22
++ [[https://lawrencecpaulson.github.io/2022/03/23/Locales.html][Type classes versus locales]]. ~ Lawrence C Paulson (@LawrPaulson). #ITP #IsabelleHOL
++ [[https://reasonablypolymorphic.com/blog/proof-carrying-code/index.html][Review: Proof-Carrying Code]]. ~ Sandy Maguire. #Agda #FunctionalProgramming #ITP
++ [[https://reasonablypolymorphic.com/blog/syntax-guided-synthesis/index.html][Review: Syntax-guided synthesis]]. ~ Sandy Maguire. #Agda #FunctionalProgramming #ITP
+
 *** 22-Mar-22
 + [[https://serokell.io/blog/algebraic-data-types-in-haskell][Algebraic data types in Haskell]]. ~ Gints Dreimanis. #Haskell #FunctionalProgramming
 + [[https://www.buzzsprout.com/758831/10297185][Teoría de los lenguajes de programación]]. (Entrevista a Uma Zalakain (@typer_uma) por Camilo Chacón Sartori (@camilo_chacon_s)). #ProgramaciónFuncional
