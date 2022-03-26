@@ -33,6 +33,11 @@ its content.
 
 ** March 2022
 
+*** 25-Mar-22
++ [[https://mmhaskell.com/blog/2022/3/24/making-your-own-monad][Making your own Monad]]. ~ James Bowen (@james_OWA). #Haskell #FunctionalProgramming
++ [[https://prophetlabs.de/posts/unsafeCoerceDict.html][Faking local instances with unsafeCoerce Dict]]. ~ Finn Schneider. #Haskell #FunctionalProgramming
++ [[https://dmitrytsepelev.dev/haskell-adventures][Haskell adventures: digging into the declarative approach]]. ~ Dmitry Tsepelev (@dmitrytsepelev). #Haskell #FunctionalProgramming
+
 *** 24-Mar-22
 + [[https://www.isa-afp.org/entries/Ackermanns_not_PR.html?utm_source=dlvr.it&utm_medium=twitter][Ackermann's function is not primitive recursive]]. ~ Lawrence C. Paulson (@LawrPaulson). #ITP #IsabelleHOL
 + [[https://well-typed.com/blog/2022/03/large-records-without-the-quotes/][New large-records release: now with 100% fewer quotes]]. ~ Edsko de Vries. #Haskell #FunctionalProgramming
