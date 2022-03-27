@@ -33,6 +33,12 @@ its content.
 
 ** March 2022
 
+*** 26-Mar-22
++ [[https://matryoshka-project.github.io/pubs/mechanical.pdf][Mechanical mathematicians (A new generation of automatic theorem provers eliminate bugs in software and mathematics)]]. ~ Alexander Bentkamp et als. #ATP #ITP #Logic #Math
++ [[https://arxiv.org/abs/2203.11341][Binary codes that do not preserve primitivity]]. ~ Štěpán Holub, Martin Raška, Štěpán Starosta. #ITP #IsabelleHOL
++ [[https://arxiv.org/abs/2201.05860v1][View-based Owicki-Gries reasoning for persistent x86-TSO (Extended version)]]. ~ Eleni Vafeiadi Bila, Brijesh Dongol, Ori Lahav, Azalea Raad, John Wickerson. #ITP #IsabelleHOL
++ [[https://arxiv.org/abs/2203.11826][Reduction of register pushdown systems with freshness property to pushdown systems in LTL model checking]]. ~ Yoshiaki Takata, Ryoma Senda, Hiroyuki Seki. #ITP #Coq
+
 *** 25-Mar-22
 + [[https://mmhaskell.com/blog/2022/3/24/making-your-own-monad][Making your own Monad]]. ~ James Bowen (@james_OWA). #Haskell #FunctionalProgramming
 + [[https://prophetlabs.de/posts/unsafeCoerceDict.html][Faking local instances with unsafeCoerce Dict]]. ~ Finn Schneider. #Haskell #FunctionalProgramming
