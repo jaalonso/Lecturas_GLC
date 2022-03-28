@@ -33,6 +33,9 @@ its content.
 
 ** March 2022
 
+*** 27-Mar-22
++ [[https://martin.kleppmann.com/2019/09/14/strange-loop-isabelle.html][Correctness proofs of distributed systems with Isabelle]]. ~ Martin Kleppmann. #ITP #IsabelleHOL
+
 *** 26-Mar-22
 + [[https://matryoshka-project.github.io/pubs/mechanical.pdf][Mechanical mathematicians (A new generation of automatic theorem provers eliminate bugs in software and mathematics)]]. ~ Alexander Bentkamp et als. #ATP #ITP #Logic #Math
 + [[https://arxiv.org/abs/2203.11341][Binary codes that do not preserve primitivity]]. ~ Štěpán Holub, Martin Raška, Štěpán Starosta. #ITP #IsabelleHOL
