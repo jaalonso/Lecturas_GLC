@@ -33,6 +33,11 @@ its content.
 
 ** March 2022
 
+*** 28-Mar-22
++ [[https://arxiv.org/abs/2203.13604][Formal semantics and formally verified validation for temporal planning]]. ~ Mohammad Abdulaziz, Lukas Koller. #ITP #IsabelleHOL
++ [[http://philsci-archive.pitt.edu/20398/][Computer verification for historians of philosophy]]. ~ Landon Elkind. #ITP
++ [[https://tel.archives-ouvertes.fr/tel-03622012/document][Proof-oriented domain-specific language design for high-assurance software]]. ~ Denis Merigoux (@DMerigoux). #PhD_Thesis #Programme_verification #Formal_methods
+
 *** 27-Mar-22
 + [[https://martin.kleppmann.com/2019/09/14/strange-loop-isabelle.html][Correctness proofs of distributed systems with Isabelle]]. ~ Martin Kleppmann. #ITP #IsabelleHOL
 
