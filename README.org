@@ -33,6 +33,12 @@ its content.
 
 ** March 2022
 
+*** 29-Mar-22
++ [[https://www.isa-afp.org/entries/Dedekind_Real.html][Constructing the reals as Dedekind cuts of rationals]]. ~ Jacques D. Fleuriot, Lawrence C. Paulson. #ITP #IsabelleHOL #Math
++ [[https://www.scitepress.org/Papers/2022/108387/108387.pdf][Machine-checked verification of cognitive agents]]. ~ Alexander Birch Jensen. #ITP #IsabelleHOL
++ [[https://imada.sdu.dk/~lcf/pubs/paper58.pdf][Certifying choreography compilation]]. ~ Lúıs Cruz-Filipe, Fabrizio Montesi, Marco Peressotti. #ITP #Coq
++ [[https://introproofs.github.io/s22/][Course: Introduction to proofs]]. ~ Sina Hazratpour. #ITP #LeanProver #Logic
+
 *** 28-Mar-22
 + [[https://arxiv.org/abs/2203.13604][Formal semantics and formally verified validation for temporal planning]]. ~ Mohammad Abdulaziz, Lukas Koller. #ITP #IsabelleHOL
 + [[http://philsci-archive.pitt.edu/20398/][Computer verification for historians of philosophy]]. ~ Landon Elkind. #ITP
