@@ -33,6 +33,16 @@ its content.
 
 ** March 2022
 
+*** 31-Mar-22
++ [[https://arxiv.org/abs/2203.16344][Formalizing the ring of adèles of a global field]]. ~ María Inés de Frutos-Fernández. #ITP #LeanProver #Math
++ [[https://arxiv.org/abs/2203.16341][Primality tests and prime certificate]]. ~ Laurent Théry. #ITP #Coq #Math
++ [[https://lawrencecpaulson.github.io//2022/03/30/Quotienting.html][Equivalence classes and quotienting]]. ~ Lawrence C. Paulson (@LawrPaulson). #Logic #Math #ITP
+
+*** 30-Mar-22
++ [[https://youtu.be/YOI743XVC3g][[London Learning Lean] Fourier series]]. ~ Heather Macbeth. #ITP #LeanProver #Math
++ [[https://www.isa-afp.org/entries/FOL_Seq_Calc3.html][A naive prover for first-order logic (in Isabelle/HOL)]]. ~ Asta Halkjær From. #ITP #IsabelleHOL #Logic #Haskell #FunctionalProgramming
++ [[https://www.haskellforall.com/2022/03/modeling-pluscal-in-haskell-using.html][Modeling PlusCal in Haskell using Cartesian products of NFAs]]. ~ Gabriella Gonzalez (@GabriellaG439). #Haskell #FunctionalProgramming #PlusCal
+
 *** 29-Mar-22
 + [[https://www.isa-afp.org/entries/Dedekind_Real.html][Constructing the reals as Dedekind cuts of rationals]]. ~ Jacques D. Fleuriot, Lawrence C. Paulson. #ITP #IsabelleHOL #Math
 + [[https://www.scitepress.org/Papers/2022/108387/108387.pdf][Machine-checked verification of cognitive agents]]. ~ Alexander Birch Jensen. #ITP #IsabelleHOL
