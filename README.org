@@ -11,6 +11,7 @@ its content.
 
 * Content                                                                      :TOC:
 - [[#readings-of-the-year-2022][Readings of the year 2022]]
+  - [[#april-2022][April 2022]]
   - [[#march-2022][March 2022]]
   - [[#february-2022][February 2022]]
   - [[#january-2022][January 2022]]
@@ -30,6 +31,14 @@ its content.
 - [[#previous-readings][Previous readings]]
 
 * Readings of the year 2022
+
+** April 2022
+
+*** 01-Abr-22
++ [[https://medium.com/pragmatic-programmers/pure-print-style-debugging-in-haskell-c4c5d4f39afa][Pure print-style debugging in haskell]]. ~ Rebecca Skinner. #Haskell #FunctionalProgramming
++ [[https://blog.ploeh.dk/2022/03/28/monads][Monads]]. ~ Mark Seemann (@ploeh). #Haskell #FunctionalProgramming
++ [[http://blog.vmchale.com/article/intern-identifiers][Names in Haskell compilers]]. ~ Vanessa McHale. #Haskell #FunctionalProgramming
++ [[https://dmitrytsepelev.dev/haskell-adventures-functors][Haskell adventures: Functors]]. ~ Dmitry Tsepelev (@dmitrytsepelev). #Haskell #FunctionalProgramming
 
 ** March 2022
 
