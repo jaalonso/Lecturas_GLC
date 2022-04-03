@@ -34,6 +34,12 @@ its content.
 
 ** April 2022
 
+*** 02-Abr-22
++ [[https://prg.is.titech.ac.jp/wp-content/uploads/2022/03/saito2022ppl.pdf][Practical aspects of monadic equational reasoning in Coq]]. ~ Ayumu Saito1, Reynald Affeldt. #ITP #Coq
++ [[https://link.springer.com/article/10.1007/s00607-022-01069-2][Formal model for inter-component communication and its security in Android]]. ~ Mohamed A. El-Zawawy, Parvez Faruki & Mauro Conti. #ITP #Coq
++ [[https://arxiv.org/abs/2203.14711][Towards formal verification of HotStuff-based Byzantine Fault Tolerant consensus in Agda: Extended version]]. ~ Harold Carr, Christopher Jenkins, Mark Moir, Victor Cacciari Miraldo & Lisandra Silva. #ITP #Agda
++ [[https://rjlipton.wpcomstaging.com/2022/04/01/an-ozone-hole-in-logic/][An ozone hole in Logic]]. ~ R.J. Lipton & K.W. Regan. #Logic #Programming #Scala #TypeTheory
+
 *** 01-Abr-22
 + [[https://medium.com/pragmatic-programmers/pure-print-style-debugging-in-haskell-c4c5d4f39afa][Pure print-style debugging in haskell]]. ~ Rebecca Skinner. #Haskell #FunctionalProgramming
 + [[https://blog.ploeh.dk/2022/03/28/monads][Monads]]. ~ Mark Seemann (@ploeh). #Haskell #FunctionalProgramming
