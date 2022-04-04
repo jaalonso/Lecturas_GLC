@@ -34,6 +34,11 @@ its content.
 
 ** April 2022
 
+*** 03-Abr-22
++ [[https://fm.csl.sri.com/SSFT15/Timeline.pages.pdf][A timeline for logic, λ-calculus, and programming language theory]]. ~ Dana S. Scott. #History #Logic #LambdaCalculus #FunctionalProgramming
++ [[https://archive.org/details/combinatorylogic0001curr][Combinatory logic]]. ~ H. B. Curry and R. Feys (1958). #eBook #Logic via @internetarchive
++ [[https://dev.to/tamerlang/the-simple-guide-to-programming-paradigms-36o][The simple guide to programming paradigms]]. ~ Tamerlan Gudabayev. #Programming
+
 *** 02-Abr-22
 + [[https://prg.is.titech.ac.jp/wp-content/uploads/2022/03/saito2022ppl.pdf][Practical aspects of monadic equational reasoning in Coq]]. ~ Ayumu Saito1, Reynald Affeldt. #ITP #Coq
 + [[https://link.springer.com/article/10.1007/s00607-022-01069-2][Formal model for inter-component communication and its security in Android]]. ~ Mohamed A. El-Zawawy, Parvez Faruki & Mauro Conti. #ITP #Coq
