@@ -34,6 +34,12 @@ its content.
 
 ** April 2022
 
+*** 04-Abr-22
++ [[https://escholarship.org/content/qt8hb1w6js/qt8hb1w6js.pdf][Formalizing the beginnings of bayesian probability theory in the Lean theorem prover]]. ~ Rishikesh Hirendu Vaishnav. #MSc_Thesis #ITP #LeanProver #Math
++ [[https://hal.inria.fr/hal-03626860/document][Number notation dans Coq (démonstration)]]. ~ Pierre Roux. #ITP #Coq
++ [[https://hal.inria.fr/hal-03626792/document][Un Coq apprend à un bébé Colibri à flotter]]. ~ Arthur Correnson & François Bobot. #ITP #Coq
++ [[https://otee.dev/2022/04/03/understanding-tail-recursion.html][Understanding tail recursion]]. ~ Oitihjya Sen (@oteecodes). #Clojure #FunctionalProgramming
+
 *** 03-Abr-22
 + [[https://fm.csl.sri.com/SSFT15/Timeline.pages.pdf][A timeline for logic, λ-calculus, and programming language theory]]. ~ Dana S. Scott. #History #Logic #LambdaCalculus #FunctionalProgramming
 + [[https://archive.org/details/combinatorylogic0001curr][Combinatory logic]]. ~ H. B. Curry and R. Feys (1958). #eBook #Logic via @internetarchive
