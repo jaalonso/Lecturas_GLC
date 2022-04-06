@@ -34,6 +34,9 @@ its content.
 
 ** April 2022
 
+*** 05-Abr-22
++ [[https://archive.org/details/AnnalsOfMathematicalStudies6ChurchAlonzoTheCalculiOfLambdaConversionPrincetonUniversityPress1941][The calculi of lambda conversion]]. ~ Alonzo Church (1941). #eBook #Logic #CompSci via @internetarchive
+
 *** 04-Abr-22
 + [[https://escholarship.org/content/qt8hb1w6js/qt8hb1w6js.pdf][Formalizing the beginnings of bayesian probability theory in the Lean theorem prover]]. ~ Rishikesh Hirendu Vaishnav. #MSc_Thesis #ITP #LeanProver #Math
 + [[https://hal.inria.fr/hal-03626860/document][Number notation dans Coq (démonstration)]]. ~ Pierre Roux. #ITP #Coq
