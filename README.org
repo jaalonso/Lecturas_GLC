@@ -34,6 +34,12 @@ its content.
 
 ** April 2022
 
+*** 06-Abr-22
++ [[http://reasonableapproximation.net/2022/04/02/variadic-hm.html][Variadic functions in Hindley Milner]]. ~ Sandy Maguire. #Haskell #FunctionalProgramming
++ [[https://bartoszmilewski.com/2022/04/05/teaching-optics-through-conspiracy-theories/][Teaching optics through conspiracy theories]]. ~ Bartosz Milewski (@BartoszMilewski). #Haskell #FunctionalProgramming #CategoryTheory
++ [[https://www.maths.ed.ac.uk/~tl/gt/gt.pdf][Galois theory]]. ~ Tom Leinster. #Math
++ [[https://youtu.be/8XUutFBbUrg][A tour of Prolog]]. ~ Markus Triska (@MarkusTriska). #Prolog #LogicProgramming
+
 *** 05-Abr-22
 + [[https://archive.org/details/AnnalsOfMathematicalStudies6ChurchAlonzoTheCalculiOfLambdaConversionPrincetonUniversityPress1941][The calculi of lambda conversion]]. ~ Alonzo Church (1941). #eBook #Logic #CompSci via @internetarchive
 
