@@ -34,6 +34,16 @@ its content.
 
 ** April 2022
 
+*** 07-Abr-22
++ "Lisp is worth learning for the profound enlightenment experience you will have when you finally get it; that experience will make you a better programmer for the rest of your days, even if you never actually use Lisp itself a lot." ~ Eric S. Raymond. #Quote #Programming #CompSci
++ [[https://www.glc.us.es/~jalonso/exercitium/elementos-de-una-matriz-con-algun-vecino-menor/][#Exercitium: Enunciado de "Elementos de una matriz con algún vecino menor"]]. #Haskell #ProgramaciónFuncional
++ [[https://youtu.be/_uOlyfzppVc][#Exercitium: Soluciones de "Familias de números con algún dígito en común"]]. #Haskell #ProgramaciónFuncional
++ [[https://www.glc.us.es/~jalonso/vestigium/pfh-ejercicios-con-acciones-io-entrada-salida/][#PFH: Ejercicios con acciones IO (entrada/salida)]]. #Haskell #ProgramaciónFuncional
++ [[https://lawrencecpaulson.github.io//2022/04/06/ZFC_in_HOL.html][Integrating Zermelo-Fraenkel set theory with higher-order logic]]. ~ Lawrence C. Paulson (@LawrPaulson). #ITP #IsabelleHOL #SetTheory
++ [[https://well-typed.com/blog/2022/04/large-anon/][large-anon: Practical scalable anonymous records for Haskell]]. ~ Edsko de Vries (@EdskoDeVries). #Haskell #FunctionalProgramming
++ [[https://blog.bitsrc.io/learn-to-calculate-time-complexity-from-scratch-part-i-9fac637d9bba][How to calculate time complexity from scratch (Part 1: Everything a programmer needs to know about time complexity, from zero to hero)]]. ~ Stephen Jose. #Algorithms
++ [[https://bryceclarke.github.io/A_general_framework_for_cofunctors.pdf][A general framework for cofunctors]]. ~ Bryce Clarke (@8ryceClarke). #CategoryTheory
+
 *** 06-Abr-22
 + [[http://reasonableapproximation.net/2022/04/02/variadic-hm.html][Variadic functions in Hindley Milner]]. ~ Sandy Maguire. #Haskell #FunctionalProgramming
 + [[https://bartoszmilewski.com/2022/04/05/teaching-optics-through-conspiracy-theories/][Teaching optics through conspiracy theories]]. ~ Bartosz Milewski (@BartoszMilewski). #Haskell #FunctionalProgramming #CategoryTheory
