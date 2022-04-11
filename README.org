@@ -34,6 +34,17 @@ its content.
 
 ** April 2022
 
+*** 09-Abr-22
++ [[https://blog.poisson.chat/posts/2022-04-07-pro-per-proper.html][The pro-PER meaning of "proper"]]. ~ Li-yao Xia (@lysxia). #ITP #Coq
++ [[https://sf.snu.ac.kr/publications/promising-seq-full.pdf][Sequential reasoning for optimizing compilers under weak memory concurrency]]. ~ M. Cho, S.H. Lee, D. Lee, C.K. Hur, O. Lahav. #ITP #Coq
++ [[https://arxiv.org/abs/2204.00076v1][Reachability logic for low-level programs]]. ~ Nico Naus, Freek Verbeek, Marc Schoolderman, Binoy Ravindran. #ITP #IsabelleHOL
+
+*** 08-Abr-22
++ [[http://eptcs.web.cse.unsw.edu.au/paper.cgi?LSFA2021.4][SeCaV: A sequent calculus verifier in Isabelle/HOL]]. ~ Asta Halkjær From, Frederik Krogsdal Jacobsen & Jørgen Villadsen. #ITP #IsabelleHOL #Logic
++ [[https://github.com/lexi-lambda/eff/blob/8c4df4bf54faf22456354be18095b14825be5e85/notes/semantics-zoo.md][The effect semantics zoo]]. ~ Alexis King (@lexi_lambda). #Haskell #FunctionalProgramming
++ [[http://eptcs.web.cse.unsw.edu.au/paper.cgi?LSFA2021.6][GADTs, functoriality, parametricity: Pick two]]. ~ Patricia Johann, Enrico Ghiorzi & Daniel Jeffries. #Haskell #FunctionalProgramming
++ [[http://siek.blogspot.com/2022/04/using-agdas-inductionrecursion-library.html][Using Agda's induction/recursion library]]. ~ Jeremy Siek (@jeremysiek). #ITP #Agda #FunctionalProgramming
+
 *** 07-Abr-22
 + "Lisp is worth learning for the profound enlightenment experience you will have when you finally get it; that experience will make you a better programmer for the rest of your days, even if you never actually use Lisp itself a lot." ~ Eric S. Raymond. #Quote #Programming #CompSci
 + [[https://www.glc.us.es/~jalonso/exercitium/elementos-de-una-matriz-con-algun-vecino-menor/][#Exercitium: Enunciado de "Elementos de una matriz con algún vecino menor"]]. #Haskell #ProgramaciónFuncional
