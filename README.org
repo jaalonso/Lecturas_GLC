@@ -34,6 +34,9 @@ its content.
 
 ** April 2022
 
+*** 11-Abr-22
++ [[https://bor0.wordpress.com/2022/04/10/implementing-a-formal-system-in-python/][Implementing a formal system in Python]]. ~ Boro Sitnikovski  (@BSitnikovski). #Python #Programming #Logic #Math
+
 *** 09-Abr-22
 + [[https://blog.poisson.chat/posts/2022-04-07-pro-per-proper.html][The pro-PER meaning of "proper"]]. ~ Li-yao Xia (@lysxia). #ITP #Coq
 + [[https://sf.snu.ac.kr/publications/promising-seq-full.pdf][Sequential reasoning for optimizing compilers under weak memory concurrency]]. ~ M. Cho, S.H. Lee, D. Lee, C.K. Hur, O. Lahav. #ITP #Coq
