@@ -34,6 +34,12 @@ its content.
 
 ** April 2022
 
+*** 12-Abr-22
++ [[https://hal.archives-ouvertes.fr/hal-03633318/document][Proof Pearl: Formalizing spreads and packings of the smallest projective space PG(3,2) using the Coq proof assistant]]. ~ Nicolas Magaud. #ITP #Coq #Math
++ [[https://arxiv.org/abs/2204.02643][Modular pre-processing for automated reasoning in dependent type theory]]. ~ Valentin Blot, Denis Cousineau, Enzo Crance, Louise Dubois de Prisque, Chantal Keller, Assia Mahboubi & Pierre Vial. #ITP #Coq #SMT
++ [[https://serokell.io/blog/whats-that-typeclass-monoid][What's that typeclass: Monoid]]. ~ Gints Dreimanis. #Haskell #FunctionalProgramming
++ [[https://wiki.tfpie.science.ru.nl/images/b/ba/TFPIE_2022_Jacobsen_Villadsen.pdf][Teaching functional programmers logic and metatheory]]. ~ Frederik Krogsdal Jacobsen & ørgen Villadsen. #ITP #Coq #Logic #Haskell #FunctionalProgramming
+
 *** 11-Abr-22
 + [[https://bor0.wordpress.com/2022/04/10/implementing-a-formal-system-in-python/][Implementing a formal system in Python]]. ~ Boro Sitnikovski  (@BSitnikovski). #Python #Programming #Logic #Math
 
