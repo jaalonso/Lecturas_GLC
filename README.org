@@ -34,6 +34,13 @@ its content.
 
 ** April 2022
 
+*** 13-Abr-22
++ [[https://lawrencecpaulson.github.io//2022/04/13/Sledgehammer.html][Sledgehammer: some history, some tips]]. ~ Lawrence C. Paulson (@LawrPaulson). #ITP #IsabelleHOL
++ [[http://perso.eleves.ens-rennes.fr/people/romeo.la-spina/pdf/rapport-projet-La_Spina.pdf][Verification of a Just-In-Time compiler]]. ~ Roméo La Spina. #ITP #Coq
++ [[https://arxiv.org/abs/2204.05653v1][Functional Pearl: Dependent type inference via free higher-order unification]]. ~ Nikolai Kudasov. #Haskell #FunctionalProgramming #Logic #TypeTheory
++ [[https://wiki.tfpie.science.ru.nl/images/9/97/Functional_programming_learning_path.pdf][Functional programming learning path]]. ~ Lidia V. Gorodnyaya & Dmitry A. Kondratyev. #FunctionalProgramming
++ [[http://www.cas.mcmaster.ca/~anand/TFPIEStateDiagrams.pdf][Teaching interaction using state diagrams]]. ~ Padma Pasupathi et als. #Elm #FunctionalProgramming #Teaching
+
 *** 12-Abr-22
 + [[https://hal.archives-ouvertes.fr/hal-03633318/document][Proof Pearl: Formalizing spreads and packings of the smallest projective space PG(3,2) using the Coq proof assistant]]. ~ Nicolas Magaud. #ITP #Coq #Math
 + [[https://arxiv.org/abs/2204.02643][Modular pre-processing for automated reasoning in dependent type theory]]. ~ Valentin Blot, Denis Cousineau, Enzo Crance, Louise Dubois de Prisque, Chantal Keller, Assia Mahboubi & Pierre Vial. #ITP #Coq #SMT
