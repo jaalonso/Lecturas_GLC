@@ -34,6 +34,12 @@ its content.
 
 ** April 2022
 
+*** 14-Abr-22
++ [[https://www.msoos.org/2022/04/proof-traces-for-sat-solvers/][Proof traces for SAT solvers]]. ~ Mate Soos (@SoosMate). #ATP #SATSolvers
++ [[https://felixspringer.xyz/homepage/blog/anInterfaceForAccessingEnvironmentVariables][An interface for accessing environment variables]]. ~ Felix Springer. #Haskell #FunctionalProgramming
++ [[https://wiki.tfpie.science.ru.nl/images/e/e7/Intro-Func-Objects-CS1.pdf][Introduction to functional classes in CS1]]. ~ Marco T. Morazán. #Racket #FunctionalProgramming
++ [[https://mindmatters.ai/2022/03/the-ai-illusion-state-of-the-art-chatbots-arent-what-they-seem/][The AI illusion: State-of-the-art chatbots aren’t what they seem]]. ~ Gary Smith (@ProfGarySmith). #AI
+
 *** 13-Abr-22
 + [[https://lawrencecpaulson.github.io//2022/04/13/Sledgehammer.html][Sledgehammer: some history, some tips]]. ~ Lawrence C. Paulson (@LawrPaulson). #ITP #IsabelleHOL
 + [[http://perso.eleves.ens-rennes.fr/people/romeo.la-spina/pdf/rapport-projet-La_Spina.pdf][Verification of a Just-In-Time compiler]]. ~ Roméo La Spina. #ITP #Coq
