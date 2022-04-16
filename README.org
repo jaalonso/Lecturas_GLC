@@ -34,6 +34,9 @@ its content.
 
 ** April 2022
 
+*** 15-Abr-22
++ [[https://mmhaskell.com/blog/2022/4/14/using-scans-to-accumulate][Using scans to accumulate]]. ~ James Bowen (@james_OWA). #Haskell #FunctionalProgramming
+
 *** 14-Abr-22
 + [[https://www.msoos.org/2022/04/proof-traces-for-sat-solvers/][Proof traces for SAT solvers]]. ~ Mate Soos (@SoosMate). #ATP #SATSolvers
 + [[https://felixspringer.xyz/homepage/blog/anInterfaceForAccessingEnvironmentVariables][An interface for accessing environment variables]]. ~ Felix Springer. #Haskell #FunctionalProgramming
