@@ -34,6 +34,10 @@ its content.
 
 ** April 2022
 
+*** 16-Abr-22
++ [[http://sigtbd.csail.mit.edu/pubs/2022/sigtbd22-paper7.pdf][Country-Fried Coq: Overly-formalized nonstandard arithmetic (with applications to Computer Science research)]]. ~ Michael Coulombe. #ITP #Coq #Math
++ [[https://www.mat.unb.br/ayala/TeoremaHall.pdf][Hall’s theorem for enumerable finite sets]]. ~ Fabián Fernando Serrano Suárez, Mauricio Ayala-Rincón & Thaynara Arielly de Lima. #ITP #IsabelleHOL #Math
+
 *** 15-Abr-22
 + [[https://mmhaskell.com/blog/2022/4/14/using-scans-to-accumulate][Using scans to accumulate]]. ~ James Bowen (@james_OWA). #Haskell #FunctionalProgramming
 
