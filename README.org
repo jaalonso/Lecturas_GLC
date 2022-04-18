@@ -34,6 +34,9 @@ its content.
 
 ** April 2022
 
+*** 17-Abr-22
++ [[https://arxiv.org/abs/2204.07112][A formally certified end-to-end implementation of Shor's factorization algorithm]]. ~ Yuxiang Peng, Kesha Hietala, Runzhou Tao, Liyi Li, Robert Rand, Michael Hicks, Xiaodi Wu. #ITP #Coq #Quantum_computing
+
 *** 16-Abr-22
 + [[http://sigtbd.csail.mit.edu/pubs/2022/sigtbd22-paper7.pdf][Country-Fried Coq: Overly-formalized nonstandard arithmetic (with applications to Computer Science research)]]. ~ Michael Coulombe. #ITP #Coq #Math
 + [[https://www.mat.unb.br/ayala/TeoremaHall.pdf][Hall’s theorem for enumerable finite sets]]. ~ Fabián Fernando Serrano Suárez, Mauricio Ayala-Rincón & Thaynara Arielly de Lima. #ITP #IsabelleHOL #Math
