@@ -34,6 +34,13 @@ its content.
 
 ** April 2022
 
+*** 19-Abr-22
++ [[https://www.isa-afp.org/entries/Frequency_Moments.html][Formalization of randomized approximation algorithms for frequency moments (in Isabelle/HOL)]]. ~ Emin Karayel. #ITP #IsabelleHOL
++ [[https://www.isa-afp.org/entries/Prefix_Free_Code_Combinators.html][A combinator library for prefix-free codes (in Isabelle/HOL)]]. ~ Emin Karayel. #ITP #IsabelleHOL
++ [[https://serokell.io/blog/doctests-in-haskell][Introduction to doctests in Haskell]]. ~ Nurlan Alkuatov. #Haskell #FunctionalProgramming
++ [[https://mmhaskell.com/blog/2022/4/18/combining-ideas-mapaccum][Combining ideas: mapAccum]]. ~ James Bowen (@james_OWA). #Haskell #FunctionalProgramming
++ [[https://youtu.be/7NBAmkHHFS0][Functional programming: an (Emacs) Lisp view 2/n]]. ~ Jens Jensen. #Lisp #FunctionalProgramming #Emacs
+
 *** 17-Abr-22
 + [[https://arxiv.org/abs/2204.07112][A formally certified end-to-end implementation of Shor's factorization algorithm]]. ~ Yuxiang Peng, Kesha Hietala, Runzhou Tao, Liyi Li, Robert Rand, Michael Hicks, Xiaodi Wu. #ITP #Coq #Quantum_computing
 
