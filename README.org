@@ -34,6 +34,11 @@ its content.
 
 ** April 2022
 
+*** 20-Abr-22
++ [[https://lawrencecpaulson.github.io//2022/04/20/Why-constructive.html][Why are you being constructive?]] ~ Lawrence C. Paulson (@LawrPaulson). #Logic #Math
++ [[http://perso.ens-lyon.fr/colin.riba/teaching/pp/notespp.pdf][Proofs and programs (Course notes)]]. ~ Colin Riba. #Logic #LambdaCalculus
++ [[https://swalla24.people.uic.edu/org-research/][Research notes with Org-Mode]]. ~ Sam Wallace #Emacs #OrgMode
+
 *** 19-Abr-22
 + [[https://www.isa-afp.org/entries/Frequency_Moments.html][Formalization of randomized approximation algorithms for frequency moments (in Isabelle/HOL)]]. ~ Emin Karayel. #ITP #IsabelleHOL
 + [[https://www.isa-afp.org/entries/Prefix_Free_Code_Combinators.html][A combinator library for prefix-free codes (in Isabelle/HOL)]]. ~ Emin Karayel. #ITP #IsabelleHOL
