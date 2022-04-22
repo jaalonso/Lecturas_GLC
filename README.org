@@ -34,6 +34,9 @@ its content.
 
 ** April 2022
 
+*** 21-Abr-22
++ [[https://andraskovacs.github.io/pdfs/phdthesis_compact.pdf][Type-theoretic signatures for algebraic theories and inductive types]]. ~ András Kovács. #PhD_Thesis #ITP #Agda
+
 *** 20-Abr-22
 + [[https://lawrencecpaulson.github.io//2022/04/20/Why-constructive.html][Why are you being constructive?]] ~ Lawrence C. Paulson (@LawrPaulson). #Logic #Math
 + [[http://perso.ens-lyon.fr/colin.riba/teaching/pp/notespp.pdf][Proofs and programs (Course notes)]]. ~ Colin Riba. #Logic #LambdaCalculus
