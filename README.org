@@ -12,7 +12,6 @@ its content.
 * Content                                                                      :TOC:
 - [[#readings-of-the-year-2022][Readings of the year 2022]]
   - [[#april-2022][April 2022]]
-- [[#22-abr-22][22-Abr-22]]
   - [[#march-2022][March 2022]]
   - [[#february-2022][February 2022]]
   - [[#january-2022][January 2022]]
@@ -35,7 +34,15 @@ its content.
 
 ** April 2022
 
-* 22-Abr-22
+*** 23-Abr-22
++ [[https://lmcs.episciences.org/9362/pdf][Beyond notations: Hygienic macro expansion for theorem proving languages]]. ~ Sebastian Ullrich & Leonardo de Moura. #ITP #LeanProver
++ [[http://ryandoeng.es/petr4-parsers.pdf][Leapfrog: Certified equivalence for protocol parsers]]. ~ Ryan Doenges et als. #ITP #Coq
++ [[https://monadplus.pro/haskell/2022/04/19/free-interpreter/][Free monads in the real world]]. ~ Arnau Abella. #Haskell #FunctionalProgramming
++ [[https://www.tandfonline.com/doi/full/10.1080/0952813X.2022.2062456 ][A Prolog application for reasoning on maths puzzles with diagrams]]. ~ Riccardo Buscaroli, Federico Chesani, Giulia Giuliani, Daniela Loreti. & Paola Mello. #Prolog #LogicProgramming #Math
++ [[https://www.ams.org/journals/tran/1959-091-01/S0002-9947-1959-0102480-9/S0002-9947-1959-0102480-9.pdf][Recursive functionals and quantifiers of finite types I]].~ S. C. Kleene (1959). #Logic #Math  #CompSci
++ [[https://www.ams.org/journals/tran/1963-108-01/S0002-9947-1963-0153557-4/S0002-9947-1963-0153557-4.pdf][Recursive functionals and quantifiers of finite types II]].~ S. C. Kleene (1963). #Logic #Math  #CompSci
+
+*** 22-Abr-22
 + [[https://www.isa-afp.org/entries/Multiset_Ordering_NPC.html][The generalized multiset ordering is NP-complete]]. ~ René Thiemann & Lukas Schmidinger. #ITP #IsabelleHOL
 + [[https://luctielen.com/posts/create_recursion_schemes_using_comonads/][Create recursion-schemes using comonads]]. ~ Luc Tielen (@luctielen). #Haskell #FunctionalProgramming
 + [[https://watch.softinio.com/w/tgDXLAUEAhGooiJiskwCFy][Namespaced DeBruijn indices]]. ~ Gabriella Gonzalez  (@GabriellaG439). #Haskell #FunctionalProgramming
