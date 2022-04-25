@@ -34,6 +34,11 @@ its content.
 
 ** April 2022
 
+*** 24-Abr-22
++ [[https://buzzsprout.com/758831/10473564][Optimización bi-nivel, matemáticas y Julia]]. ~ Jesús-Adolfo Mejía (@_jmejia) y Camilo Chacón Sartori (@camilo_chacon_s). #Podcast #Matemáticas #Programación #Informática #JuliaLang
++ [[https://youtu.be/xYClAk5LDyo][Platicando sobre "Historia de los lenguajes de programación" ~ Manuel Rubio (@MRonErlang)]]. #Programación H/T @camilo_chacon_s
++ [[https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=8102&context=sis_research][Linear algebra for computer science]]. ~ M. Thulasidas. #eBook #Math
+
 *** 23-Abr-22
 + [[https://lmcs.episciences.org/9362/pdf][Beyond notations: Hygienic macro expansion for theorem proving languages]]. ~ Sebastian Ullrich & Leonardo de Moura. #ITP #LeanProver
 + [[http://ryandoeng.es/petr4-parsers.pdf][Leapfrog: Certified equivalence for protocol parsers]]. ~ Ryan Doenges et als. #ITP #Coq
