@@ -34,6 +34,11 @@ its content.
 
 ** April 2022
 
+*** 25-Abr-22
++ [[https://gilmi.me/blog/post/2022/04/24/learn-twain-bulletin-app][Building a bulletin board using twain and friends]]. ~ Gil Mizrahi (@_gilmi). #Haskell #FunctionalProgramming
++ [[https://mmhaskell.com/blog/2022/4/25/effectful-loops-sequence-and-mapm][Effectful loops: sequence and mapM]]. ~ James Bowen (@james_OWA). #Haskell #FunctionalProgramming
++ [[http://humbox.ac.uk/5497/][Logic Gallery]]. ~ David Marans. #Logic
+
 *** 24-Abr-22
 + [[https://buzzsprout.com/758831/10473564][Optimización bi-nivel, matemáticas y Julia]]. ~ Jesús-Adolfo Mejía (@_jmejia) y Camilo Chacón Sartori (@camilo_chacon_s). #Podcast #Matemáticas #Programación #Informática #JuliaLang
 + [[https://youtu.be/xYClAk5LDyo][Platicando sobre "Historia de los lenguajes de programación" ~ Manuel Rubio (@MRonErlang)]]. #Programación H/T @camilo_chacon_s
