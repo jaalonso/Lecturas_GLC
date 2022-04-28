@@ -34,6 +34,11 @@ its content.
 
 ** April 2022
 
+*** 27-Abr-22
++ [[https://lawrencecpaulson.github.io//2022/04/27/Wetzel.html][Wetzel's problem and the continuum hypothesis]]. ~ Lawrence C. Paulson (@LawrPaulson). #ITP #IsabelleHOL #Math
++ [[https://arxiv.org/abs/2204.12311][Formalizing a diophantine representation of the set of prime numbers]]. ~ Karol Pąk, Cezary Kaliszyk. #ITP #Mizar #Math
++ [[https://serokell.io/blog/haskell-typeclasses][Introduction to Haskell typeclasses]]. ~ Gints Dreimanis. #Haskell #FunctionalProgramming
+
 *** 25-Abr-22
 + [[https://gilmi.me/blog/post/2022/04/24/learn-twain-bulletin-app][Building a bulletin board using twain and friends]]. ~ Gil Mizrahi (@_gilmi). #Haskell #FunctionalProgramming
 + [[https://mmhaskell.com/blog/2022/4/25/effectful-loops-sequence-and-mapm][Effectful loops: sequence and mapM]]. ~ James Bowen (@james_OWA). #Haskell #FunctionalProgramming
