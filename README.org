@@ -34,6 +34,13 @@ its content.
 
 ** April 2022
 
+*** 28-Abr-22
++ [[https://gowers.wordpress.com/2022/04/28/announcing-an-automatic-theorem-proving-project/][Announcing an automatic theorem proving project]]. ~ Timothy Gowers (@wtgowers). #ATP #ITP #Math #AI
++ [[https://drive.google.com/file/d/1-FFa6nMVg18m1zPtoAQrFalwpx2YaGK4/view][How can it be feasible to find proofs?]] ~ W. T. Gowers (@wtgowers). #ATP #ITP #Math #AI
++ [[https://www.tandfonline.com/doi/full/10.1080/10586458.2022.2062073][Simple type theory is not too simple: Grothendieck’s schemes without dependent types]]. ~ Anthony Bordg, Lawrence Paulson, Wenda Li. #ITP #IsabelleHOL #Math
++ [[https://www.fpcomplete.com/blog/hidden-dangers-of-ratio/][The hidden dangers of Haskell's Ratio type]]. ~ Neil Mayhew. #Haskell #FunctionalProgramming
++ [[https://mmhaskell.com/blog/2022/4/28/traverse-fully-generalized-loops][Traverse: Fully generalized loops]]. ~ James Bowen (@james_OWA). #Haskell #FunctionalProgramming
+
 *** 27-Abr-22
 + [[https://lawrencecpaulson.github.io//2022/04/27/Wetzel.html][Wetzel's problem and the continuum hypothesis]]. ~ Lawrence C. Paulson (@LawrPaulson). #ITP #IsabelleHOL #Math
 + [[https://arxiv.org/abs/2204.12311][Formalizing a diophantine representation of the set of prime numbers]]. ~ Karol Pąk, Cezary Kaliszyk. #ITP #Mizar #Math
