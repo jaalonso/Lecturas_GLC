@@ -34,6 +34,12 @@ its content.
 
 ** April 2022
 
+*** 29-Abr-22
++ [[https://jonascarpay.com/posts/2022-04-26-calligraphy-tutorial.html][Calligraphy tutorial]]. ~ Jonas Carpay (@jonascarpay). #Haskell #FunctionalProgramming
++ [[https://danilafe.com/blog/haskell_catamorphisms/][Generalizing folds in Haskell]]. ~ Danila Fedorin. #Haskell #FunctionalProgramming
++ [[https://iagoleal.com/posts/calculus-symbolic/][Let’s program a calculus student]]. ~ Iago Leal de Freitas. #Haskell #FunctionalProgramming #Math
++ [[https://www.michaelpj.com/blog/2022/04/24/on-commenting-code.html][On commenting code]]. ~ Michael Peyton Jones (@mpeytonjones). #Programming
+
 *** 28-Abr-22
 + [[https://gowers.wordpress.com/2022/04/28/announcing-an-automatic-theorem-proving-project/][Announcing an automatic theorem proving project]]. ~ Timothy Gowers (@wtgowers). #ATP #ITP #Math #AI
 + [[https://drive.google.com/file/d/1-FFa6nMVg18m1zPtoAQrFalwpx2YaGK4/view][How can it be feasible to find proofs?]] ~ W. T. Gowers (@wtgowers). #ATP #ITP #Math #AI
