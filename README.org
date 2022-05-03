@@ -35,9 +35,11 @@ its content.
 
 ** May 2022
 
+*** 02-May-22
++ [[https://arxiv.org/abs/2204.14191][FindFacts: A scalable theorem search]]. ~ Fabian Huch, Alexander Krauss. #ITP #IsabelleHOL
++ [[https://www.haskellforall.com/2022/05/introductory-resources-to-type-theory.html][Introductory resources to type theory for language implementers]]. ~ Gabriella Gonzalez (@GabriellaG439). #Haskell #FunctionalProgramming #TypeTheory
+
 *** 01-May-22
-+ [[https://www.glc.us.es/~jalonso/vestigium/pfh-la-semana-en-exercitium-del-25-al-30-de-abril/][#PFH: La semana en Exercitium (del 25 al 30 de abril)]]. #Haskell #ProgramaciónFuncional #Matemáticas
-+ [[https://www.glc.us.es/~jalonso/vestigium/dao-la-semana-en-calculemus-del-25-al-30-de-abril/][#DAO: La semana en Calculemus (del 25 al 30 de abril)]]. #LeanProver #IsabelleHOL #Lógica #Matemática
 + [[https://www.isa-afp.org/browser_info/current/AFP/Fishers_Inequality/document.pdf][Fisher's inequality: Linear algebraic proof techniques for combinatorics]]. ~ Chelsea Edmonds, Lawrence C. Paulson. #ITP #IsabelleHOL #Math
 + [[https://arxiv.org/abs/2204.12311][Formalizing a diophantine representation of the set of prime numbers]]. ~ Karol Pąk, Cezary Kaliszyk. #ITP #Mizar #Math
 + [[https://arxiv.org/abs/2204.10370][Passport: Improving automated formal verification using identifiers]]. ~ Alex Sanchez-Stern, Emily First, Timothy Zhou, Zhanna Kaufman, Yuriy Brun, Talia Ringer. #ITP #Coq #MachineLearning
