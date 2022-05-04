@@ -35,6 +35,11 @@ its content.
 
 ** May 2022
 
+*** 03-May-22
++ [[https://serokell.io/blog/top-software-written-in-haskell][11 companies that use Haskell in production]]. ~ Gints Dreimanis (@NaeosPsy). #Haskell #FunctionalProgramming
++ [[https://doisinkidney.com/posts/2022-05-03-depth-comonads.html][Depth comonads]]. ~ Donnacha Oisín Kidney (@oisdk). #Haskell #FunctionalProgramming
++ [[http://tilde.town/~ramin_hal9001/emacs-for-professionals/index.html][Emacs for professionals]]. ~ Ramin Honary. #Emacs
+
 *** 02-May-22
 + [[https://arxiv.org/abs/2204.14191][FindFacts: A scalable theorem search]]. ~ Fabian Huch, Alexander Krauss. #ITP #IsabelleHOL
 + [[https://www.haskellforall.com/2022/05/introductory-resources-to-type-theory.html][Introductory resources to type theory for language implementers]]. ~ Gabriella Gonzalez (@GabriellaG439). #Haskell #FunctionalProgramming #TypeTheory
