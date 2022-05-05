@@ -35,6 +35,12 @@ its content.
 
 ** May 2022
 
+*** 04-May-22
++ [[https://lawrencecpaulson.github.io/2022/05/04/baby-examples.html][Getting started with Isabelle: baby examples, cool proof methods]]. ~ Lawrence C. Paulson (@LawrPaulson). #ITP #IsabelleHOL #Math
++ [[https://www.haskellforall.com/2013/01/introduction-to-haskell-io.html][Introduction to Haskell IO]]. ~ Gabriella Gonzalez (@GabriellaG439). #Haskell #FunctionalProgramming
++ [[https://www.haskellforall.com/2022/05/why-does-haskells-take-function-accept.html][Why does Haskell's take function accept insufficient elements? ~ Gabriella Gonzalez (@GabriellaG439)]]. #Haskell #FunctionalProgramming
++ [[https://www.andres-loeh.de/LambdaPi/LambdaPi.pdf][A tutorial implementation of a dependently typed lambda calculus]]. ~ Andres Löh, Conor McBride, Wouter Swierstra. #Haskell #FunctionalProgramming #LambdaCalculus
+
 *** 03-May-22
 + [[https://serokell.io/blog/top-software-written-in-haskell][11 companies that use Haskell in production]]. ~ Gints Dreimanis (@NaeosPsy). #Haskell #FunctionalProgramming
 + [[https://doisinkidney.com/posts/2022-05-03-depth-comonads.html][Depth comonads]]. ~ Donnacha Oisín Kidney (@oisdk). #Haskell #FunctionalProgramming
