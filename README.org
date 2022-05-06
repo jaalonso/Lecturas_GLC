@@ -35,6 +35,9 @@ its content.
 
 ** May 2022
 
+*** 05-May-22
++ [[https://arxiv.org/abs/2205.01981][The Isabelle ENIGMA]]. ~ Zarathustra A. Goertzel, Jan Jakubův, Cezary Kaliszyk, Miroslav Olšák, Jelle Piepenbrock, Josef Urban. #ITP #IsabelleHOL #MachineLearning
+
 *** 04-May-22
 + [[https://lawrencecpaulson.github.io/2022/05/04/baby-examples.html][Getting started with Isabelle: baby examples, cool proof methods]]. ~ Lawrence C. Paulson (@LawrPaulson). #ITP #IsabelleHOL #Math
 + [[https://www.haskellforall.com/2013/01/introduction-to-haskell-io.html][Introduction to Haskell IO]]. ~ Gabriella Gonzalez (@GabriellaG439). #Haskell #FunctionalProgramming
