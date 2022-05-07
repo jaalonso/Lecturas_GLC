@@ -35,6 +35,10 @@ its content.
 
 ** May 2022
 
+*** 06-May-22
++ [[https://mmhaskell.com/blog/2022/5/5/handling-files-more-easily][Handling files more easily]]. ~ James Bowen (@james_OWA). #Haskell #FunctionalProgramming
++ [[https://www.tweag.io/blog/2022-05-05-existential-optics/][Existential optics]]. ~ Marco Perone. #Haskell #FunctionalProgramming
+
 *** 05-May-22
 + [[https://arxiv.org/abs/2205.01981][The Isabelle ENIGMA]]. ~ Zarathustra A. Goertzel, Jan Jakubův, Cezary Kaliszyk, Miroslav Olšák, Jelle Piepenbrock, Josef Urban. #ITP #IsabelleHOL #MachineLearning
 
