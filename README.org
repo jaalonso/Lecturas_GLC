@@ -35,6 +35,14 @@ its content.
 
 ** May 2022
 
+*** 07-May-22
++ [[https://www.researchgate.net/profile/Ende-Jin/publication/360085224_A_Review_of_Algebraic-Style_Reasoning_for_Type_Theory/links/626161ac1b747d19c29c7091/A-Review-of-Algebraic-Style-Reasoning-for-Type-Theory.pdf][A review of algebraic-style reasoning for type theory]]. ~ Ende Jin. #ITP #Agda #FunctionalProgramming
++ [[https://mizar-jp.org/journal/MMA-WiP/2022/MMA-WiP_2022-4(1)_1-17.pdf][Highschool (Secondary School) trigonometry: Some exercices with Mizar]]. ~ Roland Coghetto. #ITP #Mizar #Math
++ [[https://hal.inria.fr/hal-03656144/file/MANUSCRIPT.pdf][Deep specification and proof preservation for the CoqTL transformation language]]. ~ Zheng Cheng, Massimo Tisi. #ITP #Coq
++ [[https://project-smart.uibk.ac.at/docs/22/spdcck-ijcai22.pdf][Learning higher-order logic programs from failures]]. ~ Stanisław J. Purgał, David M. Cerna, Cezary Kaliszyk. #MachineLearning #ILP #LogicProgramming
++ [[https://youtu.be/Qa8IfEeBJqk][Haskell in 100 seconds]].  #Haskell #FunctionalProgramming
++ [[https://www.microsiervos.com/archivo/ordenadores/lenguajes-programacion-videos-100-segundos.html][Cómo entender de qué van los lenguajes de programación (y otras técnicas) en vídeos de 100 segundos]]. ~ @Alvy #Programación
+
 *** 06-May-22
 + [[https://mmhaskell.com/blog/2022/5/5/handling-files-more-easily][Handling files more easily]]. ~ James Bowen (@james_OWA). #Haskell #FunctionalProgramming
 + [[https://www.tweag.io/blog/2022-05-05-existential-optics/][Existential optics]]. ~ Marco Perone. #Haskell #FunctionalProgramming
