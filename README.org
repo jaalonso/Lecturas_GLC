@@ -35,6 +35,10 @@ its content.
 
 ** May 2022
 
+*** 08-May-22
++ [[https://arxiv.org/abs/2205.00787][More programming than programming: teaching formal methods in a software engineering programme]]. ~ James Noble, David Streader, Isaac Oscar Gariano, Miniruwani Samarakoon. #FormalMethods #Dafny
++ [[https://www.isa-afp.org/entries/Clique_and_Monotone_Circuits.html][Clique is not solvable by monotone circuits of polynomial size (in Isabelle/HOL)]]. ~ René Thiemann. #ITP #IsabelleHOL
+
 *** 07-May-22
 + [[https://www.researchgate.net/profile/Ende-Jin/publication/360085224_A_Review_of_Algebraic-Style_Reasoning_for_Type_Theory/links/626161ac1b747d19c29c7091/A-Review-of-Algebraic-Style-Reasoning-for-Type-Theory.pdf][A review of algebraic-style reasoning for type theory]]. ~ Ende Jin. #ITP #Agda #FunctionalProgramming
 + [[https://mizar-jp.org/journal/MMA-WiP/2022/MMA-WiP_2022-4(1)_1-17.pdf][Highschool (Secondary School) trigonometry: Some exercices with Mizar]]. ~ Roland Coghetto. #ITP #Mizar #Math
