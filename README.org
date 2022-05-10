@@ -12,6 +12,7 @@ its content.
 * Content                                                                      :TOC:
 - [[#readings-of-the-year-2022][Readings of the year 2022]]
   - [[#may-2022][May 2022]]
+- [[#09-may-22][09-May-22]]
   - [[#april-2022][April 2022]]
   - [[#march-2022][March 2022]]
   - [[#february-2022][February 2022]]
@@ -34,6 +35,9 @@ its content.
 * Readings of the year 2022
 
 ** May 2022
+
+* 09-May-22
++ [[https://arxiv.org/abs/2205.03159][Wetzel: Formalisation of an undecidable problem linked to the continuum hypothesis]]. ~ Lawrence C Paulson. #ITP #IsabelleHOL #Math
 
 *** 08-May-22
 + [[https://arxiv.org/abs/2205.00787][More programming than programming: teaching formal methods in a software engineering programme]]. ~ James Noble, David Streader, Isaac Oscar Gariano, Miniruwani Samarakoon. #FormalMethods #Dafny
