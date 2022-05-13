@@ -35,6 +35,10 @@ its content.
 
 ** May 2022
 
+*** 12-May-22
++ [[https://lawrencecpaulson.github.io//2022/05/11/jEdit-tricks.html][Getting started: basic Isabelle/jEdit tricks]]. ~ Lawrence C. Paulson (@LawrPaulson). #ITP #IsabelleHOL
++ [[https://serokell.io/blog/untyped-lambda-calculus][A brief look at untyped lambda calculus]]. ~ Nikolay Yakimov. #LambdaCalculus #FunctionalProgramming
+
 *** 10-May-22
 + [[https://www.isa-afp.org/entries/Digit_Expansions.html][Digit expansions (in Isabelle/HOL)]]. ~ Jonas Bayer, Marco David, Abhik Pal, Benedikt Stock. #ITP #IsabelleHOL #Math
 + [[https://www.ndss-symposium.org/wp-content/uploads/NDSS2022Poster_paper_40.pdf][PA-Boot: A formally verified processor authentication protocol for SMP secure boot]]. ~ Zhuoruo Zhang, Rui Chang, Qinming Dai, Ku Ren. #ITP #IsabelleHOL
