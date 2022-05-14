@@ -35,6 +35,12 @@ its content.
 
 ** May 2022
 
+*** 13-May-22
++ [[https://webusers.imj-prg.fr/~riccardo.brasca/files/pres.pdf][Fermat's Last Theorem for regular primes in Lean]]. ~ Riccardo Brasca. #ITP #LeanProver #Math
++ [[https://iagoleal.com/posts/calculus-symbolic-ad/][Let’s program a calculus student II (Turning symbolic differentiation automatic)]]. ~ Iago Leal de Freitas. #Haskell #FunctionalProgramming #Math
++ [[https://wjwh.eu/posts/2022-05-06-haskell-conduit-bots.html][Making type-safe internet bots with Haskell]]. ~ Wander Hillen. #Haskell #FunctionalProgramming
++ [[https://www.tweag.io/blog/2022-05-12-strict-vs-lazy/][Comparing strict and lazy]]. ~ Arnaud Spiwack. #Haskell #OCaml #FunctionalProgramming
+
 *** 12-May-22
 + [[https://lawrencecpaulson.github.io//2022/05/11/jEdit-tricks.html][Getting started: basic Isabelle/jEdit tricks]]. ~ Lawrence C. Paulson (@LawrPaulson). #ITP #IsabelleHOL
 + [[https://serokell.io/blog/untyped-lambda-calculus][A brief look at untyped lambda calculus]]. ~ Nikolay Yakimov. #LambdaCalculus #FunctionalProgramming
