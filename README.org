@@ -35,6 +35,12 @@ its content.
 
 ** May 2022
 
+*** 14-May-22
++ [[https://florisvandoorn.com/talks/sphere_eversion22.pdf][Lessons Learned from formalizing local convex integration]]. ~ Floris van Doorn. #ITP #LeanProver #Math
++ [[https://youtu.be/Evru5QHt-KU][Formalising local convex integration in Lean [Video]]]. ~ Floris van Doorn. #ITP #LeanProver #Math
++ [[https://youtu.be/QBLL48Z8gcg][Formalized mathematics and differential topology [Video]]]. ~ Patrick Massot. #ITP #LeanProver #Math
++ [[https://www.ssrg.ece.vt.edu/papers/pldi22.pdf][Formally verified lifting of C-compiled x86-64 binaries]]. ~ F. Verbeek, J. Bockenek, Z. Fu, B. Ravindran. #ITP #IsabelleHOL
+
 *** 13-May-22
 + [[https://webusers.imj-prg.fr/~riccardo.brasca/files/pres.pdf][Fermat's Last Theorem for regular primes in Lean]]. ~ Riccardo Brasca. #ITP #LeanProver #Math
 + [[https://iagoleal.com/posts/calculus-symbolic-ad/][Let’s program a calculus student II (Turning symbolic differentiation automatic)]]. ~ Iago Leal de Freitas. #Haskell #FunctionalProgramming #Math
