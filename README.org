@@ -35,6 +35,10 @@ its content.
 
 ** May 2022
 
+*** 16-May-22
++ [[https://arxiv.org/abs/2205.06391][PVS embeddings of propositional and quantified modal logic]]. ~ John Rushby. #ITP #PVS #Logic
++ [[https://arxiv.org/abs/2205.06590][Scalable SAT solving in the cloud]]. ~ Dominik Schreiber, Peter Sanders. #Logic #SATSolvers
+
 *** 14-May-22
 + [[https://florisvandoorn.com/talks/sphere_eversion22.pdf][Lessons Learned from formalizing local convex integration]]. ~ Floris van Doorn. #ITP #LeanProver #Math
 + [[https://youtu.be/Evru5QHt-KU][Formalising local convex integration in Lean [Video]]]. ~ Floris van Doorn. #ITP #LeanProver #Math
