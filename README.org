@@ -35,6 +35,14 @@ its content.
 
 ** May 2022
 
+*** 17-May-22
++ [[https://link.springer.com/content/pdf/10.1007/s11023-022-09603-z.pdf][Explainable Artificial Intelligence in Data Science (From foundational issues towards socio-technical considerations)]]. ~ Joaquín Borrego-Díaz, Juan Galán-Páez. #AI #XAI #DataScience
++ [[https://benjaminselfridge.github.io/posts/2022-05-10-model-checking-1.html][Model checking in Haskell (Part 1: Transition systems and invariants)]]. ~ Ben Selfridge. #Haskell #FunctionalProgramming #ModelChecking
++ [[https://arxiv.org/abs/2205.05728v1][Abductive reasoning in intuitionistic propositional logic via theorem synthesis]]. ~ Paul Tarau. #Prolog #LogicProgramming #Logic
++ [[https://jship.github.io/posts/2022-05-17-announcing-monad-logger-aeson/][Announcing monad-logger-aeson: Structured logging in Haskell for cheap]]. ~ Jason Shipman (@jship_). #Haskell #FunctionalProgramming
++ [[https://www.quantamagazine.org/computing-expert-says-programmers-need-more-math-20220517][How to write software with mathematical perfection]]. ~ Sheon Han. #Math #CompSci
++ [[https://youtu.be/rkZzg7Vowao][The man who revolutionized computer science with math]]. #CompSci #Math
+
 *** 16-May-22
 + [[https://arxiv.org/abs/2205.06391][PVS embeddings of propositional and quantified modal logic]]. ~ John Rushby. #ITP #PVS #Logic
 + [[https://arxiv.org/abs/2205.06590][Scalable SAT solving in the cloud]]. ~ Dominik Schreiber, Peter Sanders. #Logic #SATSolvers
