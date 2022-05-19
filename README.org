@@ -35,6 +35,11 @@ its content.
 
 ** May 2022
 
+*** 18-May-22
++ [[https://jaalonso.github.io/materias/PLconProlog/temas/tema-5.html][#PLconProlog Tema 5: Programación lógica de orden superior]]. #Prolog #ProgramaciónLógica
++ [[https://lawrencecpaulson.github.io/2022/05/18/Formalising-Incompleteness-I.html][Formalising Gödel's incompleteness theorems, I]]. ~ Lawrence C. Paulson (@LawrPaulson). #ITP #IsabelleHOL #Logic #Math
++ [[https://arxiv.org/abs/2205.08354][Constructive analysis in the Agda proof assistant]]. ~ Zachary Murray. #ITP #Agda #Math
+
 *** 17-May-22
 + [[https://link.springer.com/content/pdf/10.1007/s11023-022-09603-z.pdf][Explainable Artificial Intelligence in Data Science (From foundational issues towards socio-technical considerations)]]. ~ Joaquín Borrego-Díaz, Juan Galán-Páez. #AI #XAI #DataScience
 + [[https://benjaminselfridge.github.io/posts/2022-05-10-model-checking-1.html][Model checking in Haskell (Part 1: Transition systems and invariants)]]. ~ Ben Selfridge. #Haskell #FunctionalProgramming #ModelChecking
