@@ -35,6 +35,11 @@ its content.
 
 ** May 2022
 
+*** 19-May-22
++ [[https://arxiv.org/abs/2205.08628][Mechanized analysis of Anselm's modal ontological argument]]. ~ John Rushby. #ITP #PVS #Logic
++ [[https://mmhaskell.com/blog/2022/5/19/interactive-io][Interactive IO]]. ~ James Bowen (@james_OWA). #Haskell #FunctionalProgramming
++ [[https://www.microsiervos.com/archivo/ordenadores/leslie-lamport-matematico-revoluciono-informatica.html][El matemático que revolucionó la informática antes de que existiera la profesión de informático como tal]]. ~ @Alvy #Matemáticas #Computación
+
 *** 18-May-22
 + [[https://jaalonso.github.io/materias/PLconProlog/temas/tema-5.html][#PLconProlog Tema 5: Programación lógica de orden superior]]. #Prolog #ProgramaciónLógica
 + [[https://lawrencecpaulson.github.io/2022/05/18/Formalising-Incompleteness-I.html][Formalising Gödel's incompleteness theorems, I]]. ~ Lawrence C. Paulson (@LawrPaulson). #ITP #IsabelleHOL #Logic #Math
