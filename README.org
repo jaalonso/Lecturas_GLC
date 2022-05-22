@@ -35,6 +35,11 @@ its content.
 
 ** May 2022
 
+*** 21-May-22
++ [[https://arxiv.org/abs/2205.06841v1][From logic to functional logic programs]]. ~ Michael Hanus. #LogicProgramming #FunctionalProgramming
++ [[https://www.cambridge.org/core/services/aop-cambridge-core/content/view/3A5329B6E3639879301A6D44346FD1DD/S1471068422000102a.pdf/fifty-years-of-prolog-and-beyond.pdf][Fifty years of Prolog and beyond]]. ~ P. Körner et als. #Prolog #LogicProgramming
++ [[http://www.csci.viu.ca/~wesselsd/courses/csci330/code/prolog/][(SWI-)prolog examples and discussion]]. ~ David Wessels. #Prolog #LogicProgramming
+
 *** 19-May-22
 + [[https://arxiv.org/abs/2205.08628][Mechanized analysis of Anselm's modal ontological argument]]. ~ John Rushby. #ITP #PVS #Logic
 + [[https://mmhaskell.com/blog/2022/5/19/interactive-io][Interactive IO]]. ~ James Bowen (@james_OWA). #Haskell #FunctionalProgramming
