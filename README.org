@@ -35,6 +35,13 @@ its content.
 
 ** May 2022
 
+*** 24-May-22
++ [[https://hal.inria.fr/hal-03671876/document][Defining corecursive functions in Coq using approximations]]. ~ Vlad Rusu, David Nowak. #ITP #Coq
++ [[https://chester-beard.medium.com/why-i-am-learning-haskell-d95d1e5212f3][Why I am learning Haskell (The language for the Cardano blockchain)]]. ~ C. L. Beard. #Haskell #FunctionalProgramming
++ [[https://hal.inria.fr/hal-03671598/document][A formal correctness proof for an EDF scheduler implementation]]. ~ Florian Vanhems, Vlad Rusu, David Nowak, Gilles Grimaud. #ITP #Coq
++ [[https://lmcs.episciences.org/9570/pdf][Formalizing the face lattice of polyhedra]]. ~ Xavier Allamigeon, Ricardo D. Katz, Pierre-Yves Strub. #ITP #Coq #Math
++ [[https://arxiv.org/abs/2205.08718v1][An approach to translating Haskell programs to Agda and reasoning about them]]. ~ Harold Carr, Christa Jenkins, Mark Moir, Victor Cacciari Miraldo, Lisandra Silva. #ITP #Agda #Haskell #FunctionalProgramming
+
 *** 23-May-22
 + [[https://mmhaskell.com/blog/2022/5/23/using-binary-mode-in-haskell][Using binary mode in Haskell]]. ~ James Bowen (@james_OWA). #Haskell #FunctionalProgramming
 
