@@ -35,6 +35,13 @@ its content.
 
 ** May 2022
 
+*** 25-May-22
++ [[http://leanprover.github.io/talks/NFM2022.pdf][Lean 4 tutorial (NASA formal methods 2022)]]. ~ Leonardo de Moura, Sebastian Ullrich. #ITP #LeanProver
++ [[https://arxiv.org/abs/2205.11704][ACL2s systems programming]]. ~ Andrew T. Walter, Panagiotis Manolios. #ITP #ACL2
++ [[https://arxiv.org/abs/2205.11703][Verified implementation of an efficient term-rewriting algorithm for multiplier verification on ACL2]]. ~ Mertcan Temel. #ITP #ACL2
++ [[https://arxiv.org/abs/2205.11700][Modeling asymptotic complexity using ACL2]]. ~ William D. Young. #ITP #ACL2
++ [[https://arxiv.org/abs/2205.08095][Reasoning about vectors using an SMT theory of sequences]]. ~ Ying Sheng et als. #SMT
+
 *** 24-May-22
 + [[https://hal.inria.fr/hal-03671876/document][Defining corecursive functions in Coq using approximations]]. ~ Vlad Rusu, David Nowak. #ITP #Coq
 + [[https://chester-beard.medium.com/why-i-am-learning-haskell-d95d1e5212f3][Why I am learning Haskell (The language for the Cardano blockchain)]]. ~ C. L. Beard. #Haskell #FunctionalProgramming
