@@ -35,6 +35,13 @@ its content.
 
 ** May 2022
 
+*** 26-May-22
++ [[https://lawrencecpaulson.github.io//2022/05/25/Formalising-Incompleteness-II.html][Formalising Gödel's incompleteness theorems, II: Σ-formulas]]. ~ Lawrence C. Paulson (@LawrPaulson). #ITP #IsabelleHOL #Logic #Math
++ [[https://arxiv.org/abs/2205.11699][A free group of rotations of rank 2]]. ~ Jagadish Bapanapally, Ruben Gamboa. #ITP #ACL2 #Math
++ [[https://arxiv.org/abs/2205.11698][VWSIM: A circuit simulator]]. ~ Warren A. Hunt Jr., Vivek Ramanathan, J Strother Moore. #ITP #ACL2
++ [[https://arxiv.org/abs/2205.11697][A mechanized proof of bounded convergence time for the distributed perimeter surveillance system (DPSS) algorithm A]]. ~ David Greve, Jennifer Davis, Laura Humphrey. #ITP #ACL2
++ [[https://arxiv.org/abs/2205.11695][Using ACL2 to teach students about software testing]]. ~ Ruben Gamboa, Alicia Thoney. #ITP #ACL2
+
 *** 25-May-22
 + [[http://leanprover.github.io/talks/NFM2022.pdf][Lean 4 tutorial (NASA formal methods 2022)]]. ~ Leonardo de Moura, Sebastian Ullrich. #ITP #LeanProver
 + [[https://arxiv.org/abs/2205.11704][ACL2s systems programming]]. ~ Andrew T. Walter, Panagiotis Manolios. #ITP #ACL2
