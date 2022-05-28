@@ -35,6 +35,12 @@ its content.
 
 ** May 2022
 
+*** 27-May-22
++ [[https://devel.isa-afp.org/browser_info/current/AFP/Irrationals_From_THEBOOK/document.pdf][Irrational numbers from THE BOOK]]. ~ Lawrence C. Paulson. #ITP #IsabelleHOL #Math
++ [[https://arxiv.org/abs/2205.12615][Autoformalization with large language models]]. ~ Yuhuai Wu, Albert Q. Jiang, Wenda Li, Markus N. Rabe, Charles Staats, Mateja Jamnik, Christian Szegedy. #ITP #IsabelleHOL #MachineLearning
++ [[https://arxiv.org/abs/2205.11694][All prime numbers have primitive roots]]. ~ Ruben Gamboa, Woodrow Gamboa. #ITP #ACL2
++ [[https://arxiv.org/abs/2205.13347][A formalization of finite group theory]]. ~ David M. Russinoff. #ITP #ACL2 #Math
+
 *** 26-May-22
 + [[https://lawrencecpaulson.github.io//2022/05/25/Formalising-Incompleteness-II.html][Formalising Gödel's incompleteness theorems, II: Σ-formulas]]. ~ Lawrence C. Paulson (@LawrPaulson). #ITP #IsabelleHOL #Logic #Math
 + [[https://arxiv.org/abs/2205.11699][A free group of rotations of rank 2]]. ~ Jagadish Bapanapally, Ruben Gamboa. #ITP #ACL2 #Math
