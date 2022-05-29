@@ -35,6 +35,12 @@ its content.
 
 ** May 2022
 
+*** 28-May-22
++ [[https://www.isa-afp.org/entries/Package_logic.html][Formalization of a framework for the sound automation of magic wands]]. ~ Thibault Dardinier. #ITP #IsabelleHOL #Logic
++ [[https://arxiv.org/abs/2205.11491][HyperTree proof search for neural theorem proving]]. ~ Guillaume Lample, Marie-Anne Lachaux, Thibaut Lavril, Xavier Martinet, Amaury Hayat, Gabriel Ebner, Aurélien Rodriguez, Timothée Lacroix. #ITP #LeanProver #Metamath #MachineLearning 
++ [[https://blog.poisson.chat/posts/2022-05-27-formalizing-finite-sets.html][Formalizing finite sets]]. ~ Li-yao Xia (@lysxia). #ITP #Coq #Math
++ [[https://arxiv.org/abs/2205.11709v1][Hardware/software co-assurance using the Rust programming language and ACL2]]. ~ David Hardin. #ITP #ACL2 #Rust
+
 *** 27-May-22
 + [[https://devel.isa-afp.org/browser_info/current/AFP/Irrationals_From_THEBOOK/document.pdf][Irrational numbers from THE BOOK]]. ~ Lawrence C. Paulson. #ITP #IsabelleHOL #Math
 + [[https://arxiv.org/abs/2205.12615][Autoformalization with large language models]]. ~ Yuhuai Wu, Albert Q. Jiang, Wenda Li, Markus N. Rabe, Charles Staats, Mateja Jamnik, Christian Szegedy. #ITP #IsabelleHOL #MachineLearning
