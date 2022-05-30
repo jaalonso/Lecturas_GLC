@@ -35,6 +35,11 @@ its content.
 
 ** May 2022
 
+*** 30-May-22
++ [[https://www.isa-afp.org/entries/Pluennecke_Ruzsa_Inequality.html][The Plünnecke-Ruzsa inequality]]. ~ Angeliki Koutsoukou-Argyraki, Lawrence C. Paulson. #ITP #IsabelleHOL #Math
++ [[https://arxiv.org/abs/2205.14071][A mechanically assisted examination of vacuity and question begging in Anselm's ontological argument]]. ~ John Rushby. #ITP #PVS
++ [[https://www.philipzucker.com/hashlog-1/][Hashlog: A simple datalog in OCaml]]. ~ Philip Zucker (@SandMouth). #OCaml #Datalog
+
 *** 28-May-22
 + [[https://www.isa-afp.org/entries/Package_logic.html][Formalization of a framework for the sound automation of magic wands]]. ~ Thibault Dardinier. #ITP #IsabelleHOL #Logic
 + [[https://arxiv.org/abs/2205.11491][HyperTree proof search for neural theorem proving]]. ~ Guillaume Lample, Marie-Anne Lachaux, Thibaut Lavril, Xavier Martinet, Amaury Hayat, Gabriel Ebner, Aurélien Rodriguez, Timothée Lacroix. #ITP #LeanProver #Metamath #MachineLearning 
