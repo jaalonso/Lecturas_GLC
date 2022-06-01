@@ -35,6 +35,12 @@ its content.
 
 ** May 2022
 
+*** 31-May-22
++ [[https://simon.peytonjones.org/assets/pdfs/triemaps-that-match.pdf][Triemaps that match]]. ~ Simon Peyton Jones, Richard A. Eisenberg, Sebastian Gra. #Haskell #FunctionalProgramming
++ [[https://bor0.wordpress.com/2022/05/30/recursion-from-first-principles/][Recursion from first principles]]. ~ Boro Sitnikovski  (@BSitnikovski). #Logic #Math #CompSci
++ [[https://frasertweedale.github.io/blog-fp/posts/2022-05-31-ghc-test-suite.html][Writing tests for GHC]]. ~ Fraser Tweedale (@hackuador). #Haskell #FunctionalProgramming
++ [[https://youtu.be/M0a4-tfuiao][Haskell: Advantages, community and ecosystem]]. ~ Andres Löh. #Haskell #FunctionalProgramming
+  
 *** 30-May-22
 + [[https://www.isa-afp.org/entries/Pluennecke_Ruzsa_Inequality.html][The Plünnecke-Ruzsa inequality]]. ~ Angeliki Koutsoukou-Argyraki, Lawrence C. Paulson. #ITP #IsabelleHOL #Math
 + [[https://arxiv.org/abs/2205.14071][A mechanically assisted examination of vacuity and question begging in Anselm's ontological argument]]. ~ John Rushby. #ITP #PVS
