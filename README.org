@@ -36,6 +36,18 @@ its content.
 
 ** June 2022
 
+*** 02-Jun-22
++ [[https://github.com/siddhartha-gadgil/Polylean/tree/main/Polylean][Formalization: Gardam's disproof of the Kaplansky Unit Conjecture]]. ~ Siddhartha Gadgil (@SidGadgil). #ITP #LeanProver #Math
++ [[https://github.com/arthurpaulino/lean4-metaprogramming-book][A Lean 4 metaprogramming book]]. ~ Arthur Paulino, Damiano Testa, Edward Ayers, Henrik Böving, Jannis Limperg, Siddhartha Gadgil, Siddharth Bhat. #ITP #LeanProver
++ [[https://raw.githubusercontent.com/siraben/coq-wigderson/main/paper.pdf][Building graph theory using Coq: Verification of Wigderson’s graph coloring algorithm]]. ~ Siraphob (Ben) Phipathananunth, Jamison Homatas. #ITP #Coq #Math
++ [[https://www.tweag.io/blog/2022-06-02-haskell-stack-nix-shell/][Smooth, non-invasive Haskell Stack and Nix shell integration]]. ~ Julien Debon. #Haskell #FunctionalProgramming #Nix
++ [[https://www.lemonde.fr/blog/binaire/2022/05/06/linteroperabilite-des-systemes-de-preuve/][L’interopérabilité des systèmes de preuve]]. ~ Frédéric Blanqui. #ITP #EuroProofNet
++ [[https://mmhaskell.com/blog/2022/6/2/throwing-exceptions-the-basics][Throwing exceptions: The basics]]. ~ James Bowen (@james_OWA). #Haskell #FunctionalProgramming
++ [[http://philsci-archive.pitt.edu/20705/][Logical foundations of physics]]. Resolution of classical and quantum paradoxes in the finitistic paraconsistent logic NAFL. ~ Radhakrishnan Srinivasan. #Logic #Physics
++ [[https://notxor.nueva-actitud.org/2022/06/02/abreviaturas-en-emacs.html][Abreviaturas en Emacs]]. ~ Notxor. #Emacs
++ [[https://openaccesstexts.com/math/][Open textbooks for undergraduate mathematics]]. #eBook #Math
++ [[https://marktomforde.com/academic/mathmajors/textbook-suggestions.html][Mathematics textbooks for self study (A guide for the autodidact)]]. ~ Mark Tomforde. #Math
+
 *** 01-Jun-22
 + [[https://lawrencecpaulson.github.io//2022/06/01/Formalising-Incompleteness-III.html][Formalising Gödel's incompleteness theorems, III: Coding and bound variables]]. ~ Lawrence C. Paulson (@LawrPaulson). #ITP #IsabelleHOL #Logic #Math
 + [[https://mmhaskell.com/blog/2022/5/30/unit-testing-user-interactions][Unit testing user interactions]]. ~ James Bowen (@james_OWA). #Haskell #FunctionalProgramming
