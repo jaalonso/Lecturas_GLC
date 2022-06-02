@@ -11,6 +11,7 @@ its content.
 
 * Content                                                                      :TOC:
 - [[#readings-of-the-year-2022][Readings of the year 2022]]
+  - [[#june-2022][June 2022]]
   - [[#may-2022][May 2022]]
   - [[#april-2022][April 2022]]
   - [[#march-2022][March 2022]]
@@ -33,6 +34,15 @@ its content.
 
 * Readings of the year 2022
 
+** June 2022
+
+*** 01-Jun-22
++ [[https://lawrencecpaulson.github.io//2022/06/01/Formalising-Incompleteness-III.html][Formalising Gödel's incompleteness theorems, III: Coding and bound variables]]. ~ Lawrence C. Paulson (@LawrPaulson). #ITP #IsabelleHOL #Logic #Math
++ [[https://mmhaskell.com/blog/2022/5/30/unit-testing-user-interactions][Unit testing user interactions]]. ~ James Bowen (@james_OWA). #Haskell #FunctionalProgramming
++ [[https://www.haskellforall.com/2022/05/generate-web-forms-from-pure-functions.html][Generate web forms from pure functions]]. ~ Gabriella Gonzalez (@GabriellaG439). #Haskell #FunctionalProgramming
++ [[https://vishpat.github.io/lisp-rs-wasm/][Lisp interpreter in a browser using WASM]]. ~ Vishal Patil. #CommonLisp #RustLang
+
+   
 ** May 2022
 
 *** 31-May-22
