@@ -36,6 +36,10 @@ its content.
 
 ** June 2022
 
+*** 03-Jun-22
++ [[https://www.glc.us.es/~jalonso/exercitium/descomposiciones-con-sumandos-1-o-2/][#Exercitium: Descomposiciones con sumandos 1 ó 2]]. #Haskell #Programación_funcional #Matemáticas
++ [[https://www.haskellforall.com/2022/06/the-appeal-of-bidirectional-type.html][The appeal of bidirectional type-checking]]. ~ Gabriella Gonzalez (@GabriellaG439). #Haskell #FunctionalProgramming
+
 *** 02-Jun-22
 + [[https://github.com/siddhartha-gadgil/Polylean/tree/main/Polylean][Formalization: Gardam's disproof of the Kaplansky Unit Conjecture]]. ~ Siddhartha Gadgil (@SidGadgil). #ITP #LeanProver #Math
 + [[https://github.com/arthurpaulino/lean4-metaprogramming-book][A Lean 4 metaprogramming book]]. ~ Arthur Paulino, Damiano Testa, Edward Ayers, Henrik Böving, Jannis Limperg, Siddhartha Gadgil, Siddharth Bhat. #ITP #LeanProver
