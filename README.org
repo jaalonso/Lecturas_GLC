@@ -36,6 +36,20 @@ its content.
 
 ** June 2022
 
+*** 04-Jun-22
++ [[https://cogumbreiro.github.io/assets/turing-types22.pdf][Towards a mechanized theory of computation for education]]. ~ Tiago Cogumbreiro, Yannick Forster. #ITP #Coq #CompSci
++ [[https://gitlab.com/umb-svl/turing][Introduction to the theory of computation]]. ~ Tiago Cogumbreiro. #ITP #Coq
++ [[https://hal.inria.fr/hal-03372247v2/document][Efficient extensional binary tries]]. ~ Andrew Appel, Xavier Leroy. #ITP #Coq
++ [[https://kclpure.kcl.ac.uk/portal/files/174142954/FSCD_2022.pdf][A certified algorithm for AC-unification]]. ~ Mauricio Ayala-Rincón, Maribel Fernández, Gabriel Ferreira Silva, Daniele Nantes Sobrinho. #ITP #PVS
++ [[https://repositorioaberto.uab.pt/bitstream/10400.2/9925/1/TD_IvoRobert.pdf][ProverX – Rewriting and extending Prover9]]. ~ Ivo Robert. #PhDThesis #ATP #Prover9 #ProverX
++ [[http://www.proverx.com/doc/][ProveX: an extension of Prover9 (an automated theorem prover for first-order and equational logic) with a scripting language]]. Furthermore, a GUI running as a Web App was aded to the project with some extra functionality. #ATP #ProverX #Prover9
++ [[https://arxiv.org/abs/2205.14343v1][Varieties of lazy magmas characterized by forbidden substructure theorems]]. ~ João Araújo, Fernando Maia Ferreira, Michael Kinyon. #ATP #ProverX #Math
++ [[https://link.springer.com/book/10.1007/978-3-030-97645-3 ][OCaml scientific computing (Functional programming in data science and artificial intelligence)]]. ~ Liang Wang, Jianxin Zhao, Richard Mortier. #OCaml #FunctionalProgramming
++ [[https://www.quantamagazine.org/what-is-the-langlands-program-20220601][What is the Langlands program?]] ~ Alex Kontorovich. #Math
++ [[https://youtu.be/_bJeKUosqoY][The Langlands Program, explained]]. ~ Alex Kontorovich. #Math
++ [[http://revue.sesamath.net/spip.php?article1523][L’Histoire des mathématiques, une porte d’entrée dans une culture vaste, diverse et authentique? ~G]]. Kuntz. #Math #History
++ [[https://hist-math.fr][Histoires de Mathématiques]]. #Math #History
+
 *** 03-Jun-22
 + [[https://www.glc.us.es/~jalonso/exercitium/descomposiciones-con-sumandos-1-o-2/][#Exercitium: Descomposiciones con sumandos 1 ó 2]]. #Haskell #Programación_funcional #Matemáticas
 + [[https://www.haskellforall.com/2022/06/the-appeal-of-bidirectional-type.html][The appeal of bidirectional type-checking]]. ~ Gabriella Gonzalez (@GabriellaG439). #Haskell #FunctionalProgramming
