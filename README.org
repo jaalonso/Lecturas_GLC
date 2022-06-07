@@ -36,6 +36,14 @@ its content.
 
 ** June 2022
 
+*** 07-Jun-22
++ [[https://arxiv.org/abs/2206.02169][Formally verified solution methods for infinite-horizon Markov decision processes]]. ~ Maximilian Schäfeller, Mohammad Abdulaziz. #ITP #IsabelleHOL #Math
++ [[https://www.isa-afp.org/browser_info/current/AFP/DPRM_Theorem/document.pdf][Diophantine equations and the DPRM theorem]]. ~ Jonas Bayer, Marco David, Benedikt Stock, Abhik Pal, Yuri Matiyasevich, Dierk Schleicher. #ITP #IsabelleHOL #Math
++ [[https://nikolai-kosmatov.eu/publications/blatter_kpl_ifm_2022.pdf][Certified verification of relational properties]]. ~ Lionel Blatter et als. #ITP #Coq
++ [[https://mmhaskell.com/blog/2022/6/6/catching-what-weve-thrown][Catching what we’ve thrown]]. ~ James Bowen (@james_OWA). #Haskell #FunctionalProgramming 
++ [[https://serokell.io/blog/haskell-in-production-haskoin][Haskell in production: Haskoin]]. #Haskell #FunctionalProgramming
++ [[https://youtu.be/ZDOBpEuvfVE][Introducción a Emacs (para novatos)]]. ~ Dario Rodriguez. #Emacs
+
 *** 06-Jun-22
 + [[https://www.isa-afp.org/entries/Rewrite_Properties_Reduction.html][Reducing rewrite properties to properties on ground terms]]. ~ Alexander Lochman. #ITP #IsabelleHOL
 + [[https://www.saurabhnanda.in/2022/03/24/dhall-a-gateway-drug-to-haskell/][Dhall: A gateway drug to Haskell]]. ~ Saurabh Nanda (@saurabhnanda). #Haskell #FunctionalProgramming
