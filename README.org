@@ -36,6 +36,10 @@ its content.
 
 ** June 2022
 
+*** 06-Jun-22
++ [[https://www.isa-afp.org/entries/Rewrite_Properties_Reduction.html][Reducing rewrite properties to properties on ground terms]]. ~ Alexander Lochman. #ITP #IsabelleHOL
++ [[https://www.saurabhnanda.in/2022/03/24/dhall-a-gateway-drug-to-haskell/][Dhall: A gateway drug to Haskell]]. ~ Saurabh Nanda (@saurabhnanda). #Haskell #FunctionalProgramming
+
 *** 04-Jun-22
 + [[https://cogumbreiro.github.io/assets/turing-types22.pdf][Towards a mechanized theory of computation for education]]. ~ Tiago Cogumbreiro, Yannick Forster. #ITP #Coq #CompSci
 + [[https://gitlab.com/umb-svl/turing][Introduction to the theory of computation]]. ~ Tiago Cogumbreiro. #ITP #Coq
