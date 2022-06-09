@@ -36,6 +36,11 @@ its content.
 
 ** June 2022
 
+*** 09-Jun-22
++ [[https://www.researchgate.net/publication/361149832_A_Comprehensive_Framework_for_Saturation_Theorem_Proving][A comprehensive framework for saturation theorem proving]]. ~ Uwe Waldmann, Sophie Tourret, Simon Robillard, Jasmin Christian Blanchette. #ITP #IsabelleHOL
++ [[https://www.researchgate.net/publication/360907950_Concept_learning_consistency_under_three-way_decision_paradigm][Concept learning consistency under three-way decision paradigm]]. ~ Gonzalo A. Aranda-Corral, Joaquín Borrego-Díaz, Juan Galán-Páez. #MachineLearning #FormalConceptAnalysis
++ [[https://swi-prolog.discourse.group/t/forall-2-foreach-2-double-negation-relational-division-and-sql/5458][Forall/2, foreach/2, double negation, relational division and SQL]]. #Prolog #LogicProgramming #SQL
+  
 *** 08-Jun-22
 + [[https://lawrencecpaulson.github.io/2022/06/08/baby-descriptions.html][Dealing with descriptions in Isabelle/HOL: least, greatest, whatever]]. ~ Lawrence C. Paulson (@LawrPaulson). #ITP #IsabelleHOL
 + [[https://siddhartha-gadgil.github.io/automating-mathematics/posts/formalizing-gardam-disproof-kaplansky-conjecture/][Formalizing Gardam's disproof of Kaplansky's Unit Conjecture]]. ~ Siddhartha Gadgil (@SidGadgil). #ITP #LeanProver #Math
