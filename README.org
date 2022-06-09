@@ -36,6 +36,15 @@ its content.
 
 ** June 2022
 
+*** 08-Jun-22
++ [[https://lawrencecpaulson.github.io/2022/06/08/baby-descriptions.html][Dealing with descriptions in Isabelle/HOL: least, greatest, whatever]]. ~ Lawrence C. Paulson (@LawrPaulson). #ITP #IsabelleHOL
++ [[https://siddhartha-gadgil.github.io/automating-mathematics/posts/formalizing-gardam-disproof-kaplansky-conjecture/][Formalizing Gardam's disproof of Kaplansky's Unit Conjecture]]. ~ Siddhartha Gadgil (@SidGadgil). #ITP #LeanProver #Math
++ [[https://arxiv.org/abs/2206.03358][Towards a Coq formalization of a quantified modal logic]]. ~ Ana de Almeida Borges. #ITP #Coq #Logic
++ [[https://digama0.github.io/mm0/thesis.pdf][Metamath Zero (From logic, to proof assistant, to verified compilation)]]. ~ Mario Carneiro. #ITP #MetamathZero #Logic
++ [[https://ana-borges.gitlab.io/QRC1-Coq/v0.1.0/Summary.html][QRC1 in Coq]]. ~ Ana de Almeida Borges. #ITP #Coq #Logic
++ [[https://youtu.be/Yy0UM5nAl5c][SKI combinator calculus in Haskell]]. ~ Michael Gilliland. #Haskell #FunctionalProgramming
++ [[https://youtu.be/ZV6FLGTTzdc][Getting started with Lean programming language in Visual Studio Code]]. ~ Chris Lovett. #ITP #LeanProver
+
 *** 07-Jun-22
 + [[https://arxiv.org/abs/2206.02169][Formally verified solution methods for infinite-horizon Markov decision processes]]. ~ Maximilian Schäfeller, Mohammad Abdulaziz. #ITP #IsabelleHOL #Math
 + [[https://www.isa-afp.org/browser_info/current/AFP/DPRM_Theorem/document.pdf][Diophantine equations and the DPRM theorem]]. ~ Jonas Bayer, Marco David, Benedikt Stock, Abhik Pal, Yuri Matiyasevich, Dierk Schleicher. #ITP #IsabelleHOL #Math
