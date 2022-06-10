@@ -36,6 +36,11 @@ its content.
 
 ** June 2022
 
+*** 10-Jun-22
++ [[https://leanprover.github.io/functional_programming_in_lean/][Functional programming in Lean]]. ~ David Thrane Christiansen (@d_christiansen). #ITP #LeanProver #FunctionalProgramming
++ [[https://mmhaskell.com/blog/2022/6/9/try-ing-it-out-first]["Try"-ing it out first]]. ~ James Bowen (@james_OWA). #Haskell #FunctionalProgramming
++ [[https://haskle.net/][Haskle: a wordle-like game where you have to guess a function from the Haskell Prelude]]. ~ Clément Delafargue. #Haskell #FunctionalProgramming
+
 *** 09-Jun-22
 + [[https://www.researchgate.net/publication/361149832_A_Comprehensive_Framework_for_Saturation_Theorem_Proving][A comprehensive framework for saturation theorem proving]]. ~ Uwe Waldmann, Sophie Tourret, Simon Robillard, Jasmin Christian Blanchette. #ITP #IsabelleHOL
 + [[https://www.researchgate.net/publication/360907950_Concept_learning_consistency_under_three-way_decision_paradigm][Concept learning consistency under three-way decision paradigm]]. ~ Gonzalo A. Aranda-Corral, Joaquín Borrego-Díaz, Juan Galán-Páez. #MachineLearning #FormalConceptAnalysis
