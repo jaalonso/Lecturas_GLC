@@ -36,6 +36,12 @@ its content.
 
 ** June 2022
 
+*** 11-Jun-22
++ [[https://www.math.elte.hu/thesisupload/thesisfiles/2022bsc_mat3y-qd3fmf.pdf][Theorem Proving with Deep Learning]]. ~ Szabó Kristóf. #ATP #DeepLearning
++ [[http://denisevellachemla.eu/f02-2203-16344.pdf][Formaliser l'anneau des adèles d'un corps global]]. ~ María Inés de Frutos-Fernández. #ITP #LeanProver #Math
++ [[https://lmcs.episciences.org/9655/pdf][Quotients, inductive types, & quotient inductive types]]. ~ Marcelo P. Fiore, Andrew M. Pitts, S. C. Steenkamp. #ITP #Agda
++ [[https://raw.githubusercontent.com/pfandzelter/thesis-tips/main/thesis.pdf][Writing a Computer Science Thesis]]. ~ Tobias Pfandzelter, Martin Grambow, Trever Schirmer,  David Bermbach. #PhDThesis #CompSci
+
 *** 10-Jun-22
 + [[https://leanprover.github.io/functional_programming_in_lean/][Functional programming in Lean]]. ~ David Thrane Christiansen (@d_christiansen). #ITP #LeanProver #FunctionalProgramming
 + [[https://mmhaskell.com/blog/2022/6/9/try-ing-it-out-first]["Try"-ing it out first]]. ~ James Bowen (@james_OWA). #Haskell #FunctionalProgramming
