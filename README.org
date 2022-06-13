@@ -36,6 +36,10 @@ its content.
 
 ** June 2022
 
+*** 12-Jun-22
++ [[https://www.ps.uni-saarland.de/Publications/documents/HostertEtAl_2022_Undecidability.pdf][Undecidability of dyadic first-order logic in Coq]]. ~ Johannes Hostert, Andrej Dudenhefner, Dominik Kirst. #ITP #Coq #Logic
++ [[https://www.ps.uni-saarland.de/~kirst/downloads/TYPES_2022_paper_16.pdf][Strong, synthetic, and computational proofs of Gödel’s first incompleteness theorem]]. ~ Benjamin Peters, Dominik Kirst. #ITP #Coq #Logic #Math
+
 *** 11-Jun-22
 + [[https://www.math.elte.hu/thesisupload/thesisfiles/2022bsc_mat3y-qd3fmf.pdf][Theorem Proving with Deep Learning]]. ~ Szabó Kristóf. #ATP #DeepLearning
 + [[http://denisevellachemla.eu/f02-2203-16344.pdf][Formaliser l'anneau des adèles d'un corps global]]. ~ María Inés de Frutos-Fernández. #ITP #LeanProver #Math
