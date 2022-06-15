@@ -36,6 +36,13 @@ its content.
 
 ** June 2022
 
+*** 15-Jun-22
++ [[https://loeh.app.uni-regensburg.de/mapa/main.pdf][Exploring formalisation (A primer in human-readable mathematics in Lean 3 with examples from simplicial topology)]]. ~ Clara Löh. #ITP #LeanProver #Math
++ [[https://lawrencecpaulson.github.io//2022/06/15/Ramsey-2.html][Formalising Ramsey theory, II]]. ~ Lawrence C. Paulson (@LawrPaulson). #ITP #IsabelleHOL #Math
++ [[https://digama0.github.io/mm0/thesis-slides.pdf][Metamath Zero (From logic, to proof assistant, to verified compiler) [Slides]]]. ~ Mario Carneiro. #ITP #MetamathZero
++ [[https://hal.inria.fr/hal-03689027/document][Towards corecursion without corecursion in Coq]]. ~ Vlad Rusu, David Nowak. #ITP #Coq
++ [[https://leanprover-community.github.io/blog/posts/month-in-mathlib-may-2022/][This month in mathlib (May 2022)]]. #ITP #LeanProver #MathLib #Math
+
 *** 14-Jun-22
 + [[https://mmhaskell.com/blog/2022/6/13/exception-type-details][Exception type details]]. ~ James Bowen (@james_OWA). #Haskell #FunctionalProgramming
 + [[https://serras.github.io/zurihac-workshop][Haskell (The Legend of DSLs)]]. ~ Alejandro Serrano (@trupill). #Haskell #FunctionalProgramming
