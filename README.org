@@ -36,6 +36,14 @@ its content.
 
 ** June 2022
 
+*** 16-Jun-22
++ [[https://www21.in.tum.de/~traytel/papers/pds/pds.pdf][Differential testing of pushdown reachability with a formally verified oracle]].  ~ Anders Schlichtkrull, Morten Konggaard Schou, Jirí Srba, Dmitriy Trayte. #ITP #IsabelleHOL
++ [[https://www.isa-afp.org/entries/Finite_Fields.html][Finite fields (in Isabelle/HOL)]]. ~ Emin Karayel. #ITP #IsabelleHOL #Math
++ [[https://investigacion.unirioja.es/documentos/62a3392253455d640810a6e0/f/62a6e5c2a659e14253bf8d74.pdf][A formalization of the Smith normal form in higher-order logic]]. ~ Jose Divasón, René Thiemann. #ITP #IsabelleHOL #Math
++ [[https://benjaminselfridge.github.io/posts/2022-06-15-model-checking-2.html][Model checking in Haskell (Part 2: From programs to transition systems)]]. ~ Ben Selfridge. #Haskel #FunctionalProgramming #ModelChecking
++ [[https://deepsource.io/blog/monadic-parser-combinators/][Monadic parser combinators in Haskell]]. ~ Srijan Paul. #Haskell #FunctionalProgramming
++ [[https://discourse.haskell.org/t/hatlab-a-wip-library-inspired-by-matlab-and-numpy/4673][Hatlab: a WIP-library inspired by Matlab and NumPy]]. ~ Humr Druhý. #Haskel #FunctionalProgramming
+
 *** 15-Jun-22
 + [[https://loeh.app.uni-regensburg.de/mapa/main.pdf][Exploring formalisation (A primer in human-readable mathematics in Lean 3 with examples from simplicial topology)]]. ~ Clara Löh. #ITP #LeanProver #Math
 + [[https://lawrencecpaulson.github.io//2022/06/15/Ramsey-2.html][Formalising Ramsey theory, II]]. ~ Lawrence C. Paulson (@LawrPaulson). #ITP #IsabelleHOL #Math
