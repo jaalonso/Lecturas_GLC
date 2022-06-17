@@ -36,6 +36,9 @@ its content.
 
 ** June 2022
 
+*** 17-Jun-22
++ [[https://mmhaskell.com/blog/2022/6/16/just-catching-a-few-things][Just catching a few things]]. ~ James Bowen (@james_OWA). #Haskell #FunctionalProgramming
+
 *** 16-Jun-22
 + [[https://www21.in.tum.de/~traytel/papers/pds/pds.pdf][Differential testing of pushdown reachability with a formally verified oracle]].  ~ Anders Schlichtkrull, Morten Konggaard Schou, Jirí Srba, Dmitriy Trayte. #ITP #IsabelleHOL
 + [[https://www.isa-afp.org/entries/Finite_Fields.html][Finite fields (in Isabelle/HOL)]]. ~ Emin Karayel. #ITP #IsabelleHOL #Math
