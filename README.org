@@ -36,6 +36,14 @@ its content.
 
 ** June 2022
 
+*** 18-Jun-22
++ [[https://types22.inria.fr/files/2022/06/TYPES_2022_paper_26.pdf][Towards a formalization of affine schemes in Cubical Agda]]. ~ Anders Mörtberg, Max Zeuner. #ITP #Agda #Math
++ [[https://leanprover-community.github.io/blog/posts/the-ring-of-integers-of-a-cyclotomic-field/][The ring of integers of a cyclotomic field]]. ~ Riccardo Brasca. #ITP #LeanProver #Math
++ [[https://www21.in.tum.de/~traytel/papers/explanator2/expl2.pdf][Explainable online monitoring of metric temporal logic]]. ~ Leonardo Lima, Andrei Herasimau, Martin Raszyk, Dmitriy Traytel, Simon Yuan. #ITP #IsabelleHOL
++ [[https://types22.inria.fr/files/2022/06/TYPES_2022_paper_40.pdf][Verification techniques for smart contracts in Agda]]. ~ Fahad F. Alhabardi, Arnold Beckmann, Bogdan Lazar, Anton Setzer. #ITP #Agda
++ [[https://types22.inria.fr/files/2022/06/TYPES_2022_paper_12.pdf][The 4th homotopy group of the 3-sphere in Cubical Agda]]. ~ Axel Ljungström, Anders Mörtberg. #ITP #Agda #Math
++ [[https://types22.inria.fr/files/2022/06/TYPES_2022_paper_32.pdf][Monsters: Programming and reasoning]]. ~ Venanzio Capretta, Christopher Purdy. #Haskell #FunctionalProgramming
+
 *** 17-Jun-22
 + [[https://mmhaskell.com/blog/2022/6/16/just-catching-a-few-things][Just catching a few things]]. ~ James Bowen (@james_OWA). #Haskell #FunctionalProgramming
 
