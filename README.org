@@ -36,6 +36,12 @@ its content.
 
 ** June 2022
 
+*** 19-Jun-22
++ [[https://types22.inria.fr/files/2022/06/TYPES_2022_paper_70.pdf][A datatype of planar graphs]]. ~ Malin Altenmüller, Conor McBride. #ITP #Agda
++ [[https://people.ciirc.cvut.cz/~janotmik/IJCAR_AIMLEAP_Camera_Ready.pdf][Guiding an automated theorem prover with neural rewriting]]. ~ Jelle Piepenbrock, Tom Heskes, Mikoláš Janota, Josef Urban. #ATP #Prover9 #MachineLearning
++ [[https://types22.inria.fr/files/2022/06/TYPES_2022_paper_53.pdf][Myhill isomorphism theorem and a computational Cantor-Bernstein theorem in constructive type theory]]. ~ Yannick Forster, Felix Jahn, Gert Smolka. #ITP #Coq #Math
++ [[https://github.com/leanprover-community/mathlib/blob/100975e9629d5aa006042797ecafcf8cebb15597/src/geometry/euclidean/inversion.lean][Inversion in an affine space]]. ~ Yury G. Kudryashov. #ITP #LeanProver #Math
+
 *** 18-Jun-22
 + [[https://types22.inria.fr/files/2022/06/TYPES_2022_paper_26.pdf][Towards a formalization of affine schemes in Cubical Agda]]. ~ Anders Mörtberg, Max Zeuner. #ITP #Agda #Math
 + [[https://leanprover-community.github.io/blog/posts/the-ring-of-integers-of-a-cyclotomic-field/][The ring of integers of a cyclotomic field]]. ~ Riccardo Brasca. #ITP #LeanProver #Math
