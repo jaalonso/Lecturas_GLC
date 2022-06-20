@@ -36,6 +36,9 @@ its content.
 
 ** June 2022
 
+*** 20-Jun-22
++ [[https://idus.us.es/bitstream/handle/11441/134391/1/Mar%C3%ADa%20Dolores%20Mateo%20Ceballos.pdf?sequence=1][Lógica computacional desde el punto de vista de la programación funcional: eliminación de cuantificadores]]. ~ María Dolores Mateo Ceballos. #TFG #LógicaComputacional #OCaml #ProgramaciónFuncional
+
 *** 19-Jun-22
 + [[https://types22.inria.fr/files/2022/06/TYPES_2022_paper_70.pdf][A datatype of planar graphs]]. ~ Malin Altenmüller, Conor McBride. #ITP #Agda
 + [[https://people.ciirc.cvut.cz/~janotmik/IJCAR_AIMLEAP_Camera_Ready.pdf][Guiding an automated theorem prover with neural rewriting]]. ~ Jelle Piepenbrock, Tom Heskes, Mikoláš Janota, Josef Urban. #ATP #Prover9 #MachineLearning
