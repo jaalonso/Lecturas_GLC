@@ -36,6 +36,9 @@ its content.
 
 ** June 2022
 
+*** 22-Jun-22
++ [[https://lawrencecpaulson.github.io/2022/06/22/Why-formalise.html][What is the point of formalising mathematics? ~ Lawrence C]]. Paulson (@LawrPaulson). #ITP #Math
+
 *** 21-Jun-22
 + [[https://zulip-uploads.s3.amazonaws.com/3121/pCswxBQoZGDwat6pjKL3gMCV/talk_schemes.pdf?AWSAccessKeyId=AKIAIEVMBCAT2WD3M5KQ&Signature=AX5jPfMYqVk%2BVFn879vHTETpioU%3D&Expires=1655824635][How to do maths without dependent types]]. ~ Anthony Bordg, jww Larry Paulson, Wenda Li. #ITP #IsabelleHOL #Math
 + [[https://codeberg.org/martianh/lingva.el][lingva: Access Google Translate via lingva]]. #Emacs 
