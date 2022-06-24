@@ -1,6 +1,6 @@
 #+OPTIONS: ^:nil
 #+TITLE: Readings on computational logic, interactive theorem proving and functional programming
-
+  
 This repository is a collection of readings shared on [[https://twitter.com/Jose_A_Alonso][Twitter]] about
 computational logic, interactive theorem proving and functional programming.
 
