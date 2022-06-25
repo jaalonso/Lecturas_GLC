@@ -36,6 +36,13 @@ its content.
 
 ** June 2022
 
+*** 25-Jun-22
++ [[https://www.isa-afp.org/entries/IsaNet.html][IsaNet: Formalization of a verification framework for secure data plane protocols]]. ~ Tobias Klenze, Christoph Sprenger. #ITP #IsabelleHOL
++ [[https://mat.unb.br/~ayala/FormEuclideanDomains.pdf][Formalizing factorization on euclidean domains and abstract euclidean algorithms]]. ~ Thaynara Arielly de Lima, Andréia Borges Avelar, André Luiz Galdino, Mauricio Ayala-Rincón. #ITP #PVS #Math
++ [[https://repository.tudelft.nl/islandora/object/uuid:7288099e-1fd4-4d9a-a2f9-7b3e108419d4/datastream/OBJ/download][Practical verification of a free monad instance]]. ~ Luka Janjić. #ITP #Agda
++ [[https://repository.tudelft.nl/islandora/object/uuid:241b1dde-302d-4aae-8891-f328c36e2b36/datastream/OBJ/download][Practical verification of infinite structures in agda2hs]]. ~ Remco Schrijver. #ITP #Agda #Haskell #FunctionalProgramming
++ [[https://www.irisa.fr/prive/talpin/papers/cav22.pdf][End-to-end mechanized proof of an eBPF virtual machine for micro-controllers]]. ~ Shenghao Yuan et als. #ITP #Coq
+
 *** 22-Jun-22
 + [[https://lawrencecpaulson.github.io/2022/06/22/Why-formalise.html][What is the point of formalising mathematics? ~ Lawrence C]]. Paulson (@LawrPaulson). #ITP #Math
 
