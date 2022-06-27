@@ -36,6 +36,11 @@ its content.
 
 ** June 2022
 
+*** 26-Jun-22
++ [[https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/553221/thesis.pdf?sequence=1][Efficient, expressive, and verified temporal query evaluation]]. ~ Martin Raszyk. #PhD_Thesis #ITP #IsabelleHOL
++ [[https://arxiv.org/abs/2206.08714][Relaxing safety for metric first-order temporal logic via dynamic free variables ~ Jonathan Julian Huerta y Munive]]. #ITP #IsabelleHOL
++ [[https://www.cs.ox.ac.uk/people/hugo.paquet/lazyppl.pdf][LazyPPL: Monads and laziness for Bayesian modelling]]. ~ Swaraj Dash, Younesse Kaddar, Hugo Paquet, Sam Staton. #Haskell #FunctionalProgramming
+  
 *** 25-Jun-22
 + [[https://www.isa-afp.org/entries/IsaNet.html][IsaNet: Formalization of a verification framework for secure data plane protocols]]. ~ Tobias Klenze, Christoph Sprenger. #ITP #IsabelleHOL
 + [[https://mat.unb.br/~ayala/FormEuclideanDomains.pdf][Formalizing factorization on euclidean domains and abstract euclidean algorithms]]. ~ Thaynara Arielly de Lima, Andréia Borges Avelar, André Luiz Galdino, Mauricio Ayala-Rincón. #ITP #PVS #Math
