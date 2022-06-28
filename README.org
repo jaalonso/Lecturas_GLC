@@ -36,6 +36,13 @@ its content.
 
 ** June 2022
 
+*** 28-Jun-22
++ [[https://drops.dagstuhl.de/opus/volltexte/2022/16280/pdf/lipics-vol228-fscd2022-complete.pd][Certified decision procedures for two-counter machines]]. ~ Andrej Dudenhefner.f#page=309 #ITP #Coq
++ [[https://drops.dagstuhl.de/opus/volltexte/2022/16280/pdf/lipics-vol228-fscd2022-complete.pd][An analysis of Tennenbaum’s theorem in constructive type theory]]. ~ Marc Hermes, Dominik Kirst.f#page=167 #ITP #Coq #Logic #Math
+
+*** 27-Jun-22
++ [[https://www.haskellforall.com/2022/06/defaultable-map-applicative-wrapper-for.html][defaultable-map: An Applicative wrapper for Maps]]. ~ Gabriella Gonzalez (@GabriellaG439). #Haskell #FunctionalProgramming
+
 *** 26-Jun-22
 + [[https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/553221/thesis.pdf?sequence=1][Efficient, expressive, and verified temporal query evaluation]]. ~ Martin Raszyk. #PhD_Thesis #ITP #IsabelleHOL
 + [[https://arxiv.org/abs/2206.08714][Relaxing safety for metric first-order temporal logic via dynamic free variables ~ Jonathan Julian Huerta y Munive]]. #ITP #IsabelleHOL
