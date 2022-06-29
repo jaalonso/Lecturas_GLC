@@ -36,6 +36,9 @@ its content.
 
 ** June 2022
 
+*** 29-Jun-22
++ [[https://github.com/leanprover-community/mathlib/blob/00c17d657767c048b3c4623c37e8ed28b7e983ea/src/algebra/ring/boolean_ring.lean][Boolean rings in Lean]]. ~ Bryan Gin-ge Chen, Yaël Dillies. #ITP #LeanProver #Math
+
 *** 28-Jun-22
 + [[https://drops.dagstuhl.de/opus/volltexte/2022/16280/pdf/lipics-vol228-fscd2022-complete.pd][Certified decision procedures for two-counter machines]]. ~ Andrej Dudenhefner.f#page=309 #ITP #Coq
 + [[https://drops.dagstuhl.de/opus/volltexte/2022/16280/pdf/lipics-vol228-fscd2022-complete.pd][An analysis of Tennenbaum’s theorem in constructive type theory]]. ~ Marc Hermes, Dominik Kirst.f#page=167 #ITP #Coq #Logic #Math
