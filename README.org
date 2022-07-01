@@ -36,6 +36,11 @@ its content.
 
 ** June 2022
 
+*** 30-Jun-22
++ [[https://arxiv.org/abs/2010.10296][Definitional quantifiers realisel semantic reasoning for proof by induction]]. ~ Yutaka Nagashima. #ITP #IsabelleHOL
++ [[https://arxiv.org/abs/2111.06368][Should type theory replace set theory as the foundation of mathematics]]. ~ Thorsten Altenkirch. #Logic #Math
++ [[https://serokell.io/blog/how-to-learn-haskell-in-10-minutes][15 Resources to Help You Learn Haskell in 2022]]. #Haskell #FunctionalProgramming
+
 *** 29-Jun-22
 + [[https://github.com/leanprover-community/mathlib/blob/00c17d657767c048b3c4623c37e8ed28b7e983ea/src/algebra/ring/boolean_ring.lean][Boolean rings in Lean]]. ~ Bryan Gin-ge Chen, Yaël Dillies. #ITP #LeanProver #Math
 
