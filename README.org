@@ -11,6 +11,7 @@ its content.
 
 * Content                                                                      :TOC:
 - [[#readings-of-the-year-2022][Readings of the year 2022]]
+  - [[#julio-2022][Julio 2022]]
   - [[#june-2022][June 2022]]
   - [[#may-2022][May 2022]]
   - [[#april-2022][April 2022]]
@@ -34,6 +35,22 @@ its content.
 
 * Readings of the year 2022
 
+** Julio 2022
+
+*** 02-Jul-22
++ [[https://www.glc.us.es/~jalonso/vestigium/pfh-la-semana-en-exercitium-1-de-julio-de-2022/][#PFH: La semana en Exercitium (1 de julio de 2022)]]. #Haskell #ProgramaciónFuncional #Matemáticas
++ [[https://www.cs.princeton.edu/~appel/papers/FECVerification.pdf][Verified erasure correction in Coq with MathComp and VST]]. ~ Joshua M. Cohen, Qinshi Wang, Andrew W. Appel. #ITP #Coq
++ [[https://kurser.math.su.se/pluginfile.php/105616/mod_folder/content/0/2022/2022_gustav_sahlin.pdf][A formal proof of Karatsuba’s algorithm in Agda]]. ~ Gustav Sahlin. #ITP #Agda #FunctionalProgramming
++ [[https://www.colibri.udelar.edu.uy/jspui/bitstream/20.500.12008/32410/1/ROD22.pdf][Representación de estructuras de datos con invariantes en Haskell]]. ~ Marco N. Rodríguez Alvariza. #Haskell #ProgramaciónFuncional
+
+*** 01-Jul-22
++ [[https://www.glc.us.es/~jalonso/exercitium/numeros-autodescriptivos/][#Exercitium: Números autodescriptivos]]. #Haskell #Programación_funcional #Matemáticas
++ [[https://www.isa-afp.org/entries/Real_Time_Deque.html][Real-time double-ended queue]]. ~ Balazs Toth, Tobias Nipkow. #ITP #IsabelleHOL
++ [[https://kodimensional.dev/cps][Using a 50-years old technique for solving modern issues]]. ~ Dmirtrii Kovanikov (@ChShersh). #Haskell #FunctionalProgramming
++ [[https://mmhaskell.com/blog/2022/6/27/catching-before-production-assert-statements-in-haskell][Catching before production: Assert statements in Haskell]]. ~ James Bowen (@james_OWA). #Haskell #FunctionalProgramming
++ [[https://www.quora.com/Which-is-the-best-functional-programming-language-1 ][Which is the best functional programming language?]] ~ Aaron Christianson. #FunctionalProgramming
++ [[https://serokell.io/blog/10-reasons-to-use-haskell][10 reasons to use Haskell]]. ~ Vladislav Zavialov. #Haskell #FunctionalProgramming
+  
 ** June 2022
 
 *** 30-Jun-22
