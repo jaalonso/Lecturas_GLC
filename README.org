@@ -37,6 +37,10 @@ its content.
 
 ** Julio 2022
 
+*** 03-Jul-22
++ [[https://youtu.be/Ku9-hmf1Qkw][Namespaced De Bruijn indices (Video)]]. ~ Gabriella Gonzalez (@GabriellaG439). #Haskell #FunctionalProgramming
++ [[https://www.haskellforall.com/2021/08/namespaced-de-bruijn-indices.html][Namespaced De Bruijn indices]]. ~ Gabriella Gonzalez (@GabriellaG439). #Haskell #FunctionalProgramming
+  
 *** 02-Jul-22
 + [[https://www.glc.us.es/~jalonso/vestigium/pfh-la-semana-en-exercitium-1-de-julio-de-2022/][#PFH: La semana en Exercitium (1 de julio de 2022)]]. #Haskell #ProgramaciónFuncional #Matemáticas
 + [[https://www.cs.princeton.edu/~appel/papers/FECVerification.pdf][Verified erasure correction in Coq with MathComp and VST]]. ~ Joshua M. Cohen, Qinshi Wang, Andrew W. Appel. #ITP #Coq
