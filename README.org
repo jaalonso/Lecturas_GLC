@@ -37,6 +37,17 @@ its content.
 
 ** Julio 2022
 
+*** 04-Jul-22
++ [[https://www.glc.us.es/~jalonso/exercitium/ceros-finales-del-factorial/][#Exercitium: Ceros finales del factorial]]. #Haskell #Programación_funcional #Matemáticas
++ [[https://jaalonso.github.io/materias/PLconProlog/temas/tema-16.html.][#PLconProlog: Razonamiento con información incompleta]]. #Prolog #ProgramaciónLógica #IA
++ [[https://youtu.be/-NHWF4ntc1I][Correct code by construction]]. ~ Walter Schulze (@awalterschulze), Paul Cadman (@paulcadman). #ITP #Coq
++ [[https://www.slideshare.net/pjschwarz/sum-and-product-types-the-fruit-salad-fruit-snack-example-from-f-to-haskell-scala-and-java][Sum and product types (The fruit salad & fruit snack example (from F# to Haskell, Scala and Java))]]. ~ Philip Schwarz (@philip_schwarz). #Haskell #FunctionalProgramming #Scala #Fsharp #Java
++ [[http://hakank.org/common_cp_models/][Common constraint programming problems]]. ~ Hakan Kjellerstrand (@hakank). #CLP #Prolog #LogicProgramming
++ [[https://www.genbeta.com/actualidad/esta-nueva-ia-google-capaz-resolver-problema-matematico-paso-a-paso-asi-minerva][Esta nueva IA de Google es capaz de resolver un problema matemático paso a paso: así es Minerva]]. ~ José Alberto Lizana (@Josealberto1813). #IA #Matemáticas
++ [[https://ai.googleblog.com/2022/06/minerva-solving-quantitative-reasoning.html][Minerva: Solving quantitative reasoning problems with language models]]. ~ Ethan Dyer, Guy Gur-Ari. #AI #Math 
++ [[https://arxiv.org/abs/2206.14858][Solving quantitative reasoning problems with language models]]. ~ Aitor Lewkowycz et als. #AI #Math
++ [[https://minerva-demo.github.io][Minerva sample explorer]]. #AI #Math
+
 *** 03-Jul-22
 + [[https://youtu.be/Ku9-hmf1Qkw][Namespaced De Bruijn indices (Video)]]. ~ Gabriella Gonzalez (@GabriellaG439). #Haskell #FunctionalProgramming
 + [[https://www.haskellforall.com/2021/08/namespaced-de-bruijn-indices.html][Namespaced De Bruijn indices]]. ~ Gabriella Gonzalez (@GabriellaG439). #Haskell #FunctionalProgramming
