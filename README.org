@@ -37,9 +37,15 @@ its content.
 
 ** Julio 2022
 
+*** 05-Jul-22
++ [[https://www.quantamagazine.org/can-computers-be-mathematicians-20220629/][Can computers be mathematicians?]] ~ Steven Strogatz (@stevenstrogatz), Kevin Buzzard (@XenaProject). #ITP #LeanProver #Math
++ [[https://github.com/leanprover-community/mathlib/blob/73d15d772e8b97c511da46925888ea7ac040679b/src/number_theory/wilson.lean][Wilson's theorem (in Lean)]]. ~ John Nicol. #ITP #LeanProver #Math
++ [[http://outlace.com/Lean_part_1.html][Numbers in Lean (Part 1)]]. ~ Brandon Brown. #ITP #Lean4 #FunctionalProgramming #Math
++ [[https://www.isa-afp.org/entries/Boolos_Curious_Inference.html][Boolos's curious inference in Isabelle/HOL]]. ~ Jeffrey Ketland. #ITP #IsabelleHOL #LogicMath
++ [[https://serokell.io/blog/lexing-with-alex][Parsing with Haskell (Part 1): Lexing with Alex]]. ~ Heitor Toledo Lassarote de Paula. #Haskell #FunctionalProgramming
++ [[https://youtu.be/D5P57fMWPVo][Why is Haskell Haskell?]] ~ Cazim Hysi. #Haskell #FunctionalProgramming
+
 *** 04-Jul-22
-+ [[https://www.glc.us.es/~jalonso/exercitium/ceros-finales-del-factorial/][#Exercitium: Ceros finales del factorial]]. #Haskell #Programación_funcional #Matemáticas
-+ [[https://jaalonso.github.io/materias/PLconProlog/temas/tema-16.html.][#PLconProlog: Razonamiento con información incompleta]]. #Prolog #ProgramaciónLógica #IA
 + [[https://youtu.be/-NHWF4ntc1I][Correct code by construction]]. ~ Walter Schulze (@awalterschulze), Paul Cadman (@paulcadman). #ITP #Coq
 + [[https://www.slideshare.net/pjschwarz/sum-and-product-types-the-fruit-salad-fruit-snack-example-from-f-to-haskell-scala-and-java][Sum and product types (The fruit salad & fruit snack example (from F# to Haskell, Scala and Java))]]. ~ Philip Schwarz (@philip_schwarz). #Haskell #FunctionalProgramming #Scala #Fsharp #Java
 + [[http://hakank.org/common_cp_models/][Common constraint programming problems]]. ~ Hakan Kjellerstrand (@hakank). #CLP #Prolog #LogicProgramming
