@@ -37,6 +37,18 @@ its content.
 
 ** Julio 2022
 
+*** 07-Jul-22
++ [[https://arxiv.org/abs/2207.02728][Formalising Fisher's inequality: Formal linear algebraic proof techniques in combinatorics]]. ~ Chelsea Edmonds, Lawrence C. Paulson. #ITP #IsabelleHOL #Math
++ [[https://github.com/ATOMSLab/LeanChemicalTheories][Chemical theories in Lean]]. #ITP #LeanProver #Chemical
++ [[https://lawrencecpaulson.github.io//2022/07/06/Turing_Machines.html][On Turing machines]]. ~ Lawrence C. Paulson (@LawrPaulson). #CompSci
++ [[https://www.lucacambiaghi.com/posts/discovering-org-roam.html][Discovering org-roam]]. ~ #Emacs #OrgMode #OrgRoam
++ [[https://hugocisneros.com/blog/my-org-roam-notes-workflow/][My org roam notes workflow (Organizing my thoughts and knowledge into a web)]]. ~ Hugo Cisneros (@cisne_hug). #Emacs #OrgMode #OrgRoam
++ [[https://blog.jethro.dev/posts/how_to_take_smart_notes_org/][How to take smart notes with org-mode]]. ~ Jethro Kuan (@jethroksy). #Emacs #OrgMode #OrgRoam
+
+*** 06-Jul-22
++ [[https://drive.google.com/file/d/1L7wLDYyDCNfSCvnNA8jWZiMb3BRLy14k/view][50 years of theoretical computer science]]. #CompSci
++ [[https://notxor.nueva-actitud.org/blog/2020/07/17/tomar-notas-con-org-roam/][Tomar notas con org-roam]]. ~ Notxor. #Emacs
+
 *** 05-Jul-22
 + [[https://www.quantamagazine.org/can-computers-be-mathematicians-20220629/][Can computers be mathematicians?]] ~ Steven Strogatz (@stevenstrogatz), Kevin Buzzard (@XenaProject). #ITP #LeanProver #Math
 + [[https://github.com/leanprover-community/mathlib/blob/73d15d772e8b97c511da46925888ea7ac040679b/src/number_theory/wilson.lean][Wilson's theorem (in Lean)]]. ~ John Nicol. #ITP #LeanProver #Math
