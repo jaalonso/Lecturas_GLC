@@ -37,6 +37,13 @@ its content.
 
 ** Julio 2022
 
+*** 08-Jul-22
++ [[https://repository.tudelft.nl/islandora/object/uuid:5ca6e6f3-1242-4b86-8307-4ac4f4489951/datastream/OBJ/download][Mechanizing Hoare style proof outlines for imperative programs in Agda]]. ~ Olav de Haas. #ITP #Agda
++ [[https://www.cs.princeton.edu/~appel/papers/VerifiedODE.pdf][Verified numerical methods for ordinary differential equations]]. ~ Ariel E. Kellison, Andrew W. Appel. #ITP #Coq #Math
++ [[https://leanprover.github.io/functional_programming_in_lean/][Functional programming in Lean]]. ~ David Thrane Christiansen. #ITP #LeanProver
++ [[https://medium.com/pragmatic-programmers/haskell-safety-e7c8db58f542][Haskell safety (A quick take on Haskell’s strengths and challenges)]]. ~ Rebecca Skinner (@cercerilla). #Haskell #FunctionalProgramming
++ [[http://www.teaching.math.rs/vol/tm2517.pdf][Teaching abstract algebra through programming]]. ~ Natalia Saealle, Lauri Tart, Indrek Zolk. #Math #Programming
+
 *** 07-Jul-22
 + [[https://arxiv.org/abs/2207.02728][Formalising Fisher's inequality: Formal linear algebraic proof techniques in combinatorics]]. ~ Chelsea Edmonds, Lawrence C. Paulson. #ITP #IsabelleHOL #Math
 + [[https://github.com/ATOMSLab/LeanChemicalTheories][Chemical theories in Lean]]. #ITP #LeanProver #Chemical
