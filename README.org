@@ -37,6 +37,13 @@ its content.
 
 ** Julio 2022
 
+*** 09-Jul-22
++ [[https://arxiv.org/abs/2207.01094v1][A Prolog assisted search for new simple Lie algebras]]. ~ David Cushing, George W. Stagg, David I. Stewart. #Prolog #LogicProgramming #Math
++ [[https://www.ma.imperial.ac.uk/~buzzard/xena/pdfs/BuzzardICM2022talk.pdf][The rise of formalism in mathematics (Slides)]]. ~ Kevin Buzzard (@XenaProject). #ITP #LeanProver #Math
++ [[https://youtu.be/SEID4XYFN7o][The rise of formalism in mathematics (Video)]]. ~ Kevin Buzzard (@XenaProject). #ITP #LeanProver #Math
++ [[https://www.scientificamerican.com/article/should-machines-replace-mathematicians/][Should machines replace mathematicians?]] ~ John Horgan. #AI #ITP #Math
++ [[http://clqr.boundp.org/][Common Lisp Quick Reference]]. ~ Bert Burgemeister. #CommonLisp
+
 *** 08-Jul-22
 + [[https://repository.tudelft.nl/islandora/object/uuid:5ca6e6f3-1242-4b86-8307-4ac4f4489951/datastream/OBJ/download][Mechanizing Hoare style proof outlines for imperative programs in Agda]]. ~ Olav de Haas. #ITP #Agda
 + [[https://www.cs.princeton.edu/~appel/papers/VerifiedODE.pdf][Verified numerical methods for ordinary differential equations]]. ~ Ariel E. Kellison, Andrew W. Appel. #ITP #Coq #Math
