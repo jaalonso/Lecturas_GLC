@@ -37,6 +37,13 @@ its content.
 
 ** Julio 2022
 
+*** 10-Jul-22
++ [[https://github.com/leanprover-community/mathlib/blob/8a38a697305292b37a61650e2c3bd3502d98c805/src/combinatorics/simple_graph/hasse.lean][The Hasse diagram as a graph]]. ~ Yaël Dillies. #ITP #LeanProver #Math
++ [[https://en.wikipedia.org/wiki/Freiman's_theore][Ruzsa's covering lemma]].m#Ruzsa_covering_lemma #Math
++ [[https://github.com/leanprover-community/mathlib/blob/1a54e4da89933de2e761a2cb90397060c43e4eea/src/combinatorics/additive/ruzsa_covering.lean][Ruzsa's covering lemma (in Lean)]]. ~ Yaël Dillies. #ITP #LeanProver #Math
++ [[https://softwaremill.com/functional-programming-for-kids/][Functional programming for kids? ~ Adam Warski]]. #FunctionalProgramming
++ [[https://www.johndcook.com/blog/2022/07/10/ducci-sequences/][Ducci sequences]]. ~ John D. Cook (@JohnDCook). #Math #Python #Programming
+
 *** 09-Jul-22
 + [[https://arxiv.org/abs/2207.01094v1][A Prolog assisted search for new simple Lie algebras]]. ~ David Cushing, George W. Stagg, David I. Stewart. #Prolog #LogicProgramming #Math
 + [[https://www.ma.imperial.ac.uk/~buzzard/xena/pdfs/BuzzardICM2022talk.pdf][The rise of formalism in mathematics (Slides)]]. ~ Kevin Buzzard (@XenaProject). #ITP #LeanProver #Math
