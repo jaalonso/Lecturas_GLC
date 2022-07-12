@@ -37,6 +37,15 @@ its content.
 
 ** Julio 2022
 
+*** 11-Jul-22
++ [[http://outlace.com/Lean_part_2.html][Learning Lean (Part 2)]]. ~ Brandon Brown. #ITP #LeanProver
++ [[https://www.isa-afp.org/entries/Weighted_Arithmetic_Geometric_Mean.html][Pólya’s proof of the weighted arithmetic–geometric mean inequality]]. ~ Manuel Eberl. #ITP #IsabelleHOL #Math
++ [[https://www.isa-afp.org/entries/IMP_Compiler_Reuse.html][A reuse-based multi-stage compiler verification for language IMP]]. ~ Pasquale Noce. #ITP #IsabelleHOL
++ [[https://felixspringer.xyz/homepage/blog/singletonsInHaskell][Singletons in Haskell]]. ~ Felix Springer. #ITP #Haskell #FunctionalProgramming
++ [[https://richarde.dev/papers/2012/singletons/paper.pdf][Dependently typed programming with singletons]]. ~ Richard A. Eisenberg, Stephanie Weirich. #Haskell #FunctionalProgramming
++ [[https://comentarista.emol.com/2323095/22523269/Maria-Isabel-Cortez.html][Conjetura de Van der Waerden: Cómo las matemáticas se cocinan a fuego lento]]. ~ María Isabel Cortez. #Matemáticas
++ [[https://www.nature.com/articles/d41586-022-01878-7][How to find, read and organize papers]]. ~ Maya Gosztyla. #Research  
+
 *** 10-Jul-22
 + [[https://github.com/leanprover-community/mathlib/blob/8a38a697305292b37a61650e2c3bd3502d98c805/src/combinatorics/simple_graph/hasse.lean][The Hasse diagram as a graph]]. ~ Yaël Dillies. #ITP #LeanProver #Math
 + [[https://en.wikipedia.org/wiki/Freiman's_theore][Ruzsa's covering lemma]].m#Ruzsa_covering_lemma #Math
