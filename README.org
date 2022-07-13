@@ -37,6 +37,18 @@ its content.
 
 ** Julio 2022
 
+*** 12-Jul-22
++ [[https://refubium.fu-berlin.de/bitstream/handle/fub188/35426/dissertation_kirchner.pdf][Computer-verified foundations of metaphysics and an ontology of natural numbers in Isabelle/HOL]]. ~ Daniel Kirchner. #ITP #IsabelleHOL
++ [[https://github.com/leanprover-community/mathlib/blob/353634719596e403980214ae6534df84d2c2d113/src/combinatorics/set_family/harris_kleitman.lean][Harris-Kleitman inequality (in Lean)]]. ~ Yaël Dillies. #ITP #LeanProver #Math
++ [[https://morazanm.github.io/fsm/index.html][FSM: a Domain Specific Language (DSL) designed to construct and manipulate state machines and their grammars]]. #CompSci 
++ [[https://arxiv.org/pdf/1412.4878.pdf][Functional automata (Formal languages for computer science students)]]. ~ Marco T. Morazán, Rosario Antunez. #CompSci
++ [[https://www.eduhk.hk/cte2017/doc/CTE2017%20Proceedings.pd][Integrating computational thinking into discrete mathematics]]. ~ Kwong-cheong Wong.f#page=138 #Math #CompSci #Teaching 
++ [[https://wiki.tfpie.science.ru.nl/images/7/75/Farrugia-Roberts_and_Sondergaard_TFPIE_2022_extended_abstract.pdf][Teaching simple constructive proofs with Haskell programs]]. ~ Matthew Farrugia-Roberts, Harald Søndergaard. #Haskell #FunctionalProgramming
++ [[https://www.infedu.vu.lt/journal/INFEDU/article/420/file/pdf][A survey on teaching and learning recursive programming]]. ~ Christian Rinderknecht. #CompSci #Teaching
++ [[https://arxiv.org/abs/2207.00852][On structuring functional programs with monoidal profunctors]]. ~ Alexandre Garcia de Oliveira, Mauro Jaskelioff, Ana Cristina Vieira de Melo. #Haskell #FunctionalProgramming #CategoryTheory 
++ [[https://www4.di.uminho.pt/~jno/ps/wadt22sl.pdf][Why adjunctions matter]]. ~ J.N. Oliveira. #CompSci #Math
++ [[https://culturacientifica.com/2018/12/05/el-teorema-de-ducci/][El teorema de Ducci]]. ~ Marta Macho Stadler (@MartaMachoS). #Matemáticas
+  
 *** 11-Jul-22
 + [[http://outlace.com/Lean_part_2.html][Learning Lean (Part 2)]]. ~ Brandon Brown. #ITP #LeanProver
 + [[https://www.isa-afp.org/entries/Weighted_Arithmetic_Geometric_Mean.html][Pólya’s proof of the weighted arithmetic–geometric mean inequality]]. ~ Manuel Eberl. #ITP #IsabelleHOL #Math
