@@ -37,6 +37,11 @@ its content.
 
 ** Julio 2022
 
+*** 13-Jul-22
++ [[https://lawrencecpaulson.github.io//2022/07/13/Isabelle_influences.html][How Isabelle emerged from the trends of the 1980s]]. ~ Lawrence C. Paulson (@LawrPaulson). #ITP #IsabelleHOL
++ [[https://hrmacbeth.github.io/computations_in_lean/index.html][Algebraic computations in Lean]]. ~ Heather Macbeth. #ITP #Lean #Math
++ [[https://github.com/readme/featured/functional-programming][Functional programming is finally going mainstream]]. ~ Klint Finley. #FunctionalProgramming H/T @GabriellaG439
+
 *** 12-Jul-22
 + [[https://refubium.fu-berlin.de/bitstream/handle/fub188/35426/dissertation_kirchner.pdf][Computer-verified foundations of metaphysics and an ontology of natural numbers in Isabelle/HOL]]. ~ Daniel Kirchner. #ITP #IsabelleHOL
 + [[https://github.com/leanprover-community/mathlib/blob/353634719596e403980214ae6534df84d2c2d113/src/combinatorics/set_family/harris_kleitman.lean][Harris-Kleitman inequality (in Lean)]]. ~ Yaël Dillies. #ITP #LeanProver #Math
