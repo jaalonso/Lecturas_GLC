@@ -37,6 +37,14 @@ its content.
 
 ** Julio 2022
 
+*** 14-Jul-22
++ [[https://nikivazou.github.io/static/Haskell22/coinduction.pdf][Coinduction inductively (Mechanizing coinductive proofs in Liquid Haskell)]]. ~ Lykourgos Mastorou, Nikolaos Papaspyrou, Niki Vazou. #Haskell #FunctionalProgramming
++ [[http://funes.uniandes.edu.co/14748/1/Conejo2019La.pdf][La demostración matemática y los libros de texto de Bachillerato: evolución a través de las leyes educativas]]. ~ Laura Conejo Garrote, Matías Arce Sánchez, Tomás Ortega del Rincón. #Matemáticas #Enseñanza
++ [[https://link.springer.com/content/pdf/10.1007/978-94-007-2129-6.pdf][Proof and proving in mathematics education (The 19th ICMI study)]]. ~ Gila Hanna, Michael de Villiers. #Math #Teaching
++ [[https://researchgate.net/publication/277969625_La_demostracion_en_las_matematicas_Un_ejemplo_de_aplicacion_en_el_aula_con_alumnos_de_3_ESO][La demostración en las matemáticas]]. Un ejemplo de aplicación en el aula con alumnos de 3.º ESO. ~ Enrique Sánchez Freire y Juan Antonio Gil Pascual. #Matemáticas #Enseñanza
++ [[http://funes.uniandes.edu.co/8476/][El lamento de un matemático]]. ~ Paul Lockhart. #Matemáticas #Enseñanza
++ [[https://maa.org/sites/default/files/pdf/devlin/LockhartsLament.pdf][A mathematician’s lament]]. ~ Paul Lockhart. #Math #Teaching
+
 *** 13-Jul-22
 + [[https://lawrencecpaulson.github.io//2022/07/13/Isabelle_influences.html][How Isabelle emerged from the trends of the 1980s]]. ~ Lawrence C. Paulson (@LawrPaulson). #ITP #IsabelleHOL
 + [[https://hrmacbeth.github.io/computations_in_lean/index.html][Algebraic computations in Lean]]. ~ Heather Macbeth. #ITP #Lean #Math
