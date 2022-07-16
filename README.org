@@ -37,6 +37,15 @@ its content.
 
 ** Julio 2022
 
+*** 15-Jul-22
++ [[https://www.tweag.io/blog/2022-07-14-taming-unix-with-nix/][Nix – taming Unix with functional programming]]. ~ Valentin Gagarin. #Nix #FunctionalProgramming
++ [[https://www.quantamagazine.org/how-do-mathematicians-know-their-proofs-are-correct-20220713/][How do mathematicians know their proofs are correct?]] ~ Melanie Matchett Wood, Steven Strogatz. #Math
++ [[https://blog.softwaremill.com/persistent-data-structures-in-functional-programming-c5e5061bade3][Persistent data structures in functional programming]]. ~ Krzysztof Atłasik. #Haskell #FunctionalProgramming
++ [[https://brandonchinn178.github.io/blog/2022/07/11/writing-a-ghc-plugin-and-preprocessor-for-the-first-time.html][Writing a GHC plugin + preprocessor for the first time]]. ~ Brandon Chinn. #Haskell #FunctionalProgramming
++ [[https://arxiv.org/abs/2207.06755][Verification of sigmoidal artificial neural networks using iSAT]]. ~ Dominik Grundt, Sorin Liviu Jurj, Willem Hagemann, Paul Kröger, Martin Fränzle. #AI #NeuralNetwork #SMT
++ [[https://arxiv.org/abs/2207.06679][Learning to prove trigonometric identities]]. ~ Zhou Liu, Yujun Li, Zhengying Liu, Lin Li, Zhenguo Li. #AI #MachineLearning #Math #ATP
++ [[https://www.microsiervos.com/archivo/matematicas/wolfram-alpha-castellano.html][Wolfram Alpha ya está disponible en castellano]]. ~ @Alvy. #WolframAlpha #Math
+
 *** 14-Jul-22
 + [[https://nikivazou.github.io/static/Haskell22/coinduction.pdf][Coinduction inductively (Mechanizing coinductive proofs in Liquid Haskell)]]. ~ Lykourgos Mastorou, Nikolaos Papaspyrou, Niki Vazou. #Haskell #FunctionalProgramming
 + [[http://funes.uniandes.edu.co/14748/1/Conejo2019La.pdf][La demostración matemática y los libros de texto de Bachillerato: evolución a través de las leyes educativas]]. ~ Laura Conejo Garrote, Matías Arce Sánchez, Tomás Ortega del Rincón. #Matemáticas #Enseñanza
