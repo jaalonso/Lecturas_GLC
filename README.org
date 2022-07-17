@@ -37,6 +37,16 @@ its content.
 
 ** Julio 2022
 
+*** 16-Jul-22
++ [[https://www.ma.imperial.ac.uk/~buzzard/xena/pdfs/lftcm22_schemes.pdf][Towards algebraic geometry (in Lean)]]. ~ Kevin Buzzard (@XenaProject). #ITP #LeanProver #Math
++ [[https://leanprover-community.github.io/blog/posts/lte-final/][Completion of the Liquid Tensor Experiment]]. ~ Mathlib community. #ITP #LeanProver #Math
++ [[http://moka.labunix.uqam.ca/~villemaire_r/Articles/rvLogTeach22.pdf][Undergraduate Logic teaching in computing: Why, what, how?]] ~ Roger Villemaire. #Logic #CompSci #Teachingy
++ [[https://arxiv.org/abs/1507.03686][Logic modelling]]. ~ Roger Villemaire. #Logic #CompSci #Teaching
++ [[https://arxiv.org/abs/2207.03880][Constrained training of neural networks via theorem proving]]. ~ Mark Chevallier, Matthew Whyte, Jacques D. Fleuriot. #ITP #IsabelleHOL #NeuralNetwork
++ [[http://essay.utwente.nl/91705/1/Bleumink_BA_EEMC.pdf][Verifying the rewrite rules of VerCors using interactive theorem provers]]. ~ Connor Bleumink. #ITP #Coq
++ [[https://arxiv.org/abs/2207.05610][Abstraction Logic: A new foundation for (computer) mathematics]]. ~ Steven Obua. #Logic #Math #CompSci
++ [[https://leanprover.github.io/papers/do.pdf]['do' unchained: Embracing local imperativity in a purely functional language (Functional Pearl)]]. ~ Sebastian Ullrich, Leonardo de Moura. #FunctionalProgramming #ITP #LeanProver
+
 *** 15-Jul-22
 + [[https://www.tweag.io/blog/2022-07-14-taming-unix-with-nix/][Nix – taming Unix with functional programming]]. ~ Valentin Gagarin. #Nix #FunctionalProgramming
 + [[https://www.quantamagazine.org/how-do-mathematicians-know-their-proofs-are-correct-20220713/][How do mathematicians know their proofs are correct?]] ~ Melanie Matchett Wood, Steven Strogatz. #Math
