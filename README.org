@@ -37,6 +37,10 @@ its content.
 
 ** Julio 2022
 
+*** 17-Jul-22
++ [[https://golem.ph.utexas.edu/category/2022/07/conversations.html][Conversations on Mathematics]]. ~ John Baez. #Math
++ [[https://awainverse.github.io/mc2022-Lean/][Lean at MC2022 (Release 0.1)]]. ~ Aaron Anderson, Apurva Nakade, Jalex Stark. #ITP #LeanProver #Math
+
 *** 16-Jul-22
 + [[https://www.ma.imperial.ac.uk/~buzzard/xena/pdfs/lftcm22_schemes.pdf][Towards algebraic geometry (in Lean)]]. ~ Kevin Buzzard (@XenaProject). #ITP #LeanProver #Math
 + [[https://leanprover-community.github.io/blog/posts/lte-final/][Completion of the Liquid Tensor Experiment]]. ~ Mathlib community. #ITP #LeanProver #Math
