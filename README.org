@@ -37,6 +37,10 @@ its content.
 
 ** Julio 2022
 
+*** 18-Jul-22
++ [[https://arxiv.org/abs/2207.07499][Formalising Szemerédi's regularity lemma and Roth's theorem on arithmetic progressions in Isabelle/HOL]]. ~ Chelsea Edmonds, Angeliki Koutsoukou-Argyraki, Lawrence C. Paulson. #ITP #IsabelleHOL #Math
++ [[https://bit.ly/3OhtGVk][Funciones modulares y ceros de polinomios: una conexión sorprendente]]. ~ Juan Arias de Reyna y Sara Arias de Reyna. #Matemáticas
+
 *** 17-Jul-22
 + [[https://golem.ph.utexas.edu/category/2022/07/conversations.html][Conversations on Mathematics]]. ~ John Baez. #Math
 + [[https://awainverse.github.io/mc2022-Lean/][Lean at MC2022 (Release 0.1)]]. ~ Aaron Anderson, Apurva Nakade, Jalex Stark. #ITP #LeanProver #Math
