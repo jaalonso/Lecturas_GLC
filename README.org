@@ -37,6 +37,15 @@ its content.
 
 ** Julio 2022
 
+*** 19-Jul-22
++ [[http://essay.utwente.nl/91950/1/Huisma_BA_EEMCS.pdf][Recursive island parsing: Monadic lake parser combinators]]. ~ Gerk-Jan Huisma. #Haskell #FunctionalProgramming
++ [[https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=8186&context=sis_research#page=75][Towards mechanised proofs in double-pushout graph transformation]]. ~ Robert Söldner, Detlef Plump. #ITP #IsabelleHOL
++ [[https://ps.uni-saarland.de/~mueck/bachelor/thesis.pdf][The arithmetical hierarchy, oracle computability, and Post's theorem in synthetic computability]]. ~ Niklas Mück. #ITP #Coq #Logic #Math
++ [[https://typeset.io/pdf/solving-and-verifying-the-boolean-pythagorean-triples-vv35rinj1q.pdf][Solving and verifying the boolean Pythagorean Triples problem via Cube-and-Conquer]]. ~ Marijn J. H. Heule, Oliver Kullmann, Victor W. Marek. #SATSolvers #Logic #Math
++ [[https://arxiv.org/abs/1909.12582][Towards Coq-verified Esterel semantics and compiling]]. ~ Gérard Berry, Lionel Rieg. #ITP #Coq
++ [[https://iagoleal.com/posts/calculus-symbolic-ode/][The lazy way to solve differential equations]]. ~ Iago Leal de Freitas. #Haskell #FunctionalProgramming #Math
++ [[https://serokell.io/blog/universal-and-existential-quantification][Universal and existential quantification in Haskell]]. ~ Stepan Prudnikov. #Haskell #FunctionalProgramming 
+
 *** 18-Jul-22
 + [[https://arxiv.org/abs/2207.07499][Formalising Szemerédi's regularity lemma and Roth's theorem on arithmetic progressions in Isabelle/HOL]]. ~ Chelsea Edmonds, Angeliki Koutsoukou-Argyraki, Lawrence C. Paulson. #ITP #IsabelleHOL #Math
 + [[https://bit.ly/3OhtGVk][Funciones modulares y ceros de polinomios: una conexión sorprendente]]. ~ Juan Arias de Reyna y Sara Arias de Reyna. #Matemáticas
