@@ -37,6 +37,10 @@ its content.
 
 ** Julio 2022
 
+*** 20-Jul-22
++ [[https://coq.discourse.group/t/coq-community-survey-2022-results-part-i/173][Coq Community Survey 2022 Results: Part I]].0#coq-community-survey-2022-results-part-i-1 #ITP #Coq
++ [[https://nikivazou.github.io/static/Haskell22/equality.pdf][How to safely use extensionality in Liquid Haskell]]. ~ Niki Vazou (@nikivazou), Michael Greenberg. #Haskell #FunctionalProgramming
+
 *** 19-Jul-22
 + [[http://essay.utwente.nl/91950/1/Huisma_BA_EEMCS.pdf][Recursive island parsing: Monadic lake parser combinators]]. ~ Gerk-Jan Huisma. #Haskell #FunctionalProgramming
 + [[https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=8186&context=sis_research#page=75][Towards mechanised proofs in double-pushout graph transformation]]. ~ Robert Söldner, Detlef Plump. #ITP #IsabelleHOL
