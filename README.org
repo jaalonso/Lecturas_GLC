@@ -37,6 +37,15 @@ its content.
 
 ** Julio 2022
 
+*** 21-Jul-22
++ [[https://gilkalai.wordpress.com/2022/07/17/icm-2022-kevin-buzzard-the-rise-of-formalism-in-mathematics/][ICM 2022. Kevin Buzzard: The rise of formalism in Mathematics]]. ~ Gil Kalai. #ITP #LeanProver #Math
++ [[https://arxiv.org/abs/2207.09486][Formalising the Krull topology in Lean]]. ~ Sebastian Monnet. #ITP #LeanProver #Math
++ [[https://link.springer.com/chapter/10.1007/978-981-19-2456-9_21][A formalization of topological spaces in Coq]]. ~ Sheng Yan, Yaoshun Fu, Dakai Guo, and Wensheng Yu. #ITP #Coq #Math
++ [[https://www.math.md/files/csjm/v30-n2/v30-n2-(pp170-186).pdf][Identities and generalized derivatives of quasigroups]]. ~ G. Horosh, N. Malyutina, A. Scerbacova, V. Shcherbacov. #ATP #Prover9 #Math
++ [[https://www.tweag.io/blog/2022-07-21-lh-introspection/][A dialog with Liquid Haskell]]. ~ Facundo Domínguez. #Haskell #FunctionalProgramming
++ [[https://studenttheses.uu.nl/bitstream/handle/20.500.12932/41775/thesis-final.pdf][Investigating the performance of the implementations of embedded languages in Haskell]]. ~ Bart Wijgers. #Haskell #FunctionalProgramming
++ [[http://www.macs.hw.ac.uk/~ek19/vehicle.pdf][Vehicle: A high-level language for embedding logical specifications in neural networks]]. ~ Matthew L. Daggitt, Wen Kokke, Robert Atkey, Luca Arnaboldi, Ekaterina Komendantskaya. #ITP #Agda #NeuralNetwork
+
 *** 20-Jul-22
 + [[https://coq.discourse.group/t/coq-community-survey-2022-results-part-i/173][Coq Community Survey 2022 Results: Part I]].0#coq-community-survey-2022-results-part-i-1 #ITP #Coq
 + [[https://nikivazou.github.io/static/Haskell22/equality.pdf][How to safely use extensionality in Liquid Haskell]]. ~ Niki Vazou (@nikivazou), Michael Greenberg. #Haskell #FunctionalProgramming
