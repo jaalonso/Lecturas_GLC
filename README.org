@@ -37,6 +37,18 @@ its content.
 
 ** Julio 2022
 
+*** 22-Jul-22
++ [[https://archive.org/details/conventi-soppressi-c.-i.-2616 via @internetarchive][Liber Abaci]]. ~ Leonardo Fibonacci (1202). #Math
++ [[https://archive.org/details/laurence-sigler-fibonaccis-liber-abaci-2003 via @internetarchive][Fibonacci's Liber Abaci]]. ~ Laurence Sigler. #Math
++ [[https://course.fast.ai/][Course: Practical Deep Learning]]. ~ Jeremy Howard (@jeremyphoward). #DeepLearning
++ [[https://course.fast.ai/Resources/book.html][Deep Learning for coders with Fastai and PyTorch (AI applications without a PhD)]]. ~ Jeremy Howard, Sylvain Gugger. #DeepLearning
++ [[https://arxiv.org/abs/2207.10424][A linter for Isabelle: Implementation and evaluation]]. ~ Yecine Megdiche, Fabian Huch, Lukas Stevens. #ITP #IsabelleHOL
++ [[https://arxiv.org/abs/2207.10152][Automated kantian ethics: A faithful implementation]]. ~ Lavanya Singh. #ITP #IsabelleHOL
++ [[https://www.morrowm.com/posts/2022-07-19-kinds.html][One of a kind: An introduction to kinds in Haskell]]. ~  MorrowM. #Haskell #FunctionalProgramming
++ [[https://notxor.nueva-actitud.org/2022/07/21/algoritmo-de-cifrado-rsa.html][Algoritmo de cifrado RSA]]. ~ Notxor. #RSA
++ [[https://lucidmanager.org/productivity/ricing-org-mode/][Ricing Org Mode: A beautiful writing environment]]. ~ Peter Prevos (@lucidmanager). #Emacs #OrgMode
++ [[https://www.sagemath.org/es/Introduccion_a_SAGE.pdf][Matemáticas elementales con Sage]]. ~ J.L. Tábara. #Sage #Matemáticas
+
 *** 21-Jul-22
 + [[https://gilkalai.wordpress.com/2022/07/17/icm-2022-kevin-buzzard-the-rise-of-formalism-in-mathematics/][ICM 2022. Kevin Buzzard: The rise of formalism in Mathematics]]. ~ Gil Kalai. #ITP #LeanProver #Math
 + [[https://arxiv.org/abs/2207.09486][Formalising the Krull topology in Lean]]. ~ Sebastian Monnet. #ITP #LeanProver #Math
