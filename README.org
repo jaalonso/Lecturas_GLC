@@ -37,6 +37,20 @@ its content.
 
 ** Julio 2022
 
+*** 23-Jul-22
++ [[https://malv.in/2022/AiML2022-basic-modal-interpolation-lean.pdf][A verified proof of Craig interpolation for basic modal logic via tableaux in Lean]]. ~ Malvin Gattinger. #ITP #LeanProver #Logic
++ [[https://arxiv.org/abs/2012.09388][Formalization of PAL⋅S5 in proof assistant]]. ~ Jiatu Li. #ITP #LeanProver #Logic
++ [[https://ljt12138.github.io/files/logic/logic.pdf][A quick introduction to mathematical logic]]. ~ Jiatu Li. #LogicMath
++ [[https://arxiv.org/abs/1910.01697][A Henkin-style completeness proof for the modal logic S5]]. ~ Bruno Bentzen. #ITP #LeanProver #LogicMath
++ [[https://johnnzhou.github.io/files/Interactive_Theorem_Provers_Final_Report.pdf][How do people learn to use interactive theorem provers?]] ~ Audrey Seo, Yadi Wang, Zhennan Zhou. #ITP #Coq #Teaching
++ [[https://sol.sbc.org.br/index.php/wbl/article/download/20704/20531][Coq formalization of a tableau for the classical-intuitionistic propositional fragment of ecumenical logic]]. ~ Renato R. Leme, Giorgio Venturi, Bruno Lopes. #ITP #Coq #Logic
++ [[https://hal.archives-ouvertes.fr/hal-03722203/document][Formally verified 32- and 64-bit integer division using double-precision floating-point arithmetic]]. ~ David Monniaux, Alice Pain. #ITP #Coq
++ [[http://essay.utwente.nl/92054/1/Christiano_BA_EEMCS.pdf][Formalization of tangle and tangle learning algorithm]]. ~ Bonifacius Geraldo Christiano. #ITP #IsabelleHOL
++ [[https://link.springer.com/article/10.1007/s10817-022-09637-z][Six decades of automated reasoning: Papers in memory of Larry Wos]]. ~ Maria Paola Bonacina. #ATP #AutomatedReasoning
++ [[https://medium.com/axiomzenteam/functor-applicative-and-why-8a08f1048d3d][Functor, Applicative, and why]]. ~ Leo Zhang. #Haskell #FunctionalProgramming
++ [[https://gist.github.com/lsmor/bb632565cd96be9da589b6e91f80f9ba][Set up a Haskell development environment in three steps]]. ~ Lsmor. #Haskell #FunctionalProgramming
++ [[https://github.com/jltabara/Julia-y-las-Matematicas][Apuntes de aplicación del lenguaje Julia a las matemáticas]]. ~ Jose Luis Tabara Carbajo. #JuliaLang #Matemáticas
+
 *** 22-Jul-22
 + [[https://archive.org/details/conventi-soppressi-c.-i.-2616 via @internetarchive][Liber Abaci]]. ~ Leonardo Fibonacci (1202). #Math
 + [[https://archive.org/details/laurence-sigler-fibonaccis-liber-abaci-2003 via @internetarchive][Fibonacci's Liber Abaci]]. ~ Laurence Sigler. #Math
