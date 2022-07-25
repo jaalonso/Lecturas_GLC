@@ -37,6 +37,12 @@ its content.
 
 ** Julio 2022
 
+*** 24-Jul-22
++ [[https://www.lightbluetouchpaper.org/2022/07/22/formal-cheri/][Formal CHERI: rigorous engineering and design-time proof of full-scale architecture security properties]]. ~ Peter Sewell (@peter_sewell_). #ITP #IsabelleHOL
++ [[https://damast93.github.io/blog/jekyll/update/2021/01/31/invisible-strength.html][Invisible strength: From monads to alpha-conversion]]. ~ damast93. #Haskell #FunctionalProgramming
++ [[https://github.com/damast93/ordinals][A quick calculator for ordinal numbers in Cantor Normal Form]]. ~ damast93. #Haskell #FunctionalProgramming #Math #SetTheory
++ [[https://youtu.be/RLb4VvvX9zY][The Mathematics of Artificial Intelligence]]. ~ Gitta Kutyniok (@GittaKutyniok). #AI #Math
+
 *** 23-Jul-22
 + [[https://malv.in/2022/AiML2022-basic-modal-interpolation-lean.pdf][A verified proof of Craig interpolation for basic modal logic via tableaux in Lean]]. ~ Malvin Gattinger. #ITP #LeanProver #Logic
 + [[https://arxiv.org/abs/2012.09388][Formalization of PAL⋅S5 in proof assistant]]. ~ Jiatu Li. #ITP #LeanProver #Logic
