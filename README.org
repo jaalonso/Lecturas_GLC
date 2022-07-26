@@ -37,6 +37,9 @@ its content.
 
 ** Julio 2022
 
+*** 25-Jul-22
++ [[https://karthinks.com/software/latex-input-for-impatient-scholars][LaTeX input for impatient scholars]]. ~ Karthik Chikmagalur. #LaTeX #Emacs #Math 
+
 *** 24-Jul-22
 + [[https://www.lightbluetouchpaper.org/2022/07/22/formal-cheri/][Formal CHERI: rigorous engineering and design-time proof of full-scale architecture security properties]]. ~ Peter Sewell (@peter_sewell_). #ITP #IsabelleHOL
 + [[https://damast93.github.io/blog/jekyll/update/2021/01/31/invisible-strength.html][Invisible strength: From monads to alpha-conversion]]. ~ damast93. #Haskell #FunctionalProgramming
