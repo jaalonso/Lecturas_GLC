@@ -37,6 +37,11 @@ its content.
 
 ** Julio 2022
 
+*** 26-Jul-22
++ [[https://arxiv.org/abs/2207.12039][Isabelle/HOL/GST: A formal proof environment for generalized set theories]]. ~ Ciarán Dunne, J. B. Wells. #ITP #IsabelleHOL #Math
++ [[https://math.hawaii.edu/~bjoern/NID_JLC.pdf][Interpolating between the Jaccard distance and an analogue of the normalized information distance]]. ~ Bjørn Kjos-Hanssen. #ITP #LeanProver #Math
++ [[https://arxiv.org/abs/2207.09854][Auto-active verification of graph algorithms, written in OCaml]]. ~ Daniel Castanho, Mário Pereira. #OCaml #FunctionalProgramming
+
 *** 25-Jul-22
 + [[https://karthinks.com/software/latex-input-for-impatient-scholars][LaTeX input for impatient scholars]]. ~ Karthik Chikmagalur. #LaTeX #Emacs #Math 
 
