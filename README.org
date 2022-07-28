@@ -37,6 +37,9 @@ its content.
 
 ** Julio 2022
 
+*** 27-Jul-22
++ [[https://arxiv.org/abs/2207.12699][Teaching functional programmers logic and metatheory]]. ~ Frederik Krogsdal Jacobsen, Jørgen Villadsen. #ITP #IsabelleHOL #LogicMath #Teaching
+
 *** 26-Jul-22
 + [[https://arxiv.org/abs/2207.12039][Isabelle/HOL/GST: A formal proof environment for generalized set theories]]. ~ Ciarán Dunne, J. B. Wells. #ITP #IsabelleHOL #Math
 + [[https://math.hawaii.edu/~bjoern/NID_JLC.pdf][Interpolating between the Jaccard distance and an analogue of the normalized information distance]]. ~ Bjørn Kjos-Hanssen. #ITP #LeanProver #Math
