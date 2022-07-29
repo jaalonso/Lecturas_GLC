@@ -37,6 +37,15 @@ its content.
 
 ** Julio 2022
 
+*** 28-Jul-22
++ [[https://github.com/leanprover-community/mathlib/blob/696542631b3fb81ebe0340e3b63263fd8879e44f/src/computability/ackermann.lean][The Ackermann function isn't primitive recursive function (in Lean)]]. ~ Violeta Hernández Palacios. #ITP #LeanProver
++ [[https://youtu.be/C6vPGBD37BQ][Ordinals (in Lean)]]. ~ Violeta Hernández Palacios. #ITP #LeanProver #Math #SetTheory
++ [[https://www.micahcantor.com/blog/monad-confusion/][Monad confusion and the blurry line between data and computation]]. ~ Micah Cantor (@micah_cantor). #Haskell #FunctionalProgramming
++ [[https://yairchu.github.io/posts/python-print-in-haskell][Python's print in Haskell]]. ~ Yair Chuchem (@yairchu) #Haskell #FunctionalProgramming 
++ [[https://youtu.be/AIYGy0Rguq8][Most common mistakes in Haskell]]. ~ Constantine Ter-Matevosian. #Haskell #FunctionalProgramming
++ [[https://www.tweag.io/blog/2022-07-28-timestats/][Profiling non-CPU time in Haskell]]. ~ Facundo Domínguez. #Haskell #FunctionalProgramming
++ [[https://www.jjj.de/fxt/fxtbook.pdf][Matters computational (Ideas, algorithms, source code)]]. ~ Jörg Arndt. #Algorithms #Programming
+
 *** 27-Jul-22
 + [[https://arxiv.org/abs/2207.12699][Teaching functional programmers logic and metatheory]]. ~ Frederik Krogsdal Jacobsen, Jørgen Villadsen. #ITP #IsabelleHOL #LogicMath #Teaching
 
