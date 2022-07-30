@@ -37,6 +37,22 @@ its content.
 
 ** Julio 2022
 
+*** 29-Jul-22
++ [[http://philsci-archive.pitt.edu/20979/][What we talk about when we talk about mathematics]]. ~ Jeremy Avigad. #Math #Philosophy
++ [[https://arxiv.org/abs/2103.03930][Logical foundations: Personal perspective]]. ~ Yuri Gurevich. #Logic
++ [[https://books.google.es/books?id=bZVkEAAAQBAJ&lpg=PP1&hl=es&pg=PP][Mathematical logic (Exercises and solutions)]]. ~ László Csirmaz, Zalán Gyenis.1#v=onepage&q&f=false #LogicMath
++ [[https://nachivpn.me/nfmc.pdf][Normalization for Fitch-style modal calculi (Draft)]]. ~ Nachiappan Valliappan, Fabian Ruch, Carlos Tomé Cortiñas. #ITP #Agda #Logic
++ [[https://arxiv.org/abs/2207.11350][CoqQ: Foundational verification of quantum programs]]. ~ Li Zhou, Gilles Barthe, Pierre-Yves Strub, Junyi Liu, Mingsheng Ying. #ITP #Coq #QuantumProgramming
++ [[https://ar5iv.labs.arxiv.org/html/1807.08588][Automating verification of state machines with reactive designs and Isabelle/UTP]]. ~ Simon Foster, James Baxter, Ana Cavalcanti, Alvaro Miyazawa, Jim Woodcock. #ITP #IsabelleHOL
++ [[http://eptcs.web.cse.unsw.edu.au/paper.cgi?TFPIE2021.6][Engaging, large-scale functional programming education in physical and virtual space]]. ~ Kevin Kappelmann, Jonas Rädle and Lukas Stevens. #Haskell #FunctionalProgramming #Teaching
++ [[https://www21.in.tum.de/teaching/fpv/WS20/assets/slides.pdf][Functional programming and verification]]. ~ Tobias Nipkow. #Haskel #FunctionalProgramming
++ [[https://vadosware.io/post/how-and-why-haskell-is-better/][How and why Haskell is better (than your favorite $LANGUAGE)]]. ~ @vadosware #Haskell #FunctionalProgramming
++ [[https://decomposition.al/blog/2022/07/20/my-flops-2022-keynote-talk-adventures-in-building-reliable-distributed-systems-with-liquid-haskell/][Adventures in building reliable distributed systems with Liquid Haskell]]. ~ Lindsey Kuper (@lindsey). #Haskell #FunctionalProgramming #LiquidHaskell 
++ [[https://blog.galowicz.de/2022/03/20/unique-heterogeneous-typelists/][Filtering unique items from heterogeneous lists at compile time]]. ~ Jacek Galowicz (@jgalowicz). #Haskell #FunctionalProgramming
++ [[https://sol.sbc.org.br/index.php/wei/article/download/20850/20676][NADIA (Natural DeductIon proof Assistant)]]. ~ Davi Romero de Vasconcelos, Robson Teixeira Paula, Maria Viviane Menezes. #Logic #Teaching
++ [[http://eptcs.web.cse.unsw.edu.au/paper.cgi?TFPIE2021.3][Teaching programming to novices using the codeBoot online environment]]. ~ Marc Feeley and Olivier Melançon. #Programming #Teaching
++ [[https://artemis-platform.readthedocs.io/en/latest/][Artemis: Interactive learning with individual feedback]]. #Programming #Teaching
+
 *** 28-Jul-22
 + [[https://github.com/leanprover-community/mathlib/blob/696542631b3fb81ebe0340e3b63263fd8879e44f/src/computability/ackermann.lean][The Ackermann function isn't primitive recursive function (in Lean)]]. ~ Violeta Hernández Palacios. #ITP #LeanProver
 + [[https://youtu.be/C6vPGBD37BQ][Ordinals (in Lean)]]. ~ Violeta Hernández Palacios. #ITP #LeanProver #Math #SetTheory
