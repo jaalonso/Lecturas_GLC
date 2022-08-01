@@ -37,6 +37,10 @@ its content.
 
 ** Julio 2022
 
+*** 31-Jul-22
++ [[https://youtu.be/cvTIJpllXik][Dependent type programming in Coq theorem prover]]. ~ Mukesh Tiwari. #ITP #Coq
++ [[https://richardzach.org/2022/07/an-epimorphism-between-fine-and-fergusons-matrices-for-angells-ac/][An epimorphism between Fine and Ferguson’s matrices for Angell’s AC]]. ~ Richard Zach. #Logic
+
 *** 30-Jul-22
 + [[https://xenaproject.wordpress.com/2022/07/29/teaching-formalisation-to-mathematics-undergraduates/][Teaching formalisation to mathematics undergraduates]]. ~ Kevin Buzzard (@XenaProject). #ITP #LeanProver #Math
 + [[https://leanprover-community.github.io/blog/posts/mathlib-changelog/][Introducing mathlib changelog]]. ~ David Chanin. #ITP #LeanProver #MathLib #Math
