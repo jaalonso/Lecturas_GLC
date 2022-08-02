@@ -11,6 +11,7 @@ its content.
 
 * Content                                                                      :TOC:
 - [[#readings-of-the-year-2022][Readings of the year 2022]]
+  - [[#agosto-2022][Agosto 2022]]
   - [[#julio-2022][Julio 2022]]
   - [[#june-2022][June 2022]]
   - [[#may-2022][May 2022]]
@@ -34,6 +35,11 @@ its content.
 - [[#previous-readings][Previous readings]]
 
 * Readings of the year 2022
+
+** Agosto 2022
+
+*** 01-Ago-22
++ [[https://github.com/leanprover-community/mathlib/blob/7b2ae37ebfdf71b6c8cd9dc0f5444696893e3daf/src/number_theory/bertrand.lean][Bertrand's postulate (in Lean)]]. ~ Patrick Stevens, Bolton Bailey. #ITP #LeanProver #Math
 
 ** Julio 2022
 
