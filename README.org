@@ -38,6 +38,12 @@ its content.
 
 ** Agosto 2022
 
+*** 03-Ago-22
++ [[https://lawrencecpaulson.github.io/2022/08/03/Small-Challenges-I.html][A few small formalisation challenges]]. ~ Lawrence C. Paulson (@LawrPaulson). #ITP #Math
++ [[https://link.springer.com/epdf/10.1007/11541868_16?sharing_token=-VgLLU4gNyriZpBc_TVqQ_e4RwlQNchNByi7wbcMAY6Dg1JCXsUYa51AsLf88ckSFulrWdO8p1BhOAmyG9EqNt_5XxuJM4RoKJrixemCDfy0HOgwdxhkPjhM46EVsSJ9CIcsAGGOSs8QiO1Tej13bg==][Essential incompleteness of arithmetic veriﬁed by Coq]]. ~ Russell O’Connor. #ITP #Cog #Logic #Math
++ [[https://galois.com/blog/2022/07/public-tech-talk-secure-system-composition-and-type-checking-using-cryptographic-proofs-by-dani-barrack/][Secure system composition and type checking using cryptographic proofs]]. ~ Dani Barrack.
++ [[https://youtu.be/h8LTEFNLZ6M][Scratch? Python? C? Kernighan on languages for kids coding]]. #Programming #Teaching
+
 *** 01-Ago-22
 + [[https://github.com/leanprover-community/mathlib/blob/7b2ae37ebfdf71b6c8cd9dc0f5444696893e3daf/src/number_theory/bertrand.lean][Bertrand's postulate (in Lean)]]. ~ Patrick Stevens, Bolton Bailey. #ITP #LeanProver #Math
 
