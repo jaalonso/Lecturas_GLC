@@ -38,6 +38,16 @@ its content.
 
 ** Agosto 2022
 
+*** 04-Ago-22
++ [[https://drops.dagstuhl.de/opus/frontdoor.php?source_opus=16720][Formalising Fisher’s inequality: Formal linear algebraic proof techniques in combinatorics]]. ~ Chelsea Edmonds, Lawrence C. Paulson. #ITP #IsabelleHOL #Math
++ [[https://leapyear.io/resources/blog-posts/how-to-haskell-sharing-data-types-is-tight-coupling/][How to Haskell: Sharing data types is tight coupling]]. ~ Brandon Chinn. #Haskell #FunctionalProgramming
++ [[https://www.jjinux.com/2022/08/python-my-favorite-python-tricks-for.html][Python: My favorite Python tricks for LeetCode questions]]. ~ jjinux. #Python #LeetCode
++ [[https://learnpython.com/blog/python-match-case-statement/][How to use a match case statement in Python 3]].10. ~ Luke Hande. #Python #Programming
++ [[https://www.pythonforbeginners.com/basics/count-occurrences-of-each-character-in-string-python][Count occurrences of each character in a string in Python]]. #Python #Programming
++ [[https://mathspp.com/blog/how-to-create-a-python-package-in-2022][How to create a Python package in 2022]]. ~ Rodrigo Girão Serrão (@mathsppblog). #Python #Programming
++ [[https://www.johndcook.com/blog/2022/08/03/inline-org-babel/][Inline computed content in org-mode]]. ~ John D. Cook (@JohnDCook). #Emacs #OrgMode
++ [[https://abakcus.com/70-best-math-books-to-learn-writing-mathematical-proofs/][70 best math books to learn writing mathematical proofs]]. #Math
+
 *** 03-Ago-22
 + [[https://lawrencecpaulson.github.io/2022/08/03/Small-Challenges-I.html][A few small formalisation challenges]]. ~ Lawrence C. Paulson (@LawrPaulson). #ITP #Math
 + [[https://link.springer.com/epdf/10.1007/11541868_16?sharing_token=-VgLLU4gNyriZpBc_TVqQ_e4RwlQNchNByi7wbcMAY6Dg1JCXsUYa51AsLf88ckSFulrWdO8p1BhOAmyG9EqNt_5XxuJM4RoKJrixemCDfy0HOgwdxhkPjhM46EVsSJ9CIcsAGGOSs8QiO1Tej13bg==][Essential incompleteness of arithmetic veriﬁed by Coq]]. ~ Russell O’Connor. #ITP #Cog #Logic #Math
