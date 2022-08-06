@@ -38,6 +38,11 @@ its content.
 
 ** Agosto 2022
 
+*** 05-Ago-22
++ [[https://arxiv.org/abs/2207.04779][Mathematical proof between generations]]. ~ Jonas Bayer, Christoph Benzmüller, Kevin Buzzard, Marco David, Leslie Lamport, Yuri Matiyasevich, Lawrence Paulson, Dierk Schleicher, Benedikt Stock, Efim Zelmanov. #ITP #ATP #Math
++ [[https://www.haskell.org/ghc/blog/20220805-make-to-hadrian.html][Migrating from Make to Hadrian (for packagers)]]. ~ Sam Derbyshire. #Haskell #FunctionalProgramming
++ [[https://www.pythonforbeginners.com/basics/remove-a-character-from-a-string-in-python][Python for beginners: Remove a character from a string in Python]]. ~ Aditya Raj. #Python #Programming
+
 *** 04-Ago-22
 + [[https://drops.dagstuhl.de/opus/frontdoor.php?source_opus=16720][Formalising Fisher’s inequality: Formal linear algebraic proof techniques in combinatorics]]. ~ Chelsea Edmonds, Lawrence C. Paulson. #ITP #IsabelleHOL #Math
 + [[https://leapyear.io/resources/blog-posts/how-to-haskell-sharing-data-types-is-tight-coupling/][How to Haskell: Sharing data types is tight coupling]]. ~ Brandon Chinn. #Haskell #FunctionalProgramming
