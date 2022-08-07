@@ -38,6 +38,17 @@ its content.
 
 ** Agosto 2022
 
+*** 06-Ago-22
++ [[https://www.researchgate.net/publication/362295495_A_Formalization_of_SQL_with_Nulls][A formalization of SQL with nulls]]. ~ Wilmer Ricciotti, James Cheney. #ITP #Coq
++ [[https://github.com/wricciot/nullSQL][Mechanising the metatheory of SQL with nulls]]. ~ Wilmer Ricciotti, James Cheney. #ITP #Coq
++ [[http://cl-informatik.uibk.ac.at/iwc/iwc2022.pd][Development closed critical pairs: Towards a formalized proof]]. ~ Christina Kohl, Aart Middeldorp.f#page=6 #ITP #IsabelleHOL
++ [[http://cl-informatik.uibk.ac.at/iwc/iwc2022.pd][Formalized signature extension results for equivalence]]. ~ Alexander Lochmann, Fabian Mitterwallner, Aart Middeldorp.f#page=46 #ITP #IsabelleHOL
++ [[http://cl-informatik.uibk.ac.at/iwc/iwc2022.pd][Proving confluence with CONFident (short version)]]. ~ Raúl Gutiérrez, Miguel Vítores, Salvador Lucas.f#page=52 #Haskell #FunctionalProgramming
++ [[http://zenon.dsic.upv.es/confident/][CONFident: Confluence checker for conditional rewrite systems]]. ~ Salvador Lucas, Miguel Vítores, Raúl Gutiérrez #Haskell #FunctionalProgramming
++ [[https://infoscience.epfl.ch/record/295386][Scaling language features for program verification]]. ~ Georg Stefan Schmid. #PhDThesis #Scala #FunctionalProgramming #SMT
++ [[http://cl-informatik.uibk.ac.at/iwc/iwc2022.pd][Checking confluence of rewrite rules in Haskell]]. ~ Makoto Hamana, Faustin Yao Date.f#page=41 #Haskell #FunctionalProgramming
++ [[https://arxiv.org/abs/2207.14502][Language models can teach themselves to program better]]. ~ Patrick Haluptzok, Matthew Bowers, Adam Tauman Kalai. #MachineLearning #Python #Programming
+
 *** 05-Ago-22
 + [[https://arxiv.org/abs/2207.04779][Mathematical proof between generations]]. ~ Jonas Bayer, Christoph Benzmüller, Kevin Buzzard, Marco David, Leslie Lamport, Yuri Matiyasevich, Lawrence Paulson, Dierk Schleicher, Benedikt Stock, Efim Zelmanov. #ITP #ATP #Math
 + [[https://www.haskell.org/ghc/blog/20220805-make-to-hadrian.html][Migrating from Make to Hadrian (for packagers)]]. ~ Sam Derbyshire. #Haskell #FunctionalProgramming
