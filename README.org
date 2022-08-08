@@ -38,6 +38,10 @@ its content.
 
 ** Agosto 2022
 
+*** 07-Ago-22
++ [[https://www3.risc.jku.at/publications/download/risc_6530/paper.pdf][Learning to reason assisted by automated reasoning]]. ~ Wolfgang Windsteiger. #ITP #Theorema #Teaching #Logic
++ [[https://github.com/IPDSnelting/tba-2022][Slides and exercises of the Lean 4 course "Theorem prover lab: applications in programming languages" at the KIT, Summer 2022]]. ~ Jakob von Raumer, Sebastian Ullrich. #ITP #LeanProver
+
 *** 06-Ago-22
 + [[https://www.researchgate.net/publication/362295495_A_Formalization_of_SQL_with_Nulls][A formalization of SQL with nulls]]. ~ Wilmer Ricciotti, James Cheney. #ITP #Coq
 + [[https://github.com/wricciot/nullSQL][Mechanising the metatheory of SQL with nulls]]. ~ Wilmer Ricciotti, James Cheney. #ITP #Coq
