@@ -38,6 +38,10 @@ its content.
 
 ** Agosto 2022
 
+*** 08-Ago-22
++ [[https://www.glc.us.es/~jalonso/exercitium/media-aritmetica-de-tres-numeros/][Functional programming in Lean: 2. Hello, World!]] ~ David Thrane Christiansen. #ITP #LeanProver #FunctionalProgramming
++ [[https://leanprover-community.github.io/blog/posts/classification-of-one-dimensional-isocrystals/][Classification of one-dimensional isocrystals]]. ~ Robert Y. Lewis, Heather Macbeth. #ITP #LeanProver
+
 *** 07-Ago-22
 + [[https://www3.risc.jku.at/publications/download/risc_6530/paper.pdf][Learning to reason assisted by automated reasoning]]. ~ Wolfgang Windsteiger. #ITP #Theorema #Teaching #Logic
 + [[https://github.com/IPDSnelting/tba-2022][Slides and exercises of the Lean 4 course "Theorem prover lab: applications in programming languages" at the KIT, Summer 2022]]. ~ Jakob von Raumer, Sebastian Ullrich. #ITP #LeanProver
