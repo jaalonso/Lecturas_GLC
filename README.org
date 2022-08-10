@@ -38,6 +38,21 @@ its content.
 
 ** Agosto 2022
 
+*** 09-Ago-22
++ [[https://www.glc.us.es/~jalonso/exercitium/suma-de-monedas/][#Exercitium: Suma de monedas]]. #Haskell #Python
++ [[https://drops.dagstuhl.de/opus/volltexte/2022/16714/pdf/LIPIcs-ITP-2022-5.pdf][A complete, mechanically-verified proof of the Banach-Tarski theorem in ACL2(R)]]. ~ Jagadish Bapanapally, Ruben Gamboa. #ITP #ACL2 #Math
++ [[https://drops.dagstuhl.de/opus/volltexte/2022/16722/pdf/LIPIcs-ITP-2022-13.pdf][Verifying a sequent calculus prover for first-order logic with functions in Isabelle/HOL]]. ~ Asta Halkjær From, Frederik Krogsdal Jacobsen. #ITP #IsabelleHOL #Logic #Math
++ [[https://drops.dagstuhl.de/opus/volltexte/2022/16716/pdf/LIPIcs-ITP-2022-7.pdf][The Zoo of lambda-calculus reduction strategies, and Coq]]. ~ Małgorzata Biernacka, Witold Charatonik, Tomasz Drab. #ITP #Coq
++ [[https://drops.dagstuhl.de/opus/volltexte/2022/16718/pdf/LIPIcs-ITP-2022-9.pdf][Formalising Szemerédi’s regularity lemma in Lean]]. ~ Yaël Dillies, Bhavik Mehta. #ITP #LeanProver #Math
++ [[https://drops.dagstuhl.de/opus/volltexte/2022/16732/pdf/LIPIcs-ITP-2022-23.pdf][Formalizing the divergence theorem and the Cauchy integral formula in Lean]]. ~ Yury Kudryashov. #ITP #LeanProver #Math
++ [[https://drops.dagstuhl.de/opus/volltexte/2022/16777/pdf/LIPIcs-TYPES-2021-8.pdf][A succinct formalization of the completeness of first-order logic]]. ~ Asta Halkjær From. #ITP #LeanProver #Logic #Math
++ [[https://drops.dagstuhl.de/opus/volltexte/2022/16724/pdf/LIPIcs-ITP-2022-15.pdf][A verified cyclicity checker (For theories with overloaded constants)]]. ~ Arve Gengelbach, Johannes Åman Pohjola. #ITP #HOL4
++ [[https://drops.dagstuhl.de/opus/volltexte/2022/16717/pdf/LIPIcs-ITP-2022-8.pdf][Seventeen provers under the hammer]]. ~ Martin Desharnais, Petar Vukmirović, Jasmin Blanchette, Makarius Wenzel. #ITP #IsabelleHOL
++ [[https://www.ps.uni-saarland.de/extras/iel-ext/paper.pdf][Constructive and mechanised meta-theory of IEL and similar modal logics]]. ~ Christian Hagemeier, Dominik Kirst. #ITP #Coq #Logic #Math
++ [[https://michel.steuwer.info/files/publications/2022/Haskell-2022.pdf][Investigating magic numbers: Improving the inlining heuristic in the Glasgow Haskell Compiler]]. ~  Celeste Hollenbeck,  Michael O'Boyle, Michel Steuwer. #Haskell #FunctionalProgramming
++ [[https://easychair.org/smart-program/FLoC2022/IJCAR-2022-08-08.html#talk:200548][The pleasures of proof]]. ~ Natarajan Shankar #Logic #Math #ITP
++ [[https://kodimensional.dev/space-leak][Avoiding space leaks at all costs]]. ~ Dmitrii Kovanikov (@ChShersh). #Haskell #FunctionalProgramming
+
 *** 08-Ago-22
 + [[https://www.glc.us.es/~jalonso/exercitium/media-aritmetica-de-tres-numeros/][Functional programming in Lean: 2. Hello, World!]] ~ David Thrane Christiansen. #ITP #LeanProver #FunctionalProgramming
 + [[https://leanprover-community.github.io/blog/posts/classification-of-one-dimensional-isocrystals/][Classification of one-dimensional isocrystals]]. ~ Robert Y. Lewis, Heather Macbeth. #ITP #LeanProver
