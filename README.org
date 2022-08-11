@@ -38,8 +38,11 @@ its content.
 
 ** Agosto 2022
 
+*** 10-Ago-22
++ [[https://youtu.be/prYaTrZUces][Automated mathematical proofs]]. ~ Thorsten Altenkirch. #ITP #LeanProver #Math
++ [[https://lawrencecpaulson.github.io//2022/08/10/Nonstandard_Analysis.html][The formalisation of nonstandard analysis]]. ~ Lawrence C. Paulson (@LawrPaulson). #ITP #IsabelleHOL #Math
+
 *** 09-Ago-22
-+ [[https://www.glc.us.es/~jalonso/exercitium/suma-de-monedas/][#Exercitium: Suma de monedas]]. #Haskell #Python
 + [[https://drops.dagstuhl.de/opus/volltexte/2022/16714/pdf/LIPIcs-ITP-2022-5.pdf][A complete, mechanically-verified proof of the Banach-Tarski theorem in ACL2(R)]]. ~ Jagadish Bapanapally, Ruben Gamboa. #ITP #ACL2 #Math
 + [[https://drops.dagstuhl.de/opus/volltexte/2022/16722/pdf/LIPIcs-ITP-2022-13.pdf][Verifying a sequent calculus prover for first-order logic with functions in Isabelle/HOL]]. ~ Asta Halkjær From, Frederik Krogsdal Jacobsen. #ITP #IsabelleHOL #Logic #Math
 + [[https://drops.dagstuhl.de/opus/volltexte/2022/16716/pdf/LIPIcs-ITP-2022-7.pdf][The Zoo of lambda-calculus reduction strategies, and Coq]]. ~ Małgorzata Biernacka, Witold Charatonik, Tomasz Drab. #ITP #Coq
