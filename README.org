@@ -38,6 +38,12 @@ its content.
 
 ** Agosto 2022
 
+*** 11-Ago-22
++ [[https://www.isa-afp.org/entries/FSM_Tests.html][Verified complete test strategies for finite state machines]]. ~ Robert Sachtleben. #ITP #IsabelleHOL
++ [[https://leanprover-community.github.io/blog/posts/month-in-mathlib-jul-2022/][This month in mathlib (Jul 2022)]]. #ITP #LeanProver #MathLib #Math
++ [[https://thma.github.io/posts/2022-08-07-dependency-validation-of-haskell-applications.html][Dependency validation of a Haskell application]]. ~ Thomas Mahler. #Haskell #FunctionalProgramming
++ [[https://topos.site/blog/2022/08/computation-and-category-theory/][Computation and category theory]]. ~ Joshua Meyers. #CompSci #CategoryTheory
+
 *** 10-Ago-22
 + [[https://youtu.be/prYaTrZUces][Automated mathematical proofs]]. ~ Thorsten Altenkirch. #ITP #LeanProver #Math
 + [[https://lawrencecpaulson.github.io//2022/08/10/Nonstandard_Analysis.html][The formalisation of nonstandard analysis]]. ~ Lawrence C. Paulson (@LawrPaulson). #ITP #IsabelleHOL #Math
