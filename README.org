@@ -38,6 +38,14 @@ its content.
 
 ** Agosto 2022
 
+*** 12-Ago-22
++ [[https://files.sketis.net/Isabelle_Workshop_2022/Isabelle_2022_paper_10.pdf][Auxiliary tools for combinatorics on words]]. ~ Štěpán Holub, Štěpán Starosta, Martin Raška. #ITP #IsabelleHOL
++ [[https://github.com/leanprover-community/mathlib/blob/af8760ccc4c03bbdff0b140e6f7bd047b0eecbeb/archive/100-theorems-list/54_konigsberg.lean][The Königsberg bridges problem (in Lean)]]. ~ Kyle Miller. #ITP #LeanProver #Math
++ [[https://jesper.sikanda.be/files/reasonable-agda-is-correct-haskell.pdf][Reasonable Agda is correct Haskell: Writing verified Haskell using agda2hs]]. ~ Jesper Cockx et als. #ITP #Agda #Haskell #FunctionalProgramming
++ [[https://dschrempf.github.io/coding/2022-06-28-sample-from-a-posterior-using-markov-chain-monte-carlo-algorithms-and-haskell/][Parameter inference using Markov chain Monte Carlo algorithms and Haskell]]. ~ Dominik Schrempf (@fazky). #Haskell #FunctionalProgramming
++ [[https://sonatsuer.github.io/optics-and-representable-functors.html][Optics and representable functors]]. ~ Sonat Süer. #Haskell #FunctionalProgramming
++ [[https://sonatsuer.github.io/schroder-bernstein.html][Schröder-Bernstein via Eilenberg-Mazur in Haskell]]. ~ Sonat Süer. #Haskell #FunctionalProgramming #Math #SetTheory
+
 *** 11-Ago-22
 + [[https://www.isa-afp.org/entries/FSM_Tests.html][Verified complete test strategies for finite state machines]]. ~ Robert Sachtleben. #ITP #IsabelleHOL
 + [[https://leanprover-community.github.io/blog/posts/month-in-mathlib-jul-2022/][This month in mathlib (Jul 2022)]]. #ITP #LeanProver #MathLib #Math
