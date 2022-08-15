@@ -38,6 +38,21 @@ its content.
 
 ** Agosto 2022
 
+*** 14-Ago-22
++ [[https://files.sketis.net/Isabelle_Workshop_2022/Isabelle_2022_paper_13.pdf][On termination for hybrid tableaux]]. ~ Asta Halkjær From. #ITP #IsabelleHOL #Logic
++ [[https://files.sketis.net/Isabelle_Workshop_2022/Isabelle_2022_paper_9.pdf][Lessons of teaching formal methods with Isabelle]]. ~ Frederik Krogsdal Jacobsen, Jørgen Villadsen. #ITP #IsabelleHOL #Teaching
++ [[https://files.sketis.net/Isabelle_Workshop_2022/Isabelle_2022_paper_12.pdf][Gale-Shapley verified]]. ~ Tobias Nipkow. #ITP #IsabelleHOL
++ [[https://files.sketis.net/Isabelle_Workshop_2022/Isabelle_2022_paper_5.pdf][From P != NP to monotone circuits of super-polynomial size]]. ~ René Thiemann. #ITP #IsabelleHOL
+
+*** 13-Ago-22
++ [[https://files.sketis.net/Isabelle_Workshop_2022/Isabelle_2022_paper_11.pdf][Transfer and reversal of lists]]. ~ Martin Raška, Štěpán Holub. #ITP #IsabelleHOL
++ [[https://www.isa-afp.org/entries/Solidity.html][Isabelle/Solidity: A deep embedding of Solidity in Isabelle/HOL]]. ~ Diego Marmsoler, Achim D. Brucker. #ITP #IsabelleHOL
++ [[https://files.sketis.net/Isabelle_Workshop_2022/Isabelle_2022_paper_6.pdf][Oracle integration of floating-point solvers with Isabelle]]. ~ Olle Torstensson, Tjark Weber. #ITP #IsabelleHOL #SMT
++ [[https://files.sketis.net/Isabelle_Workshop_2022/Isabelle_2022_paper_2.pdf][A verified implementation of B-trees in Isabelle/HOL]]. ~ Niels Mündler, Tobias Nipkow. #ITP #IsabelleHOL
++ [[https://sketis.net/isabelle/isabelle-workshop-2022][On axiomatic systems for classical propositional logic]]. ~ Agnes Moesgård Eschen, Jørgen Villadsen. #ITP #IsabelleHOL #Logic
++ [[https://readerunner.wordpress.com/2021/09/13/diagrams-for-penrose-tiles/][Diagrams for Penrose tiles]]. ~ Chris Reade. #Haskell #FunctionalProgramming #Math
++ [[https://readerunner.wordpress.com/2022/01/06/graphs-kites-and-darts/][Graphs, kites and darts]]. ~ Chris Reade. #Haskell #FunctionalProgramming #Math
+
 *** 12-Ago-22
 + [[https://files.sketis.net/Isabelle_Workshop_2022/Isabelle_2022_paper_10.pdf][Auxiliary tools for combinatorics on words]]. ~ Štěpán Holub, Štěpán Starosta, Martin Raška. #ITP #IsabelleHOL
 + [[https://github.com/leanprover-community/mathlib/blob/af8760ccc4c03bbdff0b140e6f7bd047b0eecbeb/archive/100-theorems-list/54_konigsberg.lean][The Königsberg bridges problem (in Lean)]]. ~ Kyle Miller. #ITP #LeanProver #Math
