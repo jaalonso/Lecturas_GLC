@@ -38,6 +38,14 @@ its content.
 
 ** Agosto 2022
 
+*** 15-Ago-22
++ [[https://files.sketis.net/Isabelle_Workshop_2022/Isabelle_2022_paper_1.pdf][Automating kantian ethics in Isabelle: A case study]]. ~ Lavanya Singh. #ITP #IsabelleHOL
++ [[https://media.suub.uni-bremen.de/bitstream/elib/6068/3/Dissertation_Robert_Sachtleben.pdf][An approach for the verification and synthesis of complete test generation algorithms for finite state machines]]. ~ Robert Sachtleben. #PhDThesis #ITP #IsabelleHOL
++ [[https://www.johndcook.com/blog/2022/08/15/org-table-python/][Keeping data and code together with org-mode]]. ~ John D. Cook (@JohnDCook). #Emacs #OrgMode #Python
++ [[http://save.seecs.nust.edu.pk/wp-content/uploads/2022/07/CICM_2022.pdf][On the formalization of the heat conduction problem in HOL]]. ~ Elif Deniz, Adnan Rashid, Osman Hasan, Sofiène Tahar. #ITP #HOL_Light
++ [[https://drops.dagstuhl.de/opus/volltexte/2022/16737/pdf/LIPIcs-ITP-2022-28.pdf][Deeper shallow embeddings]]. ~ Jacob Prinz, G. A. Kavvos, Leonidas Lampropoulos. #Agda #FunctionalProgramming
++ [[https://www.pnas.org/doi/full/10.1073/pnas.2123433119 ][A neural network solves, explains, and generates university math problems by program synthesis and few-shot learning at human level]]. ~ Iddo Drori et als. #MachineLearning #Math
+
 *** 14-Ago-22
 + [[https://files.sketis.net/Isabelle_Workshop_2022/Isabelle_2022_paper_13.pdf][On termination for hybrid tableaux]]. ~ Asta Halkjær From. #ITP #IsabelleHOL #Logic
 + [[https://files.sketis.net/Isabelle_Workshop_2022/Isabelle_2022_paper_9.pdf][Lessons of teaching formal methods with Isabelle]]. ~ Frederik Krogsdal Jacobsen, Jørgen Villadsen. #ITP #IsabelleHOL #Teaching
