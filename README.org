@@ -38,6 +38,14 @@ its content.
 
 ** Agosto 2022
 
+*** 16-Ago-22
++ [[https://arxiv.org/abs/2208.06879][Who finds the short proof? An exploration of variants of Boolos' curious Inference using higher-order automated theorem provers]]. ~ Christoph Benzmüller, David Fuenmayor, Alexander Steen, Geoff Sutcliffe. #ITP #HOL
++ [[https://www.uv.es/coslloen/Arxiu/Fitxers/TFG/2022Momblona.pdf][Type theory and theorem proving in Lean]]. ~ Raúl Momblona Rodríguez. #ITP #LeanProver #TypeTheory #LambdaCalculus
++ [[https://www.isa-afp.org/entries/Involutions2Squares.html][From the BOOK: Two squares via involutions (in Isabelle/HOL)]]. ~ Maksym Bortin. #ITP #IsabelleHOL #Math
++ [[https://arxiv.org/abs/2207.05617][Mechanizing refinement types (extended)]]. ~ Michael Borkowski, Niki Vazou, Ranjit Jhala. #ITP #Haskell #FunctionalProgramming #LiquidHaskell
++ [[https://arxiv.org/abs/2208.06823][Simply logical (Intelligent reasoning by example (Fully interactive online edition))]]. ~ Peter Flach, Kacper Sokol. #AI #Prolog
++ [[https://www.btbytes.com/talks/2018-05-indypy-proptesting/presentation.pdf][Property based testing]]. ~ Pradeep Gowda (@btbytes). #Python #Hypothesis
+
 *** 15-Ago-22
 + [[https://files.sketis.net/Isabelle_Workshop_2022/Isabelle_2022_paper_1.pdf][Automating kantian ethics in Isabelle: A case study]]. ~ Lavanya Singh. #ITP #IsabelleHOL
 + [[https://media.suub.uni-bremen.de/bitstream/elib/6068/3/Dissertation_Robert_Sachtleben.pdf][An approach for the verification and synthesis of complete test generation algorithms for finite state machines]]. ~ Robert Sachtleben. #PhDThesis #ITP #IsabelleHOL
