@@ -38,6 +38,11 @@ its content.
 
 ** Agosto 2022
 
+*** 17-Ago-22
++ [[https://xenaproject.wordpress.com/2022/08/16/the-future-of-interactive-theorem-proving/][The future of interactive theorem proving? ~ Zhangir Azerbayev]]. #ITP #LeanProver #Math
++ [[https://homes.cs.aau.dk/~srba/files/SSST:FMCAD:22.pdf][Differential testing of pushdown reachability with a formally verified oracle]]. ~ A. Schlichtkrull, M.K. Schou, J. Srba, D. Traytel. #ITP #IsabelleHOL
++ [[https://www.isa-afp.org/entries/Commuting_Hermitian.html][Simultaneous diagonalization of pairwise commuting hermitian matrices (in Isabelle/HOL)]]. ~ Mnacho Echenim. #ITP #IsabelleHOL #Math
+
 *** 16-Ago-22
 + [[https://arxiv.org/abs/2208.06879][Who finds the short proof? An exploration of variants of Boolos' curious Inference using higher-order automated theorem provers]]. ~ Christoph Benzmüller, David Fuenmayor, Alexander Steen, Geoff Sutcliffe. #ITP #HOL
 + [[https://www.uv.es/coslloen/Arxiu/Fitxers/TFG/2022Momblona.pdf][Type theory and theorem proving in Lean]]. ~ Raúl Momblona Rodríguez. #ITP #LeanProver #TypeTheory #LambdaCalculus
