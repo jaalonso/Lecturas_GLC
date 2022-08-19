@@ -38,6 +38,10 @@ its content.
 
 ** Agosto 2022
 
+*** 18-Ago-22
++ [[https://arxiv.org/abs/2208.08070][Proof engineering with predicate transformer semantics]]. ~ Christa Jenkins, Mark Moir, Harold Carr. #ITP #Agda
++ [[https://arxiv.org/abs/2208.07775][SAT-inspired higher-order eliminations]]. ~ Jasmin Blanchette, Petar Vukmirović. #SATSolvers #ITP #ATP
+
 *** 17-Ago-22
 + [[https://xenaproject.wordpress.com/2022/08/16/the-future-of-interactive-theorem-proving/][The future of interactive theorem proving? ~ Zhangir Azerbayev]]. #ITP #LeanProver #Math
 + [[https://homes.cs.aau.dk/~srba/files/SSST:FMCAD:22.pdf][Differential testing of pushdown reachability with a formally verified oracle]]. ~ A. Schlichtkrull, M.K. Schou, J. Srba, D. Traytel. #ITP #IsabelleHOL
