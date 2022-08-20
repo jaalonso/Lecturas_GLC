@@ -38,6 +38,10 @@ its content.
 
 ** Agosto 2022
 
+*** 19-Ago-22
++ [[https://blog.ch3m4.org/2021/10/17/dataclasses-en-python/][Dataclasses en Python]]. ~ Chema Cortés (@chemacortes). #Python
++ [[https://blog.ch3m4.org/2021/02/08/evaluacion-perezosa-en-python-parte-1/][Evaluación perezosa en Python]]. ~ Chema Cortés (@chemacortes). #Python
+
 *** 18-Ago-22
 + [[https://arxiv.org/abs/2208.08070][Proof engineering with predicate transformer semantics]]. ~ Christa Jenkins, Mark Moir, Harold Carr. #ITP #Agda
 + [[https://arxiv.org/abs/2208.07775][SAT-inspired higher-order eliminations]]. ~ Jasmin Blanchette, Petar Vukmirović. #SATSolvers #ITP #ATP
