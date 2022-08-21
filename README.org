@@ -38,6 +38,11 @@ its content.
 
 ** Agosto 2022
 
+*** 20-Ago-22
++ [[https://www.diva-portal.org/smash/get/diva2:1686693/FULLTEXT01.pdf][Formalisation of polynomials in cubical type theory using Cubical Agda]]. ~ Carl Åkerman Rydbeck. #ITP #Agda
++ [[https://medium.com/@janburse_2989/learn-prolog-now-as-a-dogelog-notebook-ab28957f66be][Learn Prolog Now! as a Dogelog Notebook]]. #Prolog
++ [[https://github.com/GavinMendelGleason/OWL/][OWL in Agda]]. ~ Gavin Mendel-Gleason. #ITP #Agda #OWL
+
 *** 19-Ago-22
 + [[https://blog.ch3m4.org/2021/10/17/dataclasses-en-python/][Dataclasses en Python]]. ~ Chema Cortés (@chemacortes). #Python
 + [[https://blog.ch3m4.org/2021/02/08/evaluacion-perezosa-en-python-parte-1/][Evaluación perezosa en Python]]. ~ Chema Cortés (@chemacortes). #Python
