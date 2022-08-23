@@ -38,6 +38,11 @@ its content.
 
 ** Agosto 2022
 
+*** 22-Ago-22
++ [[https://blog.jle.im/entry/lenses-products-prisms-sums.html][Lenses embody products, prisms embody sums]]. ~ Justin Le (@mstk). #Haskell #FunctionalProgramming
++ [[https://xenaproject.wordpress.com/2018/03/24/no-confusion-over-no_confusion/][No confusion over no_confusion]]. ~ Kevin Buzzard (@XenaProject). #ITP #LeanProver
++ [[https://www.andrew.cmu.edu/user/avigad/mathematical_logic_and_computation_toc.pdf][Mathematical logic and computation]]. ~ Jeremy Avigad. #Logic #Math #CompSci
+
 *** 20-Ago-22
 + [[https://www.diva-portal.org/smash/get/diva2:1686693/FULLTEXT01.pdf][Formalisation of polynomials in cubical type theory using Cubical Agda]]. ~ Carl Åkerman Rydbeck. #ITP #Agda
 + [[https://medium.com/@janburse_2989/learn-prolog-now-as-a-dogelog-notebook-ab28957f66be][Learn Prolog Now! as a Dogelog Notebook]]. #Prolog
