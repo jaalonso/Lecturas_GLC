@@ -38,6 +38,13 @@ its content.
 
 ** Agosto 2022
 
+*** 23-Ago-22
++ [[https://www.isa-afp.org/entries/Nano_JSON.html][Nano JSON: Working with JSON formatted data in Isabelle/HOL and Isabelle/ML]]. ~ Achim D. Brucker. #ITP #IsabelleHOL
++ [[https://aip.scitation.org/doi/abs/10.1063/5.0093175][The effect of the theorem prover Isabelle]]. ~ Fumiya Iwama, Tadashi Takahashi. #ITP #IsabelleHOL
++ [[https://escholarship.org/content/qt9cd41151/qt9cd41151.pdf][Ensuring correctness of modern software systems by example]]. ~ Aishwarya Sivaraman. #PhDThesis #ITP #Coq
++ [[https://scholarship.tricolib.brynmawr.edu/bitstream/handle/10066/24499/2022AronsonS.pdf?sequence=1&isAllowed=y][Understanding functional and equational programming techniques on graph-based problems]]. ~ Sam Aronson. #Haskell #FunctionalProgramming
++ [[https://mmhaskell.com/blog/2022/8/22/dijkstras-algorithm-in-haskell][Dijkstra's algorithm in Haskell]]. ~ James Bowen (@james_OWA). #Haskell #FunctionalProgramming
+
 *** 22-Ago-22
 + [[https://blog.jle.im/entry/lenses-products-prisms-sums.html][Lenses embody products, prisms embody sums]]. ~ Justin Le (@mstk). #Haskell #FunctionalProgramming
 + [[https://xenaproject.wordpress.com/2018/03/24/no-confusion-over-no_confusion/][No confusion over no_confusion]]. ~ Kevin Buzzard (@XenaProject). #ITP #LeanProver
