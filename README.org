@@ -38,6 +38,12 @@ its content.
 
 ** Agosto 2022
 
+*** 26-Ago-22
++ [[https://obsidian.systems/blog/haskell-lazy-language-put-to-work][Haskell: How a lazy language was put to work]]. ~ Obsidian Systems (@obsidian_llc). #Haskell #FunctionalProgramming
++ [[https://cs-syd.eu/posts/2022-08-22-how-to-deal-with-money-in-software][How to deal with money in software]]. ~ Tom Sydney Kerckhove (@kerckhove_ts). #Haskell #FunctionalProgramming
++ [[https://mmhaskell.com/blog/2022/8/25/generalizing-dijkstras-algorithm][Generalizing Dijkstra's algorithm]]. ~ James Bowen (@james_OWA). #Haskell #FunctionalProgramming
++ [[https://stackabuse.com/big-o-notation-and-algorithm-analysis-with-python-examples/][Big O notation and algorithm analysis with Python examples]]. ~ Usman Malik (@usman_malikk). #Algorithms #Python
+
 *** 23-Ago-22
 + [[https://www.isa-afp.org/entries/Nano_JSON.html][Nano JSON: Working with JSON formatted data in Isabelle/HOL and Isabelle/ML]]. ~ Achim D. Brucker. #ITP #IsabelleHOL
 + [[https://aip.scitation.org/doi/abs/10.1063/5.0093175][The effect of the theorem prover Isabelle]]. ~ Fumiya Iwama, Tadashi Takahashi. #ITP #IsabelleHOL
