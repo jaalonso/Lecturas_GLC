@@ -38,6 +38,14 @@ its content.
 
 ** Agosto 2022
 
+*** 27-Ago-22
++ [[https://hal.archives-ouvertes.fr/hal-03756335/document][A Coq library for mechanised first-order logic]]. ~ Dominik Kirst et als. #ITP #Coq #Logic
++ [[https://drops.dagstuhl.de/opus/volltexte/2022/16914/pdf/LIPIcs-COSIT-2022-29.pdf][Representing computational relations in knowledge graphs using functional languages]]. ~ Yanmin Qi et als. #Haskell #FunctionalProgramming
++ [[https://dfpedia.com/en/Haskell][Haskell: Functional programming language]]. #Haskell #FunctionalProgramming
++ [[https://stevelosh.com/blog/2022/08/depending-in-common-lisp/][Depending in Common Lisp]]. ~ Steve Losh (@stevelosh). #CommonLisp
++ [[https://dfpedia.com/en/Prolog][Prolog: Programming language that uses first order logic]]. #Prolog #LogicProgramming
++ [[https://algoritmo.buzzsprout.com/758831/10621931-jose-cifuentes-educacion-e-informatica-e-85][Educación e informática]] (Entrevista a José Cifuentes por Camilo Chacón Sartori (@camilo_chacon_s)). #Podcast #Matemáticas #Informática
+
 *** 26-Ago-22
 + [[https://obsidian.systems/blog/haskell-lazy-language-put-to-work][Haskell: How a lazy language was put to work]]. ~ Obsidian Systems (@obsidian_llc). #Haskell #FunctionalProgramming
 + [[https://cs-syd.eu/posts/2022-08-22-how-to-deal-with-money-in-software][How to deal with money in software]]. ~ Tom Sydney Kerckhove (@kerckhove_ts). #Haskell #FunctionalProgramming
