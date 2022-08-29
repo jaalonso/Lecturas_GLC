@@ -38,6 +38,9 @@ its content.
 
 ** Agosto 2022
 
+*** 28-Ago-22
++ [[https://www.haskellforall.com/2022/08/incrementally-package-haskell-program.html][Incrementally package a Haskell program using Nix]]. ~ Gabriella Gonzalez (@GabriellaG439). #Haskell #FunctionalProgramming #Nix
+
 *** 27-Ago-22
 + [[https://hal.archives-ouvertes.fr/hal-03756335/document][A Coq library for mechanised first-order logic]]. ~ Dominik Kirst et als. #ITP #Coq #Logic
 + [[https://drops.dagstuhl.de/opus/volltexte/2022/16914/pdf/LIPIcs-COSIT-2022-29.pdf][Representing computational relations in knowledge graphs using functional languages]]. ~ Yanmin Qi et als. #Haskell #FunctionalProgramming
