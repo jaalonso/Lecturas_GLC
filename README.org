@@ -38,6 +38,9 @@ its content.
 
 ** Agosto 2022
 
+*** 29-Ago-22
++ [[https://github.com/TikhonJelvis/Simple-Prolog/blob/master/src/Prolog/Interpreter.hs][A simple Prolog interpreter]]. ~ Tikhon Jelvis (@tikhonjelvis). #Haskell #FunctionalProgramming #Prolog
+
 *** 28-Ago-22
 + [[https://www.haskellforall.com/2022/08/incrementally-package-haskell-program.html][Incrementally package a Haskell program using Nix]]. ~ Gabriella Gonzalez (@GabriellaG439). #Haskell #FunctionalProgramming #Nix
 
