@@ -38,6 +38,13 @@ its content.
 
 ** Agosto 2022
 
+*** 30-Ago-22
++ [[https://kwarc.info/teaching/CICM21WS/fmm5.pdf][Formalizing Fibonacci squares]]. ~ Muhammad Harun Ali Khan1. #ITP #LeanProver #Math
++ [[https://kwarc.info/teaching/CICM21WS/fmm1.pdf][Computing the border array in Isabelle/HOL]]. ~ Štěpán Holub. #ITP #IsabelleHOL
++ [[https://kwarc.info/teaching/CICM21WS/fmm2.pdf][Producing symmetrical facts for lists induced by the list reversal mapping in Isabelle/HOL]]. ~ Martin Raška1, Štěpán Starosta. #ITP #IsabelleHOL
++ [[https://kwarc.info/teaching/CICM21WS/fmm4.pdf][Formalization of gambler’s ruin problem in Isabelle/HOL]]. ~ Zibo Yang. #ITP #IsabelleHOL #Math
++ [[https://mmhaskell.com/blog/2022/8/29/dijkstra-with-type-families][Dijkstra with type families]]. ~ James Bowen (@james_OWA). #Haskell #FunctionalProgramming
+
 *** 29-Ago-22
 + [[https://github.com/TikhonJelvis/Simple-Prolog/blob/master/src/Prolog/Interpreter.hs][A simple Prolog interpreter]]. ~ Tikhon Jelvis (@tikhonjelvis). #Haskell #FunctionalProgramming #Prolog
 
