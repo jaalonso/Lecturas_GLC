@@ -38,6 +38,16 @@ its content.
 
 ** Agosto 2022
 
+*** 31-Ago-22
++ [[https://lawrencecpaulson.github.io/2022/08/31/Ackermann-not-PR-I.html][Ackermann's function is not primitive recursive, I]]. ~ Lawrence C. Paulson (@LawrPaulson). #ITP #IsabelleHOL #Math
++ [[https://kwarc.info/teaching/CICM21WS/fmm7.pdf][Verified optimization (work in progress)]]. ~ Alexander Bentkamp, Jeremy Avigad. #ITP #LeanProver #Math
++ [[https://kwarc.info/teaching/CICM21WS/fmm8.pdf][Elements of differential geometry in Lean (A report for mathematicians)]]. ~ Anthony Bordg, Nicolò Cavalleri. #ITP #LeanProver #Math
++ [[https://sympa.inria.fr/sympa/arc/coq-club/2022-08/msg00038.html][New release of Software Foundations]]. #ITP #Coq
++ [[https://kwarc.info/teaching/CICM21WS/fmm6.pdf][Formalization of prime representing polynomial in Mizar]]. ~ Karol Pąk. #ITP #Mizar #Math
++ [[https://kwarc.info/teaching/CICM21WS/natfom3.pdf][Formal mathematics for the masses]]. ~ William M. Farmer. #ITP #Math
++ [[https://serokell.io/blog/haskell-in-production-mercury][Haskell in production: Mercury]]. #Haskell #FunctionalProgramming
++ [[https://notxor.nueva-actitud.org/2022/08/31/programacion-literaria-y-la-configuracion-de-emacs.html][Programación literaria y la configuración de Emacs]]. ~ Notxor. #Emacs
+
 *** 30-Ago-22
 + [[https://kwarc.info/teaching/CICM21WS/fmm5.pdf][Formalizing Fibonacci squares]]. ~ Muhammad Harun Ali Khan1. #ITP #LeanProver #Math
 + [[https://kwarc.info/teaching/CICM21WS/fmm1.pdf][Computing the border array in Isabelle/HOL]]. ~ Štěpán Holub. #ITP #IsabelleHOL
