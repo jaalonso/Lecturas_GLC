@@ -11,6 +11,7 @@ its content.
 
 * Content                                                                      :TOC:
 - [[#readings-of-the-year-2022][Readings of the year 2022]]
+  - [[#septiembre-2022][Septiembre 2022]]
   - [[#agosto-2022][Agosto 2022]]
   - [[#julio-2022][Julio 2022]]
   - [[#june-2022][June 2022]]
@@ -35,6 +36,19 @@ its content.
 - [[#previous-readings][Previous readings]]
 
 * Readings of the year 2022
+
+** Septiembre 2022
+
+*** 02-Sep-22
++ [[http://philsci-archive.pitt.edu/21118/][Formal verification, scientific code, and the epistemological heterogeneity of computational science]]. ~ Cyrille Imbert, Vincent Ardourel. #FormalVerification
++ [[https://mmhaskell.com/blog/2022/9/1/dijkstra-in-a-2d-grid][Dijkstra in a 2D grid]]. ~ James Bowen (@james_OWA). #Haskell #FunctionalProgramming
++ [[https://markm208.github.io/cljbook/][An animated introduction to Clojure]]. ~ Mark Mahoney. #Clojure #FunctionalProgramming
+
+*** 01-Sep-22
++ [[https://kwarc.info/teaching/CICM21WS/dp1.pdf][Structure in theorem proving: Analyzing and improving the Isabelle Archive of Formal Proofs]]. ~ Fabian Huch. #ITP #IsabelleHOL
++ [[https://fse.studenttheses.ub.rug.nl/28482/1/BSc_Thesis_final.pdf][Formalization of modal logic S5 in the Coq proof assistant]]. ~ Lubor Budaj. #ITP #Coq #Logic
++ [[https://youtu.be/yRVjR9XcuPU][How to make a Haskell program 5x faster with 16 lines of code]]. ~ Alexis King (@lexi_lambda). #Haskell #FunctionalProgramming
++ [[https://youtu.be/ohp2uRM9n0o][Universal and existential quantification in Haskell]]. ~ Stepan Prudnikov. #Haskell #FunctionalProgramming
 
 ** Agosto 2022
 
