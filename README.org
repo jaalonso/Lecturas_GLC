@@ -39,6 +39,15 @@ its content.
 
 ** Septiembre 2022
 
+*** 03-Sep-22
++ [[https://arxiv.org/abs/2208.13428v1][Constructive many-one reduction from the halting problem to semi-unification]]. ~ Andrej Dudenhefner. #ITP #Coq
++ [[https://arxiv.org/abs/2208.14260v1][Program equivalence in an untyped, call-by-value lambda calculus with uncurried recursive functions]]. ~ Dániel Horpácsi, Péter Bereczky, Simon Thompson. #ITP #Coq
++ [[https://eprint.iacr.org/2022/1116.pdf][Automatic certified verification of cryptographic programs with CoqCryptoLine]]. ~ Ming-Hsien Tsai et als. #ITP #Coq
++ [[https://link.springer.com/chapter/10.1007/978-3-031-15707-3_33][QMaxSATpb: A certified MaxSAT solver]]. ~ Dieter Vandesande, Wolf De Wulf, Bart Bogaerts. #SAT_Solver
++ [[https://youtu.be/H1vbUKMKvnM][Intro to the Haskell course]]. ~ Robertino Martínez (@_roberm_). #Haskell #FunctionalProgramming
++ [[https://github.com/input-output-hk/haskell-course][Haskell course]]. ~ Robertino Martínez (@_roberm_). #Haskell #FunctionalProgramming
++ [[https://youtu.be/pkU8eiNZipQ][Haskell course: Lesson 1: Intro to Haskell and tools]]. ~ Robertino Martínez (@_roberm_). #Haskell #FunctionalProgramming
+
 *** 02-Sep-22
 + [[http://philsci-archive.pitt.edu/21118/][Formal verification, scientific code, and the epistemological heterogeneity of computational science]]. ~ Cyrille Imbert, Vincent Ardourel. #FormalVerification
 + [[https://mmhaskell.com/blog/2022/9/1/dijkstra-in-a-2d-grid][Dijkstra in a 2D grid]]. ~ James Bowen (@james_OWA). #Haskell #FunctionalProgramming
