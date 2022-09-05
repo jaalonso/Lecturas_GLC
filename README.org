@@ -39,6 +39,13 @@ its content.
 
 ** Septiembre 2022
 
+*** 04-Sep-22
++ [[https://www.joachim-breitner.de/blog/792-More_recursive_definitions][More recursive definitions]]. ~ Joachim Breitner (@nomeata). #Haskell #FunctionalProgramming
++ [[https://www.cs.us.es/cursos/lm/apuntes-2012.pdf][Lógica matemática]]. ~ Alejandro Fernández Margarit (2012). #Libro #Lógica #Matemática
++ [[https://www.cs.us.es/cursos/tconj-2007/notas-tc10.pdf][Teoría de conjuntos]]. ~ Alejandro Fernández Margarit (2010). #Libro #Lógica #Matemática
++ [[https://www.cs.us.es/cursos/tmo-2007/notas-tm09.pdf][Teoría de modelos]]. ~ Alejandro Fernández Margarit (2009). #Libro #Lógica #Matemática
++ [[https://github.com/jaalonso/Libros_de_Logica/blob/main/README.org][Libros de lógica matemática]]. #Book #Logic #Math
+
 *** 03-Sep-22
 + [[https://arxiv.org/abs/2208.13428v1][Constructive many-one reduction from the halting problem to semi-unification]]. ~ Andrej Dudenhefner. #ITP #Coq
 + [[https://arxiv.org/abs/2208.14260v1][Program equivalence in an untyped, call-by-value lambda calculus with uncurried recursive functions]]. ~ Dániel Horpácsi, Péter Bereczky, Simon Thompson. #ITP #Coq
