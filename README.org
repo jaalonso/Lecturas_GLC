@@ -39,6 +39,10 @@ its content.
 
 ** Septiembre 2022
 
+*** 05-Sep-22
++ [[https://arxiv.org/abs/2208.13731][Independence of the continuum hypothesis: An intuitive introduction]]. ~ Serafim Batzoglou. #Logic #Math #SetTheory
++ [[https://plato.stanford.edu/entries/settheory-alternative/][Alternative axiomatic set theories]]. ~ M. Randall Holmes. #Logic #Math #SetTheory
+
 *** 04-Sep-22
 + [[https://www.joachim-breitner.de/blog/792-More_recursive_definitions][More recursive definitions]]. ~ Joachim Breitner (@nomeata). #Haskell #FunctionalProgramming
 + [[https://www.cs.us.es/cursos/lm/apuntes-2012.pdf][Lógica matemática]]. ~ Alejandro Fernández Margarit (2012). #Libro #Lógica #Matemática
