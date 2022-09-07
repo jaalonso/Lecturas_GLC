@@ -39,6 +39,15 @@ its content.
 
 ** Septiembre 2022
 
+*** 06-Sep-22
++ [[https://www3.risc.jku.at/publications/download/risc_6584/proceedings-CICM2022-informal.pd][Formalising the Krull Topology in Lean]]. ~ Sebastian Monnet.f#page=36 #ITP #LeanProver #Math
++ [[https://www3.risc.jku.at/publications/download/risc_6584/proceedings-CICM2022-informal.pd][Setting up set-theoretical foundations in Naproche]]. ~ Marcel Schütz, Adrian De Lon, Peter Koepke.f#page=58 #ITP #Naproche #IsabelleHOL #Math
++ [[https://www3.risc.jku.at/publications/download/risc_6584/proceedings-CICM2022-informal.pd][A parallel corpus for natural language machine translation to Isabelle]]. ~ Anthony Bordg, Yiannos Stathopoulos, Lawrence Paulson.f#page=7 #ITP #IsabelleHOL #Math #Automating_formalisation
++ [[https://mmhaskell.com/blog/2022/9/5/dijkstra-comparison-looking-at-the-library-function][Dijkstra comparison: Looking at the library function]]. ~ James Bowen (@james_OWA). #Haskell #FunctionalProgramming
++ [[https://www.johndcook.com/blog/2022/09/05/literate-programming/][Literate programming to reduce errors]].~ John D. Cook (@JohnDCook). #Emacs #OrgMode #Programming
++ [[https://irreal.org/blog/?p=10784][Emacs shortcuts]]. #Emacs
++ [[https://github.com/VernonGrant/emacs-keyboard-shortcuts][Emacs keyboard shortcuts]]. ~ Vernon Grant (@Vernon_GR). #Emacs
+
 *** 05-Sep-22
 + [[https://arxiv.org/abs/2208.13731][Independence of the continuum hypothesis: An intuitive introduction]]. ~ Serafim Batzoglou. #Logic #Math #SetTheory
 + [[https://plato.stanford.edu/entries/settheory-alternative/][Alternative axiomatic set theories]]. ~ M. Randall Holmes. #Logic #Math #SetTheory
