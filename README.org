@@ -39,6 +39,13 @@ its content.
 
 ** Septiembre 2022
 
+*** 07-Sep-22
++ [[https://lawrencecpaulson.github.io//2022/09/07/Ackermann-not-PR-II.html][Ackermann's function is not primitive recursive, II]]. ~ Lawrence C. Paulson (@LawrPaulson). #ITP #IsabelleHOL #Logic #Math
++ [[https://dl.acm.org/doi/pdf/10.1145/3547621][Beyond Relooper: Recursive translation of unstructured control flow to structured control flow (Functional pearl)]]. ~ Norman Ramsey. #Haskell #FunctionalProgramming
++ [[https://arxiv.org/abs/2208.14724][Monadic expressions and their derivatives]]. ~ Samira Attou et als. #Haskell #FunctionalProgramming
++ [[https://medium.com/galileo-onwards/logic-puzzle-2-74e0166a4176][Two fun ways to solve a logic puzzle]]. ~ Vijay Lakshminarayanan #Prolog #Z3
++ [[https://slc.openlogicproject.org/][Sets, logic, computation (An open introduction to metalogic)]]. ~ Richard Zach. #eBook #Logic #Math
+
 *** 06-Sep-22
 + [[https://www3.risc.jku.at/publications/download/risc_6584/proceedings-CICM2022-informal.pd][Formalising the Krull Topology in Lean]]. ~ Sebastian Monnet.f#page=36 #ITP #LeanProver #Math
 + [[https://www3.risc.jku.at/publications/download/risc_6584/proceedings-CICM2022-informal.pd][Setting up set-theoretical foundations in Naproche]]. ~ Marcel Schütz, Adrian De Lon, Peter Koepke.f#page=58 #ITP #Naproche #IsabelleHOL #Math
