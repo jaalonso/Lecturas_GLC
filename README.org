@@ -39,6 +39,13 @@ its content.
 
 ** Septiembre 2022
 
+*** 08-Sep-22
++ [[https://www.ma.imperial.ac.uk/~buzzard/xena/pdfs/AITP_2022_FLT_talk.pdf][Formalising Fermat]]. ~ Kevin Buzzard (@XenaProject). #ITP #Math
++ [[https://www.isa-afp.org/browser_info/current/AFP/Khovanskii_Theorem/document.pdf][Khovanskii's theorem (in Isabelle/HOL)]]. ~ Angeliki Koutsoukou-Argyraki (@AngelikiKoutso1), Lawrence C. Paulson (@LawrPaulson). #ITP #IsabelleHOL #Math
++ [[https://www.isa-afp.org/browser_info/current/AFP/Number_Theoretic_Transform/document.pdf][Number theoretic transform (in Isabelle/HOL)]]. ~ Thomas Ammer, Katharina Kreuzer. #ITP #IsabelleHOL #Math
++ [[https://www.isa-afp.org/browser_info/current/AFP/Hales_Jewett/document.pd][The Hales–Jewett theorem (in Isabelle/HOL)]]. ~ Ujkan Sulejmani, Manuel Eberl (@pruvisto), Katharina Kreuzer.f#ITP #IsabelleHOL #Math
++ [[https://www.tweag.io/blog/2022-09-08-fp1-typopaedia-pythonica/][Functional Python, part I: Typopædia pythonica]]. ~ Christopher Harrison. #Python #FunctionalProgramming
+
 *** 07-Sep-22
 + [[https://lawrencecpaulson.github.io//2022/09/07/Ackermann-not-PR-II.html][Ackermann's function is not primitive recursive, II]]. ~ Lawrence C. Paulson (@LawrPaulson). #ITP #IsabelleHOL #Logic #Math
 + [[https://dl.acm.org/doi/pdf/10.1145/3547621][Beyond Relooper: Recursive translation of unstructured control flow to structured control flow (Functional pearl)]]. ~ Norman Ramsey. #Haskell #FunctionalProgramming
