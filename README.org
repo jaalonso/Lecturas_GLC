@@ -39,6 +39,15 @@ its content.
 
 ** Septiembre 2022
 
+*** 09-Sep-22
++ [[https://www.isa-afp.org/entries/SCC_Bloemen_Sequential.html][Correctness of a set-based algorithm for computing strongly connected components of a graph]]. ~ Stephan Merz, Vincent Trélat. #ITP #IsabelleHOL
++ [[https://typista.org/lean-for-scala-programmers/][Lean for Scala programmers - Part 1]]. ~ Juan Pablo Romero Méndez (@1jpablo1). #ITP #LeanProver #Scala
++ [[https://typista.org/lean-for-scala-programmers-2/][Lean for Scala programmers - Part 2]]. ~ Juan Pablo Romero Méndez (@1jpablo1). #ITP #LeanProver #Scala
++ [[https://stackoverflow.com/questions/73655347/haskell-style-recursive-lazy-list-in-python][Haskell-style recursive lazy list in Python]]. #Haskell #Python
++ [[https://mmhaskell.com/blog/2022/9/8/dijkstra-with-monads][Dijkstra with monads! ~ James Bowen (@james_OWA)]]. #Haskell #FunctionalProgramming
++ [[https://sonatsuer.github.io/linear-combinations-of-applicatives.html][Linear combinations of applicatives]]. ~ Sonat Süer (@sonatsuer). #Haskell #FunctionalProgramming
++ [[https://www.microsiervos.com/archivo/ordenadores/75-anos-primer-bug-informatico.html][75 años de la primera localización fehaciente de un bug informático]]. ~ @Wicho. #Informática
+
 *** 08-Sep-22
 + [[https://www.ma.imperial.ac.uk/~buzzard/xena/pdfs/AITP_2022_FLT_talk.pdf][Formalising Fermat]]. ~ Kevin Buzzard (@XenaProject). #ITP #Math
 + [[https://www.isa-afp.org/browser_info/current/AFP/Khovanskii_Theorem/document.pdf][Khovanskii's theorem (in Isabelle/HOL)]]. ~ Angeliki Koutsoukou-Argyraki (@AngelikiKoutso1), Lawrence C. Paulson (@LawrPaulson). #ITP #IsabelleHOL #Math
