@@ -39,6 +39,15 @@ its content.
 
 ** Septiembre 2022
 
+*** 10-Sep-22
++ [[https://arxiv.org/abs/2209.02345][Measure construction by extension in dependent type theory with application to integration]]. ~ Reynald Affeldt, Cyril Cohen. #ITP #Coq #Math
++ [[https://www.osti.gov/servlets/purl/1884906][Software Verification Toolkit (SVT): Survey on available software verification tools and future direction]]. ~ Nickolas A. Davis et als. #FormalVerification #ITP #Coq #HOL #LeanProver #IsabelleHOL
++ [[http://ceur-ws.org/Vol-3204/paper_22.pdf][Efficient theorem proving for conditional logics with conditional excluded middle]]. ~ Nikola Panic, Gian Luca Pozzato. #ATP #Prolog #LogicProgramming #Logic
++ [[http://ceur-ws.org/Vol-3204/paper_12.pdf][Logic programming library for machine learning: API design and prototype]]. ~ Giovanni Ciatto, Matteo Castigliò, Roberta Calegari. #MachineLearning #LogicProgramming
++ [[https://dnikolovv.github.io/practical-haskell-bits-initiative/][The "Practical Haskell Bits" initiative]]. ~ Dobromir Nikolov. #Haskell #FunctionalProgramming
++ [[https://arxiv.org/abs/2208.14755][Python type hints are Turing complete]]. ~ Ori Roth. #Python #Programming
++ [[https://notxor.nueva-actitud.org/2022/09/09/lenguajes-repelentes.html][Lenguajes repelentes]]. ~ Notxor. #Programación #Smalltalk #Lisp #Clojure #Erlang #TclTk #Python #JuliaLang #Haskell
+
 *** 09-Sep-22
 + [[https://www.isa-afp.org/entries/SCC_Bloemen_Sequential.html][Correctness of a set-based algorithm for computing strongly connected components of a graph]]. ~ Stephan Merz, Vincent Trélat. #ITP #IsabelleHOL
 + [[https://typista.org/lean-for-scala-programmers/][Lean for Scala programmers - Part 1]]. ~ Juan Pablo Romero Méndez (@1jpablo1). #ITP #LeanProver #Scala
