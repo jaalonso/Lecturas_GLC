@@ -39,6 +39,11 @@ its content.
 
 ** Septiembre 2022
 
+*** 11-Sep-22
++ [[https://arxiv.org/abs/2209.01886v1][A formal theory of choreographic programming]]. ~ Luís Cruz-Filipe, Fabrizio Montesi, Marco Peressotti. #ITP #Coq
++ [[https://arxiv.org/abs/2209.01259][Category theory for programming]]. ~ Benedikt Ahrens, Kobe Wullaert. #CategoryTheory #Haskell #FunctionalProgramming
++ [[https://eprints.ost.ch/id/eprint/1067/1/NicolasKarrer-HaskellAndWebAssembly.pdf][Haskell and WebAssembly (An introduction based on Asterius)]]. ~ Nicolas Karrer. #Haskell #FunctionalProgramming
+
 *** 10-Sep-22
 + [[https://arxiv.org/abs/2209.02345][Measure construction by extension in dependent type theory with application to integration]]. ~ Reynald Affeldt, Cyril Cohen. #ITP #Coq #Math
 + [[https://www.osti.gov/servlets/purl/1884906][Software Verification Toolkit (SVT): Survey on available software verification tools and future direction]]. ~ Nickolas A. Davis et als. #FormalVerification #ITP #Coq #HOL #LeanProver #IsabelleHOL
