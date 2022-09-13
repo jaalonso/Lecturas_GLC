@@ -39,6 +39,13 @@ its content.
 
 ** Septiembre 2022
 
+*** 12-Sep-22
++ [[https://xenaproject.wordpress.com/2022/09/12/beyond-the-liquid-tensor-experiment/][Beyond the Liquid Tensor Experiment]]. ~ Kevin Buzzard (@XenaProject). #ITP #LeanProver #Math
++ [[https://leanprover-community.github.io/blog/posts/month-in-mathlib-aug-2022/][This month in mathlib (Aug 2022)]]. #ITP #LeanProver #MathLib
++ [[https://dropbox.tech/application/our-journey-to-type-checking-4-million-lines-of-python][Our journey to type checking 4 million lines of Python]]. ~ Jukka Lehtosalo. #Python
++ [[https://fernand0.github.io/dropbox-python-comprobacion-tipos/][Dropbox, Python y la comprobación de tipos]]. ~ Fernando Tricas (@fernand0). #Python
++ [[https://youtu.be/18nZ5xMeGno][Getting started with mypy and type checking]]. ~ Jukka Lehtosalo (@JukkaLeh). #Python
+
 *** 11-Sep-22
 + [[https://arxiv.org/abs/2209.01886v1][A formal theory of choreographic programming]]. ~ Luís Cruz-Filipe, Fabrizio Montesi, Marco Peressotti. #ITP #Coq
 + [[https://arxiv.org/abs/2209.01259][Category theory for programming]]. ~ Benedikt Ahrens, Kobe Wullaert. #CategoryTheory #Haskell #FunctionalProgramming
