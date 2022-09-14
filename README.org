@@ -39,6 +39,16 @@ its content.
 
 ** Septiembre 2022
 
+*** 13-Sep-22
++ [[https://arxiv.org/abs/2209.00840][FOLIO: Natural language reasoning with first-order logic]]. ~ Simeng Han et als. #NL #Logic
++ [[https://youtu.be/RABzYje2d2A][Haskell course: Lesson 2: Data types, signatures, and polymorphism]]. ~ Robertino Martínez (@_roberm_). #Haskell #FunctionalProgramming
++ [[https://studenttheses.uu.nl/bitstream/handle/20.500.12932/42740/Jort_Thesis_Paper.pdf][Generic incremental computation for regular datatypes in Haskell]]. ~ Jort van Gorkum. #Haskell #FunctionalProgramming
++ [[https://blog.drewolson.org/easy-json][Easy JSON in Haskell]]. ~ Drew Olson. #Haskell #FunctionalProgramming
++ [[https://www.sicara.fr/blog-technique/mypy-remove-python-bugs][Mypy: get rid of Python bugs with static type-checking!]] ~ Achille Huet. #Python #Mypy
++ [[https://propertybasedtesting.com/learn-python/property-based-testing-intro-python-short/][Intro to property based testing (with Python Hypothesis)]]. ~ Shai Geva. #Python #Hypothesis
++ [[https://spdskatr.github.io/misc/pbt_presentation_short.pdf][Property-based testing: Getting computers to test your code for you]]. ~ Tunan Shi. #Python #Hypothesis #PBT
++ [[https://www.genbeta.com/desarrollo/antes-que-se-impusiera-python-estos-fueron-lenguajes-que-se-desarrollaba-inteligencia-artificial-1][Antes de que se impusiera Python, estos fueron los lenguajes con los que se desarrollaba inteligencia artificial]]. ~ Marcos Merino (@MarcosMerino_B). #IA #Lisp #Prolog
+
 *** 12-Sep-22
 + [[https://xenaproject.wordpress.com/2022/09/12/beyond-the-liquid-tensor-experiment/][Beyond the Liquid Tensor Experiment]]. ~ Kevin Buzzard (@XenaProject). #ITP #LeanProver #Math
 + [[https://leanprover-community.github.io/blog/posts/month-in-mathlib-aug-2022/][This month in mathlib (Aug 2022)]]. #ITP #LeanProver #MathLib
