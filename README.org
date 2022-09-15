@@ -39,6 +39,12 @@ its content.
 
 ** Septiembre 2022
 
+*** 14-Sep-22
++ [[https://www.isa-afp.org/entries/Separation_Logic_Unbounded.html][Unbounded separation logic (in Isabelle/HOL)]]. ~ Thibault Dardinier. #ITP #IsabelleHOL
++ [[https://lawrencecpaulson.github.io/2022/09/14/Libraries.html][Porting libraries of mathematics between proof assistants]]. ~ Lawrence C. Paulson (@LawrPaulson). #ITP #HOL_Light #IsabelleHOL
++ [[https://semantic.org/post/monadology-0-1/][Monadology 0]].1. ~ Ashley Yakeley. #Haskell #FunctionalProgramming
++ [[https://stopa.io/post/269][What Gödel discovered]]. ~ Stepan Parunashvili (@stopachka). #Logic #Math #Lisp #Programming
+
 *** 13-Sep-22
 + [[https://arxiv.org/abs/2209.00840][FOLIO: Natural language reasoning with first-order logic]]. ~ Simeng Han et als. #NL #Logic
 + [[https://youtu.be/RABzYje2d2A][Haskell course: Lesson 2: Data types, signatures, and polymorphism]]. ~ Robertino Martínez (@_roberm_). #Haskell #FunctionalProgramming
