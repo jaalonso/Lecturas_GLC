@@ -39,10 +39,14 @@ its content.
 
 ** Septiembre 2022
 
+*** 15-Sep-22
++ [[https://vikraman.org/files/qcont22.pdf][Scheme Pearl: Quantum continuations]]. ~ Vikraman Choudhury, Borislav Agapiev, Amr Sabry. #Scheme #FunctionalProgramming
++ [[https://realpython.com/replace-string-python/][How to replace a string in Python]]. ~ Ian Currie. #Python
+
 *** 14-Sep-22
 + [[https://www.isa-afp.org/entries/Separation_Logic_Unbounded.html][Unbounded separation logic (in Isabelle/HOL)]]. ~ Thibault Dardinier. #ITP #IsabelleHOL
 + [[https://lawrencecpaulson.github.io/2022/09/14/Libraries.html][Porting libraries of mathematics between proof assistants]]. ~ Lawrence C. Paulson (@LawrPaulson). #ITP #HOL_Light #IsabelleHOL
-+ [[https://semantic.org/post/monadology-0-1/][Monadology 0]].1. ~ Ashley Yakeley. #Haskell #FunctionalProgramming
++ [[https://semantic.org/post/monadology-0-1/][Monadology 0.1]]. ~ Ashley Yakeley. #Haskell #FunctionalProgramming
 + [[https://stopa.io/post/269][What Gödel discovered]]. ~ Stepan Parunashvili (@stopachka). #Logic #Math #Lisp #Programming
 
 *** 13-Sep-22
