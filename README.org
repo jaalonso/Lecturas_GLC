@@ -39,6 +39,11 @@ its content.
 
 ** Septiembre 2022
 
+*** 16-Sep-22
++ [[https://serokell.io/blog/dependent-types-with-david-christiansen][Functional futures: Dependent types with David Christiansen]]. ~ Jonn Mostovoy. #FunctionalProgramming
++ [[https://wasp-lang.dev/blog/2022/09/02/how-to-get-started-with-haskell-in-2022][How to get started with Haskell in 2022 (the straightforward way)]]. ~ Martin Šošić (@MartinSosic). #Haskell #FunctionalProgramming
++ [[https://well-typed.com/blog/2022/09/lockstep-with-quickcheck-dynamic/][Lockstep-style testing with quickcheck-dynamic]]. ~ Edsko de Vries. #Haskell #FunctionalProgramming
+
 *** 15-Sep-22
 + [[https://vikraman.org/files/qcont22.pdf][Scheme Pearl: Quantum continuations]]. ~ Vikraman Choudhury, Borislav Agapiev, Amr Sabry. #Scheme #FunctionalProgramming
 + [[https://realpython.com/replace-string-python/][How to replace a string in Python]]. ~ Ian Currie. #Python
