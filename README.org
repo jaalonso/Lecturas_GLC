@@ -39,6 +39,10 @@ its content.
 
 ** Septiembre 2022
 
+*** 17-Sep-22
++ [[https://www.cs.ru.nl/bachelors-theses/2022/Marten_Straatsma___1041007___Towards_Formalising_the_Isoperimetric_Theorem.pdf][Towards formalising the isoperimetric theorem]]. ~ Marten Straatsma. #ITP #HOL_Light #Math
++ [[https://i.cs.hku.hk/~bruno/papers/aplas22recursive.pdf][A calculus with recursive types, record concatenation and subtyping]]. ~ Yaoda Zhou, Bruno C. d. S. Oliveira, Andong Fan. #ITP #Coq
+
 *** 16-Sep-22
 + [[https://serokell.io/blog/dependent-types-with-david-christiansen][Functional futures: Dependent types with David Christiansen]]. ~ Jonn Mostovoy. #FunctionalProgramming
 + [[https://wasp-lang.dev/blog/2022/09/02/how-to-get-started-with-haskell-in-2022][How to get started with Haskell in 2022 (the straightforward way)]]. ~ Martin Šošić (@MartinSosic). #Haskell #FunctionalProgramming
