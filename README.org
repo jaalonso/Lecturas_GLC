@@ -39,6 +39,10 @@ its content.
 
 ** Septiembre 2022
 
+*** 18-Sep-22
++ [[https://gist.github.com/ttesmer/948df432cf46ec6db8c1e83ab59b1b21][Automatic Differentiation in 38 lines of Haskell]]. ~  Tammo Tesmer. #Haskell #FunctionalProgramming #Math
++ [[https://woodrush.github.io/blog/lambdalisp.html][LambdaLisp: A Lisp interpreter that runs on lambda calculus]]. ~ Hikaru Ikuta (@woodrush924). #Lisp #LambdaCalculus
+
 *** 17-Sep-22
 + [[https://www.cs.ru.nl/bachelors-theses/2022/Marten_Straatsma___1041007___Towards_Formalising_the_Isoperimetric_Theorem.pdf][Towards formalising the isoperimetric theorem]]. ~ Marten Straatsma. #ITP #HOL_Light #Math
 + [[https://i.cs.hku.hk/~bruno/papers/aplas22recursive.pdf][A calculus with recursive types, record concatenation and subtyping]]. ~ Yaoda Zhou, Bruno C. d. S. Oliveira, Andong Fan. #ITP #Coq
