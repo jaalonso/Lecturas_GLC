@@ -39,6 +39,13 @@ its content.
 
 ** Septiembre 2022
 
+*** 19-Sep-22
++ [[https://youtu.be/RldTMq1cOFw][Informal lecture on mathematical rigor and the Lean theorem prover]]. ~ Alex Kontorovich (@AlexKontorovich). #Math #ITP #LeanProver
++ [[https://leanprover.github.io/functional_programming_in_lean/type-classes.html][Functional programming in Lean: 3. Overloading and type classes]]. ~ David Thrane Christiansen. #ITP #LeanProver #FunctionalProgramming
++ [[https://youtu.be/G0XPELNZuws][Haskell Course: Lesson 3: Conditional & helper constructions]]. ~ Robertino Martínez (@_roberm_). #Haskell #FunctionalProgramming
++ [[https://iagoleal.com/posts/representable-memoize/][Memoization via representables]]. ~ Iago Leal de Freitas. #Haskell #FunctionalProgramming
++ [[https://www.scientificamerican.com/article/how-squishy-math-is-revealing-doughnuts-in-the-brain/][How squishy Math is revealing doughnuts in the brain (Topology, sometimes called rubber sheet geometry, is finding patterns in the brain, drugs and evolution)]]. ~ Kelsey Houston-Edwards. #Math
+
 *** 18-Sep-22
 + [[https://gist.github.com/ttesmer/948df432cf46ec6db8c1e83ab59b1b21][Automatic Differentiation in 38 lines of Haskell]]. ~  Tammo Tesmer. #Haskell #FunctionalProgramming #Math
 + [[https://woodrush.github.io/blog/lambdalisp.html][LambdaLisp: A Lisp interpreter that runs on lambda calculus]]. ~ Hikaru Ikuta (@woodrush924). #Lisp #LambdaCalculus
