@@ -39,6 +39,12 @@ its content.
 
 ** Septiembre 2022
 
+*** 20-Sep-22
++ [[https://www.researchgate.net/publication/363594933_Formalising_Basic_Topology_for_Computational_Logic_in_Simple_Type_Theory][Formalising basic topology for computational logic in simple type theory]]. ~ David Fuenmayor, Fabian Serrano. #ITP #IsabelleHOL #Math
++ [[https://www.mat.unb.br/ayala/TeoremaHall.pdf][Hall’s theorem for enumerable families of finite sets]]. ~ Fabián Fernando Serrano Suárez, Mauricio Ayala-Rincón, Thaynara Arielly de Lima. #ITP #IsabelleHOL #Math
++ [[https://perso.univ-rennes1.fr/sebastien.gouezel/articles/change_variables.pdf][A formalization of the change of variables formula for integrals in mathlib]]. ~ Sébastien Gouëzel. #ITP #LeanProver #Math
++ [[https://www.isa-afp.org/browser_info/current/AFP/Implicational_Logic/document.pdf][Soundness and completeness of implicational logic (in Isabelle/HOL)]]. ~ Asta Halkjær From, Jørgen Villadsen. #ITP #IsabelleHOL #Logic #Math
+
 *** 19-Sep-22
 + [[https://youtu.be/RldTMq1cOFw][Informal lecture on mathematical rigor and the Lean theorem prover]]. ~ Alex Kontorovich (@AlexKontorovich). #Math #ITP #LeanProver
 + [[https://leanprover.github.io/functional_programming_in_lean/type-classes.html][Functional programming in Lean: 3. Overloading and type classes]]. ~ David Thrane Christiansen. #ITP #LeanProver #FunctionalProgramming
