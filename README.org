@@ -39,6 +39,10 @@ its content.
 
 ** Septiembre 2022
 
+*** 21-Sep-22
++ [[https://yairchu.github.io/posts/leet-haskell-in-python][Leet Haskell-style lazy evaluation in Python]]. ~ Yair Chuchem (@yairchu). #Haskell #Python
++ [[https://blog.poisson.chat/posts/2022-09-21-quantified-constraint-trick.html][The quantified constraint trick]]. ~ Li-yao Xia (@lysxia). #Haskell #FunctionalProgramming
+
 *** 20-Sep-22
 + [[https://www.researchgate.net/publication/363594933_Formalising_Basic_Topology_for_Computational_Logic_in_Simple_Type_Theory][Formalising basic topology for computational logic in simple type theory]]. ~ David Fuenmayor, Fabian Serrano. #ITP #IsabelleHOL #Math
 + [[https://www.mat.unb.br/ayala/TeoremaHall.pdf][Hall’s theorem for enumerable families of finite sets]]. ~ Fabián Fernando Serrano Suárez, Mauricio Ayala-Rincón, Thaynara Arielly de Lima. #ITP #IsabelleHOL #Math
