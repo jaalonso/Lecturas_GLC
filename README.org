@@ -39,6 +39,13 @@ its content.
 
 ** Septiembre 2022
 
+*** 22-Sep-22
++ [[https://www.isa-afp.org/entries/Padic_Field.html][P-adic fields and p-adic semialgebraic sets]]. ~ Aaron Crighton. #ITP #IsabelleHOL #Math
++ [[https://arxiv.org/abs/2209.10278v1][An automatically verified prototype of the Android permissions system]]. ~ Maximiliano Cristiá, Guido De Luca, Carlos Luna. #ITP #Coq #Android
++ [[https://github.com/mvr/at][Effective algebraic topology in Haskell]]. ~ Mitchell Riley. #Haskell #FunctionalProgramming #Math
++ [[https://www.slideshare.net/ScottWlaschin/the-power-of-composition-ndc-oslo-2020][The power of composition]]. ~ Scott Wlaschin (@ScottWlaschin). #FunctionalProgramming
++ [[https://static1.squarespace.com/static/60a513af4c6b1805bccf3ffd/t/6315c09d8f71a31aac3005cd/1662369950629/Samuel+Frontull+Christina+Kohl+Fabian+Mitterwallner+Paradoxes+Essay.pdf][The lambda calculus: Historical developments]]. ~ Samuel Frontull, Christina Kohl, Fabian Mitterwallner. #LambdaCalculus
+
 *** 21-Sep-22
 + [[https://yairchu.github.io/posts/leet-haskell-in-python][Leet Haskell-style lazy evaluation in Python]]. ~ Yair Chuchem (@yairchu). #Haskell #Python
 + [[https://blog.poisson.chat/posts/2022-09-21-quantified-constraint-trick.html][The quantified constraint trick]]. ~ Li-yao Xia (@lysxia). #Haskell #FunctionalProgramming
