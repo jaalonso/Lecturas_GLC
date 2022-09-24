@@ -39,6 +39,14 @@ its content.
 
 ** Septiembre 2022
 
+*** 23-Sep-22
++ [[https://arxiv.org/abs/2209.10978][A first complete algorithm for real quantifier elimination in Isabelle/HOL]]. ~ Katherine Kosaian, Yong Kiam Tan, André Platzer. #ITP #IsabelleHOL #Math
++ [[https://ar5iv.labs.arxiv.org/html/2207.07499][Formalising Szemerédi’s regularity lemma and Roth’s theorem on arithmetic progressions in Isabelle/HOL]]. ~ Chelsea Edmonds, Angeliki Koutsoukou-Argyraki, Lawrence C. Paulson. #ITP #IsabelleHOL #Math
++ [[https://ar5iv.labs.arxiv.org/html/2207.12699][Teaching functional programmers logic and metatheory]]. ~ Frederik Krogsdal Jacobsen, Jørgen Villadsen. #ITP #IsabelleHOL #LogicMath #Teaching
++ [[https://ar5iv.labs.arxiv.org/html/1910.01697][A Henkin-style completeness proof for the modal logic S5]]. ~ Bruno Bentzen. #ITP #LeanProver #LogicMath
++ [[https://ar5iv.labs.arxiv.org/html/2103.03930][Logical foundations: Personal perspective]]. ~ Yuri Gurevich. #Logic
++ [[https://python-bloggers.com/2022/09/automatically-sort-python-module-imports-using-isort/][Automatically sort Python module imports using isort]]. ~ PyShark. #Python
+
 *** 22-Sep-22
 + [[https://www.isa-afp.org/entries/Padic_Field.html][P-adic fields and p-adic semialgebraic sets]]. ~ Aaron Crighton. #ITP #IsabelleHOL #Math
 + [[https://arxiv.org/abs/2209.10278v1][An automatically verified prototype of the Android permissions system]]. ~ Maximiliano Cristiá, Guido De Luca, Carlos Luna. #ITP #Coq #Android
