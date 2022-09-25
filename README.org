@@ -39,6 +39,17 @@ its content.
 
 ** Septiembre 2022
 
+*** 24-Sep-22
++ [[https://wlp2022.dfki.de/data/papers/005.pdf][A Jupyter kernel for Prolog]]. ~ Anne Brecklinghaus, Philipp Körner. #Prolog #LogicProgramming #Jupyter
++ [[https://arxiv.org/abs/2209.07936][PA-Boot: A formally verified authentication protocol for multiprocessor secure boot]]. ~ Zhuoruo Zhang et als. #ITP #IsabelleHOL
++ [[https://wasp-lang.dev/blog/2022/08/26/how-and-why-i-got-started-with-haskell][How and why I got started with Haskell]]. ~ Shayne Czyzewski (@shayneczyzewski). #Haskell #FunctionalProgramming
++ [[https://repository.upenn.edu/edissertations/5111/][Mechanized reasoning about "how" using functional programs and embeddings]]. ~ Yao Li. #ITP #Coq
++ [[https://mathb.in/72823][MathB.in: A mathematics pastebin written in Common Lisp]]. ~ @susam  #Math #LaTeX #CommonLisp
++ [[https://notes.crmarsh.com/using-mypy-in-production-at-spring][Using Mypy in production at Spring]]. ~ Charlie Marsh (@charliermarsh). #Python #Mypy
++ [[https://blog.wolt.com/engineering/2021/09/30/professional-grade-mypy-configuration/][Professional-grade mypy configuration]]. ~ Jerry Pussinen. #Python #Mypy
++ [[https://repository.upenn.edu/edissertations/5348/][Executable denotational semantics with interaction trees]]. ~ Li-Yao Xia. #ITP #Coq
++ [[https://www.math.nagoya-u.ac.jp/~garrigue/papers/ml2022.pdf][Interpreting OCaml GADTs into Coq]]. ~ Jacques Garrigue,  Takafumi Saikawa. #ITP #Coq
+
 *** 23-Sep-22
 + [[https://arxiv.org/abs/2209.10978][A first complete algorithm for real quantifier elimination in Isabelle/HOL]]. ~ Katherine Kosaian, Yong Kiam Tan, André Platzer. #ITP #IsabelleHOL #Math
 + [[https://ar5iv.labs.arxiv.org/html/2207.07499][Formalising Szemerédi’s regularity lemma and Roth’s theorem on arithmetic progressions in Isabelle/HOL]]. ~ Chelsea Edmonds, Angeliki Koutsoukou-Argyraki, Lawrence C. Paulson. #ITP #IsabelleHOL #Math
