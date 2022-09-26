@@ -39,6 +39,13 @@ its content.
 
 ** Septiembre 2022
 
+*** 25-Sep-22
++ [[https://www.cs.ru.nl/bachelors-theses/2022/Sander_Suverkropp___s1019051___Towards_a_Formalization_of_Lsharp_in_Coq.pdf][Towards a formalization of L# in Coq]]. ~ Sander Suverkropp. #ITP #Coq
++ [[https://repository.upenn.edu/edissertations/5376/][Testing by dualization]]. ~ Yishuai Li. #ITP #Coq
++ [[https://research.vu.nl/en/publications/implementation-of-higher-order-superposition][Implementation of higher-order superposition]]. ~ Petar Vukmirovic. #ATP #Logic
++ [[https://arxiv.org/abs/2209.09471][A tool for describing and checking natural semantics]]. ~ Georgian-Vlad Saioc, Hans Hüttel. #Haskell #FunctionalProgramming
++ [[https://yairchu.github.io/posts/a-simple-challenge-for-haskellers][A simple challenge for Haskellers]]. ~ Yair Chuchem (@yairchu). #Haskell #FunctionalProgramming
+
 *** 24-Sep-22
 + [[https://wlp2022.dfki.de/data/papers/005.pdf][A Jupyter kernel for Prolog]]. ~ Anne Brecklinghaus, Philipp Körner. #Prolog #LogicProgramming #Jupyter
 + [[https://arxiv.org/abs/2209.07936][PA-Boot: A formally verified authentication protocol for multiprocessor secure boot]]. ~ Zhuoruo Zhang et als. #ITP #IsabelleHOL
