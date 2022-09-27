@@ -39,6 +39,11 @@ its content.
 
 ** Septiembre 2022
 
+*** 26-Sep-22
++ [[https://dl.acm.org/doi/10.1145/3543670][Formal verification of transcendental fixed- and floating-point algorithms using an automatic theorem prover]]. ~ Samuel Coward, Lawrence Paulson, Theo Drane, Emiliano Morini. #ITP #IsabelleHOL #Math
++ [[https://www.en.pms.ifi.lmu.de/publications/projektarbeiten/Jakob.Pippig/BA_Jakob.Pippig.pdf][An introduction to Answer Set Programming and its applications]]. ~ Jakob Pippig. #ASP #LogicProgramming
++ [[https://blog.drewolson.org/hello-world-haskell][Hello World Haskell]]. ~ Drew Olson. #Haskell #FunctionalProgramming
+
 *** 25-Sep-22
 + [[https://www.cs.ru.nl/bachelors-theses/2022/Sander_Suverkropp___s1019051___Towards_a_Formalization_of_Lsharp_in_Coq.pdf][Towards a formalization of L# in Coq]]. ~ Sander Suverkropp. #ITP #Coq
 + [[https://repository.upenn.edu/edissertations/5376/][Testing by dualization]]. ~ Yishuai Li. #ITP #Coq
