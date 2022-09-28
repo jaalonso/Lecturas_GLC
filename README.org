@@ -39,6 +39,12 @@ its content.
 
 ** Septiembre 2022
 
+*** 27-Sep-22
++ [[https://ut3-toulouseinp.hal.science/hal-03782650/document][Bel-games: A formal theory of games of incomplete information based on belief functions in the Coq proof assistant]]. ~ Pierre Pomeret-Coquot, Hélène Fargier, Érik Martin-Dorel. #ITP #Coa
++ [[https://www.isa-afp.org/browser_info/current/AFP/Stalnaker_Logic/document.pdf][Stalnaker's epistemic logic (in Isabelle/HOL)]]. ~ Laura P. Gamboa Guzman. #ITP #IsabelleHOL #Logic
++ [[https://mmhaskell.com/blog/2022/9/26/using-ghcup][Using GHCup!]] ~ James Bowen (@james_OWA). #Haskell #FunctionalProgramming
++ [[https://bit.ly/3E4JhWO][Conjetura de Fuglede]]. ~ Juan Arias de Reyna. #Matemáticas
+
 *** 26-Sep-22
 + [[https://dl.acm.org/doi/10.1145/3543670][Formal verification of transcendental fixed- and floating-point algorithms using an automatic theorem prover]]. ~ Samuel Coward, Lawrence Paulson, Theo Drane, Emiliano Morini. #ITP #IsabelleHOL #Math
 + [[https://www.en.pms.ifi.lmu.de/publications/projektarbeiten/Jakob.Pippig/BA_Jakob.Pippig.pdf][An introduction to Answer Set Programming and its applications]]. ~ Jakob Pippig. #ASP #LogicProgramming
