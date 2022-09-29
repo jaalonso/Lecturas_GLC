@@ -39,6 +39,13 @@ its content.
 
 ** Septiembre 2022
 
+*** 28-Sep-22
++ [[https://youtu.be/wTPfqpbFPQk][Basic concepts for functional programming]]. ~ Adolfo Neto (@adolfont). #FunctionalProgramming
++ [[https://youtu.be/saYk2hGb108][Basic concepts for functional programming 2: Arity and types]]. ~ Adolfo Neto (@adolfont). #FunctionalProgramming
++ [[https://github.com/adolfont/caes005-introduction-to-functional-programming][Introduction to functional programming]]. ~ Adolfo Neto (@adolfont). #FunctionalProgramming
++ [[https://youtu.be/sQPGN4b95DU][Haskell Course: Lesson 4: Pattern matching and case expressions ~ Robertino Martínez (@_roberm_)]]. #Haskell #FunctionalProgramming
++ [[https://serokell.io/blog/haskell-in-production-noredink][Haskell in production: NoRedInk]]. #Haskell #FunctionalProgramming
+
 *** 27-Sep-22
 + [[https://ut3-toulouseinp.hal.science/hal-03782650/document][Bel-games: A formal theory of games of incomplete information based on belief functions in the Coq proof assistant]]. ~ Pierre Pomeret-Coquot, Hélène Fargier, Érik Martin-Dorel. #ITP #Coa
 + [[https://www.isa-afp.org/browser_info/current/AFP/Stalnaker_Logic/document.pdf][Stalnaker's epistemic logic (in Isabelle/HOL)]]. ~ Laura P. Gamboa Guzman. #ITP #IsabelleHOL #Logic
