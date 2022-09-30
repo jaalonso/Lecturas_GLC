@@ -39,6 +39,12 @@ its content.
 
 ** Septiembre 2022
 
+*** 29-Sep-22
++ [[https://lawrencecpaulson.github.io//2022/09/28/Cambridge_LCF.html][Memories: Edinburgh LCF, Cambridge LCF, HOL88]]. ~ Lawrence C. Paulson (@LawrPaulson). #ITP
++ [[https://arxiv.org/abs/2209.14133][Towards a verified prover for a ground fragment of set theory]]. ~ Lukas Stevens. #ITP #IsabelleHOL #Math #SetTheory
++ [[https://arxiv.org/abs/2209.13894][The Isabelle Community Benchmark]]. ~ Fabian Huch, Vincent Bode. #ITP #IsabelleHOL
++ [[https://bertrandmeyer.com/2022/09/28/introduction-theory-programming-languages-full-book-now-freely-available/][Introduction to the "Theory of Programming Languages": full book now freely available]]. ~ Bertrand Meyer. #Programming
+
 *** 28-Sep-22
 + [[https://youtu.be/wTPfqpbFPQk][Basic concepts for functional programming]]. ~ Adolfo Neto (@adolfont). #FunctionalProgramming
 + [[https://youtu.be/saYk2hGb108][Basic concepts for functional programming 2: Arity and types]]. ~ Adolfo Neto (@adolfont). #FunctionalProgramming
