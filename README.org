@@ -39,6 +39,14 @@ its content.
 
 ** Septiembre 2022
 
+*** 30-Sep-22
++ [[https://www.isa-afp.org/entries/Safe_Range_RC.html][Making arbitrary relational calculus queries safe-range]]. ~ Martin Raszyk, Dmitriy Traytel. #ITP #IsabelleHOL
++ [[https://youtu.be/tXg4nbPACPc][The logic languages of the TPTP World]]. ~ Geoff Sutcliffe. #ATP #TPTP #Logic
++ [[https://yairchu.github.io/posts/reduce-sharing-in-haskell][3 ways to reduce sharing in Haskell]]. ~ Yair Chuchem (@yairchu). #Haskell #FunctionalProgramming
++ [[https://www.bleepingcomputer.com/news/security/unpatched-15-year-old-python-bug-allows-code-execution-in-350k-projects/][Unpatched 15-year old Python bug allows code execution in 350k projects]]. ~ Ionut Ilascu. #Python
++ [[https://arxiv.org/abs/2209.14974][Greybox XAI: A neural-symbolic learning framework to produce interpretable predictions for image classification]]. ~ Adrien Bennetot, Gianni Franchi, Javier Del Ser, Raja Chatila, Natalia Diaz-Rodriguez. #XAI #DeepLearning #NeuralNetwork
++ [[https://notxor.nueva-actitud.org/2022/09/29/toda-la-ayuda-de-emacs.html][Toda la ayuda de Emacs]]. ~ Notxor. #Emacs
+
 *** 29-Sep-22
 + [[https://lawrencecpaulson.github.io//2022/09/28/Cambridge_LCF.html][Memories: Edinburgh LCF, Cambridge LCF, HOL88]]. ~ Lawrence C. Paulson (@LawrPaulson). #ITP
 + [[https://arxiv.org/abs/2209.14133][Towards a verified prover for a ground fragment of set theory]]. ~ Lukas Stevens. #ITP #IsabelleHOL #Math #SetTheory
