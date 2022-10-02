@@ -11,6 +11,7 @@ its content.
 
 * Content                                                                      :TOC:
 - [[#readings-of-the-year-2022][Readings of the year 2022]]
+  - [[#octubre-2022][Octubre 2022]]
   - [[#septiembre-2022][Septiembre 2022]]
   - [[#agosto-2022][Agosto 2022]]
   - [[#julio-2022][Julio 2022]]
@@ -36,6 +37,18 @@ its content.
 - [[#previous-readings][Previous readings]]
 
 * Readings of the year 2022
+
+** Octubre 2022
+
+*** 01-Oct-22
++ [[https://www.isa-afp.org/entries/Maximum_Segment_Sum.html][Maximum segment sum (in Isabelle/HOL)]]. ~ Nils Cremer, Tobias Nipkow. #ITP #IsabelleHOL #Algorithms
++ [[https://books.google.es/books?id=wvuLEAAAQBAJ&lpg=PR5&ots=GZTivlm9jS&dq=%22logic%20Programming%22%20OR%20%22functional%20programming%22&lr&hl=es&pg=PP][Exploring formalisation: A primer in human-readable mathematics in Lean 3 with examples from simplicial topology]]. ~ Clara Löh.1#v=onepage&q&f=false #ITP #LeanProver #Math
++ [[https://macsphere.mcmaster.ca/bitstream/11375/27875/2/AaronCrightonThesisFinal.pdf][Explorations in p-adic model theory]]. ~ Aaron Crighton. #PhDThesis #ITP #IsabelleHOL #Math
++ [[https://www21.in.tum.de/~traytel/papers/ictac22-verimon/verimon.pdf][VeriMon: A formally verified monitoring tool]]. ~ David Basin et als. #ITP #IsabelleHOL
++ [[https://dl.acm.org/doi/pdf/10.1145/3564619][The tortoise and the hare algorithm for finite lists, compositionally]]. ~ Olivier Danvy. #ITP #Coq #Algorithms
++ [[https://www.logicmatters.net/2022/09/30/avigad-on-mathematical-logic-and-computation/][Avigad on Mathematical Logic and Computation]]. ~ Peter Smith. #Book #Logic #Math
++ [[https://bit.ly/3rjIQ3u][Mathematical Logic and Computation]]. ~ Jeremy Avigad. #Logic #Math
++ [[https://spectrum.ieee.org/floating-point-numbers-posits-processo][Posits, a new kind of number, improves the Math of AI]]. ~ Dina- Genkina.r#toggle-gdpr #CompSci #AI
 
 ** Septiembre 2022
 
