@@ -40,6 +40,10 @@ its content.
 
 ** Octubre 2022
 
+*** 03-Oct-22
++ [[https://arxiv.org/abs/2209.15492][Formalized class group computations and integral points on Mordell elliptic curves]]. ~ Anne Baanen, Alex J. Best, Nirvana Coppola, Sander R. Dahmen. #ITP #LeanProver #Math
++ [[https://arxiv.org/abs/2110.09290][The AI triplet: Computational, conceptual, and mathematical knowledge in AI education]]. ~ Maithilee Kunda. #AI
+
 *** 02-Oct-22
 + [[https://www.isa-afp.org/entries/Undirected_Graph_Theory.html][Undirected graph theory (in Isabelle/HOL)]]. ~ Chelsea Edmonds. #ITP #IsabelleHOL #Math
 + [[https://www.ccs.neu.edu/home/pete/pub/fmcad-2022.pdf][Enumerative data types with constraints]]. ~ Andrew T. Walter, David Greve, Panagiotis Manolios. #ITP #ACL2
