@@ -40,6 +40,12 @@ its content.
 
 ** Octubre 2022
 
+*** 04-Oct-22
++ [[https://arxiv.org/abs/2209.14227][FV Time: a formally verified Coq library]]. ~ Ana de Almeida Borges, Mireia González Bedmar, Juan Conejero Rodríguez, Eduardo Hermo Reyes, Joaquim Casals Buñuel, Joost J. Joosten. #ITP #Coq
++ [[https://www.cambridge.org/core/services/aop-cambridge-core/content/view/CE55ACA989A03E9073540DCCEBA4E89C/S0956796822000107a.pdf/foldunfold_lemmas_for_reasoning_about_recursive_programs_using_the_coq_proof_assistant.pdf][Fold–unfold lemmas for reasoning about recursive programs using the Coq proof assistant]]. ~ Olivier Danv. #ITP #Coq
++ [[https://is.muni.cz/th/t7wl3/cheetah_bachelor__23__Archive.pdf][Categorical view of monads in Computer Science]]. ~ Vít Jelínek. #CategoryTheory #Haskell #FunctionalProgramming
++ [[https://mmhaskell.com/blog/2022/10/3/haskell-and-visual-studio][Haskell and Visual Studio]]. ~ James Bowen (@james_OWA). #Haskell #FunctionalProgramming
+
 *** 03-Oct-22
 + [[https://arxiv.org/abs/2209.15492][Formalized class group computations and integral points on Mordell elliptic curves]]. ~ Anne Baanen, Alex J. Best, Nirvana Coppola, Sander R. Dahmen. #ITP #LeanProver #Math
 + [[https://arxiv.org/abs/2110.09290][The AI triplet: Computational, conceptual, and mathematical knowledge in AI education]]. ~ Maithilee Kunda. #AI
