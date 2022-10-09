@@ -40,6 +40,9 @@ its content.
 
 ** Octubre 2022
 
+*** 05-Oct-22
++ [[https://youtu.be/Sh8kJ0ADmao][El Teorema de los 4 colores]]. ~ Urtzi Buijs (@UrtziBuijs).  #Matemáticas
+
 *** 04-Oct-22
 + [[https://arxiv.org/abs/2209.14227][FV Time: a formally verified Coq library]]. ~ Ana de Almeida Borges, Mireia González Bedmar, Juan Conejero Rodríguez, Eduardo Hermo Reyes, Joaquim Casals Buñuel, Joost J. Joosten. #ITP #Coq
 + [[https://www.cambridge.org/core/services/aop-cambridge-core/content/view/CE55ACA989A03E9073540DCCEBA4E89C/S0956796822000107a.pdf/foldunfold_lemmas_for_reasoning_about_recursive_programs_using_the_coq_proof_assistant.pdf][Fold–unfold lemmas for reasoning about recursive programs using the Coq proof assistant]]. ~ Olivier Danv. #ITP #Coq
