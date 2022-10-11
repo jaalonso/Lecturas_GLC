@@ -40,6 +40,16 @@ its content.
 
 ** Octubre 2022
 
+*** 09-Oct-22
++ [[https://www.researchgate.net/publication/364091557_Towards_Formalising_Schutz'_Axioms_for_Minkowski_Spacetime_in_IsabelleHOL][Towards formalising Schutz’ axioms for Minkowski spacetime in Isabelle/HOL]]. ~ Richard Schmoetten, Jake E. Palmer, Jacques D. Fleuriot. #ITP #IsabelleHOL
++ [[https://www.isa-afp.org/entries/Query_Optimization.html][Verification of query optimization algorithms (in Isabelle/HOL)]]. ~ Lukas Stevens, Bernhard Stöckl. #ITP #IsabelleHOL
++ [[https://jesper.sikanda.be/posts/agda2hs.html][Don't worry (about writing Haskell), be happy (writing Agda instead)! ~ Jesper Cockx (@agdakx)]]. #Agda #Haskell #FunctionalProgramming
++ [[https://pp.ipd.kit.edu/uploads/publikationen/b%C3%BClow22bachelorarbeit.pdf][Proof visualization for the Lean 4 theorem prover]]. ~ Niklas Fabian Bülow. #ITP #LeanProver
++ [[https://macsphere.mcmaster.ca/bitstream/11375/27914/2/Moore_Nicholas_CC_202209_PhD.pdf][An encoding of the clock cycle semantics of Bluespec System Verilog in PVS]]. ~ Nicholas Clifford Charles Moore. #ITP #PVS
++ [[https://mmhaskell.com/blog/2022/10/6/advent-of-code-seven-segment-logic-puzzle][Advent of Code: Seven segment logic puzzle]]. ~ James Bowen (@james_OWA). #Haskell #FunctionalProgramming
++ [[https://www.lavanguardia.com/vida/20221007/8557564/ia-deepmind-halla-nueva-forma-multiplicar-matrices-acelerar-calculos.html][Una IA de DeepMind halla una nueva forma de multiplicar números y acelerar los ordenadores]]. ~ Mayte Rius. #DeepLearning #Math
++ [[https://www.nature.com/articles/s41586-022-05172-4][Discovering faster matrix multiplication algorithms with reinforcement learning]]. ~ Alhussein Fawzi et als. #DeepLearning #Math
+
 *** 05-Oct-22
 + [[https://youtu.be/Sh8kJ0ADmao][El Teorema de los 4 colores]]. ~ Urtzi Buijs (@UrtziBuijs).  #Matemáticas
 
