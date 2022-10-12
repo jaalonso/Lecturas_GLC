@@ -40,6 +40,12 @@ its content.
 
 ** Octubre 2022
 
+*** 11-Oct-22
++ [[https://serokell.io/blog/haskell-in-production-caribou][Haskell in production: Caribou]]. #Haskell #FunctionalProgramming
++ [[https://monadic.systems/post7][Haskell Server Pages With Okapi]]. #Haskell #FunctionalProgramming
++ [[https://www.joachim-breitner.de/blog/796-rec-def__Minesweeper_case_study][rec-def: Minesweeper case study]]. ~ Joachim Breitner (@nomeata). #Haskell #FunctionalProgramming
++ [[https://youtu.be/mwKeVuOyZsU][Minmaxing Slay the Spire with Haskell]]. ~ Gabriella Gonzalez (@GabriellaG439). #Haskell #FunctionalProgramming
+
 *** 09-Oct-22
 + [[https://www.researchgate.net/publication/364091557_Towards_Formalising_Schutz'_Axioms_for_Minkowski_Spacetime_in_IsabelleHOL][Towards formalising Schutz’ axioms for Minkowski spacetime in Isabelle/HOL]]. ~ Richard Schmoetten, Jake E. Palmer, Jacques D. Fleuriot. #ITP #IsabelleHOL
 + [[https://www.isa-afp.org/entries/Query_Optimization.html][Verification of query optimization algorithms (in Isabelle/HOL)]]. ~ Lukas Stevens, Bernhard Stöckl. #ITP #IsabelleHOL
