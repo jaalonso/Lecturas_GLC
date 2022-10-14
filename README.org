@@ -40,6 +40,10 @@ its content.
 
 ** Octubre 2022
 
+*** 13-Oct-22
++ [[https://books.google.es/books?id=R5h-EAAAQBAJ&lpg=PP1&dq=Mathematical%20Logic%20through%20Python&hl=es&pg=PP][Mathematical Logic through Python]]. ~ Yannai A. Gonczarowski, Noam Nisan.1#v=onepage&q&f=false #Logic #Math #Python
++ [[https://static.miraheze.org/isacwiki/2/2f/Paper-Isabelle-WS22.pdf][Towards accessible formal mathematics with ISAC and Isabelle/VSCode]]. ~ Walther Neuper, Bernhard Stöger, Makarius Wenze. #ITP IsabelleHOL
+
 *** 12-Oct-22
 + [[https://arxiv.org/abs/2210.05342][Formalizing May's Theorem]]. ~ Kwing Hei Li. #ITP #Coq #Math
 + [[https://arxiv.org/abs/2210.05225][A formalisation of a Fast Fourier Transform]]. ~ Laurent Théry. #ITP #Coq #Math
