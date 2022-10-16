@@ -40,6 +40,10 @@ its content.
 
 ** Octubre 2022
 
+*** 15-Oct-22
++ [[https://leanprover-community.github.io/blog/posts/lte-examples/][Definitions in the liquid tensor experiment]]. ~ Adam Topaz. #ITP #LeanProver #Math
++ [[https://www.bbc.com/mundo/noticias-44085063][El enigma resuelto hace 300 años por el matemático Leonhard Euler que hoy nos permite acceder a internet]]. ~ Marcus du Sautoy. #Matemáticas
+
 *** 14-Oct-22
 + [[https://leanprover-community.github.io/flt-regular/index.html][Fermat’s Last Theorem for regular primes]]. ~ Riccardo Brasca (@RiccardoBrasca) et als. #ITP #LeanProver #Math
 + [[https://leanprover-community.github.io/blog/posts/month-in-mathlib-sep-2022/][This month in mathlib (Sep 2022)]]. #ITP #LeanProver #MathLib
