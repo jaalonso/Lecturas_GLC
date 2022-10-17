@@ -40,6 +40,9 @@ its content.
 
 ** Octubre 2022
 
+*** 16-Oct-22
++ [[https://gdevanla.github.io/posts/write-a-parser-combinator-in-python.html][Minimal parser combinator in Python]]. ~ Guru Devanla. #Python
+
 *** 15-Oct-22
 + [[https://leanprover-community.github.io/blog/posts/lte-examples/][Definitions in the liquid tensor experiment]]. ~ Adam Topaz. #ITP #LeanProver #Math
 + [[https://www.bbc.com/mundo/noticias-44085063][El enigma resuelto hace 300 años por el matemático Leonhard Euler que hoy nos permite acceder a internet]]. ~ Marcus du Sautoy. #Matemáticas
