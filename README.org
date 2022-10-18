@@ -40,6 +40,11 @@ its content.
 
 ** Octubre 2022
 
+*** 17-Oct-22
++ [[https://arxiv.org/abs/2210.07746][Formalising the h-principle and sphere eversion]]. ~ Patrick Massot, Floris van Doorn, Oliver Nash. #ITP #LeanProver #Math
++ [[https://davidamos.dev/tree-traversals-and-anagrams-python/][Tree traversals and anagrams in Python]]. ~ David Amos. #Python
++ [[https://hal.archives-ouvertes.fr/hal-03648357/file/INDRUM2022_Bartzia_et_al.pdf][Proof assistants for undergraduate mathematics and computer science education: elements of a priori analysis]]. ~ Evmorfia Bartzia, Antoine Meyer, Julien Narboux. #ITP
+
 *** 16-Oct-22
 + [[https://gdevanla.github.io/posts/write-a-parser-combinator-in-python.html][Minimal parser combinator in Python]]. ~ Guru Devanla. #Python
 
