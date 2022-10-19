@@ -40,6 +40,12 @@ its content.
 
 ** Octubre 2022
 
+*** 18-Oct-22
++ [[https://www.tweag.io/blog/2022-10-18-monad-bayes-fellowship/][Improving the probabilistic programming language Monad-Bayes]]. ~ Reuben Cohn-Gordon. #Haskell #FunctionalProgramming
++ [[https://github.com/keithfancher/haskell-notes/blob/master/haskell-notes.md][Notes of a Haskell beginner]]. ~ keithfancher. #Haskell #FunctionalProgramming
++ [[https://doisinkidney.com/posts/2022-10-17-lazy-group-on.html][Lazily grouping in Haskell]]. ~ Donnacha Oisín Kidney (@oisdk). #Haskell #FunctionalProgramming
++ [[https://samgeo.codes/blog/python-types/][Musings on Python type hints]]. ~ Samuel Eisenhandler (@sgeisenh). #Python #MyPy
+
 *** 17-Oct-22
 + [[https://arxiv.org/abs/2210.07746][Formalising the h-principle and sphere eversion]]. ~ Patrick Massot, Floris van Doorn, Oliver Nash. #ITP #LeanProver #Math
 + [[https://davidamos.dev/tree-traversals-and-anagrams-python/][Tree traversals and anagrams in Python]]. ~ David Amos. #Python
