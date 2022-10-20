@@ -40,6 +40,11 @@ its content.
 
 ** Octubre 2022
 
+*** 19-Oct-22
++ [[https://lawrencecpaulson.github.io//2022/10/19/crypto-protocols.html][Verifying cryptographic protocols, I: Fundamentals]]. ~ Lawrence C. Paulson (@LawrPaulson). #ITP #FormalVerification
++ [[https://blog.plover.com/prog/haskell/lazy-search.html][Tree search in Haskell]]. ~ Mark Dominus. #Haskell #FunctionalProgramming
++ [[https://elbear.com/functional-programming-principles-you-can-use-in-python.html][Functional programming principles you can use in Python]]. ~ Lucian Ursu. #Python #FunctionalProgramming
+
 *** 18-Oct-22
 + [[https://www.tweag.io/blog/2022-10-18-monad-bayes-fellowship/][Improving the probabilistic programming language Monad-Bayes]]. ~ Reuben Cohn-Gordon. #Haskell #FunctionalProgramming
 + [[https://github.com/keithfancher/haskell-notes/blob/master/haskell-notes.md][Notes of a Haskell beginner]]. ~ keithfancher. #Haskell #FunctionalProgramming
