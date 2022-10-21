@@ -40,6 +40,16 @@ its content.
 
 ** Octubre 2022
 
+*** 20-Oct-22
++ [[https://cs.famaf.unc.edu.ar/~pedro/forcing/independence_ch_isabelle.pdf][The formal verification of the ctm approach to forcing]]. ~ Emmanuel Gunther, Miguel Pagano, Pedro Sánchez Terraf, Matías Steinberg. #ITP #IsabelleZF #Logic #Math #SetTheory
++ [[http://cl-informatik.uibk.ac.at/teaching/ss22/itpIsa/slides/01x1.pdf][Interactive Theorem Proving using Isabelle/HOL (Session 1)]]. ~ René Thiemann. #ITP #IsabelleHOL
++ [[https://arxiv.org/abs/2210.07693][Designing a general library for convolutions]]. ~ Floris van Doorn. #ITP #LeanProver #Math
++ [[https://youtu.be/2PGUt_dcHX0][[Haskell'22] Industrial strength laziness: What's next?]] ~ David Thrane Christiansen (@d_christiansen). #Haskell #FunctionalProgramming
++ [[https://www.haskellforall.com/2022/10/what-does-isomorphic-mean-in-haskell.html][What does "isomorphic" mean (in Haskell)?]] ~ Gabriella Gonzalez (@GabriellaG439). #Haskell #FunctionalProgramming
++ [[https://www.tweag.io/blog/2022-10-20-bazel-example-servant-elm-1/][Converting a polyglot project build to Bazel: part 1]]. ~ Karol Czułkowski. #Haskell #FunctionalProgramming
++ [[https://cacm.acm.org/magazines/2019/5/236426-quantum-hype-and-quantum-skepticism/fulltext][Quantum hype and quantum skepticism]]. ~ Moshe Y. Vardi. #CompSci
++ [[https://inventwithpython.com/pythongently/][Python programming exercises, gently explained]]. ~ Al Sweigart. #eBook #Python
+
 *** 19-Oct-22
 + [[https://lawrencecpaulson.github.io//2022/10/19/crypto-protocols.html][Verifying cryptographic protocols, I: Fundamentals]]. ~ Lawrence C. Paulson (@LawrPaulson). #ITP #FormalVerification
 + [[https://blog.plover.com/prog/haskell/lazy-search.html][Tree search in Haskell]]. ~ Mark Dominus. #Haskell #FunctionalProgramming
