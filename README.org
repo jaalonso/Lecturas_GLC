@@ -40,6 +40,9 @@ its content.
 
 ** Octubre 2022
 
+*** 22-Oct-22
++ [[https://youtube.com/playlist?list=PLahUDl6AAwrjLvD5G4dZdkmXnGknydf8i][Vídeos de las charlas de PyConES 2022]]. #Python
+
 *** 21-Oct-22
 + [[https://arxiv.org/abs/2006.01613][Classical set theory: Theory of sets and classes]]. ~ Taras Banakh. #Ebook #Logic #Math #SetTheory
 + [[https://youtube.com/playlist?list=PLyrlk8Xaylp4zxdY-QEh_g6CHlhkAsBya][Haskell Symposium 2022 recorded talks]]. #Haskell #FunctionalProgramming
