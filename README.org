@@ -40,6 +40,18 @@ its content.
 
 ** Octubre 2022
 
+*** 23-Oct-22
++ [[https://people.mpi-sws.org/~bbb/papers/pdf/rtss22.pdf][From intuition to Coq: A case study in verified response-time analysis of FIFO scheduling]]. ~ Kimaya Bedarkar et als. #ITP #Coq
++ [[https://arxiv.org/abs/2210.09476v1][Contextuality in distributed systems]]. ~ Nasos Evangelou-Oost, Callum Bannister, Ian J. Hayes. #ITP #IsabelleHOL
++ [[http://www.fields.utoronto.ca/talks/Abstract-Formalities][Abstract formalities (Reflections on the Liquid Tensor Experiment)]]. ~ Johan Commelin. #ITP #LeanProver #Math
++ [[http://www.fields.utoronto.ca/talks/What-can-working-mathematician-expect-deep-learning][What can the working mathematician expect from deep learning?]] ~ Geordie Williamson. #DeepLearning #Math
++ [[http://www.fields.utoronto.ca/talks/mathematical-interest-just-matter-taste][Is mathematical interest just a matter of taste?]]. ~ Timothy Gowers. #ITP #Math
++ [[http://www.fields.utoronto.ca/talks/What-makes-proof-acceptable][What makes a proof acceptable?]]. ~ Andrew Granville. #ITP #Math
++ [[http://www.fields.utoronto.ca/talks/Varieties-Mathematical-Understanding][Varieties of mathematical understanding]]. ~ Jeremy Avigad. #Math
++ [[https://github.com/Youjack/thermodynamics.lean][Formalization of thermodynamics in Lean]]. ~ Youjack. #ITP #LeanProver
++ [[https://notxor.nueva-actitud.org/2022/10/23/control-de-versiones.html][Control de versiones]]. ~ Notxor. #Git
++ [[https://www.lemonde.fr/blog/binaire/2022/10/21/philosophie-de-linformatique/][Philosophie de ... l’informatique!]] #CompSci #Philosophy
+
 *** 22-Oct-22
 + [[https://youtube.com/playlist?list=PLahUDl6AAwrjLvD5G4dZdkmXnGknydf8i][Vídeos de las charlas de PyConES 2022]]. #Python
 
