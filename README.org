@@ -40,6 +40,11 @@ its content.
 
 ** Octubre 2022
 
+*** 24-Oct-22
++ [[https://arxiv.org/abs/2205.08232][LogicSolver: Towards interpretable Math word problem solving with logical prompt-enhanced learning]]. ~ Zhicheng Yang, Jinghui Qin, Jiaqi Chen, Liang Lin, Xiaodan Liang. #DeepLearning #Math
++ [[https://arxiv.org/abs/2210.1215][Formalizing chemical theory using the Lean Theorem Prover]]. ~ Maxwell P. Bobbin, Samiha Sharlin, Parivash Feyzishendi, An Hong Dang, Catherine M. Wraback, Tyler R. Josephson.0# #ITP #LeanProver
++ [[https://arxiv.org/abs/2210.11820][A drag-and-drop proof tactic]]. ~ Pablo Donato, Pierre-Yves Strub, Benjamin Werner. #ITP #Logic
+
 *** 23-Oct-22
 + [[https://people.mpi-sws.org/~bbb/papers/pdf/rtss22.pdf][From intuition to Coq: A case study in verified response-time analysis of FIFO scheduling]]. ~ Kimaya Bedarkar et als. #ITP #Coq
 + [[https://arxiv.org/abs/2210.09476v1][Contextuality in distributed systems]]. ~ Nasos Evangelou-Oost, Callum Bannister, Ian J. Hayes. #ITP #IsabelleHOL
