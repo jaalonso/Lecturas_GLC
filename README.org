@@ -40,6 +40,10 @@ its content.
 
 ** Octubre 2022
 
+*** 25-Oct-22
++ [[https://topos.site/topos-colloquium/slides/2022-10-06.pdf][The new era of formalised mathematics and the Alexandria project]]. ~ Angeliki Koutsoukou-Argyraki (@AngelikiKoutso1) #ITP #IsabelleHOL #Math
++ [[https://spectrum.ieee.org/functional-programming][Why functional programming should be the future of software development]]. ~ Charles Scalfani. #FunctionalProgramming
+
 *** 24-Oct-22
 + [[https://arxiv.org/abs/2205.08232][LogicSolver: Towards interpretable Math word problem solving with logical prompt-enhanced learning]]. ~ Zhicheng Yang, Jinghui Qin, Jiaqi Chen, Liang Lin, Xiaodan Liang. #DeepLearning #Math
 + [[https://arxiv.org/abs/2210.1215][Formalizing chemical theory using the Lean Theorem Prover]]. ~ Maxwell P. Bobbin, Samiha Sharlin, Parivash Feyzishendi, An Hong Dang, Catherine M. Wraback, Tyler R. Josephson.0# #ITP #LeanProver
