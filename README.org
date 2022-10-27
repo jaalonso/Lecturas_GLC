@@ -40,6 +40,13 @@ its content.
 
 ** Octubre 2022
 
+*** 26-Oct-22
++ [[https://arxiv.org/abs/2210.11411v1][Holbert: Reading, writing, proving and learning in the browser]]. ~ Liam O'Connor, Rayhana Amjad. #ITP #Logic #Haskell #FunctionalProgramming
++ [[https://github.com/liamoc/holbert][Holbert: A graphical interactive proof assistant designed for education]]. ~ Liam O'Connor et als. #ITP #Logic #Haskell #FunctionalProgramming
++ [[https://www.proquest.com/openview/516ba6ed291ccabf00b79dcdb055e343/1.pdf?pq-origsite=gscholar&cbl=18750&diss=y][Formal verification of top-down parser interpreters]]. ~ Sam Lasser. #ITP #Coq #PhDThesis
++ [[https://memocode2022.github.io/images/paper4240.pdf][Mechanization of a large DSML: An experiment with AADL and Coq]]. ~ Jérôme Hugues, Lutz Wrage, John Hatcliff, Danielle Stewart. #ITP #Coq
++ [[https://youtu.be/sgwMndM0MZs][Cómo resolver problemas | Polya y el teorema de Desargues]]. ~ Urtzi Buijs (@UrtziBuijs). #Matemáticas
+
 *** 25-Oct-22
 + [[https://topos.site/topos-colloquium/slides/2022-10-06.pdf][The new era of formalised mathematics and the Alexandria project]]. ~ Angeliki Koutsoukou-Argyraki (@AngelikiKoutso1) #ITP #IsabelleHOL #Math
 + [[https://spectrum.ieee.org/functional-programming][Why functional programming should be the future of software development]]. ~ Charles Scalfani. #FunctionalProgramming
