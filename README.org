@@ -40,6 +40,11 @@ its content.
 
 ** Octubre 2022
 
+*** 27-Oct-22
++ [[https://lawrencecpaulson.github.io//2022/10/26/Multiset-Ordering.html][Proving termination with multiset orderings]]. ~ Lawrence C. Paulson (@LawrPaulson). #ITP #IsabelleHOL
++ [[https://arxiv.org/abs/2210.12283][Draft, sketch, and prove: Guiding formal theorem provers with informal proofs]]. ~ Albert Q. Jiang, Sean Welleck, Jin Peng Zhou, Wenda Li, Jiacheng Liu, Mateja Jamnik, Timothée Lacroix, Yuhuai Wu, Guillaume Lample. #ITP #IsabelleHOL
++ [[http://ceur-ws.org/Vol-3249/paper1-FOUST.pdf][Foundational ontologies meet automatic theorem provers]]. ~ Pawel Garbacz. #ATP #Prover9
+
 *** 26-Oct-22
 + [[https://arxiv.org/abs/2210.11411v1][Holbert: Reading, writing, proving and learning in the browser]]. ~ Liam O'Connor, Rayhana Amjad. #ITP #Logic #Haskell #FunctionalProgramming
 + [[https://github.com/liamoc/holbert][Holbert: A graphical interactive proof assistant designed for education]]. ~ Liam O'Connor et als. #ITP #Logic #Haskell #FunctionalProgramming
