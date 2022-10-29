@@ -40,6 +40,9 @@ its content.
 
 ** Octubre 2022
 
+*** 28-Oct-22
++ [[http://comonad.com/reader/2022/internalized-guarded-recursion-for-equational-reasoning/][Internalized guarded recursion for equational reasoning]]. ~ Gershom Bazerma. #Haskell #FunctionalProgramming
+
 *** 27-Oct-22
 + [[https://lawrencecpaulson.github.io//2022/10/26/Multiset-Ordering.html][Proving termination with multiset orderings]]. ~ Lawrence C. Paulson (@LawrPaulson). #ITP #IsabelleHOL
 + [[https://arxiv.org/abs/2210.12283][Draft, sketch, and prove: Guiding formal theorem provers with informal proofs]]. ~ Albert Q. Jiang, Sean Welleck, Jin Peng Zhou, Wenda Li, Jiacheng Liu, Mateja Jamnik, Timothée Lacroix, Yuhuai Wu, Guillaume Lample. #ITP #IsabelleHOL
