@@ -40,6 +40,11 @@ its content.
 
 ** Octubre 2022
 
+*** 29-Oct-22
++ [[https://macsphere.mcmaster.ca/bitstream/11375/28050/2/Ray_Lekhani_2022October_MSc.pdf][Formalization of biform theories in Isabelle]]. ~ Lekhani Ray. #ITP #IsabelleHOL
++ [[https://eprints.ucm.es/id/eprint/75214/1/Paula_Pastor_P%C3%A9rez%20(1).pdf][Verification of greedy algorithms in Dafny]]. ~ Paula Eugenia Pastor Pérez. #FormalVerification #Dafny
++ [[https://dependenttyp.es/pdf/oramproposal.pdf][Towards formally verified path ORAM in Coq]]. ~ Hannah Leung, Talia Ringer, Christopher W. Fletcher. #ITP #Coq
+
 *** 28-Oct-22
 + [[http://comonad.com/reader/2022/internalized-guarded-recursion-for-equational-reasoning/][Internalized guarded recursion for equational reasoning]]. ~ Gershom Bazerma. #Haskell #FunctionalProgramming
 
