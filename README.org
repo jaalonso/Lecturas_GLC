@@ -40,6 +40,11 @@ its content.
 
 ** Octubre 2022
 
+*** 30-Oct-22
++ [[https://leanprover.github.io/functional_programming_in_lean/title.htmlhttps://leanprover.github.io/functional_programming_in_lean/title.html][Functional programming in Lean]]. ~ David Thrane Christiansen. #Lean4 #FunctionalProgramming
++ [[https://arxiv.org/abs/2208.10492][Improving counterexample quality from failed program verification]]. ~ Li Huang, Bertrand Meyer, Manuel Oriol. #FormalVerification
++ [[https://github.com/jworr/happy][Implementation of a DSL (Domain Specific Language) using Happy]]. ~ J. Walker Orr. #Haskell #FunctionalProgramming
+
 *** 29-Oct-22
 + [[https://macsphere.mcmaster.ca/bitstream/11375/28050/2/Ray_Lekhani_2022October_MSc.pdf][Formalization of biform theories in Isabelle]]. ~ Lekhani Ray. #ITP #IsabelleHOL
 + [[https://eprints.ucm.es/id/eprint/75214/1/Paula_Pastor_P%C3%A9rez%20(1).pdf][Verification of greedy algorithms in Dafny]]. ~ Paula Eugenia Pastor Pérez. #FormalVerification #Dafny
