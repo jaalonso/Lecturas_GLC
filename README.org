@@ -40,6 +40,9 @@ its content.
 
 ** Octubre 2022
 
+*** 31-Oct-22
++ [[https://arxiv.org/abs/2107.12908][Digital collections of examples in mathematical sciences]]. ~ James Harold Davenport. #Math
+
 *** 30-Oct-22
 + [[https://leanprover.github.io/functional_programming_in_lean/title.htmlhttps://leanprover.github.io/functional_programming_in_lean/title.html][Functional programming in Lean]]. ~ David Thrane Christiansen. #Lean4 #FunctionalProgramming
 + [[https://arxiv.org/abs/2208.10492][Improving counterexample quality from failed program verification]]. ~ Li Huang, Bertrand Meyer, Manuel Oriol. #FormalVerification
