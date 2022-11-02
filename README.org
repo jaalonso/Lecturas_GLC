@@ -11,6 +11,7 @@ its content.
 
 * Content                                                                      :TOC:
 - [[#readings-of-the-year-2022][Readings of the year 2022]]
+  - [[#noviembre-2022][Noviembre 2022]]
   - [[#octubre-2022][Octubre 2022]]
   - [[#septiembre-2022][Septiembre 2022]]
   - [[#agosto-2022][Agosto 2022]]
@@ -37,6 +38,16 @@ its content.
 - [[#previous-readings][Previous readings]]
 
 * Readings of the year 2022
+
+** Noviembre 2022
+
+*** 01-Nov-22
++ [[https://cjquines.com/files/curryhoward.pdf][Curry–Howard by example]]. ~ Carl Joshua Quines. #Logic #CompSci via @FunctorFact
++ [[https://lovettsoftware.com/NaturalNumbers/TutorialWorld.lean.html][Natural numbers tutorial]]. ~ Chris Lovett et als. #ITP #Lean4 #Math
++ [[https://300.f22.matthewrobertballard.com/][HNRS: Transition to Advanced Mathematics (Thinking and communicating like a mathematician)]]. ~ Matthew Ballard. #ITP #LeanProver #Math
++ [[https://favonia.org/files/mugen.pdf][An order-theoretic analysis of universe polymorphism]]. ~ Kuen-Bang Hou, Carlo Angiuli, Reed Mullanix. #ITP #Agda
++ [[https://www.dylanamartin.com/2022/10/31/use-newtypes-for-typesafe-data-validation-with-aeson.html ][Data validation in Haskell with newtypes, smart constructors, and aeson]]. ~ Dylan Martin. #Haskell #FunctionalProgramming
+
 
 ** Octubre 2022
 
