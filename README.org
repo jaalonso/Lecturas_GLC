@@ -41,6 +41,10 @@ its content.
 
 ** Noviembre 2022
 
+*** 02-Nov-22
++ [[https://www.cis.upenn.edu/~jean/math-deep.pdf][Algebra, topology, differential calculus, and optimization theory for computer science and machine learning]]. ~ Jean Gallier, Jocelyn Quaintance. #eBook #Math #CompSci #MachineLearning
++ [[https://www.reddit.com/r/haskell/comments/yjxfol/haskell_is_the_greatest_programming_language_of/][Haskell is the greatest programming language of all time]]. #Haskell #FunctionalProgramming
+
 *** 01-Nov-22
 + [[https://cjquines.com/files/curryhoward.pdf][Curry–Howard by example]]. ~ Carl Joshua Quines. #Logic #CompSci via @FunctorFact
 + [[https://lovettsoftware.com/NaturalNumbers/TutorialWorld.lean.html][Natural numbers tutorial]]. ~ Chris Lovett et als. #ITP #Lean4 #Math
