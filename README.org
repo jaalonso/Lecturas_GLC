@@ -41,6 +41,13 @@ its content.
 
 ** Noviembre 2022
 
+*** 03-Nov-22
++ [[https://lawrencecpaulson.github.io/2022/11/02/crypto-protocols-NS.html][Verifying cryptographic protocols, II: a simple example]]. ~ Lawrence C. Paulson (@LawrPaulson). #ITP #IsabelleHOL
++ [[https://www.vice.com/en/article/y3pezm/scientists-increasingly-cant-explain-how-ai-works][Scientists increasingly can’t explain how AI works]]. ~ Chloe Xiang (@chloexiang). #AI #XAI #DeepLearning
++ [[https://philarchive.org/archive/YAMUAI][Unexplainability and incomprehensibility of Artificial Intelligence]]. ~ Roman V. Yampolskiy. #AI #XAI #DeepLearning
++ [[https://towardsdatascience.com/a-gentle-introduction-to-branch-bound-d00a4ee1cad][A gentle introduction to branch & bound (The most fundamental integer and mixed-integer programming algorithm explained with Python)]]. ~ Bruno Scalia C. F. Leite. #Python #Math
++ [[https://www.johndcook.com/blog/2022/11/02/keplers-equation-python/][Python code to solve Kepler’s equation]]. ~ John D. Cook (@JohnDCook). #Python #Math
+
 *** 02-Nov-22
 + [[https://www.cis.upenn.edu/~jean/math-deep.pdf][Algebra, topology, differential calculus, and optimization theory for computer science and machine learning]]. ~ Jean Gallier, Jocelyn Quaintance. #eBook #Math #CompSci #MachineLearning
 + [[https://www.reddit.com/r/haskell/comments/yjxfol/haskell_is_the_greatest_programming_language_of/][Haskell is the greatest programming language of all time]]. #Haskell #FunctionalProgramming
