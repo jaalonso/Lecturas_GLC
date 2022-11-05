@@ -41,6 +41,12 @@ its content.
 
 ** Noviembre 2022
 
+*** 04-Nov-22
++ [[https://pythonspeed.com/articles/old-fashioned-software-optimized/][Good old-fashioned code optimization never goes out of style]]. ~ Itamar Turner-Trauring. #Python #Programming
++ [[https://bit.ly/3fDbv15][La hipótesis de Riemann y la Física]]. ~ Juan Arias de Reyna. #Matemáticas
++ [[https://arxiv.org/abs/1006.4131][A pedagogical history of compactness]]. ~ Manya Raman-Sundstrom. #Math
++ [[https://dl.acm.org/doi/pdf/10.1145/3563306][Data-driven lemma synthesis for interactive proofs]]. ~ Aishwarya Sivaraman et als. #ITP #Coq
+
 *** 03-Nov-22
 + [[https://lawrencecpaulson.github.io/2022/11/02/crypto-protocols-NS.html][Verifying cryptographic protocols, II: a simple example]]. ~ Lawrence C. Paulson (@LawrPaulson). #ITP #IsabelleHOL
 + [[https://www.vice.com/en/article/y3pezm/scientists-increasingly-cant-explain-how-ai-works][Scientists increasingly can’t explain how AI works]]. ~ Chloe Xiang (@chloexiang). #AI #XAI #DeepLearning
