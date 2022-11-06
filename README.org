@@ -41,6 +41,11 @@ its content.
 
 ** Noviembre 2022
 
+*** 5-Nov-22
++ [[https://blog.plover.com/prog/haskell/numbers.html][A map of Haskell's numeric types]]. ~ Mark Dominus. #Haskell #FunctionalProgramming
++ [[https://kevin-da-silva.medium.com/one-problem-five-solutions-zip-function-ad1ed3bd1f16][One problem five solutions: Zip function]]. ~ Kevin Da Silva. #Haskell #Elixir #JavaScript #Python #Vlang
++ [[https://www.nature.com/articles/475166a][The unplanned impact of mathematics]]. ~ Peter Rowlett. #Math
+
 *** 04-Nov-22
 + [[https://pythonspeed.com/articles/old-fashioned-software-optimized/][Good old-fashioned code optimization never goes out of style]]. ~ Itamar Turner-Trauring. #Python #Programming
 + [[https://bit.ly/3fDbv15][La hipótesis de Riemann y la Física]]. ~ Juan Arias de Reyna. #Matemáticas
