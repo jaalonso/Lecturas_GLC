@@ -41,6 +41,9 @@ its content.
 
 ** Noviembre 2022
 
+*** 07-Nov-22
++ [[https://blog.adrianistan.eu/acertijo-cebra][El acertijo de la cebra]]. ~ Adrián Arroyo Calle. #Prolog #LogicProgramming
+
 *** 5-Nov-22
 + [[https://blog.plover.com/prog/haskell/numbers.html][A map of Haskell's numeric types]]. ~ Mark Dominus. #Haskell #FunctionalProgramming
 + [[https://kevin-da-silva.medium.com/one-problem-five-solutions-zip-function-ad1ed3bd1f16][One problem five solutions: Zip function]]. ~ Kevin Da Silva. #Haskell #Elixir #JavaScript #Python #Vlang
