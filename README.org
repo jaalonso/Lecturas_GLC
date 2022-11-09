@@ -41,6 +41,12 @@ its content.
 
 ** Noviembre 2022
 
+*** 08-Nov-22
++ [[https://www.tweag.io/blog/2022-11-08-functional-programming-from-sets-and-functions/][Functional programming from sets and functions]]. ~ Marco Perone. #Haskell #FunctionalProgramming
++ [[https://www.youtube.com/playlist?list=PLyrlk8Xaylp5d8nboeHcddtF8VdF5Zqp0][Videos of talks from Scheme Workshop 2022]]. #Scheme #FunctionalProgramming
++ [[https://youtu.be/tSYL-ricWLg][Using emacs and org-mode to teach programming]]. ~ Daniel M German. #Emacs #OrgMode #Programming
++ [[https://www.lemonde.fr/blog/binaire/2022/11/06/ia-explicable-ia-interpretable-voyage-dans-les-archives-binaires/][IA explicable, IA interpretable: voyage dans les archives Binaires]]. ~ Marie-Agnès Enard, Pascal Guitton, Thierry Viéville. #AI #XAI via @Blog_Binaire
+
 *** 07-Nov-22
 + [[https://blog.adrianistan.eu/acertijo-cebra][El acertijo de la cebra]]. ~ Adrián Arroyo Calle. #Prolog #LogicProgramming
 
