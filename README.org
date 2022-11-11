@@ -41,6 +41,12 @@ its content.
 
 ** Noviembre 2022
 
+*** 10-Nov-22
++ [[https://youtu.be/ColY2dknvJs][Alternative by example: A typeclass for parsing, concurrency, logic programming]]. ~ Chris Penner. #Haskell #FunctionalProgramming
++ [[https://www.tweag.io/blog/2022-11-10-learning-games-with-rllib/][Reinforcement learning for open games]]. ~ Georgios Karachalias, Noon van der Silk. #Haskell #FunctionalProgramming
++ [[https://youtube.com/playlist?list=PLBqWQH1MiwBTwo2wrwINAorzXRumxO41s][Videos from Haskell Love 2021]]. #Haskell #FunctionalProgramming
++ [[https://hacklewayne.com/one-recursion-for-all-catamorphism-step-by-step][One recursion for all! Catamorphism step by step]]. ~ Hackle Wayne (@hacklew). #Haskell #FunctionalProgramming
+
 *** 09-Nov-22
 + [[https://lawrencecpaulson.github.io/2022/11/09/Hilbert-Isabelle.html][(Hilbert, Isabelle) and more universal pairs]]. ~ Marco David. #ITP #IsabelleHOL #Math
 + [[https://www.quantamagazine.org/deepmind-machine-learning-becomes-a-mathematical-collaborator-20220215/][Machine learning becomes a mathematical collaborator]]. ~ Kelsey Houston-Edwards. #Math #AI #MachineLearning
