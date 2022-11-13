@@ -41,6 +41,9 @@ its content.
 
 ** Noviembre 2022
 
+*** 12-Nov-22
++ [[https://pldb.com/posts/scottFalhmanInterview.html][A brief interview with Common Lisp creator Dr. Scott Fahlman]]. #CompSci
+
 *** 10-Nov-22
 + [[https://youtu.be/ColY2dknvJs][Alternative by example: A typeclass for parsing, concurrency, logic programming]]. ~ Chris Penner. #Haskell #FunctionalProgramming
 + [[https://www.tweag.io/blog/2022-11-10-learning-games-with-rllib/][Reinforcement learning for open games]]. ~ Georgios Karachalias, Noon van der Silk. #Haskell #FunctionalProgramming
