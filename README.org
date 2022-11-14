@@ -41,6 +41,12 @@ its content.
 
 ** Noviembre 2022
 
+*** 13-Nov-22
++ [[https://camilocs.substack.com/p/la-claridad-es-la-cortesia-del-buen?sd=pf][La claridad es la cortesía del buen programador]]. Camilo Chacón Sartori (@camilo_chacon_s). #Programación
++ [[https://micromath.wordpress.com/2022/11/12/are-mathematicians-gifted-people/][Are mathematicians gifted people?]] ~ Alexandre Borovik. #Math
++ [[http://www.borovik.net/selecta/wp-content/uploads/2015/08/Borovik_Makers_and_Users__Prepublication_2017.pdf][Mathematics for makers and mathematics for users]]. ~ Alexandre Borovik. #Math
++ [[https://www.info.ucl.ac.be/~pvr/Peter.thesis/Peter.thesis.html][Can logic programming execute as fast as imperative programming?]] ~ Peter Lodewijk Van Roy (@PeterLodewijk). #Prolog #LogicProgramming
+
 *** 12-Nov-22
 + [[https://pldb.com/posts/scottFalhmanInterview.html][A brief interview with Common Lisp creator Dr. Scott Fahlman]]. #CompSci
 
