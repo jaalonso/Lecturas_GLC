@@ -41,6 +41,9 @@ its content.
 
 ** Noviembre 2022
 
+*** 14-Nov-22
++ [[https://camilocs.substack.com/p/la-informatica-subjetiva-bajo-el?r=3vd4r][La informática subjetiva: bajo el manto del «depende»]]. ~ Camilo Chacón Sartori (@camilo_chacon_s). #Informática #Programación #MétodosFormales
+
 *** 13-Nov-22
 + [[https://camilocs.substack.com/p/la-claridad-es-la-cortesia-del-buen?sd=pf][La claridad es la cortesía del buen programador]]. Camilo Chacón Sartori (@camilo_chacon_s). #Programación
 + [[https://micromath.wordpress.com/2022/11/12/are-mathematicians-gifted-people/][Are mathematicians gifted people?]] ~ Alexandre Borovik. #Math
