@@ -41,6 +41,11 @@ its content.
 
 ** Noviembre 2022
 
+*** 16-Nov-22
++ [[https://masot.net/semiperm/wra_hatra22.pdf][A short survey of weak reasoning assistants]]. ~ Matthew Sotoudeh. #ITP #Math
++ [[https://arxiv.org/abs/2211.05700][Translating proofs from an impredicative type system to a predicative one]]. ~ Thiago Felicissimo, Frédéric Blanqui, Ashish Kumar Barnawal. #ITP
++ [[https://www.tweag.io/blog/2022-11-15-unrolling-with-typeclasses/][Staged programming with typeclasses]]. ~ Thomas Bagrel. #Haskell #FunctionalProgramming
+
 *** 15-Nov-22
 + [[https://www.isa-afp.org/browser_info/current/AFP/Combinatorial_Enumeration_Algorithms/document.pdf][Combinatorial enumeration algorithms (in Isabelle/HOL)]]. ~ Paul Hofmeier, Emin Karayel. #ITP #IsabelleHOL #Math #Algorithms
 + [[https://youtu.be/-wj-eCGv1D4][Formalising algebraic geometry, lecture 1/4]]. ~ Kevin Buzzard (@XenaProject). #ITP #LeanProver #Math
