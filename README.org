@@ -41,6 +41,12 @@ its content.
 
 ** Noviembre 2022
 
+*** 17-Nov-22
++ [[https://www.isa-afp.org/entries/Balog_Szemeredi_Gowers.html][The Balog–Szemerédi–Gowers theorem]]. ~ Angeliki Koutsoukou-Argyraki, Mantas Bakšys, Chelsea Edmonds. #ITP #IsabelleHOL #Math
++ [[https://github.com/hsinhaoyu/why_functional][Examples of John Hughes' "Why Functional Programming Matters" implemented in Python]]. ~ Hsin-Hao Yu. #Python #OrgMode #LiterateProgramming
++ [[https://hsinhaoyu.github.io/cont_frac][Understanding Bill Gosper's continued fraction arithmetic (implemented in Python)]]. ~ Hsin-Hao Yu./#org3062e9b #Python #OrgMode #LiterateProgramming
++ [[https://youtu.be/mAZC1w_VfEs][Haskell Course: Lesson 8: Creating non-parameterized types]]. ~ Robertino Martínez (@_roberm_). #Haskell #FunctionalProgramming
+
 *** 16-Nov-22
 + [[https://masot.net/semiperm/wra_hatra22.pdf][A short survey of weak reasoning assistants]]. ~ Matthew Sotoudeh. #ITP #Math
 + [[https://arxiv.org/abs/2211.05700][Translating proofs from an impredicative type system to a predicative one]]. ~ Thiago Felicissimo, Frédéric Blanqui, Ashish Kumar Barnawal. #ITP
