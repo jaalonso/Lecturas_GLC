@@ -41,6 +41,16 @@ its content.
 
 ** Noviembre 2022
 
+*** 18-Nov-22
++ [[https://lawrencecpaulson.github.io/2022/11/16/automation_eng_in_math.html][Automation and engineering in mathematics]]. ~ Pedro Sánchez Terraf. #ITP #IsabelleHOL #Math
++ [[https://cs.famaf.unc.edu.ar/~pedro/conjunteoria/apunte_st.pdf][Conjunteoría (apuntes de teoría de conjuntos)]]. ~ Pedro Sánchez Terraf. #Math #SetTheory
++ [[https://cs.famaf.unc.edu.ar/~pedro/conjunteoria/][Curso de teoría de conjuntos]]. ~ Pedro Sánchez Terraf. #Math #SetTheory
++ [[https://cs.famaf.unc.edu.ar/~pedro/teornum.pdf][Apuntes de teoría de números (cómo cocinar un problema)]]. ~ Pedro Sánchez Terra. #Math
++ [[https://arxiv.org/abs/2211.07524][Towards a mathematics formalisation assistant using large language models]]. ~ Ayush Agrawal, Siddhartha Gadgil, Navin Goyal, Ashvni Narayanan, Anand Tadipatri. #ITP #LeanProver #Autoformalisation
++ [[https://www.isa-afp.org/entries/PAPP_Impossibility.html][The incompatibility of strategy-proofness and representation in party-approval multi-winner elections]]. ~ Théo Delemazure, Tom Demeulemeester, Manuel Eberl, Jonas Israel, Patrick Lederer. #ITP #IsabelleHOL
++ [[https://serokell.io/blog/datakinds-are-not-what-you-think][DataKinds are not what you think]]. ~ Vladislav Zavialov. #Haskell #FunctionalProgramming
++ [[https://wimvanderbauwhede.github.io/articles/decluttering-with-functional-programming/][Cleaner code with functional programming]]. ~ Wim Vanderbauwhede. #FunctionalProgramming #Python #Raku
+
 *** 17-Nov-22
 + [[https://www.isa-afp.org/entries/Balog_Szemeredi_Gowers.html][The Balog–Szemerédi–Gowers theorem]]. ~ Angeliki Koutsoukou-Argyraki, Mantas Bakšys, Chelsea Edmonds. #ITP #IsabelleHOL #Math
 + [[https://github.com/hsinhaoyu/why_functional][Examples of John Hughes' "Why Functional Programming Matters" implemented in Python]]. ~ Hsin-Hao Yu. #Python #OrgMode #LiterateProgramming
