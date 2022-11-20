@@ -41,6 +41,12 @@ its content.
 
 ** Noviembre 2022
 
+*** 19-Nov-22
++ [[https://www.ps.uni-saarland.de/extras/kirst-thesis/thesis_screen.pdf][Mechanised metamathematics (An investigation of first-order logic and set theory in constructive type theory)]]. ~ Dominik Kirst. #PhDThesis #ITP #Coq #Logic #Math
++ [[https://cs.adelaide.edu.au/~yval/pdfs/KuepperEGCSTWCCGWY23.pdf][CryptOpt: Verified compilation with random program search for cryptographic primitives]]. ~ Joel Kuepper et als. #ITP #Coq
++ [[https://arxiv.org/abs/2211.08671][LEMMA: Bootstrapping high-level mathematical reasoning with learned symbolic abstractions]]. ~ Zhening Li, Gabriel Poesia, Omar Costilla-Reyes, Noah Goodman, Armando Solar-Lezama. #MachineLearning #Math
++ [[https://camilocs.substack.com/p/en-busqueda-del-por-que][En búsqueda del «por qué»]]. ~ Camilo Chacón Sartori (@camilo_chacon_s). #Filosofía #Programación
+
 *** 18-Nov-22
 + [[https://lawrencecpaulson.github.io/2022/11/16/automation_eng_in_math.html][Automation and engineering in mathematics]]. ~ Pedro Sánchez Terraf. #ITP #IsabelleHOL #Math
 + [[https://cs.famaf.unc.edu.ar/~pedro/conjunteoria/apunte_st.pdf][Conjunteoría (apuntes de teoría de conjuntos)]]. ~ Pedro Sánchez Terraf. #Math #SetTheory
