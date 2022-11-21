@@ -41,6 +41,11 @@ its content.
 
 ** Noviembre 2022
 
+*** 20-Nov-22
++ [[https://blog.adrianistan.eu/wc-en-prolog][Comando wc en Prolog]]. ~ Adrián Arroyo Calle (@aarroyoca). #Prolog #LogicProgramming
++ [[https://www.quantamagazine.org/computer-helps-prove-long-sought-fluid-equation-singularity-20221116/][Computer Proof ‘Blows Up’ Centuries-Old Fluid Equations]]. ~ Jordana Cepelewicz (@jordanacep). #Math #CompSci
++ [[https://youtu.be/5AvutGncFA0][Teorema de compacidad lógica: de Newton a Gödel]]. ~ Hugo Víctor García Martínez. #Lógica #Matemática
+
 *** 19-Nov-22
 + [[https://www.ps.uni-saarland.de/extras/kirst-thesis/thesis_screen.pdf][Mechanised metamathematics (An investigation of first-order logic and set theory in constructive type theory)]]. ~ Dominik Kirst. #PhDThesis #ITP #Coq #Logic #Math
 + [[https://cs.adelaide.edu.au/~yval/pdfs/KuepperEGCSTWCCGWY23.pdf][CryptOpt: Verified compilation with random program search for cryptographic primitives]]. ~ Joel Kuepper et als. #ITP #Coq
