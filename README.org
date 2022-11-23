@@ -41,6 +41,13 @@ its content.
 
 ** Noviembre 2022
 
+*** 22-Nov-22
++ [[https://jeannin.github.io/papers/kheterpal2022formalization.pdf][Towards a formalization of the active corner method for collision avoidance in PVS]]. ~ Nishant Kheterpal, Jean-Baptiste Jeannin. #ITP #PVS
++ [[https://hal.inria.fr/hal-03852060/document][A high-level separation logic for heap space under garbage collection]]. ~ Alexandre Moine, Arthur Charguéraud, François Pottier. #ITP #Coq 
++ [[https://julesjacobs.com/pdf/locks.pdf][Higher-order leak and deadlock free locks]]. ~ Jules Jacobs, Stephanie Balzer. #ITP #Coq
++ [[https://drive.google.com/file/d/15vTlQ1iHZECivKCEIWRZbf46TP0qMhQf/view][Machine learning and autoformalisation]]. ~ Anthony Bordg. #MachineLearning #Autoformalisation #ITP #Math
++ [[https://towardsdatascience.com/python-to-oop-or-to-fp-13ac79a43b16][Python: To OOP or to FP? (That is the question)]]. ~ Isaac Harris-Holt. (@IsaacHarrisHolt). #Python #FunctionalProgramming
+
 *** 20-Nov-22
 + [[https://blog.adrianistan.eu/wc-en-prolog][Comando wc en Prolog]]. ~ Adrián Arroyo Calle (@aarroyoca). #Prolog #LogicProgramming
 + [[https://www.quantamagazine.org/computer-helps-prove-long-sought-fluid-equation-singularity-20221116/][Computer Proof ‘Blows Up’ Centuries-Old Fluid Equations]]. ~ Jordana Cepelewicz (@jordanacep). #Math #CompSci
