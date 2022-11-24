@@ -41,6 +41,10 @@ its content.
 
 ** Noviembre 2022
 
+*** 23-Nov-22
++ [[https://cacm.acm.org/magazines/2022/12/266926-the-evolution-of-mathematical-software/abstract][The evolution of mathematical software]]. ~ Jack J. Dongarra. #Math #CompSci
++ [[https://blog.adrianistan.eu/optimizar-mudanza-proyecto-software-prolog][Optimizar una mudanza (o un proyecto de software) en Prolog]]. ~ Adrián Arroyo Calle. #Prolog #LogicProgramming
+
 *** 22-Nov-22
 + [[https://jeannin.github.io/papers/kheterpal2022formalization.pdf][Towards a formalization of the active corner method for collision avoidance in PVS]]. ~ Nishant Kheterpal, Jean-Baptiste Jeannin. #ITP #PVS
 + [[https://hal.inria.fr/hal-03852060/document][A high-level separation logic for heap space under garbage collection]]. ~ Alexandre Moine, Arthur Charguéraud, François Pottier. #ITP #Coq 
