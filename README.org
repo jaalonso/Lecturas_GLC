@@ -41,6 +41,12 @@ its content.
 
 ** Noviembre 2022
 
+*** 24-Nov-22
++ [[https://lawrencecpaulson.github.io//2022/11/23/CTT_in_Isabelle.html][Martin-Löf type theory in Isabelle: formalisation]]. ~ Lawrence C. Paulson (@LawrPaulson). #ITP #IsabelleHOL #TypeTheory
++ [[https://mathai2022.github.io/papers/17.pdf MachineLearning][Towards automating formalisation of theorem statements using large language models]]. ~ Siddhartha Gadgil et als. #Autoformalisation #ITP #LeanProver #Math
++ [[https://mathai2022.github.io/papers/20.pdf][ProofNet: A benchmark for autoformalizing and formally proving undergraduate-level mathematics problems]]. ~ Zhangir Azerbayev, Bartosz Piotrowski, Jeremy Avigad. #MachineLearning #Autoformalisation #ITP #LeanProver
++ [[https://github.com/bobatkey/CS316-2022][Course "Functional Programming"]]. ~ Bob Atkey. #Haskell #FunctionalProgramming
+
 *** 23-Nov-22
 + [[https://cacm.acm.org/magazines/2022/12/266926-the-evolution-of-mathematical-software/abstract][The evolution of mathematical software]]. ~ Jack J. Dongarra. #Math #CompSci
 + [[https://blog.adrianistan.eu/optimizar-mudanza-proyecto-software-prolog][Optimizar una mudanza (o un proyecto de software) en Prolog]]. ~ Adrián Arroyo Calle. #Prolog #LogicProgramming
