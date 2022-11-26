@@ -41,6 +41,11 @@ its content.
 
 ** Noviembre 2022
 
+*** 25-Nov-22
++ [[https://gitlab.com/umb-svl/turing/][The Turing project (Introduction to the Theory of Computation formalized in Coq)]]. ~ Tiago Cogumbreiro. #ITP #Coq #CompSci
++ [[https://youtu.be/wPV94aZIOGQ][Haskell Course: Lesson 9]]. Creating parameterized and recursive types. ~ Robertino Martínez (@_roberm_). #Haskell #FunctionalProgramming
++ [[https://youtu.be/p118LpI228s][Can machines think like humans?]] ~ Mateja Jamnik. #AI
+
 *** 24-Nov-22
 + [[https://lawrencecpaulson.github.io//2022/11/23/CTT_in_Isabelle.html][Martin-Löf type theory in Isabelle: formalisation]]. ~ Lawrence C. Paulson (@LawrPaulson). #ITP #IsabelleHOL #TypeTheory
 + [[https://mathai2022.github.io/papers/17.pdf MachineLearning][Towards automating formalisation of theorem statements using large language models]]. ~ Siddhartha Gadgil et als. #Autoformalisation #ITP #LeanProver #Math
