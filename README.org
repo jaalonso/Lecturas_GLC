@@ -41,6 +41,14 @@ its content.
 
 ** Noviembre 2022
 
+*** 26-Nov-22
++ [[https://project-archive.inf.ed.ac.uk/ug4/20223088/ug4_proj.pdf][Mechanising newtonian mechanics in Isabelle]]. ~ Lars Werne. #ITP #IsabelleHOL
++ [[https://jesper.sikanda.be/files/AIMXXXI-presentation.pdf][Connecting Agda to other theorem provers via EuroProofNet (or, how to implement an Agda backend)]]. ~ Jesper Cockx. #ITP #Agda #Dedukti
++ [[https://www.cambridge.org/core/services/aop-cambridge-core/content/view/6C2B03C7BCCD1DECC924E48BA3A2E43D/S0960129522000378a.pdf/a-dual-context-sequent-calculus-for-the-constructive-modal-logic-s4.pdf][A dual-context sequent calculus for the constructive modal logic S4]]. ~ Favio Ezequiel Miranda-Perea, Lourdes del Carmen González Huesca, Pilar Selene Linares Arévalo. #ITP #Coq #Logic #Math
++ [[https://burjcdigital.urjc.es/bitstream/handle/10115/20610/PRACTICAS-C.pdf][Programación Declarativa: colecciones de ejercicios y prácticas]]. ~ Ana Pradera. #Prolog #LogicProgramming
++ [[https://medium.com/@steveYeah/using-generics-in-python-99010e5056eb][Using Generics in Python]]. ~ SteveYeah. #Python #Mypy
++ [[https://notxor.nueva-actitud.org/2022/11/25/macros-en-org-mode.html][Macros en org-mode]]. ~ Notxor. #Emacs #OrgMode
+
 *** 25-Nov-22
 + [[https://gitlab.com/umb-svl/turing/][The Turing project (Introduction to the Theory of Computation formalized in Coq)]]. ~ Tiago Cogumbreiro. #ITP #Coq #CompSci
 + [[https://youtu.be/wPV94aZIOGQ][Haskell Course: Lesson 9]]. Creating parameterized and recursive types. ~ Robertino Martínez (@_roberm_). #Haskell #FunctionalProgramming
