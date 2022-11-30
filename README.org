@@ -41,6 +41,17 @@ its content.
 
 ** Noviembre 2022
 
+*** 29-Nov-22
++ [[https://youtu.be/-wj-eCGv1D4][Formalising algebraic geometry, lecture 1/4]]. ~ Kevin Buzzard (@XenaProject). #ITP #LeanProver #Math
++ [[https://youtu.be/cw_ujnB0Aao][Formalising algebraic geometry, lecture 2/4]]. ~ Kevin Buzzard (@XenaProject). #ITP #LeanProver #Math
++ [[https://youtu.be/WubvUHEhq1w][Formalising algebraic geometry, lecture 3/4]]. ~ Kevin Buzzard (@XenaProject). #ITP #LeanProver #Math
++ [[https://www.isa-afp.org/browser_info/current/AFP/Sauer_Shelah_Lemma/document.pdf][Sauer-Shelah Lemma (in Isabelle/HOL)]]. ~ Ata Keskin. #ITP #IsabelleHOL #Math
++ [[https://www.isa-afp.org/browser_info/current/AFP/CHERI-C_Memory_Model/document.pdf][A formal CHERI-C memory model]]. ~ Seung Hoon Park. #ITP #IsabelleHOL
++ [[https://homepage.divms.uiowa.edu/~astump/papers/dc-rec-popl2023.pdf][A type-based approach to divide-and-conquer recursion in Coq]]. ~ Pedro Abreu et als. #ITP #Coq #FunctionalProgramming
++ [[https://people.irisa.fr/Aurele.Barriere/papers/fmjit.pdf][Formally verified native code generation in an effectful JIT (or: Turning the CompCert backend into a formally verified JIT compiler)]]. ~ A. Barrière, S. Blazy, D. Pichardie. #ITP #Coq
++ [[https://theses.liacs.nl/pdf/2021-2022-SchaapL.pdf][Formalised semantics of Lustre]]. ~ Lennard Schaap. #ITP #Agda
++ [[https://www.hhyu.org/posts/generator_and_continuation][Beautiful ideas in programming: generators and continuations]]. ~ Hsin-Hao Yu (@HsinHaoYu). #Python #Scheme
+
 *** 26-Nov-22
 + [[https://project-archive.inf.ed.ac.uk/ug4/20223088/ug4_proj.pdf][Mechanising newtonian mechanics in Isabelle]]. ~ Lars Werne. #ITP #IsabelleHOL
 + [[https://jesper.sikanda.be/files/AIMXXXI-presentation.pdf][Connecting Agda to other theorem provers via EuroProofNet (or, how to implement an Agda backend)]]. ~ Jesper Cockx. #ITP #Agda #Dedukti
