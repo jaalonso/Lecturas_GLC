@@ -41,6 +41,12 @@ its content.
 
 ** Noviembre 2022
 
+*** 30-Nov-22
++ [[https://arxiv.org/abs/2211.15864][Peano: Learning formal mathematical reasoning]]. ~ Gabriel Poesia, Noah D. Goodman. #MachineLearning #Math
++ [[https://tarides.com/blog/2022-11-22-six-surprising-reasons-the-ocaml-programming-language-is-good-for-business][Six surprising reasons the OCaml programming language is good for business]]. ~ Isabella Leandersson. #OCaml #FunctionalProgramming
++ [[https://github.com/effectfully-ou/sketches/tree/master/mineunifier][Teaching GHC how to play Minesweeper]]. #Haskell #FunctionalProgramming
++ [[https://slott-softwarearchitect.blogspot.com/2022/11/functional-programming-and-finite-state.html][Functional programming and finite state automata (FSA)]]. ~ S. Lott. #Python #FunctionalProgramming
+
 *** 29-Nov-22
 + [[https://youtu.be/-wj-eCGv1D4][Formalising algebraic geometry, lecture 1/4]]. ~ Kevin Buzzard (@XenaProject). #ITP #LeanProver #Math
 + [[https://youtu.be/cw_ujnB0Aao][Formalising algebraic geometry, lecture 2/4]]. ~ Kevin Buzzard (@XenaProject). #ITP #LeanProver #Math
