@@ -11,6 +11,7 @@ its content.
 
 * Content                                                                      :TOC:
 - [[#readings-of-the-year-2022][Readings of the year 2022]]
+  - [[#diciembre-2022][Diciembre 2022]]
   - [[#noviembre-2022][Noviembre 2022]]
   - [[#octubre-2022][Octubre 2022]]
   - [[#septiembre-2022][Septiembre 2022]]
@@ -38,6 +39,15 @@ its content.
 - [[#previous-readings][Previous readings]]
 
 * Readings of the year 2022
+
+** Diciembre 2022
+
+*** 01-Dic-22
++ [[https://lawrencecpaulson.github.io//2022/11/30/CTT_in_Isabelle-II.html][Martin-Löf type theory in Isabelle: examples]]. ~ Lawrence C. Paulson (@LawrPaulson). #ITP #IsabelleHOL
++ [[https://arxiv.org/abs/2211.13513][Waterproof: educational software for learning how to write mathematical proofs]]. ~ Jelle Wemmenhove, Thijs Beurskens, Sean McCarren, Jan Moraal, David Tuin, Jim Portegies. #ITP #Coq #Math
++ [[https://www.cantorsparadise.com/why-ai-cant-match-humans-at-mathematics-yet-3416116d4d15][Why AI can’t match humans at mathematics (yet!) (The IMO Grand Challenge and the quest to achieve true creative problem solving ability)]]. ~ Russell Lim. #ITP #MachineLearning #Math
++ [[https://leanprover.github.io/functional_programming_in_lean/][Functional programming in Lean]]. ~ David Thrane Christiansen. #Lean4 #FunctionalProgramming
++ [[https://www.buzzsprout.com/758831/11784132][Historia de los lenguajes de programación]] (Entrevista a Manuel Rubio (@MRonErlang) por Camilo Chacón Sartori (@camilo_chacon_s)). #Podcast #Informática
 
 ** Noviembre 2022
 
