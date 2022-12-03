@@ -42,6 +42,11 @@ its content.
 
 ** Diciembre 2022
 
+*** 02-Dic-22
++ [[https://www.isa-afp.org/browser_info/current/AFP/Multitape_To_Singletape_TM/document.pdf][A verified translation of multitape Turing machines into singletape Turing machines]]. ~ Christian Dalvit, René Thiemann. #ITP #IsabelleHOL
++ [[https://www.isa-afp.org/browser_info/current/AFP/Kneser_Cauchy_Davenport/document.pdf][Kneser's theorem and the Cauchy–Davenport theorem (in Isabelle/HOL)]]. ~ Mantas Bakšys, Angeliki Koutsoukou-Argyraki. #ITP #IsabelleHOL #Math
++ [[https://www.isa-afp.org/browser_info/current/AFP/Turans_Graph_Theorem/document.pdf][Turán's graph theorem (in Isabelle/HOL)]]. ~ Nils Lauermann. #ITP #IsabelleHOL #Math
+
 *** 01-Dic-22
 + [[https://lawrencecpaulson.github.io//2022/11/30/CTT_in_Isabelle-II.html][Martin-Löf type theory in Isabelle: examples]]. ~ Lawrence C. Paulson (@LawrPaulson). #ITP #IsabelleHOL
 + [[https://arxiv.org/abs/2211.13513][Waterproof: educational software for learning how to write mathematical proofs]]. ~ Jelle Wemmenhove, Thijs Beurskens, Sean McCarren, Jan Moraal, David Tuin, Jim Portegies. #ITP #Coq #Math
