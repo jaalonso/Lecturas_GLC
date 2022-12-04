@@ -42,6 +42,9 @@ its content.
 
 ** Diciembre 2022
 
+*** 03-Dic-22
++ [[https://wjwh.eu/posts/2022-11-30-haskell-aoc-tricks.html][Some tips and tricks for doing Advent of Code with Haskell]]. ~ Wander Hillen. #Haskell #FunctionalProgramming
+
 *** 02-Dic-22
 + [[https://www.isa-afp.org/browser_info/current/AFP/Multitape_To_Singletape_TM/document.pdf][A verified translation of multitape Turing machines into singletape Turing machines]]. ~ Christian Dalvit, René Thiemann. #ITP #IsabelleHOL
 + [[https://www.isa-afp.org/browser_info/current/AFP/Kneser_Cauchy_Davenport/document.pdf][Kneser's theorem and the Cauchy–Davenport theorem (in Isabelle/HOL)]]. ~ Mantas Bakšys, Angeliki Koutsoukou-Argyraki. #ITP #IsabelleHOL #Math
