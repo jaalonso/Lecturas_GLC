@@ -42,6 +42,10 @@ its content.
 
 ** Diciembre 2022
 
+*** 05-Dic-22
++ [[https://arxiv.org/abs/2212.00857][A survey on GPT-3]]. ~ Mingyu Zong, Bhaskar Krishnamachari. #AI #MachineLearning #GPT3
++ [[https://www.theguardian.com/technology/2022/dec/04/ai-bot-chatgpt-stuns-academics-with-essay-writing-skills-and-usability][AI bot ChatGPT stuns academics with essay-writing skills and usability]]. ~ Alex Hern. #AI #MachineLearning #ChatGPT
+
 *** 03-Dic-22
 + [[https://wjwh.eu/posts/2022-11-30-haskell-aoc-tricks.html][Some tips and tricks for doing Advent of Code with Haskell]]. ~ Wander Hillen. #Haskell #FunctionalProgramming
 
