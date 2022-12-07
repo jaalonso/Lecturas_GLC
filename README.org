@@ -42,6 +42,16 @@ its content.
 
 ** Diciembre 2022
 
+*** 06-Dic-22
++ [[https://www.isa-afp.org/browser_info/current/AFP/Birkhoff_Finite_Distributive_Lattices/document.pdf][Birkhoff's representation theorem for finite distributive lattices (in Isabelle/HOL)]]. ~ Matthew Doty. #ITP #IsabelleHOL #Math
++ [[https://repository.tudelft.nl/islandora/object/uuid:e1a0ae3a-df80-413c-b3b7-54efa6dfac17][Proving functional correctness of monadic programs using separation logic]]. ~ Liam Clark. #ITP #Coq
++ [[https://leanprover-community.github.io/blog/posts/this-month-in-mathlib-oct-and-nov-2022/][This month in mathlib (Oct and Nov 2022)]]. #ITP #LeanProver #MathLib #Math
++ [[http://mizar.uwb.edu.pl/fm/fm30-1/field_11.pdf][Artin’s theorem towards the existence of algebraic closures]]. ~ Christoph Schwarzweller. #ITP #Mizar #Math
++ [[http://mizar.uwb.edu.pl/fm/fm30-1/ndiff11.pdf][On implicit and inverse function theorems on euclidean spaces]]. ~ Kazuhisa Nakasho, Yasunari Shidama. #ITP #Mizar #Math
++ [[https://maxtaylor.dev/posts/2022/12/lisp-repl][A LISP REPL Inside ChatGPT]]. ~ Max Taylor. #CommonLisp #ChatGPT
++ [[http://www.randomhacks.net/2022/12/04/pair-programming-with-chatgpt/][Pair programming with ChatGPT: A simple dice roller]]. ~ Eric Kidd. #ChatGPT #Programming
++ [[https://notxor.nueva-actitud.org/2022/12/05/un-ejemplo-de-macro-de-org-mode.html][Un ejemplo de macro de org-mode]]. ~ Notxor. #Emacs #OrgMode
+
 *** 05-Dic-22
 + [[https://arxiv.org/abs/2212.00857][A survey on GPT-3]]. ~ Mingyu Zong, Bhaskar Krishnamachari. #AI #MachineLearning #GPT3
 + [[https://www.theguardian.com/technology/2022/dec/04/ai-bot-chatgpt-stuns-academics-with-essay-writing-skills-and-usability][AI bot ChatGPT stuns academics with essay-writing skills and usability]]. ~ Alex Hern. #AI #MachineLearning #ChatGPT
