@@ -42,6 +42,12 @@ its content.
 
 ** Diciembre 2022
 
+*** 07-Dic-22
++ [[https://arxiv.org/abs/2212.02902][A univalent formalization of affine schemes]]. ~ Anders Mörtberg, Max Zeuner. #ITP #Agda #Math
++ [[https://arxiv.org/abs/2205.07979][Budge: a programming language and a theorem prover]]. ~ Boro Sitnikovski. #Programming #TheoremProver
++ [[https://www.theatlantic.com/technology/archive/2022/12/chatgpt-ai-writing-college-student-essays/672371/][The college essay is dead]].. ~ Stephen Marche. #AI #ChatGPT 
++ [[https://www.engraved.blog/building-a-virtual-machine-inside/][Building a virtual machine inside ChatGPT]]. ~ Jonas Degrave. #ChatGPT
+
 *** 06-Dic-22
 + [[https://www.isa-afp.org/browser_info/current/AFP/Birkhoff_Finite_Distributive_Lattices/document.pdf][Birkhoff's representation theorem for finite distributive lattices (in Isabelle/HOL)]]. ~ Matthew Doty. #ITP #IsabelleHOL #Math
 + [[https://repository.tudelft.nl/islandora/object/uuid:e1a0ae3a-df80-413c-b3b7-54efa6dfac17][Proving functional correctness of monadic programs using separation logic]]. ~ Liam Clark. #ITP #Coq
