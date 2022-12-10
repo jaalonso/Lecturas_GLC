@@ -42,6 +42,12 @@ its content.
 
 ** Diciembre 2022
 
+*** 09-Dic-22
++ [[https://project-archive.inf.ed.ac.uk/ug4/20223079/ug4_proj.pdf][Mechanizing lagrangian mechanics in Isabelle/HOL]]. ~ Dawson Silkenat. #ITP #IsabelleHOL
++ [[https://kclpure.kcl.ac.uk/portal/files/189846427/verified_SAT_plan.pdf][Formally verified SAT-based AI planning]]. ~ Mohammad Abdulaziz, Friedrich Kurz. #ITP #IsabelleHOL
++ [[https://arxiv.org/abs/2212.01748][Differential testing of a verification framework for compiler optimizations (Experience paper)]]. ~ Mark Utting, Brae J. Webb, Ian J. Hayes. #ITP #IsabelleHOL
++ [[https://books.google.es/books?id=No2aEAAAQBAJ&printsec=frontcover&hl=es#v=onepage&q&f=false][Mathematical logic and computation]]. ~ Jeremy Avigad. #Logic #Math #CompSci
+
 *** 07-Dic-22
 + [[https://arxiv.org/abs/2212.02902][A univalent formalization of affine schemes]]. ~ Anders Mörtberg, Max Zeuner. #ITP #Agda #Math
 + [[https://arxiv.org/abs/2205.07979][Budge: a programming language and a theorem prover]]. ~ Boro Sitnikovski. #Programming #TheoremProver
