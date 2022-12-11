@@ -42,6 +42,14 @@ its content.
 
 ** Diciembre 2022
 
+*** 10-Dic-22
++ [[https://www.glc.us.es/~jalonso/vestigium/10-dic-22][Errores matemáticos en las respuestas de ChatGPT]]. #ChatGPT #Matemáticas
++ [[https://elpais.com/opinion/2022-12-10/chatgpt-no-todo-lo-que-rima-es-verdadero.html][ChatGPT: no todo lo que rima es verdadero]]. ~ Marta Peirano. #ChatGPT
++ [[https://www.nature.com/articles/d41586-022-04383-z][Are ChatGPT and AlphaCode going to replace programmers?]] #ChatGPT #AlphaCode
++ [[https://www.nytimes.com/2022/12/05/technology/chatgpt-ai-twitter.html][The brilliance and weirdness of ChatGPT]]. ~ Kevin Roose. #ChatGPT
++ [[https://www.listendata.com/2022/12/limitations-of-ChatGPT.html][ChatGPT isn't a smart analyst]]. ~  Deepanshu Bhalla. #ChatGPT
++ [[https://www.theguardian.com/commentisfree/2022/dec/08/the-guardian-view-on-chatgpt-an-eerily-good-human-impersonator][The Guardian view on ChatGPT: an eerily good human impersonator | Editorial]]. #ChatGPT
+
 *** 09-Dic-22
 + [[https://project-archive.inf.ed.ac.uk/ug4/20223079/ug4_proj.pdf][Mechanizing lagrangian mechanics in Isabelle/HOL]]. ~ Dawson Silkenat. #ITP #IsabelleHOL
 + [[https://kclpure.kcl.ac.uk/portal/files/189846427/verified_SAT_plan.pdf][Formally verified SAT-based AI planning]]. ~ Mohammad Abdulaziz, Friedrich Kurz. #ITP #IsabelleHOL
