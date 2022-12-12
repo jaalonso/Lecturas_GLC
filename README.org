@@ -42,6 +42,13 @@ its content.
 
 ** Diciembre 2022
 
+*** 11-Dic-22
++ [[https://hal.inria.fr/hal-03886685/document][Automated reasoning in the class]]. ~ Isabela Drămnesc, Erika Ábrahám, Tudor Jebelean, Gábor Kusper, Sorin Stratulat. #ATP #Logic
++ [[https://acatalepsie.fr/posts/overloading-lambda][Overloading the lambda abstraction in Haskell]]. ~ @baboum@mastodon.social. #Haskell #FunctionalProgramming
++ [[https://arxiv.org/abs/2212.03551][Talking about large language models (LLMs)]]. ~ Murray Shanahan. #AI #LLM
++ [[https://blog.acthompson.net/2022/12/when-computers-write-code.html][When computers write code]]. ~ Alfred Thompson (@alfredtwo). #CompSci #Programming #Teaching
++ [[https://www.wired.com/story/openai-chatgpts-most-charming-trick-hides-its-biggest-flaw][ChatGPT’s most charming trick is also its biggest flaw]]. ~ Will Knight (@willknight). #ChatGPT #AI
+
 *** 10-Dic-22
 + [[https://www.glc.us.es/~jalonso/vestigium/10-dic-22][Errores matemáticos en las respuestas de ChatGPT]]. #ChatGPT #Matemáticas
 + [[https://elpais.com/opinion/2022-12-10/chatgpt-no-todo-lo-que-rima-es-verdadero.html][ChatGPT: no todo lo que rima es verdadero]]. ~ Marta Peirano. #ChatGPT
