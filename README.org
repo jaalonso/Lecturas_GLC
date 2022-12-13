@@ -42,6 +42,10 @@ its content.
 
 ** Diciembre 2022
 
+*** 12-Dic-22
++ [[https://www.philipzucker.com/datalog-theorem-harrop/][Datalog as a theorem prover: Harrop clauses-lite]]. ~ Philip Zucker (@SandMouth). #ATP #Prolog
++ [[https://www.vox.com/recode/2022/12/7/23498694/ai-artificial-intelligence-chat-gpt-openai][AI is finally good at stuff, and that’s a problem]]. ~ Rebecca Heilweil. #AI #ChatGPT
+
 *** 11-Dic-22
 + [[https://hal.inria.fr/hal-03886685/document][Automated reasoning in the class]]. ~ Isabela Drămnesc, Erika Ábrahám, Tudor Jebelean, Gábor Kusper, Sorin Stratulat. #ATP #Logic
 + [[https://acatalepsie.fr/posts/overloading-lambda][Overloading the lambda abstraction in Haskell]]. ~ @baboum@mastodon.social. #Haskell #FunctionalProgramming
