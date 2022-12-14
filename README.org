@@ -42,6 +42,10 @@ its content.
 
 ** Diciembre 2022
 
+*** 13-Dic-22
++ [[https://arxiv.org/abs/2212.05578][A formalization of Doob's martingale convergence theorems in mathlib]]. ~ Kexing Ying, Rémy Degenne. #ITP #LeanProver #Math
++ [[https://cacm.acm.org/news/267670-the-new-chatbots-could-change-the-world-can-you-trust-them/fulltext][The new chatbots could change the World]]. Can you trust them? #AI #ChatGPT
+
 *** 12-Dic-22
 + [[https://www.philipzucker.com/datalog-theorem-harrop/][Datalog as a theorem prover: Harrop clauses-lite]]. ~ Philip Zucker (@SandMouth). #ATP #Prolog
 + [[https://www.vox.com/recode/2022/12/7/23498694/ai-artificial-intelligence-chat-gpt-openai][AI is finally good at stuff, and that’s a problem]]. ~ Rebecca Heilweil. #AI #ChatGPT
