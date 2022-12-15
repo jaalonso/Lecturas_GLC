@@ -42,6 +42,10 @@ its content.
 
 ** Diciembre 2022
 
+*** 14-Dic-22
++ [[https://lawrencecpaulson.github.io/2022/12/14/User_interfaces.html][Thoughts on user interfaces for theorem provers]]. ~ Lawrence C. Paulson (@LawrPaulson). #ITP #IsabelleHOL
++ [[https://busy-beavers.tigyog.app/proofs-about-programs][Proofs about programs (An interactive tutorial)]]. ~ Jim Fisher. #ITP #LeanProver
+
 *** 13-Dic-22
 + [[https://arxiv.org/abs/2212.05578][A formalization of Doob's martingale convergence theorems in mathlib]]. ~ Kexing Ying, Rémy Degenne. #ITP #LeanProver #Math
 + [[https://cacm.acm.org/news/267670-the-new-chatbots-could-change-the-world-can-you-trust-them/fulltext][The new chatbots could change the World]]. Can you trust them? #AI #ChatGPT
