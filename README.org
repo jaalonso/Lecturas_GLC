@@ -42,6 +42,19 @@ its content.
 
 ** Diciembre 2022
 
+*** 15-Dic-22
++ [[https://backend.orbit.dtu.dk/ws/portalfiles/portal/299069083/ACIIDS_2022.pdf][On verified automated reasoning in propositional logic]]. ~ Simon Tobias Lund, Jørgen Villadsen. #ITP #IsabelleHOL #Logic #Math
++ [[https://hal.inria.fr/hal-03891390/document][A computational Cantor-Bernstein and Myhill’s isomorphism theorem in constructive type theory]]. ~ Yannick Forster, Felix Jahn, Gert Smolka. #ITP #Coq #Math
++ [[https://hal.inria.fr/hal-03889276/document][A Coq formalization of Lebesgue induction principle and Tonelli’s theorem]]. ~ Sylvie Boldo, François Clément, Vincent Martin, Micaela Mayero, Houda Mouhcine. #ITP #Coq #Math
++ [[https://hal.inria.fr/tel-03891381/document][Proof of programs with effect handlers]]. ~ Paulo Emílio de Vilhena. #ITP #Coq
++ [[https://arxiv.org/abs/2212.04182v1][Computing cohomology rings in Cubical Agda]]. ~ Thomas Lamiaux, Axel Ljungström, Anders Mörtberg. #ITP #Agda #Math
++ [[https://webspace.science.uu.nl/~swier004/publications/2022-ifl-draft.pdf][Verified technology mapping in an Agda DSL for circuit design (Circuit refinement through gate and data concretisation)]]. ~ João Paulo Pizani Flor, Wouter Swierstra. #ITP #Agda
++ [[https://youtu.be/95rhCROOOdA][Level-p-complexity of boolean functions: Using thinning, memoization, and polynomials]]. ~ Patrik Jansson (@patrikja@types.pl). #Haskell #FunctionalProgramming #Math
++ [[https://www.diva-portal.org/smash/get/diva2:1717432/FULLTEXT01.pdf][Implementation of explanatory algorithm for logical models]]. ~ Rawand Saadoun. #Haskell #FunctionalProgramming #Logic #Math
++ [[https://www.youtube.com/live/DC160ivi-rQ?feature=share][El poder de los algoritmos]]. ~ Ricardo Peña. #Algoritmos
++ [[https://youtu.be/JI5Y0uzZ64k][5 demostraciones visuales que son pura magia]]. ~ Mike (@mike_mates). #Matemáticas
++ [[https://methodpoet.com/will-chatgpt-replace-programmers/][A new AI threat on horizon: ChatGPT to replace programmers?]] ~ Kristijan Kralj. #AI #ChatGPT #Programming
+
 *** 14-Dic-22
 + [[https://lawrencecpaulson.github.io/2022/12/14/User_interfaces.html][Thoughts on user interfaces for theorem provers]]. ~ Lawrence C. Paulson (@LawrPaulson). #ITP #IsabelleHOL
 + [[https://busy-beavers.tigyog.app/proofs-about-programs][Proofs about programs (An interactive tutorial)]]. ~ Jim Fisher. #ITP #LeanProver
