@@ -42,6 +42,13 @@ its content.
 
 ** Diciembre 2022
 
+*** 18-Dic-22
++ [[https://dennybritz.com/posts/probability-monads-from-scratch/][Probability Monads from scratch in 100 lines of Haskell]]. ~ Denny Britz (@dennybritz). #Haskell #FunctionalProgramming #Math
++ [[https://www.logicmatters.net/2022/12/17/logicisms-and-godels-theorem/][Logicisms and Gödel’s Theorem]]. ~  Peter Smith (@PeterSmith). #Logic #Math
++ [[https://blog.acthompson.net/2022/12/coding-with-chatgptarmstrong-numbers.html][Coding with ChatGPT: Armstrong numbers]]. ~ Alfred Thompson (@alfredtwo). #ChatGPT
++ [[https://www.microsiervos.com/archivo/ordenadores/problemas-computacion-matematicas-tutorial-interactivo.html][Los problemas de computación y los límites de matemáticas en un tutorial interactivo muy educativo]]. ~ @Alvy #Matemáticas #Computación
++ [[https://busy-beavers.tigyog.app/][Busy Beavers! (An interactive intro to Computability Theory)]]. ~ Jim Fischer. #CompSci #Math
+
 *** 17-Dic-22
 + [[https://arxiv.org/abs/2212.06956][Verifying term graph optimizations using Isabelle/HOL]]. ~ Brae J. Webb, Ian J. Hayes, Mark Utting. #ITP #IsabelleHOL
 + [[https://www.isa-afp.org/browser_info/current/AFP/Quantifier_Elimination_Hybrid/document.pdf][A first complete algorithm for real quantifier elimination in Isabelle/HOL]]. ~ Katherine Cordwell, Yong Kiam Tan, André Platzer. #ITP #IsabelleHOL #Logic #Math
