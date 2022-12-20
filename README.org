@@ -42,6 +42,10 @@ its content.
 
 ** Diciembre 2022
 
+*** 19-Dic-22
++ [[https://arxiv.org/abs/2212.08515][The formal theory of monads, univalently]]. ~ Niels van der Weide. #ITP #Coq
++ [[https://thenewstack.io/chatgpt-smart-but-not-smart-enough/][ChatGPT: Smart, but not smart enough]]. ~ Steven J. Vaughan-Nichols. #ChatGPT #Programming
+
 *** 18-Dic-22
 + [[https://dennybritz.com/posts/probability-monads-from-scratch/][Probability Monads from scratch in 100 lines of Haskell]]. ~ Denny Britz (@dennybritz). #Haskell #FunctionalProgramming #Math
 + [[https://www.logicmatters.net/2022/12/17/logicisms-and-godels-theorem/][Logicisms and Gödel’s Theorem]]. ~  Peter Smith (@PeterSmith). #Logic #Math
