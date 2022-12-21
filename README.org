@@ -42,6 +42,14 @@ its content.
 
 ** Diciembre 2022
 
+*** 20-Dic-22
++ [[https://yannherklotz.com/papers/cpp23_msgssa.pdf][Mechanised semantics for Gated Static Single Assignment]]. ~ Yann Herklotz, Delphine Demange, Sandrine Blazy. #ITP #Coq
++ [[https://hustmphrrr.github.io/asset/pdf/proposal.pdf][Foundations and applications of modal type theories]]. ~ Jason Z. S. Hu. #ITP #Agda
++ [[https://arxiv.org/abs/2212.07735v1][Higher-order games with dependent types]]. ~ Martín Escardó, Paulo Oliva. #ITP #Agda
++ [[https://people.compute.dtu.dk/ahfrom/aesop-camera-ready.pdf][Aesop: White-box best-first proof search for Lean]]. ~ Jannis Limperg, Asta Halkjær From. #ITP #LeanProver
++ [[https://arxiv.org/abs/2212.09292][ChatGPT: The end of online exam integrity? ~ Teo Susnjak]]. #ChatGPT #AI
++ [[https://macowners.club/posts/refactoring-emacs-lisp-chatgpt/][Refactoring Emacs Lisp with ChatGPT]]. #Emacs #Lisp #ChatGPT #AI
+
 *** 19-Dic-22
 + [[https://arxiv.org/abs/2212.08515][The formal theory of monads, univalently]]. ~ Niels van der Weide. #ITP #Coq
 + [[https://thenewstack.io/chatgpt-smart-but-not-smart-enough/][ChatGPT: Smart, but not smart enough]]. ~ Steven J. Vaughan-Nichols. #ChatGPT #Programming
