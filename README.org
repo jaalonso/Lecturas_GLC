@@ -42,6 +42,13 @@ its content.
 
 ** Diciembre 2022
 
+*** 21-Dic-22
++ [[https://arxiv.org/abs/2209.10978][A first complete algorithm for real quantifier elimination in Isabelle/HOL]]. ~ Katherine Kosaian, Yong Kiam Tan, André Platzer. #ITP #IsabelleHOL #Logic #Math
++ [[https://arxiv.org/abs/2212.10453][Pragmatic isomorphism proofs between Coq representations: application to lambda-term families]]. ~ Catherine Dubois, Nicolas Magaud, Alain Giorgetti. #ITP #Coq
++ [[https://arxiv.org/abs/2212.10307][Efficient and sound differentiable programming in a functional array-processing language]]. ~ Amir Shaikhha, Mathieu Huot, Shabnam Ghasemirad, Andrew Fitzgibbon, Simon Peyton Jones, Dimitrios Vytiniotis. #FunctionalProgramming
++ [[https://arxiv.org/abs/2212.10535][A survey of deep learning for mathematical reasoning]]. ~ Pan Lu, Liang Qiu, Wenhao Yu, Sean Welleck, Kai-Wei Chang. #DeepLearning #AI #Math
++ [[https://cacm.acm.org/magazines/2023/1/267976-the-end-of-programming/fulltext][The end of programming]]. ~ Matt Welsh. #AI #Programming
+
 *** 20-Dic-22
 + [[https://yannherklotz.com/papers/cpp23_msgssa.pdf][Mechanised semantics for Gated Static Single Assignment]]. ~ Yann Herklotz, Delphine Demange, Sandrine Blazy. #ITP #Coq
 + [[https://hustmphrrr.github.io/asset/pdf/proposal.pdf][Foundations and applications of modal type theories]]. ~ Jason Z. S. Hu. #ITP #Agda
