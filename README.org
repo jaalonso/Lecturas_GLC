@@ -42,6 +42,12 @@ its content.
 
 ** Diciembre 2022
 
+*** 22-Dic-22
++ [[http://joomy.korkutblech.com/papers/ptb.pdf][A proof tree builder for sequent calculus and Hoare logic]]. ~ Joomy Korkut (@joomy@types.pl). #ITP #Logic #Teaching
++ [[https://arxiv.org/abs/2212.11151][Property-based conjecturing for automated induction in Isabelle/HOL]]. ~ Yutaka Nagashima, Zijin Xu, Ningli Wang, Daniel Sebastian Goc, James Bang. #ITP #IsabelleHOL
++ [[https://hal.inria.fr/hal-03901942/file/forster_jahn_synthetic_reducibility_csl23.pdf][Constructive and synthetic reducibility degrees: Post’s problem for many-one and truth-table reducibility in Coq]]. ~ Yannick Forster, Felix Jahn. #ITP #Coq
++ [[https://arxiv.org/abs/2212.11082 eBook][Introduction to Homotopy Type Theory]]. ~ Egbert Rijke. #HoTT
+
 *** 21-Dic-22
 + [[https://arxiv.org/abs/2209.10978][A first complete algorithm for real quantifier elimination in Isabelle/HOL]]. ~ Katherine Kosaian, Yong Kiam Tan, André Platzer. #ITP #IsabelleHOL #Logic #Math
 + [[https://arxiv.org/abs/2212.10453][Pragmatic isomorphism proofs between Coq representations: application to lambda-term families]]. ~ Catherine Dubois, Nicolas Magaud, Alain Giorgetti. #ITP #Coq
