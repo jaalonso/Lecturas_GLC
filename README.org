@@ -42,6 +42,12 @@ its content.
 
 ** Diciembre 2022
 
+*** 23-Dic-22
++ [[https://arxiv.org/abs/2212.11630][Towards mechanised proofs in double-pushout graph transformation]]. ~ Robert Söldner, Detlef Plump. #ITP #IsabelleHOL
++ [[https://www.tweag.io/blog/2022-12-22-making-ghc-faster-at-emitting-code/][Making GHC faster at emitting code]]. ~ Alexis King. #Haskell #FunctionalProgramming
++ [[https://www.quantamagazine.org/the-biggest-math-breakthroughs-in-2022-20221222/ ][The Year in Math]]. #Math via @QuantaMagazine
++ [[https://www.universidadsi.es/cavilaciones-invernales/][Cavilaciones invernales sobre la escritura de trabajos académicos usando inteligencia artificial]]. ~  Faraón Llorens y ChatGPT. #IA #Enseñanza #ChatGPT
+
 *** 22-Dic-22
 + [[http://joomy.korkutblech.com/papers/ptb.pdf][A proof tree builder for sequent calculus and Hoare logic]]. ~ Joomy Korkut (@joomy@types.pl). #ITP #Logic #Teaching
 + [[https://arxiv.org/abs/2212.11151][Property-based conjecturing for automated induction in Isabelle/HOL]]. ~ Yutaka Nagashima, Zijin Xu, Ningli Wang, Daniel Sebastian Goc, James Bang. #ITP #IsabelleHOL
