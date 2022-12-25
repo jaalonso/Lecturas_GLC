@@ -42,6 +42,17 @@ its content.
 
 ** Diciembre 2022
 
+*** 24-Dic-22
++ [[https://research.chalmers.se/publication/532951/file/532951_Fulltext.pdf][A verified theorem prover for higher-order logic]]. ~ Oskar Abrahamsson. #PhDThesis #ITP #HOL4
++ [[https://arxiv.org/abs/2212.10453v1][Pragmatic isomorphism proofs between Coq representations: application to lambda-term families]]. ~ Catherine Dubois, Nicolas Magaud, Alain Giorgetti. #ITP #Coq
++ [[https://arxiv.org/abs/2212.10931][Completeness and the finite model property for Kleene algebra, reconsidered]]. ~ Tobias Kappé. #ITP #Coq #Math
++ [[https://tarmean.github.io/prettyprinter][How does Prettyprinter print pretty?]] #Haskell #FunctionalProgramming
++ [[https://cacm.acm.org/blogs/blog-cacm/268103-what-do-chatgpt-and-ai-based-automatic-program-generation-mean-for-the-future-of-software/fulltext][What do ChatGPT and AI-based automatic program generation mean for the future of software]]. ~ Bertrand Meyer. #ChatGPT #AI
++ [[https://www.genbeta.com/actualidad/ia-alphacode-sus-capacidades-programar-supera-a-chatgpt-tambien-a-muchisimos-desarrolladores-humanos][La IA AlphaCode y sus capacidades de programar supera a ChatGPT y también a muchísimos desarrolladores humanos]]. ~ Bárbara Bécares. #Programación #IA #AlphaCode #ChatGPT
++ [[https://medium.com/@rwatkins_7167/updating-your-course-syllabus-for-chatgpt-965f4b57b003][Update your course syllabus for ChatGPT]]. ~ Ryan Watkins. #AI #ChatGPT
++ [[https://www.cnet.com/tech/services-and-software/search-engine-you-com-launches-chatgpt-style-chatbot/][Search engine you.com launches ChatGPT-style chatbot, but don't trust it fully yet]]. ~ Imad Khan (@Imad), Ian Sherr (@iansherr). #ChatGPT #YouChat #AI
++ [[https://www.surgehq.ai/blog/googles-existential-threat-chatgpt-matches-googles-performance-on-informational-search-queries-and-smashes-it-on-coding][We evaluated ChatGPT vs. Google on 500 search queries]]. ~ Edwin Chen. #ChatGPT
+
 *** 23-Dic-22
 + [[https://arxiv.org/abs/2212.11630][Towards mechanised proofs in double-pushout graph transformation]]. ~ Robert Söldner, Detlef Plump. #ITP #IsabelleHOL
 + [[https://www.tweag.io/blog/2022-12-22-making-ghc-faster-at-emitting-code/][Making GHC faster at emitting code]]. ~ Alexis King. #Haskell #FunctionalProgramming
