@@ -42,6 +42,10 @@ its content.
 
 ** Diciembre 2022
 
+*** 26-Dic-22
++ [[https://arxiv.org/abs/2209.15492][Formalized class group computations and integral points on Mordell elliptic curves]]. ~ Anne Baanen, Alex J. Best, Nirvana Coppola, Sander R. Dahmen. #ITP #LeanProver #Math
++ [[https://youtu.be/I6tmM3wNGEI][Haskell Course: Lesson 10: Creating type classes and instances]]. ~ Robertino Martínez (@_roberm_). #Haskell #FunctionalProgramming
+
 *** 24-Dic-22
 + [[https://research.chalmers.se/publication/532951/file/532951_Fulltext.pdf][A verified theorem prover for higher-order logic]]. ~ Oskar Abrahamsson. #PhDThesis #ITP #HOL4
 + [[https://arxiv.org/abs/2212.10453v1][Pragmatic isomorphism proofs between Coq representations: application to lambda-term families]]. ~ Catherine Dubois, Nicolas Magaud, Alain Giorgetti. #ITP #Coq
