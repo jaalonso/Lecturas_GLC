@@ -42,6 +42,9 @@ its content.
 
 ** Diciembre 2022
 
+*** 27-Dic-22
++ [[https://ipqcoq.github.io/cpp2023fereevangool-prepub.pdf][Formalizing and computing propositional quantifiers]]. ~ Hugo Férée, Sam van Gool. #ITP #Coq #Logic #Math
+
 *** 26-Dic-22
 + [[https://arxiv.org/abs/2209.15492][Formalized class group computations and integral points on Mordell elliptic curves]]. ~ Anne Baanen, Alex J. Best, Nirvana Coppola, Sander R. Dahmen. #ITP #LeanProver #Math
 + [[https://youtu.be/I6tmM3wNGEI][Haskell Course: Lesson 10: Creating type classes and instances]]. ~ Robertino Martínez (@_roberm_). #Haskell #FunctionalProgramming
