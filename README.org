@@ -42,6 +42,11 @@ its content.
 
 ** Diciembre 2022
 
+*** 28-Dic-22
++ [[https://cacm.acm.org/careers/268173-study-finds-ai-assisted-code-is-more-likely-to-be-buggy/fulltext][Study finds AI-assisted code is more likely to be buggy]]. #AI #Programming
++ [[https://elpais.com/tecnologia/2022-12-27/chatgpt-la-inteligencia-artificial-de-moda-permite-que-cualquiera-pueda-lanzar-un-ciberataque.html][ChatGPT, la inteligencia artificial de moda, permite que cualquiera pueda lanzar un ciberataque]]. ~ Manuel G. Pascual (@ManuGPascual). #ChatGPT #AI
++ [[https://www.genbeta.com/web/este-buscador-tiene-ia-a-que-le-puedes-preguntar-como-a-chatgpt-puedes-usarlo-siguiente-paso-buscadores][Este buscador tiene una IA a la que le puedes preguntar como a ChatGPT y puedes usarlo ya: es el siguiente paso de los buscadores]]. ~ Antonio Vallejo (@96kambiz). #ChatGPT #YouChat
+
 *** 27-Dic-22
 + [[https://ipqcoq.github.io/cpp2023fereevangool-prepub.pdf][Formalizing and computing propositional quantifiers]]. ~ Hugo Férée, Sam van Gool. #ITP #Coq #Logic #Math
 
