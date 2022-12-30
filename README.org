@@ -42,6 +42,15 @@ its content.
 
 ** Diciembre 2022
 
+*** 29-Dic-22
++ [[https://arxiv.org/abs/2212.12764][A result on the small quasi-kernel conjecture]]. ~ Allan van Hulst. #ITP #Coq #Math
++ [[https://anarc.at/blog/2020-02-02-most-significant-programming-languages-history/][20 most significant programming languages in history]]. ~ Anarcat. #CompSci #Programming H/T @fernand0
++ [[https://www.noemamag.com/ai-and-the-limits-of-language][AI and the limits of language]]. ~ Jacob Browning, Yann LeCun. #AI #LLMs
++ [[https://www.scientificamerican.com/article/chatgpt-explains-why-ais-like-chatgpt-should-be-regulated/][ChatGPT explains why AIs like ChatGPT should be regulated]]. ~ Sophie Bushwick, Madhusree Mukerjee. #AI #ChatGPT
++ [[https://www.infolibre.es/medios/chatgpt-maquina-desinformacion_1_1395489.html][El chatGPT es una máquina de desinformación]]. ~ Alejandro Muñoz. #ChatGPT
++ [[https://algoritmo.buzzsprout.com/758831/11933949-generadores-automaticos-de-codigo-el-fin-de-la-programacion-e-104][Generadores automáticos de código: ¿El fin de la programación?]] ~ Camilo Chacón Sartori (@camilo_chacon_s). #Programación
++ [[https://algoritmo.buzzsprout.com/758831/11944753-el-futuro-de-los-lenguajes-de-programacion-e-105][El futuro de los lenguajes de programación]]. ~ Camilo Chacón Sartori (@camilo_chacon_s). #Programación
+
 *** 28-Dic-22
 + [[https://cacm.acm.org/careers/268173-study-finds-ai-assisted-code-is-more-likely-to-be-buggy/fulltext][Study finds AI-assisted code is more likely to be buggy]]. #AI #Programming
 + [[https://elpais.com/tecnologia/2022-12-27/chatgpt-la-inteligencia-artificial-de-moda-permite-que-cualquiera-pueda-lanzar-un-ciberataque.html][ChatGPT, la inteligencia artificial de moda, permite que cualquiera pueda lanzar un ciberataque]]. ~ Manuel G. Pascual (@ManuGPascual). #ChatGPT #AI
