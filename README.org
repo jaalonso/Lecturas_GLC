@@ -42,6 +42,10 @@ its content.
 
 ** Diciembre 2022
 
+*** 31-Dic-23
++ [[https://www.micahcantor.com/blog/haskell-synthesis-ghc/][Synthesizing the boring parts with GHC: a research progress report]]. ~ Micah Cantor (@micah_cantor). #Haskell #FunctionalProgramming
++ [[https://youtu.be/eKY_1j9VrEA][¿Dimensión fraccionaria? El fractal del copo de nieve de Koch]]. ~ @mike_mates. #Matemáticas
+
 *** 29-Dic-22
 + [[https://arxiv.org/abs/2212.12764][A result on the small quasi-kernel conjecture]]. ~ Allan van Hulst. #ITP #Coq #Math
 + [[https://anarc.at/blog/2020-02-02-most-significant-programming-languages-history/][20 most significant programming languages in history]]. ~ Anarcat. #CompSci #Programming H/T @fernand0
