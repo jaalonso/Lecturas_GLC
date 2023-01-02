@@ -10,35 +10,45 @@ At the end of each article you will find tags related to the systems it uses or
 its content.
 
 * Content                                                                      :TOC:
-- [[#readings-of-the-year-2022][Readings of the year 2022]]
+- [[#lecturas-del-año-2023][Lecturas del año 2023]]
+  - [[#enero-2023][Enero 2023]]
+- [[#lecturas-del-año-2022][Lecturas del año 2022]]
   - [[#diciembre-2022][Diciembre 2022]]
   - [[#noviembre-2022][Noviembre 2022]]
   - [[#octubre-2022][Octubre 2022]]
   - [[#septiembre-2022][Septiembre 2022]]
   - [[#agosto-2022][Agosto 2022]]
   - [[#julio-2022][Julio 2022]]
-  - [[#june-2022][June 2022]]
-  - [[#may-2022][May 2022]]
-  - [[#april-2022][April 2022]]
-  - [[#march-2022][March 2022]]
-  - [[#february-2022][February 2022]]
-  - [[#january-2022][January 2022]]
-- [[#readings-of-the-year-2021][Readings of the year 2021]]
-  - [[#december-2021][December 2021]]
-  - [[#november-2021][November 2021]]
-  - [[#october-2021][October 2021]]
-  - [[#september-2021][September 2021]]
-  - [[#august-2021][August 2021]]
-  - [[#july-2021][July 2021]]
-  - [[#june-2021][June 2021]]
-  - [[#may-2021][May 2021]]
-  - [[#april-2021][April 2021]]
-  - [[#march-2021][March 2021]]
-  - [[#february-2021][February 2021]]
-  - [[#january-2021][January 2021]]
-- [[#previous-readings][Previous readings]]
+  - [[#junio-2022][Junio 2022]]
+  - [[#mayo-2022][Mayo 2022]]
+  - [[#abril-2022][Abril 2022]]
+  - [[#marzo-2022][Marzo 2022]]
+  - [[#febrero-2022][Febrero 2022]]
+  - [[#enero-2022][Enero 2022]]
+- [[#lecturas-del-año-2021][Lecturas del año 2021]]
+  - [[#diciembre-2021][Diciembre 2021]]
+  - [[#noviembre-2021][Noviembre 2021]]
+  - [[#octubre-2021][Octubre 2021]]
+  - [[#septiembre-2021][Septiembre 2021]]
+  - [[#agosto-2021][Agosto 2021]]
+  - [[#julio-2021][Julio 2021]]
+  - [[#junio-2021][Junio 2021]]
+  - [[#mayo-2021][Mayo 2021]]
+  - [[#abril-2021][Abril 2021]]
+  - [[#marzo-2021][Marzo 2021]]
+  - [[#febrero-2021][Febrero 2021]]
+  - [[#enero-2021][Enero 2021]]
+- [[#lecturas-anteriores][Lecturas anteriores]]
 
-* Readings of the year 2022
+* Lecturas del año 2023
+
+** Enero 2023
+
+*** 01-Ene-23
++ [[https://byorgey.wordpress.com/2023/01/01/competitive-programming-in-haskell-better-binary-search/][Competitive programming in Haskell: better binary search]]. ~ Brent Yorgey. #Haskell #FunctionalProgramming
++ [[https://www.theguardian.com/technology/2022/dec/31/ai-assisted-plagiarism-chatgpt-bot-says-it-has-an-answer-for-that][AI-assisted plagiarism? ChatGPT bot says it has an answer for that]]. ~ Alex Hern. #AI #ChatGPT
+
+* Lecturas del año 2022
 
 ** Diciembre 2022
 
@@ -173,7 +183,7 @@ its content.
 *** 07-Dic-22
 + [[https://arxiv.org/abs/2212.02902][A univalent formalization of affine schemes]]. ~ Anders Mörtberg, Max Zeuner. #ITP #Agda #Math
 + [[https://arxiv.org/abs/2205.07979][Budge: a programming language and a theorem prover]]. ~ Boro Sitnikovski. #Programming #TheoremProver
-+ [[https://www.theatlantic.com/technology/archive/2022/12/chatgpt-ai-writing-college-student-essays/672371/][The college essay is dead]].. ~ Stephen Marche. #AI #ChatGPT 
++ [[https://www.theatlantic.com/technology/archive/2022/12/chatgpt-ai-writing-college-student-essays/672371/][The college essay is dead]].. ~ Stephen Marzoe. #AI #ChatGPT 
 + [[https://www.engraved.blog/building-a-virtual-machine-inside/][Building a virtual machine inside ChatGPT]]. ~ Jonas Degrave. #ChatGPT
 
 *** 06-Dic-22
@@ -324,7 +334,7 @@ its content.
 *** 07-Nov-22
 + [[https://blog.adrianistan.eu/acertijo-cebra][El acertijo de la cebra]]. ~ Adrián Arroyo Calle. #Prolog #LogicProgramming
 
-*** 5-Nov-22
+*** 05-Nov-22
 + [[https://blog.plover.com/prog/haskell/numbers.html][A map of Haskell's numeric types]]. ~ Mark Dominus. #Haskell #FunctionalProgramming
 + [[https://kevin-da-silva.medium.com/one-problem-five-solutions-zip-function-ad1ed3bd1f16][One problem five solutions: Zip function]]. ~ Kevin Da Silva. #Haskell #Elixir #JavaScript #Python #Vlang
 + [[https://www.nature.com/articles/475166a][The unplanned impact of mathematics]]. ~ Peter Rowlett. #Math
@@ -365,7 +375,7 @@ its content.
 + [[https://github.com/jworr/happy][Implementation of a DSL (Domain Specific Language) using Happy]]. ~ J. Walker Orr. #Haskell #FunctionalProgramming
 
 *** 29-Oct-22
-+ [[https://macsphere.mcmaster.ca/bitstream/11375/28050/2/Ray_Lekhani_2022October_MSc.pdf][Formalization of biform theories in Isabelle]]. ~ Lekhani Ray. #ITP #IsabelleHOL
++ [[https://macsphere.mcmaster.ca/bitstream/11375/28050/2/Ray_Lekhani_2022Octubre_MSc.pdf][Formalization of biform theories in Isabelle]]. ~ Lekhani Ray. #ITP #IsabelleHOL
 + [[https://eprints.ucm.es/id/eprint/75214/1/Paula_Pastor_P%C3%A9rez%20(1).pdf][Verification of greedy algorithms in Dafny]]. ~ Paula Eugenia Pastor Pérez. #FormalVerification #Dafny
 + [[https://dependenttyp.es/pdf/oramproposal.pdf][Towards formally verified path ORAM in Coq]]. ~ Hannah Leung, Talia Ringer, Christopher W. Fletcher. #ITP #Coq
 
@@ -1114,7 +1124,7 @@ its content.
 + [[https://www.quora.com/Which-is-the-best-functional-programming-language-1 ][Which is the best functional programming language?]] ~ Aaron Christianson. #FunctionalProgramming
 + [[https://serokell.io/blog/10-reasons-to-use-haskell][10 reasons to use Haskell]]. ~ Vladislav Zavialov. #Haskell #FunctionalProgramming
 
-** June 2022
+** Junio 2022
 
 *** 30-Jun-22
 + [[https://arxiv.org/abs/2010.10296][Definitional quantifiers realisel semantic reasoning for proof by induction]]. ~ Yutaka Nagashima. #ITP #IsabelleHOL
@@ -1183,7 +1193,7 @@ its content.
 + [[https://lawrencecpaulson.github.io//2022/06/15/Ramsey-2.html][Formalising Ramsey theory, II]]. ~ Lawrence C. Paulson (@LawrPaulson). #ITP #IsabelleHOL #Math
 + [[https://digama0.github.io/mm0/thesis-slides.pdf][Metamath Zero (From logic, to proof assistant, to verified compiler) [Slides]]]. ~ Mario Carneiro. #ITP #MetamathZero
 + [[https://hal.inria.fr/hal-03689027/document][Towards corecursion without corecursion in Coq]]. ~ Vlad Rusu, David Nowak. #ITP #Coq
-+ [[https://leanprover-community.github.io/blog/posts/month-in-mathlib-may-2022/][This month in mathlib (May 2022)]]. #ITP #LeanProver #MathLib #Math
++ [[https://leanprover-community.github.io/blog/posts/month-in-mathlib-may-2022/][This month in mathlib (Mayo 2022)]]. #ITP #LeanProver #MathLib #Math
 
 *** 14-Jun-22
 + [[https://mmhaskell.com/blog/2022/6/13/exception-type-details][Exception type details]]. ~ James Bowen (@james_OWA). #Haskell #FunctionalProgramming
@@ -1271,7 +1281,7 @@ its content.
 + [[https://vishpat.github.io/lisp-rs-wasm/][Lisp interpreter in a browser using WASM]]. ~ Vishal Patil. #CommonLisp #RustLang
 
 
-** May 2022
+** Mayo 2022
 
 *** 31-May-22
 + [[https://simon.peytonjones.org/assets/pdfs/triemaps-that-match.pdf][Triemaps that match]]. ~ Simon Peyton Jones, Richard A. Eisenberg, Sebastian Gra. #Haskell #FunctionalProgramming
@@ -1410,7 +1420,7 @@ its content.
 + [[https://arxiv.org/abs/2204.12311][Formalizing a diophantine representation of the set of prime numbers]]. ~ Karol Pąk, Cezary Kaliszyk. #ITP #Mizar #Math
 + [[https://arxiv.org/abs/2204.10370][Passport: Improving automated formal verification using identifiers]]. ~ Alex Sanchez-Stern, Emily First, Timothy Zhou, Zhanna Kaufman, Yuriy Brun, Talia Ringer. #ITP #Coq #MachineLearning
 
-** April 2022
+** Abril 2022
 
 *** 29-Abr-22
 + [[https://jonascarpay.com/posts/2022-04-26-calligraphy-tutorial.html][Calligraphy tutorial]]. ~ Jonas Carpay (@jonascarpay). #Haskell #FunctionalProgramming
@@ -1555,7 +1565,7 @@ its content.
 + [[http://blog.vmchale.com/article/intern-identifiers][Names in Haskell compilers]]. ~ Vanessa McHale. #Haskell #FunctionalProgramming
 + [[https://dmitrytsepelev.dev/haskell-adventures-functors][Haskell adventures: Functors]]. ~ Dmitry Tsepelev (@dmitrytsepelev). #Haskell #FunctionalProgramming
 
-** March 2022
+** Marzo 2022
 
 *** 31-Mar-22
 + [[https://arxiv.org/abs/2203.16344][Formalizing the ring of adèles of a global field]]. ~ María Inés de Frutos-Fernández. #ITP #LeanProver #Math
@@ -1711,7 +1721,7 @@ its content.
 + [[https://mmhaskell.com/blog/2022/2/28/treating-strings-like-lists][Treating strings like lists]]. ~ James Bowen (@james_OWA). #Haskell #FunctionalProgramming
 + [[https://amodernist.com/texts/emacs-compat.html][Teaching old Emacsen new tricks]]. ~ Philip Kaludercic. #Emacs #Lisp
 
-** February 2022
+** Febrero 2022
 
 *** 28-Feb-22
 + [[https://www.haskellforall.com/2022/02/what-is-monad-morphism-in-haskell.html][What is a monad morphism (in Haskell)?]] ~ Gabriella Gonzalez (@GabriellaG439). #Haskell #FunctionalProgramming
@@ -1779,7 +1789,7 @@ its content.
 + [[https://arxiv.org/abs/2202.05040][Lebesgue induction and Tonelli's theorem in Coq]]. ~ Sylvie Boldo, François Clément, Vincent Martin, Micaela Mayero, Houda Mouhcine. #ITP #Coq #Math
 + [[https://youtu.be/Lf7ML_ErWvQ][Software can literally be perfect (How Formal Verification and Magmide could make provably correct code tractable for practicing software engineers)]]. ~ Blaine Hansen. #ITP #Coq #Magmide
 + [[https://www.uibk.ac.at/mathematik/algebra/staff/fritz-tobias/ct2021_course_projects/report_working_with_a_computer_proof_assistant.pdf][Working with a computer proof assistant]]. ~ Andrea Mair, Martin Fuchs. #ITP #LeanProver
-+ [[https://libres.uncg.edu/ir/asu/f/Lapensee-Rankine_Samantha_December%202021_Thesis.pdf][Dynamic programming insights from programming contests]]. ~ Samantha Valentine Lapensée-Rankine. #MSc_Thesis #Programming
++ [[https://libres.uncg.edu/ir/asu/f/Lapensee-Rankine_Samantha_Diciembre%202021_Thesis.pdf][Dynamic programming insights from programming contests]]. ~ Samantha Valentine Lapensée-Rankine. #MSc_Thesis #Programming
 
 *** 15-Feb-22
 + [[https://www.isa-afp.org/entries/VYDRA_MDL.html][Multi-head monitoring of metric dynamic logic (in Isabelle/HOL)]]. ~ Martin Raszyk. #ITP #IsabelleHOL
@@ -1869,7 +1879,7 @@ its content.
 + [[https://www.cs.utexas.edu/users/EWD/transcriptions/EWD04xx/EWD473.html][On the teaching of programming, i]].e. on the teaching of thinking. ~ Edsger W.Dijkstra (1975). #CompSci #Programming
 + [[https://drops.dagstuhl.de/opus/volltexte/2022/15731/pdf/LIPIcs-CSL-2022-11.pdf][Synthetic integral cohomology in Cubical Agda]]. ~ Guillaume Brunerie, Axel Ljungström, Anders Mörtberg. #ITP #Agda #Math
 + [[https://drops.dagstuhl.de/opus/volltexte/2022/15734/pdf/LIPIcs-CSL-2022-14.pdf][Realising intensional S4 and GL modalities]]. ~ Liang-Ting Chen, Hsiang-Shang Ko. #ITP #Agda
-+ [[https://youtu.be/QL5oGMxpmJI][[CPP'22] The seL4 verification: the art and craft of proof and the reality of commercial support]]. ~ June Andronick. #FormalVerification #ITP #IsabelleHOL
++ [[https://youtu.be/QL5oGMxpmJI][[CPP'22] The seL4 verification: the art and craft of proof and the reality of commercial support]]. ~ Junio Andronick. #FormalVerification #ITP #IsabelleHOL
 + [[https://youtu.be/soinDToPFdY][[CPP'22] Structural embeddings revisited]]. ~ César Muñoz. #ITP #PVS
 + [[https://youtu.be/StQ40osfQTo][[CPP'22] Coq's vibrant ecosystem for verification engineering]]. ~ Andrew Appel. #ITP #Coq
 + [[https://youtu.be/MXyRZgWFI3M][[CPP'22] Formalising Lie algebras]]. ~ Oliver Nash. #ITP #LeanProver #Math
@@ -1907,19 +1917,19 @@ its content.
 + [[http://asignatura.us.es/algbas][Curso: Álgebra básica]]. #Matemáticas
 + [[https://irreal.org/blog/?p=10276][Combining find and grep in Emacs]]. #Emacs
 
-** January 2022
+** Enero 2022
 
-*** 31-Jan-22
+*** 31-Ene-22
 + [[https://www.isa-afp.org/entries/Irrationals_From_THEBOOK.html][Irrational numbers from THE BOOK (in Isabelle/HOL)]]. ~ Lawrence C Paulson (@LawrPaulson). #ITP #IsabelleHOL #Math
 + [[https://www.huffpost.com/entry/haskell-the-language-most_b_4242119][Haskell, the language most likely to change the way you think about programming]]. ~ Aaron Contorer (@Contorer). #Haskell #FunctionalProgramming
 + [[https://chester-beard.medium.com/why-i-am-learning-haskell-d95d1e5212f3][Why I am learning Haskell (The Language for the Cardano Blockchain)]]. ~ Chester Beard (@CBeardWrites). #Haskell #FunctionalProgramming
 + [[https://cuddly-octo-palm-tree.com/posts/2022-01-30-opt-clj-3/][Notes on optimizing Clojure code: Example]]. ~ Gary Verhaegen (@gaverhae). #Clojure #FunctionalProgramming
 
-*** 30-Jan-22
+*** 30-Ene-22
 + [[https://www.cs.utexas.edu/users/EWD/ewd03xx/EWD360.pdf][Programming as a discipline of mathematical nature]]. ~ Edsger W.Dijkstra (1971). #CompSci #Programming #Math
 + [[https://www.cantorsparadise.com/the-beautiful-world-of-number-theory-the-queen-of-mathematics-72cda533cc7d][The beautiful world of number theory — The Queen of Mathematics]]. ~ Kasper Müller. #Math
 
-*** 29-Jan-22
+*** 29-Ene-22
 + [[https://youtu.be/YqaZchFrH5k][[London Learning Lean] Group cohomology]]. ~ Amelia Livingston. #ITP #LeanProver #Math
 + [[https://dl.acm.org/doi/pdf/10.1145/3497775.3503679][Formally verified superblock scheduling]]. ~ Cyril Six, Léo Gourdin, Sylvain Boulmé, David Monniaux, Justus Fasse, Nicolas Nardino. #ITP #Coq via @johnregehr
 + [[https://slides.com/haskellbeginners2022/lecture-4][[Haskell Beginners 2022] Lecture 4: Monads and IO]]. ~ Dmitrii Kovanikov (@ChShersh). #Haskell #FunctionalProgramming
@@ -1927,7 +1937,7 @@ its content.
 + [[https://arxiv.org/abs/2201.09488][Comparative verification of the Digital Library of Mathematical Functions and computer algebra systems]]. ~ André Greiner-Petter, Howard S. Cohl, Abdou Youssef, Moritz Schubotz, Avi Trost, Rajen Dey, Akiko Aizawa, Bela Gipp. #Math #CAS #Maple #Mathematica
 + [[https://www.microsiervos.com/archivo/juegos-y-diversion/custom-wordle-crear-wordles-palabras-longitud-idioma.html][Custom Wordle: el creador definitivo de wordles con la palabra que quieras, de cualquier longitud e idioma]]. ~ @Alvy. #Wordle
 
-*** 28-Jan-22
+*** 28-Ene-22
 + [[http://adam.chlipala.net/papers/AtlPOPL22/AtlPOPL22.pdf][Verified tensor-program optimization via high-level scheduling rewrites]]. ~ Amanda Liu, Gilbert Bernstein, Adam Chlipala, Jonathan Ragan-Kelley. #ITP #Coq via @johnregehr
 + [[https://arxiv.org/abs/2201.10816][50 Years of Prolog and beyond]]. ~ Philipp Körner, Michael Leuschel, João Barbosa, Vítor Santos Costa, Verónica Dahl, Manuel V. Hermenegildo, Jose F. Morales, Jan Wielemaker, Daniel Diaz, Salvador Abreu, Giovanni Ciatto. #Prolog #LogicProgramming
 + [[https://www.cambridge.org/core/elements/theoretical-computer-science-for-the-working-category-theorist/5F3499D1F326D2D77567AA1041627699][Theoretical Computer Science for the working category theorist]]. ~ Noson S. Yanofsky. #CategoryTheory #CompSci #Math
@@ -1935,7 +1945,7 @@ its content.
 + [[https://espeon.social/2022/01/l-systems/ Lisp][L-Systems (in Lisp)]]. ~ Violet White. #Programming #Math
 + [[https://blog.acthompson.net/2022/01/what-do-computer-science-teachers-need.html][What do Computer Science teachers need for professional development? ~ Alfred Thompson (@alfredtwo)]]. #CompSci #Education
 
-*** 27-Jan-22
+*** 27-Ene-22
 + [[https://arxiv.org/abs/2201.10280][The trusted computing base of the CompCert verified compiler]]. ~ David Monniaux, Sylvain Boulmé. #ITP #Coq
 + [[https://www.ias.ac.in/article/fulltext/sadh/034/01/0003-0025][Proof assistants: History, ideas and future]]. ~ H Geuvers #ITP
 + [[https://lawrencecpaulson.github.io//2022/01/26/Set_theory.html][Is Zermelo-Fraenkel set theory the foundation of mathematics? ~ Lawrence C]]. Paulson. #ITP #IsabelleHOL #Logic #Math #SetTheory
@@ -1945,7 +1955,7 @@ its content.
 + [[https://arxiv.org/abs/2201.10436][Safe AI: How is this possible?]] ~ Harald Rueß, Simon Burton. #AI
 + [[https://www.johndcook.com/blog/2022/01/25/non-equivalent-floating-point-numbers/][Non-equivalent floating point numbers]]. ~ John D. Cook (@JohnDCook). #CompSci #Programming #Math
 
-*** 26-Jan-22
+*** 26-Ene-22
 + [[https://arxiv.org/abs/2201.10443][Certifying algorithms and relevant properties of Reversible Primitive Permutations with Lean]]. ~ Giacomo Maletto, Luca Roversi. #ITP #LeanProver
 + [[https://www.ams.org/journals/bull/2022-59-01/S0273-0979-2021-01726-5/S0273-0979-2021-01726-5.pdf][Varieties of mathematical understanding]]. ~ Jeremy Avigad. #ITP #Math
 + [[https://www.isa-afp.org/entries/Median_Method.html][Median method (in Isabelle/HOL)]]. ~ Emin Karayel. #ITP #IsabelleHOL #Math
@@ -1954,7 +1964,7 @@ its content.
 + [[https://plato.stanford.edu/entries/philosophy-mathematics/][Philosophy of Mathematics]]. ~ Leon Horsten. #Math #Philosophy via @peoppenheimer
 + [[https://www.cambridge.org/core/elements/set-theory/3FE81CA4C7BAD6D472C94593914783B7][Set theory]]. ~ John P. Burgess. #Set_theory #Logic #Math
 
-*** 25-Jan-22
+*** 25-Ene-22
 + [[https://archive.org/details/disciplineofprog0000dijk][A discipline of programming]]. ~ Edsger W. Dijkstra (1976). #CompSci via @internetarchive
 + [[https://gist.github.com/elizabrock/d1206a4031c8215ad433][Great papers in Computer Science]]. ~ Eliza Brock Marcum (@elizabrock). #CompSci #History
 + [[https://books.google.es/books?id=oSq5BAAAQBAJ&lpg=PP1&hl=es&pg=PR1.6#v=onepage&q&f=false][Giants of computing: A compendium of select, pivotal pioneers]]. ~ Gerard O’Regan. #CompSci #History
@@ -1980,7 +1990,7 @@ its content.
 + [[https://www.cambridge.org/core/journals/journal-of-functional-programming/article/fregel-a-functional-domainspecific-language-for-vertexcentric-largescale-graph-processing/A6D4FC0B42C87B752E9AF88F681C5F13][Fregel: a functional domain-specific language for vertex-centric large-scale graph processing]]. ~ Hideya Iwasaki, Kento Emoto, Akimasa Morihata, Kiminori Matsuzaki, Zhenjiang Hu. #Haskell #FunctionalProgramming
 + [[https://www.buzzsprout.com/758831/9943702][Ingeniería y programación]] por Antonio Cabrera y Camilo Chacón Sartori (@camilo_chacon_s) en "Había una vez un algoritmo..." #Podcast #Programación
 + [[https://www.isa-afp.org/entries/Actuarial_Mathematics.html][Actuarial mathematics (in Isabelle/HOL)]]. ~ Yosuke Ito. #ITP #IsabelleHOL #Math
-*** 24-Jan-22
+*** 24-Ene-22
 + [[https://bit.ly/3qWSDgk][Brian Kernighan]]: "Controlling complexity is the essence of computer programming." #CompSci #Programming
 + [[https://archive.org/details/cprogramminglang0000kern_2ed][The C programming language]]. ~ Brian W. Kernighan and Dennis Ritchie (1972). #CompSci #Programming via @internetarchive
 + [[https://github.com/Developer-Y/cs-video-courses][Computer Science courses with video lectures]]. #CompSci
@@ -1998,20 +2008,20 @@ its content.
 + [[https://iccl.inf.tu-dresden.de/web/Foundations_of_Knowledge_Representation_(WS2021)/en][Course: Foundations of knowledge representation]]. ~ Hannes Straß. #KRR #Logic
 + [[https://www.researchgate.net/publication/228377589_Computational_Logic-Working_Material][Computational logic (Working material)]]. ~ Steffen Hölldobler. #Logic #AI
 
-*** 23-Jan-22
+*** 23-Ene-22
 + [[http://pu.inf.uni-tuebingen.de/users/klaeren/epigrams.html][Epigrams on programming]]. ~ Alan J. Perlis (1982). #CompSci #Programming
 + [[https://en.wikipedia.org/wiki/List_of_pioneers_in_computer_science][List of pioneers in computer science]]. #CompSci #History
 + [[https://amturing.acm.org/byyear.cfm][Chronological listing of A. M. Turing award winners]]. #CompSci #History
 + [[https://www.researchgate.net/profile/Ende-Jin/publication/357605442_Parametrized_CDCL_Verified_in_Coq/links/61d5fecab6b5667157cc53dc/Parametrized-CDCL-Verified-in-Coq.pdf][Parametrized CDCL verified in Coq]]. ~ Ende Jin. #ITP #Coq
 
-*** 22-Jan-22
+*** 22-Ene-22
 + [[http://worrydream.com/refs/Hoare%20-%20The%20Emperors%20Old%20Clothes.pdfa][The emperor’s old clothes]]. ~ C.A.R. Hoare (1981). #CompSci
 + [[https://scholarsarchive.library.albany.edu/cas_philosophy_scholar_books/4/][paratodo x: Una introducción a la lógica formal]]. ~ P.D. Magnus. #Lógica via @RrrichardZach
 + [[https://www.cs.yale.edu/homes/hudak/Papers/HSoM.pdf][The Haskell school of music (from signals to symphonies)]]. ~ Paul Hudak. #Haskell #FunctionalProgramming
 + [[https://www.cs.us.es/~jalonso/cursos/ia1-97/temas/tema-01.pdf ][Introducción a la Inteligencia Artificial]]. ~ José A. Alonso y Francisco J. Martín (1997). #IA #Historia
 + [[https://www.cs.us.es/~jalonso/cursos/ia2-02/temas/tema-1.pdf][Programación basada en reglas con CLIPS]]. ~  José A. Alonso, José Luis Ruiz y Francisco J. Martín (2002). #CLIPS
 
-*** 21-Jan-22
+*** 21-Ene-22
 + [[https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.136.3043&rep=rep1&type=pdf][Programming with abstract data types]]. ~ Barbara Liskov, Stephen Zilles (1974). #CompSci #Programming
 + [[https://www.cis.upenn.edu/~jean/math-deep.pdf][Algebra, topology, differential calculus, and optimization theory for computer science and machine learning]]. ~ Jean Gallier and Jocelyn Quaintance. #eBook #Math #MachineLearning via @CompSciFact
 + [[https://home.ttic.edu/~dreyer/course/papers/barendregt.pdf][Lambda calculi with types]]. ~ Henk Barendregt. #Logic #CompSci via @CompSciFact
@@ -2020,7 +2030,7 @@ its content.
 + [[https://book.simply-logical.space/][Simply logical (Intelligent reasoning by example)]]. ~ Peter Flach. #Logic #Prolog #LogicProgramming #AI
 + [[https://plus.maths.org/content/proof-picture][Proof by picture!]] #Math
 
-*** 20-Jan-22
+*** 20-Ene-22
 + [[https://trhvidsten.com/docs/classics/Goedel-1931.pdf][On formally undecidable propositions of "Principia Mathematica" and related systems I]]. ~ Kurt Gödel (1931). #Logic #Math
 + [[https://programming-language-benchmarks.vercel.app/][Programming language and compiler benchmarks]]. #Programming
 + [[https://github.com/hanabi1224/Programming-Language-Benchmarks][Programming language and compiler benchmarks (Repo)]]. #Programming
@@ -2030,12 +2040,12 @@ its content.
 + [[https://www.tweag.io/blog/2022-01-19-why-liquid-haskell/][Why Liquid Haskell matters]]. ~ Facundo Domínguez. #Haskell #LiquidHaskell
 + [[https://tarmean.github.io/branch_and_bound.html][Abstracting over branch and bound]]. #Haskell #FunctionalProgramming
 
-*** 19-Jan-22
+*** 19-Ene-22
 + [[https://www.astro.puc.cl/~rparra/tools/PAPERS/hilbert_1900.pdf][Mathematical problems]]. ~ David Hilbert (1900). #Math #CompSci
 + [[https://arxiv.org/abs/2201.05716][Mechanizing matching logic in Coq]]. ~ Péter Bereczky, Xiaohong Chen, Dániel Horpácsi, Tamás Bálint Mizsei, Lucas Peña. #ITP #Coq #Logic
 + [[http://real.mtak.hu/112925/1/381][Interactive teaching of programming language theory with a proof assistant]]. ~ Péter Bereczky, István Donkó, Dániel Horpácsi, Ambrus Kaposi, Dávid János Németh. #ITP #Coq
 
-*** 18-Jan-22
+*** 18-Ene-22
 + [[https://www.inf.unibz.it/~calvanese/teaching/11-12-tc/material/cook-1971-NP-completeness-of-SAT.pdf][The complexity of theorem-proving procedures]]. ~ Stephen A. Cook (1971). #CompSci #Logic #Math
 + [[https://youtu.be/mbjeniWFqcM ][[Formalising math 2022] Section 02: the reals, solutions to sheet 1 ("norm_num")]]. ~ Kevin Buzzard (@XenaProject). #ITP #LeanProver #Logic #Math
 + [[https://youtu.be/fuNF7lVouWs][[Formalising math 2022] Section 02: the reals, solutions to sheet 2 ("ring")]]. ~ Kevin Buzzard (@XenaProject). #ITP #LeanProver #Logic #Math
@@ -2053,7 +2063,7 @@ its content.
 + [[https://www21.in.tum.de/~traytel/papers/tacas22-verimon_letpast/verimon_letpast.pdf][Verified first-order monitoring with recursive rules]]. ~ Sheila Zingg, Sr̄dan Krstíc, Martin Raszyk, Joshua Schneider, Dmitriy Traytel. #ITP #IsabelleHOL
 + [[https://homepages.uni-regensburg.de/~usm34387/masterarbeit.pdf][Computability and l²-Betti numbers]]. ~ Matthias Uschold. #MSc_Thesis #ITP #LeanProver
 
-*** 17-Jan-22
+*** 17-Ene-22
 + [[http://sunnyday.mit.edu/16.355/Hoare-CACM-69.pdf][An axiomatic basis for computer programming]]. ~ C. A. R. Hoare (1969). #CompSci
 + [[https://zulip-uploads.s3.amazonaws.com/3121/sTt0HtbubzJwl1ZYkLpLRetd/TacticGuide.pdf?AWSAccessKeyId=AKIAIEVMBCAT2WD3M5KQ&Signature=1FJy4zP85WH4HQ4qi7E3Nm%2BTYSQ%3D&Expires=1642411032][A practical guide to writing tactics in Lean]]. ~ Daniel J. Velleman. #ITP #LeanProver
 + [[https://jxxcarlson.medium.com/lambda-calculus-an-elm-cli-fd537071db2b][Lambda calculus: an Elm CLI]]. ~ James Carlson. #Elm #FunctionalProgramming #LambdaCalculus
@@ -2062,13 +2072,13 @@ its content.
 + [[https://lawrencecpaulson.github.io//2022/01/19/regular-pairs.html][Formalising extremal graph theory, I]]. ~ Lawrence C. Paulson. #ITP #IsabelleHOL #Math
 + [[https://mmhaskell.com/blog/2022/1/17/transposing-rows][Transposing rows]]. ~ James Bowen (@james_OWA). #Haskell #FunctionalProgramming
 
-*** 16-Jan-22
+*** 16-Ene-22
 + [[http://jmc.stanford.edu/articles/recursive/recursive.pdf][Recursive functions of symbolic expressions and their computation by machine]]. ~ John McCarthy (1960). #CompSci #Lisp
 + [[https://archive.org/details/foundationsofari0000freg][The foundations of arithmetic: a logico-mathematical enquiry into the concept of number]]. ~ Gottlob Frege (1884). #Logic #Math via @internetarchive
 + [[https://archive.org/details/diegrundlagende00freggoog][Die Grundlagen der Arithmetik: eine logisch mathematische Untersuchung über den Begriff der Zahl]]. ~ Gottlob Frege (1884). #Logic #Math via @internetarchive
 + [[https://github.com/lecopivo/SciLean][SciLean: Framework for scientific computing written in Lean]]. ~ Tomas Skrivnan. #ITP #LeanProver #FunctionalProgramming #Math
 
-*** 15-Jan-22
+*** 15-Ene-22
 + [[https://archive.org/details/MIND--COMPUTING-MACHINERY-AND-INTELLIGENCE][Computing machinery and intelligence]]. ~ Alan Mathison Turing (1950). #CompSci #AI via @internetarchive
 + [[https://archive.org/details/atreatiseonalge02peacgoog][A treatise on algebra]]. ~ George Peacock (1830).
 + [[https://plato.stanford.edu/entries/logic-ai/][Logic and artificial intelligence]]. ~ Richmond Thomason (2018). #Logic #AI
@@ -2093,14 +2103,14 @@ its content.
 + [[https://elvishjerricco.github.io/2017/03/10/profunctors-arrows-and-static-analysis.html][Profunctors, arrows, & static analysis]]. Will Fancher (@ElvishJerricco). #Haskell #FunctionalProgramming
 + [[http://jackkelly.name/wiki/haskell.html][Haskell learning resource collection]]. ~ Jack Kelly. #Haskell #FunctionalProgramming
 
-*** 14-Jan-22
+*** 14-Ene-22
 + [[https://www.cs.virginia.edu/~evans/greatworks/shannon38.pdf][A symbolic analysis of relay and switching circuits]]. Claude Shannon (1938). #CompSci
 + [[https://www.karimarttila.fi/clojure/2022/01/13/datalog-exercises.html][Clojure & Datalog is Lisp & Prolog]]. ~ Kari Marttila. #Clojure #Datalog #Lisp #Prolog #FunctionalProgramming #LogicProgramming
 + [[https://youtu.be/UykGFDVfQNA][[London Learning Lean] Formalizing adèles and idèles]]. ~ María Inés de Frutos-Fernández. #ITP #LeanProver #Math
 + [[https://youtu.be/SAMxgEtLTcg][Formalising Lie algebras]]. ~ Oliver Nash. #ITP #LeanProver #Math
 + [[https://leanprover.zulipchat.com/user_uploads/3121/mqEJI5ZdyytcJnb1L3wWGhQD/TacticGuide.pdf][A practical guide to writing tactics in Lean]]. ~ Daniel J. Velleman. #ITP #LeanProver
 
-*** 13-Jan-22
+*** 13-Ene-22
 + [[https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf][On computable numbers, with an application to the Entscheidungsproblem]]. ~ Alan Mathison Turing (1936). #CompSci #Logic #Math
 + [[https://www.cambridge.org/core/journals/journal-of-functional-programming/article/building-a-consensus-a-rectangle-covering-problem/561C117A97FE0388AF96155469348B6B][Building a consensus: A rectangle covering problem]]. ~ Richard S. Bird (2011). #Haskell #FunctionalProgramming
 + [[https://www.theguardian.com/science/2022/jan/10/can-you-solve-it-godels-incompleteness-theorem][Can you solve it? Gödel’s incompleteness theorem (The proof that rocked maths)]]. ~ Alex Bellos (@alexbellos). #Logic #Math).
@@ -2117,7 +2127,7 @@ its content.
 + [[https://youtu.be/Mwx9zkQM-Kk][[Formalising math 2022] Section 01 Logic, solutions to sheet 6 ("or")]]. ~ Kevin Buzzard (@XenaProject) #ITP #LeanProver #Logic #Math
 + [[https://mmhaskell.com/blog/2022/1/13/group-theory]["Group" theory]]. ~ James Bowen (@james_OWA). #Haskell #FunctionalProgramming
 
-*** 12-Jan-22
+*** 12-Ene-22
 + [[https://www.gutenberg.org/files/15114/15114-pdf.pdf][An investigation of the laws of thought on which are founded the mathematical theories of logic and probabilities]]. ~ George Boole (1854). #Logic #Math
 + [[http://revue.sesamath.net/spip.php?article1478][La machine de Turing (1/2)]]. ~ Patrice Debrabant. #CompSci #Scratch
 + [[http://revue.sesamath.net/spip.php?article1462][La préhistoire de l’informatique]]. ~ Bernard Ycart. #CompSci #History
@@ -2140,7 +2150,7 @@ its content.
 + [[https://youtu.be/JTl6NHNxyDk][[Formalising math 2022] Section 01 Logic, solutions to sheet 2]]. ~ Kevin Buzzard (@XenaProject) #ITP #LeanProver #Logic #Math
 + [[https://youtu.be/qDKtXrOy6CM][[Formalising math 2022] Section 01 Logic, solutions to sheet 3]]. ~ Kevin Buzzard (@XenaProject) #ITP #LeanProver #Logic #Math
 
-*** 11-Jan-22
+*** 11-Ene-22
 + [[http://www.leibniz-translations.com/truemethod.htm][The true method]]. ~ Gottfried Wilhelm Leibniz (1677). #Logic #CompSci #AI #Knowledge_representation #Automated_reasoning
 + [[https://arxiv.org/abs/2201.03242][A Coq formalization of the Bochner integral]]. ~ Sylvie Boldo, François Clément, Louise Leclerc. #ITP #Coq #Math
 + [[https://dreamsongs.com/ArtOfLisp.html][The art of Lisp & writing]]. ~ Richard Gabriel (2003). #Lisp #Programming
@@ -2154,7 +2164,7 @@ its content.
 + [[https://www.comp.nus.edu.sg/~hobor/Publications/2021/CertiDKP.pdf][Functional correctness of C implementations of Dijkstra’s, Kruskal’s, and Prim’s algorithms]]. ~ Aquinas Hobor, Anshuman Mohan, Wei Xiang. #ITP #Coq
 + [[https://www.gaussianos.com/demostracion-en-una-linea-del-teorema-de-varignon/][Demostración en una línea del teorema de Varignon]]. ~ Miguel Ángel Morales (@gaussianos). #Matemáticas
 
-*** 10-Jan-22
+*** 10-Ene-22
 + [[http://sunnyday.mit.edu/16.355/wirth-refinement.html]["Program development by stepwise refinement"]]. ~ Niklaus Wirth (1971). #CompSci
 + [[https://fpunfold.com/2022/01/09/haskell-dp.html][Dynamic programming in Haskell]]. ~ Amogh Rathore (@RathoreAmogh). #Haskell #FunctionalProgramming
 + [[https://www.johndcook.com/blog/2022/01/09/beattys-theorem/][Beatty’s theorem]]. ~ John D. Cook (@JohnDCook). #Math #Python
@@ -2162,7 +2172,7 @@ its content.
 + [[http://www.lix.polytechnique.fr/Labo/Samuel.Mimram/teaching/INF551/course.pdf][Program / Proof]]. ~ Samuel Mimram. #Agda #FunctionalProgramming #ITP #Logic
 + [[https://youtu.be/6MsQcUprO9o][Haskell Beginners 2022: Lecture 1 about Haskell and FP fundamentals]]. ~ Dmitrii Kovanikov (@ChShersh). #Haskell #FunctionalProgramming
 
-*** 09-Jan-22
+*** 09-Ene-22
 + [[http://www-formal.stanford.edu/jmc/history/lisp/lisp.html][History of Lisp]]. ~ John McCarthy (1979). #Lisp #FunctionalProgramming
 + [[https://www.researchgate.net/publication/220636751_Three_Paradigms_of_Computer_Science][Three paradigms of Computer Science]]. ~ Amnon H. Eden (2007). #CompSci
 + [[http://www.f.waseda.jp/sidoli/White_2004_Philosophy_Computer_Language.pdf][The philosophy of computer languages]]. ~ Graham White (2004). #CompSci
@@ -2172,7 +2182,7 @@ its content.
 + [[https://www.brunogavranovic.com/posts/2021-03-03-Towards-Categorical-Foundations-Of-Neural-Networks.html][Towards categorical foundations of learning]]. ~ Bruno Gavranović (@bgavran3). #CategoryTheory #DeepLearning
 + [[https://arxiv.org/abs/2112.15594][A neural network solves and generates mathematics problems by program synthesis: Calculus, differential equations, linear algebra, and more]]. ~ Iddo Drori et als. #MachineLearning #Math
 
-*** 08-Jan-22
+*** 08-Ene-22
 + [[https://archive.org/details/asurveyofsymboli00lewiuoft via @internetarchive][A survey of symbolic logic]]. ~ Clarence Irving Lewis (1918). #Logic #Math
 + [[https://notxor.nueva-actitud.org/2022/01/08/preparando-emacs-para-trabajar-con-clojure.html][Preparando Emacs para trabajar con Clojure]]. ~ Notxor. #Emacs #Clojure #FunctionalProgramming
 + [[https://youtu.be/I4pQbo5MQOs][The paradox at the heart of mathematics: Gödel's Incompleteness Theorem]]. ~ Marcus du Sautoy. #Logic #Math
@@ -2187,7 +2197,7 @@ its content.
 + [[https://raw.githubusercontent.com/mukeshtiwari/HotSpot2021/main/formal_properties_schulze.pdf][Machine checked properties of the Schulze method]]. ~ Mukesh Tiwari, Dirk Pattinson. #ITP #Coq
 + [[https://repozytorium.uwb.edu.pl/jspui/bitstream/11320/12387/1/10.2478_forma-2021-0008.pdf][On weakly associative lattices and near lattices (in Mizar)]]. ~ Damian Sawicki, Adam Grabowski. #ITP #Mizar #Math
 
-*** 07-Jan-22
+*** 07-Ene-22
 + [[https://math.byu.edu/~grant/courses/cantor1874.pdf][On a property of the class of all real algebraic numbers]]. ~ Georg Cantor (1874). #Logic #Math #SetTheory
 + [[http://bibliotecadigital.ilce.edu.mx/Colecciones/ReinaCiencias/_docs/SobreUnaPropiedadConjunto_Cantor.pdf][Sobre una propiedad del conjunto de los números algebraicos reales]]. ~ Georg Cantor (1874). #Lógica #Matemática #Teoría_de_conjuntos vía @kroftopkin
 + [[http://www.digizeitschriften.de/dms/resolveppn/?PID=GDZPPN002155583][Ueber eine Eigenschaft des Inbegriffes aller reellen algebraischen Zahlen]]. ~ Georg Cantor (1874). #Logic #Math #SetTheory
@@ -2206,7 +2216,7 @@ its content.
 + [[https://yangzhixuan.github.io/pdf/scoped-cata.pdf][Structured handling of scoped effects]]. ~ Zhixuan Yang, Marco Paviotti, Nicolas Wu, Birthe van den Berg, and Tom Schrijvers. #Haskell #FunctionalProgramming
 + [[https://yangzhixuan.github.io/pdf/fantastic-morphisms.pdf][Fantastic morphisms and where to find them (A guide to recursion schemes)]]. ~ Zhixuan Yang and Nicolas Wu (2019). #Haskell #FunctionalProgramming
 
-*** 06-Jan-22
+*** 06-Ene-22
 + [[https://archive.org/details/aninvestigation01boolgoog][An investigation of the laws of thought: On which are founded the mathematical theories of logic]]. ~ George Boole (1854). #Logic #Matha via @internetarchive
 + [[https://www.buzzsprout.com/758831/9831422-manuel-rubio-sanchez-recursividad-investigacion-y-el-valor-de-los-fundamentos-e-69]["Recursividad, investigación y el valor de los fundamentos" por Manuel Rubio-Sánchez (@MRubSan) y Camilo Chacón Sartori (@camilo_chacon) en "Había una vez un algoritmo]]...". #Podcast #Programación #Computación #Matemáticas
 + [[https://www.buzzsprout.com/758831/9788625-andros-fenollosa-programacion-funcional-clojure-y-el-amor-a-la-informatica-e-65]["Programación funcional, Clojure y el amor a la informática" por Andros Fenollosa (@androsfenollosa) y Camilo Chacón Sartori (@camilo_chacon) en "Había una vez un algoritmo]]...". #ProgramaciónFuncional #Clojure
@@ -2220,7 +2230,7 @@ its content.
 + [[https://github.com/haskell-beginners-2022/exercises][Exercises for the Haskell Beginners 2022 course]]. ~  Dmitrii Kovanikov (@ChShersh). #Haskell #FunctionalProgramming
 + [[https://www.cs.utexas.edu/~amiltner/burst.pdf][Bottom-up synthesis of recursive functional programs using angelic execution]]. ~ Anders Miltner, Adrian Trejo Nuñez, Ana Brendel, Swarat Chaudhuri, Isil Dillig. #OCaml #FunctionalProgramming
 
-*** 05-Jan-22
+*** 05-Ene-22
 + [[http://bibliotecadigital.ilce.edu.mx/Colecciones/ReinaCiencias/_docs/Los_principios_aritmetica.pdf][Los principios de la aritmética presentados por un nuevo método]]. ~ Giuseppe Peano (1889). #Lógica #Matemática via @kroftopkin
 + [[https://raw.githubusercontent.com/mdnahas/Peano_Book/master/Peano.pdf]["Arithmetices principia, nova methodo exposita" or "The principles of arithmetic, presented by a new method" (both in the original latin and in parallel english translation with modern mathematical notation)]]. ~ Giuseppe Peano (1889). #Logic #Math
 + [[https://archive.org/details/arithmeticespri00peangoog][Arithmetices principia: nova methodo]]. ~ Giuseppe Peano (1889). #Logic #Math via @internetarchive
@@ -2241,7 +2251,7 @@ its content.
 + [[https://www.cs.umd.edu/~rrand/thesis.pdf][Formally verified quantum programming]]. ~ Robert Rand (2018). #PhD_Thesis #ITP #Coq #QuantumProgramming
 + [[https://www.isa-afp.org/browser_info/current/AFP/Hyperdual/document.pdf][Hyperdual numbers and forward differentiation (in Isabelle/HOL)]]. ~ Filip Smola and Jacques Fleuriot. #ITP #IsabelleHOL #Math
 
-*** 04-Jan-22
+*** 04-Ene-22
  + [[https://archive.org/details/foundationsofari00freg][The foundations of arithmetic: a logico-mathematical enquiry into the concept of number]]. ~ Gottlob Frege (1884). #Logic #Math
  + [[http://bibliotecadigital.ilce.edu.mx/Colecciones/ReinaCiencias/_docs/Los_fundamentos_aritmetica-Frege.pdf][Los fundamentos de la aritmética]]. ~ Gottlob Frege (1884). #Lógica #Matemática
  + [[https://archive.org/details/diegrundlagende00freggoog][Die Grundlagen der Arithmetik : eine logisch mathematische Untersuchung über den Begriff der Zahl]]. ~ Gottlob Frege (1884). #Logic #Math
@@ -2262,7 +2272,7 @@ its content.
  + [[https://robbertkrebbers.nl/research/articles/actris2.pdf][Actris 2]].0: Asynchronous session-type based reasoning in separation logic. ~ Jonas Kastberg Hinrichsen, Jesper Bengtson and Robbert Krebbers. #ITP #Coq
  + [[https://royalsocietypublishing.org/doi/full/10.1098/rsta.2005.1650][The challenge of computer mathematics]]. ~ Henk Barendregt and Freek Wiedijk (2005). #ITP #Math
 
-*** 03-Jan-22
+*** 03-Ene-22
 + [[http://bibliotecadigital.ilce.edu.mx/Colecciones/ReinaCiencias/_docs/El_analisis_matematico-Boole.pdf][El análisis matemático de la lógica]]. ~ George Boole (1847). #Lógica #Matemática
 + [[https://archive.org/details/mathematicalanal00booluoft Logic][The mathematical analysis of logic]]. ~ George Boole (1847). #Math via @internetarchive
 + [[https://www.isa-afp.org/entries/Gale_Shapley.html][Gale-Shapley algorithm (in Isabelle/HOL)]]. ~ Tobias Nipkow. #ITP #IsabelleHOL
@@ -2285,7 +2295,7 @@ its content.
 + [[https://drive.google.com/file/d/1rY2ADHQX-rSUySSaiGi5G5iXduZD2e1D/view][Three different ways to prove Dandelin-Gallucci theorem]]. ~ David Braun, Nicolas Magaud, Pascal Schreck. #ITP #Coq #Math
 + [[http://eptcs.web.cse.unsw.edu.au/paper.cgi?ADG2021.13.pdf][Formalising geometric axioms for Minkowski spacetime and without-loss-of-generality theorems]]. ~ Richard Schmoetten, Jake Palmer, Jacques Fleuriot. #ITP #IsabelleHOL #Math
 
-*** 02-Jan-22
+*** 02-Ene-22
 + [[https://shemesh.larc.nasa.gov/people/cam/publications/NASA-TM-20205010644.pdf][Improving automated strategies for univariate quantifier elimination]]. ~ Katherine Cordwell, Cesar A. Muñoz, and Aaron M. Dutle. #ITP #PVS #Math
 + [[http://www.ijfcc.org/vol10/578-T0142.pdf][Formal verification of MILS partition scheduling module using layered methods]]. ~ Yang Gao, Xia Yang, Wensheng Guo, and Xiutai Lu. #ITP #Coq
 + [[https://slides.com/haskellbeginners2022/lecture-1][Haskell beginners 2022: Lecture 1 (Fundamentals)]]. ~ Dmitrii Kovanikov (@ChShersh). #Haskell #FunctionalProgramming
@@ -2305,7 +2315,7 @@ its content.
 + [[https://eccc.weizmann.ac.il/report/2022/002/][Extending merge resolution to a family of proof systems]]. ~ Sravanthi Chede, Anil Shukla. #Logic #CompSci
 + [[https://arxiv.org/abs/2103.01046][Extending Prolog for quantified boolean Horn formulas]]. ~ Anish Mallick, Anil Shukla. #Prolog #LogicProgramming
 
-*** 01-Jan-22
+*** 01-Ene-22
 + [[https://github.com/jaalonso/Lecturas_GLC][Readings on computational logic, interactive theorem proving, and functional programming]]. #ITP #FunctionalProgramming
 + [[https://raw.githubusercontent.com/mukeshtiwari/HotSpot2021/main/formal_properties_schulze.pdf][Machine checked properties of the Schulze method]]. ~ Mukesh Tiwari and Dirk Pattinson. #ITP #Coq
 + [[https://gto76.github.io/python-cheatsheet/][Comprehensive Python cheatsheet]]. ~ Jure Šorn. #Python
@@ -2331,9 +2341,9 @@ its content.
 + [[https://lauratitolo.github.io/publication/2021fac/2021FAC.pdf][Formal analysis of the compact position reporting algorithm]]. ~ Aaron Dutle, Mariano M. Moscato, Laura Titolo, César A. Muñoz, Gregory Anderson, and François Bobot. #ITP #PVS
 + [[https://shemesh.larc.nasa.gov/people/amd/publications/CPP2021-SAS_RA-draft.pdf][Formal verification of semi-algebraic sets and real analytic functions]]. ~ J. Tanner Slagel, Lauren White, and Aaron Dutle. #ITP #PVS #Mat
 
-* Readings of the year 2021
+* Lecturas del año 2021
 
-** December 2021
+** Diciembre 2021
 
 *** 31-Dic-21
 + [[https://www.researchgate.net/publication/328518510_Classification_of_Finite_Fields_with_Applications][Classification of finite fields with applications]]. ~ Hing-Lun Chan and Michael Norrish (2019). #ITP #HOL4 #Math
@@ -2543,9 +2553,7 @@ its content.
 + [[https://dl.acm.org/ft_gateway.cfm?id=2617811&ftid=1457525&dwn=1][Domain-specific languages and code synthesis using Haskell]]. ~ Andy Gill. #Haskell #FunctionalProgramming
 + [[https://www.parsonsmatt.org/2021/11/30/rank_n_types_via_lambda_calculus.html][RankNTypes via lambda calculus]]. ~ Matt Parsons (@mattoflambda). #Haskell #FunctionalProgramming
 
-
-
-** November 2021
+** Noviembre 2021
 
 *** 30-Nov-21
 + [[https://people.csail.mit.edu/cpitcla/thesis/relational-compilation.html][On relational compilation]]. ~ Clément Pit-Claudel (@cpitclaudel). #ITP #Coq
@@ -2686,9 +2694,7 @@ its content.
 + [[https://arxiv.org/abs/1102.132][Type classes for mathematics in type theory]]. ~ Bas Spitters, Eelis van der Weegen.3# #ITP #Coq #Math
 + [[https://tqft.net/web/notes/load.php?name=students/20180219-MitchRowett-ASC-report-on-Lean][Group theory in Lean]]. ~ Mitchell Rowet. #ITP #LeanProver #Math
 
-
-
-** October 2021
+** Octubre 2021
 
 *** 31-Oct-21
 + [[https://www.isa-afp.org/entries/X86_Semantics.html?utm_source=dlvr.it&utm_medium=twitter][X86 instruction semantics and basic block symbolic execution (in Isabelle/HOL)]]. ~ Freek Verbeek, Abhijith Bharadwaj, Joshua Bockenek, Ian Roessle, Timmy Weerwag, Binoy Ravindran. #ITP #IsabelleHOL
@@ -2841,7 +2847,7 @@ its content.
 + [[https://youtu.be/fNpsgTIpODA][How to market Haskell to a mainstream programmer]]. ~ Gabriella Gonzalez (@GabrielG439). #Haskell #FunctionalProgramming
 + [[http://h2.jaguarpaw.co.uk/posts/nested-strict-data/][Nested strict data in Haskell]]. ~ Tom Ellis. #Haskell #FunctionalProgramming
 
-** September 2021
+** Septiembre 2021
 
 *** 30-Sep-21
 + [[http://cambium.inria.fr/~fpottier/publis/moine-chargueraud-pottier-transient.pdf][Specification and verification of a transient stack]]. ~ A. Moine, A. Charguéraud, F. Pottier. #ITP #Coq
@@ -3041,62 +3047,62 @@ its content.
 + [[https://www.isa-afp.org/entries/Three_Circles.html][The theorem of three circles (in Isabelle/HOL)]]. ~ Fox Thomson, Wenda Li #ITP #IsabelleHOL #Math
 + [[https://serokell.io/blog/dependency-analysis-haskell][Dependency analysis of Haskell declarations]]. ~ Artem Kuznetsov. #Haskell #FunctionalProgramming
 
-** August 2021
+** Agosto 2021
 
-*** 31-Aug-21
+*** 31-Ago-21
 + [[https://bit.ly/3DxZPnp][New Software Foundations release]]. ~ Benjamin C. Pierce et als. #ITP #Coq
 + [[https://arxiv.org/abs/2108.04194][Modal logic S5 satisfiability in answer set programming]]. ~ Mario Alviano,a Sotiris Batsakis, George Baryannis. #Logic #ASP #LogicProgramming
-+ [[https://raw.githubusercontent.com/BartoszMilewski/Publications/master/TheDaoOfFP/DaoFP.pdf][The Dao of Functional Programming (Last updated: August 30, 2021)]]. ~ Bartosz Milewski (@BartoszMilewski). #Haskell #FunctionalProgramming #CategoryTheory
++ [[https://raw.githubusercontent.com/BartoszMilewski/Publications/master/TheDaoOfFP/DaoFP.pdf][The Dao of Functional Programming (Last updated: Agosto 30, 2021)]]. ~ Bartosz Milewski (@BartoszMilewski). #Haskell #FunctionalProgramming #CategoryTheory
 + [[https://youtube.com/playlist?list=PLyrlk8Xaylp6_QTmXGuRe3lShaRGaMtgc][HIW (The Haskell Implementors’ Workshop) 2021 videos]]. #Haskell #FunctionalProgramming
 + [[https://www.ppig.org/files/2021-PPIG-32nd-tavante.pdf][A data-centered user study for proof assistant tools]]. ~ Hanneli C.A. Tavante. #ITP #Coq#LeanProver
 + [[https://arxiv.org/abs/2108.11155][Latent effects for reusable language components: Extended version]]. ~ Birthe van den Berg, Tom Schrijvers, Casper Bach-Poulsen, Nicolas Wu. #Haskell #FunctionalProgramming
 + [[https://www.cs.kent.ac.uk/people/staff/dao7/publ/timo-hope21.pdf][Formalising algebraic effects with non-recoverable failure]]. ~ Timotej Tomandl, Dominic Orchard. #Haskell #FunctionalProgramming
 + [[https://www.researchgate.net/profile/Mertcan-Temel/publication/354010466_Sound_and_Automated_Verification_of_Real-World_RTL_Multipliers/links/611ed85f169a1a01031224fd/Sound-and-Automated-Verification-of-Real-World-RTL-Multipliers.pdf][Sound and automated verification of real-world RTL multipliers]]. ~ Mertcan Temel, Warren A. Hunt Jr. #ITP #ACL2
 
-*** 30-Aug-21
+*** 30-Ago-21
 + [[https://arxiv.org/abs/2108.12301][Computer algebra in Julia]]. ~ Dmitry S. Kulyabov, Anna V. Korolkova. #CAS #JuliaLang #Math
 + [[https://youtu.be/GhkoPskC3eY][Dijkstra: O homem que tornou a computação uma ciência]]. ~ Adriano Santos (@adrianolcp). #CompSci
 
-*** 29-Aug-21
+*** 29-Ago-21
 + [[https://katyhristova.medium.com/what-is-category-theory-and-why-is-it-trendy-b94ce59fe42b][What is category theory and why is it trendy?]] ~ Katerina Hristova. #Math #CategoryTheory
 
-*** 28-Aug-21
+*** 28-Ago-21
 + [[https://youtu.be/LwwzVpolxm8][Geometry in Lean, a report for mathematicians]]. ~ Nicolò Cavalleri, Anthony Bordg. #ITP #LeanProver #Math
 + [[https://youtu.be/qac1O4Co0IU][Formalizing the Gromov-Hausdorff space]]. ~ Sébastien Gouëzel. #ITP #LeanProver #Math
 
-*** 27-Aug-21
+*** 27-Ago-21
 + [[https://ryanglscott.github.io/2021/08/22/leibniz-equality-in-haskell-part-1/][Leibniz equality in Haskell, part 1]]. ~ Ryan Scott. #Haskell #FunctionalProgramming
 + [[https://leanpub.com/magicalhaskell][Magical Haskell (modern functional programming and type theory in a fun and accessible way)]]. ~ Anton Antich (@aantich). #Haskell #FunctionalProgramming #eBook
 + [[https://cdsmithus.medium.com/nascent-ghc-proposal-source-rewrite-rules-and-optional-constraints-810a2f6051eb][Nascent GHC proposal: Source rewrite rules and optional constraints]]. ~ Chris Smith (@cdsmithus). #Haskell #FunctionalProgramming
 + [[https://cacm.acm.org/news/255113-life-as-a-logician/fulltext][Life as a logician (An interview with Martin Davis by Allyn Jackson)]]. #Logic #Math #CompSci #AI #MachineLearning
 
-*** 26-Aug-21
+*** 26-Ago-21
 + [[https://youtu.be/8P-X8YgsCZ0][Une idée assez folle, l'Intelligence Artificielle ]]... (un film sur le parcours d'Alain Colmerauer). #AI #LogicProgramming #Prolog
 
-*** 25-Aug-21
+*** 25-Ago-21
 + [[https://arxiv.org/abs/2108.10868][Towards formalising Schutz' axioms for Minkowski spacetime in Isabelle/HOL]]. ~ Richard Schmoetten, Jake E. Palmer, Jacques D. Fleuriot. #ITP #IsabelleHOL #Math
 + [[https://arxiv.org/abs/2108.10700][Scalar actions in Lean's mathlib]]. ~ Eric Wieser. #ITP #LeanProver #Math
 + [[https://cacm.acm.org/magazines/2021/9/255036-ai-ethics/fulltext][AI ethics: A call to faculty]]. ~ Illah Reza Nourbakhsh. #AI
 
-*** 24-Aug-21
+*** 24-Ago-21
 + [[https://github.com/leanprover-community/mathlib/blob/c811dd774f9590e9106c0780ea0983c60b659c78/src/data/nat/mul_ind.lean][Multiplicative induction principles for ℕ]]. ~ Eric Rodriguez. #ITP #LeanProver #Math
 
-*** 23-Aug-21
+*** 23-Ago-21
 + [[https://youtu.be/OCQfkhqg8Yg][Formalizing Fibonacci squares]]. ~ Harun Khan. #ITP #LeanProver #Math
 + [[https://daemons.it/posts/programacion-literaria-para-sysadminsdevops/][Programación literaria para sysadmins / devops]]. ~ drymer. #Emacs #OrgMode
 
-*** 21-Aug-21
+*** 21-Ago-21
 + [[https://www.ijcai.org/proceedings/2021/0273.pdf][Faster smarter proof by induction in Isabelle/HOL]]. ~ Yutaka Nagashima. #ITP #IsabelleHOL
 + [[https://github.com/leanprover-community/mathlib/blob/15b1461951d8821c1354dcf01a89ce09e798965b/archive/imo/imo2006_q3.lean][Formalization in Lean of IMO 2006 Q3]]. ~ Tian Chen. #ITP #LeanProver #Math #IMO
 + [[https://arxiv.org/abs/2108.06944v1][Verifying C11-style weak memory libraries via refinement]]. ~ Sadegh Dalvandi, Brijesh Dongol. #ITP #IsabelleHOL
 
-*** 20-Aug-21
+*** 20-Ago-21
 + [[https://youtu.be/wUUcuaegljk][The design of mathematical language]]. ~ Jeremy Avigad. #Logic #Math
 + [[https://youtu.be/-uGhuknZHJI][Verified optimization]]. ~ Alexander Bentkamp, Jeremy Avigad. #ITP #LeanProver #Math
 + [[https://youtu.be/pudd4F749tE][Automatically generalizing theorems using typeclasses]]. ~ Alexander Best. #ITP #LeanProver
 + [[https://github.com/google/formal-ml][Formal ML: A LEAN library for proving foundational results in measure theory, probability, statistics, and machine learning, based upon mathlib]]. #ITP #LeanProver #Math #MachineLearning
 
-*** 19-Aug-21
+*** 19-Ago-21
 + [[https://github.com/RaitoBezarius/berkovich-spaces][Formalization of Ostrowski theorems in Lean theorem prover]]. ~ Ryan Lahfad†, Julien Marquet, Hadrien Barral. #ITP #LeanProver #Math
 + [[https://arxiv.org/abs/2108.08079][On correctness and completeness of an n queens program]]. ~ Włodzimierz Drabent. #LogicProgramming #Prolog
 + [[https://www.microsiervos.com/archivo/ia/colisiones-matematicas-neuralhash.html][Colisiones matemáticas que muestran cómo confundir al algoritmo Neural Hash]]. ~ @Alvy. #AI #MachineLearning
@@ -3104,20 +3110,20 @@ its content.
 + [[https://arxiv.org/abs/2108.07804][A framework for understanding AI-induced field change: How AI technologies are legitimized and institutionalized]]. ~ Benjamin Cedric Larsen. #AI
 + [[https://books.google.es/books?id=DjM9EAAAQBAJ&lpg=PP1&pg=PP.1#v=onepage&q&f=true][A first course in Artificial Intelligence]]. ~ Osondu Oguike #eBook #AI
 
-*** 18-Aug-21
+*** 18-Ago-21
 + [[https://www.cantorsparadise.com/machine-learning-and-the-continuum-hypothesis-87bb9bb23e90][Machine learning and the continuum hypothesis (How the unprovable concerns the unlearnable)]]. ~ Robert Passmann. #MachineLearning #Math
 + [[https://awakesecurity.com/blog/spectacle-a-language-for-writing-and-checking-formal-specifications-in-haskell/][Announcing Spectacle – A language for writing and checking formal specifications in Haskell]]. ~ Jacob Leach. #Haskell #FunctionalProgramming
 
-*** 17-Aug-21
+*** 17-Ago-21
 + [[https://github.com/leanprover-community/mathlib/blob/53d97e1ad2b5e30eff5f9246a689ec37361f63d0/archive/oxford_invariants/2021summer/week3_p1.lean][The Oxford Invariants Puzzle Challenges (Summer 2021, Week 3, Problem 1) in Lean]]. ~ Yaël Dillies, Bhavik Mehta. #ITP #LeanProver #Math
 
-*** 16-Aug-21
+*** 16-Ago-21
 + [[https://books.google.es/books?id=bhkSEAAAQBAJ&lpg=PP1&pg=PP1#v=onepage&q&f=true][Ideas that created the future: Classic papers of Computer Science]]. ~ Harry R. Lewis. #eBook #CompSci
 + [[https://gilmi.me/blog/post/2021/08/14/hs-core-tools][Core Haskell tools]]. ~ Gil Mizrahi (@_gilmi). #Haskell #FunctionalProgramming
 + [[https://twobithistory.org/2018/10/14/lisp.html][How Lisp became God's own programming language]]. ~ @TwoBitHistory. #Lisp #Programming
 + [[https://arxiv.org/abs/2108.06015][Natural deduction calculus for first-order logic]]. ~ Yazeed Alrubyli.  #Logic #Math
 
-*** 14-Aug-21
+*** 14-Ago-21
 + [[https://easychair.org/publications/preprint/RDH3][Assimilating the structure of formal and informal proof]]. ~ Kensho Tsurusaki, Akiko Aizawa. #ITP #LeanProver
 + [[https://repositorio.inesctec.pt/bitstream/123456789/12455/1/P-00V-35V.pdf][Balancing the formal and the informal in user-centred design]]. ~ JC Campos, MD Harrison, P Masci. #ITP #PVS
 + [[https://arxiv.org/abs/2108.02995][Extracting functional programs from Coq, in Coq]]. ~ Danil Annenkov, Mikkel Milo, Jakob Botsch Nielsen, Bas Spitters. #ITP #Coq
@@ -3130,19 +3136,19 @@ its content.
 + [[https://github.com/conal/talk-2018-deep-learning-rebooted][A functional reboot for Deep Learning]]. ~ Conal Elliott (@conal). #DeepLearning #FunctionalProgramming #Haskell
 + [[http://conal.net/papers/language-derivatives/][Symbolic and automatic differentiation of languages]]. ~ Conal Elliott (@conal). #Agda #FunctionalProgramming
 
-*** 13-Aug-21
+*** 13-Ago-21
 + [[https://youtu.be/alByz_LoANE][What is the point of Lean's maths library?]] ~ Kevin Buzzard. #ITP #LeanProver #Math
 + [[https://vitez.me/counting-cardinalities][Counting cardinalities]]. ~ Mitchell Vitez. #Haskell #FunctionalProgramming
 
-*** 12-Aug-21
+*** 12-Ago-21
 + [[http://adam.chlipala.net/papers/FrapICFP21/FrapICFP21.pdf][Skipping the binder bureaucracy with mixed embeddings in a semantics course (Functional Pearl)]]. ~ Adam Chlipala. #ITP #Coq
 + [[http://www.cs.ru.nl/~wouters/Publications/HoareLogicStateMonad.pdf][The Hoare State Monad (Proof Pearl)]]. ~ Wouter Swierstra. #ITP #Coq
 + [[https://byorgey.wordpress.com/2021/08/11/competitive-programming-in-haskell-monoidal-accumulation/][Competitive programming in Haskell: monoidal accumulation]]. ~ Brent Yorgey. #Haskell #FunctionalProgramming
 
-*** 11-Aug-21
+*** 11-Ago-21
 + [[https://github.com/leanprover-community/mathlib/blob/master/archive/imo/imo2001_q6.lean][Formalization in Lean of IMO 2001 Q6]]. ~ Sara Díaz, Johan Commelin. #ITP #LeanProver #Math #IMO
 
-*** 10-Aug-21
+*** 10-Ago-21
 + [[https://arxiv.org/abs/2108.01883v1][Reasoning about iteration and recursion uniformly based on big-step semantics]]. ~ Ximeng Li, Qianying Zhang, Guohui Wang, Zhiping Shi, Yong Guan. #ITP #Coq
 + [[https://academiccommons.columbia.edu/doi/10.7916/d8-3tsv-1117/download][A secure and formally verified commodity multiprocessor hypervisor]]. ~ Shih-Wei Li. #PhD_Thesis #ITP #Coq
 + [[https://github.com/leanprover-community/mathlib/blob/master/src/data/matrix/kronecker.lean][Kronecker product of matrices (in Lean)]]. ~ Filippo A. E. Nuccio, Eric Wieser. #ITP #LeanProver #Math
@@ -3150,51 +3156,51 @@ its content.
 + [[https://www.slideshare.net/pjschwarz/left-and-right-folds-comparison-of-a-mathematical-definition-and-a-programmatic-one-polyglot-fp-for-fun-and-profit-haskell-and-scala][Left and right folds (Comparison of a mathematical definition and a programmatic one)]]. ~ Philip Schwarz (@philip_schwarz). #Haskell #Scala #FunctionalProgramming
 + [[https://arxiv.org/abs/2108.03574][Elementary recursive algorithms]]. ~ Yiannis N. Moschovakis. #Algorithms #Logic #Math #CompSci
 
-*** 09-Aug-21
+*** 09-Ago-21
 + [[https://arxiv.org/abs/2108.02995][Extracting functional programs from Coq, in Coq]]. ~ Danil Annenkov, Mikkel Milo, Jakob Botsch Nielsen, Bas Spitters. #ITP #Coq
 + [[https://github.com/synacktiv/toy-wasm-symbexp][A toy WASM symbolic interpreter]]. ~ Simon Marechal et als. #Haskell #FunctionalProgramming
 
-*** 08-Aug-21
+*** 08-Ago-21
 + [[https://www.isa-afp.org/entries/Relational_Forests.html][Relational forests (in Isabelle/HOL)]]. ~ Walter Guttmann. #ITP #IsabelleHOL
 
-*** 07-Aug-21
+*** 07-Ago-21
 + [[https://www.imperial.ac.uk/media/imperial-college/faculty-of-engineering/computing/public/2021-ug-projects/Theorem-proving-with-classical-logic.pdf][Theorem proving in classical logic]]. ~ David Davies. #Haskell #FunctionalProgramming #Logic
 + [[https://easychair.org/publications/preprint_download/KLfT][Automatically generalizing theorems using typeclasses]]. ~ Alex J. Best. #ITP #LeanProver
 + [[https://blog.cofree.coffee/2021-08-05-a-brief-intro-to-monad-transformers/][A brief intro to monad transformers]]. ~ Solomon. #Haskell #FunctionalProgramming
 + [[https://arxiv.org/abs/2108.00484][Elements of differential geometry in Lean: A report for mathematicians]]. ~ Anthony Bordg, Nicolò Cavalleri. #ITP #LeanProver #Math
 
-*** 06-Aug-21
+*** 06-Ago-21
 + [[http://eptcs.web.cse.unsw.edu.au/paper.cgi?FIDE2021.6][Plotting in a formally verified way]]. ~ Guillaume Melquiond. #ITP #Coq
 + [[https://www.edukera.com/][Edukera: Teach Logic and Math with a proof assistant]]. #ITP #Coq #Edukera #Logic #Math
 + [[https://medium.com/coinmonks/archetype-a-dsl-for-tezos-6f55c92d1035][Archetype, a DSL for Tezos]]. ~ Benoit Rognier. #ITP #Coq #Edukera #Archetype
 + [[http://eptcs.web.cse.unsw.edu.au/paper.cgi?FIDE2021.7][A logic theory pattern for linearized control systems]]. ~ Andrea Domenici, Cinzia Bernardeschi. #ITP #PVS
 + [[http://eptcs.web.cse.unsw.edu.au/paper.cgi?FIDE2021.9][Verifying time complexity of binary search using Dafny]]. ~ Shiri Morshtein, Ran Ettinger, Shmuel Tyszberowicz. #ATP #FormalVerification #Dafny
-+ [[http://eptcs.web.cse.unsw.edu.au/paper.cgi?FIDE2021.10][Explaining counterexamples with giant-step assertion checking]]. ~ Benedikt Becker, Cláudio Belo Lourenço, Claude Marché. #ATP #Why3 #FormalVerification
++ [[http://eptcs.web.cse.unsw.edu.au/paper.cgi?FIDE2021.10][Explaining counterexamples with giant-step assertion checking]]. ~ Benedikt Becker, Cláudio Belo Lourenço, Claude Marzoé. #ATP #Why3 #FormalVerification
 + [[https://arxiv.org/html/2108.02369v1][VeriFly: On-the-fly assertion checking with CiaoPP (extended abstract)]]. ~ Miguel A. Sanchez-Ordaz, Isabel Garcia-Contreras, Víctor Pérez, Jose F. Morales, Pedro Lopez-Garcia, Manuel V. Hermenegildo./#EPTCS338.13 #Prolog #CiaoPP
 + [[https://blog.noredink.com/post/658510851000713216/haskell-for-the-elm-enthusiast][Haskell for the Elm enthusiast]]. ~ No Red Ink. #Haskell #Elm #FunctionalProgramming
 + [[https://blog.kalvad.com/haskell-series-part-2/][Haskell series part 2 (This is the second article of a series on the functional language Haskell for beginners)]]. ~ Pierre Guillemot. #Haskell #FunctionalProgramming
 + [[https://danso.ca/blog/frommaybe-is-just-a-fold/][fromMaybe is Just a fold]]. ~ Dan Soucy (@ninedotnine). #Haskell #FunctionalProgramming
 + [[https://antitypical.com/posts/2021-07-28-when-howard-met-curry/][When Howard Met Curry]]. ~ Rob Rix (@rob_rix). #Haskell #FunctionalProgramming
 
-*** 05-Aug-21
+*** 05-Ago-21
 + [[https://project-archive.inf.ed.ac.uk/msc/20204462/msc_proj.pdf][Axiomatic Minkowski spacetime in Isabelle/HOL]]. ~ Richard Schmoetten. #MSc_Thesis #ITP #IsabelleHOL
 + [[https://afp.theoremproving.org/][Archive of Formal Proofs]]. #ITP #IsabelleHOL
 + [[https://github.com/carlinmack/afp][Archive of Formal Proofs redesign]]. ~ Carlin MacKenzie. #ITP #IsabelleHOL
 
-*** 04-Aug-21
+*** 04-Ago-21
 + [[https://github.com/FrickHazard/thomaes-function][Lean proof of Thomaes (popcorn) function]]. ~ Ender Doe. #ITP #LeanProver #Math
 
-*** 03-Aug-21
+*** 03-Ago-21
 + [[https://www.worldscientific.com/doi/pdf/10.1142/9789811236488_0001][Proof and computation: Perspectives for mathematics, computer science, and philosophy]]. ~ Klaus Mainzer. #Logic #Math #CompSci #ITP
 + [[https://www.cs.purdue.edu/homes/bendy/OADT/oadt.pdf][Oblivious Algebraic Data Types]]. ~ Qianchuan Ye, Benjamin Delaware. #ITP #Coq
 + [[https://ryanglscott.github.io/2021/08/01/equality-constraints-in-kinds/][GHC curiosities: Equality constraints in kinds]]. ~ Ryan Scott. #Haskell #FunctionalProgramming
 
-*** 02-Aug-21
+*** 02-Ago-21
 + [[https://www.philipzucker.com/egglog2-monic/][Egglog 2: Automatically proving the pullback of a monic is monic]]. ~ Philip Zucke. #CategoryTheory
 + [[http://www.wouterspekkink.org/academia/writing/tool/doom-emacs/2021/02/27/writing-academic-papers-with-org-mode.html][Writing academic papers with org-mode]]. ~ Wouter Spekkink (@wouterspekkink). #Emacs #OrgMode
 + [[https://morrowm.github.io/posts/2021-08-02-shoes.html][Tying shoes with GADTs]]. ~ MorrowM. #Haskell #FunctionalProgramming
 
-** July 2021
+** Julio 2021
 
 *** 31-Jul-21
 + [[https://www21.informatik.tu-muenchen.de/students/past/interval_newton/assets/newton.pdf][Formalisation of interval methods for nonlinear root-finding]]. ~ Daniel Seidl. #BSc_Thesis #ITP #IsabelleHOL #Math
@@ -3406,7 +3412,7 @@ its content.
 + [[https://rpeszek.github.io/posts/2021-06-28-polysemy-arrows.html][Arming polysemy with Arrows]]. ~ Robert Peszek. #Haskell #FunctionalProgramming
 + [[http://www.jerf.org/iri/post/2958][Functors and monads for people who have read too many "Tutorials"]]. ~ Jeremy Bowers. #Haskell #FunctionalProgramming
 
-** June 2021
+** Junio 2021
 
 *** 30-Jun-21
 + [[https://www.sciencedirect.com/science/article/pii/S2352220821000626][A Perron–Frobenius theorem for deciding matrix growth]]. ~ RenéThiemann. #ITP #IsabelleHOL #Math
@@ -3606,7 +3612,7 @@ its content.
 + [[http://profs.sci.univr.it/~bonacina/papers/JARLWHistoricSurvey.pdf][Set of support, demodulation, paramodulation: a historical Perspective]]. ~ Maria Paola Bonacina. #ATP #Logic #Math
 + [[https://www.isa-afp.org/entries/Lifting_the_Exponent.html][Lifting the exponent]]. ~ Jakub Kądziołka. #ITP #IsabelleHOL #Math
 
-** May 2021
+** Mayo 2021
 
 *** 31-May-21
 + [[https://www.lavanguardia.com/ciencia/20210531/7484405/maquinas-creativas.html][¿Pueden las máquinas ser creativas?]] ~ Ramón López de Mántaras. #IA
@@ -3735,46 +3741,46 @@ its content.
 + [[https://shemesh.larc.nasa.gov/fm/papers/itp2021.pdf][Formal verification of termination criteria for first-order recursive functions]]. ~ C.A. Muñoz et als. #ITP #PVS
 + [[https://repository.tudelft.nl/islandora/object/uuid:2d831aa4-df6b-4ab6-983e-9776c710b450][Verifying the semantics of disambiguation rules (Using parse tree repairing for showing safety and completeness of associativity and priority rules)]]. ~ L. Miljak. #ITP #Coq
 
-** April 2021
+** Abril 2021
 
-*** 30-Apr-21
+*** 30-Abr-21
 + [[https://arxiv.org/abs/2104.14445][Trakhtenbrot's theorem in Coq: Finite model theory through the constructive lens]]. ~ Dominik Kirst, Dominique Larchey-Wendling. #ITP #Coq #Logic #Math
 + [[https://github.com/youtakaoka/topos][Topos: Programming language which can treat set and topology]]. #Haskell #FunctionalProgramming #Math
 + [[https://notes.srid.ca/ema-announce][Announcing Ema - Static sites in Haskell]]. ~ Sridhar Ratnakumar. #Haskell #FunctionalProgramming
 + [[https://z.haskell.world/design/2021/04/20/introduce-BIO-a-simple-streaming-abstraction.html][Introduce BIO: A simple streaming abstraction]]. ~ Dong Han. #Haskell #FunctionalProgramming
 + [[https://bit.ly/3344TyV][We are happy being poor: El problema de Erdös-Faber-Lovász]]. ~ Juan Arias de Reyna. #Matemáticas
 
-*** 29-Apr-21
+*** 29-Abr-21
 + [[https://arxiv.org/abs/2104.13792][A mechanised proof of Gödel's incompleteness theorems using Nominal Isabelle]]. ~ Lawrence C. Paulson. #ITP #IsabelleHOL #Logic #Math
 + [[https://arxiv.org/abs/2104.13851][Verified approximation algorithms]]. ~ Robin Eßmann, Tobias Nipkow, Simon Robillard. #ITP #IsabelleHOL #Algorithms
 + [[https://iwilare.com/bsc-thesis.pdf][Formalizations of the Church-Rosser theorem in Agda]]. ~ Andrea Laretto. #ITP #Agda
 + [[https://arxiv.org/abs/2104.13645][Learning from Łukasiewicz and Meredith: Investigations into proof structures (Extended version)]]. ~ Christoph Wernhard, Wolfgang Bibel. #ATP #Prover9 #Logic
 + [[https://www.educative.io/blog/haskell-tutorial][Haskell tutorial: Get started with functional programming]]. ~ Ryan Thelin. #Haskell #FunctionalProgramming
 
-*** 28-Apr-21
+*** 28-Abr-21
 + [[https://www.math.umd.edu/~jda/seminarNotes/carneiro.pdf][Mathematics in the computer]]. ~ Mario Carneiro. #Math #ITP #LeanProver #Metamath #Metamath_Zero
 + [[https://arxiv.org/abs/2104.13117][A verified decision procedure for orders in Isabelle/HOL]]. ~ Lukas Stevens, Tobias Nipkow. #ITP #IsabelleHOL #Logic #Math
 + [[https://www.isa-afp.org/entries/GaleStewart_Games.html][Gale-Stewart games (in Isabelle/HOL)]]. ~ Sebastiaan Joosten. #ITP #IsabelleHOL
 
-*** 27-Apr-21
+*** 27-Abr-21
 + [[https://youtu.be/N7orNWIur-c][Induction and collection up to definable elements: calibrating the strength of parameter-free Δn-minimization]]. ~ Andrés Cordón. #Logic #Math
-+ [[https://novo.manzano.pro.br/wp/download/logica-de-programacao-funcional-programe-em-hope/][Lógica de programação funcional: Programe em Hope]]. ~ José Augusto N. G. Manzano, José A. Alonso. #Hope #FunctionalProgramming
-+ [[https://github.com/J-AugustoManzano/hope_programe][Código fonte do livro "Lógica de programação funcional: Programe em Hope"]]. ~ José Augusto N. G. Manzano. #Hope #FunctionalProgramming
++ [[https://novo.manzano.pro.br/wp/download/logica-de-programacao-funcional-programe-em-hope/][Lógica de programação funcional: Programe em Hope]]. ~ José Agostoo N. G. Manzano, José A. Alonso. #Hope #FunctionalProgramming
++ [[https://github.com/J-AgostooManzano/hope_programe][Código fonte do livro "Lógica de programação funcional: Programe em Hope"]]. ~ José Agostoo N. G. Manzano. #Hope #FunctionalProgramming
 + [[https://www21.in.tum.de/~rosskops/papers/metalogic_pre.pdf][Isabelle's metalogic: Formalization and proof checker]]. ~ Tobias Nipkow, Simon Roßkopf. #ITP #IsabelleHOL #Logic
 + [[https://youtu.be/1SCvFDZDLgQ][Mathematical structures in dependent type theory]]. ~ Assia Mahboubi. #ITP #Coq #Math
 + [[https://academic.oup.com/iwc/advance-article/doi/10.1093/iwcomp/iwab012/6232199][Balancing the formal and the informal in user-centred design]]. ~ M.D. Harrison, P. Masci, J.C. Campos. #ITP #PVS
 + [[https://cacm.acm.org/magazines/2021/5/252165-a-satisfying-result/fulltex][A satisfying result]]. ~ Don Monroe.t#.YIeLaVxXfk0.twitter #Math #CompSci #SATSolvers
 + [[https://www.investigacionyciencia.es/noticias/el-producto-de-matrices-en-pos-de-una-meta-mtica-19718][El producto de matrices, en pos de una meta mítica]]. ~ Kevin Hartnett. #Matemáticas #Computación
 
-*** 26-Apr-21
+*** 26-Abr-21
 + [[https://arxiv.org/abs/2104.11613][A formalised theorem in the partition calculus]]. ~ Lawrence C. Paulson. #ITP #IsabelleHOL #Math
 + [[https://www.isa-afp.org/entries/BenOr_Kozen_Reif.html][The BKR decision procedure for univariate real arithmetic (in Isabelle/HOL)]]. ~ Katherine Cordwell, Yong Kiam Tan, André Platzer. #ITP #IsabelleHOL #Math
 
-*** 25-Apr-21
+*** 25-Abr-21
 + [[https://youtu.be/44fb3tI2Cak][Grandes ideas de la Filosofía: Lógica]]. #Lógica
 + [[https://github.com/leanprover-community/mathlib/blob/2ecd65e6de2939f09df9d964782f8ec7ba4aeb5c/archive/imo/imo2001_q2.lean][Formalization in Lean of IMO 2001 Q2]]. ~ Tian Chen. #ITP #LeanProver #Math #IMO
 
-*** 24-Apr-21
+*** 24-Abr-21
 + [[https://arxiv.org/abs/2002.09282][Homotopy Type Theory in Isabelle]]. ~ Joshua Chen. #ITP #IsabelleHOL #HoTT
 + [[https://pp.ipd.kit.edu/uploads/publikationen/dieterichs21masterarbeit.pdf][Formal verification of pattern matching analyses]]. ~ Henning Dieterichs. #ITP #LeanProver
 + [[https://www.ps.uni-saarland.de/~smolka/drafts/icl2021.pdf][Modeling and proving in computational type theory using the Coq proof assistant]]. ~ Gert Smolka. #eBook #ITP #Coq
@@ -3782,29 +3788,29 @@ its content.
 + [[https://lmcs.episciences.org/7383/pdf][Logic for exact real arithmetic]]. ~ Helmut Schwichtenberg, Franziskus Wiesnet. #ITP #MinLog #Haskell
 + [[https://home.sandiego.edu/~shulman/papers/induction.pdf][Induction on equality]]. #Logic #Math #CompSci
 
-*** 23-Apr-21
+*** 23-Abr-21
 + [[https://arxiv.org/abs/2104.11157][Ackermann's function in iterative form: A proof assistant experiment]]. ~ Lawrence C Paulson. #ITP #IsabelleHOL
 + [[https://www.danielbrice.net/blog/of-function-instances-and-abstract-syntax/][Of function instances and abstract syntax]]. ~ Daniel Brice. #Haskell #FunctionalProgramming
 + [[https://serokell.io/blog/type-families-haskell][Type families in Haskell: The definitive guide]]. ~ Vladislav Zavialov. #Haskell #FunctionalProgramming
 + [[https://www.poberezkin.com/posts/2021-04-21-what-i-wish-somebody-told-me-when-i-was-learning-Haskell.html][What I wish somebody told me when I was learning Haskell]]. ~ Evgeny Poberezkin (@epoberezkin). #Haskell #FunctionalProgramming
 + [[https://spectrum.ieee.org/tech-talk/artificial-intelligence/machine-learning/the-state-of-ai-in-15-graphs][15 graphs you need to see to understand AI in 2021]]. ~ Eliza Strickland. #AI
 
-*** 22-Apr-21
+*** 22-Abr-21
 + [[https://www.pointedset.ca/blog/2020/02/06/proptype.html][A practical difference between Props and Types in Lean]]. ~ Mathieu Guay-Paquet. #ITP #LeanProver
 + [[https://github.com/leanprover-community/mathlib/blob/afa6b72e20728cf46912ef9333d0f08ccebf7a6f/src/geometry/euclidean/sphere.lean][Product of segments of chords in Lean]]. ~ Manuel Candales. #ITP #LeanProver #Math
 + [[https://www.haskellforall.com/2021/04/the-end-of-history-for-programming.html][The end of history for programming]]. ~ Gabriel Gonzalez (@GabrielG439). #Programming
 
-*** 20-Apr-21
+*** 20-Abr-21
 + [[https://arxiv.org/abs/2104.09366][Simple type theory is not too simple: Grothendieck's schemes without dependent types]]. ~ Anthony Bordg, Lawrence Paulson, Wenda Li. #ITP #IsabelleHOL #Math
 + [[https://github.com/mirefek/sokoban.lean][Sokoban implementation in Lean for proving solvability / unsolvability]]. ~ Miroslav Olšák. #ITP #LeanProver
 + [[https://cdsmithus.medium.com/continued-fractions-haskell-equational-reasoning-property-testing-and-rewrite-rules-in-action-77a16d750e3f][Continued fractions: Haskell, equational reasoning, property testing, and rewrite rules in action]]. ~ Chris Smith (@cdsmithus). #Haskell #FunctionalProgramming
 + [[https://medium.com/geekculture/a-random-tour-of-typeclass-in-haskell-87a5a2125e1a][A random tour of typeclass in Haskell]]. ~ Ong Yi Ren. #Haskell #FunctionalProgramming
 + [[https://alpha2phi.medium.com/writing-technical-documentation-with-emacs-276f13284e54][Writing technical documentation with Emacs]]. #Emacs #OrgMode
 
-*** 18-Apr-21
+*** 18-Abr-21
 + [[https://xenaproject.wordpress.com/2021/04/18/induction-on-equality/][Induction on equality]]. ~ Kevin Buzzard (@XenaProject). #ITP #LeanProver #Math
 
-*** 17-Apr-21
+*** 17-Abr-21
 + [[https://arxiv.org/abs/2104.05256][A Coq formalization of Lebesgue integration of nonnegative functions]]. ~ Sylvie Boldo, François Clément, Florian Faissole, Vincent Martin, Micaela Mayero. #ITP #Coq #Math
 + [[https://www.cs.columbia.edu/~rgu/publications/oakland21-li.pdf][A secure and formally verified Linux KVM hypervisor]]. ~ Shih-Wei Li, Xupeng Li, Ronghui Gu, Jason Nieh, John Zhuang Hui. #ITP #Coq
 + [[https://arxiv.org/abs/2104.05516][Machine-checked ZKP for NP-relations: Formally verified security proofs and implementations of MPC-in-the-head]]. ~ José Carlos Bacelar Almeida et als. #EasyCrypt
@@ -3816,7 +3822,7 @@ its content.
 + [[https://ec-jones.github.io/flocking.html][Functional flocks]]. ~ Eddie Jones. #Haskell #FunctionalProgramming
 + [[https://aadaa-fgtaa.github.io/blog/optionally/][Checking for uncheckable: optional constraints]]. #Haskell #FunctionalProgramming
 
-*** 16-Apr-21
+*** 16-Abr-21
 + [[https://plato.stanford.edu/entries/type-theory/][Type theory]]. ~ Thierry Coquand. #TypeTheory
 + [[https://functional.works-hub.com/learn/more-on-types-typeclasses-and-the-foldable-typeclass-e1862][More on types, typeclasses and the foldable typeclass]]. ~ Marty Stumpf. #Haskell #FunctionalProgramming
 + [[https://chrisdone.com/posts/the-movement-principle/][The movement principle]]. ~ Chris Done (@christopherdone). #Haskell #FunctionalProgramming
@@ -3825,14 +3831,14 @@ its content.
 + [[https://medium.math.dev/lisp-the-web-4c00c88d11f9][Lisp & the Web (Introductory reference guide to creating Web applications with Common Lisp & Google Compute Engine)]]. ~ Ashok Khanna. #CommonLisp #Programming
 + [[https://www.quantamagazine.org/mathematician-disproves-group-algebra-unit-conjecture-20210412/][Mathematician disproves 80-year-old algebra conjecture]]. ~ Erica Klarreich (@EricaKlarreich). #Math
 
-*** 15-Apr-21
+*** 15-Abr-21
 + [[https://github.com/leanprover-community/mathlib/blob/8d3e8b5b2635fc20a27922893cdf852bd0bd5706/archive/imo/imo1977_q6.lean][Formalization in Lean of IMO 1977 Q6]]. ~ Tian Chen. #ITP #LeanProver #Math
 + [[https://github.com/leanprover-community/mathlib/blob/3379f3ed992a6bce819a030178082efb6f6a92b4/archive/100-theorems-list/57_herons_formula.lean][Heron's Formula (in Lean)]]. ~ Matt Kempster. #ITP #LeanProver #Math
 
-*** 14-Apr-21
+*** 14-Abr-21
 + [[https://culturacientifica.com/2013/04/24/para-que-sirven-las-matematicas/][¿Para qué sirven las matemáticas?]] ~ Marta Macho Stadler (@MartaMachoS). #Matemáticas
 
-*** 13-Apr-21
+*** 13-Abr-21
 + [[https://www.researchgate.net/profile/David-Fuenmayor/publication/349043183_Topological_semantics_for_paraconsistent_and_paracomplete_logics_in_IsabelleHOL/links/606c0941458515614d3a53c9/Topological-semantics-for-paraconsistent-and-paracomplete-logics-in-Isabelle-HOL.pdf][Topological semantics for paraconsistent and paracomplete logics in Isabelle/HOL]]. ~ David Fuenmayor. #ITP #IsabelleHOL #Logic
 + [[https://jonascarpay.com/posts/2021-01-28-haskell-project-template.html][The working programmer’s guide to setting up Haskell projects]]. ~ Jonas Carpay (@jonascarpay). #Haskell #FunctionalProgramming
 + [[https://jrsinclair.com/articles/2019/what-i-wish-someone-had-explained-about-functional-programming/][Things I wish someone had explained about functional programming (Part 1: Faulty assumptions)]]. ~ James Sinclair (@jrsinclair). #FunctionalProgramming
@@ -3842,17 +3848,17 @@ its content.
 + [[https://github.com/quchen/generative-art][Generative art using Haskell]]. ~ David Luposchainsky (@quch3n). #Haskell #FunctionalProgramming
 + [[https://blogs.elconfidencial.com/tecnologia/tribuna/2021-04-13/programador-software-consultoria-producto-universidad_3030868/][Programar es de pobres: por qué el mundo del 'software' está roto en España]]. ~ Eduardo Manchón (@eduardomanchon). #Programación #Informática
 
-*** 12-Apr-21
+*** 12-Abr-21
 + [[https://github.com/leanprover-community/mathlib/blob/e269dbc17a978dfabe57975b84d0b0250b78a2db/src/tactic/itauto.lean][Intuitionistic tautology (`itauto`) decision procedure in Lean]]. ~ Mario Carneiro. #ITP #LeanProver #Logic
 + [[https://arxiv.org/abs/2104.04095][First-order natural deduction in Agda]]. ~ Louis Warren. #ITP #Agda #Logic
 + [[https://github.com/BartoszMilewski/Publications/tree/master/TheDaoOfFP][The Dao of functional programming]]. ~ Bartosz Milewski (@BartoszMilewski). #Haskell #FunctionalProgramming #CategoryTheory
 + [[https://www.brynmawr.edu/cs/resources/beauty-of-programming][The beauty of programming]]. ~ Linus Torvalds. #Programming
 + [[https://www.vidal-rosset.net/gnus_emacs_as_email_client_in_imap_with_protonmail.html][Gnus Emacs as email client in IMAP with ProtonMail]]. ~ Joseph Vidal-Rosset. #Emacs #ProtonMail
 
-*** 11-Apr-21
+*** 11-Abr-21
 + [[https://osa1.net/posts/2021-04-10-sums-and-products.html][Products and sums, named and anonymous]]. ~ Ömer Sinan Ağacan. #Haskell #FunctionalProgramming
 
-*** 10-Apr-21
+*** 10-Abr-21
 + [[https://arxiv.org/abs/2104.02549][Connecting constructive notions of ordinals in Homotopy Type Theory]]. ~ Nicolai Kraus, Fredrik Nordvall Forsberg, Chuangjie Xu. #ITP #Agda #Logic #Math #HoTT
 + [[https://49jaiio.sadio.org.ar/pdfs/saei/SAEI-12.pdf][Propuesta de enseñanza de la formalización de la Matemática utilizando un asistente de pruebas en estudiantes de la Licenciatura en Ciencias de la Computación]]. ~ Daniel Severın, Alejandro Hernández. #ITP #Coq
 + [[https://github.com/leanprover-community/mathlib/blob/c6b06369392473fe9ebc480fbcfed1695db3e554/archive/imo/imo2008_q3.lean][Formalization in Lean of IMO 2008 Q3]]. ~ Manuel Candales. #ITP #LeanProver #Math
@@ -3861,18 +3867,18 @@ its content.
 + [[https://arxiv.org/abs/2104.02466][A review of formal methods applied to machine learning]]. ~ Caterina Urban, Antoine Miné. #MachineLearning #FormalMethods
 + [[https://youtu.be/nmBkU-l1zyc][Prolog meta-interpreters]]. ~ Markus Triska (@MarkusTriska). #Prolog #LogicProgramming
 
-*** 09-Apr-21
+*** 09-Abr-21
 + [[https://www.isa-afp.org/entries/Grothendieck_Schemes.html][Grothendieck's Schemes in Algebraic Geometry]]. ~ Anthony Bordg, Lawrence Paulson, Wenda Li. #ITP #IsabelleHOL #Math
 + [[https://code.world/haskel][Continued fractions in Haskell]]. ~ Chris Smith (@cdsmithus).l#P7oZc6pbWBK6wRaBBMm0goA #Haskell #FunctionalProgramming #Math
 + [[https://bor0.wordpress.com/2021/04/09/algorithmic-puzzle-continuous-increasing-subsequences/][Algorithmic puzzle: Continuous increasing subsequences]]. ~ Boro Sitnikovski (@BSitnikovski). #Haskell #FunctionalProgramming
 + [[https://www.haskellforall.com/2021/04/how-to-replace-proxy-with.html][How to replace Proxy with AllowAmbiguousTypes]]. ~ Gabriel Gonzalez (@GabrielG439). #Haskell #FunctionalProgramming
 
-*** 08-Apr-21
+*** 08-Abr-21
 + [[https://github.com/leanprover-community/mathlib/blob/a6024f10dde5322da06d1158221e1827d3ba4cfe/archive/imo/imo2008_q4.lean][Formalization in Lean of IMO 2008 Q4]]. ~ Manuel Candales. #ITP #LeanProver #Math
 + [[https://gilmi.me/blog/post/2021/04/06/giml-type-inference][Giml's type inference engine]]. ~ Gil Mizrahi (@_gilmi). #Haskell #FunctionalProgramming
 + [[https://github.com/jimburton/scrabble][Scrabbλe: A one- or two-player implementation of Scrabble for teaching functional programming]]. ~ Jim Burton. #eBook #Haskell #FunctionalProgramming
 
-*** 06-Apr-21
+*** 06-Abr-21
 + [[https://arxiv.org/abs/2104.00506v1][Intuitionistic NF Set Theory]]. ~ Michael Beeson. #Logic #Math #ITP #LeanProver
 + [[https://github.com/leanprover-community/mathlib/blob/82fd6e1e1b9b35249e25d1e19af1df0eb7cf2a15/src/logic/girard.lean][Girard's paradox]]. ~ Mario Carneiro. #ITP #LeanProver #Logic #Math
 + [[https://github.com/leanprover-community/mathlib/blob/89ea423d261b46c4e90e49362a6471a5ceb1d6d5/archive/imo/imo2005_q3.lean][Formalization in Lean of IMO 2005 Q3]]. ~ Manuel Candales. #ITP #LeanProver #Math
@@ -3882,27 +3888,27 @@ its content.
 + [[https://erick.navarro.io/blog/auto-build-and-publish-emacs-org-configuration-as-a-website/][Auto build and publish emacs org configuration as a website]]. ~ Erick Navarro (@erickgnavar). #Emacs
 + [[https://hal.archives-ouvertes.fr/hal-03184956/document][Division by zero in Logic and Computing]]. ~ Jan Bergstra. #Logic #Math #CompSci
 
-*** 05-Apr-21
+*** 05-Abr-21
 + [[https://xenaproject.wordpress.com/2021/04/03/induction-and-inductive-types/][Induction, and inductive types]]. ~ Kevin Buzzard (@XenaProject). #ITP #LeanProver #Math
 + [[https://youtu.be/LZMtQNdqtvc][Doing mathematics with simple types: Infinitary combinatorics in Isabelle/HOL]]. ~ Lawrence Paulson. #ITP #IsabelleHOL #Math
 + [[https://arxiv.org/abs/2104.01052][An evaluation of the Archive of Formal Proofs]]. ~ Carlin MacKenzie, Jacques Fleuriot, James Vaughan. #ITP #IsabelleHOL
 + [[https://taylor.fausak.me/2021/04/03/default-exception-handler-in-haskell/][Default exception handler in Haskell]]. ~ Taylor Fausak. #Haskell #FunctionalProgramming
 + [[https://home.fnal.gov/~neilsen/notebook/orgExamples/org-examples.html][Emacs org-mode examples and cookbook]]. ~ Eric H. Neilsen, Jr. #Emacs
 
-*** 04-Apr-21
+*** 04-Abr-21
 + [[https://repositorioaberto.uab.pt/bitstream/10400.2/9925/1/TD_IvoRobert.pdf][ProverX: Rewriting and extending Prover9]]. ~ Ivo Robert. #PhDThesis #ATP #Prover9
 
-*** 03-Apr-21
+*** 03-Abr-21
 + [[https://eprint.iacr.org/2021/397.pdf][SSProve: A foundational framework for modular cryptographic proofs in Coq]]. ~ Carmine Abate et als. #ITP #Coq
 
-*** 02-Apr-21
-+ [[https://github.com/J-AugustoManzano/hope][Código fonte do livro "Lógica de programação funcional: Pense em Hope"]]. ~ José Augusto N. G. Manzano. #Hope #FunctionalProgramming
+*** 02-Abr-21
++ [[https://github.com/J-AgostooManzano/hope][Código fonte do livro "Lógica de programação funcional: Pense em Hope"]]. ~ José Agostoo N. G. Manzano. #Hope #FunctionalProgramming
 + [[https://gallais.github.io/pdf/draft_sigbovik21.pdf][Dependent stringly-typed programming]]. ~ @anormalform. #Agda #FunctionalProgramming #ITP
 + [[https://www.stephanschiffels.de/posts/2021-03-24-Haskell-CLI/][Designing command line interfaces in Haskell]]. ~ Stephan Schiffels (@stschiff). #Haskell #FunctionalProgramming
 + [[https://boris-marinov.github.io/category-theory-illustrated/04_order/][Category theory illustrated]]. ~ Boris Marinov (@AlexanderKatt). #CategoryTheory
 + [[https://plato.stanford.edu/entries/category-theory][#SEP: Category theory]]. ~ Jean-Pierre Marquis. #CategoryTheory #Logic #Math
 
-** March 2021
+** Marzo 2021
 
 *** 31-Mar-21
 + [[http://www.andreas-lochbihler.de/pub/basin2021.pdf][Abstract modeling of systems communication in constructive cryptography using CryptHOL]]. ~ D. Basin, A. Lochbihler, U. Maurer, S.R. Sefidgar. #ITP #IsabelleHOL
@@ -3919,7 +3925,7 @@ its content.
 + [[https://arxiv.org/abs/2103.15702][Limits of real numbers in the binary signed digit representation]]. ~ Franziskus Wiesnet, Nils Köpp. #Haskell #FunctionalProgramming #Math
 + [[https://www.microsiervos.com/archivo/matematicas/analisis-complejo-mandelbrot-julia-codigo-abierto.html][El Análisis complejo y una exploración de los conjuntos de Mandelbrot y Julia con código abierto]]. ~ @Alvy. #Matemáticas #Programación
 + [[https://complex-analysis.com/es.html][Análisis complejo (Una introducción visual e interactiva)]]. ~ Juan Carlos Ponce Campuzano. #eBook #Matemáticas
-+ [[https://novo.manzano.pro.br/wp/download/logica-de-programacao-funcional-pense-em-hope/][Lógica de programação funcional: Pense em Hope (Exercícios de programação funcional com Hope)]]. ~ José Augusto N. G. Manzano, José A. Alonso Jiménez, María J. Hidalgo Doblado. #eBook #Hope #FunctionalProgramming
++ [[https://novo.manzano.pro.br/wp/download/logica-de-programacao-funcional-pense-em-hope/][Lógica de programação funcional: Pense em Hope (Exercícios de programação funcional com Hope)]]. ~ José August N. G. Manzano, José A. Alonso Jiménez, María J. Hidalgo Doblado. #eBook #Hope #FunctionalProgramming
 
 *** 29-Mar-21
 + [[https://perl.plover.com/yak/typing/notes.html][Strong typing]]. ~ M-J. Dominus (1999). #Programming
@@ -4075,7 +4081,7 @@ its content.
 + [[http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.303.8201&rep=rep1&type=pdf][12² beautiful mathematical theorems with short proofs]]. ~ Jörg Neunhäuserer. #Math via @@lizardbill
 + [[http://www.cut-the-knot.org/proofs/index.shtml][Proofs in Mathematics]]. ~ Alexander Bogomolny. #Math
 
-** February 2021
+** Febrero 2021
 
 *** 28-Feb-21
 + [[https://cs.nyu.edu/faculty/davise/papers/proof.pdf][Proof verification technology and elementary physics]]. ~ Ernest Davis. #FormalVerification #Physics
@@ -4226,32 +4232,32 @@ its content.
 + [[https://arxiv.org/abs/2101.11320v1][Tutorial on implementing Hoare logic for imperative programs in Haskell]]. ~ Boro Sitnikovski. #Haskell #FunctionalProgramming
 + [[https://arxiv.org/abs/2101.11421v1][Deriving monadic quicksort (Declarative Pearl)]]. ~ Shin-Cheng Mu, Tsung-Ju Chiang. #Haskell #FunctionalProgramming
 
-** January 2021
+** Enero 2021
 
-*** 31-Jan-21
+*** 31-Ene-21
 + [[https://www.bbc.com/mundo/noticias-55815156][Paul Cohen, el matemático que por resolver un problema terminó creando dos mundos]]. ~ Dalia Ventura. #Matemáticas
 
-*** 30-Jan-21
+*** 30-Ene-21
 + [[https://kilthub.cmu.edu/ndownloader/files/26180729][HELIX: From math to verified code]]. ~ Vadim Zaliva. #PhD_Thesis #ITP #Coq #Math
 + [[https://repository.tudelft.nl/islandora/object/uuid:54b01377-1f79-4758-b79b-4859df05dbd6][Implementing the decomposition of soundness proofs of abstract interpreters in Coq]]. ~ Jens de Waard. #MSc_Thesis #ITP #Coq
 + [[https://arxiv.org/abs/2101.09699][Longest segment of balanced parentheses: an exercise in program inversion in a segment problem (Functional Pearl)]]. ~ Shin-Cheng Mu, Tsung-Ju Chiang. #Haskell #FunctionalProgramming
 + [[https://arxiv.org/abs/2101.09700][A greedy algorithm for dropping digits (Functional Pearl)]]. ~ Richard Bird, Shin-Cheng Mu. #Haskell #FunctionalProgramming
 
-*** 29-Jan-21
+*** 29-Ene-21
 + [[https://xenaproject.wordpress.com/2021/01/28/formalising-mathematics-workshop-2][Formalising mathematics: Workshop 2 (Groups and subgroups)]]. ~ Kevin Buzzard (@XenaProject). #ITP #LeanProver #Math
 + [[https://mjj.io/2021/01/26/building-a-passphrase-generator-in-haskell/][Building a passphrase generator in Haskell]]. ~ Mathias Jean Johansen. #Haskell #FunctionalProgramming
 + [[https://youtu.be/g2--VL2SkMo][What do we mean by equality?]] ~ Kevin Buzzard (@XenaProject). #Logic #Math
 + [[https://youtu.be/ehlXpfFuLvI][¿Cuántos infinitos existen?️ El teorema de Cantor]]. ~ Urtzi Buijs (@UrtziBuijs). #Matemáticas
 
-*** 28-Jan-21
+*** 28-Ene-21
 + [[https://github.com/leanprover-community/mathlib/blob/6585eff99deca6bb21ae0c84c5c7b609c0406189/archive/imo/imo2013_q5.lean][IMO 2013 Q5 in Lean]]. ~ David Renshaw. #ITP #LeanProver #Math
 + [[https://arxiv.org/abs/2101.11501][Evolution of artificial intelligence languages, a systematic literature review]]. ~ Emmanuel Adetiba, Temitope John, Adekunle Akinrinmade, Funmilayo Moninuola, Oladipupo Akintade, Joke Badejo. #AI #Programming
 + [[https://tecdigital.tec.ac.cr/revistamatematica/Libros/LaTeX/LaTeX_2018.pdf][Edición de textos científicos con LaTeX]]. (Composición, gráficos, Inkscape, Tikz y presentaciones Beamer). ~ Alexánder Borbón, Walter Mora. #LaTeX
 
-*** 27-Jan-21
+*** 27-Ene-21
 + [[https://github.com/leanprover-community/mathlib/blob/1eb1293706c569ef94776d63fd4900923cc66270/archive/imo/imo2011_q3.lean][IMO 2011 Q3 in Lean]]. ~ David Renshaw. #ITP #LeanProver #Math
 
-*** 26-Jan-21
+*** 26-Ene-21
 + [[https://dl.acm.org/doi/pdf/10.1145/3437992.3439910][Teaching algorithms and data structures with a proof assistant]]. ~ Tobias Nipkow. #ITP #IsabelleHOL
 + [[https://lmcs.episciences.org/7124/pdf][2-Adjoint equivalences in Homotopy Type Theory]]. ~ Daniel Carranza, Jonathan Chang, Krzysztof Kapulkin, Ryan Sandford. #ITP #LeanProver #HoTT
 + [[https://arxiv.org/abs/2101.10166][The Agda universal algebra library and Birkhoff's theorem in Martin-Löf dependent type theory]]. ~ William DeMeo. #ITP #Agda #Math
@@ -4259,51 +4265,51 @@ its content.
 + [[https://atcm.mathandtech.org/EP2020/invited/21810.pdf][A Haskell implementation of the Lyness-Moler’s numerical differentiation algorithm]]. ~ Weng Kin Ho, Chu Wei Lim. #Haskell #FunctionalProgramming #Math
 + [[https://cacm.acm.org/magazines/2021/2/250078-lets-not-dumb-down-the-history-of-computer-science/fulltext][Let's not dumb down the history of computer science]]. ~ Donald E. Knuth, Len Shustek. #CompSci
 
-*** 25-Jan-21
+*** 25-Ene-21
 + [[https://xenaproject.wordpress.com/2021/01/24/formalising-mathematics-workshop-1][Formalising mathematics: workshop 1]]. ~ Kevin Buzzard (@XenaProject). #ITP #LeanProver #Math
 
-*** 24-Jan-21
+*** 24-Ene-21
 + [[https://www.johndcook.com/blog/2021/01/23/sums-of-consecutive-reciprocals/][Sums of consecutive reciprocals]]. ~ John D. Cook (@JohnDCook). #Math
 + [[https://republicaweb.es/podcast/descubriendo-la-programacion-funcional-lisp-con-diego-sevilla/][Descubriendo la programación funcional: Lisp con Diego Sevilla (@diegosevilla)]]. #Lisp #CommonLisp #ProgramaciónFuncional12
 
-*** 23-Jan-21
+*** 23-Ene-21
 + [[https://youtu.be/4d6B1C0wuaE][Las bases matemáticas de la programación funcional]]. ~ Héctor Iván Patricio Moreno. #ProgramaciónFuncional
 + [[https://arxiv.org/abs/2101.06759][Proceedings of the 2020 Scheme and Functional Programming Workshop]]. #FunctionalProgramming
 + [[https://arxiv.org/abs/2101.06317][Machine-learning mathematical structures]]. ~ Yang-Hui He. #MachineLearning #Math
 + [[https://www.nature.com/articles/d41586-021-00075-2][Ten computer codes that transformed science]]. ~ Jeffrey M. Perkel. #CompSci via @vardi
 + [[https://notxor.nueva-actitud.org/2021/01/22/tablas-para-calculos-en-org-mode.html][Tablas para cálculos en org-mode]]. #Emacs #OrgMode
 
-*** 22-Jan-21
+*** 22-Ene-21
 + [[https://www.lambdabytes.io/posts/teachinghaskell/][Teaching Haskell means teaching important concepts]]. ~ Jonathan Thaler (@JonathanThaler). #Haskell #FunctionalProgramming
 
-*** 21-Jan-21
+*** 21-Ene-21
 + [[https://xenaproject.wordpress.com/2021/01/21/formalising-mathematics-an-introduction/][Formalising mathematics: an introduction]]. ~ Kevin Buzzard (@XenaProject). #ITP #LeanProver #Math
 + [[https://maksbotan.github.io/posts/2021-01-20-callstacks.html][Capturing call stack with Haskell exceptions]]. ~ Maxim Koltsov (@maksbotan). #Haskell #FunctionalProgramming
 + [[https://lispcookbook.github.io/cl-cookbook][The Common Lisp Cookbook [in EPUB and PDF format]]]./#download-in-epub #eBook #CommonLisp
 + [[https://www.gaussianos.com/el-numero-de-dottie/][El número de Dottie]]. ~ M.A. Morales (@gaussianos). #Matemáticas
 
-*** 20-Jan-21
-+ [[https://raw.githubusercontent.com/DSLsofMath/DSLsofMath/master/L/snapshots/DSLsofMathBook_snapshot_2021-01-17.pdf][Domain-specific languages of Mathematics [Draft of January 17, 2021]]]. ~ Patrik Jansson (@patrikja), Cezar Ionescu, Jean-Philippe Bernardy. #Haskell #FunctionalProgramming #Math
+*** 20-Ene-21
++ [[https://raw.githubusercontent.com/DSLsofMath/DSLsofMath/master/L/snapshots/DSLsofMathBook_snapshot_2021-01-17.pdf][Domain-specific languages of Mathematics [Draft of Enero 17, 2021]]]. ~ Patrik Jansson (@patrikja), Cezar Ionescu, Jean-Philippe Bernardy. #Haskell #FunctionalProgramming #Math
 + [[https://github.com/DSLsofMath/DSLsofMath][DSLsofMath: Domain-specific languages of Mathematics [Repo]]]. ~ Patrik Jansson (@patrikja) et als. #Haskell #FunctionalProgramming #Math
 
-*** 19-Jan-21
+*** 19-Ene-21
 + [[https://youtu.be/S4xl0CtJIb4][A novice-friendly induction tactic for Lean]]. ~ Jannis Limperg. #ITP #LeanProver
 + [[https://bor0.wordpress.com/2021/01/18/towards-hoare-logic-for-a-small-imperative-language-in-haskell/][Towards Hoare logic for a small imperative language in Haskell]]. ~ Boro Sitnikovski (@BSitnikovski). #Haskell #FunctionalProgramming
 + [[https://www.informatics-europe.org/images/ECSS/ECSS2009/slides/Gottlob.pdf][Computer Science as the continuation of Logic by other means]]. ~ Georg Gottlob. #Logic #CompSci
 
-*** 18-Jan-21
+*** 18-Ene-21
 + [[https://leanprover-community.github.io/lt2021/slides/thomas-LT2021-Galois-Theory.pdf][Formalizing Galois Theory in Lean [Slides]]]. ~ Thomas Browning, Patrick Lutz. #ITP #LeanProver #Math
 + [[https://youtu.be/-6z6qTD_vv8][Formalizing Galois Theory in Lean [Vídeo]]]. ~ Thomas Browning, Patrick Lutz. #ITP #LeanProver #Math
 + [[https://bit.ly/2XPH8Iq][Las Matemáticas son suficientes para mí]]. ~ Juan Arias de Reyna. #Matemáticas
 + [[https://alhassy.github.io/org-special-block-extras][org-special-block-extras (A unified interface for special blocks and links: defblock)]]. ~ Musa Al-hassy./#Judgements-Inference-rules-and-proof-trees #Emacs #OrgMode
 
-*** 16-Jan-21
+*** 16-Ene-21
 + [[https://youtu.be/pMCZFrii4lA][Model theory in Lean]]. ~ Vaibhav Karve. #ITP #LeanProver #Logic
 + [[http://people.rennes.inria.fr/Assia.Mahboubi/assia_hdr_thesis.pdf][Machine-checked computer-aided mathematics]]. ~ Assia Mahboubi. #ITP #Coq #Math
 + [[https://martin.desharnais.me/public/documents/cpp2021-Dyn-Inca-Ubx.pdf][Towards efficient and verified virtual machines for dynamic languages]]. ~ Martin Desharnais, Stefan Brunthaler. #ITP #IsabelleHOL
 + [[https://youtu.be/wOQuW6QFdos][From Aristotle to the iPhone]]. ~ Moshe Y. Vardi (@vardi). #Logic #CompSci
 
-*** 15-Jan-21
+*** 15-Ene-21
 + [[https://vaibhavkarve.github.io/leanteach_2020.html][Axiomatic Geometry in Lean]]. ~ Vaibhav Karve, Lawrence Zhao, Edward Kong, Alex Dolcos, Nicholas Phillips. #ITP #LeanProver #Math
 + [[https://youtu.be/K-kLck8BvDM][Axiomatic Geometry in Lean [Video]]]. ~ Vaibhav Karve. #ITP #LeanProver #Math
 + [[https://github.com/vaibhavkarve/leanteach2020][Axiomatic Geometry in Lean [Code]]]. ~ Vaibhav Karve, Lawrence Zhao, Edward Kong, Alex Dolcos, Nicholas Phillips. #ITP #LeanProver #Math
@@ -4315,7 +4321,7 @@ its content.
 + [[https://interstices.info/en-toute-logique-une-origine-de-lordinateur/][En toute logique: une origine de l’ordinateur]]. ~ Frédéric Prost. #Logic #CompSci
 + [[https://notxor.nueva-actitud.org/2021/01/13/publicar-html-con-org-mode.html][Publicar HTML con Org-Mode]]. #Emacs #OrgMode
 
-*** 14-Jan-21
+*** 14-Ene-21
 + [[http://cl-informatik.uibk.ac.at/software/fortissimo/cpp2021/paper.pdf][A verified decision procedure for the first-order theory of rewriting for linear variable-separated rewrite systems]]. ~ Alexander Lochmann, Aart Middeldorp, Fabian Mitterwallner, Bertram Felgenhauer. #ITP #IsabelleHOL
 + [[https://arxiv.org/abs/1911.00385][A formal proof of PAC learnability for decision stumps]]. ~ Joseph Tassarotti, Koundinya Vajjha, Anindya Banerjee, Jean-Baptiste Tristan. #ITP #LeanProver
 + [[https://github.com/leanprover-community/mathlib/blob/1509c2950946374803b265830452880816e0f0c1/archive/100-theorems-list/83_friendship_graphs.lean][The friendship theorem in Lean]]. ~ Aaron Anderson. #ITP #LeanProver #Math
@@ -4323,14 +4329,14 @@ its content.
 + [[https://github.com/math-comp/Abel][Abel-Ruffini Theorem as a Mathematical Component]]. ~ Sophie Bernard, Cyril Cohen, Assia Mahboubi, Pierre-Yves Strub. #ITP #Coq #Math
 + [[https://cronokirby.com/posts/2021/01/making-an-io/][Making an IO]]. ~ Lúcás Meier (@cronokirby). #Haskell #FunctionalProgramming
 
-*** 13-Jan-21
+*** 13-Ene-21
 + [[https://www.cs.au.dk/~birke/papers/2021-ms-queue.pdf][Contextual refinement of the Michael-Scott queue (Proof pearl)]]. ~ Simon Friis Vindum, Lars Birkedal. #ITP #Coq
 + [[https://cs.au.dk/~birke/papers/2021-monotone.pdf][Reasoning about monotonicity in separation logic]]. ~ Amin Timany, Lars Birkedal. #ITP #Coq
 + [[https://www-verimag.imag.fr/~monin/Publis/Docs/datalog-cpp21.pdf][Developing and certifying Datalog optimizations in Coq/MathComp]]. ~ Pierre-Léo Bégay, Pierre Crégut, Jean-François Monin. #ITP #Coq
 + [[http://cl-informatik.uibk.ac.at/isafor/papers/cpp2021.pdf][An Isabelle/HOL formalization of AProVE's termination method for LLVM IR]]. ~ Max W. Haslbeck, René Thiemann. #ITP #IsabelleHOL #Haskell
 + [[https://link.springer.com/article/10.1007/s10817-020-09584-7][Certified quantum computation in Isabelle/HOL]]. ~ Anthony Bordg, Hanna Lachnitt, Yijun He. #ITP #IsabelleHOL
 
-*** 12-Jan-21
+*** 12-Ene-21
 + [[http://alexjbest.github.io/talks/lean-generalisation][Automatically generalising theorems using typeclasses in Lean [Slides]]]. ~ Alex  J. Best./#/#ITP #LeanProver #Math
 + [[https://bostonu.zoom.us/rec/play/yPZ5hwU7T5C2wwAUYMKEwed7Y83lsvPEci6CP-AiIel8A9u05OHbOLcAy-mi__tqgg3vBDvhXc4wVY_p.B9N6zDkf2SMpf2Nh?startTime=1609940780000][Automatically generalising theorems using typeclasses in Lean [Video]]]. ~ Alex J. Best. #ITP #LeanProver #Math
 + [[http://eptcs.web.cse.unsw.edu.au/paper.cgi?LFMTP2020.4.pdf][Implementation of two layers type theory in Dedukti and application to Cubical Type Theory]]. ~ Bruno Barras, Valentin Maestracci. #ITP #Dedukti
@@ -4340,20 +4346,20 @@ its content.
 + [[https://www.dropbox.com/s/q1whqz0v2c0falm/CPP2021-Kolmogorov-complexity.pdf?dl=0][On the formalisation of Kolmogorov complexity]]. ~ Elliot Catt, Michael Norrish. #ITP #HOL4
 + [[https://melkornemesis.medium.com/haskell-explained-3f91658a67d3][Haskell: (.) . (.) explained (Let’s get a grasp of composition equivalences in Haskell)]]. #Haskell #FunctionalProgramming
 
-*** 11-Jan-21
+*** 11-Ene-21
 + [[https://youtu.be/k-YncL7Cd4Q][Formalizing the ring of Witt vectors]]. ~ Robert Y. Lewis. #ITP #LeanProver #Math
 + [[http://eptcs.web.cse.unsw.edu.au/paper.cgi?LFMTP2020.1.pdf][Mechanisation of model-theoretic conservative extension for HOL with ad-hoc overloading]]. ~ Arve Gengelbach, Johannes Åman Pohjola, Tjark Weber. #ITP #HOL4
 + [[http://eptcs.web.cse.unsw.edu.au/paper.cgi?LFMTP2020.2.pdf][Object-level reasoning with logics encoded in HOL Light]]. ~ Petros Papapanagiotou, Jacques Fleuriot. #ITP #HOL_Light #Logic
 + [[http://eptcs.web.cse.unsw.edu.au/paper.cgi?LFMTP2020.3.pdf][Deductive systems and coherence for skew prounital closed categories]]. ~ Tarmo Uustalu, Niccolò Veltri, Noam Zeilberger. #ITP #Agda
 + [[https://www.foxhound.systems/blog/why-haskell-for-production/][Why Haskell is our first choice for building production software systems]]. ~ Christian Charukiewicz (@charukiewicz). #Haskell #FunctionalProgramming
 
-*** 10-Jan-21
+*** 10-Ene-21
 + [[https://github.com/mhk119/fibonacci_squares][144 is the largest square in the Fibonacci Sequence (A formalisation of Cohn's Proof)]]. ~ Harun Khan #ITP #LeanProver #Math via @XenaProject
 + [[https://github.com/Lix0120/eudoxus/][The Eudoxus real numbers in Lean]]. ~ Xiang Li. #ITP #LeanProver #Math via @XenaProject
 + [[http://wwwf.imperial.ac.uk/~buzzard/xena/pdfs/Set_theory_Type_Theory_and_the_future_of_Proof_verification_software.pdf][Set theory, type theory and the future of proof verification software]]. ~ James Palmer. #ITP #LeanProver #Math via @XenaProject
 + [[https://github.com/mdickinson/snippets/blob/master/proofs/isqrt/src/isqrt.lean][A formal proof of correctness of a recursive integer square root algorithm]]. ~ Mark Dickinson. #ITP #LeanProver #Math
 
-*** 09-Jan-21
+*** 09-Ene-21
 + [[https://arxiv.org/abs/2101.02602][Schemes in Lean]]. ~ Kevin Buzzard, Chris Hughes, Kenny Lau, Amelia Livingston, Ramon Fernández Mir, Scott Morrison. #ITP #LeanProver #Math
 + [[https://user.informatik.uni-bremen.de/fritjof/pdfs/performance-aspects-of-correctness-oriented-synthesis-flows.pdf][Performance aspects of correctness-oriented synthesis flows]]. ~ F. Bornebusch, C. Lüth, R. Wille, R. Drechsler. #ITP #Coq
 + [[https://hal.archives-ouvertes.fr/hal-03096253/document][An anti-locally-nameless approach to formalizing quantifiers]]. ~ Olivier Laurent. #ITP #Coq
@@ -4365,7 +4371,7 @@ its content.
 + [[https://jsannemo.se/aps.pdf][Algorithmic problem solving]]. ~ Johan Sannemo. #eBook #Programming #Algorithms
 + [[https://www.gaussianos.com/la-saga-del-infinito-de-mates-mike/][La saga del infinito, de Mates Mike]]. ~ M.A. Morales (@gaussianos). #Matemáticas
 
-*** 08-Jan-21
+*** 08-Ene-21
 + [[https://youtu.be/eSXiClL4COw][LeanStep: a dataset and environment for (interactive) neural theorem proving [Video]]]. ~ Jason Rute. #ITP #Leanprover #MachineLearning
 + [[https://docs.google.com/presentation/d/1poOu2gP9mSGAdAFvOupHvf4tpgD33jACQLJAVcphA1g/edit?usp=sharing][LeanStep: a dataset and environment for (interactive) neural theorem proving [Slides]]]. ~ Jason Rute. #ITP #Leanprover #MachineLearning
 + [[https://arxiv.org/abs/2101.02690][Theorem proving and algebra]]. ~ Joseph A. Goguen. #eBook #ITP #Math
@@ -4377,7 +4383,7 @@ its content.
 + [[https://www.cs.us.es/~jalonso/cursos/d-pl-03/temas/tema-8.pdf][Programación lógica con restricciones]]. #Prolog #CLP
 + [[https://www.cs.us.es/~jalonso/apuntes/Soluciones_logicas_de_problemas_logicos/Tema_2.html][Soluciones lógicas de problemas lógicos]]. #Prolog #ProgramaciónLógica #CLP
 
-*** 07-Jan-21
+*** 07-Ene-21
 + [[https://www.cs.utexas.edu/users/moore/publications/acl2-induction-heuristics.pdf][ACL2 induction heuristics]]. ~ J Strother Moore. #ITP #ACL2
 + [[https://youtu.be/cLuEaAsUvL4][Word problem for one-relator groups]]. ~ Chris Hughes. #ITP #LeanProver #Math
 + [[https://github.com/gihanmarasingha/mth1001_tutorial][A Lean introduction to pure mathematics]]. ~ Gihan Marasingha (@gihanmarasingha). #ITP #LeanProver #Logic #Math
@@ -4386,7 +4392,7 @@ its content.
 + [[https://people.mpi-sws.org/~eva/papers/cpp2021.pdf][Lassie: HOL4 tactics by example]]. ~ Heiko Becker et als.. #ITP #HOL4
 + [[https://gupea.ub.gu.se/bitstream/2077/67193/1/gupea_2077_67193_1.pdf][Formalizing domain models of the typed and the untyped lambda calculus in Agda]]. ~ David Lidell. #MSc_Thesis #ITP #Agda
 
-*** 06-Jan-21
+*** 06-Ene-21
 + [[https://www.cs.rice.edu/~vardi/papers/SATSolvers21.pdf][On the unreasonable effectiveness of SAT Solvers]]. ~ Vijay Ganesh, Moshe Y. Vardi. #Logic #ATP #SAT_Solvers
 + [[https://github.com/bhgomes/lean-riemann-hypothesis][Riemann Hypothesis in Lean]]. ~ Brandon H. Gomes (@brandonhgomes), Alex Kontorovich. #ITP #LeanProver #Math
 + [[https://leanprover-community.github.io/lt2021/slides/Macbeth-slides.pdf][An example of a manifold [Slides]]]. ~ Heather Macbeth. #ITP #LeanProver #Math
@@ -4395,7 +4401,7 @@ its content.
 + [[https://serokell.io/blog/compile-time-evaluation-haskell][Compile-time evaluation in Haskell]]. ~ Vladislav Zavialov. #Haskell #FunctionalProgramming
 + [[https://rjlipton.wordpress.com/2021/01/05/predictions-for-2021/][Predictions for 2021]]. | Gödel’s Lost Letter and P = NP. ~ R.J. Lipton & K.W. Regan. #CompSci
 
-*** 05-Jan-21
+*** 05-Ene-21
 + [[https://arxiv.org/abs/2101.00127][Formalizing Hall's Marriage Theorem in Lean]]. ~ Alena Gusakov, Bhavik Mehta, Kyle A. Miller. #ITP #LeanProver #Math
 + [[https://doisinkidney.com/pdfs/masters-thesis.pdf][Finiteness in cubical type theory]]. ~ Donnacha Oisín Kidney (@oisdk). #MSc_Thesis #ITP #Agda #HoTT
 + [[https://youtu.be/UeGvhfW1v9M][An overview of Lean 4]]. ~ Leonardo de Moura, Sebastian Ullrich. #ITP #LeanProver
@@ -4406,7 +4412,7 @@ its content.
 + [[https://iokasimov.github.io/posts/2021/01/composable-monad-transformers][Trying to compose non-composable: monads]]. ~ Murat Kasimov. #Haskell #FunctionalProgramming
 + [[https://youtu.be/l13D-CcwM5A][Learning TypeFamilies together! ~  Flavio Corpa (@FlavioCorpa)]]. #Haskell #FunctionalProgramming
 
-*** 04-Jan-21
+*** 04-Ene-21
 + [[http://ceur-ws.org/Vol-2710/paper21.pdf][Tautology checkers in Isabelle and Haskell]]. ~ Jørgen Villadsen. #Logic #ITP #IsabelleHOL #Haskell #FunctionalProgramming
 + [[http://ceur-ws.org/Vol-2710/paper13.pdf][Theorem proving for Lewis logics of counterfactual reasoning]]. ~ Marianna Girlando, Bjoern Lellmann, Nicola Olivetti, Stefano Pesce, Gian Luca Pozzato. #ATP #Logic #Prolog #LogicProgramming
 + [[https://github.com/leanprover-community/mathlib/blob/384ba88bf56209e52a0bed1b7176805c09b05c9a/src/computability/DFA.lean][Deterministic Finite Automata (DFA) in Lean]]. ~ Fox Thomson. #ITP #LeanProver
@@ -4417,24 +4423,24 @@ its content.
 + [[https://wespiser.com/posts/2021-01-03-Lessons-Learned-From-A-Year-Of-Haskell.html][Lessons learned from a year of writing Haskell]]. ~ Adam Wespiser (@wespiser). #Haskell #FunctionalProgramming
 + [[https://oleg.fi/gists/posts/2021-01-04-coindexed-optics.htm][Coindexed optics]]. ~ Oleg Grenrus (@phadej).l#Haskell #FunctionalProgramming
 
-*** 03-Jan-21
+*** 03-Ene-21
 + [[https://github.com/leanprover-community/mathlib/blob/04f8fd744a1d8e9f5aec9fd8d4809d4345365916/src/group_theory/dihedral.lean][Dihedral groups in Lean]]. ~ Shing Tak Lam. #ITP #LeanProver #Math
 
-*** 02-Jan-21
+*** 02-Ene-21
 + [[https://arxiv.org/abs/2012.14133v1][Verifying C11-style weak memory libraries]]. ~ Sadegh Dalvandi, Brijesh Dongol. #ITP #IsabelleHOL
 + [[https://leanprover.github.io/lean4/doc/whatIsLean.html][Lean 4 manual]]. #Lean4 #FunctionalProgramming #ITP
 + [[https://www.mdpi.com/2227-7390/9/1/38/pdf][Formalization of the equivalence among completeness theorems of real number in Coq]]. ~ Yaoshun Fu, Wensheng Yu. #ITP #Coq #Math
 + [[https://www.lri.fr/~keller/Documents-recherche/Publications/cpp21.pdf][A Coq formalization of data provenance]]. Véronique Benzaken et als. #ITP #Coq
 + [[https://www.ps.uni-saarland.de/~kirst/downloads/talk_TSEM_20.pdf][Synthetic undecidability proofs in Coq]]. ~ Dominik Kirst. #ITP #Coq
 
-*** 01-Jan-21
+*** 01-Ene-21
 + [[https://schooloffp.co/2020/12/27/two-reasons-why-you-found-learning-haskell-hard.html][Two reasons why you found learning haskell hard]]. ~ School of FP (@schooloffp). #Haskell #FunctionalProgramming
 + [[https://tek.brick.do/64693fb8-39b4-40a5-8762-768009eeed91][Learn just enough about linear types]]. ~ Artyom Kazak (@availablegreen). #Haskell #FunctionalProgramming
 
-* Previous readings
-+ [[./Readings of the year 2020.org][Readings of the year 2020]]
-+ [[./Readings of the year 2019.org][Readings of the year 2019]]
-+ [[./Readings of the year 2018.org][Readings of the year 2018]]
-+ [[./Readings of the year 2017.org][Readings of the year 2017]]
-+ [[./Readings of the year 2016.org][Readings of the year 2016]]
-+ [[./Readings of the year 2010 al 2015.org][Readings from the year 2010 to 2015]]
+* Lecturas anteriores
++ [[./Lecturas del año 2020.org][Lecturas del año 2020]]
++ [[./Lecturas del año 2019.org][Lecturas del año 2019]]
++ [[./Lecturas del año 2018.org][Lecturas del año 2018]]
++ [[./Lecturas del año 2017.org][Lecturas del año 2017]]
++ [[./Lecturas del año 2016.org][Lecturas del año 2016]]
++ [[./Lecturas del año 2010 al 2015.org][Lecturas del año 2010 al 2015]]
