@@ -44,6 +44,11 @@ its content.
 
 ** Enero 2023
 
+*** 02-Ene-23
++ [[https://home.sandiego.edu/~shulman/papers/jmm2022-complementary.pdf][Complementary foundations for mathematics: when do we choose? ~ Michael Shulman]]. #Logic #Math
++ [[https://byorgey.wordpress.com/2023/01/02/binary-search-over-floating-point-representations/][Binary search over floating point representations]]. ~ Brent Yorgey. #Haskell #FunctionalProgramming
++ [[https://blog.poisson.chat/posts/2023-01-02-del-cont-examples.html][From delimited continuations to algebraic effects in Haskell]]. ~ Li-yao Xia (@lysxia). #Haskell #FunctionalProgramming
+
 *** 01-Ene-23
 + [[https://byorgey.wordpress.com/2023/01/01/competitive-programming-in-haskell-better-binary-search/][Competitive programming in Haskell: better binary search]]. ~ Brent Yorgey. #Haskell #FunctionalProgramming
 + [[https://www.theguardian.com/technology/2022/dec/31/ai-assisted-plagiarism-chatgpt-bot-says-it-has-an-answer-for-that][AI-assisted plagiarism? ChatGPT bot says it has an answer for that]]. ~ Alex Hern. #AI #ChatGPT
