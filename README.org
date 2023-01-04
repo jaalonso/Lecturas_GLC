@@ -44,6 +44,14 @@ its content.
 
 ** Enero 2023
 
+*** 03-Ene-23
++ [[https://backend.orbit.dtu.dk/ws/portalfiles/portal/301866679/document_2_.pdf][A sequent calculus prover for first-order logic with functions]]. ~ Asta Halkjær From, Frederik Krogsdal Jacobsen. #ITP #IsabelleHOL #Logic #Math
++ [[https://www.math.nagoya-u.ac.jp/~garrigue/lecture/2022_affeldt/karate-coq-nagoya2022.pdf][An introduction to MathComp-Analysis]]. ~ Reynald Affeldt. #ITP #Coq #Math
++ [[https://www.mdpi.com/2075-1680/12/1/43/pdf?version=1672406063][A sound definitional interpreter for a simply typed functional language]]. ~ Burak Ekic. #ITP #Coq #FunctionalProgramming
++ [[https://www.quantamagazine.org/the-biggest-discoveries-in-computer-science-in-2022-20221221/][The Year in Computer Science]]. ~ Bill Andrews. #CompSci
++ [[https://blog.desdelinux.net/estudio-sobre-vulnerabilidades-en-el-uso-de-ai-que-escriben-codigo/][Estudio sobre vulnerabilidades en el uso de AI que escriben código]]. ~ Darkcrizt. #IA #Programación
++ [[https://arxiv.org/abs/2211.03622][Do users write more insecure code with AI assistants?]] ~ Neil Perry, Megha Srivastava, Deepak Kumar, Dan Boneh. #AI #Programming
+
 *** 02-Ene-23
 + [[https://home.sandiego.edu/~shulman/papers/jmm2022-complementary.pdf][Complementary foundations for mathematics: when do we choose? ~ Michael Shulman]]. #Logic #Math
 + [[https://byorgey.wordpress.com/2023/01/02/binary-search-over-floating-point-representations/][Binary search over floating point representations]]. ~ Brent Yorgey. #Haskell #FunctionalProgramming
