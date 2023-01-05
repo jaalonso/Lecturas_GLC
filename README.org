@@ -44,6 +44,11 @@ its content.
 
 ** Enero 2023
 
+*** 04-Ene-23
++ [[https://www.channable.com/tech/parallel-streaming-in-haskell-part-1-fast-efficient-fun][Parallel streaming in Haskell: Part 1 - Fast, efficient, and fun!]] ~ Yorick Sijsling, Joris Burgers. #Haskell #FunctionalProgramming
++ [[https://www.reddit.com/r/haskell/comments/1033vpe/asked_chatgpt_to_explain_haskell_to_me_in_the/][Asked ChatGPT to explain Haskell to me in the style of Edgar Allan Poe, and the answer was beautiful]]. #ChatGPT #Haskell
++ [[https://cacm.acm.org/news/268372-is-ai-the-future-of-test-prep/fulltext][Is A.I. the future of test prep?]] #AI
+
 *** 03-Ene-23
 + [[https://backend.orbit.dtu.dk/ws/portalfiles/portal/301866679/document_2_.pdf][A sequent calculus prover for first-order logic with functions]]. ~ Asta Halkjær From, Frederik Krogsdal Jacobsen. #ITP #IsabelleHOL #Logic #Math
 + [[https://www.math.nagoya-u.ac.jp/~garrigue/lecture/2022_affeldt/karate-coq-nagoya2022.pdf][An introduction to MathComp-Analysis]]. ~ Reynald Affeldt. #ITP #Coq #Math
