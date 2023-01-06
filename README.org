@@ -44,6 +44,10 @@ its content.
 
 ** Enero 2023
 
+*** 05-Ene-23
++ [[https://siliconreckoner.substack.com/p/chatting-with-robots][Chatting with robots]]. ~ Michael Harris. #ChatGPT
++ [[https://arxiv.org/abs/2301.01743][Chatbots as problem solvers: Playing twenty questions with role reversals]]. ~ David Noever, Forrest McKee. #ChatGPT
+
 *** 04-Ene-23
 + [[https://www.channable.com/tech/parallel-streaming-in-haskell-part-1-fast-efficient-fun][Parallel streaming in Haskell: Part 1 - Fast, efficient, and fun!]] ~ Yorick Sijsling, Joris Burgers. #Haskell #FunctionalProgramming
 + [[https://www.reddit.com/r/haskell/comments/1033vpe/asked_chatgpt_to_explain_haskell_to_me_in_the/][Asked ChatGPT to explain Haskell to me in the style of Edgar Allan Poe, and the answer was beautiful]]. #ChatGPT #Haskell
