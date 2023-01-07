@@ -44,6 +44,11 @@ its content.
 
 ** Enero 2023
 
+*** 06-Ene-23
++ [[https://arxiv.org/abs/2301.02195][Towards autoformalization of Mathematics and code correctness: Experiments with elementary proofs]]. ~ Garett Cunningham, Razvan C. Bunescu, David Juedes. #Autoformalisation #ITP #Coq
++ [[https://reasonablypolymorphic.com/blog/abusing-constraints/index.html][Abusing constraints for automatic documentation]]. ~ Sandy Maguire. #Haskell #FunctionalProgramming
++ [[https://www.reddit.com/r/haskell/comments/1045nch/chatgpt_can_write_the_code_its_based_on_in_python/][ChatGPT can write the code it's based on in Python, Julia, and Haskell]]. #ChatGPT #python #JuliaLang #Haskell
+
 *** 05-Ene-23
 + [[https://siliconreckoner.substack.com/p/chatting-with-robots][Chatting with robots]]. ~ Michael Harris. #ChatGPT
 + [[https://arxiv.org/abs/2301.01743][Chatbots as problem solvers: Playing twenty questions with role reversals]]. ~ David Noever, Forrest McKee. #ChatGPT
