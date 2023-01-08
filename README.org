@@ -44,6 +44,14 @@ its content.
 
 ** Enero 2023
 
+*** 07-Ene-23
++ [[https://hal.inria.fr/hal-03917948/file/poplws23cppmain-p61-p-b400dabdc2-62273-submitted.pdf][Semantics of probabilistic programs using s-finite kernels in Coq]]. ~ R. Affeldt, C. Cohen, A. Saito. #ITP #Coq
++ [[https://arxiv.org/abs/2301.00894][Nominal recursors as epi-recursors]]. ~ Andrei Popescu. #ITP #IsabelleHOL
++ [[https://ai.facebook.com/blog/ai-math-theorem-proving/][Teaching AI advanced mathematical reasoning]]. #AI #MachineLearning #ITP #LeanProver #Math
++ [[https://arxiv.org/abs/2205.11491][HyperTree proof search for neural theorem proving]]. ~ Guillaume Lample, Marie-Anne Lachaux, Thibaut Lavril, Xavier Martinet, Amaury Hayat, Gabriel Ebner, Aurélien Rodriguez, Timothée Lacroix. #AI #MachineLearning #ITP #LeanProver #Math
++ [[https://phuse.s3.eu-central-1.amazonaws.com/Archive/2022/Connect/EU/Belfast/PAP_CT08.pdf][Functional programming: What, why and how?]] ~ Tom Ratford - Veramed. #FunctionalProgramming
++ [[https://cacm.acm.org/news/268457-nyc-education-dept-blocks-chatgpt-on-school-devices-networks/fulltext][NYC Education Dept. Blocks ChatGPT on School Devices, Networks]]. #ChatGPT
+
 *** 06-Ene-23
 + [[https://arxiv.org/abs/2301.02195][Towards autoformalization of Mathematics and code correctness: Experiments with elementary proofs]]. ~ Garett Cunningham, Razvan C. Bunescu, David Juedes. #Autoformalisation #ITP #Coq
 + [[https://reasonablypolymorphic.com/blog/abusing-constraints/index.html][Abusing constraints for automatic documentation]]. ~ Sandy Maguire. #Haskell #FunctionalProgramming
