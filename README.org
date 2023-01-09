@@ -44,6 +44,9 @@ its content.
 
 ** Enero 2023
 
+*** 08-Ene-23
++ [[https://www.theguardian.com/commentisfree/2023/jan/07/chatgpt-bot-excel-ai-chatbot-tech][The ChatGPT bot is causing panic now – but it’ll soon be as mundane a tool as Excel]]. ~ John Naughton. #ChatGPT
+
 *** 07-Ene-23
 + [[https://hal.inria.fr/hal-03917948/file/poplws23cppmain-p61-p-b400dabdc2-62273-submitted.pdf][Semantics of probabilistic programs using s-finite kernels in Coq]]. ~ R. Affeldt, C. Cohen, A. Saito. #ITP #Coq
 + [[https://arxiv.org/abs/2301.00894][Nominal recursors as epi-recursors]]. ~ Andrei Popescu. #ITP #IsabelleHOL
