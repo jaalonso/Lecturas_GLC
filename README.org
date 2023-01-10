@@ -44,6 +44,9 @@ its content.
 
 ** Enero 2023
 
+*** 09-Ene-23
++ [[https://xenaproject.wordpress.com/2023/01/08/lean-2022-round-up/][Lean 2022 round-up]]. ~ Kevin Buzzard (@XenaProject). #ITP #LeanProver #Math
+
 *** 08-Ene-23
 + [[https://www.theguardian.com/commentisfree/2023/jan/07/chatgpt-bot-excel-ai-chatbot-tech][The ChatGPT bot is causing panic now – but it’ll soon be as mundane a tool as Excel]]. ~ John Naughton. #ChatGPT
 
