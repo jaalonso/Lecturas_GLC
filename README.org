@@ -44,6 +44,19 @@ its content.
 
 ** Enero 2023
 
+*** 10-Ene-23
++ [[https://xchen.page/assets/pdf/LCT+23-paper.pdf][Generating proof certificates for a language-agnostic deductive program verifier]]. ~ Zhengyao Lin et als. #FormalVerification
++ [[https://arxiv.org/abs/2301.02206][Lessons from formally verified deployed software systems]]. ~ Li Huang, Sophie Ebersold, Alexander Kogtenkov, Alexandr Naumchev, Bertrand Meyer, Yinling Liu, ALiyu Alege. #FormalVerification
++ [[https://arxiv.org/abs/2301.02194v1][Builtin types viewed as inductive families]]. ~ Guillaume Allais. #Idris #FunctionalProgramming
++ [[https://mmhaskell.com/blog/2023/1/2/monads-according-to-a-robot][Monads according to a robot]]. ~ James Bowen (@james_OWA). #ChatGPT #Haskell #FunctionalProgramming
++ [[https://mmhaskell.com/blog/2023/1/9/chat-gpt-and-functional-programming][Chat GPT and functional programming]]. ~ James Bowen (@james_OWA). #ChatGPT #FunctionalProgramming
++ [[https://arxiv.org/abs/2111.06368][Should type theory replace set theory as the foundation of mathematics]]. ~ Thorsten Altenkirch. #Logic #Math #TypeTheory #SetTheory
++ [[https://youtu.be/Vhz7IDql6-k][Logic in Computer Science, Engineering and Industry]]. ~ Yuri Gurevich. #Logic #CompSci
++ [[https://arxiv.org/abs/2105.07190][A comprehensive taxonomy for explainable Artificial Intelligence: A systematic survey of surveys on methods and concepts]]. ~ Gesina Schwalbe, Bettina Finzel. #XAI
++ [[https://writings.stephenwolfram.com/2023/01/wolframalpha-as-the-way-to-bring-computational-knowledge-superpowers-to-chatgpt/][Wolfram|Alpha as the way to bring computational knowledge superpowers to ChatGPT]]. ~ Stephen Wolfram. #ChatGPT #WolframAlpha
++ [[https://www.theguardian.com/australia-news/2023/jan/10/universities-to-return-to-pen-and-paper-exams-after-students-caught-using-ai-to-write-essays][Australian universities to return to ‘pen and paper’ exams after students caught using AI to write essays]]. ~ Caitlin Cassidy. #AI #ChatGPT
++ [[https://cacm.acm.org/careers/268561-icml-bans-papers-written-by-chatgpt-and-ai-language-tools/fulltext][ICML bans papers written by ChatGPT and AI language tools]]. #AI #ChatGPT
+
 *** 09-Ene-23
 + [[https://xenaproject.wordpress.com/2023/01/08/lean-2022-round-up/][Lean 2022 round-up]]. ~ Kevin Buzzard (@XenaProject). #ITP #LeanProver #Math
 
