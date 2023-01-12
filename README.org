@@ -44,6 +44,15 @@ its content.
 
 ** Enero 2023
 
+*** 11-Ene-23
++ [[https://arxiv.org/abs/2301.04060][A formal disproof of the Hirsch conjecture]]. ~ Xavier Allamigeon, Quentin Canu, Pierre-Yves Strub. #ITP #Coq #Math
++ [[https://www.isa-afp.org/browser_info/current/AFP/Synthetic_Completeness/document.pdf][Synthetic completeness]]. ~ Asta Halkjær From. #ITP #IsabelleHOL #Logic #Math
++ [[https://www.isa-afp.org/browser_info/current/AFP/Cook_Levin/document.pdf][The Cook-Levin theorem]]. ~ Frank J. Balbach. #ITP #IsabelleHOL
++ [[https://www.isa-afp.org/browser_info/current/AFP/Boolos_Curious_Inference_Automated/document.pdf][Automation of Boolos' curious inference in Isabelle/HOL]]. ~ Christoph Benzmüller, David Fuenmayor, Alexander Steen, Geoff Sutcliffe. #ITP #IsabelleHOL #Logic
++ [[https://williamyaoh.com/posts/2020-04-19-permissive-vs-restrictive.html][Permissive, then restrictive: learning how to design Haskell programs]]. ~ William Yao. #Haskell #FunctionalProgramming
++ [[https://tratt.net/laurie/blog/2023/compiled_and_interpreted_languages_two_ways_of_saying_tomato.html][Compiled and interpreted languages: Two ways of saying tomato]]. ~ Laurence Tratt (@laurencetratt). #Programming #CompSci
++ [[https://people.mpi-sws.org/~dreyer/talks/talk-plmw20icfp.pdf][How to write papers so people can read them]]. ~ Derek Dreyer. #CompSci
+
 *** 10-Ene-23
 + [[https://xchen.page/assets/pdf/LCT+23-paper.pdf][Generating proof certificates for a language-agnostic deductive program verifier]]. ~ Zhengyao Lin et als. #FormalVerification
 + [[https://arxiv.org/abs/2301.02206][Lessons from formally verified deployed software systems]]. ~ Li Huang, Sophie Ebersold, Alexander Kogtenkov, Alexandr Naumchev, Bertrand Meyer, Yinling Liu, ALiyu Alege. #FormalVerification
