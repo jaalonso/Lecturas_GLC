@@ -44,6 +44,12 @@ its content.
 
 ** Enero 2023
 
+*** 12-Ene-23
++ [[https://www.isa-afp.org/entries/Propositional_Logic_Class.html][Class-based classical propositional logic (in Isabelle/HOL)]]. ~ Matthew Doty. #ITP #IsabelleHOL #Logic #Math
++ [[https://thecomputersciencebook.com/book/][The Computer Science Book]]. ~ Tom Johnson. #CompSci
++ [[https://www.elladodelmal.com/2023/01/como-se-creo-chatgpt-un-hito-historico.html][Cómo se creó ChatGPT: Un hito histórico en la Inteligencia Artificial Conversacional]]. ~ Javier del Pino Díaz (@javidelpino_). #ChatGPT
++ [[https://lawrencecpaulson.github.io//2023/01/11/AI_at_Stanford.html][Memories: artificial intelligence at Stanford in the 70s]]. ~ Lawrence C. Paulson (@LawrPaulson). #AI
+
 *** 11-Ene-23
 + [[https://arxiv.org/abs/2301.04060][A formal disproof of the Hirsch conjecture]]. ~ Xavier Allamigeon, Quentin Canu, Pierre-Yves Strub. #ITP #Coq #Math
 + [[https://www.isa-afp.org/browser_info/current/AFP/Synthetic_Completeness/document.pdf][Synthetic completeness]]. ~ Asta Halkjær From. #ITP #IsabelleHOL #Logic #Math
