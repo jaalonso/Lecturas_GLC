@@ -44,6 +44,21 @@ its content.
 
 ** Enero 2023
 
+*** 14-Ene-23
++ [[https://www.ps.uni-saarland.de/Publications/documents/ForsterEtAl_2023_A-Computational.pdf][A computational Cantor-Bernstein and Myhill’s isomorphism theorem in constructive type theory (Proof Pearl)]]. ~ Yannick Forster, Felix Jahn, Gert Smolka. #ITP #Coq #Logic #Math
++ [[http://laiv.uk/wp-content/uploads/2022/12/vehicle.pdf][Compiling higher-order specifications to SMT solvers: How to deal with rejection constructively]]. Matthew L. Daggitt et als. #ITP #Agda #SMT
++ [[https://www.mdpi.com/2079-9292/12/2/369][Formal verification of robot rotary kinematics]]. ~ Guojun Xie et als. #ITP #Coq
++ [[https://z3prover.github.io/papers/z3internals.html][Z3 internals (Draft)]]. ~ Nikolaj Bjørner (@BjornerNikolaj) et als. #SMT #Z3
++ [[https://ceur-ws.org/Vol-3326/ARQNL2022_invited1.pdf][Do lawyers use automated reasoning?]] ~ Tomer Libal. #ATP
++ [[https://ceur-ws.org/Vol-3326/ARQNL2022_paper5.pdf][Advancing automated theorem proving for the modal logics D and S5]]. ~ Jens Otten. #ATP #ModalLogic #MleanCoP #nanoCoPM
++ [[https://lsrcz.github.io/files/POPL23.pdf][Grisette: Symbolic compilation as a functional programming library]]. ~ Sirui Lu, Rastislav Bodík. #Haskell #FunctionalProgramming #ATP
++ [[https://era.ed.ac.uk/bitstream/handle/1842/39676/HornR_2022.pdf?sequence=1&isAllowed=y][Language integrated relational lenses]]. ~ Rudi Horn. #PhDThesis #Haskell #FunctionalProgramming
++ [[https://bravo.hivolda.no/hivolda-xmlui/bitstream/handle/11250/3042313/concept_paper_berge_et_al_final.pdf][Integrated programming and mathematics in schools (A solid foundation for a future engineering education?)]]. ~ Runar L. Berge1, Bjørnar Sæterås, Andreas Brandsæter. #Math #Programming #CompSci
++ [[https://time.com/6246119/demis-hassabis-deepmind-interview/][DeepMind’s CEO helped take AI mainstream]]. Now he’s urging caution. ~ Billy Perrigo (@billyperrigo). #AI
++ [[https://www.quantamagazine.org/what-does-it-mean-to-align-ai-with-human-values-20221213/][What does it mean to align AI with human values?]] ~ Melanie Mitchell. #AI H/T @vardi
++ [[https://www.nature.com/articles/d41586-023-00056-7][Abstracts written by ChatGPT fool scientists (Researchers cannot always differentiate between AI-generated and original abstracts)]]. ~ Holly Else. #ChatGPT
++ [[https://elpais.com/tecnologia/2023-01-14/de-julio-cesar-a-shakira-una-nueva-inteligencia-artificial-logra-conversaciones-imposibles-con-personajes-conocidos.html][De Julio César a Shakira: una nueva inteligencia artificial logra conversaciones imposibles con personajes conocidos]]. ~ Manuel G. Pascual. #IA
+
 *** 13-Ene-23
 + [[https://www.isa-afp.org/entries/AOT.html][Abstract object theory (in Isabelle/HOL)]]. ~ Daniel Kirchner. #ITP #IsabelleHOL
 + [[https://home.in.tum.de/~mansour/cv-website-fixed/papers/verified_MDPs.pdf][Formally verified solution methods for Markov decision processes]]. ~ Maximilian Sch ̈affeler1, Mohammad Abdulaziz. #ITP #IsabelleHOL #Math
