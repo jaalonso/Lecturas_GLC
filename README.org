@@ -44,6 +44,9 @@ its content.
 
 ** Enero 2023
 
+*** 15-Ene-23
++ [[https://www.anaconda.com/blog/the-abilities-and-limitations-of-chatgpt][The abilities and limitations of ChatGPT]]. ~ Sophia Yang. #ChatGPT
+
 *** 14-Ene-23
 + [[https://www.ps.uni-saarland.de/Publications/documents/ForsterEtAl_2023_A-Computational.pdf][A computational Cantor-Bernstein and Myhill’s isomorphism theorem in constructive type theory (Proof Pearl)]]. ~ Yannick Forster, Felix Jahn, Gert Smolka. #ITP #Coq #Logic #Math
 + [[http://laiv.uk/wp-content/uploads/2022/12/vehicle.pdf][Compiling higher-order specifications to SMT solvers: How to deal with rejection constructively]]. Matthew L. Daggitt et als. #ITP #Agda #SMT
