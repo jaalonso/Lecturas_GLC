@@ -44,6 +44,15 @@ its content.
 
 ** Enero 2023
 
+*** 16-Ene-23
++ [[https://raw.githubusercontent.com/jaalonso/Ejercicios-Python/main/libro/Ejercicios-Python.pdf][Libro de "Ejercicios de programación con Python" (versión del 16-ene-23)]]. #Python #Matemáticas
++ [[https://www.microsiervos.com/archivo/matematicas/zoo-complejidad-referencia-matematica.html][El Zoo de la complejidad, una gran referencia sobre la complejidad matemática]]. ~ @Alvy. #CompSci
++ [[https://complexityzoo.net/Complexity_Zoo][Complexity Zoo]]. ~ Scott Aaronson, Greg Kuperberg, Oliver Habryka. #CompSci
++ [[https://cacm.acm.org/magazines/2022/1/257448-fifty-years-of-p-vs-np-and-the-possibility-of-the-impossible/fulltext][Fifty years of P vs. NP and the possibility of the impossible]]. ~ Lance Fortnow. #CompSci
++ [[https://www.genbeta.com/actualidad/hacer-trabajos-chatgpt-que-esta-haciendo-profesorado-instituciones-educativas-para-combatir-trampas-ia][Hacer trabajos con ChatGPT: qué está haciendo el profesorado y las instituciones educativas para combatir las trampas con IA]]. ~ Eva Rodriguez (@misstakanawa). #ChatGPT
++ [[https://www.lavanguardia.com/vida/20230115/8683575/chatgtp-irrumpe-aulas-revoluciona.html][ChatGPT revoluciona las aulas de arriba a abajo]]. ~ Francesc Bracero, Carina Farreras. #ChatGPT
++ [[https://www.genbeta.com/actualidad/chatgpt-esta-muriendo-exito-ia-increible-ano-no-soporta-a-tantas-personas-usandola-a-vez][ChatGPT está muriendo de éxito: la IA más increíble del año no soporta a tantas personas usándola a la vez]]. ~ José Alberto Lizana (@Josealberto1813). #ChatGPT
+
 *** 15-Ene-23
 + [[https://www.anaconda.com/blog/the-abilities-and-limitations-of-chatgpt][The abilities and limitations of ChatGPT]]. ~ Sophia Yang. #ChatGPT
 
