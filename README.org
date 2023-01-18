@@ -44,6 +44,12 @@ its content.
 
 ** Enero 2023
 
+*** 17-Ene-23
++ [[https://www.genbeta.com/a-fondo/hay-profesores-que-estan-obligando-a-usar-chatgpt-a-sus-alumnos-ia-puede-ser-mejor-aliada-educacion-no-su-final][Hay profesores que ya están obligando a usar ChatGPT a sus alumnos: la IA puede ser la mejor aliada de la educación no su final]]. ~ José Alberto Lizana (@Josealberto1813). #ChatGPT
++ [[https://www.rtve.es/noticias/20230113/chatgpt-asistente-inteligencia-artificial-hacer-deberes/2415666.shtml][ChatGPT, el asistente de inteligencia artificial que algunos jóvenes usan para hacer sus deberes]]. #ChatGPT
++ [[https://www.xataka.com/robotica-e-ia/fin-deberes-como-chatgpt-se-ha-insertado-centro-gran-debate-educacion][Hacia el fin de los deberes: cómo ChatGPT se ha insertado en el centro del gran debate sobre la educación]]. ~ Javier Fernández (@@jafernsanchez). #ChatGPT
++ [[https://www.lluiscodina.com/chatgpt-educadores/][Cómo utilizar ChatGPT en el aula con perspectiva ética y pensamiento crítico: una proposición para docentes y educadores]]. ~ Lluís Codina. #ChatGPT
+
 *** 16-Ene-23
 + [[https://raw.githubusercontent.com/jaalonso/Ejercicios-Python/main/libro/Ejercicios-Python.pdf][Libro de "Ejercicios de programación con Python" (versión del 16-ene-23)]]. #Python #Matemáticas
 + [[https://www.microsiervos.com/archivo/matematicas/zoo-complejidad-referencia-matematica.html][El Zoo de la complejidad, una gran referencia sobre la complejidad matemática]]. ~ @Alvy. #CompSci
