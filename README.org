@@ -44,6 +44,24 @@ its content.
 
 ** Enero 2023
 
+*** 18-Ene-23
++ [[https://dl.acm.org/doi/pdf/10.1145/3573105.3575667][A formalization of the development closedness criterion for left-linear term rewrite systems]]. ~ Christina Kohl,  Aart Middeldorp. #ITP #IsabelleHOL
++ [[https://dl.acm.org/doi/pdf/10.1145/3580285][Mechanised operational reasoning for C11 programs with relaxed dependencies]]. ~ Daniel Wright et als. #ITP #IsabelleHOL
++ [[https://www.isa-afp.org/entries/StrictOmegaCategories.html][Strict omega categories (in Isabelle/HOL)]]. ~ Anthony Bordg, Adrián Doña Mateo. #ITP #IsabelleHOL #Math
++ [[https://dl.acm.org/doi/abs/10.1145/3573105.3575689][Formalising Sharkovsky’s theorem (Proof Pearl)]]. ~ Bhavik Mehta. #ITP #LeanProver #Math
++ [[https://dl.acm.org/doi/abs/10.1145/3573105.3575688][Formalising the h-principle and sphere eversion]]. ~ Floris van Doorn, Patrick Massot, Oliver Nash. #ITP #LeanProver #Math
++ [[https://dl.acm.org/doi/pdf/10.1145/3573105.3575669][A formalized reduction of Keller’s conjecture]]. ~ Joshua Clune. #ITP #LeanProver #Math
++ [[https://dl.acm.org/doi/pdf/10.1145/3571196][A type-based approach to divide-and-conquer recursion in Coq]]. ~ Pedro Abreu et als. #ITP #Coq
++ [[https://dl.acm.org/doi/pdf/10.1145/3571229][Higher-order leak and deadlock free locks]]. ~ Jules Jacobs, Stephanie Balzer. #ITP #Coq
++ [[https://dl.acm.org/doi/pdf/10.1145/3571239][Affine monads and lazy structures for bayesian programming]]. ~ Waraj Dash, Younesse Kaddar, Hugo Paquet, Sam Staton. #Haskell #FunctionalProgramming
++ [[https://dl.acm.org/doi/pdf/10.1145/3571254][Choice trees (Representing nondeterministic, recursive, and impure programs in Coq)]]. ~ Nicolas Chappe et als. #ITP #Coq
++ [[https://github.com/stevana/property-based-testing-stateful-systems-tutorial/blob/main/docs/Part02ConcurrentSMTesting.m][Concurrent state machine testing with linearisability]]. ~ Stevan Andjelkovic.d#readme #Haskell #FunctionalProgramming
++ [[http://philsci-archive.pitt.edu/21661/7/language_archive.pdf][The design of mathematical language]]. ~ Jeremy Avigad. #Logic #Math
++ [[https://mmhaskell.com/blog/2023/1/16/writing-haskell-with-chat-gpt][Writing Haskell with Chat GPT]]. ~ James Bowen (@james_OWA). #ChatGPT #Haskell #FunctionalProgramming
++ [[https://www.nytimes.com/2023/01/16/technology/chatgpt-artificial-intelligence-universities.html][Alarmed by A.I. chatbots, universities start revamping how they teach]]. ~ Kalley Huang. #ChatGPT
++ [[https://www.elconfidencial.com/tecnologia/2023-01-16/chatbot-characteria-hablar-personaje-famoso_3558600/][Así es Character.AI: el chatbot que permite hablar con cualquier famoso]]. #AI #CharacterAI
++ [[https://elpais.com/opinion/2023-01-17/lo-que-socrates-diria-a-la-inteligencia-artificial.html][Lo que Sócrates diría a la inteligencia artificial]]. ~ Miguel de Lucas. #IA #ChatGPT
+
 *** 17-Ene-23
 + [[https://www.genbeta.com/a-fondo/hay-profesores-que-estan-obligando-a-usar-chatgpt-a-sus-alumnos-ia-puede-ser-mejor-aliada-educacion-no-su-final][Hay profesores que ya están obligando a usar ChatGPT a sus alumnos: la IA puede ser la mejor aliada de la educación no su final]]. ~ José Alberto Lizana (@Josealberto1813). #ChatGPT
 + [[https://www.rtve.es/noticias/20230113/chatgpt-asistente-inteligencia-artificial-hacer-deberes/2415666.shtml][ChatGPT, el asistente de inteligencia artificial que algunos jóvenes usan para hacer sus deberes]]. #ChatGPT
