@@ -44,6 +44,15 @@ its content.
 
 ** Enero 2023
 
+*** 19-Ene-23
++ [[https://lawrencecpaulson.github.io//2023/01/18/Sqrt2_irrational.html ~ Lawrence C. Paulson (@LawrPaulson).][Formalising a new proof that the square root of two is irrational]]. #ITP #IsabelleHOL #Math
++ [[https://arxiv.org/abs/2207.01094][A Prolog assisted search for new simple Lie algebras]]. ~ David Cushing, George W. Stagg, David I. Stewart. #Prolog #LogicProgramming #Math
++ [[https://arxiv.org/abs/2301.07550][Logic programming for deliberative robotic task planning]]. ~ Daniele Meli, Hirenkumar Nakawala, Paolo Fiorini. #LogicProgramming
++ [[https://www.channable.com/tech/parallel-streaming-in-haskell-part-3-parallel-work-consumer][Parallel streaming in Haskell: Part 3 - A parallel work consumer]]. ~ Yorick Sijsling, Joris Burgers. #Haskell #FunctionalProgramming
++ [[https://www.cs.uni.edu/~wallingf/blog/archives/monthly/2023-01.htm][Prompting AI generators is like prompting students]]. ~ Eugene Wallingford (@wallingf).l#e2023-01-18T14_46_57.htm #ChatGPT #AI
++ [[https://www.sliceofexperiments.com/p/chatgpt-vs-50000-trivia-questions][I made ChatGPT answer 50,000 trivia questions. Are we doomed? So, how smart is it?]] ~ Aaron Batilo. #ChatGPT
++ [[https://www.microsiervos.com/archivo/ia/chatgpt-acierta-67-preguntas-trivial-50-acertijos-logicos.html][ChatGPT acierta el 67% de las «preguntas de Trivial», aunque sólo el 50% de los acertijos y problemas de lógica, porque «no entiende ni razona»]]. ~ @Alvy #ChatGPT
+
 *** 18-Ene-23
 + [[https://dl.acm.org/doi/pdf/10.1145/3573105.3575667][A formalization of the development closedness criterion for left-linear term rewrite systems]]. ~ Christina Kohl,  Aart Middeldorp. #ITP #IsabelleHOL
 + [[https://dl.acm.org/doi/pdf/10.1145/3580285][Mechanised operational reasoning for C11 programs with relaxed dependencies]]. ~ Daniel Wright et als. #ITP #IsabelleHOL
