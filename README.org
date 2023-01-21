@@ -44,6 +44,13 @@ its content.
 
 ** Enero 2023
 
+*** 20-Ene-23
++ [[https://medium.com/superstringtheory/fools-errand-let-s-build-a-real-fp-language-from-scratch-in-haskell-19461b316110][FOOL’s errand: let’s build a real FP language from scratch (in Haskell). Part 1: Introduction]]. ~ Anton Antich. #Haskell #FunctionalProgramming
++ [[https://julesh.com/2023/01/14/making-haskell-lenses-less-pointless/][Making Haskell lenses less pointless]]. ~ Jules Hedges (@_julesh_). #Haskell #FunctionalProgramming
++ [[https://boxbase.org/entries/2023/jan/14/relational-parsing-haskell-part-0/][Relational parsing (part 0: recognizer)]]. ~ Henri Tuhola. #Haskell #FunctionalProgramming
++ [[https://felixspringer.xyz/homepage/blog/accumtsMonadaccumInstance][AccumT's MonadAccum instance]]. ~ Felix Springer. #Haskell #FunctionalProgramming
++ [[https://www.tweag.io/blog/2023-01-19-fp2-dial-m-for-monoid/][Functional Python, Part II: Dial M for Monoid]]. ~ Christopher Harrison. #Python #FunctionalProgramming
+
 *** 19-Ene-23
 + [[https://lawrencecpaulson.github.io//2023/01/18/Sqrt2_irrational.html ~ Lawrence C. Paulson (@LawrPaulson).][Formalising a new proof that the square root of two is irrational]]. #ITP #IsabelleHOL #Math
 + [[https://arxiv.org/abs/2207.01094][A Prolog assisted search for new simple Lie algebras]]. ~ David Cushing, George W. Stagg, David I. Stewart. #Prolog #LogicProgramming #Math
