@@ -44,6 +44,12 @@ its content.
 
 ** Enero 2023
 
+*** 23-Ene-23
++ [[https://raw.githubusercontent.com/jaalonso/Ejercicios-Python/main/libro/Ejercicios-Python.pdf][Libro de "Ejercicios de programación con Python" (versión del 22-ene-23)]]. #Python #Matemáticas
++ [[https://www.isa-afp.org/entries/HoareForDivergence.html][A Hoare logic for diverging programs (in Isabelle/HOL)]]. ~ Johannes Åman Pohjola, Magnus O. Myreen, Miki Tanaka. #ITP #IsabelleHOL
++ [[https://www.isa-afp.org/entries/Suppes_Theorem.html][Suppes' theorem for probability logic (in Isabelle/HOL)]]. ~ Matthew Doty. #ITP #IsabelleHOL #Math
++ [[https://penkovsky.com/neural-networks/][10 days of grad: Deep learning from the first principles (Day by day, here we demystify neural networks)]]. ~ Bogdan Penkovsky (@penkovsky). #Haskell #FunctionalProgramming #DeepLearning #NeuralNetwork
+
 *** 21-Ene-23
 + [[https://thma.github.io/posts/2023-01-21-a-haskell-persistence-layer-using-generics-and-reflection.html][Writing a Haskell persistence layer using Generics and Reflection]]. ~ Thomas Mahler. #Haskell #FunctionalProgramming
 + [[https://www.reddit.com/r/haskell/comments/10gvwkg/chatgpt_give_me_a_really_useful_example_of_a/][ChatGPT: give me a really useful example of a monad in Haskell. Explain why it is better than the alternative. write the code not using monads. To show how elegant monads are]]. #ChatGPT #Haskell #FunctionalProgramming
