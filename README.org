@@ -44,6 +44,14 @@ its content.
 
 ** Enero 2023
 
+*** 24-Ene-23
++ [[https://www.cl.cam.ac.uk/~lp15/Grants/Alexandria/][ALEXANDRIA: Large-scale formal proof for the working mathematician]]. ~ L. C. Paulson et als. #ITP #IsabelleHOL #Math
++ [[https://adueck.github.io/blog/logic-and-multiply-quantified-statements-in-javascript/][Logic and multiply-quantified statements in JavaScript]]. ~ Adam Dueck. #Logic #JavaScript
++ [[https://alperovitch.sais.jhu.edu/five-days-in-class-with-chatgpt/][Five days in class with ChatGPT]]. ~ Thomas Rid. #ChatGPT
++ [[https://cacm.acm.org/blogs/blog-cacm/269050-chatgpt-in-computer-science-education/fulltext][ChatGPT in computer science education]]. ~ Orit Hazzan. #ChatGPT #CompSci
++ [[https://www.nature.com/articles/d41586-023-00191-1][Tools such as ChatGPT threaten transparent science; here are our ground rules for their use]]. ~ Editorial. #ChatGPT
++ [[https://www.nature.com/articles/d41586-023-00204-z][‘Arms race with automation’: professors fret about AI-generated coursework]]. ~ Amanda Heidt. #ChatGPT
+
 *** 23-Ene-23
 + [[https://raw.githubusercontent.com/jaalonso/Ejercicios-Python/main/libro/Ejercicios-Python.pdf][Libro de "Ejercicios de programación con Python" (versión del 22-ene-23)]]. #Python #Matemáticas
 + [[https://www.isa-afp.org/entries/HoareForDivergence.html][A Hoare logic for diverging programs (in Isabelle/HOL)]]. ~ Johannes Åman Pohjola, Magnus O. Myreen, Miki Tanaka. #ITP #IsabelleHOL
