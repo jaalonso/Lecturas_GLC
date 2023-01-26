@@ -44,6 +44,21 @@ its content.
 
 ** Enero 2023
 
+*** 25-Ene-23
++ [[https://arxiv.org/abs/2301.09347][Verified reductions for optimization]]. ~ Alexander Bentkamp, Ramon Fernández Mir, Jeremy Avigad. #ITP #LeanProver #Math
++ [[https://arxiv.org/abs/2301.09802][Inductive reasoning for coinductive types]]. ~ Alexander Bagnall, Gordon Stewart, Anindya Banerjee. #ITP #Coq
++ [[https://youtu.be/0xQ8j6h8bNc][Haskell course: Lesson 11: Basic IO]]. ~ Robertino Martínez (@_roberm_). #Haskell #FunctionalProgramming
++ [[https://github.com/stevana/property-based-testing-stateful-systems-tutorial/blob/main/docs/Part03SMContractTesting.m][Tutorial on property-based testing stateful systems (part 3/5): Integration tests against state machine fakes and consumer-driven contract tests for the fakes]]. ~ Stevan Andjelkovic.d#readme #Haskell #FunctionalProgramming
++ [[https://engineering.iog.io/2023-01-24-javascript-browser-tutorial/][Using GHC's JavaScript backend in the browser]]. ~ Sylvain Henry et als. #Haskell #FunctionalProgramming #JavaScript
++ [[https://rjlipton.wpcomstaging.com/2023/01/25/why-study-logic/][Why study Logic?]] ~ R.J. Lipton & K.W. Regan.  #Logic #Math
++ [[https://arxiv.org/abs/2301.09723][Mathematics, word problems, common sense, and artificial intelligence]]. ~ Ernest Davis. #AI #Education #AIEd
++ [[https://arxiv.org/abs/2301.10026][From robots to books: An introduction to smart applications of AI in education (AIEd)]]. ~ Shubham Ojha, Aditya Narendra, Siddharth Mohapatra, Ipsit Misra. #AI #Education #AIEd
++ [[https://arxiv.org/abs/2301.10016][A case study in engineering a conversational programming assistant's persona]]. ~ Steven I. Ross, Michael Muller, Fernando Martinez, Stephanie Houde, Justin D. Weisz. #ChatGPT #Programming
++ [[https://arxiv.org/abs/2301.09919][Opportunities and challenges in neural dialog tutoring]]. ~ Jakub Macina, Nico Daheim, Lingzhi Wang, Tanmay Sinha, Manu Kapur, Iryna Gurevych, Mrinmaya Sachan. #AIEd
++ [[https://cacm.acm.org/news/269074-teaching-in-the-age-of-ai-means-getting-creative/fulltext][Teaching In the age of AI means getting creative]]. ~ FiveThirtyEight. #ChatGPT #Education
++ [[https://cacm.acm.org/news/269085-viral-chatgpt-spurs-concerns-about-propaganda-hacking-risks/fulltext][Viral ChatGPT spurs concerns about propaganda, hacking risks]]. ~ Bloomberg. #ChatGPT
++ [[https://cacm.acm.org/careers/269081-chatgpt-outperforms-students-on-wharton-mba-exam/fulltext][ChatGPT outperforms students on Wharton MBA exam]]. ~ New York Post. #ChatGPT
+
 *** 24-Ene-23
 + [[https://www.cl.cam.ac.uk/~lp15/Grants/Alexandria/][ALEXANDRIA: Large-scale formal proof for the working mathematician]]. ~ L. C. Paulson et als. #ITP #IsabelleHOL #Math
 + [[https://adueck.github.io/blog/logic-and-multiply-quantified-statements-in-javascript/][Logic and multiply-quantified statements in JavaScript]]. ~ Adam Dueck. #Logic #JavaScript
