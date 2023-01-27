@@ -44,6 +44,16 @@ its content.
 
 ** Enero 2023
 
+*** 26-Ene-23
++ [[https://hal.science/hal-02333553v1/preview/coq-2pdom.pdf][Completeness of an axiomatization of graph isomorphism via graph rewriting in Coq]]. ~ Christian Doczkal, Damien Pous. #ITP #Coq #Math
++ [[https://library.oapen.org/bitstream/handle/20.500.12657/60830/978-1-4842-8853-5.pdf][Architecture of advanced numerical analysis systems: Designing a scientific computing system using OCaml]]. ~ Liang Wang, Jianxin Zhao. #eBook #OCaml #FunctionalProgramming
++ [[https://las.rs/blog/all-you-need-is-hkt-s.html][All you need is higher kinded types]]. ~ Las Safin. #Haskell #FunctionalProgramming
++ [[https://dl.acm.org/doi/book/10.1145/3582277][Safer algorithmic systems]]. ~ Ben Shneiderman. #CompSci
++ [[https://cdsmithus.medium.com/pair-programming-with-chatgpt-haskell-1c4490b71da6][Pair programming with ChatGPT & Haskell]]. ~ Chris Smith (@cdsmithus). #ChatGPT #Haskell #FunctionalProgramming
++ [[https://www.zdnet.com/article/chatgpt-is-not-particularly-innovative-and-nothing-revolutionary-says-metas-chief-ai-scientist/][ChatGPT is 'not particularly innovative,' and 'nothing revolutionary', says Meta's chief AI scientist]]. ~ Tiernan Ray. #ChatGPT
++ [[https://www.microsiervos.com/archivo/ia/chuleta-pdf-chatgpt-preguntas-correctas.html][Una «chuleta» en PDF sobre las posibilidades de ChatGPT y cómo hacerle las preguntas correctas]]. ~ @Alvy. #ChatGPT
++ [[https://drive.google.com/file/d/1UOfN0iB_A0rEGYc2CbYnpIF44FupQn2I/view][The ChatGPT Cheat Sheet]]. ~ Neural Magic. #ChatGPT
+
 *** 25-Ene-23
 + [[https://arxiv.org/abs/2301.09347][Verified reductions for optimization]]. ~ Alexander Bentkamp, Ramon Fernández Mir, Jeremy Avigad. #ITP #LeanProver #Math
 + [[https://arxiv.org/abs/2301.09802][Inductive reasoning for coinductive types]]. ~ Alexander Bagnall, Gordon Stewart, Anindya Banerjee. #ITP #Coq
