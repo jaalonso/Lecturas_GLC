@@ -44,6 +44,16 @@ its content.
 
 ** Enero 2023
 
+*** 27-Ene-23
++ [[https://arxiv.org/abs/2301.10696][Set-theoretic and type-theoretic ordinals coincide]]. ~ Tom de Jong, Nicolai Kraus, Fredrik Nordvall Forsberg, Chuangjie Xu. #ITP #Agda #Logic #Math
++ [[https://www.tweag.io/blog/2023-01-26-linear-constraints-freeze/][Constraints: the problem with O(1) freeze]]. ~ Arnaud Spiwack. #Haskell #FunctionalProgramming
++ [[https://github.com/alexfmpe/semantic-satiation/blob/022a26b5124bb5bf7ee588cfca04a2932cfe945d/src/Posts/001-applicative-laws.md][Everything you never wanted to know about Applicative laws and more]]. ~ Alexandre Esteves. #Haskell #FunctionalProgramming
++ [[https://osa1.net/posts/2023-01-23-fast-polymorphic-record-access.html][Fast polymorphic record access]]. ~ Ömer Sinan Ağacan (@_osa1). #Haskell #FunctionalProgramming
++ [[https://www.channable.com/tech/parallel-streaming-in-haskell-part-4-conditionals-and-non-blocking-evaluation][Parallel streaming in Haskell: Part 4: Conditionals and non-blocking evaluation]]. ~ Channable. #Haskell #FunctionalProgramming
++ [[https://engineering.rakuten.today/post/elm-at-rakuten/][Elm at Rakuten]]. ~ Luca Mugnaini. #Elm #FunctionalProgramming
++ [[https://www.freecodecamp.org/news/10-awkward-moments-in-math-history-d364706d902d/][10 awkward moments in math history]]. ~ Elena Nisioti. #Math #History
++ [[https://theconversation.com/que-hacemos-con-chatgpt-en-el-aula-prohibir-contrarrestar-o-incorporarlo-criticamente-197918][Qué hacemos con ChatGPT en el aula: ¿prohibir, contrarrestar o incorporarlo críticamente?]] ~ Carlos de Aldama. #ChatGPT #Educación
+
 *** 26-Ene-23
 + [[https://hal.science/hal-02333553v1/preview/coq-2pdom.pdf][Completeness of an axiomatization of graph isomorphism via graph rewriting in Coq]]. ~ Christian Doczkal, Damien Pous. #ITP #Coq #Math
 + [[https://library.oapen.org/bitstream/handle/20.500.12657/60830/978-1-4842-8853-5.pdf][Architecture of advanced numerical analysis systems: Designing a scientific computing system using OCaml]]. ~ Liang Wang, Jianxin Zhao. #eBook #OCaml #FunctionalProgramming
