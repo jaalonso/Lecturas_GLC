@@ -44,6 +44,10 @@ its content.
 
 ** Enero 2023
 
+*** 28-Ene-23
++ [[https://www.medpagetoday.com/special-reports/exclusives/102705?xid=nl_mostcommented_2023-01-27&mh=8916a2f78a74371f46f5a3430bf8704e][AI passes U.S. Medical Licensing Exam]]. ~ Michael DePeau-Wilson. #AI #ChatGPT
++ [[https://www.wired.co.uk/article/artificial-intelligence-medicine-machine-vision][Doctors, get ready for your AI assistants (Hospitals have begun using machine learning to help analyze and collect images, and the medical applications are endless)]]. ~ Eric Topol (@EricTopol). #AI
+
 *** 27-Ene-23
 + [[https://arxiv.org/abs/2301.10696][Set-theoretic and type-theoretic ordinals coincide]]. ~ Tom de Jong, Nicolai Kraus, Fredrik Nordvall Forsberg, Chuangjie Xu. #ITP #Agda #Logic #Math
 + [[https://www.tweag.io/blog/2023-01-26-linear-constraints-freeze/][Constraints: the problem with O(1) freeze]]. ~ Arnaud Spiwack. #Haskell #FunctionalProgramming
