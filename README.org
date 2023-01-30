@@ -44,6 +44,13 @@ its content.
 
 ** Enero 2023
 
+*** 29-Ene-23
++ [[https://elpais.com/sociedad/2023-01-29/chatgpt-es-solo-el-principio-la-inteligencia-artificial-se-lanza-a-reorganizar-el-mundo.html][ChatGPT es solo el principio: la inteligencia artificial se lanza a reorganizar el mundo]]. ~ Kiko Llaneras, Andrea Rizzi, José A. Álvarez. #ChatGPT #IA
++ [[https://notxor.nueva-actitud.org/2023/01/29/programacion-orientada-a-objetos-en-emacs.html][Programación Orientada a Objetos en Emacs]]. ~ Notxor. #Emacs #POO
++ [[https://medium.com/@3valuedlogic/will-chatgpt-pass-my-introduction-to-symbolic-logic-course-ce9280c01fcb][Will ChatGPT pass my introduction to symbolic logic course?]] ~ David W. Agler. #ChatGPT
++ [[https://www.genbeta.com/a-fondo/haz-tu-vida-facil-estas-11-formas-usar-chatgpt-dia-a-dia][Haz tu vida más fácil con estas 11 formas de usar ChatGPT en el día a día]]. ~ Eva Rodriguez (@misstakanawa). #ChatGPT
++ [[https://www.fastcompany.com/90839421/andi-google-alternative-chatgpt][This smart new search site is like a mashup of Google and ChatGPT]]. ~ JR Raphael. #ChatGPT #Andy
+
 *** 28-Ene-23
 + [[https://www.medpagetoday.com/special-reports/exclusives/102705?xid=nl_mostcommented_2023-01-27&mh=8916a2f78a74371f46f5a3430bf8704e][AI passes U.S. Medical Licensing Exam]]. ~ Michael DePeau-Wilson. #AI #ChatGPT
 + [[https://www.wired.co.uk/article/artificial-intelligence-medicine-machine-vision][Doctors, get ready for your AI assistants (Hospitals have begun using machine learning to help analyze and collect images, and the medical applications are endless)]]. ~ Eric Topol (@EricTopol). #AI
