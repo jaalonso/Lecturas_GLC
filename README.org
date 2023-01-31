@@ -44,6 +44,23 @@ its content.
 
 ** Enero 2023
 
+*** 30-Ene-23
++ [[http://jackkelly.name/blog/archives/2023/01/28/monoids_in_the_category_of___/][Monoids in the category of...]] ~ Jack Kelly. #Haskell #FunctionalProgramming #CategoryTheory
++ [[https://dev.to/flaviocorpa/haskell-for-elm-developers-giving-names-to-stuff-part-1-functors-36n3][Haskell for Elm developers: giving names to stuff (Part 1 - Functors)]]. ~ Flavio Corpa (@FlavioCorpa). #Elm #Haskell #FunctionalProgramming
++ [[https://sadh.life/post/mypy-guide][The comprehensive guide to MyPy]]. ~ Tushar Sadhwani (@sadhlife). #Python #MyPy
++ [[https://arxiv.org/abs/2301.08653][An analysis of the automatic bug fixing performance of ChatGPT]]. ~ Dominik Sobania, Martin Briesch, Carol Hanna, Justyna Petke. #AI #ChatGPT #Programming
++ [[https://www.businessinsider.es/chatgpt-corrige-errores-programas-disenados-esa-funcion-1192204][ChatGPT no solo sirve para programar: corrige errores de código mejor que programas diseñados para ello]]. ~ Ramón Armero (@ramon_armero). #IA #ChatGPT #Programación
++ [[https://www.infobae.com/opinion/2023/01/30/el-chatgpt-en-las-aulas-peligro-de-plagio-o-senal-de-que-la-educacion-debe-cambiar/][El ChatGPT en las aulas: ¿peligro de plagio o señal de que la educación debe cambiar?]] ~ Laura Lewin. #ChatGPT #Educación
++ [[https://www.genbeta.com/a-fondo/hay-vida-alla-chatgpt-estas-alternativas-que-hay][Hay vida más allá de ChatGPT: cinco IA de creación de textos muy útiles, explicadas]]. ~ Bárbara Bécares. #IA #ChatGPT
++ [[https://www.lainformacion.com/empresas/microsoft-contratara-100-personas-barcelona-desarrollar-chatgpt/2880539/][Microsoft contratará a 100 personas en Barcelona para desarrollar ChatGPT]]. #ChatGPT
++ [[https://www.lavanguardia.com/cribeo/viral/20230130/8718827/simple-acertijo-cuantos-hijos-madre-juan-chatgpt-resolver.html][El simple acertijo que ChatGPT todavía no puede resolver: "Te he pillado"]]. ~ Marc Mestres. #ChatGPT
++ [[https://www.redaccionmedica.com/secciones/medicina-familiar-y-comunitaria/chatgpt-responde-danara-la-inteligencia-artificial-al-medico-de-familia--4965][ChatGPT responde: ¿dañará la inteligencia artificial al médico de Familia?]] ~ María Alcaraz. #ChatGPT
++ [[https://www.lavanguardia.com/vida/20230129/8717668/esterilizacion-eutanasia-humanos-solucion-chatgpt-salvar-planeta.html][La "esterilización y eutanasia" de los humanos, la solución de ChatGPT para salvar el planeta]]. #ChatGPT
++ [[https://bit.ly/3HmnJFe][La inteligencia artificial ChatGPT aprobaría el examen MIR con solo un 25% de respuestas incorrectas]]. #IA #ChatGPT
++ [[https://cincodias.elpais.com/cincodias/2023/01/23/legal/1674464426_331279.html][El ChatGPT y la Administración Pública: ¿es tan listo como parece?]] ~ Concepción Campos Acuña. #IA #ChatGPT
++ [[https://www.telenord.com/secciones/tecnologia/50117-el-primer-discurso-politico-escrito-por-chatgpt-es-una-realidad-en-estados-unidos][El primer discurso político escrito por ChatGPT es una realidad en Estados Unidos]]. #IA #ChatGPT
++ [[https://www.eldiario.es/tecnologia/detras-openai-creadora-inteligencia-artificial-chatgpt_1_9879472.html][Quién está detrás de OpenAI, la creadora de la inteligencia artificial ChatGPT]]. ~ Carlos del Castillo (@CdelCastilloM). #ChatGPT #OpenAI
+
 *** 29-Ene-23
 + [[https://elpais.com/sociedad/2023-01-29/chatgpt-es-solo-el-principio-la-inteligencia-artificial-se-lanza-a-reorganizar-el-mundo.html][ChatGPT es solo el principio: la inteligencia artificial se lanza a reorganizar el mundo]]. ~ Kiko Llaneras, Andrea Rizzi, José A. Álvarez. #ChatGPT #IA
 + [[https://notxor.nueva-actitud.org/2023/01/29/programacion-orientada-a-objetos-en-emacs.html][Programación Orientada a Objetos en Emacs]]. ~ Notxor. #Emacs #POO
