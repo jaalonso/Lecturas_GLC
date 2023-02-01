@@ -44,6 +44,13 @@ its content.
 
 ** Enero 2023
 
+*** 31-Ene-23
++ [[https://leanprover.github.io/functional_programming_in_lean/][Functional programming in Lean]]. ~ David Thrane Christiansen. #ITP #LeanProver #FunctionalProgramming
++ [[https://www.maths.ed.ac.uk/~pkinnear/leancourse/][The course webpage for the Lean learning group]]. ~ David Jordan, Patrick Kinnear, Adrián Doña Mateo. #ITP #LeanProver #Math
++ [[http://math.iisc.ac.in/~gadgil/proofs-and-programs-2023/index.html][Proof and programs (This course will introduce Lean Theorem Prover 4)]]. ~ Siddhartha Gadgil. #ITP #LeanProver
++ [[https://www.johndcook.com/blog/2023/01/30/good-autocomplete/][Good autocomplete]]. ~ John D. Cook (@JohnDCook). #Emacs
++ [[https://www.wired.com/story/chatgpt-college-university-plagiarism/?utm_source=twitter&utm_medium=social&utm_campaign=onsite-share&utm_brand=wired&utm_social-type=earned][ChatGPT is making universities rethink plagiarism (Students and professors can’t decide whether the AI chatbot is a research tool—or a cheating engine)]]. ~ Sofia Barnett. #AI #ChatGPT #Education
+
 *** 30-Ene-23
 + [[http://jackkelly.name/blog/archives/2023/01/28/monoids_in_the_category_of___/][Monoids in the category of...]] ~ Jack Kelly. #Haskell #FunctionalProgramming #CategoryTheory
 + [[https://dev.to/flaviocorpa/haskell-for-elm-developers-giving-names-to-stuff-part-1-functors-36n3][Haskell for Elm developers: giving names to stuff (Part 1 - Functors)]]. ~ Flavio Corpa (@FlavioCorpa). #Elm #Haskell #FunctionalProgramming
