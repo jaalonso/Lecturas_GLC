@@ -11,6 +11,7 @@ its content.
 
 * Content                                                                      :TOC:
 - [[#lecturas-del-año-2023][Lecturas del año 2023]]
+  - [[#febrero-2023][Febrero 2023]]
   - [[#enero-2023][Enero 2023]]
 - [[#lecturas-del-año-2022][Lecturas del año 2022]]
   - [[#diciembre-2022][Diciembre 2022]]
@@ -41,6 +42,15 @@ its content.
 - [[#lecturas-anteriores][Lecturas anteriores]]
 
 * Lecturas del año 2023
+
+** Febrero 2023
+
+*** 01-Feb-23
++ [[https://lawrencecpaulson.github.io/2023/02/01/On-the-infinite.html][On the infinite]]. ~ Lawrence C. Paulson (@LawrPaulson). #ITP #IsabelleHOL #Math
++ [[https://www.isa-afp.org/entries/Given_Clause_Loops.html][Given clause loops (in Isabelle/HOL)]]. ~ Jasmin Christian Blanchette, Qi Qiu, Sophie Tourret. #ITP #IsabelleHOL
++ [[https://www.tweag.io/blog/2022-01-26-property-based-testing-of-monadic-code][A case study on correctness and safety testing of stateful systems]]. ~ Victor Miraldo #Haskell #FunctionalProgramming
++ [[https://www.theatlantic.com/technology/archive/2023/01/chatgpt-ai-language-human-computer-grammar-logic/672902/][The difference between speaking and thinking (The human brain could explain why AI programs are so good at writing grammatically superb nonsense)]]. ~ Matteo Wong. #AI #ChatGPT
++ [[https://arxiv.org/abs/2301.06627][Dissociating language and thought in large language models: a cognitive perspective]]. ~ Kyle Mahowald, Anna A. Ivanova, Idan A. Blank, Nancy Kanwisher, Joshua B. Tenenbaum, Evelina Fedorenko. #AI #LLM #ChatGPT
 
 ** Enero 2023
 
