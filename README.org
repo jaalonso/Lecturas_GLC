@@ -45,6 +45,17 @@ its content.
 
 ** Febrero 2023
 
+*** 02-Feb-23
++ [[https://arxiv.org/abs/2301.12893][Formalizing piecewise affine activation functions of neural networks in Coq]]. ~ Andrei Aleksandrov, Kim Völlinger. #ITP #Coq #NeuralNetwork
++ [[https://arxiv.org/abs/2302.00448][A formalisation of Gallagher's ergodic theorem]]. ~ Oliver Nash. #ITP #LeanProver #Math
++ [[https://arxiv.org/abs/2302.00151][Formalizing π_4(S^3)≅ℤ/2ℤ and computing a Brunerie number in Cubical Agda]]. ~ Axel Ljungström, Anders Mörtberg. #ITP #Agda #Math
++ [[https://simonjohnthompson.github.io/craft3e/craft3e.pdf][The Craft of Functional Programming (3rd edition)]]. ~ Simon Thompson. #eBook #Haskell #FunctionalProgramming
++ [[https://arxiv.org/abs/2301.13054][Monadic expressions and their derivatives]]. ~ Samira Attou, Ludovic Mignot, Clément Miklarz, Florent Nicart. #Haskell #FunctionalProgramming
++ [[https://arxiv.org/abs/2302.00093][Large language models can be easily distracted by irrelevant context]]. ~ Freda Shi, Xinyun Chen, Kanishka Misra, Nathan Scales, David Dohan, Ed Chi, Nathanael Schärli, Denny Zhou. #LLMs
++ [[https://alexey.kuleshevi.ch/blog/2023/01/16/fail-with-class/][Fail with class]]. ~ Alexey Kuleshevich. #Haskell #FunctionalProgramming
++ [[https://cacm.acm.org/news/269343-the-race-of-the-ai-labs-heats-up/fulltext][The race of the AI labs heats up (ChatGPT is not the only game in town)]]. ~ The Economist. #AI #ChatGPT
++ [[https://camilocs.substack.com/p/lo-que-chatgpt-no-puede?sd=pf][Lo que ChatGPT no puede...]] ~ Camilo Chacón Sartori (@camilo_chacon_s). #ChatGPT #IA
+
 *** 01-Feb-23
 + [[https://lawrencecpaulson.github.io/2023/02/01/On-the-infinite.html][On the infinite]]. ~ Lawrence C. Paulson (@LawrPaulson). #ITP #IsabelleHOL #Math
 + [[https://www.isa-afp.org/entries/Given_Clause_Loops.html][Given clause loops (in Isabelle/HOL)]]. ~ Jasmin Christian Blanchette, Qi Qiu, Sophie Tourret. #ITP #IsabelleHOL
