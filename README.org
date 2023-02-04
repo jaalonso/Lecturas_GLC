@@ -45,6 +45,16 @@ its content.
 
 ** Febrero 2023
 
+*** 03-Feb-23
++ [[https://medium.com/@_cmdv_/is-haskell-dying-a-slow-death-92958c23d2d0][Is Haskell dying a slow death?]] ~ Vincent O. #Haskell #FunctionalProgramming
++ [[https://www.codementor.io/@nimeshneema/roadmap-to-functional-programming-21ly6gxjhp][Roadmap to Functional Programming]]. ~ Nimesh Neema (@NimeshNeema). #FunctionalProgramming
++ [[https://www.parsonsmatt.org/2023/02/02/production_haskell_complete.html][Production Haskell complete]]. ~ Matt Parsons (@mattoflambda). #Haskell #FunctionalProgramming
++ [[https://mathscholar.org/2023/02/can-chatgpt-prove-math-theorems/][Can ChatGPT prove math theorems?]] ~ David H Bailey. #ChatGPT #Math
++ [[https://theconversation.com/lo-que-hay-que-saber-sobre-gpt-3-197820][Lo que hay que saber sobre GPT-3]]. ~ Enrique Onieva Caracuel. #IA #GPT3 #ChatGPT
++ [[https://garymarcus.substack.com/p/happy-groundhog-day-the-ai-edition][Happy Groundhog Day, The AI Edition (Decades of stumbling over and over in the same places]]. When will we ever learn?). ~ Gary Marcus (@GaryMarcus). #AI
++ [[https://theconversation.com/chatgpt-our-study-shows-ai-can-produce-academic-papers-good-enough-for-journals-just-as-some-ban-it-197762][ChatGPT: our study shows AI can produce academic papers good enough for journals – just as some ban it]]. ~ Brian Lucey, Michael Dowling. #ChatGPT
++ [[https://theconversation.com/chatgpt-is-great-youre-just-using-it-wrong-198848][ChatGPT is great – you’re just using it wrong]]. ~ Jonathan May (@jonathanmay). #ChatGPT
+
 *** 02-Feb-23
 + [[https://arxiv.org/abs/2301.12893][Formalizing piecewise affine activation functions of neural networks in Coq]]. ~ Andrei Aleksandrov, Kim Völlinger. #ITP #Coq #NeuralNetwork
 + [[https://arxiv.org/abs/2302.00448][A formalisation of Gallagher's ergodic theorem]]. ~ Oliver Nash. #ITP #LeanProver #Math
