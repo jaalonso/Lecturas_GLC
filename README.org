@@ -45,6 +45,15 @@ its content.
 
 ** Febrero 2023
 
+*** 04-Mar-23
++ [[https://drops.dagstuhl.de/opus/volltexte/2023/17491/pdf/LIPIcs-CSL-2023-30.pdf][Gödel's theorem without tears (Essential incompleteness in synthetic computability)]]. ~ D. Kirst, B. Peters. #ITP #Coq #Logic #Math
++ [[https://lmcs.episciences.org/10892/pdf][A proof system for graph (non)-isomorphism verification]]. ~ Milan Banković, Ivan Drecun, Filip Marić. #ITP #IsabelleHOL #Math
++ [[https://scholarship.claremont.edu/jhm/vol13/iss1/7/][Human-machine collaboration in the teaching of proof]]. ~ Gila Hanna, Brendan P. Larvor, Xiaoheng (Kitty) Yan. #ITP #LeanProver
++ [[https://arxiv.org/abs/2301.13867][Mathematical capabilities of ChatGPT]]. ~ Simon Frieder et als. #ChatGPT #Math
++ [[https://www.nature.com/articles/d41586-023-00288-7][ChatGPT: five priorities for research (Conversational AI is a game-changer for science]]. Here’s how to respond). ~ Eva A. M. van Dis et als. #ChatGPT
++ [[https://m-cacm.acm.org/news/269479-ai-bot-chatgpt-needs-some-help-with-math-assignments/fulltext][AI bot ChatGPT needs some help with math assignments (‘Large language models’ supply grammatically correct answers but struggle with calculations)]]. ~ Josh Zumbrun (@JoshZumbrun). #ChatGPT #Math
++ [[https://cacm.acm.org/careers/269498-it-leaders-fear-malicious-use-of-chatgpt-by-foreign-states/fulltext][IT leaders fear malicious use of ChatGPT by foreign states]]. ~ Computing. #ChatGPT
+
 *** 03-Feb-23
 + [[https://medium.com/@_cmdv_/is-haskell-dying-a-slow-death-92958c23d2d0][Is Haskell dying a slow death?]] ~ Vincent O. #Haskell #FunctionalProgramming
 + [[https://www.codementor.io/@nimeshneema/roadmap-to-functional-programming-21ly6gxjhp][Roadmap to Functional Programming]]. ~ Nimesh Neema (@NimeshNeema). #FunctionalProgramming
