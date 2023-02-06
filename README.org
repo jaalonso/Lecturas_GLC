@@ -45,6 +45,13 @@ its content.
 
 ** Febrero 2023
 
+*** 05-Feb-23
++ [[https://youtu.be/TOzS4aC_K1g][Lean 4 formalization of 1964 International Mathematical Olympiad Problem 4]]. ~ David Renshaw. #ITP #LeanProver #Math #IMO
++ [[https://www.microsiervos.com/archivo/internet/kagi-resumidor-universal-resumen-web-documento.html][Un «resumidor universal» experimental que analiza, completa y resume en una breve descripción cualquier web o documento]]. ~ @Alvy #IA #Kagi
++ [[https://labs.kagi.com/ai/sum][Universal Summarizer (Summarize any content on the web - from articles to books - in a jiffy!)]]. #AI #Kagi
++ [[https://www.theguardian.com/commentisfree/2023/feb/04/chatgpt-isnt-a-great-leap-forward-its-an-expensive-deal-with-the-devil][ChatGPT isn’t a great leap forward, it’s an expensive deal with the devil]]. ~ John Naughton. #ChatGPT
++ [[https://www.publico.es/ciencias/chatgpt-inteligencia-artificial-escribe-piensa.html][ChatGPT, una inteligencia artificial que escribe (y piensa) por ti]]. ~ Laura G. De Rivera (@LauraGDeRivera). #ChatGPT
+
 *** 04-Mar-23
 + [[https://drops.dagstuhl.de/opus/volltexte/2023/17491/pdf/LIPIcs-CSL-2023-30.pdf][Gödel's theorem without tears (Essential incompleteness in synthetic computability)]]. ~ D. Kirst, B. Peters. #ITP #Coq #Logic #Math
 + [[https://lmcs.episciences.org/10892/pdf][A proof system for graph (non)-isomorphism verification]]. ~ Milan Banković, Ivan Drecun, Filip Marić. #ITP #IsabelleHOL #Math
