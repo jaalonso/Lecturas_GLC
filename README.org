@@ -45,6 +45,16 @@ its content.
 
 ** Febrero 2023
 
+*** 06-Feb-23
++ [[https://www.isa-afp.org/entries/CVP_Hardness.html][Hardness of lattice problems (in Isabelle/HOL)]]. ~ Katharina Kreuzer. #ITP #IsabelleHOL #Math
++ [[https://github.com/leanprover-community/mathlib/blob/aebd342823838ca946af454f5b3194db77a52e65/src/algebra/order/chebyshev.lean][Chebyshev's sum inequality (in Lean)]]. ~ Mantas Bakšys, Yaël Dillies. #ITP #LeanProver #Math
++ [[https://github.com/leanprover-community/mathlib/blob/980755c33b9168bc82f774f665eaa27878140fac/src/analysis/special_functions/trigonometric/euler_sine_prod.lean][Euler's infinite product for the sine function (in Lean)]]. ~ David Loeffler. #ITP #LeanProver #Math
++ [[https://magnus.therning.org/2023-02-04-a-take-on-logging.html][A take on logging]]. ~ Magnus Therning. #Haskell #FunctionalProgramming
++ [[https://www.haskellforall.com/2022/05/introductory-resources-to-type-theory.html][Introductory resources to type theory for language implementers]]. ~ Gabriella Gonzalez (@GabriellaG439). #Haskell #FunctionalProgramming
++ [[https://arxiv.org/abs/2205.00167][Self-programming artificial intelligence using code-generating language models]]. ~ Alex Sheng, Shankar Padmanabhan. #AI #MachineLearning #LLMs
++ [[https://arxiv.org/abs/2302.01339][Creating a large language model of a philosopher]]. ~ Eric Schwitzgebel, David Schwitzgebel, Anna Strasser. #AI #GPT3 #LLMs
++ [[https://arxiv.org/abs/2302.01570][Witgenstein's influence on artificial intelligence]]. ~ Piero Molino, Jacopo Tagliabue. #AI
+
 *** 05-Feb-23
 + [[https://youtu.be/TOzS4aC_K1g][Lean 4 formalization of 1964 International Mathematical Olympiad Problem 4]]. ~ David Renshaw. #ITP #LeanProver #Math #IMO
 + [[https://www.microsiervos.com/archivo/internet/kagi-resumidor-universal-resumen-web-documento.html][Un «resumidor universal» experimental que analiza, completa y resume en una breve descripción cualquier web o documento]]. ~ @Alvy #IA #Kagi
