@@ -45,6 +45,16 @@ its content.
 
 ** Febrero 2023
 
+*** 07-Feb-23
++ [[https://cmu-fantastic-bugs.github.io/][Course: Fantastic bugs and how to find them (A tour of applied program analysis and domain-specific automated testing) ~ Rohan Padhye]]. #CompSci
++ [[https://cmu-fantastic-bugs.github.io/slides/1-intro.pdf][Fantastic bugs and how to find them (Introduction)]]. ~ Rohan Padhye. #CompSci
++ [[https://www.quantamagazine.org/machines-learn-better-if-we-teach-them-the-basics-20230201][Machines learn better if we teach them the basics]]. ~ Max G. Levy. #AI #MachineLearning
++ [[https://www.nytimes.com/2023/02/06/technology/chatgpt-schools-teachers-ai-ethics.html][At this school, computer science class now includes critiquing chatbots]]. Some schools are asking student programmers to think critically about rapid advances in artificial intelligence). ~ Natasha Singer. #ChatGPT #AI #Education
++ [[https://www.elconfidencial.com/tecnologia/2023-02-06/google-bard-lamda-buscador-chatgpt-ai-ia-inteligencia-artificial_3570942/][Google responde a la amenaza de ChatGPT y estrena Bard, su propio chat 'inteligente']]. ~ M. A. Méndez. #ChatGPT #IA
++ [[https://www.theguardian.com/technology/2023/feb/06/google-releases-its-own-ai-chatbot-bard-after-success-of-chatgpt][Google trials its own AI chatbot Bard after success of ChatGPT]]. ~ Dan Milmo. #ChatGPT #AI
++ [[https://www.theguardian.com/technology/2023/feb/07/how-will-google-and-microsoft-ai-chatbots-affect-us-and-how-we-work][How will Google and Microsoft AI chatbots affect us and how we work?]] ~ Dan Milmo. #AI #ChatGPT #Bard
++ [[https://www.wired.com/story/the-race-to-build-a-chatgpt-powered-search-engine][The race to build a ChatGPT-powered search engine]]. ~ Will Knight. #ChatGPT #AI
+
 *** 06-Feb-23
 + [[https://www.isa-afp.org/entries/CVP_Hardness.html][Hardness of lattice problems (in Isabelle/HOL)]]. ~ Katharina Kreuzer. #ITP #IsabelleHOL #Math
 + [[https://github.com/leanprover-community/mathlib/blob/aebd342823838ca946af454f5b3194db77a52e65/src/algebra/order/chebyshev.lean][Chebyshev's sum inequality (in Lean)]]. ~ Mantas Bakšys, Yaël Dillies. #ITP #LeanProver #Math
