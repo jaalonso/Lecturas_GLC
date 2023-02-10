@@ -45,6 +45,9 @@ its content.
 
 ** Febrero 2023
 
+*** 09-Feb-23
++ [[https://arxiv.org/abs/2206.14767][Verified causal broadcast with Liquid Haskell]]. ~ Patrick Redmond, Gan Shen, Niki Vazou, Lindsey Kuper. #Haskell #FunctionalProgramming #LiquidHaskell
+
 *** 08-Feb-23
 + [[https://lawrencecpaulson.github.io//2023/02/08/Cbrt23_Irrational.html][An irrationality proof involving cube roots]]. ~ Lawrence C. Paulson (@LawrPaulson). #ITP #IsabelleHOL #Math
 + [[https://arxiv.org/abs/2302.03494][A categorical archive of ChatGPT failures]]. ~ Ali Borji. #ChatGPT
