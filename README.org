@@ -45,6 +45,21 @@ its content.
 
 ** Febrero 2023
 
+*** 10-Feb-23
++ [[https://github.com/ImperialCollegeLondon/formalising-mathematics-2023][Course: Formalising Mathematics (2023)]]. ~ Kevin Buzzard. #ITP #LeanProver #Math
++ [[https://github.com/leanprover-community/mathlib/blob/26b40791e4a5772a4e53d0e28e4df092119dc7da/src/combinatorics/catalan.lean][Catalan numbers (in Lean)]]. ~ Julian Kuelshammer. #ITP #LeanProver #Math
++ [[https://pema.dev/2023/02/01/haskell-not-ct/][Haskell is not category theory]]. ~ Pema (@pemathedev). #Haskell #FunctionalProgramming #CategoryTheory
++ [[https://github.com/haskell-game/tiny-games-hs][Haskell Tiny Game Jam]]. ~ Simon Michael (@simonkwmichael). #Haskell #FunctionalProgramming
++ [[https://www.imcgrupo.com/why-modern-industries-need-functional-programming/][Why modern industries need functional programming]]. ~ Jenna Walter. #Haskell #FunctionalProgramming
++ [[https://blog.computationalcomplexity.org/2023/02/why-cant-little-chatty-do-math.html][Why can't little chatty do math?]] ~ Lance Fortnow. #ChatGPT #Math
++ [[https://www.openculture.com/2023/02/noam-chomsky-on-chatgpt.html][Noam Chomsky on ChatGPT: It’s “basically high-tech plagiarism” and “a way of avoiding learning”]]. ~ Colin Marshall #ChatGPT #Education
++ [[https://arxiv.org/abs/2302.04335][Will ChatGPT get you caught? Rethinking of plagiarism detection]]. ~ Mohammad Khalil, Erkan Er. #ChatGPT #Education
++ [[https://www.theguardian.com/technology/2023/feb/09/ai-blunders-google-chatbot-chatgpt-cause-trouble-more-firms][AI blunders like Google chatbot’s will cause trouble for more firms, say experts]]. ~ Dan Milmo, Graeme Wearden. #AI #ChatGPT #Bard
++ [[https://www.project-syndicate.org/commentary/chatgpt-ai-big-tech-corporate-america-investing-in-eliminating-workers-by-daron-acemoglu-and-simon-johnson-2023-02][What’s wrong with ChatGPT?]] ~ Daron Acemoglu, Simon Johnson. #AI #ChatGPT
++ [[https://www.nytimes.com/2023/02/08/technology/ai-chatbots-disinformation.html][Disinformation researchers raise alarms about A.I. chatbots]]. ~ Tiffany Hsu, Stuart A. Thompson. #AI #ChatGPT
++ [[https://www.theguardian.com/technology/2023/feb/09/googles-bard-demo-what-went-wrong-chatgpt-chatbots-ai][Why did Google’s ChatGPT rival go wrong and are AI chatbots overhyped?]] ~ Dan Milmo. #AI #ChatGPT #Bard
++ [[https://arstechnica.com/information-technology/2023/02/chatgpt-is-a-data-privacy-nightmare-and-you-ought-to-be-concerned/][ChatGPT is a data privacy nightmare, and we ought to be concerned]]. ~ Uri Gal. #ChatGPT
+
 *** 09-Feb-23
 + [[https://arxiv.org/abs/2206.14767][Verified causal broadcast with Liquid Haskell]]. ~ Patrick Redmond, Gan Shen, Niki Vazou, Lindsey Kuper. #Haskell #FunctionalProgramming #LiquidHaskell
 
