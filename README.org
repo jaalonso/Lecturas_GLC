@@ -45,6 +45,13 @@ its content.
 
 ** Febrero 2023
 
+*** 11-Feb-23
++ [[https://arxiv.org/abs/2302.03287][ChatGPT and software testing education: Promises & perils]]. ~ Sajed Jalil, Suzzana Rafi, Thomas D. LaToza, Kevin Moran, Wing Lam. #ChatGPT #Education
++ [[https://www.vox.com/future-perfect/23591534/chatgpt-artificial-intelligence-google-baidu-microsoft-openai][Are we racing toward AI catastrophe? (As tech giants like Microsoft and Google compete to capture the AI market, safety could be an afterthought)]]. ~ Kelsey Piper. #AI #ChatGPT
++ [[https://www.theverge.com/2023/2/9/23592647/ai-search-bing-bard-chatgpt-microsoft-google-problems-challenges][7 problems facing Bing, Bard, and the future of AI search]]. ~ James Vincent. #AI #ChatGPT #Bard #BingChat
++ [[https://www.wired.com/story/the-generative-ai-search-race-has-a-dirty-secret/][The generative AI race has a dirty secret (Integrating large language models into search engines could mean a fivefold increase in computing power and huge carbon emissions)]]. ~ Chris Stokel-Walker. #AI #ChatGPT
++ [[https://arstechnica.com/information-technology/2023/02/ai-powered-bing-chat-spills-its-secrets-via-prompt-injection-attack/][AI-powered Bing Chat spills its secrets via prompt injection attack]]. ~ Benj Edwards. #BingChat
+
 *** 10-Feb-23
 + [[https://github.com/ImperialCollegeLondon/formalising-mathematics-2023][Course: Formalising Mathematics (2023)]]. ~ Kevin Buzzard. #ITP #LeanProver #Math
 + [[https://github.com/leanprover-community/mathlib/blob/26b40791e4a5772a4e53d0e28e4df092119dc7da/src/combinatorics/catalan.lean][Catalan numbers (in Lean)]]. ~ Julian Kuelshammer. #ITP #LeanProver #Math
