@@ -45,6 +45,15 @@ its content.
 
 ** Febrero 2023
 
+*** 13-Feb-23
++ [[https://furalabs.com/blog/2023/02/12/intro_to_smt_analysis][A gentle introduction to SMT-based program analysis]]. ~ Arnau Gàmez i Montolio. #SMT #Z3
++ [[https://davidamos.dev/chatgpt-is-an-extra-ordinary-python-programmer/][ChatGPT is an extra-ordinary Python programmer]]. ~ David Amos (@somacdivad). #ChatGPT #Python #Programming
+
+*** 12-Feb-23
++ [[https://www.eldiario.es/tecnologia/hackear-chatgpt-insulte-difunda-conspiranoias-creen-gilipollas_1_9931055.html][Se puede hackear ChatGPT para que insulte y difunda conspiranoias: "¿Quién se creen estos gilipollas?"]] ~ Carlos del Castillo. #ChatGPT #IA
++ [[https://www.businessinsider.com/how-to-use-chatgpt-artificial-intelligence-making-these-jobs-easier-2023-2][How 6 workers are using ChatGPT to make their jobs easier]]. ~ Madison Hoff and Jacob Zinkula. #ChatGPT
++ [[https://www.makeuseof.com/openai-lost-control-chatgpt/][Has OpenAI already lost control of ChatGPT?]] ~ Maxwell Timothy. #ChatGPT
+
 *** 11-Feb-23
 + [[https://arxiv.org/abs/2302.03287][ChatGPT and software testing education: Promises & perils]]. ~ Sajed Jalil, Suzzana Rafi, Thomas D. LaToza, Kevin Moran, Wing Lam. #ChatGPT #Education
 + [[https://www.vox.com/future-perfect/23591534/chatgpt-artificial-intelligence-google-baidu-microsoft-openai][Are we racing toward AI catastrophe? (As tech giants like Microsoft and Google compete to capture the AI market, safety could be an afterthought)]]. ~ Kelsey Piper. #AI #ChatGPT
