@@ -45,6 +45,14 @@ its content.
 
 ** Febrero 2023
 
+*** 14-Feb-23
++ [[https://arxiv.org/abs/2104.11613][A formalised theorem in the partition calculus]]. ~ Lawrence C. Paulson. #ITP #IsabelleHOL #Math
++ [[https://math.andrej.com/asset/data/formalizing-invisible-mathematics.pdf][Formalizing invisible mathematics]]. ~ Andrej Bauer. #ITP #Math
++ [[https://srid.ca/generics-sop-intro][A concise introduction to `generics-sop`]]. ~ Sridhar Ratnakumar. #Haskell #FunctionalProgramming
++ [[https://www.tweag.io/blog/2023-02-14-smtlib-backends/][smtlib-backends: faster SMT-LIB-based Haskell interface to SMT solvers]]. ~ Quentin Aristote. #Haskell #SMT
++ [[https://www.scientificamerican.com/article/how-chatgpt-can-improve-education-not-threaten-it/][How ChatGPT can improve education, not threaten it]]. ~ John Villasenor. #ChatGPT #AI #Education
++ [[https://cacm.acm.org/blogs/blog-cacm/269854-inside-the-heart-of-chatgpts-darkness/fulltext][Inside the heart of ChatGPT's darkness]]. ~ Gary Marcus (@garymarcus). #ChatGPT #AI
+
 *** 13-Feb-23
 + [[https://furalabs.com/blog/2023/02/12/intro_to_smt_analysis][A gentle introduction to SMT-based program analysis]]. ~ Arnau Gàmez i Montolio. #SMT #Z3
 + [[https://davidamos.dev/chatgpt-is-an-extra-ordinary-python-programmer/][ChatGPT is an extra-ordinary Python programmer]]. ~ David Amos (@somacdivad). #ChatGPT #Python #Programming
