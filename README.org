@@ -45,6 +45,14 @@ its content.
 
 ** Febrero 2023
 
+*** 15-Feb-23
++ [[https://jaykmody.com/blog/gpt-from-scratch/][GPT in 60 lines of numpy]]. ~ Jay Mody. #GPT #Python
++ [[https://www.quantamagazine.org/to-teach-computers-math-researchers-merge-ai-approaches-20230215/][To teach computers math, researchers merge AI approaches]]. ~  Kevin Hartnett. #AI #MachineLearning #Math
++ [[https://theconversation.com/podria-una-inteligencia-artificial-ganar-la-medalla-fields-de-matematicas-198182][¿Podría una inteligencia artificial ganar la medalla Fields de matemáticas?]] ~ Iñigo Sarría Martínez de Mendivil. #ChatGPT #Matemáticas
++ [[https://www.washingtonpost.com/technology/2023/02/14/chatgpt-dan-jailbreak/][The clever trick that turns ChatGPT into its evil twin]]. ~ Will Oremus. #ChatGPT
++ [[https://journals.plos.org/digitalhealth/article?id=10.1371/journal.pdig.0000198][Performance of ChatGPT on USMLE: Potential for AI-assisted medical education using large language models]]. ~ Tiffany H. Kung et als. #ChatGPT #AI #Education
++ [[https://qz.com/how-chat-gpt-could-be-used-in-economics-research-1850114121][22 ways ChatGPT could be used in economics research]]. ~ Nate DiCamillo. #ChatGPT
+
 *** 14-Feb-23
 + [[https://arxiv.org/abs/2104.11613][A formalised theorem in the partition calculus]]. ~ Lawrence C. Paulson. #ITP #IsabelleHOL #Math
 + [[https://math.andrej.com/asset/data/formalizing-invisible-mathematics.pdf][Formalizing invisible mathematics]]. ~ Andrej Bauer. #ITP #Math
