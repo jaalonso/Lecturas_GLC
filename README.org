@@ -45,6 +45,19 @@ its content.
 
 ** Febrero 2023
 
+*** 16-Feb-23
++ [[https://www.aimspress.com/aimspress-data/era/2023/3/PDF/era-31-03-090.pdf][One-sided differentiability: a challenge for computer algebra systems]]. ~ Enrique Ferres-López, Eugenio Roanes-Lozano, Angélica Martínez-Zarzuelo, Fernando Sánchez. #CAS #Math
++ [[https://arxiv.org/abs/2302.07629][Automated reasoning for physical quantities, units, and measurements in Isabelle/HOL]]. ~ Simon Foster, Burkhart Wolff. #ITP #IsabelleHOL
++ [[https://youtu.be/tp_h3vzkObo][Formal mathematics for mathematicians and mathematics students (IPAM at UCLA)]]. ~ Patrick Massot. #ITP #LeanProver #Math
++ [[https://hal.inria.fr/hal-01208577v9/preview/main%20(1).pdf][A short Isabelle tutorial for the functional programmer]]. ~ Thomas Genet, Jørgen Villadsen. #ITP #IsabelleHOL
++ [[https://arxiv.org/abs/2302.06420][Closure properties of unrestricted grammars (Formally verified)]]. ~ Martin Dvorak, Jasmin Blanchette. #ITP #LeanProver
++ [[https://books.google.es/books?id=druFEAAAQBAJ&lpg=PP1&hl=es&pg=PP][The little learner: A straight line to Deep Learning]]. ~ Daniel P. Friedman, Anurag Mendhekar.1#v=onepage&q&f=false #eBook #DeepLearning #Scheme #Programming
++ [[https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/][What is ChatGPT doing … and why does it work? ~ Stephen Wolfram]]. #ChatGPT
++ [[https://elpais.com/tecnologia/2023-02-16/por-que-no-dejamos-de-hablar-de-inteligencia-artificial-la-pelea-por-los-ingresos-publicitarios-que-marca-el-futuro-de-internet.html][¿Por qué no dejamos de hablar de inteligencia artificial? La pelea por los ingresos publicitarios que marca el futuro de internet]]. ~ Manuel G. Pascual. #IA
++ [[https://www.technologyreview.com/2023/02/15/1068624/chatgpt-race-china-baidu-ai/][Inside the ChatGPT race in China]]. ~ Zeyi Yang. #ChatGPT
++ [[https://www.entrepreneur.com/science-technology/how-will-chatgpt-change-education-and-teaching/445018][How will ChatGPT change education and teaching?]] #ChatGPT #Education
++ [[https://arstechnica.com/information-technology/2023/02/ai-powered-bing-chat-loses-its-mind-when-fed-ars-technica-article/][AI-powered Bing Chat loses its mind when fed Ars Technica article]]. ~ Benj Edwards. #BingChat
+
 *** 15-Feb-23
 + [[https://jaykmody.com/blog/gpt-from-scratch/][GPT in 60 lines of numpy]]. ~ Jay Mody. #GPT #Python
 + [[https://www.quantamagazine.org/to-teach-computers-math-researchers-merge-ai-approaches-20230215/][To teach computers math, researchers merge AI approaches]]. ~  Kevin Hartnett. #AI #MachineLearning #Math
