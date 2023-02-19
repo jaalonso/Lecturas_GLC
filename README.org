@@ -45,6 +45,11 @@ its content.
 
 ** Febrero 2023
 
+*** 17-Feb-23
++ [[https://youtu.be/_pqJYnQua58][Autoformalization with large language models (IPAM at UCLA)]]. ~ Tony Wu. #Autoformalization #Math #LLMs
++ [[https://cacm.acm.org/blogs/blog-cacm/269998-chatgpt-for-provost/fulltext][ChatGPT for Provost!]] ~ Jeremy Roschelle. #ChatGPT #Education
++ [[https://www.nytimes.com/2023/02/16/business/dealbook/microsoft-chatgpt-revenge-chatbots.html?smid=tw-share][Revenge of the chatbots]]. ~ Andrew Ross Sorkin, Bernhard Warner, Sarah Kessler, Lauren Hirsch, Ephrat Livni #ChatGPT #BingChat
+
 *** 16-Feb-23
 + [[https://www.aimspress.com/aimspress-data/era/2023/3/PDF/era-31-03-090.pdf][One-sided differentiability: a challenge for computer algebra systems]]. ~ Enrique Ferres-López, Eugenio Roanes-Lozano, Angélica Martínez-Zarzuelo, Fernando Sánchez. #CAS #Math
 + [[https://arxiv.org/abs/2302.07629][Automated reasoning for physical quantities, units, and measurements in Isabelle/HOL]]. ~ Simon Foster, Burkhart Wolff. #ITP #IsabelleHOL
