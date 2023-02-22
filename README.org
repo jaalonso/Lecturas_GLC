@@ -45,6 +45,32 @@ its content.
 
 ** Febrero 2023
 
+*** 21-Feb-23
++ [[https://people.compute.dtu.dk/ahfrom/ahfrom-thesis.pdf][Formally correct deduction methods for computational logic]]. ~ Asta Halkjær From. #Logic #ITP #IsabelleHOL
++ [[https://youtu.be/vMLVH6IEwlM][Finding counterexamples to conjectures via reinforcement learning (IPAM at UCLA)]]. ~ Adam Wagner. #AI #MachineLearning #Math
++ [[https://arxiv.org/abs/2302.09327][Transformadores: Fundamentos teóricos y aplicaciones]]. ~ Jordi de la Torre. #MachineLearning #AI
+
+*** 20-Feb-23
++ [[https://youtu.be/ygsY2LlWyQI][Better SMT proofs for certifying compliance and correctness (IPAM at UCLA)]]. ~ Haniel Barbosa (@hanielmbarbosa). #SMT
+
+*** 19-Feb-23
++ [[https://youtu.be/WBkxJozzBXc][Overview of real numbers in theorem provers: application with real analysis in Coq (IPAM at UCLA)]]. ~ Micaela Mayero. #ITP #Coq #Math
++ [[https://youtu.be/-gMu40psSsc][Computing with or despite the computer (IPAM at UCLA)]]. ~ Anne Baanen. #ITP #LeanProver #Math
++ [[https://youtube.com/playlist?list=PLVdBoNna-44CFbI29JCTX5ZTgN6Q4guwh][Course: Logic and proof]]. ~ Lawrence Paulson. #Logic #Math #CompSci
++ [[https://youtube.com/playlist?list=PLVdBoNna-44AN-hq4e3SZP-cbzFNtuV8g][Interactive formal verification]]. ~ Lawrence Paulson. #ITP #IsabelleHOL
++ [[https://theses.hal.science/tel-03987749/document][Formal verification of just-in-time compilation]]. ~ Aurèle Barriere. #PhDThesis #ITP #Coq
++ [[https://www.cambridge.org/core/services/aop-cambridge-core/content/view/55377D4E137AFCF13A7922F3EFBCDCBF/S0956796822000156a.pdf/div-class-title-folding-left-and-right-matters-direct-style-accumulators-and-continuations-div.pdf][Functional pearl: Folding left and right matters (Direct style, accumulators, and continuations)]]. ~ Olivier Danvy. #FunctionalProgramming #ITP #Coq
++ [[https://hal.science/hal-03925304/documen][Engaging with Lean interactive theorem prover: Solving a logic task]]. ~ A. Thoma, P. Iannone, G. Marasingha.t#page=296 #ITP #LeanProver #Education
++ [[https://hal.science/hal-03925304/document][MEDA3 Mathematics Education in Digital Age 3 (Proceedings of the 13th ERME Topic Conference)]]. ~ Hans-Georg Weigand et als. #Math #Education
++ [[https://medium.datadriveninvestor.com/exploring-the-best-functional-programming-modules-in-python-74489b67c4c4][Exploring the best functional programming modules in Python]]. ~ Saeed Mohajeryami. #Python #FunctionalProgramming
++ [[https://arxiv.org/abs/2302.07427][Studying the effect of AI code generators on supporting novice learners in introductory programming]]. ~ M. Kazemitabaar et als. #AI #OpenaAI_Codex #Education
++ [[https://terrytao.wordpress.com/2023/02/18/would-it-be-possible-to-create-a-tool-to-automatically-diagram-papers/][Would it be possible to create a tool to automatically diagram papers? ~ Terence Tao]]. #Math #ITP #MKM
++ [[https://www.axios.com/2023/02/17/chatgpt-ai-next-platform-tech][AI revolution: Tech finds its next platform (Tech insiders see the excitement over AI's new wave as a sign that the industry has moved into a new era)]]. ~ Scott Rosenberg. #AI #ChatGPT #BingChat
++ [[https://www.axios.com/2023/02/17/cybersecurity-ai-tech-chatgpt-bing][New AI wave will find uses and abuses in cybersecurity]]. ~ Peter Allen Clark. #GenerativeAI
++ [[https://www.theguardian.com/technology/2023/feb/18/from-retail-to-transport-how-ai-is-changing-every-corner-of-the-economy][From retail to transport: how AI is changing every corner of the economy]]. ~ Joanna Partridge, Phillip Inman, Alex Lawson, Jasper Jolly, Richard Partington, Gwyn Topham, Kalyeena Makortoff and Sarah Butler. #AI #Economy
++ [[https://www.theguardian.com/technology/2023/feb/18/the-ai-industrial-revolution-puts-middle-class-workers-under-threat-this-time][The AI industrial revolution puts middle-class workers under threat this time]]. ~ Larry Elliott. #AI
++ [[https://www.elconfidencial.com/tecnologia/novaceno/2023-02-18/inteligencia-artificial-generativa-nasa_3578045/][La inteligencia artificial que sustituye a ingenieros ya diseña naves para la NASA]]. ~ Jesús Díaz. #IA
+
 *** 17-Feb-23
 + [[https://youtu.be/_pqJYnQua58][Autoformalization with large language models (IPAM at UCLA)]]. ~ Tony Wu. #Autoformalization #Math #LLMs
 + [[https://cacm.acm.org/blogs/blog-cacm/269998-chatgpt-for-provost/fulltext][ChatGPT for Provost!]] ~ Jeremy Roschelle. #ChatGPT #Education
