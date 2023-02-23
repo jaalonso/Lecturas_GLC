@@ -45,6 +45,14 @@ its content.
 
 ** Febrero 2023
 
+*** 22-Feb-23
++ [[https://lawrencecpaulson.github.io/2023/02/22/Binary_GCD.html][Verifying the binary algorithm for greatest common divisors]]. ~ Lawrence C. Paulson (@LawrPaulson). #ITP #IsabelleHOL #Math
++ [[https://youtu.be/BY78oZYMGCk][The Lean proof assistant: introduction and challenges (IPAM at UCLA)]]. ~ Leonardo de Moura. #ITP #LeanProver
++ [[https://arxiv.org/abs/2302.10640][An elementary formal proof of the group law on Weierstrass elliptic curves in any characteristic]]. ~ David Kurniadi Angdinata, Junyan Xu. #ITP #LeanProver #Math
++ [[https://cacm.acm.org/opinion/articles/270153-with-ai-we-are-reliving-the-start-of-the-smartphone-era/fulltext][With AI, we are reliving the start of the smartphone era]]. ~ The Information. #AI
++ [[https://cacm.acm.org/careers/270150-ai-is-starting-to-pick-who-gets-laid-off/fulltext][AI is starting to pick who gets laid off]]. ~ The Washington Post. #AI
++ [[https://cacm.acm.org/opinion/articles/270147-who-is-liable-when-ai-kills/fulltext][Who is liable when AI kills?]] ~ Scientific American. #AI
+
 *** 21-Feb-23
 + [[https://people.compute.dtu.dk/ahfrom/ahfrom-thesis.pdf][Formally correct deduction methods for computational logic]]. ~ Asta Halkjær From. #Logic #ITP #IsabelleHOL
 + [[https://youtu.be/vMLVH6IEwlM][Finding counterexamples to conjectures via reinforcement learning (IPAM at UCLA)]]. ~ Adam Wagner. #AI #MachineLearning #Math
