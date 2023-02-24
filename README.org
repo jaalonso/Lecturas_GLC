@@ -45,6 +45,12 @@ its content.
 
 ** Febrero 2023
 
+*** 23-Feb-23
++ [[https://youtu.be/0ekP5M7w3dQ][Using machine learning to formulate mathematical conjectures (IPAM at UCLA)]]. ~ Marc Lackenby. #AI #MachineLearning #Math
++ [[https://youtube.com/playlist?list=PLYwF9EIrl42RFQgbmcR_LSCWRIx2WKbXs][Learning LeanProver Lean4]]. ~ Walter Schulze (@awalterschulze@fosstodon.org). #ITP #LeanProver #Lean4
++ [[https://atcm.mathandtech.org/EP2022/invited/21969.pdf][Augmented intelligence with GeoGebra and Maple involvement]]. ~ M. Pilar Vélez, Tomás Recio. #CAS #Maple #GeoGebra #Math
++ [[https://arxiv.org/abs/2301.09347][Verified reductions for optimization]]. ~ Alexander Bentkamp, Ramon Fernández Mir, Jeremy Avigad. #ITP #LeanProver #Math
+
 *** 22-Feb-23
 + [[https://lawrencecpaulson.github.io/2023/02/22/Binary_GCD.html][Verifying the binary algorithm for greatest common divisors]]. ~ Lawrence C. Paulson (@LawrPaulson). #ITP #IsabelleHOL #Math
 + [[https://youtu.be/BY78oZYMGCk][The Lean proof assistant: introduction and challenges (IPAM at UCLA)]]. ~ Leonardo de Moura. #ITP #LeanProver
