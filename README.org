@@ -45,6 +45,18 @@ its content.
 
 ** Febrero 2023
 
+*** 24-Feb-23
++ [[https://youtu.be/trEY6c7eogQ][What can the working mathematician expect from deep learning? (IPAM at UCLA)]]. ~ Geordie Williamson. #AI #DeepLearning #Math
++ [[https://arxiv.org/abs/2302.11892][Certifying higher-order polynomial interpretations]]. ~ Niels van der Weide, Deivid Vale, Cynthia Kop. #ITP #Coq
++ [[https://flaviocorpa.com/haskell-for-elm-developers-giving-names-to-stuff-part-2-applicative-functors.html][Haskell for Elm developers: giving names to stuff (Part 2: Applicative functors)]]. ~ Flavio Corpa (@FlavioCorpa). #Haskell #Elm #FunctionalProgramming
++ [[https://fpunfold.com/2023/01/30/final-tagless-readert.html][Building real-world Haskell applications using Tagless-Final and ReaderT]]. ~ Amogh Rathore. #Haskell #FunctionalProgramming
++ [[https://well-typed.com/blog/2023/02/interface-files-with-core/][Interface files with core definitions]]. ~ Matthew Pickering. #Haskell #FunctionalProgramming
++ [[https://felixspringer.xyz/homepage/blog/monadTransformerCompatibility][Monad transformer compatibility]]. Felix Springer. #Haskell #FunctionalProgramming
++ [[https://viviag.io/blog/platonic-hask-overview-monoidal-category-structure][Platonic Hask overview: representable functors and monoidal category structures]]. ~ Vitalii Guzeev. #Haskell #FunctionalProgramming #CategoryTheory
++ [[https://www.cole-k.com/2023/02/21/tiny-games-hs/][Squeezing a Sokoban game into 10 lines of code]]. ~ Cole Kurashige. #Haskell #FunctionalProgramming
++ [[https://www.universidadsi.es/chatgpt-y-universidad-obteniendo-las-respuestas-conocemos-las-preguntas/][ChatGPT y Universidad: obteniendo las respuestas, ¿conocemos las preguntas?]] ~ Andrés Pedreño. #ChatGPT #Educación
++ [[https://www.jotdown.es/2023/02/conversaciones-con-chatgpt/][Conversaciones con ChatGPT]]. ~ Lorena Pérez Hernández. #ChatGPT
+
 *** 23-Feb-23
 + [[https://youtu.be/0ekP5M7w3dQ][Using machine learning to formulate mathematical conjectures (IPAM at UCLA)]]. ~ Marc Lackenby. #AI #MachineLearning #Math
 + [[https://youtube.com/playlist?list=PLYwF9EIrl42RFQgbmcR_LSCWRIx2WKbXs][Learning LeanProver Lean4]]. ~ Walter Schulze (@awalterschulze@fosstodon.org). #ITP #LeanProver #Lean4
