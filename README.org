@@ -45,6 +45,14 @@ its content.
 
 ** Febrero 2023
 
+*** 25-Feb-23
++ [[https://youtu.be/AaE1mV27XxA][John Harrison: A personal and historical perspective of machine-assisted proof ~ (IPAM at UCLA)]].  #ITP #Math
++ [[https://www.mdpi.com/2227-7390/11/5/1079][Formal verification of a topological spatial relations model for geographic information systems in Coq]]. ~ S. Yan, W. Yu. #ITP #Coq
++ [[http://pauillac.inria.fr/~herbelin/articles/nu-types-draft23.pdf][A parametricity-based formalization of semi-simplicial and semi-cubical sets]]. ~ Hugo Herbelin, Ramkumar Ramachandra. #ITP #Coq
++ [[https://arxiv.org/abs/2302.10455v1][A deforestation of reducts: Refocusing]]. ~ Olivier Danvy. #ITP #Coq
++ [[https://gist.github.com/Hirrolot/27e6b02a051df333811a23b97c375196][How to implement dependent types in 80 lines of code]]. ~ Sima Kinsart (@hirrolot). #OCaml #FunctionalProgramming
++ [[https://blog.humphd.org/cheatgpt/][CheatGPT]]. ~ David Humphrey (@humphd). #ChatGPT #Education
+
 *** 24-Feb-23
 + [[https://youtu.be/trEY6c7eogQ][What can the working mathematician expect from deep learning? (IPAM at UCLA)]]. ~ Geordie Williamson. #AI #DeepLearning #Math
 + [[https://arxiv.org/abs/2302.11892][Certifying higher-order polynomial interpretations]]. ~ Niels van der Weide, Deivid Vale, Cynthia Kop. #ITP #Coq
