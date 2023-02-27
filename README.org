@@ -45,6 +45,17 @@ its content.
 
 ** Febrero 2023
 
+*** 26-Feb-23
++ [[https://youtu.be/wZSvuCJBaFU][Formalizing invisible mathematics (IPAM at UCLA)]]. ~ Andrej Bauer. #ITP #Math
++ [[https://byorgey.wordpress.com/2023/02/24/competitive-programming-in-haskell-infinite-2d-array-level-4/][Competitive programming in Haskell: Infinite 2D array, Level 4]]. ~ Brent Yorgey. #Haskell #FunctionalProgramming
++ [[https://medium.com/@dennisyd/what-the-creators-of-fortran-might-think-about-python-2d5bad6f0ac6][What the creators of Fortran might think about Python]]. ~ Yancy Dennis. #Programming #Fortran #Python
++ [[https://medium.com/bits-and-behavior/large-language-models-will-change-programming-a-little-81445778d957][Large language models will change programming ... a little]]. ~ Amy J. Ko. #IA #LLMs #ChatGPT #Programming #Education
++ [[https://www.theatlantic.com/technology/archive/2023/02/google-microsoft-search-engine-chatbots-unreliability/673081/ ][AI search is a disaster]]. ~ Matteo Wong. #AI #ChatGPT
++ [[https://www.wired.com/story/chatgpt-generative-ai-is-coming-for-the-lawyers/][Generative AI is coming for the lawyers (Large law firms are using a tool made by OpenAI to research and write legal documents]]. What could go wrong?). ~ Chris Stokel-Walker. #AI #ChatGPT
++ [[https://www.theguardian.com/technology/2023/feb/24/ai-artificial-intelligence-chatbots-to-deepfakes][Everything you wanted to know about AI – but were afraid to ask (From chatbots to deepfakes, here is the lowdown on the current state of artificial intelligence)]]. ~ Alex Hern, Dan Milmo. #AI
++ [[https://www.universidadsi.es/chatgpt-y-las-universidades/][ChatGPT y las universidades]]. ~ Fundación Sociedad y Educación. #IA #ChatGPT #Educación
++ [[https://fortune.com/2023/02/25/companies-replacing-workers-chatgpt-ai/][Some companies are already replacing workers with ChatGPT, despite warnings it shouldn’t be relied on for ‘anything important’]]. ~ Trey Williams. #AI #ChatGPT
+
 *** 25-Feb-23
 + [[https://youtu.be/AaE1mV27XxA][John Harrison: A personal and historical perspective of machine-assisted proof ~ (IPAM at UCLA)]].  #ITP #Math
 + [[https://www.mdpi.com/2227-7390/11/5/1079][Formal verification of a topological spatial relations model for geographic information systems in Coq]]. ~ S. Yan, W. Yu. #ITP #Coq
