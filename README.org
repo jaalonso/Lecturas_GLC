@@ -45,6 +45,11 @@ its content.
 
 ** Febrero 2023
 
+*** 27-Feb-23
++ [[https://arxiv.org/abs/2302.12433][ProofNet: Autoformalizing and formally proving undergraduate-level mathematics]]. ~ Zhangir Azerbayev, Bartosz Piotrowski, Hailey Schoelkopf, Edward W. Ayers, Dragomir Radev, Jeremy Avigad. #Autoformalization #LeanProver #Math
++ [[https://youtu.be/RhTN6g4E4eM][The Liquid Tensor Experiment (IPAM at UCLA)]]. ~ Adam Topaz. #ITP #LeanProver #Math
++ [[https://github.com/FabianVegaA/sparrow][Sparrow: A library with a collection of decorators and functions to functional programming]]. ~ Fabián Vega Alcota (@fabianmativeal). #Python #FunctionalProgramming
+
 *** 26-Feb-23
 + [[https://youtu.be/wZSvuCJBaFU][Formalizing invisible mathematics (IPAM at UCLA)]]. ~ Andrej Bauer. #ITP #Math
 + [[https://byorgey.wordpress.com/2023/02/24/competitive-programming-in-haskell-infinite-2d-array-level-4/][Competitive programming in Haskell: Infinite 2D array, Level 4]]. ~ Brent Yorgey. #Haskell #FunctionalProgramming
