@@ -45,6 +45,12 @@ its content.
 
 ** Febrero 2023
 
+*** 28-Feb-23
++ [[https://lean-forward.github.io/pubs/keizer_msc_thesis.pdf][Implementing a definitional (co)datatype package in Lean 4, based on quotients of polynomial functors]]. ~ Alex C. Keizer. #ITP #Lean4 #FunctionalProgramming
++ [[https://wiki.tfpie.science.ru.nl/images/8/8f/Disco-tfpie23.pdf][DISCO: A functional programming language for discrete mathematics]]. ~ Brent A. Yorgey. #FunctionalProgramming #DISCO #Haskell #Math
++ [[https://ecmiindmath.org/2023/02/16/automated-theorem-provers-and-their-role-in-cryptography/][Automated theorem provers and their role in cryptography]]. ~ Morten Rotvold Solberg, Kristian Gjøsteen. #ITP #ATP #Cryptography
++ [[https://youtu.be/iLv4zqscBHI][How to prove a calculation correct? (IPAM at UCLA)]]. ~ James Davenport. #CAS #Math
+
 *** 27-Feb-23
 + [[https://arxiv.org/abs/2302.12433][ProofNet: Autoformalizing and formally proving undergraduate-level mathematics]]. ~ Zhangir Azerbayev, Bartosz Piotrowski, Hailey Schoelkopf, Edward W. Ayers, Dragomir Radev, Jeremy Avigad. #Autoformalization #LeanProver #Math
 + [[https://youtu.be/RhTN6g4E4eM][The Liquid Tensor Experiment (IPAM at UCLA)]]. ~ Adam Topaz. #ITP #LeanProver #Math
