@@ -11,6 +11,7 @@ its content.
 
 * Content                                                                      :TOC:
 - [[#lecturas-del-año-2023][Lecturas del año 2023]]
+  - [[#marzo-2023][Marzo 2023]]
   - [[#febrero-2023][Febrero 2023]]
   - [[#enero-2023][Enero 2023]]
 - [[#lecturas-del-año-2022][Lecturas del año 2022]]
@@ -42,6 +43,16 @@ its content.
 - [[#lecturas-anteriores][Lecturas anteriores]]
 
 * Lecturas del año 2023
+
+** Marzo 2023
+
+*** 01-Mar-23
++ [[https://www.glc.us.es/~jalonso/vestigium/][ChatGPT como profesor de programación con Haskell]]. #ChatGPT #Haskell
++ [[https://arxiv.org/abs/2302.14699][An analysis of Tennenbaum's theorem in constructive type theory]]. ~ Marc Hermes, Dominik Kirst. #ITP #Coq #Logic #Math
++ [[https://arxiv.org/abs/2302.14622][Now it compiles! Certified automatic repair of uncompilable protocols]]. ~ Luís Cruz-Filipe, Fabrizio Montesi. #ITP #Coq
++ [[https://kmamouras.github.io/papers/monitoring-RV'20-extended.pdf][Verified online monitoring for metric temporal logic with lattice-based quantitative semantics]]. ~ Agnishom Chattopadhyay, Konstantinos Mamouras. #ITP #Coq #OCaml #FunctionalProgramming
++ [[https://youtu.be/GOE9CpqXOHw][SMT: quantifiers, and future prospects (IPAM at UCLA)]]. ~ Pascal Fontaine. #SMT
++ [[https://bit.ly/3ZawNoC][Avances en la conjetura diabólica]]. ~ Juan Arias de Reyna. #Matemáticas
 
 ** Febrero 2023
 
