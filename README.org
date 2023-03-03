@@ -46,6 +46,15 @@ its content.
 
 ** Marzo 2023
 
+*** 02-Mar-23
++ [[https://www.glc.us.es/~jalonso/vestigium/02-mar-23/][ChatGPT como profesor de historia de las matemáticas]]. #ChatGPT #Matemáticas
++ [[https://arxiv.org/abs/2302.14491][Formalization of p-adic L-functions in Lean 3]]. ~ Ashvni Narayanan. #ITP #Lean #Math
++ [[https://www.isa-afp.org/entries/Edwards_Elliptic_Curves_Group.html][Group law of Edwards elliptic curves (in Isabelle/HOL)]]. ~ Rodrigo Raya. #ITP #IsabelleHOL #Math
++ [[https://www.isa-afp.org/entries/Rensets.html][Renaming-enriched sets (rensets) and renaming-based recursion (in Isabelle/HOL)]]. ~ Andrei Popescu. #ITP #IsabelleHOL
++ [[https://youtu.be/P5ew0BrRm_I][Deep learning in interactive theorem proving (IPAM at UCLA)]]. ~ Jason Rute. #DeepLearning #ITP #Math
++ [[https://www.nbcnews.com/tech/tech-news/chatgpt-ai-consciousness-rcna71777][What is consciousness? ChatGPT and advanced AI might redefine our answer]]. ~ Kevin Collier. #AI #ChatGPT
++ [[https://mathvalues.squarespace.com/masterblog/might-may-not-make-right-but-it-often-wins][Might may not always make right; but it often wins]]. ~ Keith Devlin (@profkeithdevlin). #AI #NLP #ChatGPT #Math
+
 *** 01-Mar-23
 + [[https://www.glc.us.es/~jalonso/vestigium/][ChatGPT como profesor de programación con Haskell]]. #ChatGPT #Haskell
 + [[https://arxiv.org/abs/2302.14699][An analysis of Tennenbaum's theorem in constructive type theory]]. ~ Marc Hermes, Dominik Kirst. #ITP #Coq #Logic #Math
