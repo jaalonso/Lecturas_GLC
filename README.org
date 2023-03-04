@@ -46,6 +46,13 @@ its content.
 
 ** Marzo 2023
 
+*** 03-Mar-23
++ [[https://www.glc.us.es/~jalonso/vestigium/03-mar-23][Prácticas sobre tipos algebraicos de datos en Haskell con ChatGPT]]. #Haskell #ChatGPT
++ [[https://prophetlabs.de/posts/insttypes.html][Fast map union and local instances through instance types]]. ~ Finn Schneider (@Innf107). #Haskell #FunctionalProgramming
++ [[https://tristancacqueray.github.io/blog/tiny-game-engine][Implementing tiny game engines]]. ~ Tristan de Cacqueray. #Haskell #FunctionalProgramming
++ [[http://miaozc.me/2023-02-27-hs-tiny-games.html][My Haskell tiny game Jam submissions: Othello & Lol]]. ~ Miao ZhiCheng. #Haskell #FunctionalProgramming
++ [[https://arxiv.org/abs/2302.13817][Let's have a chat! A conversation with ChatGPT: Technology, applications, and limitations]]. ~ Sakib Shahriar, Kadhim Hayawi. #ChatGPT
+
 *** 02-Mar-23
 + [[https://www.glc.us.es/~jalonso/vestigium/02-mar-23/][ChatGPT como profesor de historia de las matemáticas]]. #ChatGPT #Matemáticas
 + [[https://arxiv.org/abs/2302.14491][Formalization of p-adic L-functions in Lean 3]]. ~ Ashvni Narayanan. #ITP #Lean #Math
