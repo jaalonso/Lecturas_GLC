@@ -46,6 +46,12 @@ its content.
 
 ** Marzo 2023
 
+*** 04-Mar-23
++ [[https://people.cs.umass.edu/~brun/pubs/pubs/Agrawal23icse-demo.pdf][PRoofster: Automated formal verification]]. ~ Arpan Agrawal et als. #ITP #Coq
++ [[https://rachel.cafe/2022/12/15/haskell-and-logic.html][Haskell and logic]]. ~ Rachel Samuelsson (@rachelrosen@types.pl). #Haskell #FunctionalProgramming #Logic #Math
++ [[https://www.cs.nott.ac.uk/~pszgmh/choice-trees.pdf][Calculating compilers for concurrency]]. ~ Patrick Bahr, Graham Hutton. #ITP #Haskell #FunctionalProgramming
++ [[https://www.technologyreview.com/2023/03/03/1069311/inside-story-oral-history-how-chatgpt-built-openai/][The inside story of how ChatGPT was built from the people who made it (Exclusive conversations that take us behind the scenes of a cultural phenomenon)]]. ~ Will Douglas Heaven. #AI #ChatGPT
+
 *** 03-Mar-23
 + [[https://www.glc.us.es/~jalonso/vestigium/03-mar-23][Prácticas sobre tipos algebraicos de datos en Haskell con ChatGPT]]. #Haskell #ChatGPT
 + [[https://prophetlabs.de/posts/insttypes.html][Fast map union and local instances through instance types]]. ~ Finn Schneider (@Innf107). #Haskell #FunctionalProgramming
