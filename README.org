@@ -46,6 +46,11 @@ its content.
 
 ** Marzo 2023
 
+*** 06-Mar-23
++ [[http://blog.sigfpe.com/2023/03/constructing-clifford-algebras-using.html][Constructing Clifford algebras using the super tensor product]]. ~ Dan Piponi (@sigfpe). #Haskell #FunctionalProgramming #Math
++ [[https://flaviocorpa.com/haskell-for-elm-developers-giving-names-to-stuff-part-3-monads.html][Haskell for Elm developers: giving names to stuff (Part 3: Monads!)]]. ~ Flavio Corpa (@FlavioCorpa). #Haskell #Elm #FunctionalProgramming
++ [[https://www.eldiario.es/tecnologia/erik-larson-avances-actuales-no-acercan-inteligencia-artificial-similar-humana_128_10001811.html][Entrevista sobre IA con Erik Larson, autor del libro "El mito de la Inteligencia Artificial (Por qué las máquinas no pueden pensar como nosotros lo hacemos)"]]. #IA
+
 *** 05-Mar-23
 + [[https://rachel.cafe/2022/12/10/why-be-pure.html][Why be pure?]] ~ Rachel Samuelsson (@rachelrosen@types.pl). #Haskell #FunctionalProgramming
 + [[https://mihai.page/evolving-is-digit/][Implementing isDigit using genetic algorithms]]. ~ Mihai Maruseac (@mihaimaruseac). #Haskell #FunctionalProgramming
