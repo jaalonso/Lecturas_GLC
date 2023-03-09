@@ -46,6 +46,12 @@ its content.
 
 ** Marzo 2023
 
+*** 08-Mar-23
++ [[https://lemonidas.github.io/pdf/MergingInductiveRelations.pdf][Merging inductive relations]]. ~ Jacob Prinz, Leonidas Lampropoulos. #ITP #Coq
++ [[http://www.lix.polytechnique.fr/Labo/Pablo.DONATO/abstracts/coqpl23.pdf][Integrating graphical proofs in Coq]]. ~ Pablo Donato, Benjamin Werner,  Kaustuv Chaudhuri. #ITP #Coq
++ [[https://drops.dagstuhl.de/opus/volltexte/2022/16734/pdf/LIPIcs-ITP-2022-25.pdf][Proof pearl: Formalizing spreads and packings of the smallest projective space PG(3,2) using the Coq proof assistant]]. ~ Nicolas Magaud. #ITP #Coq #Math
++ [[https://eli.thegreenplace.net/2023/building-abstractions-using-higher-order-functions/][Building abstractions using higher-order functions]]. ~ Eli Bendersky (@elibendersky). #Clojure #FunctionalProgramming
+
 *** 07-Mar-23
 + [[https://hal.inria.fr/hal-04008820/document][Design patterns of hierarchies for order structures]]. ~ Xavier Allamigeon, Quentin Canu, Cyril Cohen, Kazuhiko Sakaguchi, Pierre-Yves Strub. #ITP #Coq #Math
 + [[https://gupea.ub.gu.se/bitstream/handle/2077/75394/CSE%2022-15%20Grupp%2022-21.pdf][A language for board games (Development of an embedded domain-specific language for describing board games)]]. ~ Edvin Alestig et als. #Haskell #FunctionalProgramming
