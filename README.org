@@ -46,6 +46,12 @@ its content.
 
 ** Marzo 2023
 
+*** 10-Mar-23
++ [[https://lawrencecpaulson.github.io//2023/03/08/Fun_Semantics.html][The semantics of a simple functional language]]. ~ Lawrence C. Paulson (@LawrPaulson). #ITP #IsabelleHOL
++ [[https://hal.inria.fr/hal-03889276v2/file/article.pdf][A Coq formalization of Lebesgue induction principle and Tonelli’s theorem]]. ~ Sylvie Boldo, François Clément, Vincent Martin, Micaela Mayero & Houda Mouhcine. #ITP #Coq #Math
++ [[http://adam.chlipala.net/theses/bthom.pdf][Specification and verification of sequential machines in rule-based hardware languages]]. ~ Thomas Bourgeat. #ITP #Coq
++ [[https://arxiv.org/abs/2206.02169][Formally verified solution methods for infinite-horizon Markov decision processes]]. ~ Maximilian Schäfeller & Mohammad Abdulaziz. #ITP #IsabelleHOL #Math
+
 *** 09-Mar-23
 + [[https://www.isa-afp.org/entries/Probability_Inequality_Completeness.html][A sound and complete calculus for probability inequalities (in Isabelle/HOL)]]. ~ Matthew Doty. #ITP #IsabelleHOL
 + [[https://serokell.io/blog/haskell-in-enterprise-interview-with-rob-harrison][Haskell in enterprise: Interview with Rob Harrison]]. ~ Gints Dreimanis. #Haskell #FunctionalProgramming
