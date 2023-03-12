@@ -46,6 +46,12 @@ its content.
 
 ** Marzo 2023
 
+*** 11-Mar-23
++ [[https://arxiv.org/abs/2010.14648][Formally verified SAT-based AI planning]]. ~ Mohammad Abdulaziz & Friedrich Kurz. #ITP #IsabelleHOL #AI
++ [[https://cgi.cse.unsw.edu.au/~eptcs/paper.cgi?Thedu22.2.pdf][Computer assisted proofs and automated methods in mathematics education]]. ~ Thierry Noah Dana-Picard. #CAS #DGS #ADG #Math
++ [[https://cgi.cse.unsw.edu.au/~eptcs/paper.cgi?Thedu22.3.pdf][A rule based theorem prover: an introduction to proofs in secondary schools]]. ~ Joana Teles, Vanda Santos & Pedro Quaresma. #ATP #Geometry
++ [[https://arxiv.org/abs/2303.04226][A comprehensive survey of AI-Generated Content (AIGC): A history of generative AI from GAN to ChatGPT]]. ~ Yihan Cao, Siyu Li, Yixin Liu, Zhiling Yan, Yutong Dai, Philip S. Yu & Lichao Sun. #GenerativeAI
+
 *** 10-Mar-23
 + [[https://lawrencecpaulson.github.io//2023/03/08/Fun_Semantics.html][The semantics of a simple functional language]]. ~ Lawrence C. Paulson (@LawrPaulson). #ITP #IsabelleHOL
 + [[https://hal.inria.fr/hal-03889276v2/file/article.pdf][A Coq formalization of Lebesgue induction principle and Tonelli’s theorem]]. ~ Sylvie Boldo, François Clément, Vincent Martin, Micaela Mayero & Houda Mouhcine. #ITP #Coq #Math
