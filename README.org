@@ -46,6 +46,12 @@ its content.
 
 ** Marzo 2023
 
+*** 12-Mar-23
++ [[https://cgi.cse.unsw.edu.au/~eptcs/paper.cgi?Thedu22.4.pdf][ANITA: Analytic Tableau Proof Assistant]]. ~ Davi Romero Vasconcelos. #ATP #Logic
++ [[https://cgi.cse.unsw.edu.au/~eptcs/paper.cgi?Thedu22.5.pdf][A proof tree builder for sequent calculus and Hoare logic]]. ~ Joomy Korkut. #ATP #Logic
++ [[https://cgi.cse.unsw.edu.au/~eptcs/paper.cgi?Thedu22.6.pdf][On exams with the Isabelle proof assistant]]. ~ Frederik Krogsdal Jacobsen & Jørgen Villadsen. #ITP #IsabelleHOL
++ [[https://cgi.cse.unsw.edu.au/~eptcs/paper.cgi?Thedu22.7.pdf][Automated grading of automata with ACL2s]]. ~ Ankit Kumar, Andrew Walter & Panagiotis Manolios. #ITP #ACL2s
+
 *** 11-Mar-23
 + [[https://arxiv.org/abs/2010.14648][Formally verified SAT-based AI planning]]. ~ Mohammad Abdulaziz & Friedrich Kurz. #ITP #IsabelleHOL #AI
 + [[https://cgi.cse.unsw.edu.au/~eptcs/paper.cgi?Thedu22.2.pdf][Computer assisted proofs and automated methods in mathematics education]]. ~ Thierry Noah Dana-Picard. #CAS #DGS #ADG #Math
