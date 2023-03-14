@@ -46,6 +46,14 @@ its content.
 
 ** Marzo 2023
 
+*** 13-Mar-23
++ [[https://publikationen.sulb.uni-saarland.de/bitstream/20.500.11880/35364/1/thesis_final_screen.pdf][Mechanised metamathematics (An investigation of first-order logic and set theory in constructive type theory)]]. ~ Dominik Kirst. #PhDThesis #ITP #Coq #Logic #Math
++ [[https://cgi.cse.unsw.edu.au/~eptcs/paper.cgi?Thedu22.8.pdf][Towards an accessible mathematics working environment based on Isabelle/VSCode]]. ~ Klaus Miesenberger, Walther Neuper, Bernhard Stöger & Makarius Wenzel. #ITP #IsabelleHOL
++ [[https://arxiv.org/abs/2303.05398][MathPrompter: Mathematical reasoning using large language models]]. ~ Shima Imani, Liang Du & Harsh Shrivastava. #LLMs #Math
++ [[https://medium.com/@vaishakbelle/everything-beyond-propositional-logic-can-get-weird-very-quickly-fc2949e2279c][Everything beyond propositional logic can get weird very quickly]]. ~ Vaishak Belle (@vaishakbelle). #Logic
++ [[https://youtu.be/sljhOprhQNg][Computer Science, Logic, Artificial Intelligence]]. ~ Moshe Vardi (@vardi@fediscience.org). #CompSci #Logic #AI
++ [[https://youtu.be/alIfKNQfvAU ][¿Cuánto sabe ChatGPT sobre Matemáticas?]] #ChatGPT #Matemáticas
+
 *** 12-Mar-23
 + [[https://cgi.cse.unsw.edu.au/~eptcs/paper.cgi?Thedu22.4.pdf][ANITA: Analytic Tableau Proof Assistant]]. ~ Davi Romero Vasconcelos. #ATP #Logic
 + [[https://cgi.cse.unsw.edu.au/~eptcs/paper.cgi?Thedu22.5.pdf][A proof tree builder for sequent calculus and Hoare logic]]. ~ Joomy Korkut. #ATP #Logic
