@@ -46,6 +46,13 @@ its content.
 
 ** Marzo 2023
 
+*** 14-Mar-23
++ [[https://arxiv.org/pdf/2303.05244.pdf][Transport via partial Galois connections and equivalences]]. ~ Kevin Kappelmann. #ITP #IsabelleHOL
++ [[https://arxiv.org/abs/2303.03972][Certified compilation of choreographies with hacc]]. ~ Luís Cruz-Filipe, Lovro Lugović & Fabrizio Montesi. #ITP #Coq
++ [[https://medium.com/techtofreedom/3-built-in-infinite-iterators-in-python-f260fd0eec2c][3 Built-in infinite iterators in Python (and how to use them properly)]]. ~ Yang Zhou. #Python
++ [[https://www.havelund.com/Publications/fm-50-2022.pdf][A half century of formal methods]]. ~ Dines Bjørner & Klaus Havelund. #FormalMethods
++ [[https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4358789][AI as agency without intelligence: On ChatGPT, large language models, and other generative models]]. ~ Luciano Floridi. #AI #LLMs #ChatGPT
+
 *** 13-Mar-23
 + [[https://publikationen.sulb.uni-saarland.de/bitstream/20.500.11880/35364/1/thesis_final_screen.pdf][Mechanised metamathematics (An investigation of first-order logic and set theory in constructive type theory)]]. ~ Dominik Kirst. #PhDThesis #ITP #Coq #Logic #Math
 + [[https://cgi.cse.unsw.edu.au/~eptcs/paper.cgi?Thedu22.8.pdf][Towards an accessible mathematics working environment based on Isabelle/VSCode]]. ~ Klaus Miesenberger, Walther Neuper, Bernhard Stöger & Makarius Wenzel. #ITP #IsabelleHOL
