@@ -46,6 +46,10 @@ its content.
 
 ** Marzo 2023
 
+*** 15-Mar-23
++ [[https://arxiv.org/abs/2303.04488][Magnushammer: A transformer-based approach to premise selection]]. ~ Maciej Mikuła, Szymon Antoniak, Szymon Tworkowski, Albert Qiaochu Jiang, Jin Peng Zhou, Christian Szegedy, Łukasz Kuciński, Piotr Miłoś, Yuhuai Wu. #MachineLearning #ITP #IsabelleHOL
++ [[https://arxiv.org/abs/2303.07735][Can neural networks do arithmetic? A survey on the elementary numerical skills of state-of-the-art deep learning models]]. ~ Alberto Testolin. #AI #NeuralNetwork #Math
+
 *** 14-Mar-23
 + [[https://arxiv.org/pdf/2303.05244.pdf][Transport via partial Galois connections and equivalences]]. ~ Kevin Kappelmann. #ITP #IsabelleHOL
 + [[https://arxiv.org/abs/2303.03972][Certified compilation of choreographies with hacc]]. ~ Luís Cruz-Filipe, Lovro Lugović & Fabrizio Montesi. #ITP #Coq
