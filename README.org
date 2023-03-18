@@ -46,6 +46,14 @@ its content.
 
 ** Marzo 2023
 
+*** 17-Mar-23
++ [[https://franziskuswiesnet.github.io/pdf/wiesnet2021computational.pdf][The computational content of abstract algebra and analysis]]. ~ Franziskus Wolfgang Josef Wiesnet. #PhDThesis #Math #CompSci
++ [[https://typeclasses.substack.com/p/the-friendship-between-haskell-and][The friendship between Haskell and C]]. ~ Chris Martin (@chris__martin). #Haskel #FunctionalProgramming
++ [[https://recursion.ninja/blog/perm-parser][Parsing permutations (Trees, temporality, and termination)]]. ~ Alex Washburn. #Haskell #FunctionalProgramming
++ [[https://arxiv.org/abs/2301.01690][Proofs as stateful programs: A first-order logic with abstract Hoare triples, and an interpretation into an imperative language]]. ~ Thomas Powell (@thomaspowell@mathstodon.xyz ). #Logic #Math #CompSci
++ [[https://oneusefulthing.substack.com/p/how-to-use-chatgpt-to-boost-your][How to ... use ChatGPT to boost your writing (The key to using generative AI successfully is prompt-crafting)]]. ~ Ethan Mollick. #ChatGPT
++ [[https://www.zdnet.com/article/this-professor-asked-his-students-to-use-chatgpt-the-results-were-surprising/][This professor asked his students to use ChatGPT. The results were surprising]]. ~ Sabrina Ortiz. #ChatGPT #Education
+
 *** 16-Mar-23
 + [[https://nekoka-project.github.io/pubs/given.pdf][Verified given clause procedures]]. ~ Jasmin Blanchette, Qi Qiu & Sophie Tourret. #ITP #IsabelleHOL
 + [[https://cacm.acm.org/blogs/blog-cacm/270970-gpt-4s-successes-and-gpt-4s-failures/fulltext][GPT-4's successes, and GPT-4's failures]]. ~ Gary Marcus. #AI #GPT4 #ChatGPT
