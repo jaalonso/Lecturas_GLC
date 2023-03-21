@@ -46,6 +46,12 @@ its content.
 
 ** Marzo 2023
 
+*** 20-Mar-23
++ [[https://www.youtube.com/live/4QXWyadT03I?feature=share&t=722][¿Por qué formalizar matemáticas?]] ~ María Inés de Frutos. #ITP #LeanProver #IsabelleHOL #Math
++ [[https://arxiv.org/abs/2303.1016][Computer assisted proofs and automated methods in mathematics education]]. ~ Thierry Noah Dana-Picard.6# #Math #Education #CAS #DGS #ADG #GeoGebra
++ [[https://kristofferbalintona.me/posts/202202211546/][Vertico, Marginalia, All-the-icons-completion, and Orderless]]. ~ Kristoffer Balintona. #Emacs
++ [[https://arxiv.org/abs/2303.10130][GPTs are GPTs: An early look at the labor market impact potential of Large Language Models]]. ~ Tyna Eloundou, Sam Manning, Pamela Mishkin, Daniel Rock. #AI #LLMs #GPTs
+
 *** 19-Mar-23
 + [[https://personal.utdallas.edu/~gupta/prolog-next-50-years.pdf][Prolog: The next 50 years]]. ~ Gopal Gupta et als. #Prolog #LogicProgramming
 + [[https://typeclasses.substack.com/p/memfd-an-example-of-haskell-and-c][memfd: An example of Haskell and C]]. ~ Chris Martin (@chris__martin). #Haskell #FunctionalProgramming
