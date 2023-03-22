@@ -46,6 +46,12 @@ its content.
 
 ** Marzo 2023
 
+*** 21-Mar-23
++ [[https://lean-forward.github.io/pubs/vuur_msc_thesis.pdf][A deep embedding of μCRL in Lean]]. ~ Wolf bij 't Vuur. #ITP #LeanProver
++ [[https://arxiv.org/abs/2303.08894][A formalization of operads in Coq]]. ~ Zachary Flores, Angelo Taranto, Eric Bond, Yakir Forman. #ITP #Coq
++ [[https://github.com/karthink/gptel][GPTel: A simple ChatGPT client for Emacs]]. ~ Karthik. #Emacs #ChatGPT
++ [[https://github.com/rksm/org-a][org-ai: Emacs org-mode integration for the OpenAI API]]. ~ Robert Krahn.i#chatgpt-in-org-mode #Emacs #ChatGPT #DALL_E
+
 *** 20-Mar-23
 + [[https://www.youtube.com/live/4QXWyadT03I?feature=share&t=722][¿Por qué formalizar matemáticas?]] ~ María Inés de Frutos. #ITP #LeanProver #IsabelleHOL #Math
 + [[https://arxiv.org/abs/2303.1016][Computer assisted proofs and automated methods in mathematics education]]. ~ Thierry Noah Dana-Picard.6# #Math #Education #CAS #DGS #ADG #GeoGebra
