@@ -46,6 +46,13 @@ its content.
 
 ** Marzo 2023
 
+*** 22-Mar-23
++ [[https://djvelleman.github.io/HTPIwL/][How to prove it with Lean]]. ~ Daniel J. Velleman. #eBook #ITP #LeanProver
++ [[https://hal.science/hal-04031193/document][Certified logic-based explainable AI (The case of monotonic classifiers)]]. ~ Aurélie Hurault & Joao Marques-Silva. #ITP #Coq #XAI
++ [[https://staff.aist.go.jp/reynald.affeldt/documents/measure-ppl2023.pdf][A progress report on formalization of measure theory with MathComp-analysis]]. ~ Yoshihiro Ishiguro & Reynald Affeldt. #ITP #Coq #Math
++ [[https://i.cs.hku.hk/~bruno/papers/esop23.pdf][Pragmatic gradual polymorphism with references]]. ~ Wenjia Ye & Bruno C. d. S. Oliveira. #ITP #Coq
++ [[https://www.oreilly.com/library/view/introduction-to-dependent/9781484292594/][Introduction to dependent types with Idris (Encoding program proofs in types)]]. ~ Boro Sitnikovski. #Idris #FunctionalProgramming
+
 *** 21-Mar-23
 + [[https://lean-forward.github.io/pubs/vuur_msc_thesis.pdf][A deep embedding of μCRL in Lean]]. ~ Wolf bij 't Vuur. #ITP #LeanProver
 + [[https://arxiv.org/abs/2303.08894][A formalization of operads in Coq]]. ~ Zachary Flores, Angelo Taranto, Eric Bond, Yakir Forman. #ITP #Coq
