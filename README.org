@@ -46,6 +46,23 @@ its content.
 
 ** Marzo 2023
 
+*** 24-Mar-23
++ [[https://hacklewayne.com/state-monad-a-bit-of-currying-goes-a-long-way][State Monad: a bit of currying goes a long way]]. ~ Hackle Wayne (@hacklew). #Haskell #FunctionalProgramming
++ [[https://dev.to/zelenya/debunking-haskell-myths-and-stereotypes-1e04][Debunking Haskell myths and stereotypes]]. ~ Zelenya (@impurepics). #Haskell #FunctionalProgramming
++ [[https://freefrancisco.substack.com/p/getting-started-with-haskell-and][Getting started with Haskell and Nix]]. ~ Francisco. #Haskell #Nix #FunctionalProgramming
++ [[https://serokell.io/blog/rust-for-haskellers][Rust for Haskell developers]]. ~ Jay Zelenskyi. #Rust #Haskell
+
+*** 25-Mar-23
++ [[https://www.tweag.io/blog/2023-03-23-linear-constraints-linearly/][Linear constraints: the problem with scopes]]. ~ Arnaud Spiwack. #Haskell #FunctionalProgramming
++ [[https://matryoshka-project.github.io/pubs/mechanical.pdf][Mechanical mathematicians (A new generation of automatic theorem provers eliminate bugs in software and mathematics)]]. ~ Alexander Bentkamp, Jasmin Blanchette, Visa Nummelin, Sophie Tourret, Petar Vukmirović, Uwe Waldmann. #ATP #ITP #Math
++ [[https://arxiv.org/abs/2303.13258][A formal proof of the strong normalization theorem for system T in Agda]]. ~ Sebastián Urciuoli. #ITP #Agda
+
+*** 27-Mar-23
++ [[https://www.isa-afp.org/entries/No_FTL_observers_Gen_Rel.html][No faster-than-light observers (GenRel)]]. ~ Mike Stannett, Edward Higgins, Hajnal Andreka, Judit Madarasz, István Németi &  Szekely. #ITP #IsabelleHOL
++ [[https://youtube.com/playlist?list=PLre5AT9JnKShFK9l9HYzkZugkJSsXioFs][Software foundations in Coq]]. ~ Michael Ryan Clarkson. #ITP #Coq
++ [[https://www.theguardian.com/technology/2023/mar/26/artificial-intelligence-meredith-broussard-more-than-a-glitch-racism-sexism-ableism][AI expert Meredith Broussard: ‘Racism, sexism and ableism are systemic problems’ (The journalist and academic says that the bias encoded in artificial intelligence systems can’t be fixed with better data alone – the change has to be societal)]]. #AI
++ [[https://www.microsiervos.com/archivo/ia/ai-transcriptions-voz-a-texto-gratis-castellano-catalan-gallego.html][AI Transcriptions, un software de transcripciones de voz-a-texto que funciona bastante bien, es gratis y admite castellano, catalán y gallego]]. ~ @Alvy. #AI
+
 *** 23-Mar-23
 + [[https://lawrencecpaulson.github.io//2023/03/22/Binomial_Coeffs.html][Small examples involving binomial coefficients]]. ~ Lawrence C. Paulson (@LawrPaulson). #ITP #IsabelleHOL #Math
 + [[https://epicandmonicisnotiso.blogspot.com/2023/03/an-apologia-of-lazy-evaluation.html][An apologia for lazy evaluation]]. ~ Ruben Astudillo. #Haskell #FunctionalProgramming
