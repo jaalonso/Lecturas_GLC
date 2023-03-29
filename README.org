@@ -46,6 +46,12 @@ its content.
 
 ** Marzo 2023
 
+*** 28-Mar-23
++ [[https://arxiv.org/abs/2303.11445][Infinite words and morphic languages formalized in Isabelle/HOL]]. ~ Štěpán Starosta. #ITP #IsabelleHOL
++ [[https://arxiv.org/abs/2303.12404][Formalizing the proof of an intermediate-level algebra theorem — An experiment]]. ~ Antoine Chambert-Loir. #ITP #LeanProver #Math
++ [[https://static.miraheze.org/isacwiki/d/d0/IICHP-Paper.pdf][Designing an inclusive and accessible mathematical learning environment based on a theorem prover]]. ~ Bernhard Stöger, Klaus Miesenberger, Walther Neuper, Makarius Wenzel, and Thomas Neumayr. #ITP #IsabelleHOL #Education #Math
++ [[https://writings.stephenwolfram.com/2023/03/chatgpt-gets-its-wolfram-superpowers/][ChatGPT gets its “Wolfram superpowers”!]] ~ Stephen Wolfram. #ChatGPT #Mathematica
+
 *** 24-Mar-23
 + [[https://hacklewayne.com/state-monad-a-bit-of-currying-goes-a-long-way][State Monad: a bit of currying goes a long way]]. ~ Hackle Wayne (@hacklew). #Haskell #FunctionalProgramming
 + [[https://dev.to/zelenya/debunking-haskell-myths-and-stereotypes-1e04][Debunking Haskell myths and stereotypes]]. ~ Zelenya (@impurepics). #Haskell #FunctionalProgramming
