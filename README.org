@@ -46,6 +46,16 @@ its content.
 
 ** Marzo 2023
 
+*** 29-Mar-23
++ [[https://arxiv.org/abs/2105.00885][Generating extended resolution proofs with a BDD-based SAT solver]]. ~ Randal E. Bryant, Marijn J. H. Heule. #Logic #ATP #SAT_Solver
++ [[https://building.nubank.com.br/functional-programming-with-clojure/][Functional programming with Clojure: why and how does Nubank use it and scale so well? ~ Heloisa Carbone]]. #Clojure #FunctionalProgramming
++ [[https://arxiv.org/abs/2301.02125][Defining logical systems via algebraic constraints on proofs]]. ~ Alexander V. Gheorghiu, and David J. Pym. #Logic #CompSci
++ [[https://cacm.acm.org/blogs/blog-cacm/271354-the-sparks-of-agi-or-the-end-of-science/fulltext][The sparks of AGI? Or the end of science? ~ Gary Marcus]]. #AI #AGI #GPT #ChatGPT
++ [[https://www.elconfidencial.com/tecnologia/novaceno/2023-03-29/inteligencia-artificial-chatgpt-regulacion-expertos_3601529/][Hasta aquí hemos llegado: los expertos exigen limitar el desarrollo de las IA como ChatGPT]]. ~ Omar Kardoudi. #IA #ChatGPT
++ [[https://www.elconfidencial.com/tecnologia/novaceno/2023-03-28/ia-empleo-paro-chatgpt4_3601538/][Los 30 minutos que demuestran cómo la IA eliminará millones de empleos en marketing y programación]]. ~ Jesús Díaz. #IA
++ [[https://elpais.com/tecnologia/2023-03-28/un-grupo-de-expertos-en-inteligencia-artificial-rompe-con-el-gobierno-por-discrepancias-eticas.html][Un grupo de expertos en inteligencia artificial rompe con el Gobierno por discrepancias éticas]]. #IA
++ [[https://elpais.com/tecnologia/2023-03-28/una-decision-que-ignora-los-principios-eticos-en-inteligencia-artificial.html][Una decisión que ignora los principios éticos en inteligencia artificial]]. ~  Ricardo Baeza-Yates, Lorena Jaume-Palasí, Ramon López de Mántaras y Carmela Troncoso. #IA
+
 *** 28-Mar-23
 + [[https://arxiv.org/abs/2303.11445][Infinite words and morphic languages formalized in Isabelle/HOL]]. ~ Štěpán Starosta. #ITP #IsabelleHOL
 + [[https://arxiv.org/abs/2303.12404][Formalizing the proof of an intermediate-level algebra theorem — An experiment]]. ~ Antoine Chambert-Loir. #ITP #LeanProver #Math
