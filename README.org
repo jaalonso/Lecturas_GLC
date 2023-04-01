@@ -46,6 +46,20 @@ its content.
 
 ** Marzo 2023
 
+*** 31-Mar-23
++ [[https://arxiv.org/abs/2210.12283][Draft, sketch, and prove: Guiding formal theorem provers with informal proofs]]. ~ Albert Q. Jiang, Sean Welleck, Jin Peng Zhou, Wenda Li, Jiacheng Liu, Mateja Jamnik, Timothée Lacroix, Yuhuai Wu, Guillaume Lample. #MachineLearning #ITP #IsabelleHOL #Math
++ [[https://arxiv.org/abs/2303.04910][Baldur: Whole-proof generation and repair with large language models]]. ~ Emily First, Markus N. Rabe, Talia Ringer, Yuriy Brun. #LLMs #ITP #IsabelleHOL
++ [[https://arxiv.org/abs/2303.12712][Sparks of Artificial General Intelligence: Early experiments with GPT-4]]. ~ Sébastien Bubeck et als. #GPT #AGI
++ [[https://spectrum.ieee.org/functional-programming-biggest-change][Functional programming: The biggest change since we killed the goto? (Panoramic software's Charles Scalfani on the benefits we could reap from changing how we write software)]]. #FunctionalProgramming
+
+*** 30-Mar-23
++ [[https://raw.githubusercontent.com/madvorak/lean4-cheatsheet/main/lean-tactics.pdf][Lean 4 Cheatsheet]]. ~ Martin Dvořák. #ITP #Lean4
++ [[https://hrmacbeth.github.io/math2001/index.html][The mechanics of proof]]. ~ Heather Macbeth. #ITP #LeanProver #Math
++ [[https://www.researchgate.net/profile/Jean-baptiste_Lagrange3/publication/369489580_Designing_digital_environments_for_mathematics_education_the_contribution_of_artificial_intelligence_techniques/links/641dbbeb92cfd54f84289d4b/Designing-digital-environments-for-mathematics-education-the-contribution-of-artificial-intelligence-techniques.pdf][Designing digital environments for mathematics education: the contribution of artificial intelligence techniques]]. ~ Jean-Baptiste Lagrange, Philippe R. Richard, María Pilar Vélez Melón, Steven Van Vaerenbergh. #Math #Education #AI
++ [[https://colab.research.google.com/drive/1_GvC-ybwD3SiSO4KplVj0WlirtoY0fy0?usp=sharing][Linguagens formais e autômatos: Conceitos fundamentais]]. ~ Wladimir Araújo Tavares (@wladimir_araujo). #CompSci #Python
++ [[https://arxiv.org/abs/2212.0956][Large Language Models are reasoners with self-verification]]. ~ Yixuan Weng, Minjun Zhu, Fei Xia, Bin Li, Shizhu He, Kang Liu, Jun Zhao.1# #AI #LLMs
++ [[https://www.preprints.org/manuscript/202303.0473/v1][ChatGPT for education and research: Opportunities, threats, and strategies]]. ~ Md. Mostafizer Rahman, and Yutaka Watanobe. #ChatGPT #Education
+
 *** 29-Mar-23
 + [[https://arxiv.org/abs/2105.00885][Generating extended resolution proofs with a BDD-based SAT solver]]. ~ Randal E. Bryant, Marijn J. H. Heule. #Logic #ATP #SAT_Solver
 + [[https://building.nubank.com.br/functional-programming-with-clojure/][Functional programming with Clojure: why and how does Nubank use it and scale so well? ~ Heloisa Carbone]]. #Clojure #FunctionalProgramming
