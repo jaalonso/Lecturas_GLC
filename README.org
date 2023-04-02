@@ -11,6 +11,7 @@ its content.
 
 * Content                                                                      :TOC:
 - [[#lecturas-del-año-2023][Lecturas del año 2023]]
+  - [[#abril-2023][Abril 2023]]
   - [[#marzo-2023][Marzo 2023]]
   - [[#febrero-2023][Febrero 2023]]
   - [[#enero-2023][Enero 2023]]
@@ -43,6 +44,17 @@ its content.
 - [[#lecturas-anteriores][Lecturas anteriores]]
 
 * Lecturas del año 2023
+
+** Abril 2023
+
+*** 01-Abr-23
++ [[https://www.lms.ac.uk/sites/default/files/inline-files/Will%20computers%20prove%20theorems.pdf][Will computers prove theorems?]] ~ Kevin Buzzard. #ITP #LeanProver #Math #ChatGPT
++ [[https://www.snoyman.com/blog/2023/04/opposite-of-partial-functions/][The opposite of partial functions]]. ~ Michael Snoyman (@snoyberg). #Haskell #FunctionalProgramming
++ [[https://www.listendata.com/2023/03/open-source-chatgpt-models-step-by-step.html][Open source ChatGPT models: A step-by-step guide]]. ~ Deepanshu Bhalla. #ChatGPT #Python
++ [[https://testdriven.io/blog/python-openai-chatgpt/][Building an intelligent education platform with OpenAI, ChatGPT, and Django]]. ~ Amir Tadrisi (@amirtds). #ChatGPT #Education
++ [[https://www.theguardian.com/commentisfree/2023/apr/01/chatgpt-write-code-computer-programmer-software][Programmers, beware: ChatGPT has ruined your magic trick]]. ~ John Naughton. #ChatGPT #Programming
++ [[https://youtu.be/oJultNCHuAM][ChatGPT en la universidad: usos prácticos en diferentes contextos académicos]]. ~ Daniel Torres-Salinas y Wenceslao Arroyo-Machado. #ChatGPT #Educación
++ [[https://bib.us.es/sites/bib3.us.es/files/investiga41.pdf][Inteligencia artificial en la investigación y la docencia universitaria]]. #IA #ChatGPT #Educación
 
 ** Marzo 2023
 
