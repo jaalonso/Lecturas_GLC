@@ -47,6 +47,14 @@ its content.
 
 ** Abril 2023
 
+*** 02-Abr-23
++ [[https://iagoleal.com/posts/algebraic-path/][Algebraic path finding]]. ~ Iago Leal de Freitas. #Haskell #FunctionalProgramming
++ [[https://www.theguardian.com/commentisfree/2023/apr/02/ai-much-to-offer-humanity-could-wreak-terrible-harm-must-be-controlled][AI has much to offer humanity]. It could also wreak terrible harm. It must be controlled]]. ~ Stuart Russell. #AI
++ [[https://scholarlykitchen.sspnet.org/2023/03/31/guest-post-academic-publishers-are-missing-the-point-on-chatgpt/][Academic publishers are missing the point on ChatGPT]]. ~ Avi Staiman. #ChatGPT
++ [[https://www.vox.com/the-highlight/23621198/artificial-intelligence-chatgpt-openai-existential-risk-china-ai-safety-technology][The case for slowing down AI (Pumping the brakes on artificial intelligence could be the best thing we ever do for humanity)]]. ~ Sigal Samuel. #AI
++ [[https://arxiv.org/abs/2303.17580][HuggingGPT: Solving AI tasks with ChatGPT and its friends in HuggingFace]]. ~ Yongliang Shen, Kaitao Song, Xu Tan, Dongsheng Li, Weiming Lu, Yueting Zhuang. #AI #ChatGPT
++ [[https://arxiv.org/abs/2303.17125][Understanding the usability of AI programming assistants]]. ~ Jenny T. Liang, Chenyang Yang, Brad A. Myers. #AI #Programming
+
 *** 01-Abr-23
 + [[https://www.lms.ac.uk/sites/default/files/inline-files/Will%20computers%20prove%20theorems.pdf][Will computers prove theorems?]] ~ Kevin Buzzard. #ITP #LeanProver #Math #ChatGPT
 + [[https://www.snoyman.com/blog/2023/04/opposite-of-partial-functions/][The opposite of partial functions]]. ~ Michael Snoyman (@snoyberg). #Haskell #FunctionalProgramming
