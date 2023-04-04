@@ -47,6 +47,13 @@ its content.
 
 ** Abril 2023
 
+*** 03-Abr-23
++ [[https://mathweb.ucsd.edu/~sbuss/IntroMathLogic/Fullbook_Draft.pdf][Introduction to mathematical logic]]. ~ Sam Buss. #Logic #Math
++ [[https://arxiv.org/abs/2303.18099][Teaching Gödel's incompleteness theorems]]. ~ Gilles Dowek. #Logic #Math #CompSci
++ [[https://www.aiweirdness.com/ascii-art-by-chatbot/][ASCII art by chatbot]]. ~ Janelle Shane. #ChatGPT #BingChat #Bard #ASCII_art
++ [[https://www.latimes.com/business/technology/story/2023-03-31/column-afraid-of-ai-the-startups-selling-it-want-you-to-be][Afraid of AI? The startups selling it want you to be]]. ~ Brian Merchant. #AI #ChatGPT
++ [[https://www.jotdown.es/2023/04/sobre-la-peticion-de-moratoria-en-la-investigacion-en-ia-avanzada/][Sobre la petición de moratoria en la investigación en IA avanzada]]. ~ Antonio Dieguez. #IA
+
 *** 02-Abr-23
 + [[https://iagoleal.com/posts/algebraic-path/][Algebraic path finding]]. ~ Iago Leal de Freitas. #Haskell #FunctionalProgramming
 + [[https://www.theguardian.com/commentisfree/2023/apr/02/ai-much-to-offer-humanity-could-wreak-terrible-harm-must-be-controlled][AI has much to offer humanity]. It could also wreak terrible harm. It must be controlled]]. ~ Stuart Russell. #AI
