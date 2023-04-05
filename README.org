@@ -47,6 +47,12 @@ its content.
 
 ** Abril 2023
 
+*** 04-Abr-23
++ [[https://www.andrew.cmu.edu/user/avigad/Papers/formal_turn.pdf][Mathematics and the formal turn]]. ~ Jeremy Avigad. #ITP #Math
++ [[https://www.tandfonline.com/doi/pdf/10.1080/0020739X.2023.2178981][Interactive theorem provers for university mathematics: an exploratory study of students’ perceptions]]. ~ Paola Iannone & Athina Thoma. #ITP #LeanProver #Math #Education
++ [[https://metacoq.github.io/][MetaCoq: a project formalizing Coq in Coq and providing tools for manipulating Coq terms and developing certified plugins in Coq]]. ~ A. Anand, D. Annenkov, S. Boulier, C. Cohen, Y. Forster, M. Lennon-Bertrand, K. Maillard, G. Malecha, J. Botsch Nielsen, M. Sozeau, N. Tabareau, T. Winterhalter. #ITP #Coq
++ [[https://www.haskellforall.com/2023/04/ergonomic-newtypes-for-haskell-strings.html][Ergonomic newtypes for Haskell strings and numbers]]. ~ Gabriella Gonzalez (@GabriellaG439). #Haskell #FunctionalProgramming
+
 *** 03-Abr-23
 + [[https://mathweb.ucsd.edu/~sbuss/IntroMathLogic/Fullbook_Draft.pdf][Introduction to mathematical logic]]. ~ Sam Buss. #Logic #Math
 + [[https://arxiv.org/abs/2303.18099][Teaching Gödel's incompleteness theorems]]. ~ Gilles Dowek. #Logic #Math #CompSci
