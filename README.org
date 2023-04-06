@@ -47,6 +47,12 @@ its content.
 
 ** Abril 2023
 
+*** 05-Abr-23
++ [[https://arxiv.org/abs/2303.17457][VDM recursive functions in Isabelle/HOL]]. ~ Leo Freitas & Peter Gorm Larsen. #ITP #IsabelleHOL #VDM
++ [[https://arxiv.org/abs/2202.01344][Formal mathematics statement curriculum learning]]. ~ Stanislas Polu, Jesse Michael Han, Kunhao Zheng, Mantas Baksys, Igor Babuschkin, Ilya Sutskever. #Math #AI #MachineLearning
++ [[https://arxiv.org/abs/2304.00358][Logic is algebra]]. ~ Steven Obua. #Logic #Math
++ [[https://www.nature.com/articles/s41586-021-04086-x][Advancing mathematics by guiding human intuition with AI]]. ~ Alex Davies et als. #Math #AI #MachineLearning
+
 *** 04-Abr-23
 + [[https://www.andrew.cmu.edu/user/avigad/Papers/formal_turn.pdf][Mathematics and the formal turn]]. ~ Jeremy Avigad. #ITP #Math
 + [[https://www.tandfonline.com/doi/pdf/10.1080/0020739X.2023.2178981][Interactive theorem provers for university mathematics: an exploratory study of students’ perceptions]]. ~ Paola Iannone & Athina Thoma. #ITP #LeanProver #Math #Education
