@@ -47,6 +47,16 @@ its content.
 
 ** Abril 2023
 
+*** 06-Abr-23
++ [[https://arxiv.org/abs/2304.02074][Introduction to Pylog]]. ~ Clarence Lewis Protin. #ITP #Logic #Python
++ [[https://github.com/owl77/PyLog][Pylog: Proof checker and proof assistant based on Kelley-Morse set theory and FOL natural deduction]]. #ITP #Logic #Python
++ [[https://serokell.io/blog/haskell-in-production-meta][Haskell in production: Meta (Interview with Simon Marlow)]]. ~ Gints Dreimanis. #Haskell #FunctionalProgramming
++ [[https://lukeplant.me.uk/blog/posts/the-different-uses-of-python-type-hints/][The different uses of Python type hints]]. ~ Luke Plant. #Python
++ [[https://blog.sigplan.org/2023/04/04/teaching-category-theory-to-computer-scientists/][Teaching category theory to computer scientists]]. ~ Justin Hsu. #CategoryTheory #Education
++ [[https://arxiv.org/abs/2304.02015][How well do Large Language Models perform in arithmetic tasks?]] ~ Zheng Yuan, Hongyi Yuan, Chuanqi Tan, Wei Wang, Songfang Huang. #LLMs #Math
++ [[https://www.washingtonpost.com/technology/2023/04/05/chatgpt-lies/][ChatGPT invented a sexual harassment scandal and named a real law prof as the accused (The AI chatbot can misrepresent key facts with great flourish, even citing a fake Washington Post article as evidence)]]. ~ Pranshu Verma, Will Oremus. #ChatGPT
++ [[https://www.theguardian.com/commentisfree/2023/apr/06/ai-chatgpt-guardian-technology-risks-fake-article][ChatGPT is making up fake Guardian articles]]. Here’s how we’re responding. ~ Chris Moran. #AI #ChatGPT #GenerativeAI
+
 *** 05-Abr-23
 + [[https://arxiv.org/abs/2303.17457][VDM recursive functions in Isabelle/HOL]]. ~ Leo Freitas & Peter Gorm Larsen. #ITP #IsabelleHOL #VDM
 + [[https://arxiv.org/abs/2202.01344][Formal mathematics statement curriculum learning]]. ~ Stanislas Polu, Jesse Michael Han, Kunhao Zheng, Mantas Baksys, Igor Babuschkin, Ilya Sutskever. #Math #AI #MachineLearning
