@@ -47,6 +47,12 @@ its content.
 
 ** Abril 2023
 
+*** 07-Abr-23
++ [[https://arxiv.org/abs/2304.00994][Machine-learned premise selection for Lean]]. ~ Bartosz Piotrowski, Ramon Fernández Mir, Edward Ayers. #ITP #LeanProver #MachineLearning
++ [[https://arxiv.org/abs/2304.02986][A mathematical benchmark for inductive theorem provers]]. ~ Thibault Gauthier, Chad E. Brown, Mikolas Janota, Josef Urban. #ATP #Math
++ [[https://www.isa-afp.org/entries/Distributed_Distinct_Elements.html][Distributed distinct elements (in Isabelle/HOL)]]. ~ Emin Karayel. #ITP #IsabelleHOL
++ [[https://link.springer.com/article/10.1007/s11416-023-00474-1][Cryptographic protocol conformance testing based on domain-specific state machine]]. ~ Sergey Prokopev. #Haskell #FunctionalProgramming
+
 *** 06-Abr-23
 + [[https://arxiv.org/abs/2304.02074][Introduction to Pylog]]. ~ Clarence Lewis Protin. #ITP #Logic #Python
 + [[https://github.com/owl77/PyLog][Pylog: Proof checker and proof assistant based on Kelley-Morse set theory and FOL natural deduction]]. #ITP #Logic #Python
