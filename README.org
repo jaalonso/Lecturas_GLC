@@ -47,6 +47,11 @@ its content.
 
 ** Abril 2023
 
+*** 08-Abr-23
++ [[https://typeclasses.substack.com/p/bits-in-haskell][Bits in Haskell (Bitwise arithmetic is not exotic to Haskell; it works just like any other language)]]. ~ Chris Martin (@chris__martin). #Haskell #FunctionalProgramming
++ [[https://epicandmonicisnotiso.blogspot.com/2023/04/how-to-avoid-correctness-space-leaks-on.html][How to avoid space leaks on lazy setting]]. ~ Ruben Astudillo. #Haskell #FunctionalProgramming
++ [[https://www.technologyreview.com/2023/04/06/1071059/chatgpt-change-not-destroy-education-openai/][ChatGPT is going to change education, not destroy it (The narrative around cheating students doesn’t tell the whole story]]. Meet the teachers who think generative AI could actually make learning better). ~ Will Douglas Heaven. #ChatGPT #Education
++ [[https://arxiv.org/abs/2304.02468][Comparative analysis of CHATGPT and the evolution of language models]]. ~ Oluwatosin Ogundare, Gustavo Quiros Araya. #CHATGPT
 *** 07-Abr-23
 + [[https://arxiv.org/abs/2304.00994][Machine-learned premise selection for Lean]]. ~ Bartosz Piotrowski, Ramon Fernández Mir, Edward Ayers. #ITP #LeanProver #MachineLearning
 + [[https://arxiv.org/abs/2304.02986][A mathematical benchmark for inductive theorem provers]]. ~ Thibault Gauthier, Chad E. Brown, Mikolas Janota, Josef Urban. #ATP #Math
