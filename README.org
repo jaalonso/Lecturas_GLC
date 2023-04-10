@@ -47,6 +47,10 @@ its content.
 
 ** Abril 2023
 
+*** 09-Abr-23
++ [[https://arxiv.org/abs/2303.05864][ANITA: Analytic Tableau Proof Assistant]]. ~ Davi Romero Vasconcelos. #Logic #Education #Python
++ [[https://byorgey.wordpress.com/2023/03/11/competitive-programming-in-haskell-challenge-letter-optimization/][Competitive programming in Haskell: topsort via laziness]]. ~ Brent Yorgey. #Haskell #FunctionalProgramming
+
 *** 08-Abr-23
 + [[https://typeclasses.substack.com/p/bits-in-haskell][Bits in Haskell (Bitwise arithmetic is not exotic to Haskell; it works just like any other language)]]. ~ Chris Martin (@chris__martin). #Haskell #FunctionalProgramming
 + [[https://epicandmonicisnotiso.blogspot.com/2023/04/how-to-avoid-correctness-space-leaks-on.html][How to avoid space leaks on lazy setting]]. ~ Ruben Astudillo. #Haskell #FunctionalProgramming
