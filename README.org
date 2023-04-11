@@ -47,6 +47,12 @@ its content.
 
 ** Abril 2023
 
+*** 10-Abr-23
++ [[https://arxiv.org/abs/2301.09802][Inductive reasoning for coinductive types]]. ~ Alexander Bagnall, Gordon Stewart, Anindya Banerjee. #ITP #Coq
++ [[https://www.dantb.dev/files/dissertation.pdf][Comprehending pure functional effect systems]]. ~ Daniel Tattan-Birch. #Haskell #FunctionalProgramming
++ [[https://arxiv.org/abs/2304.0343][Evaluating the logical reasoning ability of ChatGPT and GPT-4]]. ~ Hanmeng Liu, Ruoxi Ning, Zhiyang Teng, Jian Liu, Qiji Zhou, Yue Zhang.9# #AI #ChatGPT #GPT4
++ [[https://www.oii.ox.ac.uk/news-events/news/behind-ai-a-massive-infrastructure-is-changing-geopolitics/][Behind AI, a massive infrastructure is changing geopolitics]]. ~ Vili Lehdonvirta. #AI
+
 *** 09-Abr-23
 + [[https://arxiv.org/abs/2303.05864][ANITA: Analytic Tableau Proof Assistant]]. ~ Davi Romero Vasconcelos. #Logic #Education #Python
 + [[https://byorgey.wordpress.com/2023/03/11/competitive-programming-in-haskell-challenge-letter-optimization/][Competitive programming in Haskell: topsort via laziness]]. ~ Brent Yorgey. #Haskell #FunctionalProgramming
@@ -56,6 +62,7 @@ its content.
 + [[https://epicandmonicisnotiso.blogspot.com/2023/04/how-to-avoid-correctness-space-leaks-on.html][How to avoid space leaks on lazy setting]]. ~ Ruben Astudillo. #Haskell #FunctionalProgramming
 + [[https://www.technologyreview.com/2023/04/06/1071059/chatgpt-change-not-destroy-education-openai/][ChatGPT is going to change education, not destroy it (The narrative around cheating students doesn’t tell the whole story]]. Meet the teachers who think generative AI could actually make learning better). ~ Will Douglas Heaven. #ChatGPT #Education
 + [[https://arxiv.org/abs/2304.02468][Comparative analysis of CHATGPT and the evolution of language models]]. ~ Oluwatosin Ogundare, Gustavo Quiros Araya. #CHATGPT
+
 *** 07-Abr-23
 + [[https://arxiv.org/abs/2304.00994][Machine-learned premise selection for Lean]]. ~ Bartosz Piotrowski, Ramon Fernández Mir, Edward Ayers. #ITP #LeanProver #MachineLearning
 + [[https://arxiv.org/abs/2304.02986][A mathematical benchmark for inductive theorem provers]]. ~ Thibault Gauthier, Chad E. Brown, Mikolas Janota, Josef Urban. #ATP #Math
