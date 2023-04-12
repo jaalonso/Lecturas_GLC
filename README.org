@@ -47,6 +47,13 @@ its content.
 
 ** Abril 2023
 
+*** 11-Abr-23
++ [[https://www.usenix.org/system/files/sec23fall-prepub-59-haines.pdf][Machine-checking multi-round proofs of shuffle: Terelius-Wikstrom and Bayer-Groth]]. ~ Thomas Haines, Rajeev Goré & Mukesh Tiwari. #ITP #Coq
++ [[https://ilyasergey.net/assets/pdf/papers/sisyphus-pldi23.pdf][Mostly automated proof repair for verified libraries]]. ~ Kiran Gopinathan, Mayank Keoliya, Ilya Sergey. #ITP #Coq
++ [[https://github.com/Fuco1/emacs-cats][Category theory in Emacs (Functors, monads, categories for Emacs)]]. ~ Matus Goljer (@Fuco1337). #Emacs #FunctionalProgramming
++ [[https://tomasp.net/techdims/][Technical dimensions of programming systems]]. ~ Joel Jakubovic, Jonathan Edwards, Tomas Petricek. #Programming
++ [[https://arxiv.org/abs/2304.03938][Comparing code explanations created by students and large language models]]. ~ Juho Leinonen, Paul Denny, Stephen MacNeil, Sami Sarsa, Seth Bernstein, Joanne Kim, Andrew Tran, Arto Hellas. #LLMs #Education #Programming
+
 *** 10-Abr-23
 + [[https://arxiv.org/abs/2301.09802][Inductive reasoning for coinductive types]]. ~ Alexander Bagnall, Gordon Stewart, Anindya Banerjee. #ITP #Coq
 + [[https://www.dantb.dev/files/dissertation.pdf][Comprehending pure functional effect systems]]. ~ Daniel Tattan-Birch. #Haskell #FunctionalProgramming
