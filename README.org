@@ -47,6 +47,13 @@ its content.
 
 ** Abril 2023
 
+*** 12-Abr-23
++ [[https://leanprover.zulipchat.com/user_uploads/3121/QUfQyUZWkr5Xfx5EW780Nwnn/talk.pdf][Mathematics and the computer]]. ~ Kevin Buzzard. #Math #IA #ChatGPT #ITP #LeanProver
++ [[https://well-typed.com/blog/2023/04/announcing-the-haskell-unfolder/][Announcing new YouTube series: The Haskell Unfolder]]. ~ Edsko de Vries, Andres Löh. #Haskell #FunctionalProgramming
++ [[https://lawrencecpaulson.github.io//2023/04/12/Wittgenstein.html][Wittgenstein on natural science, mathematics and logic]]. ~ Lawrence C. Paulson (@LawrPaulson). #Logic #Math
++ [[https://arstechnica.com/information-technology/2023/04/developer-creates-self-healing-programs-that-fix-themselves-thanks-to-gpt-4/][Developer creates “regenerative” AI program that fixes bugs on the fly ("Wolverine" experiment can fix Python bugs at runtime and re-run the code)]]. ~ Benj Edwards. #GPT4 #Python #Programming
++ [[https://www.reuters.com/technology/openai-offer-users-up-20000-reporting-bugs-2023-04-11/][OpenAI to offer users up to $20,000 for reporting bugs]]. #AI
+
 *** 11-Abr-23
 + [[https://www.usenix.org/system/files/sec23fall-prepub-59-haines.pdf][Machine-checking multi-round proofs of shuffle: Terelius-Wikstrom and Bayer-Groth]]. ~ Thomas Haines, Rajeev Goré & Mukesh Tiwari. #ITP #Coq
 + [[https://ilyasergey.net/assets/pdf/papers/sisyphus-pldi23.pdf][Mostly automated proof repair for verified libraries]]. ~ Kiran Gopinathan, Mayank Keoliya, Ilya Sergey. #ITP #Coq
