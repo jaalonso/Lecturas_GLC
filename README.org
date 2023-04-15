@@ -47,6 +47,10 @@ its content.
 
 ** Abril 2023
 
+*** 14-Abr-23
++ [[https://arxiv.org/abs/2304.06186][Using large language models for (de-)formalization and natural argumentation exercises for beginner's students]]. ~ Merlin Carl. #LLMs #Autoformalization #Logic #Education
++ [[https://www.elconfidencial.com/tecnologia/novaceno/2023-04-14/regulacion-inteligencia-artificial-peligro-chatgpt_3610493/][EEUU, China y Europa pisan el freno ante el poder destructor de la inteligencia artificial]]. ~ Omar Kardoudi. #IA
+
 *** 13-Abr-23
 + [[https://blog.ploeh.dk/2023/04/10/anagrams-kata-as-a-one-liner/][Anagrams kata as a one-liner (A futile exercise in code compaction)]]. ~ Mark Seemann (@ploeh@mastodon.social). #Haskell #FunctionalProgramming
 + [[https://rvarago.github.io/2023/03/29/haskell-little-things-one-of-n.html][Haskell, the little things (1 of N) - where clauses]]. ~ Rafael Varago. #Haskell #FunctionalProgramming
