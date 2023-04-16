@@ -47,6 +47,16 @@ its content.
 
 ** Abril 2023
 
+*** 15-Abr-23
++ [[https://sinhp.github.io/teaching/2022-introduction-to-proofs-with-Lean][Course: Introduction to proofs with Lean proof assistant]]. ~ Sina Hazratpour. #ITP #LeanProver
++ [[https://youtu.be/mV3nU1iVggE][LeanProver meta programming]]. ~ Walter Schulze (@awalterschulze). #ITP #LeanProver
++ [[http://newhonors.cs.umd.edu/uploads/thesis/file/229/Mechanizing_and_Implementing_a_Type_System_for_Symphony.pdf][Mechanizing and implementing a type system for Symphony]]. ~ William Chung. #ITP #Coq
++ [[https://www.isa-afp.org/browser_info/current/AFP/DigitsInBase/document.pdf][Positional notation for natural numbers in an arbitrary base]]. ~ Charles Staats. #ITP #IsabelleHOL #Math
++ [[https://www.tweag.io/blog/2023-04-13-crem-state-machines/][crem: compositional representable executable machines]]. ~ Marco Perone. #Haskell #FunctionalProgramming
++ [[https://eprints.ost.ch/id/eprint/1110/1/Type%20Systems%20for%20the%20OO%20Programmer.pdf][Type systems for the OO programmer]]. ~ Marc Etter. #Java #OOP #Types #LambdaCalculus #FunctionalProgramming
++ [[https://arxiv.org/abs/2304.04812][Scallop: A language for neurosymbolic programming]]. ~ Ziyang Li, Jiani Huang, Mayur Naik. #AI #MachineLearning #LogicProgramming
++ [[https://www.sciencenews.org/article/chatgpt-ai-artificial-intelligence-education-cheating-accuracy][How ChatGPT and similar AI will disrupt education]]. ~ Kathryn Hulick. #AI #ChatGPT #Education
+
 *** 14-Abr-23
 + [[https://arxiv.org/abs/2304.06186][Using large language models for (de-)formalization and natural argumentation exercises for beginner's students]]. ~ Merlin Carl. #LLMs #Autoformalization #Logic #Education
 + [[https://www.elconfidencial.com/tecnologia/novaceno/2023-04-14/regulacion-inteligencia-artificial-peligro-chatgpt_3610493/][EEUU, China y Europa pisan el freno ante el poder destructor de la inteligencia artificial]]. ~ Omar Kardoudi. #IA
