@@ -47,6 +47,12 @@ its content.
 
 ** Abril 2023
 
+*** 17-Abr-23
++ [[https://arxiv.org/abs/2205.11491][HyperTree proof search for neural theorem proving]]. ~ Guillaume Lample et als. #ITP #MachineLearning
++ [[https://www.microsoft.com/en-us/research/group/deep-learning-group/articles/check-your-facts-and-try-again-improving-large-language-models-with-external-knowledge-and-automated-feedback/][Check your facts and try again: Improving Large Language Models with external knowledge and automated feedback]]. ~ Baolin Peng et als. #AI #LLMs
++ [[http://adonaisantanna.blogspot.com/2023/04/gpt-4-esta-qualificado-para-trabalhar.html][GPT-4 está qualificado para trabalhar como um matemático? ~ Adonai Sant'Anna]]. #GPT4 #Math
++ [[https://arxiv.org/abs/2304.06794][ChatGPT cites the most-cited articles and journals, relying solely on Google Scholar's citation counts]]. As a result, AI may amplify the Matthew Effect in environmental science. ~ Eduard Petiska. #AI #ChatGPT
+
 *** 15-Abr-23
 + [[https://sinhp.github.io/teaching/2022-introduction-to-proofs-with-Lean][Course: Introduction to proofs with Lean proof assistant]]. ~ Sina Hazratpour. #ITP #LeanProver
 + [[https://youtu.be/mV3nU1iVggE][LeanProver meta programming]]. ~ Walter Schulze (@awalterschulze). #ITP #LeanProver
