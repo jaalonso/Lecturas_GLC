@@ -47,6 +47,13 @@ its content.
 
 ** Abril 2023
 
+*** 18-Abr-23
++ [[https://www.isa-afp.org/entries/HyperHoareLogic.html][Formalization of hyper Hoare logic: A logic to (dis-)prove program hyperproperties]]. ~ Thibault Dardinier. #ITP #IsabelleHOL #Logic
++ [[https://leanprover.github.io/functional_programming_in_lean/][Functional programming in Lean]]. ~ David Thrane Christiansen. #LeanProver #Lean4 #FunctionalProgramming
++ [[https://well-typed.com/blog/2023/04/falsify/][falsify: Hypothesis-inspired shrinking for Haskell]]. ~ Edsko de Vries. #Haskell #FunctionalProgramming
++ [[https://spartacus-idh.com/pdfs/108][Annals of Mathematics and Philosophy (Volumen 1, Number 1)]]. #Math #Philosophy
++ [[https://www.universidadsi.es/la-pregunta-equivocada-sobre-el-uso-de-chatgpt-en-la-educacion/][La pregunta equivocada sobre el uso de ChatGPT en la educación]]. ~ Senén Barro. #ChatGPT #Educación
+
 *** 17-Abr-23
 + [[https://arxiv.org/abs/2205.11491][HyperTree proof search for neural theorem proving]]. ~ Guillaume Lample et als. #ITP #MachineLearning
 + [[https://www.microsoft.com/en-us/research/group/deep-learning-group/articles/check-your-facts-and-try-again-improving-large-language-models-with-external-knowledge-and-automated-feedback/][Check your facts and try again: Improving Large Language Models with external knowledge and automated feedback]]. ~ Baolin Peng et als. #AI #LLMs
