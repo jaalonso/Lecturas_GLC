@@ -47,6 +47,12 @@ its content.
 
 ** Abril 2023
 
+*** 20-Abr-23
++ [[http://www.cs.cmu.edu/~fp/courses/15317-s23/lectures/19-meta.pdf][Lecture notes on a metacircular interpreter]]. ~ Frank Pfenning. #Prolog #LogicProgramming
++ [[https://www.youtube.com/live/S_HSt6jEtWM?feature=share][The Haskell Unfolder Episode 1: unfoldr]]. ~ Edsko de Vries (@EdskoDeVries), Andres Löh (@kosmikus). #Haskell #FunctionalProgramming
++ [[https://www.microsiervos.com/archivo/ia/jailbreaks-chat-para-chatgpt-filtros-seguridad.html][Una recopilación de jailbreaks para ChatGPT con triquiñuelas de todo tipo para burlar sus filtros de seguridad]]. ~ @Alvy. #ChatGPT
++ [[https://www.microsiervos.com/archivo/ia/base-datos-incidentes-inteligencias-artificiales-facebook-tesla-google.html][La base de datos de incidentes de las inteligencias artificiales ya existe]]. El top 3 lo encabezan de momento Facebook, Tesla y Google. ~ @Alvy. #IA
+
 *** 18-Abr-23
 + [[https://www.isa-afp.org/entries/HyperHoareLogic.html][Formalization of hyper Hoare logic: A logic to (dis-)prove program hyperproperties]]. ~ Thibault Dardinier. #ITP #IsabelleHOL #Logic
 + [[https://leanprover.github.io/functional_programming_in_lean/][Functional programming in Lean]]. ~ David Thrane Christiansen. #LeanProver #Lean4 #FunctionalProgramming
