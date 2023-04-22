@@ -47,6 +47,12 @@ its content.
 
 ** Abril 2023
 
+*** 21-Abr-23
++ [[https://arxiv.org/abs/2304.10424][Engel's theorem in Mathlib]]. ~ Oliver Nash. #ITP #LeanProver #Math
++ [[https://arxiv.org/abs/2304.10486][CoProver: A recommender system for proof construction]]. ~ Eric Yeh, Briland Hitaj, Sam Owre, Maena Quemener, Natarajan Shankar. #ITP #PVS #MachineLearning
++ [[https://adriansieber.com/how-to-create-a-bar-chart-from-a-csv-file-with-haskell/][How to create a bar chart from a CSV file with Haskell]]. ~ Adrian Sieber (@AdrianSieber). #Haskell #FunctionalProgramming
++ [[https://arxiv.org/abs/2304.10423][Fully autonomous programming with Large Language Models]]. ~ Vadim Liventsev, Anastasiia Grishina, Aki Härmä, Leon Moonen. #LLMs #Programming
+
 *** 20-Abr-23
 + [[http://www.cs.cmu.edu/~fp/courses/15317-s23/lectures/19-meta.pdf][Lecture notes on a metacircular interpreter]]. ~ Frank Pfenning. #Prolog #LogicProgramming
 + [[https://www.youtube.com/live/S_HSt6jEtWM?feature=share][The Haskell Unfolder Episode 1: unfoldr]]. ~ Edsko de Vries (@EdskoDeVries), Andres Löh (@kosmikus). #Haskell #FunctionalProgramming
