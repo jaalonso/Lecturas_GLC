@@ -47,6 +47,13 @@ its content.
 
 ** Abril 2023
 
+*** 22-Abr-23
++ [[https://www.isa-afp.org/entries/Simple_Clause_Learning.html][A formalization of the SCL(FOL) calculus: Simple clause learning for first-order logic]]. ~ Martin Desharnais. #ITP #IsabelleHOL
++ [[https://www.mat.unb.br/ayala/TeoremaHallGraphs.pdf][Mechanising Hall’s theorem for countable graphs]]. ~ Fabián Fernando Serrano Suárez, Mauricio Ayala-Rincón, Thaynara Arielly de Lima. #ITP #IsabelleHOL #Math
++ [[https://zenodo.org/record/7684971][A formal analysis of RANKING]]. ~ Mohammad Abdulaziz, Christoph Madlener. #ITP #IsabelleHOL
++ [[https://voidma.in/assets/papers/23nawrocki_extensible_user_interface_lean_4.pdf][An extensible user interface for Lean 4]]. ~ Wojciech Nawrocki, Edward W. Ayers, Gabriel Ebner. #ITP #LeanProver
++ [[https://ut3-toulouseinp.hal.science/hal-03782650v2/file/main_v2_hal.pdf][Bel-Games: A formal theory of games of incomplete information based on belief functions in the Coq proof assistant]]. ~ Pierre Pomeret-Coquot, Hélène Fargier, Érik Martin-Dorel. #ITP #Coq
+
 *** 21-Abr-23
 + [[https://arxiv.org/abs/2304.10424][Engel's theorem in Mathlib]]. ~ Oliver Nash. #ITP #LeanProver #Math
 + [[https://arxiv.org/abs/2304.10486][CoProver: A recommender system for proof construction]]. ~ Eric Yeh, Briland Hitaj, Sam Owre, Maena Quemener, Natarajan Shankar. #ITP #PVS #MachineLearning
