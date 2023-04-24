@@ -47,6 +47,13 @@ its content.
 
 ** Abril 2023
 
+*** 23-Abr-23
++ [[https://arxiv.org/abs/2302.11892][Certifying higher-order polynomial interpretations]]. ~ Niels van der Weide, Deivid Vale, Cynthia Kop. #ITP #Coq
++ [[https://williamyaoh.com/posts/2023-04-22-drawing-trees-functionally.html][Drawing trees functionally: Reingold and Tilford, 1981]]. ~ William Yao (@williamyaoh). #Haskell #FunctionalProgramming
++ [[https://arxiv.org/abs/2302.06420][Closure properties of unrestricted grammars (Formally verified)]]. ~ Martin Dvorak, Jasmin Blanchette. #ITP #LeanProver
++ [[https://github.com/leanprover-community/flt-regular][Fermat's Last Theorem for regular primes]]. ~ Riccardo Brasca et als. #ITP #LeanProver #Math
++ [[https://www.imperial.ac.uk/media/imperial-college/faculty-of-natural-sciences/public/schrodinger-scholars/virtual-exhibition-2022/poster.pdf][Formalising the GAGA theorem]]. ~ Jujian Zhang. #ITP #LeanProver #Math
+
 *** 22-Abr-23
 + [[https://www.isa-afp.org/entries/Simple_Clause_Learning.html][A formalization of the SCL(FOL) calculus: Simple clause learning for first-order logic]]. ~ Martin Desharnais. #ITP #IsabelleHOL
 + [[https://www.mat.unb.br/ayala/TeoremaHallGraphs.pdf][Mechanising Hall’s theorem for countable graphs]]. ~ Fabián Fernando Serrano Suárez, Mauricio Ayala-Rincón, Thaynara Arielly de Lima. #ITP #IsabelleHOL #Math
