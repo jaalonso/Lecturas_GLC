@@ -47,6 +47,12 @@ its content.
 
 ** Abril 2023
 
+*** 24-Abr-23
++ [[https://www.ma.imperial.ac.uk/~buzzard/xena/pdfs/anca_group_coh.pdf][Group cohomology in Lean]]. ~ Anca Ciobanu. #ITP #LeanProver #Math
++ [[https://members.loria.fr/DLarchey/files/papers/ITP_2023_paper_58.pdf][Proof pearl: Faithful computation and extraction of µ-recursive algorithms in Coq]]. ~ Dominique Larchey-Wendling, Jean-Francois Monin. #ITP #Coq
++ [[https://arxiv.org/abs/2304.11107][ChatABL: Abductive learning via natural language interaction with ChatGPT]]. ~ Tianyang Zhong et als. #LLMs #ABL
++ [[https://arxiv.org/abs/2304.11079][Academic writing with GPT-3]].5: Reflections on practices, efficacy and transparency. ~ Oğuz 'Oz' Buruk. #ChatGPT
+
 *** 23-Abr-23
 + [[https://arxiv.org/abs/2302.11892][Certifying higher-order polynomial interpretations]]. ~ Niels van der Weide, Deivid Vale, Cynthia Kop. #ITP #Coq
 + [[https://williamyaoh.com/posts/2023-04-22-drawing-trees-functionally.html][Drawing trees functionally: Reingold and Tilford, 1981]]. ~ William Yao (@williamyaoh). #Haskell #FunctionalProgramming
