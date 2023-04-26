@@ -47,6 +47,11 @@ its content.
 
 ** Abril 2023
 
+*** 25-Abr-23
++ [[https://arxiv.org/abs/2304.10557][An introduction to transformers]]. ~ Richard E. Turner. #AI #MachineLearning
++ [[https://inria.hal.science/hal-04077552/document][Correct and complete type checking and certified erasure for Coq, in Coq]]. ~ Matthieu Sozeau, Yannick Forster, Meven Lennon-Bertrand, Jakob Botsch Nielsen, Nicolas Tabareau, Théo Winterhalter. #ITP #Coq
++ [[https://arxiv.org/abs/2304.10343][Towards coherence theorems for equational extensions of type theories]]. ~ Rafaël Bocquet. #ITP #Agda
+
 *** 24-Abr-23
 + [[https://www.ma.imperial.ac.uk/~buzzard/xena/pdfs/anca_group_coh.pdf][Group cohomology in Lean]]. ~ Anca Ciobanu. #ITP #LeanProver #Math
 + [[https://members.loria.fr/DLarchey/files/papers/ITP_2023_paper_58.pdf][Proof pearl: Faithful computation and extraction of µ-recursive algorithms in Coq]]. ~ Dominique Larchey-Wendling, Jean-Francois Monin. #ITP #Coq
