@@ -47,6 +47,11 @@ its content.
 
 ** Abril 2023
 
+*** 26-Abr-23
++ [[https://arxiv.org/abs/2304.12827][Investigations into proof structures]]. ~ Christoph Wernhard, Wolfgang Bibel. #ATP #Logic #Math
++ [[https://typeclasses.substack.com/p/make-invalid-states-representable][Make invalid states representable]]. (We should model the state of a system using algebraic types and include states that are invalid). ~ Chris Martin (@chris__martin). #Haskell #FunctionalProgramming
++ [[https://www.themathgenome.com/][The Math Genome Project (A collaboration platform and marketplace for the formalization of mathematics and theorem proving)]]. ~ @TheMathGenome. #ITP #Math
+
 *** 25-Abr-23
 + [[https://arxiv.org/abs/2304.10557][An introduction to transformers]]. ~ Richard E. Turner. #AI #MachineLearning
 + [[https://inria.hal.science/hal-04077552/document][Correct and complete type checking and certified erasure for Coq, in Coq]]. ~ Matthieu Sozeau, Yannick Forster, Meven Lennon-Bertrand, Jakob Botsch Nielsen, Nicolas Tabareau, Théo Winterhalter. #ITP #Coq
