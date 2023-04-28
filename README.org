@@ -47,6 +47,15 @@ its content.
 
 ** Abril 2023
 
+*** 27-Abr-23
++ [[https://arxiv.org/abs/2304.13430][The logic of logic programming]]. ~ Marc Denecker, David S. Warren. #Logic #Prolog #LogicProgramming
++ [[https://serokell.io/blog/optimizing-k-framework-part-2][Optimizing Haskell code for runtime verification: Part 2]]. ~ Sergey Gulin. #Haskell #FunctionalProgramming
++ [[https://magnus.therning.org/2023-04-26-some-practical-haskell.html][Some practical Haskell]]. ~ Magnus Therning. #Haskell #FunctionalProgramming
++ [[https://arxiv.org/abs/2212.06094][Prompting is programming: A query language for Large Language Models]]. ~ Luca Beurer-Kellner, Marc Fischer, Martin Vechev. #LLMs #Programming
++ [[https://arxiv.org/abs/2304.13187][AI-assisted coding: Experiments with GPT-4]]. ~ Russell A Poldrack, Thomas Lu, Gašper Beguš. #AI #ChatGPT #Programming
++ [[https://arxiv.org/abs/2304.11938][Is ChatGPT the ultimate programming assistant -- How far is it?]] ~ Haoye Tian, Weiqi Lu, Tsz On Li, Xunzhu Tang, Shing-Chi Cheung, Jacques Klein, Tegawendé F. Bissyandé. #ChatGPT #Programming
++ [[https://cacm.acm.org/opinion/articles/272427-the-5-biggest-risks-of-generative-ai/fulltext][The 5 biggest risks of generative AI]]. ~ ZDNET. #GenerativeAI
+
 *** 26-Abr-23
 + [[https://arxiv.org/abs/2304.12827][Investigations into proof structures]]. ~ Christoph Wernhard, Wolfgang Bibel. #ATP #Logic #Math
 + [[https://typeclasses.substack.com/p/make-invalid-states-representable][Make invalid states representable]]. (We should model the state of a system using algebraic types and include states that are invalid). ~ Chris Martin (@chris__martin). #Haskell #FunctionalProgramming
