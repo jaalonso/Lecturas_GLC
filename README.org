@@ -47,6 +47,15 @@ its content.
 
 ** Abril 2023
 
+*** 28-Abr-23
++ [[https://lawrencecpaulson.github.io//2023/04/27/ALEXANDRIA_outcomes.html][The ALEXANDRIA Project: What has been accomplished? ~ Lawrence C]]. Paulson (@LawrPaulson). #ITP #IsabelleHOL #Math
++ [[https://cutfree.net/PLDI_2023_indexed_streams.pdf][Indexed streams: A formal intermediate representation for fused contraction programs]]. ~ Scott Kovach, Praneeth Kolichala, Tiancheng Gu, Fredrik Kjolstad. #ITP #LeanProver
++ [[https://www.tweag.io/blog/2023-04-27-pipelines-tags/][Type-safe data processing pipelines]]. ~ Georg Rudoy. #Haskell #FunctionalProgramming
++ [[https://www.dragonwasrobot.com/functional-programming/2023/04/27/programming-in-style-from-pattern-matching-to-point-free.html][Programming in style: From pattern matching to point free]]. ~ Peter Urbak. #Elm #FunctionalProgramming
++ [[https://cacm.acm.org/careers/272474-the-end-of-coding-as-we-know-it/fulltext][The end of coding as we know it]]. ~ @CACMmag. #GenerativeAI #Programming
++ [[https://cacm.acm.org/opinion/articles/272456-ai-not-yet-intelligent-enough-to-be-a-trusted-research-aid/fulltext][AI not yet intelligent enough to be a trusted research aid]]. ~ @CACMmag. #GenerativeAI #Research
++ [[https://cacm.acm.org/news/272442-artificial-intelligence-still-cant-form-concepts/fulltext][Artificial Intelligence still can't form concepts]]. ~ Bennie Mols. #AI
+
 *** 27-Abr-23
 + [[https://arxiv.org/abs/2304.13430][The logic of logic programming]]. ~ Marc Denecker, David S. Warren. #Logic #Prolog #LogicProgramming
 + [[https://serokell.io/blog/optimizing-k-framework-part-2][Optimizing Haskell code for runtime verification: Part 2]]. ~ Sergey Gulin. #Haskell #FunctionalProgramming
