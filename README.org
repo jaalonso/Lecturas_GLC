@@ -47,6 +47,11 @@ its content.
 
 ** Abril 2023
 
+*** 29-Abr-23
++ [[https://users-cs.au.dk/birke/papers/iris-wasm.pdf][Iris-Wasm: Robust and modular verification of WebAssembly programs]]. ~ Xiaojia Rao, Aïna Linn Georges, Maxime Legoupil, Conrad Watt, Jean Pichon-Pharabod, Philippa Gardner, Lars Birkedal. #ITP #Coq
++ [[https://norvig.github.io/paip-lisp][Paradigms of Artificial Intelligence Programming (Case studies in Common Lisp)]]. ~ Peter Norvig./#/ #eBook #AI #CommonLisp
++ [[http://philsci-archive.pitt.edu/22002/1/Tanswell%20and%20Inglis%20%282023%29%20The%20Language%20of%20Proofs%20A%20Corpus%20Linguistic%20Study.pdf][The language of proofs: A philosophical corpus linguistics study of instructions and imperatives in mathematical texts]]. ~ Fenner Stanley Tanswell, Matthew Inglis. #Logic #Math
+
 *** 28-Abr-23
 + [[https://lawrencecpaulson.github.io//2023/04/27/ALEXANDRIA_outcomes.html][The ALEXANDRIA Project: What has been accomplished? ~ Lawrence C]]. Paulson (@LawrPaulson). #ITP #IsabelleHOL #Math
 + [[https://cutfree.net/PLDI_2023_indexed_streams.pdf][Indexed streams: A formal intermediate representation for fused contraction programs]]. ~ Scott Kovach, Praneeth Kolichala, Tiancheng Gu, Fredrik Kjolstad. #ITP #LeanProver
