@@ -47,6 +47,10 @@ its content.
 
 ** Abril 2023
 
+*** 30-Abr-23
++ [[https://www.logicmatters.net/resources/pdfs/SmithCat-I.pdf][Category Theory I: Notes towards a gentle introduction]]. ~ Peter Smith (@PeterSmith). #eBook #CategoryTheory
++ [[https://www.logicmatters.net/resources/pdfs/SmithCat-II.pdf][Category Theory II: More notes towards a gentle introduction]]. ~ Peter Smith (@PeterSmith). #CategoryTheory
+
 *** 29-Abr-23
 + [[https://users-cs.au.dk/birke/papers/iris-wasm.pdf][Iris-Wasm: Robust and modular verification of WebAssembly programs]]. ~ Xiaojia Rao, Aïna Linn Georges, Maxime Legoupil, Conrad Watt, Jean Pichon-Pharabod, Philippa Gardner, Lars Birkedal. #ITP #Coq
 + [[https://norvig.github.io/paip-lisp][Paradigms of Artificial Intelligence Programming (Case studies in Common Lisp)]]. ~ Peter Norvig./#/ #eBook #AI #CommonLisp
