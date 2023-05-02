@@ -11,6 +11,7 @@ its content.
 
 * Content                                                                      :TOC:
 - [[#lecturas-del-año-2023][Lecturas del año 2023]]
+  - [[#mayo-2023][Mayo 2023]]
   - [[#abril-2023][Abril 2023]]
   - [[#marzo-2023][Marzo 2023]]
   - [[#febrero-2023][Febrero 2023]]
@@ -44,6 +45,12 @@ its content.
 - [[#lecturas-anteriores][Lecturas anteriores]]
 
 * Lecturas del año 2023
+
+** Mayo 2023
+
+*** 01-May-23
++ [[https://blog.computationalcomplexity.org/2023/05/there-are-infinite-number-of-proofs.html][There are an infinite number of proofs that there are an infinite number of primes]]. ~ Bill Gasarch. #Math
++ [[https://arxiv.org/abs/2304.14993][ChatGPT - a blessing or a curse for undergraduate Computer Science students and instructors? ~ Ishika Joshi, Ritvik Budhiraja, Harshal Dev, Jahnvi Kadia, M]]. Osama Ataullah, Sayan Mitra, Dhruv Kumar, Harshal D. Akolekar. #ChatGPT #Education #CompSci
 
 ** Abril 2023
 
