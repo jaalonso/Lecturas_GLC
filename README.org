@@ -48,6 +48,14 @@ its content.
 
 ** Mayo 2023
 
+*** 02-May-23
++ [[https://www.degruyter.com/document/doi/10.1515/krt-2022-0015/html][Philosophical assumptions behind the rejection of computer-based proofs]]. ~ Katia Parshina. #ITP #Math #Philosophy
++ [[https://arxiv.org/abs/2305.00064][Logipedia: a multi-system encyclopedia of formal proofs]]. ~ Gilles Dowek, François Thiré. #ITP #Math
++ [[http://logipedia.inria.fr/about/about.php][Logipedia: a library of proofs expressed in Dedukti]]. #ITP #Dedukti #Math
++ [[https://deducteam.github.io/][Dedukti: a logical framework based on the λΠ-calculus modulo in which many theories and logics can be expressed]]. #ITP #Dedkukti
++ [[https://arxiv.org/abs/2212.08515][The formal theory of monads, univalently]]. ~ Niels van der Weide. #ITP #Coq
++ [[https://arxiv.org/abs/2008.02025][Verifying tight logic programs with anthem and Vampire]]. ~ Jorge Fandinno, Vladimir Lifschitz, Patrick Lühne, Torsten Schaub. #ASP #LogicProgramming #ATP #Vampire
+
 *** 01-May-23
 + [[https://blog.computationalcomplexity.org/2023/05/there-are-infinite-number-of-proofs.html][There are an infinite number of proofs that there are an infinite number of primes]]. ~ Bill Gasarch. #Math
 + [[https://arxiv.org/abs/2304.14993][ChatGPT - a blessing or a curse for undergraduate Computer Science students and instructors? ~ Ishika Joshi, Ritvik Budhiraja, Harshal Dev, Jahnvi Kadia, M]]. Osama Ataullah, Sayan Mitra, Dhruv Kumar, Harshal D. Akolekar. #ChatGPT #Education #CompSci
