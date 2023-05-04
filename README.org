@@ -48,6 +48,9 @@ its content.
 
 ** Mayo 2023
 
+*** 03-May-23
++ [[https://www.isa-afp.org/entries/Schwartz_Zippel.html][The Schwartz-Zippel lemma]]. ~ Sunpill Kim, Yong Kiam Tan. #ITP #IsabelleHOL #Math
+
 *** 02-May-23
 + [[https://www.degruyter.com/document/doi/10.1515/krt-2022-0015/html][Philosophical assumptions behind the rejection of computer-based proofs]]. ~ Katia Parshina. #ITP #Math #Philosophy
 + [[https://arxiv.org/abs/2305.00064][Logipedia: a multi-system encyclopedia of formal proofs]]. ~ Gilles Dowek, François Thiré. #ITP #Math
