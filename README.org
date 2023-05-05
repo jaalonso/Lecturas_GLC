@@ -48,6 +48,16 @@ its content.
 
 ** Mayo 2023
 
+*** 04-May-23
++ [[https://www.linkedin.com/pulse/chatgpt-finally-succeeds-writing-zfc-lean-4-wasnt-easy-ericson][ChatGPT finally succeeds in writing ZFC in Lean 4, but it wasn't easy]]. ~ Lars Warren Ericson. #ChatGPT #ITP #Lean4 #SetTheory #Math
++ [[https://youtu.be/CEwRMT0GpKo][Sagredo: automated dialogue between GPT and Lean]]. ~ Scott Morrison. #ChatGPT #Lean4 #AI #ITP
++ [[https://byorgey.wordpress.com/2023/05/03/competitive-programming-in-haskell-tries/][Competitive programming in Haskell: tries]]. ~ Brent Yorgey. #Haskell #FunctionalProgramming
++ [[https://arxiv.org/abs/2305.02230][Can ChatGPT pass an introductory level functional language programming course?]] ~ Chuqin Geng, Zhang Yihan, Brigitte Pientka, Xujie Si. #ChatGPT #Education #FunctionalProgramming
++ [[https://cliplab.org/papers/ActiveLogicDocuments-PrologBook.pdf][Teaching Prolog with Active Logic Documents]]. ~ Jose F. Morales, Salvador Abreu, Daniela Ferreiro, and Manuel V. Hermenegildo. #Prolog #LogicProgramming
++ [[https://cliplab.org/papers/AssertionsAndOther-PrologBook.pdf][Types, modes and so much more – the Prolog way]]. ~ Manuel V. Hermenegildo, Jose F. Morales, Pedro Lopez-Garcia, and Manuel Carro. #Prolog #LogicProgramming
++ [[https://cliplab.org/papers/TeachingProlog-PrologBook.pdf][Some thoughts on how to teach Prolog]]. ~ Manuel V. Hermenegildo, Jose F. Morales, and Pedro Lopez-Garcia. #Prolog #LogicProgramming
++ [[https://arxiv.org/abs/2305.01863][GPTutor: a ChatGPT-powered programming tool for code explanation]]. ~ Eason Chen, Ray Huang, Han-Shin Chen, Yuen-Hsien Tseng, Liang-Yi Li. #ChatGPT #Education #Programming
+
 *** 03-May-23
 + [[https://www.isa-afp.org/entries/Schwartz_Zippel.html][The Schwartz-Zippel lemma]]. ~ Sunpill Kim, Yong Kiam Tan. #ITP #IsabelleHOL #Math
 
