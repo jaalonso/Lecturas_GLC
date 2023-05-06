@@ -48,6 +48,16 @@ its content.
 
 ** Mayo 2023
 
+*** 05-May-23
++ [[https://arxiv.org/abs/2210.12150][Formalizing chemical theory using the Lean theorem prover]]. ~ Maxwell P. Bobbin, Samiha Sharlin, Parivash Feyzishendi, An Hong Dang, Catherine M. Wraback, Tyler R. Josephson. #ITP #LeanProver
++ [[https://arxiv.org/abs/2305.02329][Proof in the time of machines]]. ~ Andrew Granville. #ITP #Logic #Math
++ [[https://arxiv.org/abs/2305.02115][Accepted proofs: Objective truth, or culturally robust]]. ~ Andrew Granville. #ITP #Logic #Math
++ [[https://www.youtube.com/live/d18Fdu6ayM8?feature=share][The Haskell Unfolder Episode 2: quantified constraints]]. ~ Edsko de Vries (@EdskoDeVries), Andres Löh (@kosmikus). #Haskell #FunctionalProgramming
++ [[https://drive.google.com/file/d/1cN-b9GnWtHzQRoE7M7gAEyivY0kl4BYs/view][StarCoder: May the source be with you! ~ Raymond Li et als]]. #AI #LLMs #StarCoder
++ [[https://huggingface.co/bigcode][BigCode: Open and responsible research and development of large language models for code]]. ~ @BigCodeProject. #AI #LLMs
++ [[https://cacm.acm.org/news/272664-let-a-thousand-ais-bloom/fulltext]['Let a thousand AIs bloom']] ~ Bennie Mols. #AI
++ [[https://cacm.acm.org/news/272665-embracing-ai-in-education/fulltext][Embracing AI in education]]. ~ @CACMmag. #AI #Education
+
 *** 04-May-23
 + [[https://www.linkedin.com/pulse/chatgpt-finally-succeeds-writing-zfc-lean-4-wasnt-easy-ericson][ChatGPT finally succeeds in writing ZFC in Lean 4, but it wasn't easy]]. ~ Lars Warren Ericson. #ChatGPT #ITP #Lean4 #SetTheory #Math
 + [[https://youtu.be/CEwRMT0GpKo][Sagredo: automated dialogue between GPT and Lean]]. ~ Scott Morrison. #ChatGPT #Lean4 #AI #ITP
