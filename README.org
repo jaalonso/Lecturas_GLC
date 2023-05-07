@@ -48,6 +48,12 @@ its content.
 
 ** Mayo 2023
 
+*** 06-May-23
++ [[https://inria.hal.science/hal-01377155/preview/abstract.pdf][Iterators: where folds fail]]. ~ Sylvie Boldo. #ITP #Coq
++ [[https://www.cantorsparadise.com/the-unlikely-heroes-of-cantors-set-theory-44685ef13292][The unlikely heroes of Cantor’s set theory]]. ~ Jason Zesheng Chen. #SetTheory #Math
++ [[https://karagila.org/2023/theorems/][How to prove theorems?]] ~ Asaf Karagila. #Math #SetTheory
++ [[https://towardsdatascience.com/transformers-141e32e69591][How transformers work]]. ~ Giuliano Giacaglia. #Transformers #MachineLearning #AI
+
 *** 05-May-23
 + [[https://arxiv.org/abs/2210.12150][Formalizing chemical theory using the Lean theorem prover]]. ~ Maxwell P. Bobbin, Samiha Sharlin, Parivash Feyzishendi, An Hong Dang, Catherine M. Wraback, Tyler R. Josephson. #ITP #LeanProver
 + [[https://arxiv.org/abs/2305.02329][Proof in the time of machines]]. ~ Andrew Granville. #ITP #Logic #Math
