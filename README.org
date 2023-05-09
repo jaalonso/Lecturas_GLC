@@ -48,6 +48,9 @@ its content.
 
 ** Mayo 2023
 
+*** 08-May-23
++ [[https://arxiv.org/abs/2305.03433][Towards applying powerful large AI models in classroom teaching: opportunities, challenges and prospects]]. ~ Kehui Tan, Tianqi Pang, Chenyou Fan. #GenerativeAI #Education
+
 *** 07-May-23
 + [[https://www.johndcook.com/blog/2023/05/06/cube-distance/][Expected distance between points in a cube]]. ~ John D. Cook (@JohnDCook). #Python #Programming #Math
 
