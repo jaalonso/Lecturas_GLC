@@ -48,6 +48,21 @@ its content.
 
 ** Mayo 2023
 
+*** 10-May-23
++ [[https://www2.ccs.neu.edu/racket/pubs/tfp23-m.pdf][Faster, simpler red-black trees]]. ~ Cameron Moy. #Haskell #FunctionalProgramming
++ [[https://github.com/eric-wieser/lean-matrix-cookbook][The Matrix Cookbook, using Lean's mathlib]]. ~ Eric Wieser. #ITP #LeanProver #Math
+
+*** 09-May-23
++ [[https://leanprover.zulipchat.com/user_uploads/3121/pJop8k9MmVekrpXBh41ckCLt/lml2.pdf][A "calculation-heavy" introduction to proof, with support from Lean]]. ~ Heather Macbeth. #ITP #LeanProver #Math
++ [[https://hal.science/hal-04087080/document][Proof assistants for undergraduate mathematics education: elements of an a priori analysis]]. ~ Evmorfia-Iro Bartzia, Emmanuel Beffara, Antoine Meyer, Julien Narboux. #Teaching #Logic #ITP #Coq #LeanProver #IsabelleHOL #Lurch #Edukera #D∀∃duction
++ [[https://arxiv.org/abs/2305.02521][Towards a scalable proof engine: A performant prototype rewriting primitive for Coq]]. ~ Jason Gross, Andres Erbsen, Jade Philipoom, Rajashree Agrawal, Adam Chlipala. #ITP #Coq
++ [[https://nyxt.atlas.engineer/article/why-lisp.org][Nyxt: Why Lisp? ~ John Mercouris, Pierre Neidhardt]]. #CommonLisp #Programming
++ [[https://cacm.acm.org/blogs/blog-cacm/272752-300-years-of-mechanical-calculating-machines/fulltext][300 years of mechanical calculating machines]]. ~ Herbert Bruderer. #CompSci
++ [[https://dindi.garjola.net/ai-assistants.html][AI assistants in Emacs]]. Don't use ChatGPT. Help Open Science. ~ Garjola Dindi (@garjola@emacs.ch). #GenerativeAI #AI #Emacs #OpenScience
++ [[https://www.alphr.com/write-code-with-chatgpt/][How to write code with ChatGPT]]. ~ Lee Stanton. #ChatGPT #Programming
++ [[https://medium.com/geekculture/list-of-open-sourced-fine-tuned-large-language-models-llm-8d95a2e0dc76][List of open sourced fine-tuned Large Language Models (LLM) (An incomplete list of open-sourced fine-tuned Large Language Models (LLM) you can run locally on your computer)]]. ~ Sung Kim. #LLMs
++ [[https://towardsdatascience.com/run-bloom-the-largest-open-access-ai-model-on-your-desktop-computer-f48e1e2a9a32][Understand BLOOM, the largest open-access AI, and run it on your local computer (See BLOOM in action solving math, translation, and coding problems)]]. ~ Cristian Arteaga #LLMs #BLOOM
+
 *** 08-May-23
 + [[https://arxiv.org/abs/2305.03433][Towards applying powerful large AI models in classroom teaching: opportunities, challenges and prospects]]. ~ Kehui Tan, Tianqi Pang, Chenyou Fan. #GenerativeAI #Education
 
