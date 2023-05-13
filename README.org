@@ -48,6 +48,14 @@ its content.
 
 ** Mayo 2023
 
+*** 12-May-23
++ [[https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/611002/GarviaBosshard_Azucena.pdf][Formal verification of the sumcheck protocol]]. ~ Azucena Garvía Bosshard. #ITP #IsabelleHOL
++ [[https://www.linkedin.com/pulse/google-bard-here-talk-fermats-last-theorem-lean-lars-warren-ericson/][Google Bard is here to talk about Fermat's Last Theorem and Lean]]. ~ Lars Warren Ericson. #GenerativeAI #Bard #Math #ITP #Lean
++ [[https://www.microsiervos.com/archivo/matematicas/texto-interactivo-algebra-lineal-leer-online.html][Un texto interactivo sobre álgebra lineal fácil de leer online]]. ~ @Alvy #Matemáticas
++ [[https://textbooks.math.gatech.edu/ila][Interactive linear algebra]]. ~ Dan Margalit, Joseph Rabinoff. #Math
++ [[https://arxiv.org/abs/2305.06934][Humans are still better than ChatGPT: Case of the IEEEXtreme competition]]. ~ Anis Koubaa, Basit Qureshi, Adel Ammar, Zahid Khan, Wadii Boulila, Lahouari Ghouti. #ChatGPT #Programming
++ [[https://qz.com/coding-instructors-are-adding-ai-to-their-lessons-befor-1850393865][Coding instructors are adding AI to their lessons—before AI replaces them (Coding schools like General Assembly are preparing engineers and data analysts to use ChatGPT)]]. ~ Michelle Cheng. #ChatGPT #Education #Programming
+
 *** 10-May-23
 + [[https://www2.ccs.neu.edu/racket/pubs/tfp23-m.pdf][Faster, simpler red-black trees]]. ~ Cameron Moy. #Haskell #FunctionalProgramming
 + [[https://github.com/eric-wieser/lean-matrix-cookbook][The Matrix Cookbook, using Lean's mathlib]]. ~ Eric Wieser. #ITP #LeanProver #Math
