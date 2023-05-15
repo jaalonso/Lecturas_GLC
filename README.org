@@ -48,6 +48,9 @@ its content.
 
 ** Mayo 2023
 
+*** 14-May-23
++ [[https://github.com/lsmor/snake-fury][Snake-fury, a challenge for Haskell beginners]]. ~ Luis Morillo Najarro. #Haskell #FunctionalProgramming
+
 *** 12-May-23
 + [[https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/611002/GarviaBosshard_Azucena.pdf][Formal verification of the sumcheck protocol]]. ~ Azucena Garvía Bosshard. #ITP #IsabelleHOL
 + [[https://www.linkedin.com/pulse/google-bard-here-talk-fermats-last-theorem-lean-lars-warren-ericson/][Google Bard is here to talk about Fermat's Last Theorem and Lean]]. ~ Lars Warren Ericson. #GenerativeAI #Bard #Math #ITP #Lean
