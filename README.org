@@ -48,6 +48,11 @@ its content.
 
 ** Mayo 2023
 
+*** 15-May-23
++ [[https://arxiv.org/abs/2212.02902][A univalent formalization of constructive affine schemes]]. ~ Max Zeuner, Anders Mörtberg. #ITP #Agda #Math
++ [[https://emanueleviola.wordpress.com/2023/05/14/mathematics-of-the-impossible-chapter-12-data-structures/][Mathematics of the impossible, Chapter 12, Data structures]]. #Math #CompSci
++ [[https://arxiv.org/abs/2305.07375][Is ChatGPT a good causal reasoner? A comprehensive evaluation]]. ~ Jinglong Gao, Xiao Ding, Bing Qin, Ting Liu. #AI #ChatGPT
+
 *** 14-May-23
 + [[https://github.com/lsmor/snake-fury][Snake-fury, a challenge for Haskell beginners]]. ~ Luis Morillo Najarro. #Haskell #FunctionalProgramming
 
