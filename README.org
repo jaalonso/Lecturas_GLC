@@ -48,6 +48,14 @@ its content.
 
 ** Mayo 2023
 
+*** 16-May-23
++ [[https://functional-algorithms-verified.org/functional_data_structures_algorithms.pdf][Functional data structures and algorithms (A proof assistant approach)]]. ~ Tobias Nipkow (ed.) #ITP #IsabelleHOL #FunctionalProgramming #Algorítmic
++ [[https://eprint.iacr.org/2023/656.pdf][Formalizing soundness proofs of SNARKs]]. ~ Bolton Bailey, Andrew Miller. #ITP #LeanProver #SNARKs
++ [[http://d-scholarship.pitt.edu/43969/19/Han%20-%20ETD%20-%202.pdf][Contributions to Neural Theorem Proving]]. ~ Jesse Michael Han. #PhDThesis #ITP #LeanProver #DeepLearning #NeuralNetwork #NTP #Math
++ [[https://www.youtube.com/live/1vd9mvH8Bos?feature=share][The Haskell Unfolder Episode 3: injectivity]]. ~ Edsko de Vries (@EdskoDeVries), Andres Löh (@kosmikus). #Haskell #FunctionalProgramming
++ [[https://www.theseus.fi/bitstream/handle/10024/796278/Vesanto-Riku.pdf?sequence=2][Functional programming in JavaScript]]. ~ Riku Vesanto. #FunctionalProgramming #JavaScript
++ [[https://eldiariodelaeducacion.com/2023/05/12/quien-fue-pere-puig-adam-y-que-le-debe-la-didactica-de-la-matematica/][¿Quién fue Pere Puig Adam y qué le debe la didáctica de la Matemática?]] #Matemática
+
 *** 15-May-23
 + [[https://arxiv.org/abs/2212.02902][A univalent formalization of constructive affine schemes]]. ~ Max Zeuner, Anders Mörtberg. #ITP #Agda #Math
 + [[https://emanueleviola.wordpress.com/2023/05/14/mathematics-of-the-impossible-chapter-12-data-structures/][Mathematics of the impossible, Chapter 12, Data structures]]. #Math #CompSci
