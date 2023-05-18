@@ -48,6 +48,17 @@ its content.
 
 ** Mayo 2023
 
+*** 17-May-23
++ [[https://arxiv.org/abs/2305.08955][Fermat's Last Theorem for regular primes]]. Alex J. Best, Christopher Birkbeck, Riccardo Brasca, Eric Rodriguez Boidi. #ITP #LeanProver #Math
++ [[https://api.repository.cam.ac.uk/server/api/core/bitstreams/0c856c04-daab-4c99-ab82-0d92baaf9fbd/content][Bayesian ranking for strategy scheduling in automated theorem provers]]. ~ Chaitanya Mangla, Sean B. Holden, Lawrence C. Paulson. #ATP #MachineLearning
++ [[https://youtu.be/ds4dL1zluDo][NADIA, a assistente de provas para dedução natural]]. ~ Adolfo Neto (@adolfont). #Logic #Teaching
++ [[https://www.isa-afp.org/entries/Three_Squares.html][Three squares theorem (in Isabelle/HOL)]]. ~ Anton Danilkin, Loïc Chevalier. #ITP #IsabelleHOL #Math
++ [[https://www.isa-afp.org/entries/Tree_Enumeration.html][Verified enumeration of trees (in Isabelle/HOL)]]. ~ Nils Cremer. #ITP #IsabelleHOL
++ [[https://siek.blogspot.com/2023/05/gradual-guarantee-via-step-indexed.html][Gradual guarantee via step-indexed logical relations]]. ~ Jeremy Siek (@jeremysiek). #ITP #Agda
++ [[https://arxiv.org/abs/2305.09656][Satisfiability-aided language models using declarative prompting]]. ~ Xi Ye, Qiaochu Chen, Isil Dillig, Greg Durrett. #LLMs #SAT_Solver
++ [[https://www.google.es/books/edition/Essential_Math_for_AI/kAqmEAAAQBAJ?hl=es&gbpv=1&pg=PP1&printsec=frontcover][Essential Math for AI]]. ~ Hala Nelson. #AI #Math
++ [[https://www.elconfidencial.com/tecnologia/2023-05-17/inteligencia-artificial-regulacion-europea-chatgpt_3630343/][La barra libre de la IA tiene los días contados: este es el plan para ponerle límite]]. ~ Mario Escribano. #IA
+
 *** 16-May-23
 + [[https://functional-algorithms-verified.org/functional_data_structures_algorithms.pdf][Functional data structures and algorithms (A proof assistant approach)]]. ~ Tobias Nipkow (ed.) #ITP #IsabelleHOL #FunctionalProgramming #Algorítmic
 + [[https://eprint.iacr.org/2023/656.pdf][Formalizing soundness proofs of SNARKs]]. ~ Bolton Bailey, Andrew Miller. #ITP #LeanProver #SNARKs
