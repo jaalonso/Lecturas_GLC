@@ -48,6 +48,13 @@ its content.
 
 ** Mayo 2023
 
+*** 18-May-23
++ [[https://link.springer.com/chapter/10.1007/978-3-031-33163-3_2][Using deep ontologies in formal software engineering]]. ~ Achim D. Brucker, Idir Ait-Sadoune, Nicolas Méric & Burkhart Wolff. #ITP #IsabelleHOL
++ [[https://www.isa-afp.org/entries/MLSS_Decision_Proc.html][MLSS (Multi-Level Syllogistic with Singleton) decision procedure (in Isabelle/HOL)]]. ~ Lukas Stevens. #ITP #Isabelle/HOL
++ [[https://arxiv.org/abs/2305.08676][An ensemble approach for automated theorem proving based on efficient name invariant graph neural representations]]. ~ Achille Fokoue et als. #ATP #NeuralNetwork
++ [[https://arxiv.org/abs/2305.07878][Automatic differentiation in Prolog]]. ~ Tom Schrijvers, Birthe van den Berg, Fabrizio Riguzzi. #Prolog #LogicProgramming #AutomaticDifferentiantion #ProbabilisticProgramming
++ [[https://realpython.com/chatgpt-coding-mentor-python][ChatGPT: Your personal Python coding mentor]]. ~ Martin Breuss. #ChatGPT #Python #Programming
+
 *** 17-May-23
 + [[https://arxiv.org/abs/2305.08955][Fermat's Last Theorem for regular primes]]. Alex J. Best, Christopher Birkbeck, Riccardo Brasca, Eric Rodriguez Boidi. #ITP #LeanProver #Math
 + [[https://api.repository.cam.ac.uk/server/api/core/bitstreams/0c856c04-daab-4c99-ab82-0d92baaf9fbd/content][Bayesian ranking for strategy scheduling in automated theorem provers]]. ~ Chaitanya Mangla, Sean B. Holden, Lawrence C. Paulson. #ATP #MachineLearning
