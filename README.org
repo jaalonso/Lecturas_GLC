@@ -48,6 +48,20 @@ its content.
 
 ** Mayo 2023
 
+*** 22-May-23
++ [[https://arstechnica.com/science/2023/05/when-it-comes-to-advanced-math-chatgpt-is-no-star-student/][When it comes to advanced math, ChatGPT is no star student]]. ~ Kenna Hughes-Castleberry. #ChatGPT #Math
++ [[https://arxiv.org/abs/2305.11837][Comparing software developers with ChatGPT: An empirical investigation]]. ~ Nathalia Nascimento, Paulo Alencar, Donald Cowan. #ChatGPT #Programming
++ [[https://arxiv.org/abs/2305.11738][CRITIC: Large Language Models can self-correct with tool-interactive critiquing]]. ~ Zhibin Gou, Zhihong Shao, Yeyun Gong, Yelong Shen, Yujiu Yang, Nan Duan, Weizhu Chen. #AI #LLMs
+
+*** 20-May-23
++ [[https://hal.science/hal-04096390/document][Testing a formally verified compiler]]. ~ D. Monniaux, L. Gourdin, S. Boulmé, O. Lebeltel. #ITP #Coq
+
+*** 19-May-23
++ [[https://arxiv.org/abs/2305.11015][COOL 2: A generic reasoner for modal fixpoint logics]]. ~ Oliver Görlitz, Daniel Hausmann, Merlin Humml, Dirk Pattinson, Simon Prucker, Lutz Schröder. #OCaml #Logic #ATP
++ [[https://arxiv.org/abs/2305.10888][Universal proof theory]]. ~ Rosalie Iemhoff, Raheleh Jalali. #Logic #Math
++ [[https://jship.github.io/posts/2023-05-11-learn-contravariant-in-five-minutes/][Learn Contravariant in 5 minutes]]. ~ Jason Shipman (@jship__). #Haskell #FunctionalProgramming
++ [[https://www.parsonsmatt.org/2023/05/11/working_with_haskell_callstack.html][Working with Haskell CallStack]]. ~ Matt Parsons (@mattoflambda). #Haskell #FunctionalProgramming
+
 *** 18-May-23
 + [[https://link.springer.com/chapter/10.1007/978-3-031-33163-3_2][Using deep ontologies in formal software engineering]]. ~ Achim D. Brucker, Idir Ait-Sadoune, Nicolas Méric & Burkhart Wolff. #ITP #IsabelleHOL
 + [[https://www.isa-afp.org/entries/MLSS_Decision_Proc.html][MLSS (Multi-Level Syllogistic with Singleton) decision procedure (in Isabelle/HOL)]]. ~ Lukas Stevens. #ITP #Isabelle/HOL
