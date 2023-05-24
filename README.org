@@ -48,6 +48,13 @@ its content.
 
 ** Mayo 2023
 
+*** 23-May-23
++ [[http://peace.eas.asu.edu/joolee/papers/gpt3-asp-kr.pdf][Neuro-symbolic reasoning with Large Language Models and Answer Set Programming: A case study on logic puzzles]]. ~ Adam Ishay, Zhun Yang, Joohyung Lee. #AI #GPT #MachineLearning #LogicProgramming #ASP
++ [[https://arxiv.org/abs/2305.12196][Experimental results from applying GPT-4 to an unpublished formal language]]. ~ Gregor vom Scheidt (@GregorVScheidt). #ChatGPT #GPT4 #FunctionalProgramming #Logic
++ [[https://arxiv.org/abs/2305.12147][LogiCoT: Logical Chain-of-Thought instruction-tuning data collection with GPT-4]]. ~ Hanmeng Liu, Zhiyang Teng, Leyang Cui, Chaoli Zhang, Qiji Zhou, Yue Zhang. #GPT4 #Logic
++ [[https://arxiv.org/abs/2305.12138][The scope of ChatGPT in software engineering: A thorough investigation]]. ~ Wei Ma, Shangqing Liu, Wenhan Wang, Qiang Hu, Ye Liu, Cen Zhang, Liming Nie, Yang Liu. #ChatGPT #Programming
++ [[https://books.google.es/books?id=UiK_EAAAQBAJ&lpg=PP1&hl=es&pg=PP][Mathematics for Computation (M4C)]]. ~ De Marco Benini, Olaf Beyersdorff, Michael Rathjen and Peter Schuster.1#v=onepage&q&f=false #Math #CompSci
+
 *** 22-May-23
 + [[https://arstechnica.com/science/2023/05/when-it-comes-to-advanced-math-chatgpt-is-no-star-student/][When it comes to advanced math, ChatGPT is no star student]]. ~ Kenna Hughes-Castleberry. #ChatGPT #Math
 + [[https://arxiv.org/abs/2305.11837][Comparing software developers with ChatGPT: An empirical investigation]]. ~ Nathalia Nascimento, Paulo Alencar, Donald Cowan. #ChatGPT #Programming
