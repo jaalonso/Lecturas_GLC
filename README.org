@@ -48,6 +48,10 @@ its content.
 
 ** Mayo 2023
 
+*** 24-May-23
++ [[https://arxiv.org/abs/2305.13673][Physics of Language Models: Part 1, context-free grammar]]. ~ Zeyuan Allen-Zhu, Yuanzhi Li. #GPT
++ [[https://arxiv.org/abs/2305.13788][Can Large Language Models infer and disagree like humans?]] ~ Noah Lee, Na Min An, James Thorne. #LLMs
+
 *** 23-May-23
 + [[http://peace.eas.asu.edu/joolee/papers/gpt3-asp-kr.pdf][Neuro-symbolic reasoning with Large Language Models and Answer Set Programming: A case study on logic puzzles]]. ~ Adam Ishay, Zhun Yang, Joohyung Lee. #AI #GPT #MachineLearning #LogicProgramming #ASP
 + [[https://arxiv.org/abs/2305.12196][Experimental results from applying GPT-4 to an unpublished formal language]]. ~ Gregor vom Scheidt (@GregorVScheidt). #ChatGPT #GPT4 #FunctionalProgramming #Logic
