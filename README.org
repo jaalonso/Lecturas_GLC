@@ -48,6 +48,19 @@ its content.
 
 ** Mayo 2023
 
+*** 26-May-23
++ [[https://youtu.be/1YqupR7gjKc][Formalising Erdős and Larson: Ordinal partition theory]]. ~ Lawrence C. Paulson (@LawrPaulson). #ITP #IsabelleHOL #Math
++ [[https://arxiv.org/abs/2305.14407][Large-scale formal proof for the working mathematician: Lessons learnt from the ALEXANDRIA project]]. ~ Lawrence C Paulson. #ITP #IsabelleHOL #Math
++ [[https://github.com/JeanHuguesdeRaigniac/effects-landscape/blob/55b7e179eb8501b994372f62f47458c792a87d08/v1/README.md][All cats are grey]]. ~ Jean-Hugues de Raigniac. #Haskell #FunctionalProgramming
++ [[https://www.prborges.com/2023/parsing-diff-in-haskell/][Parsing diff output in Haskell]]. ~ Pedro R. Borges. #Haskell #FunctionalProgramming
++ [[https://www.tweag.io/blog/2023-05-25-fp3-the-ghost-in-the-machine/][Functional Python, Part III: The ghost in the machine]]. ~ Christopher Harrison. #Python #FunctionalProgramming #Hypothesis
++ [[https://arxiv.org/abs/2206.02336][Making Large Language Models better reasoners with step-aware verifier]]. ~ Yifei Li, Zeqi Lin, Shizhuo Zhang, Qiang Fu, Bei Chen, Jian-Guang Lou, Weizhu Chen. #LLMs #Reasoning
++ [[https://arxiv.org/abs/2305.14699][Can transformers learn to solve problems recursively?]] ~ Shizhuo Dylan Zhang, Curt Tigges, Stella Biderman, Maxim Raginsky, Talia Ringer. #NeuralNetwork #Programming #Coq
++ [[https://arxiv.org/abs/2305.14497][Self-Polish: Enhance reasoning in Large Language Models via problem refinement]]. ~ Zhiheng Xi, Senjie Jin, Yuhao Zhou, Rui Zheng, Songyang Gao, Tao Gui, Qi Zhang, Xuanjing Huang. #LLMs #Reasoning
++ [[https://arxiv.org/abs/2305.14386][Let GPT be a math tutor: Teaching math word problem solvers with customized exercise generation]]. ~ Zhenwen Liang, Wenhao Yu, Tanmay Rajpurohit, Peter Clark, Xiangliang Zhang, Ashwin Kaylan. #GPT #Math #Education
++ [[https://arxiv.org/abs/2305.15771][On the planning abilities of Large Language Models (A critical investigation)]]. ~ Karthik Valmeekam, Matthew Marquez, Sarath Sreedharan, Subbarao Kambhampati. #LLMs #Reasoning
++ [[https://blog.acthompson.net/2023/05/coding-with-ais-prompts-are-important.html][Coding with AIs prompts are important]]. ~ Alfred Thompson (@alfredtwo). #AI #Programming
+
 *** 25-May-23
 + [[https://cacm.acm.org/magazines/2023/6/273222-the-silent-revolution-of-sat/fulltext][The silent (r)evolution of SAT]]. ~ Johannes K. Fichte, Daniel Le Berre, Markus Hecher, Stefan Szeider. #SAT
 + [[https://arxiv.org/abs/2305.15382][Theorem proving in Dependently-Typed Higher-Order Logic (Extended preprint)]]. ~ Colin Rothgang, Florian Rabe, Christoph Benzmüller. #ITP #HOL
