@@ -48,6 +48,14 @@ its content.
 
 ** Mayo 2023
 
+*** 27-May-23
++ [[https://adamtopaz.com/static/CommelinTopazAbstractionBoundaries.pdf][Abstraction boundaries and spec driven development in pure mathematics]]. ~ Johan Commelin, Adam Topaz. #ITP #LeanProver #Math
++ [[https://arxiv.org/abs/2305.15360][On program completion, with an application to the sum and product puzzle]]. ~ Vladimir Lifschitz. #ASP #LogicProgramming
++ [[https://arxiv.org/abs/2305.15374][ASPER: Answer Set Programming Enhanced Neural Network models for joint entity-relation extraction]]. ~ Trung Hoang Le, Huiping Cao, Tran Cao Son. #ASP #LogicProgramming #NeuralNetwork #MachineLearning #AI
++ [[https://arxiv.org/abs/2305.13504][Neural machine translation for code generation]]. ~ Dharma KC, Clayton T. Morrison. #NeuralNetwork #LLMs #Programming
++ [[https://arxiv.org/abs/2305.13680][ChatGPT, can you generate solutions for my coding exercises? An evaluation on its effectiveness in an undergraduate Java programming course]]. ~ Eng Lieh Ouh, Benjamin Kok Siew Gan, Kyong Jin Shim, Swavek Wlodkowski. #ChatGPT #Education #Programming
++ [[https://arxiv.org/abs/2305.14591][ALGO: Synthesizing algorithmic programs with generated oracle verifiers]]. ~ Kexun Zhang, Danqing Wang, Jingtao Xia, William Yang Wang, Lei Li. #LLMs #Programming
+
 *** 26-May-23
 + [[https://youtu.be/1YqupR7gjKc][Formalising Erdős and Larson: Ordinal partition theory]]. ~ Lawrence C. Paulson (@LawrPaulson). #ITP #IsabelleHOL #Math
 + [[https://arxiv.org/abs/2305.14407][Large-scale formal proof for the working mathematician: Lessons learnt from the ALEXANDRIA project]]. ~ Lawrence C Paulson. #ITP #IsabelleHOL #Math
