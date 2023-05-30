@@ -48,6 +48,11 @@ its content.
 
 ** Mayo 2023
 
+*** 29-May-23
++ [[https://leanprover.github.io/functional_programming_in_lean][Functional programming in Lean]]. ~ David Thrane Christiansen. #LeanProver #Lean4 #FunctionalProgramming
++ [[https://arxiv.org/abs/2212.10403][Towards reasoning in Large Language Models: A survey]]. ~ Jie Huang, Kevin Chen-Chuan Chang. #LLMs #Reasoning
++ [[https://arxiv.org/abs/2305.16646][Language models can improve event prediction by few-shot abductive reasoning]]. ~ Xiaoming Shi, Siqiao Xue, Kangrui Wang, Fan Zhou, James Y. Zhang, Jun Zhou, Chenhao Tan, Hongyuan Mei. #LLMs #Reasoning
+
 *** 28-May-23
 + [[https://www.theaustralian.com.au/commentary/big-tech-is-obscuring-the-greatest-heist-in-human-history/news-story/38ccd6871f173c1345c9053b5d167040 ][Big Tech is obscuring the ‘greatest heist’ in human history]]. ~ Toby Walsh (@TobyWalsh). #AI
 
