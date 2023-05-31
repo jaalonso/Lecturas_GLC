@@ -48,6 +48,14 @@ its content.
 
 ** Mayo 2023
 
+*** 30-May-23
++ [[https://www.proquest.com/openview/1c86fe582160dae130ec4cd4129de8f8/1?pq-origsite=gscholar&cbl=18750&diss=y][Formalizations of the Tonelli-Shanks algorithm in ACL2, integration by substitution and the Banach-Tarski theorem in ACL2(r)]]. ~ Jagadish Bapanapally. #PhDThesis #ITP #ACL2 #Math
++ [[https://youtube.com/playlist?list=PLVZep5wTamMmqv34JnrNC2AgjfPoh_LN8][London Learning Lean]]. #ITP #LeanProver #Math
++ [[https://agra.informatik.uni-bremen.de/doc/konf/RM2023_MN.pdf][Polynomial formal verification of adder circuits using Answer Set Programming]]. ~ M. Nadeem, J. Kleinekathöfer, R. Drechsler. #ASP #LogicProgramming
++ [[https://www.theseus.fi/bitstream/handle/10024/799583/Seikkinen_Ekaterina.pdf][How to use ChatGPT for programming]]. ~ E. Seikkinen. #ChatGPT #Programming
++ [[https://arxiv.org/abs/2305.17196][A knowledge engineering primer]]. ~ Agnieszka Lawrynowicz. #AI #KRR
++ [[https://bor0.wordpress.com/2023/05/29/beyond-software-engineering/][Beyond Software Engineering]]. ~ Boro Sitnikovski (@BSitnikovski). #Learning
+
 *** 29-May-23
 + [[https://leanprover.github.io/functional_programming_in_lean][Functional programming in Lean]]. ~ David Thrane Christiansen. #LeanProver #Lean4 #FunctionalProgramming
 + [[https://arxiv.org/abs/2212.10403][Towards reasoning in Large Language Models: A survey]]. ~ Jie Huang, Kevin Chen-Chuan Chang. #LLMs #Reasoning
