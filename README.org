@@ -48,6 +48,16 @@ its content.
 
 ** Mayo 2023
 
+*** 31-May-23
++ [[https://youtu.be/R64sCXU0Ru0][Haskell course: Lesson 13: Modules]]. ~ Robertino Martínez (@_roberm_). #Haskell #FunctionalProgramming
++ [[https://youtu.be/R64sCXU0Ru0][Haskell course: Lesson 12: Installing Haskell locally]]. ~ Robertino Martínez (@_roberm_). #Haskell #FunctionalProgramming
++ [[https://arxiv.org/abs/2305.18569][Fairness of ChatGPT]]. ~ Yunqi Li, Yongfeng Zhang. #ChatGPT #LLMs
++ [[https://arxiv.org/abs/2305.18507][Code prompting: a neural symbolic method for complex reasoning in large language models]]. ~ Yi Hu, Haotong Yang, Zhouchen Lin, Muhan Zhang. #LLMs #Reasoning
++ [[https://arxiv.org/abs/2305.18486][A systematic study and comprehensive evaluation of ChatGPT on benchmark datasets]]. ~ Md Tahmid Rahman Laskar, M Saiful Bari, Mizanur Rahman, Md Amran Hossen Bhuiyan, Shafiq Joty, Jimmy Xiangji Huang. #ChatGPT
++ [[https://arxiv.org/abs/2305.18354][LLMs and the abstraction and reasoning corpus: Successes, failures, and the importance of object-based representations]]. ~ Yudong Xu, Wenhao Li, Pashootan Vaezipoor, Scott Sanner, Elias B. Khalil. #LLMs #Reasoning
++ [[https://arxiv.org/abs/2305.18339][A survey on ChatGPT: AI-generated contents, challenges, and solutions]]. ~ Yuntao Wang, Yanghe Pan, Miao Yan, Zhou Su, Tom H. Luan. #ChatGPT
++ [[https://arxiv.org/abs/2305.18415][Geometric algebra transformers]]. ~ Johann Brehmer, Pim de Haan, Sönke Behrends, Taco Cohen. #GATr
+
 *** 30-May-23
 + [[https://www.proquest.com/openview/1c86fe582160dae130ec4cd4129de8f8/1?pq-origsite=gscholar&cbl=18750&diss=y][Formalizations of the Tonelli-Shanks algorithm in ACL2, integration by substitution and the Banach-Tarski theorem in ACL2(r)]]. ~ Jagadish Bapanapally. #PhDThesis #ITP #ACL2 #Math
 + [[https://youtube.com/playlist?list=PLVZep5wTamMmqv34JnrNC2AgjfPoh_LN8][London Learning Lean]]. #ITP #LeanProver #Math
