@@ -11,6 +11,7 @@ its content.
 
 * Content                                                                      :TOC:
 - [[#lecturas-del-año-2023][Lecturas del año 2023]]
+  - [[#junio-2023][Junio 2023]]
   - [[#mayo-2023][Mayo 2023]]
   - [[#abril-2023][Abril 2023]]
   - [[#marzo-2023][Marzo 2023]]
@@ -45,6 +46,26 @@ its content.
 - [[#lecturas-anteriores][Lecturas anteriores]]
 
 * Lecturas del año 2023
+
+** Junio 2023
+
+*** 01-Jun-23
++ [[https://arxiv.org/abs/2305.19882][Constructive mathematics and teaching]]. ~ Alexander Shen. #Math #Teaching
++ [[https://cnitarot.github.io/papers/rtt_netys2023.pdf][A formal analysis of Karn’s algorithm]]. ~ Max von Hippel, Kenneth L. McMillan, Cristina Nita-Rotaru, Lenore D. Zuck. #ITP #ACL2
++ [[https://arxiv.org/abs/2112.07292][Verifying an effect-handler-based define-by-run reverse-mode AD library]]. ~ Paulo Emílio de Vilhena, François Pottier. #ITP #Coq #OCaml #FunctionalProgramming
++ [[https://leanprover.zulipchat.com/user_uploads/3121/sBLpQzPjNyOThflQs_k1JyHI/slides.pdf][On the formalisation of topological K-theory]]. ~ Oliver Nash. #ITP #LeanProver #Math
++ [[https://hal.science/hal-04102940/document][Formally verifying optimizations with block simulations]]. ~ Léo Gourdin, Benjamin Bonneau, Sylvain Boulmé, David Monniaux, Alexandre Bérard. #ITP #Coq
++ [[https://lemonidas.github.io/pdf/ETNA.pdf][Etna: An evaluation platform for property-based testing (Experience report)]]. ~ Jessica Shi, Alperen Keles, Harrison Goldstein, Benjamin C. Pierce, Leonidas Lampropoulos. #Haskell #FunctionalProgramming #ITP #Coq
++ [[https://byorgey.wordpress.com/2023/05/31/competitive-programming-in-haskell-introduction-to-dynamic-programming/][Competitive programming in Haskell: introduction to dynamic programming]]. ~ Brent Yorgey. #Haskell #FunctionalProgramming
++ [[https://www.youtube.com/live/N0d7_MJmsKQ?feature=share][The Haskell Unfolder Episode 4: falsify]]. ~ Edsko de Vries (@EdskoDeVries). #Haskell #FunctionalProgramming
++ [[https://mgree.github.io/papers/2023types_lh2coq.pdf][Towards a translation from Liquid Haskell to Coq]]. ~ Lykourgos Mastorou, Niki Vazou, Michael Greenberg. #Haskell #Coq
++ [[https://arxiv.org/abs/2305.16366][Decomposing the enigma: Subgoal-based demonstration learning for formal theorem proving]]. ~ Xueliang Zhao, Wenda Li, Lingpeng Kong. #LLMs #ITP
++ [[https://arxiv.org/abs/2305.17485][External behavior of a logic program and verification of refactoring]]. ~ Jorge Fandinno, Zachary Hansen, Yuliya Lierler, Vladimir Lifschitz, Nathan Temple. #ASP #LogicProgramming #ATP #Vampire
++ [[https://openai.com/research/improving-mathematical-reasoning-with-process-supervision][Improving mathematical reasoning with process supervision]]. ~ Karl Cobbe, Hunter Lightman, Vineet Kosaraju, Yura Burda, Harri Edwards, Jan Leike, Ilya Sutskever. #ChatGPT #Math #Reasoning
++ [[https://openai.com/research/formal-math][Solving (some) formal math olympiad problems]]. ~ Stanislas Polu, Jesse Michael Han, Ilya Sutskever. #ChatGPT #Math #ITP #LeanProver
++ [[https://arxiv.org/abs/2305.16837][ChatGPT: A study on its utility for ubiquitous software engineering tasks]]. ~ Giriprasad Sridhara, Ranjani H.G., Sourav Mazumdar. #ChatGPT #Programming
+
+
 
 ** Mayo 2023
 
