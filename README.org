@@ -49,6 +49,15 @@ its content.
 
 ** Junio 2023
 
+*** 02-Jun-23
++ [[https://www.isa-afp.org/entries/Efficient_Weighted_Path_Order.html][A verified efficient implementation of the weighted path order (in Isabelle/HOL)]]. ~ René Thiemann, Elias Wenninger. #ITP #IsabelleHOL
++ [[https://arxiv.org/abs/2306.00478][From proof theory to theories theory]]. ~ Gilles Dowek. #Logic #Math #CompSci
++ [[https://apotheca.io/articles/Indexed-Recursion-Schemes.html][Haskell: Indexed recursion schemes]]. ~ Leo D. #Haskell #FunctionalProgramming
++ [[https://haskell.foundation/hs-opt-handbook.github.io/][Haskell Optimization Handbook]]. ~ Jeffrey M. Young. #Haskell #FunctionalProgramming
++ [[https://typeclasses.substack.com/p/programming-requires-breadth-of-knowledge][Programming requires breadth of knowledge]]. ~ Chris Martin (@chris__martin). #Haskell #FunctionalProgramming
++ [[https://cacm.acm.org/news/273482-ai-is-writing-code-now-for-companies-that-is-good-and-bad/fulltext][AI is writing code now]]. For companies, that is good and bad. #GenerativeAI #Programming
++ [[http://softlang.uni-koblenz.de/versen23/slides.pdf][Software engineering career planning in the age of AGI+/-]]. ~ Ralf Lämmel. #AI #SE
+
 *** 01-Jun-23
 + [[https://arxiv.org/abs/2305.19882][Constructive mathematics and teaching]]. ~ Alexander Shen. #Math #Teaching
 + [[https://cnitarot.github.io/papers/rtt_netys2023.pdf][A formal analysis of Karn’s algorithm]]. ~ Max von Hippel, Kenneth L. McMillan, Cristina Nita-Rotaru, Lenore D. Zuck. #ITP #ACL2
