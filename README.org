@@ -49,6 +49,22 @@ its content.
 
 ** Junio 2023
 
+*** 03-Jun-23
++ [[https://pp.info.uni-karlsruhe.de/uploads/publikationen/huisinga23masterarbeit.pdf][Static uniqueness analysis for the Lean 4 theorem prover]]. ~ M. Huisinga. #ITP #LeanProver
++ [[https://terrytao.wordpress.com/2023/06/02/ai-to-assist-mathematical-reasoning-a-workshop/][AI to assist mathematical reasoning: A workshop]]. #AI #Math
++ [[https://byorgey.wordpress.com/2023/06/02/dynamic-programming-in-haskell-lazy-immutable-arrays/][Dynamic programming in Haskell: lazy immutable arrays]]. ~ Brent Yorgey. #Haskell #FunctionalProgramming
++ [[https://research.chalmers.se/publication/535846/file/535846_Fulltext.pdf][High-level programming on low-level platforms (Two domain-specific  languages based on Haskell)]]. ~ R. Krook. #Haskell #FunctionalProgramming  #DSL
++ [[https://www.tweag.io/blog/2023-06-01-translation-testing/][Testing control-flow translations in GHC]]. ~ Norman Ramsey. #Haskell #FunctionalProgramming
++ [[https://pubs.aip.org/aip/acp/article/2718/1/030003/2892959/Application-of-Kuratowski-s-closure-operator-in][Application of Kuratowski's closure operator in Python program]]. ~ M. Vivek Prabu, M. Rahini. #Python #Math
++ [[https://pubs.aip.org/aip/acp/article/2718/1/030005/2892961/Finding-the-limit-points-and-derived-set-using][Finding the limit points and derived set using Python]]. ~ M. Vivek Prabu, K. Geethu Krishna, R. Karthika. #Python #Math
++ [[https://elpais.com/ciencia/las-cientificas-responden/2023-06-01/que-es-la-logica-difusa-y-para-que-sirve.html][¿Qué es la lógica difusa y para qué sirve?]] ~ Laura de Miguel. #Lógica #Matemática
++ [[https://bit.ly/3C9Bll5][La difícil demostración de la conjetura (corregida) de la hermana Beiter]]. ~ Juan Arias de Reyna. #Matemáticas
++ [[https://arxiv.org/abs/2304.09250][A proof of the corrected Sister Beiter cyclotomic coefficient conjecture inspired by Zhao and Zhang]]. ~ Branko Juran, Pieter Moree, Adrian Riekert, David Schmitz, Julian Völlmecke. #Math
++ [[https://www.geeksforgeeks.org/chatgpt-prompts-for-software-developers/][Top 20 ChatGPT prompts for software developers]]. #ChatGPT #Programming
++ [[https://cacm.acm.org/news/273515-the-race-to-make-ai-smaller-smarter/fulltext][The race to make AI smaller, smarter]]. #AI #LLMs
++ [[https://cacm.acm.org/careers/273530-professors-use-oral-exams-to-thwart-ai-enabled-cheating/fulltext][Professors use oral exams to thwart AI-enabled cheating]]. #AI #Education
++ [[https://www.elconfidencial.com/tecnologia/novaceno/2023-06-03/chatgpt-inteligencia-artificial-ingles-mejor-que-espanol_3658315/][ChatGPT favorece el inglés y perjudica al español en la gran revolución de la IA]]. ~ María Duarte. #ChatGPT
+
 *** 02-Jun-23
 + [[https://www.isa-afp.org/entries/Efficient_Weighted_Path_Order.html][A verified efficient implementation of the weighted path order (in Isabelle/HOL)]]. ~ René Thiemann, Elias Wenninger. #ITP #IsabelleHOL
 + [[https://arxiv.org/abs/2306.00478][From proof theory to theories theory]]. ~ Gilles Dowek. #Logic #Math #CompSci
