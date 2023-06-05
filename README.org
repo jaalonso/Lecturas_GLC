@@ -49,6 +49,9 @@ its content.
 
 ** Junio 2023
 
+*** 04-Jun-23
++ [[https://www.kdnuggets.com/2023/05/top-10-tools-detecting-chatgpt-gpt4-bard-llms.html][Top 10 tools for detecting ChatGPT, GPT-4, Bard, and Claude]]. ~ Abid Ali Awan. #ChatGPT #GPT4 #Bard #Claude
+
 *** 03-Jun-23
 + [[https://pp.info.uni-karlsruhe.de/uploads/publikationen/huisinga23masterarbeit.pdf][Static uniqueness analysis for the Lean 4 theorem prover]]. ~ M. Huisinga. #ITP #LeanProver
 + [[https://terrytao.wordpress.com/2023/06/02/ai-to-assist-mathematical-reasoning-a-workshop/][AI to assist mathematical reasoning: A workshop]]. #AI #Math
