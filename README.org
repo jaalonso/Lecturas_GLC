@@ -49,6 +49,10 @@ its content.
 
 ** Junio 2023
 
+*** 05-Jun-23
++ [[https://terrytao.wordpress.com/2023/06/04/inequalities-convergence-and-continuity-as-special-deals/][Inequalities, convergence, and continuity as “special deals”]]. ~ Terence Tao. #Math
++ [[https://arxiv.org/abs/2306.01009][Examining the emergence of deductive reasoning in generative language models]]. ~ Peter Belcak, Luca A. Lanzendörfer, Roger Wattenhofer. #LLMs #Reasoning
+
 *** 04-Jun-23
 + [[https://www.kdnuggets.com/2023/05/top-10-tools-detecting-chatgpt-gpt4-bard-llms.html][Top 10 tools for detecting ChatGPT, GPT-4, Bard, and Claude]]. ~ Abid Ali Awan. #ChatGPT #GPT4 #Bard #Claude
 
