@@ -49,6 +49,32 @@ its content.
 
 ** Junio 2023
 
+*** 06-Jun-23
++ [[https://hal.science/hal-04108775/document]["Lazy" code transformations in a formally verified compiler]]. ~ Léo Gourdin. #ITP #Coq
++ [[https://byorgey.wordpress.com/2023/06/06/dynamic-programming-in-haskell-automatic-memoization/][Dynamic programming in Haskell: automatic memoization]]. ~ Brent Yorgey. #Haskell #FunctionalProgramming
++ [[https://penkovsky.com/neural-networks/day1/][10 Days of grad: Deep learning from the first principles (Day 1: Learning neural networks the hard way)]]. ~ Bogdan Penkovsky (@penkovsky). #Haskell #FunctionalProgramming #AI #DeepLearning
++ [[https://penkovsky.com/neural-networks/day2/][10 Days of grad: Deep learning from the first principles (Day 2: What do hidden layers do?)]]. ~ Bogdan Penkovsky (@penkovsky). #Haskell #FunctionalProgramming #AI #DeepLearning
++ [[https://penkovsky.com/neural-networks/day3/][10 Days of grad: Deep learning from the first principles (Day 3: Haskell guide to neural networks)]]. ~ Bogdan Penkovsky (@penkovsky). #Haskell #FunctionalProgramming #AI #DeepLearning
++ [[https://penkovsky.com/neural-networks/day4/][10 Days of grad: Deep learning from the first principles (Day 4: The importance of batch normalization)]]. ~ Bogdan Penkovsky (@penkovsky). #Haskell #FunctionalProgramming #AI #DeepLearning
++ [[https://penkovsky.com/neural-networks/day5/][10 Days of grad: Deep learning from the first principles (Day 5: Convolutional neural networks tutorial)]]. ~ Bogdan Penkovsky (@penkovsky). #Haskell #FunctionalProgramming #AI #DeepLearning
++ [[https://penkovsky.com/neural-networks/day6/][10 Days of grad: Deep learning from the first principles (Day 6: Saving energy with binarized neural networks)]]. ~ Bogdan Penkovsky (@penkovsky). #Haskell #FunctionalProgramming #AI #DeepLearning
++ [[https://penkovsky.com/neural-networks/day7/][10 Days of grad: Deep learning from the first principles (Day 7: Real world deep learning)]]. ~ Bogdan Penkovsky (@penkovsky). #Haskell #FunctionalProgramming #AI #DeepLearning
++ [[https://penkovsky.com/neural-networks/day8/][10 Days of grad: Deep learning from the first principles (Day 8: Model uncertainty estimation)]]. ~ Bogdan Penkovsky (@penkovsky). #Haskell #FunctionalProgramming #AI #DeepLearning
++ [[https://penkovsky.com/neural-networks/day9/][10 Days of grad: Deep learning from the first principles (Day 9: Roaming the latent space)]]. ~ Bogdan Penkovsky (@penkovsky). #Haskell #FunctionalProgramming #AI #DeepLearning
++ [[https://penkovsky.com/neural-networks/day10/][10 Days of grad: Deep learning from the first principles (Day 10: Beyond supervised learning)]]. ~ Bogdan Penkovsky (@penkovsky). #Haskell #FunctionalProgramming #AI #DeepLearning
++ [[https://medium.com/geekculture/use-lambda-calculus-to-think-about-functional-programming-4734f80e7714][About functional programming (A fun way to reason)]]. ~ Mary Paskhaver. #FunctionalProgramming #LambdaCalculus
++ [[https://arxiv.org/abs/2304.02074][Introduction to Pylog]]. ~ Clarence Lewis Protin. #ITP #PyLog #Python #Logic
++ [[https://jasondelaat.github.io/pymonad_docs/explanations/whats-a-monad.html][What's a monad?]] ~ Jason DeLaat. #Python #FunctionalProgramming
++ [[http://philsci-archive.pitt.edu/22198/1/Equiv_Ax_EG.pdf][Equivalent axiomatizations of euclidean geometry]]. ~ Jeffrey Ketland. #Math
++ [[https://blog.acthompson.net/2023/06/conversations-on-ai-in-education.html][Conversations on AI in education]]. ~ Alfred Thompson (@alfredtwo). #AI #Education
++ [[https://cacm.acm.org/blogs/blog-cacm/273577-ai-does-not-help-programmers/fulltext][AI does not help programmers]]. ~ Bertrand Meyer. #AI #Programming
++ [[https://interferencia.cl/articulos/el-hombre-que-intento-redimir-el-mundo-mediante-la-logica-matematica][La historia de Walter Pitts: El hombre que intentó redimir el mundo mediante la lógica matemática]]. ~ Amanda Gefter. #Lógica #Matemática #IA
++ [[https://nautil.us/the-man-who-tried-to-redeem-the-world-with-logic-235253/][The man who tried to redeem the world with logic (Walter Pitts rose from the streets to MIT, but couldn’t escape himself)]]. ~ Amanda Gefter. #Logic #Math #AI
++ [[https://arxiv.org/abs/2306.01744][Disproving XAI myths with formal methods (Initial results)]]. ~ Joao Marques-Silva. #XAI #FormalMethods
++ [[https://cacm.acm.org/careers/273586-harvards-popular-online-computer-class-will-rely-on-ai-for-help/fulltext][Harvard's popular online computer class will rely on AI for help]]. #AI #Education
++ [[https://arxiv.org/abs/2306.01784][Evaluating GPT's programming capability through CodeWars' katas]]. ~ Zizhuo Zhang, Lian Wen, Shaoyang Zhang, David Chen, Yanfei Jiang. #GPT #Programming
++ [[https://cacm.acm.org/blogs/blog-cacm/273606-chatgpt-is-not-a-technological-singularity/fulltext][ChatGPT is not a technological singularity]]. ~ Daniel Lemire. #ChatGPT
+
 *** 05-Jun-23
 + [[https://terrytao.wordpress.com/2023/06/04/inequalities-convergence-and-continuity-as-special-deals/][Inequalities, convergence, and continuity as “special deals”]]. ~ Terence Tao. #Math
 + [[https://arxiv.org/abs/2306.01009][Examining the emergence of deductive reasoning in generative language models]]. ~ Peter Belcak, Luca A. Lanzendörfer, Roger Wattenhofer. #LLMs #Reasoning
