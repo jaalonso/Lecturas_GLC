@@ -49,6 +49,12 @@ its content.
 
 ** Junio 2023
 
+*** 07-Jun-23
++ [[https://arxiv.org/abs/2306.01694][Evaluating language models for mathematics through interactions]]. ~ K.M. Collins, A.Q. Jiang, S. Frieder, L. Wong, M. Zilka, U. Bhatt, T. Lukasiewicz, Y. Wu, J.B. Tenenbaum, W. Hart, T. Gowers, W. Li, A. Weller, M. Jamnik. #LLMs #Math #Reasoning
++ [[https://arxiv.org/abs/2306.00597][Analysis of ChatGPT on source code]]. ~ Ahmed R. Sadik, Antonello Ceravola, Frank Joublin, Jibesh Patra. #ChatGPT #Programming
++ [[https://arxiv.org/abs/2205.12735][Neuro-symbolic learning of answer set programs from raw data]]. ~ Daniel Cunnington, Mark Law, Jorge Lobo, Alessandra Russo. #ASP #LogicProgramming #MachineLearning #AI
++ [[https://arxiv.org/abs/2306.03102][ChatGPT is a remarkable tool (for experts)]]. ~ Amos Azaria, Rina Azoulay, Shulamit Reches. #ChatGPT
+
 *** 06-Jun-23
 + [[https://hal.science/hal-04108775/document]["Lazy" code transformations in a formally verified compiler]]. ~ Léo Gourdin. #ITP #Coq
 + [[https://byorgey.wordpress.com/2023/06/06/dynamic-programming-in-haskell-automatic-memoization/][Dynamic programming in Haskell: automatic memoization]]. ~ Brent Yorgey. #Haskell #FunctionalProgramming
