@@ -49,6 +49,24 @@ its content.
 
 ** Junio 2023
 
+*** 09-Jun-23
++ [[https://www.isa-afp.org/entries/Multirelations_Heterogeneous.html][Inner structure, determinism and modal algebra of multirelations (in Isabelle/HOL)]]. ~ Walter Guttmann, Georg Struth. #ITP #IsabelleHOL
++ [[https://arxiv.org/abs/2305.14825][Large Language Models are in-context semantic reasoners rather than symbolic reasoners]]. ~ Xiaojuan Tang, Zilong Zheng, Jiaqi Li, Fanxu Meng, Song-Chun Zhu, Yitao Liang, Muhan Zhang. #LLMs #Reasoning
+
+*** 08-Jun-23
++ [[https://easychair.org/publications/open/lNvq][An interactive SMT tactic in Coq using abductive reasoning]]. ~ Haniel Barbosa, Chantal Keller, Andrew Reynolds, Arjun Viswanathan, Cesare Tinelli, Clark Barrett. #ITP #Coq #SMT
++ [[https://www.easychair.org/publications/open/93F2][Formalization of algebraic theorems in PVS]]. ~ Mauricio Ayala-Rincon, Thaynara Arielly de Lima, Andréia B. Avelar, André Luiz Galdino. #ITP #PVS #Math
++ [[https://etd.ohiolink.edu/apexprod/rws_etd/send_file/send?accession=ohiou1680288961557783&disposition=inline][Formally verifed samplers from discrete probabilistic programs]]. ~ Alexander A. Bagnall. #ITP #Coq
++ [[https://arxiv.org/abs/2306.04031][Certified reasoning with language models]]. ~ Gabriel Poesia, Kanishk Gandhi, Eric Zelikman, Noah D. Goodman. #LLMs #Reasoning
++ [[https://arxiv.org/abs/2306.03872][Deductive verification of chain-of-thought reasoning]]. ~ Zhan Ling, Yunhao Fang, Xuanlin Li, Zhiao Huang, Mingu Lee, Roland Memisevic, Hao Su. #LLMs #Reasoning #Math
++ [[https://urbain.vaes.uk/static/teaching/scientific_computing/build/main.pdf][Practical scientific computing]]. ~ Urbain Vaes. #JuliaLang #Math
++ [[https://realpython.com/zen-of-python/][What's the Zen of Python?]] ~ Bartosz Zaczyński. #Python #Programming
++ [[https://arstechnica.com/science/2023/06/googles-deepmind-develops-a-system-that-writes-efficient-algorithms/][AI system devises first optimizations to sorting code in over a decade (Writing efficient code was turned into a game, and the AI played to win)]]. ~ John Timmer. #AI #AlphaDev #Programming
++ [[https://www.deepmind.com/blog/alphadev-discovers-faster-sorting-algorithms][AlphaDev discovers faster sorting algorithms]]. ~ Daniel J. Mankowitz, Andrea Michi. #AI #AlphaDev #Programming
++ [[https://www.nature.com/articles/s41586-023-06004-9][Faster sorting algorithms discovered using deep reinforcement learning]]. ~ Daniel J. Mankowitz et als. #AI #AlphaDev #Programming
++ [[https://www.xataka.com/robotica-e-ia/deepmind-acaba-crear-algoritmo-ordenacion-que-70-rapido-que-todos-que-existian][DeepMind acaba de crear un algoritmo de ordenación que es un 70% más rápido que todos los que existían]]. ~ Javier Pastor (@javipas). #IA #AlphaDev #Programación
++ [[https://www.universidadsi.es/pdte-de-socrates-a-chatgpt/][De Sócrates a ChatGPT]]. ~ Mariano Fernández Enguita. #ChatGPT #Educación
+
 *** 07-Jun-23
 + [[https://arxiv.org/abs/2306.01694][Evaluating language models for mathematics through interactions]]. ~ K.M. Collins, A.Q. Jiang, S. Frieder, L. Wong, M. Zilka, U. Bhatt, T. Lukasiewicz, Y. Wu, J.B. Tenenbaum, W. Hart, T. Gowers, W. Li, A. Weller, M. Jamnik. #LLMs #Math #Reasoning
 + [[https://arxiv.org/abs/2306.00597][Analysis of ChatGPT on source code]]. ~ Ahmed R. Sadik, Antonello Ceravola, Frank Joublin, Jibesh Patra. #ChatGPT #Programming
