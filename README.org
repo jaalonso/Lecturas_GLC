@@ -49,6 +49,13 @@ its content.
 
 ** Junio 2023
 
+*** 11-Jun-23
++ [[https://youtube.com/playlist?list=PL6N_Y7ao_aHsHaECz813UGIvAGmrfrOYX][Course on Software Verification]]. #ITP #LeanProver #Logic
++ [[https://www.elconfidencial.com/tecnologia/2023-06-11/inteligencia-artificial-ia-talento-ingenieros-openai_3661811/][La IA ha puesto aún más difícil fichar talento en España: "Ya tenemos que pagar 100]].000 €". ~  Mario Escribano. #IA
++ [[https://elpais.com/ideas/2023-06-10/el-gran-robo-de-la-inteligencia-artificial-alguien-pidio-permiso-para-vampirizar-todo-conocimiento-generado-por-los-humanos.html][El gran robo de la inteligencia artificial: ¿alguien pidió permiso para vampirizar todo conocimiento generado por los humanos?]] ~ Naomi Klein. #IA #ChatGPT
++ [[https://www.enriquedans.com/2023/05/lo-que-ocurre-cuando-pides-cosas-a-una-maquina-disenada-para-decir-lo-que-quieres-oir.html][Lo que ocurre cuando pides cosas a una máquina diseñada para decir lo que quieres oír ...]] ~ Enrique Dans (@edans). #ChatGPT
++ [[https://medium.com/enrique-dans/this-is-what-happens-when-you-trust-a-machine-designed-to-say-what-you-want-to-hear-4edbeb82258f][This is what happens when you trust a machine designed to say what you want to hear ...]] ~ Enrique Dans (@edans). #ChatGPT
+
 *** 10-Jun-23
 + [[http://dr.iiserpune.ac.in:8080/xmlui/handle/123456789/7818][Proved algorithms in geometric group theory]]. ~ Anand Rao Tadipatri. #ITP #LeanProver #Math
 + [[https://publik.tuwien.ac.at/files/publik_302699.pdf][Automated generation of exam sheets for automated deduction]]. ~ Petra Hozzová, Laura Kovács, Jakob Rath. #Logic #ATP #Teaching #Haskell #FunctionalProgramming
