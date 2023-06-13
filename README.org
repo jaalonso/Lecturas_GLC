@@ -49,6 +49,9 @@ its content.
 
 ** Junio 2023
 
+*** 12-Jun-23
++ [[https://jship.github.io/posts/2023-06-11-anonymous-sums-from-scratch/][Anonymous sums from scratch]]. ~ Jason Shipman (@jship__) #Haskell #FunctionalProgramming
+
 *** 11-Jun-23
 + [[https://youtube.com/playlist?list=PL6N_Y7ao_aHsHaECz813UGIvAGmrfrOYX][Course on Software Verification]]. #ITP #LeanProver #Logic
 + [[https://www.elconfidencial.com/tecnologia/2023-06-11/inteligencia-artificial-ia-talento-ingenieros-openai_3661811/][La IA ha puesto aún más difícil fichar talento en España: "Ya tenemos que pagar 100]].000 €". ~  Mario Escribano. #IA
