@@ -49,6 +49,18 @@ its content.
 
 ** Junio 2023
 
+*** 13-Jun-23
++ [[https://dl.acm.org/doi/pdf/10.1145/3591224][WasmRef-Isabelle: A verified monadic interpreter and industrial fuzzing oracle for WebAssembly]]. ~ Conrad Watt, Maja Trela, Peter Lammich, Florian Märkl. #ITP #IsabelleHOL
++ [[https://mediatum.ub.tum.de/doc/1709010/document.pdf][Verified enumeration of trees]]. ~ Nils Cremer. #ITP #IsabelleHOL
++ [[https://dl.acm.org/doi/pdf/10.1145/3591260][Better defunctionalization through lambda set specialization]]. ~ William Brandon, Benjamin Driscoll, Frank Dai, Wilson Berkow, Mae Milano. #ITP #IsabelleHOL
++ [[https://leanprover-community.github.io/blog/posts/banff-cohomology/][Formalising cohomology theories]]. ~ Kevin Buzzard. #ITP #LeanProver #Math
++ [[https://dl.acm.org/doi/pdf/10.1145/3591259][PureCake: A verified compiler for a lazy functional language]]. ~ Hrutvik Kanabar et als. #ITP #HOL4
++ [[https://dl.acm.org/doi/pdf/10.1145/3591245][Verified density compilation for a probabilistic programming language]]. ~ Joseph Tassarotti, Jean-Baptiste Tristan. #ITP #Coq
++ [[https://www.proquest.com/openview/35fb73b0e166f2a9f90523e047c14422][A functional computer algebra system for polynomials]]. ~ Thomas Meek. #Haskell #FunctionalProgramming
++ [[https://unlocked.microsoft.com/ai-anthology/terence-tao/][AI Anthology: Embracing change and resetting expectations]]. ~ Terence Tao. #AI #Math
++ [[https://unlocked.microsoft.com/ai-anthology/][AI Anthology (Reflections on AI and the future of human flourishing)]]. #AI
++ [[https://cacm.acm.org/news/273807-chatgpt-in-the-classroom/fulltext][ChatGPT in the classroom]]. ~ Logan Kugler. #ChatGPT #Education
+
 *** 12-Jun-23
 + [[https://jship.github.io/posts/2023-06-11-anonymous-sums-from-scratch/][Anonymous sums from scratch]]. ~ Jason Shipman (@jship__) #Haskell #FunctionalProgramming
 
