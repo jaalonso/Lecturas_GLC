@@ -49,6 +49,10 @@ its content.
 
 ** Junio 2023
 
+*** 14-Jun-23
++ [[https://youtu.be/AvpMOMSSZHs][Haskell course: Lesson 14: Cabal and language extensions]]. ~ Robertino Martínez (@_roberm_). #Haskell #FunctionalProgramming
++ [[https://arxiv.org/abs/2212.10071][Large language models are reasoning teachers]]. ~ Namgyu Ho, Laura Schmid, Se-Young Yun. #LLMs #Reasoning
+
 *** 13-Jun-23
 + [[https://dl.acm.org/doi/pdf/10.1145/3591224][WasmRef-Isabelle: A verified monadic interpreter and industrial fuzzing oracle for WebAssembly]]. ~ Conrad Watt, Maja Trela, Peter Lammich, Florian Märkl. #ITP #IsabelleHOL
 + [[https://mediatum.ub.tum.de/doc/1709010/document.pdf][Verified enumeration of trees]]. ~ Nils Cremer. #ITP #IsabelleHOL
