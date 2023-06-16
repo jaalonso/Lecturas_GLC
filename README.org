@@ -49,6 +49,17 @@ its content.
 
 ** Junio 2023
 
+*** 15-Jun-23
++ [[https://www.isa-afp.org/entries/Zeckendorf.html][Zeckendorf’s theorem (in Isabelle/HOL)]]. ~ Christian Dalvit. #ITP #IsabelleHOL #Math
++ [[https://www.ssrg.ece.vt.edu/papers/tap23-rt.pdf][Low-level reachability analysis based on formal logic]]. ~ Nico Naus, Freek Verbeek, Marc Schoolderman, Binoy Ravindran. #ITP #IsabelleHOL
++ [[https://infoscience.epfl.ch/record/302949/files/a-mechanized-theory-of-the-box-calculus.pdf][A mechanized theory of the box calculus]]. ~ Joseph Fourment, Yichen Xu. #ITP #Coq
++ [[https://dl.acm.org/doi/pdf/10.1145/3591230][CQS: A formally-verified framework for fair and abortable synchronization]]. ~ Nikita Koval, Dmitry Khalanskiy, Dan Alistarh. #ITP #Coq
++ [[https://www.youtube.com/live/-czh_zc7y1A?feature=share][The Haskell Unfolder Episode 5: Composing left folds]]. ~ Edsko de Vries (@EdskoDeVries), Andres Löh (@kosmikus). #Haskell #FunctionalProgramming
++ [[https://drops.dagstuhl.de/opus/volltexte/2023/17953/pdf/lipics-vol259-cpm2023-complete.pd][Encoding hard string problems with answer set programming]]. ~ Dominik Köppl.f#page=309 #AnswerSetProgramming #LogicProgramming #Clingo
++ [[https://ri.ujat.mx/bitstream/200.500.12107/3942/1/Matema%cc%81ticas%2bdiscretas%2b2023.pdf][Matemáticas discretas: Una perspectiva funcional con Python 3]]. ~ Abdiel E. Cáceres González. #Python #Matemáticas
++ [[https://www.zdnet.com/article/github-developer-survey-finds-92-of-programmers-using-ai-tools/][92% of programmers are using AI tools, says GitHub developer survey (AI isn't programming's future, it's its present)]]. ~ Steven Vaughan-Nichols. #AI #Programming
++ [[https://www.deepmind.com/blog/optimising-computer-systems-with-more-generalised-ai-tools][How MuZero, AlphaZero, and AlphaDev are helping optimise the entire computing ecosystem that powers our world of devices]]. #AI
+
 *** 14-Jun-23
 + [[https://youtu.be/AvpMOMSSZHs][Haskell course: Lesson 14: Cabal and language extensions]]. ~ Robertino Martínez (@_roberm_). #Haskell #FunctionalProgramming
 + [[https://arxiv.org/abs/2212.10071][Large language models are reasoning teachers]]. ~ Namgyu Ho, Laura Schmid, Se-Young Yun. #LLMs #Reasoning
