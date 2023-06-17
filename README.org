@@ -49,6 +49,13 @@ its content.
 
 ** Junio 2023
 
+*** 16-Jun-23
++ [[https://arxiv.org/abs/2306.09074][Category theory in Isabelle/HOL as a basis for meta-logical investigation]]. ~ Jonas Bayer, Aleksey Gonus, Christoph Benzmüller, Dana S. Scott. #ITP #IsabelleHOL #Math
++ [[https://arxiv.org/abs/2304.00994][Machine-learned premise selection for Lean]]. ~ Bartosz Piotrowski, Ramon Fernández Mir, Edward Ayers. #ITP #LeanProver #AI #MachineLearning
++ [[https://github.com/clayrat/fav-ssr][Functional algorithms verified in SSReflect]]. ~ Alex Gryzlov. #ITP #Coq #Algorithms
++ [[https://arxiv.org/abs/2306.02781][A survey of generative AI applications]]. ~ Roberto Gozalo-Brizuela, Eduardo C. Garrido-Merchán. #GenerativeAI
++ [[https://arxiv.org/abs/2305.18654][Faith and fate: Limits of Transformers on compositionality]]. ~ Nouha Dziri et als. #AI #LLMs
+
 *** 15-Jun-23
 + [[https://www.isa-afp.org/entries/Zeckendorf.html][Zeckendorf’s theorem (in Isabelle/HOL)]]. ~ Christian Dalvit. #ITP #IsabelleHOL #Math
 + [[https://www.ssrg.ece.vt.edu/papers/tap23-rt.pdf][Low-level reachability analysis based on formal logic]]. ~ Nico Naus, Freek Verbeek, Marc Schoolderman, Binoy Ravindran. #ITP #IsabelleHOL
