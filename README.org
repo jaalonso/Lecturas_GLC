@@ -49,6 +49,14 @@ its content.
 
 ** Junio 2023
 
+*** 17-Jun-23
++ [[https://upcommons.upc.edu/bitstream/handle/2117/388667/Formalizing_modular_forms_memoria.pdf#page=2][Formalizing modular forms]]. ~ Ferran Delgà Fernández. #ITP #LeanProver #Math
++ [[https://uwspace.uwaterloo.ca/bitstream/handle/10012/19531/Jin_Ende.pdf][Design and implementation of family polymorphism for interactive theorem proving]]. ~ Ende Jin. #ITP #Coq
++ [[https://link.springer.com/article/10.1007/s10703-023-00430-1][Machine learning and logic: a new frontier in artificial intelligence]]. ~ Vijay Ganesh, Sanjit A. Seshia, Somesh Jha. #AI #Logic #MachineLearning
++ [[https://drops.dagstuhl.de/opus/volltexte/2023/17613/pdf/dagrep_v012_i007_p080_22291.pdf][Machine learning and logical reasoning: The new frontier]]. ~ Sébastien Bardin, Somesh Jha, Vijay Ganesh. #AI #Logic #MachineLearning
++ [[https://arxiv.org/abs/1912.06612][From shallow to deep interactions between knowledge representation, reasoning and machine learning]]. ~ Kay R. Amel. #AI #KRR #MachineLearning
++ [[https://arxiv.org/abs/2306.08997][Exploring the MIT mathematics and EECS curriculum using large language models]]. ~ Sarah J. Zhang et als. #LLMs #Education
+
 *** 16-Jun-23
 + [[https://arxiv.org/abs/2306.09074][Category theory in Isabelle/HOL as a basis for meta-logical investigation]]. ~ Jonas Bayer, Aleksey Gonus, Christoph Benzmüller, Dana S. Scott. #ITP #IsabelleHOL #Math
 + [[https://arxiv.org/abs/2304.00994][Machine-learned premise selection for Lean]]. ~ Bartosz Piotrowski, Ramon Fernández Mir, Edward Ayers. #ITP #LeanProver #AI #MachineLearning
