@@ -49,6 +49,10 @@ its content.
 
 ** Junio 2023
 
+*** 18-Jun-23
++ [[https://leanprover.zulipchat.com/user_uploads/3121/lyMttXvy140VBPrOr38MfZ_S/pres.pdf][Formal mathematics and AI]]. ~ Adam Topaz. #ITP #LeanProver #AI #Math
++ [[https://byorgey.wordpress.com/2023/06/17/nested-folds/][Nested folds]]. ~ Brent Yorgey. #Haskell #FunctionalProgramming
+
 *** 17-Jun-23
 + [[https://upcommons.upc.edu/bitstream/handle/2117/388667/Formalizing_modular_forms_memoria.pdf#page=2][Formalizing modular forms]]. ~ Ferran Delgà Fernández. #ITP #LeanProver #Math
 + [[https://uwspace.uwaterloo.ca/bitstream/handle/10012/19531/Jin_Ende.pdf][Design and implementation of family polymorphism for interactive theorem proving]]. ~ Ende Jin. #ITP #Coq
