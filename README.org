@@ -49,6 +49,10 @@ its content.
 
 ** Junio 2023
 
+*** 19-Jun-23
++ [[https://github.com/lecopivo/SciLean][SciLean: Scientific computing assistant]]. ~ Tomáš Skřivan, #Lean4 #FunctionalProgramming #Math
++ [[https://arxiv.org/abs/2304.02819][GPT detectors are biased against non-native English writers]]. ~ Weixin Liang, Mert Yuksekgonul, Yining Mao, Eric Wu, James Zou. #GPT
+
 *** 18-Jun-23
 + [[https://leanprover.zulipchat.com/user_uploads/3121/lyMttXvy140VBPrOr38MfZ_S/pres.pdf][Formal mathematics and AI]]. ~ Adam Topaz. #ITP #LeanProver #AI #Math
 + [[https://byorgey.wordpress.com/2023/06/17/nested-folds/][Nested folds]]. ~ Brent Yorgey. #Haskell #FunctionalProgramming
