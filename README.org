@@ -49,6 +49,14 @@ its content.
 
 ** Junio 2023
 
+*** 20-Jun-23
++ [[https://arxiv.org/abs/2306.08375][Verification of NP-hardness reduction functions for exact lattice problems]]. ~ Katharina Kreuzer, Tobias Nipkow. #ITP #IsabelleHOL
++ [[https://cdsmithus.medium.com/weekend-project-voronoi-mosaics-b68307559aa3][Weekend project: Voronoi mosaics]]. ~ Chris Smith (@cdsmithus). #Haskell #FunctionalProgramming
++ [[https://books.google.es/books?id=_M7FEAAAQBAJ&lpg=PA386&ots=7dJWy4TNT-&dq=%22Machines%20as%20Thought%20Partners%3A%20Reflections%20on%2050%20Years%20of%20Prolog%22&hl=es&pg=PP.1#v=onepage&q&f=false][Prolog: The next 50 years]] #Prolog #LogicProgramming
++ [[https://openreview.net/pdf?id=mXv2aVqUGG][Can large language models reason about program invariants?]] ~ Kexin Pei, David Bieber, Kensen Shi, Charles Sutton, Pengcheng Yin. #LLMs #Programming
++ [[https://era.ed.ac.uk/bitstream/handle/1842/40677/Tsimpourlas2023.pdf][Deep language models for software testing and optimisation]]. ~ Foivos Tsimpourlas. #PhDThesis #DeepLearning #Programming
++ [[https://cacm.acm.org/blogs/blog-cacm/273953-chatgpt-invents-a-lot-of-nonsense/fulltext][ChatGPT invents a lot of nonsense]]. ~ Herbert Bruderer. #ChatGPT
+
 *** 19-Jun-23
 + [[https://github.com/lecopivo/SciLean][SciLean: Scientific computing assistant]]. ~ Tomáš Skřivan, #Lean4 #FunctionalProgramming #Math
 + [[https://arxiv.org/abs/2304.02819][GPT detectors are biased against non-native English writers]]. ~ Weixin Liang, Mert Yuksekgonul, Yining Mao, Eric Wu, James Zou. #GPT
