@@ -49,6 +49,10 @@ its content.
 
 ** Junio 2023
 
+*** 21-Jun-23
++ [[https://github.com/leanprover-community/mathematics_in_lean][Mathematics in Lean]]. ~ Jeremy Avigad, Kevin Buzzard, Robert Y. Lewis, Patrick Massot. #ITP #Lean4 #Math
++ [[https://arxiv.org/abs/2306.10052][Assigning AI: Seven approaches for students, with prompts]]. ~ Ethan Mollick, Lilach Mollick. #GenerativeAI #ChatGPT #Education
+
 *** 20-Jun-23
 + [[https://arxiv.org/abs/2306.08375][Verification of NP-hardness reduction functions for exact lattice problems]]. ~ Katharina Kreuzer, Tobias Nipkow. #ITP #IsabelleHOL
 + [[https://cdsmithus.medium.com/weekend-project-voronoi-mosaics-b68307559aa3][Weekend project: Voronoi mosaics]]. ~ Chris Smith (@cdsmithus). #Haskell #FunctionalProgramming
