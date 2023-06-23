@@ -49,6 +49,13 @@ its content.
 
 ** Junio 2023
 
+*** 22-Jun-23
++ [[https://www.researchgate.net/profile/Nick-Bassiliades/publication/371661553_Demonstrating_Multiple_Prolog_Programming_Techniques_Through_a_Single_Operation/links/64903dff95bbbe0c6edaa03e/Demonstrating-Multiple-Prolog-Programming-Techniques-Through-a-Single-Operation.pdf][Demonstrating multiple Prolog programming techniques through a single operation]]. ~ Nick Bassiliades, Ilias Sakellariou, Petros Kefalas. #Prolog #LogicProgramming
++ [[https://machineteaching.mpi-sws.org/files/papers/icer23poster_ChatGPT_visualprog.pdf][Evaluating ChatGPT and GPT-4 for visual programming]]. ~ Adish Singla. #ChatGPT #GPT-4 #Programming #Education
++ [[https://arxiv.org/abs/2306.09541][Live exploration of AI-generated programs]]. ~ Kasra Ferdowsi, Ruanqianqian Huang, Michael B. James, Nadia Polikarpova, Sorin Lerner. #GenerativeAI #Programming
++ [[https://arxiv.org/abs/2306.09896][Demystifying GPT self-repair for code generation]]. ~ Theo X. Olausson, Jeevana Priya Inala, Chenglong Wang, Jianfeng Gao, Armando Solar-Lezama. #GPT #Programming
++ [[https://arxiv.org/abs/2306.12001][An overview of catastrophic AI risks]]. ~ Dan Hendrycks, Mantas Mazeika, Thomas Woodside. #AI
+
 *** 21-Jun-23
 + [[https://github.com/leanprover-community/mathematics_in_lean][Mathematics in Lean]]. ~ Jeremy Avigad, Kevin Buzzard, Robert Y. Lewis, Patrick Massot. #ITP #Lean4 #Math
 + [[https://arxiv.org/abs/2306.10052][Assigning AI: Seven approaches for students, with prompts]]. ~ Ethan Mollick, Lilach Mollick. #GenerativeAI #ChatGPT #Education
