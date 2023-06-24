@@ -49,6 +49,17 @@ its content.
 
 ** Junio 2023
 
+*** 23-Jun-23
++ [[https://aarinc.org/Newsletters/141-2023-06.html#guest][Large language models and automated deduction]]. ~ David Plaisted. #AI #LLMs #ATP
++ [[https://aarinc.org/Newsletters/141-2023-06.html#geoff][A chat with Bard]]. ~ Geoff Sutcliffe. #GenerativeAI #Bard #Logic #Reasoning
++ [[https://arxiv.org/abs/2306.12535][A formalization of the CHSH inequality and Tsirelson's upper-bound in Isabelle/HOL]]. ~ Mnacho Echenim, Mehdi Mhalla. #ITP #IsabelleHOL
++ [[https://www.tweag.io/blog/2023-06-22-lh-assumption-imports/][Assumptions for Liquid Haskell in the large]]. ~ Facundo Domínguez. #Haskell #LiquidHaskell #FunctionalProgramming
++ [[https://arxiv.org/abs/2212.10535][A survey of deep learning for mathematical reasoning]]. ~ Pan Lu, Liang Qiu, Wenhao Yu, Sean Welleck, Kai-Wei Chang. #AI #DeepLearning #Math #Reasoning
++ [[https://arxiv.org/abs/2306.12567][Evaluating large language models with NeuBAROCO: Syllogistic reasoning ability and human-like biases]]. ~ Risako Ando, Takanobu Morishita, Hirohiko Abe, Koji Mineshima, Mitsuhiro Okada. #LLMs #ReasoningEvaluating large language models with NeuBAROCO: Syllogistic reasoning ability and human-like biases. ~ Risako Ando, Takanobu Morishita, Hirohiko Abe, Koji Mineshima, Mitsuhiro Okada. https://arxiv.org/abs/2306.12567 #LLMs #Reasoning
++ [[https://arxiv.org/abs/2306.07899][Artificial artificial artificial intelligence: Crowd workers widely use large language models for text production tasks]]. ~ Veniamin Veselovsky, Manoel Horta Ribeiro, Robert West. #AI #LLMs #ChatGPT
++ [[https://www.technologyreview.com/2023/06/22/1075405/the-people-paid-to-train-ai-are-outsourcing-their-work-to-ai/][The people paid to train AI are outsourcing their work... to AI]]. ~ Rhiannon Williams. #AI #LLMs #ChatGPT
++ [[https://www.science.org/doi/10.1126/science.adi0248][How AI can distort human beliefs (Models can convey biases and false information to users)]]. ~ Celeste Kidd, Abeba Birhane. #GenerativeAI #Psychology
+
 *** 22-Jun-23
 + [[https://www.researchgate.net/profile/Nick-Bassiliades/publication/371661553_Demonstrating_Multiple_Prolog_Programming_Techniques_Through_a_Single_Operation/links/64903dff95bbbe0c6edaa03e/Demonstrating-Multiple-Prolog-Programming-Techniques-Through-a-Single-Operation.pdf][Demonstrating multiple Prolog programming techniques through a single operation]]. ~ Nick Bassiliades, Ilias Sakellariou, Petros Kefalas. #Prolog #LogicProgramming
 + [[https://machineteaching.mpi-sws.org/files/papers/icer23poster_ChatGPT_visualprog.pdf][Evaluating ChatGPT and GPT-4 for visual programming]]. ~ Adish Singla. #ChatGPT #GPT-4 #Programming #Education
