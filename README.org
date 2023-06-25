@@ -49,6 +49,22 @@ its content.
 
 ** Junio 2023
 
+*** 24-Jun-23
++ [[https://types2023.webs.upv.es/TYPES2023.pd][Embedding differential temporal dynamic logic in PVS]]. ~ Lauren White, Laura Titolo, J. Tanner Slagel.f#page=125 #ITP #PVS
++ [[https://drops.dagstuhl.de/opus/volltexte/2023/17993/pdf/LIPIcs-FSCD-2023-9.pdf][Generalized Newman’s lemma for discrete and continuous systems]]. ~ Ievgen Ivanov. #ITP #IsabelleHOL
++ [[https://drops.dagstuhl.de/opus/volltexte/2023/17988/pdf/LIPIcs-FSCD-2023-4.pdf][Termination of term rewriting: Foundation, formalization, implementation, and competition]]. ~ Akihisa Yamada. #ITP #IsabelleHOL
++ [[https://arxiv.org/abs/2306.10558][Isabelle formalisation of original representation theorems]]. ~ Marco B. Caminati. #ITP #IsabelleHOL
++ [[https://types2023.webs.upv.es/TYPES2023.pdf#page=125][Categorical logic in Lean]]. ~ Jacob Neumann. #ITP #LeanProver
++ [[https://types2023.webs.upv.es/TYPES2023.pdf#page=125][Towards a translation from Liquid Haskell to Coq]]. ~ Lykourgos Mastorou, Niki Vazou, Michael Greenberg. #ITP #LiquidHaskell #Coq
++ [[https://www.cs.princeton.edu/~appel/papers/LAProof.pdf][LAProof: a library of formal proofs of accuracy and correctness for linear algebra programs]]. ~ Ariel E. Kellison, Andrew W. Appel, Mohit Tekriwal, David Bindel. #ITP #Coq #Math
++ [[https://mohittkr.github.io/cicm_paper.pdf][Verified correctness, accuracy, and convergence of a stationary iterative linear solver: Jacobi method]]. ~ M. Tekriwal et als. #ITP #Coq
++ [[https://types2023.webs.upv.es/TYPES2023.pdf#page=167][Formalization of blockchain oracles in Coq]]. ~ Mohammad Shaheer et als. #ITP #Coq
++ [[https://types2023.webs.upv.es/TYPES2023.pdf#page=54][Engineering logical relations for MLTT in Coq]]. ~ Arthur Adjedj et als. #ITP #Coq
++ [[https://types2023.webs.upv.es/TYPES2023.pdf#page=79][Choreographic programming in Coq]]. ~ Luís Cruz-Filipe et als. #ITP #Coq
++ [[https://aclanthology.org/2022.emnlp-main.768.pdf][Can transformers reason in fragments of natural language?]] ~ Viktor Schlegel, Kamen Pavlov, Ian Pratt-Hartmann. #MachineLearning #Reasoning
++ [[https://arxiv.org/abs/2207.07051][Language models show human-like content effects on reasoning]]. ~ Ishita Dasgupta et als. #LLMs #Reasoning
++ [[https://cacm.acm.org/news/274113-harvards-new-computer-science-teacher-is-a-chatbot/fulltext][Harvard's new computer science teacher is a chatbot]]. #ChatGPT #Education
+
 *** 23-Jun-23
 + [[https://aarinc.org/Newsletters/141-2023-06.html#guest][Large language models and automated deduction]]. ~ David Plaisted. #AI #LLMs #ATP
 + [[https://aarinc.org/Newsletters/141-2023-06.html#geoff][A chat with Bard]]. ~ Geoff Sutcliffe. #GenerativeAI #Bard #Logic #Reasoning
