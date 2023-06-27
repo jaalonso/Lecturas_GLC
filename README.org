@@ -49,6 +49,11 @@ its content.
 
 ** Junio 2023
 
+*** 26-Jun-23
++ [[https://arstechnica.com/google/2023/06/googles-bard-ai-can-now-write-and-execute-code-to-answer-a-question/][Google’s Bard AI can now write and execute code to answer a question]]. ~ Ron Amadeo. #GenerativeAI #Bard #Programming
++ [[https://blog.google/technology/ai/bard-improved-reasoning-google-sheets-export/][Bard is getting better at logic and reasoning]]. ~ Jack Krawczyk, Amarnag Subramanya. #AI #Bard #Logic #Math
++ [[https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4391243][Using AI to implement effective teaching strategies in classrooms: Five strategies, including prompts]]. ~ Ethan R. Mollick, Lilach Mollick. #AI #GPT4 #ChatGPT #Learning
+
 *** 24-Jun-23
 + [[https://types2023.webs.upv.es/TYPES2023.pd][Embedding differential temporal dynamic logic in PVS]]. ~ Lauren White, Laura Titolo, J. Tanner Slagel.f#page=125 #ITP #PVS
 + [[https://drops.dagstuhl.de/opus/volltexte/2023/17993/pdf/LIPIcs-FSCD-2023-9.pdf][Generalized Newman’s lemma for discrete and continuous systems]]. ~ Ievgen Ivanov. #ITP #IsabelleHOL
