@@ -49,6 +49,9 @@ its content.
 
 ** Junio 2023
 
+*** 27-Jun-23
++ [[https://www.joachim-breitner.de/publications/rec-def-pearl.pdf][Functional Pearl: More fixpoints!]] ~ Joachim Breitner. #Haskell #FunctionalProgramming
+
 *** 26-Jun-23
 + [[https://arstechnica.com/google/2023/06/googles-bard-ai-can-now-write-and-execute-code-to-answer-a-question/][Google’s Bard AI can now write and execute code to answer a question]]. ~ Ron Amadeo. #GenerativeAI #Bard #Programming
 + [[https://blog.google/technology/ai/bard-improved-reasoning-google-sheets-export/][Bard is getting better at logic and reasoning]]. ~ Jack Krawczyk, Amarnag Subramanya. #AI #Bard #Logic #Math
