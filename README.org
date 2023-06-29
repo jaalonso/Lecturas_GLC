@@ -49,6 +49,10 @@ its content.
 
 ** Junio 2023
 
+*** 28-Jun-23
++ [[https://arxiv.org/abs/2306.15626][LeanDojo: Theorem proving with retrieval-augmented language models]]. ~ Kaiyu Yang et als. #LLMs #GPT-4 #ITP #LeanProver #Math
++ [[https://arxiv.org/abs/2306.08952][Towards benchmarking and improving the temporal reasoning capability of large language models]]. ~ Qingyu Tan, Hwee Tou Ng, Lidong Bing. #LLMs #Reasoning
+
 *** 27-Jun-23
 + [[https://www.joachim-breitner.de/publications/rec-def-pearl.pdf][Functional Pearl: More fixpoints!]] ~ Joachim Breitner. #Haskell #FunctionalProgramming
 
