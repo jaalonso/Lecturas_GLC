@@ -49,6 +49,10 @@ its content.
 
 ** Junio 2023
 
+*** 29-Jun-23
++ [[https://typeclasses.substack.com/p/hspec-specify-shouldbe][hspec, specify, shouldBe (How simple testing can be)]]. ~ Chris Martin  (@chris__martin). #Haskell #FunctionalProgramming
++ [[https://www.youtube.com/live/UkkKyobdzTU?feature=share][The Haskell Unfolder Episode 6: Computing type class dictionaries]]. ~ Edsko de Vries (@EdskoDeVries), Andres Löh (@kosmikus). #Haskell #FunctionalProgramming
+
 *** 28-Jun-23
 + [[https://arxiv.org/abs/2306.15626][LeanDojo: Theorem proving with retrieval-augmented language models]]. ~ Kaiyu Yang et als. #LLMs #GPT-4 #ITP #LeanProver #Math
 + [[https://arxiv.org/abs/2306.08952][Towards benchmarking and improving the temporal reasoning capability of large language models]]. ~ Qingyu Tan, Hwee Tou Ng, Lidong Bing. #LLMs #Reasoning
