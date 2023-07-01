@@ -49,6 +49,10 @@ its content.
 
 ** Junio 2023
 
+*** 30-Jun-23
++ [[https://www.isa-afp.org/entries/Executable_Randomized_Algorithms.html][Executable randomized algorithms (in Isabelle/HOL)]]. ~ Emin Karayel, Manuel Eberl. #ITP #IsabelleHOL
++ [[https://arxiv.org/abs/2306.17156][Generative AI for programming education: Benchmarking ChatGPT, GPT-4, and human tutors]]. ~ Tung Phung, Victor-Alexandru Pădurean, José Cambronero, Sumit Gulwani, Tobias Kohn, Rupak Majumdar, Adish Singla, Gustavo Soares. #ChatGPT #GPT4 #Programming #Education
+
 *** 29-Jun-23
 + [[https://typeclasses.substack.com/p/hspec-specify-shouldbe][hspec, specify, shouldBe (How simple testing can be)]]. ~ Chris Martin  (@chris__martin). #Haskell #FunctionalProgramming
 + [[https://www.youtube.com/live/UkkKyobdzTU?feature=share][The Haskell Unfolder Episode 6: Computing type class dictionaries]]. ~ Edsko de Vries (@EdskoDeVries), Andres Löh (@kosmikus). #Haskell #FunctionalProgramming
