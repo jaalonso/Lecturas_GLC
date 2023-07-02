@@ -11,6 +11,7 @@ its content.
 
 * Content                                                                      :TOC:
 - [[#lecturas-del-año-2023][Lecturas del año 2023]]
+  - [[#julio-2023][Julio 2023]]
   - [[#junio-2023][Junio 2023]]
   - [[#mayo-2023][Mayo 2023]]
   - [[#abril-2023][Abril 2023]]
@@ -46,6 +47,33 @@ its content.
 - [[#lecturas-anteriores][Lecturas anteriores]]
 
 * Lecturas del año 2023
+
+** Julio 2023
+
+*** 01-Jul-23
++ [[https://inria.hal.science/hal-04137801/document][Formalisation of nominal equational reasoning]]. ~ Mauricio Ayala-Rincón. #ITP #PVS
++ [[https://leanprover-community.github.io/courses.html][Courses using Lean]]. #ITP #LeanProver
++ [[https://repository.tudelft.nl/islandora/object/uuid:6413624a-dda3-4976-a598-9a7b2c3a15aa][A computer-checked library of category theory: Functors and F-coalgebras]]. ~ Pedro Henrique Brandao de Araujo. #ITP #LeanProver #FunctionalProgramming
++ [[https://repository.tudelft.nl/islandora/object/uuid:1f6d6c5e-54e3-4c26-a1be-79de08653f9c][A computer-checked library of category theory: Formally verifying currying via the product-exponential adjunction]]. ~ Ciprian Stanciu. #ITP #LeanProver
++ [[https://repository.tudelft.nl/islandora/object/uuid:97c4e6b6-971c-4437-aa18-a3997f316a02][A computer-checked library of category theory: Universal properties of category theory in functional programming]]. ~ Markus Orav. #ITP #LeanProver #FunctionalProgramming
++ [[https://repository.tudelft.nl/islandora/object/uuid:1451f328-2ff6-4639-b9f2-e81af09181c2][Formalising the Symmetry Book: Formalising the Symmetry Book using the UniMath library]]. ~ Pallabi Sree Sarker. #ITP #Coq #UniMath
++ [[https://src.acm.org/binaries/content/assets/src/2023/arthur-correnson.pdf][ICFP: G: Formal verification of a lazy software model checker]]. ~ Arthur Correnson. #ITP #Coq
++ [[https://repository.tudelft.nl/islandora/object/uuid:09d15517-9c72-404b-b7ff-9bfef67519da][Isomorphism is equality: A Coq formalisation of the proofs Isomorphism is equality by Coquand and Danielsson]]. ~ Tiago Greeve. #ITP #Coq
++ [[https://repository.tudelft.nl/islandora/object/uuid:c82c7a45-632d-4451-8ae2-4e77d2509c88][Refactoring with confidence: Creating and proving the correctness of a refactoring to add arguments to a function in a functional language]]. ~ Kalle Struik. #ITP #Agda #Haskell #FunctionalProgramming
++ [[https://repository.tudelft.nl/islandora/object/uuid:7c4e74b3-d878-4d0a-acc2-541203d0874a][Formally proving the correctness of the (un)currying refactoring: Using Agda with a simple Haskell-like programming language]]. ~ Michał Jóźwik. #Agda #Haskell #FunctionalProgramming
++ [[https://repository.tudelft.nl/islandora/object/uuid:e61b0972-175e-42d3-bb10-d7ee9f2584ea][Proving correctness of refactoring tuples to records: A correct-by-construction approach on a Haskell-like language]]. ~ Jeroen Bastenhof. #ITP #Agda #Haskell #FunctionalProgramming
++ [[https://sebdumancic.github.io/assets/pdf/AAAI23_ILPTutorial.pdf][Inductive logic programming: an introduction and recent advances]]. ~ Andrew Cropper, Celine Hocquette, Sebastian Dumancic.  #ILP #InductiveLogicProgramming #MachineLearning #LogicProgramming
++ [[https://drive.google.com/file/d/1AH44O0aWZCH_V1rfBC5FUq4JMDldQTBO/view][The automatic computer scientist]]. ~ Andrew Cropper. #ILP #LogicProgramming #MachineLearning
++ [[https://arxiv.org/abs/2005.02259][Learning programs by learning from failures]]. ~ Andrew Cropper, Rolf Morel. #ILP #LogicProgramming #MachineLearning
++ [[https://arxiv.org/abs/2102.12551][Learning logic programs by explaining their failures]]. ~ Rolf Morel, Andrew Cropper. #ILP #LogicProgramming #MachineLearning
++ [[https://arxiv.org/abs/2008.07912][Inductive logic programming at 30: a new introduction]]. ~ Andrew Cropper, Sebastijan Dumančić. #ILP #LogicProgramming #MachineLearning
++ [[https://drive.google.com/file/d/1ZmtEklnYfFxJDHVV8NMIdq6r8Gt5Thzh/view][Efficiently learning efficient programs]]. ~ Andrew Cropper. #PhDThesis #ILP #LogicProgramming #MachineLearning
++ [[https://arxiv.org/abs/2306.14583][Exploring the robustness of large language models for solving programming problems]]. ~ A. Shirafuji et als. #LLMs #Programming
++ [[https://www.heraldo.es/noticias/aragon/2023/06/29/un-repositorio-de-inteligencia-artificial-para-profesores-y-alumnos-de-la-universidad-1661964.html][Un repositorio de Inteligencia Artificial para profesores y alumnos de la Universidad]]. #IA
++ [[https://unidigitaliasac.unizar.es/][Proyecto Unidigital IASAC (Inteligencia Artificial y Sistemas Autónomos Cognitivos)]]. #IA #SAC
++ [[https://www.attali.com/prospective/eloge-des-mathematiques/][Éloge des mathématiques]]. ~ Jacques Attali. #Maths
+
+
 
 ** Junio 2023
 
