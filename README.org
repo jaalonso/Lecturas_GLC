@@ -50,6 +50,11 @@ its content.
 
 ** Julio 2023
 
+*** 03-Jul-23
++ [[https://bora.uib.no/bora-xmlui/bitstream/handle/11250/3074222/main.pdf][A case study in dependent type theory: Extracting a certified program from the formal proof of its specification]]. ~ Andreas Salhus Bakseter #ITP #Coq
++ [[https://www.diva-portal.org/smash/get/diva2:1776364/FULLTEXT01.pdf][Assessing the effectiveness of ChatGPT in generating Python code]]. ~ Victor Adamson, Johan Bägerfeldt. #ChatGPT #Programming #Python
++ [[https://www.diva-portal.org/smash/get/diva2:1776700/FULLTEXT01.pdf][Can artificial intelligence replace humans in programming?]] ~ Hampus Ekedahl, Vilma Helander. #ChatGPT #Programming
+
 *** 01-Jul-23
 + [[https://inria.hal.science/hal-04137801/document][Formalisation of nominal equational reasoning]]. ~ Mauricio Ayala-Rincón. #ITP #PVS
 + [[https://leanprover-community.github.io/courses.html][Courses using Lean]]. #ITP #LeanProver
