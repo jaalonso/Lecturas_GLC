@@ -50,6 +50,14 @@ its content.
 
 ** Julio 2023
 
+*** 04-Jul-23
++ [[https://arxiv.org/abs/2306.17234][Formalizing norm extensions and applications to number theory]]. ~ María Inés de Frutos-Fernández. #ITP #LeanProver #Math
++ [[https://www.msri.org/summer_schools/1021][Formalization of Mathematics (SLMath)]]. #ITP #LeanProver #Math
++ [[https://arxiv.org/abs/2209.14133][Towards a verified tableau prover for a quantifier-free fragment of set theory]]. ~ Lukas Stevens. #ITP #IsabelleHOL #Math
++ [[https://www.quantamagazine.org/the-number-15-describes-the-secret-limit-of-an-infinite-grid-20230420/][The number 15 describes the secret limit of an infinite grid]]. ~ Kevin Hartnett. #ATP #SAT #Math
++ [[https://arxiv.org/abs/2202.05793][Answer set planning: A survey]]. ~ Tran Cao Son, Enrico Pontelli, Marcello Balduccini, Torsten Schaub. #ASP #Planning
++ [[https://www.quantamagazine.org/how-randomness-improves-algorithms-20230403/][How randomness improves algorithms]]. ~ Ben Brubaker. #Algorithms
+
 *** 03-Jul-23
 + [[https://bora.uib.no/bora-xmlui/bitstream/handle/11250/3074222/main.pdf][A case study in dependent type theory: Extracting a certified program from the formal proof of its specification]]. ~ Andreas Salhus Bakseter #ITP #Coq
 + [[https://www.diva-portal.org/smash/get/diva2:1776364/FULLTEXT01.pdf][Assessing the effectiveness of ChatGPT in generating Python code]]. ~ Victor Adamson, Johan Bägerfeldt. #ChatGPT #Programming #Python
