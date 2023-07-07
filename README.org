@@ -50,6 +50,11 @@ its content.
 
 ** Julio 2023
 
+*** 06-Jul-23
++ [[https://github.com/potassco-asp-course/course/releases/download/v1.15.0/main.pdf][Answer Set Solving in Practice]]. ~ Torsten Schaub. #ASP #LogicProgramming #KRR #Knowledge_representation_and_reasoning
++ [[https://arxiv.org/abs/cs/0211004][The DLV system for knowledge representation and reasoning]]. ~ Nicola Leone, Gerald Pfeifer, Wolfgang Faber, Thomas Eiter, Georg Gottlob, Simona Perri, Francesco Scarcello. #ASP #LogicProgramming #KRR #Knowledge_representation_and_reasoning
++ [[https://www.cs.utexas.edu/~vl/teaching/378/ASP.pdf][Answer Set Programming]]. ~ Vladimir Lifschitz. #DeclarativeProgramming #ASP
+
 *** 04-Jul-23
 + [[https://arxiv.org/abs/2306.17234][Formalizing norm extensions and applications to number theory]]. ~ María Inés de Frutos-Fernández. #ITP #LeanProver #Math
 + [[https://www.msri.org/summer_schools/1021][Formalization of Mathematics (SLMath)]]. #ITP #LeanProver #Math
