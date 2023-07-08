@@ -50,6 +50,11 @@ its content.
 
 ** Julio 2023
 
+*** 07-Jul-23
++ [[https://www.cs.ox.ac.uk/isg/conferences/tmp-proceedings/NeSy2023/paper5.pdf][Exploring mathematical conjecturing with large language models]]. ~ Moa Johansson, Nicholas Smallbone. #LLM #GPT #Math #IsabelleHOL
++ [[https://arxiv.org/abs/2307.03109][A survey on evaluation of large language models]]. ~ Yupeng Chang et als. #LLMs
++ [[https://arxiv.org/abs/2307.02792][What should data science education do with large language models?]] ~ Xinming Tu et als. #LLMs #Education #DataScience
+
 *** 06-Jul-23
 + [[https://github.com/potassco-asp-course/course/releases/download/v1.15.0/main.pdf][Answer Set Solving in Practice]]. ~ Torsten Schaub. #ASP #LogicProgramming #KRR #Knowledge_representation_and_reasoning
 + [[https://arxiv.org/abs/cs/0211004][The DLV system for knowledge representation and reasoning]]. ~ Nicola Leone, Gerald Pfeifer, Wolfgang Faber, Thomas Eiter, Georg Gottlob, Simona Perri, Francesco Scarcello. #ASP #LogicProgramming #KRR #Knowledge_representation_and_reasoning
