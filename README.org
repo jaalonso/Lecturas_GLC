@@ -50,6 +50,9 @@ its content.
 
 ** Julio 2023
 
+*** 08-Jul-23
++ [[https://cacm.acm.org/careers/274450-chatgpt-is-reshaping-crowd-work/fulltext][ChatGPT is reshaping crowd work]]. #ChatGPT
+
 *** 07-Jul-23
 + [[https://www.cs.ox.ac.uk/isg/conferences/tmp-proceedings/NeSy2023/paper5.pdf][Exploring mathematical conjecturing with large language models]]. ~ Moa Johansson, Nicholas Smallbone. #LLM #GPT #Math #IsabelleHOL
 + [[https://arxiv.org/abs/2307.03109][A survey on evaluation of large language models]]. ~ Yupeng Chang et als. #LLMs
