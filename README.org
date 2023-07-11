@@ -50,6 +50,9 @@ its content.
 
 ** Julio 2023
 
+*** 10-Jul-23
++ [[https://youtube.com/playlist?list=PLgBHexwnIcdtAv9jVYnXAjCMKA0pNDXxJ][AI to assist mathematical reasoning]]. #AI #Math #ITP
+
 *** 08-Jul-23
 + [[https://cacm.acm.org/careers/274450-chatgpt-is-reshaping-crowd-work/fulltext][ChatGPT is reshaping crowd work]]. #ChatGPT
 
