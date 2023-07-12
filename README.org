@@ -50,6 +50,13 @@ its content.
 
 ** Julio 2023
 
+*** 11-Jul-23
++ [[https://www.cs.cmu.edu/~mheule/publications/mc-paper.pdf][Certified knowledge compilation with application to verified model counting]]. ~ Randal E. Bryant, Wojciech Nawrocki, Jeremy Avigad, Marijn J. H. Heule. #ITP #Lean4
++ [[https://drops.dagstuhl.de/opus/volltexte/2023/18223/pdf/LIPIcs-ECOOP-2023-30.pdf][Interaction tree specifications: a framework for specifying recursive, effectful computations that supports auto-active verification]]. ~ Lucas Silver, Eddy Westbrook, Matthew Yacavone, Ryan Scott. #ITP #Coq
++ [[https://jonaprieto.github.io/drafts/Jonathan-Prieto-Cubides-On-Trees-and-Their-Topological-Realisation-in-HoTT.pdf][On trees and their topological realisations in homotopy type theory]]. ~ Jonathan Prieto-Cubides. #ITP #Agda #HoTT
++ [[https://dailynous.com/2023/07/10/logic-courseware-surveyed/][Logic courseware, surveyed]]. ~ Justin Weinberg. #Logic
++ [[https://arxiv.org/abs/2307.04251][ChatGPT in the age of generative AI and large language models: A concise survey]]. ~ Salman Mohamadi, Ghulam Mujtaba, Ngan Le, Gianfranco Doretto, Donald A. Adjeroh. #ChatGPT #GenerativeAI #LLMs
+
 *** 10-Jul-23
 + [[https://youtube.com/playlist?list=PLgBHexwnIcdtAv9jVYnXAjCMKA0pNDXxJ][AI to assist mathematical reasoning]]. #AI #Math #ITP
 
