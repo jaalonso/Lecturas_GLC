@@ -50,6 +50,13 @@ its content.
 
 ** Julio 2023
 
+*** 13-Jul-23
++ [[https://lawrencecpaulson.github.io//2023/07/12/Metric_spaces.html][Porting the HOL Light metric space library]]. ~ Lawrence C. Paulson (@LawrPaulson). #ITP #IsabelleHOL #Math
++ [[https://youtu.be/CEwRMT0GpKo][Sagredo: automated dialogue between GPT and Lean]]. ~ Scott Morrison. #ITP #Lean4 #ChatGPT
++ [[https://www.youtube.com/live/2Y--K5Vjlyo?feature=share][The Haskell Unfolder Episode 7: learning by testing]]. ~ Edsko de Vries (@EdskoDeVries), Andres Löh (@kosmikus). #Haskell #FunctionalProgramming
++ [[https://www.mathvalues.org/masterblog/chatgpt-for-mathematicians-a-tool-in-search-of-good-applications][ChatGPT: for mathematicians, a tool in search of good applications]]. ~ Keith Devlin (@KeithDevlin@fediscience.org). #ChatGPT #Math
++ [[https://arxiv.org/abs/2307.04346][Can large language models write good property-based tests?]] ~ Vasudev Vikram, Caroline Lemieux, Rohan Padhye. #LLM #GPT #Programming
+
 *** 12-Jul-23
 + [[https://www.isa-afp.org/entries/Gray_Codes.html][Gray codes for arbitrary numeral systems (in Isabelle/HOL)]]. ~ Maximilian Spitz. #ITP #IsabelleHOL
 + [[https://theconversation.com/como-evaluar-a-los-estudiantes-en-tiempos-de-chatgpt-206371][Cómo evaluar a los estudiantes en tiempos de ChatGPT]]. ~ M. Paz Prendes Espinosa, María del Mar Sánchez Vera y Víctor González Calatayud. #ChatGPT #Educación
