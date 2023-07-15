@@ -50,6 +50,11 @@ its content.
 
 ** Julio 2023
 
+*** 14-Jul-23
++ [[https://www.youtube.com/playlist?list=PLgBHexwnIcduLcwinFhr8mHMk9WttUs4O][Learning Mathematics with Lean | Loughborough University (2022)]]. #ITP #LeanProver #Math
++ [[https://byorgey.wordpress.com/2023/07/13/compiling-to-intrinsically-typed-combinators/][Compiling to intrinsically typed combinators]]. ~ Brent Yorgey. #Haskell #FunctionalProgramming
++ [[https://www.science.org/doi/10.1126/science.adj5957][How do we know how smart AI systems are?]] ~ Melanie Mitchell. #AI #GenerativeAI
+
 *** 13-Jul-23
 + [[https://lawrencecpaulson.github.io//2023/07/12/Metric_spaces.html][Porting the HOL Light metric space library]]. ~ Lawrence C. Paulson (@LawrPaulson). #ITP #IsabelleHOL #Math
 + [[https://youtu.be/CEwRMT0GpKo][Sagredo: automated dialogue between GPT and Lean]]. ~ Scott Morrison. #ITP #Lean4 #ChatGPT
