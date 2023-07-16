@@ -50,6 +50,16 @@ its content.
 
 ** Julio 2023
 
+*** 15-Jul-23
++ [[https://essay.utwente.nl/95920/1/G%C3%BCls%C3%BCm_BA_EEMCS.pdf][Formalizing a generalized diagonalization argument in Isabelle/HOL]]. ~ Kağan Gülsüm. #ITP #IsabelleHOL #Math
++ [[https://bit.ly/3Dfzhsn][Formalisation of mathematics: where we stand in 2023]]. ~ Kevin Buzzard. #ITP #LeanProver #Math
++ [[https://bit.ly/46MtS9J][Formalizing local fields in Lean]]. ~ María Inés de Frutos-Fernández, Filippo A. E. Nucci. #ITP #LeanProver #Math
++ [[https://bit.ly/43qC2BB][Formalizing the change of variables formula for integrals in mathlib]]. ~ Sébastien Gouëze. #ITP #LeanProver #Mathlib #Math
++ [[https://sites.math.rutgers.edu/~alexk/files/KontorovichNotes2023.pdf][Notes on a path to AI assistance in mathematical reasoning]]. ~ Alex Kontorovich. #AI #Math #ITP
++ [[https://bit.ly/3rmsvhE][Hierarchy builder: a language and tool for designing and maintaining algebraic hierarchies]]. ~ Cyril Cohen, Pierre Roux, Kazuhiko Sakaguchi, Enrico Tassi. #ITP #Coq
++ [[https://www.cs.nott.ac.uk/~pszgmh/quotient-haskell.pdf][Quotient Haskell (Lightweight quotient types for all)]]. ~ Brandon Hewer, Graham Hutton. #Haskell #FunctionalProgramming
++ [[https://arxiv.org/abs/2307.05337][Explaining competitive-level programming solutions using LLMs]]. ~ Jierui Li, Szymon Tworkowski, Yingying Wu, Raymond Mooney. #LLMs #Programming
+
 *** 14-Jul-23
 + [[https://www.youtube.com/playlist?list=PLgBHexwnIcduLcwinFhr8mHMk9WttUs4O][Learning Mathematics with Lean | Loughborough University (2022)]]. #ITP #LeanProver #Math
 + [[https://byorgey.wordpress.com/2023/07/13/compiling-to-intrinsically-typed-combinators/][Compiling to intrinsically typed combinators]]. ~ Brent Yorgey. #Haskell #FunctionalProgramming
