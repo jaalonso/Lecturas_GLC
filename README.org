@@ -50,6 +50,12 @@ its content.
 
 ** Julio 2023
 
+*** 16-Jul-23
++ [[https://youtu.be/8MFGhOWeCNE][Lean 4 overview for Mathlib users]]. ~ Patrick Massot. #ITP #Lean4 #Math
++ [[https://www.johndcook.com/blog/2023/07/14/major-llm/][Large language models and mnemonics]]. ~ John D. Cook (@JohnDCook). #AI #LLMs #ChatGPT #Bard
++ [[https://www.johndcook.com/blog/2023/07/15/boolean-with-ai/][Boolean function minimization with AI]]. ~ John D. Cook (@JohnDCook). #AI #LLMs #ChatGPT #Bard
++ [[https://www.johndcook.com/blog/2023/07/15/bing-chat/][Experiments with Bing chat]]. ~ John D. Cook (@JohnDCook). #AI #LLMs #BingChat
+
 *** 15-Jul-23
 + [[https://essay.utwente.nl/95920/1/G%C3%BCls%C3%BCm_BA_EEMCS.pdf][Formalizing a generalized diagonalization argument in Isabelle/HOL]]. ~ Kağan Gülsüm. #ITP #IsabelleHOL #Math
 + [[https://bit.ly/3Dfzhsn][Formalisation of mathematics: where we stand in 2023]]. ~ Kevin Buzzard. #ITP #LeanProver #Math
