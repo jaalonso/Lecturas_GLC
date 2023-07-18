@@ -50,6 +50,21 @@ its content.
 
 ** Julio 2023
 
+*** 17-Jul-23
++ [[https://youtu.be/CGke7Q08hko][Machine assisted proofs]]. ~ Terence Tao. #ITP #Math
++ [[https://github.com/PatrickMassot/GlimpseOfLean][An introduction to theorem proving in Lean for the impatient]]. ~ Patrick Massot. #ITP #Lean4 #Math
++ [[https://pat2023.icube.unistra.fr/slides/slides-pat2023-commelin-talk1.pdf][Lean and education]]. ~ Johan Commelin. #ITP #LeanProver
++ [[https://pat2023.icube.unistra.fr/slides/slides-pat2023-commelin-talk2.pdf][Liquid tensor experiment (A case study in epistemology of proof)]]. ~ Johan Commelin. #ITP #LeanProver #Math
++ [[https://pat2023.icube.unistra.fr/slides/slides-pat2023-balacheff.pdf][Technology-supported learning of proofs in mathematics (Introduction to a didactic approach of Math PATeaching)]]. ~ Nicolas Balacheff. #Math #Education
++ [[https://pat2023.icube.unistra.fr/slides/slides-pat2023-magaud.pdf][A gentle introduction to the Coq proof assistant, from a teaching perspective]]. ~ Nicolas Magaud. #ITP #Coq
++ [[https://pat2023.icube.unistra.fr/slides/slides-pat2023-maric.pdf][Intro to interactive theorem proving in Isabelle/HOL (Slides)]]. ~ Filip Marić. #ITP #IsabelleHOL
++ [[https://pat2023.icube.unistra.fr/slides/FilipMaricPAT2023.zip][Intro to interactive theorem proving in Isabelle/HOL (Examples)]]. ~ Filip Marić. #ITP #IsabelleHOL
++ [[https://pat2023.icube.unistra.fr/slides/slides-pat2023-rousselin.pdf][The “Initiation to formal proofs” course]]. ~ Pierre Rousselin (with Marie Kerjean and Micaela Mayero). #ITP #Coq
++ [[https://youtu.be/S-aGjgIDQZY][Introduction to the Lean 4 theorem prover and programming language]]. ~ Leonardo de Moura. #Lean4 #ITP #FunctionalProgramming
++ [[https://arxiv.org/abs/2306.00104][Teaching linear algebra in a mechanized mathematical environment]]. ~ Robert M. Corless, David J. Jeffrey, Azar Shakoori. #Math #Teaching #CompSci
++ [[https://www.nytimes.com/2023/07/15/technology/ai-inventor-patents.html][Can A.I. invent?]] ~ Steve Lohr. #AI
++ [[https://www.barcelona.cat/metropolis/es/contenidos/mitos-y-realidades-de-la-inteligencia-artificial][Mitos y realidades de la inteligencia artificial]]. ~ Ramon López de Mántaras. #IA
+
 *** 16-Jul-23
 + [[https://youtu.be/8MFGhOWeCNE][Lean 4 overview for Mathlib users]]. ~ Patrick Massot. #ITP #Lean4 #Math
 + [[https://www.johndcook.com/blog/2023/07/14/major-llm/][Large language models and mnemonics]]. ~ John D. Cook (@JohnDCook). #AI #LLMs #ChatGPT #Bard
