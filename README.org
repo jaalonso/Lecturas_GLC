@@ -50,6 +50,12 @@ its content.
 
 ** Julio 2023
 
+*** 18-Jul-23
++ [[https://lean-forward.github.io/pubs/geesing_msc_thesis.pdf][Premise selection for Lean 4]]. ~ Alistair Geesing. #ITP #Lean4
++ [[https://arunmani.in/articles/publishing-book-emacs/][Publishing book with Emacs and OrgMode]]. ~ Arun Mani. #Emacs #OrgMode
++ [[https://yutsumura.com/mathjax-in-wordpress/][MathJax in WordPress and LaTeX for math blogs]]. ~ Yu Tsumura. #TeXLaTeX #WordPress #Math
++ [[https://www.gaussianos.com/una-curiosa-propiedad-sobre-cubos-y-numeros-perfectos/][Una curiosa propiedad sobre cubos y números perfectos]]. ~ Miguel Ángel Morales (@gaussianos). #Matemáticas
+
 *** 17-Jul-23
 + [[https://youtu.be/CGke7Q08hko][Machine assisted proofs]]. ~ Terence Tao. #ITP #Math
 + [[https://github.com/PatrickMassot/GlimpseOfLean][An introduction to theorem proving in Lean for the impatient]]. ~ Patrick Massot. #ITP #Lean4 #Math
