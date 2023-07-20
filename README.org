@@ -50,6 +50,9 @@ its content.
 
 ** Julio 2023
 
+*** 19-Jul-23
++ [[https://spectrum.ieee.org/ai-programming][How coders can survive -and thrive- in a ChatGPT world (4 tips for programmers to stay ahead of generative AI)]]. ~ Rina Diane Caballar. #GenerativeAI #Programming
+
 *** 18-Jul-23
 + [[https://lean-forward.github.io/pubs/geesing_msc_thesis.pdf][Premise selection for Lean 4]]. ~ Alistair Geesing. #ITP #Lean4
 + [[https://arunmani.in/articles/publishing-book-emacs/][Publishing book with Emacs and OrgMode]]. ~ Arun Mani. #Emacs #OrgMode
