@@ -50,6 +50,33 @@ its content.
 
 ** Julio 2023
 
+*** 20-Jul-23
++ [[https://drops.dagstuhl.de/opus/volltexte/2023/18374/pdf/lipics-vol268-itp2023-complete.pd][Formalisation of additive combinatorics in Isabelle/HOL]]. ~ Angeliki Koutsoukou-Argyraki.f#page=11 #ITP #IsabelleHOL #Math
++ [[https://drops.dagstuhl.de/opus/volltexte/2023/18374/pdf/lipics-vol268-itp2023-complete.pd][A formal analysis of RANKING]]. ~ Mohammad Abdulaziz, Christoph  Madlener.f#page=15 #ITP #IsabelleHOL
++ [[https://drops.dagstuhl.de/opus/volltexte/2023/18374/pdf/lipics-vol268-itp2023-complete.pd][Semantic foundations of higher-order probabilistic programs in Isabelle/HOL]]. ~ Michikazu Hirata, Yasuhiko Minamide, Tetsuya Sato.f#page=299 #ITP #IsabelleHOL
++ [[https://drops.dagstuhl.de/opus/volltexte/2023/18374/pdf/lipics-vol268-itp2023-complete.pd][POSIX lexing with bitcoded derivatives]]. ~ Chengsong Tan, Christian Urban.f#page=471 #ITP #IsabelleHOL
++ [[https://drops.dagstuhl.de/opus/volltexte/2023/18374/pdf/lipics-vol268-itp2023-complete.pd][Real-time double-ended queue verified (Proof Pearl)]]. ~ Balazs Toth, Tobias Nipkow.f#page=509 #ITP #IsabelleHOL
++ [[https://drops.dagstuhl.de/opus/volltexte/2023/18374/pdf/lipics-vol268-itp2023-complete.pd][Formalizing results on directed sets in Isabelle/HOL (Proof Pearl)]]. ~ Akihisa Yamada, Jérémy Dubut.f#page=605 #ITP #IsabelleHOL
++ [[https://drops.dagstuhl.de/opus/volltexte/2023/18374/pdf/lipics-vol268-itp2023-complete.pd][Formalizing almost development closed critical pairs]]. ~ Christina Kohl, Aart Middeldorp.f#page=653 #ITP #IsabelleHOL
++ [[https://drops.dagstuhl.de/opus/volltexte/2023/18374/pdf/lipics-vol268-itp2023-complete.pd][An elementary formal proof of the group law on Weierstrass elliptic curves in any characteristic]]. ~ David Kurniadi Angdinata, Junyan Xu.f#page=73 #TP #LeanProver #Math
++ [[https://drops.dagstuhl.de/opus/volltexte/2023/18374/pdf/lipics-vol268-itp2023-complete.pd][Formalizing norm extensions and applications to number theory]]. ~ María Inés de Frutos-Fernández.f#page=207 #ITP #LeanProver #Math
++ [[https://drops.dagstuhl.de/opus/volltexte/2023/18374/pdf/lipics-vol268-itp2023-complete.pd][A proof-producing compiler for blockchain applications]]. ~ Jeremy Avigad, Lior Goldberg, David Levit, Yoav Seginer, Alon Titelman.f#page=93 #ITP #LeanProver
++ [[https://drops.dagstuhl.de/opus/volltexte/2023/18374/pdf/lipics-vol268-itp2023-complete.pd][Closure properties of general grammars (formally verified)]]. ~ Martin Dvorak, Jasmin Blanchette.f#page=245 #ITP #LeanProver
++ [[https://drops.dagstuhl.de/opus/volltexte/2023/18374/pdf/lipics-vol268-itp2023-complete.pd][Group cohomology in the Lean community library]]. ~ Amelia Livingston.f#page=377 #ITP #LeanProver #Math
++ [[https://drops.dagstuhl.de/opus/volltexte/2023/18374/pdf/lipics-vol268-itp2023-complete.pd][A formalisation of Gallagher’s ergodic theorem]]. ~ Oliver Nash.f#page=395 #ITP #LeanProver #Math
++ [[https://drops.dagstuhl.de/opus/volltexte/2023/18374/pdf/lipics-vol268-itp2023-complete.pd][An extensible user interface for Lean 4]]. ~ Wojciech Nawrocki, Edward W. Ayers, Gabriel Ebner.f#page=411 #ITP #Lean4
++ [[https://drops.dagstuhl.de/opus/volltexte/2023/18374/pdf/lipics-vol268-itp2023-complete.pd][Formalising the Proj construction in Lean]]. ~ Jujian Zhang.f#page=619 #ITP #LeanProver #Math
++ [[https://drops.dagstuhl.de/opus/volltexte/2023/18374/pdf/lipics-vol268-itp2023-complete.pd][Fermat’s last theorem for regular primes]]. ~ Alex J. Best, Christopher Birkbeck, Riccardo Brasca, Eric Rodriguez Boidi.f#page=637 #ITP #LeanProver #Math
++ [[https://drops.dagstuhl.de/opus/volltexte/2023/18374/pdf/lipics-vol268-itp2023-complete.pd][No unification variable left behind: Fully grounding type inference for the HDM system]]. ~ Roger Bosman, Georgios Karachalias, Tom Schrijvers.f#page=113 #ITP #Coq
++ [[https://drops.dagstuhl.de/opus/volltexte/2023/18374/pdf/lipics-vol268-itp2023-complete.pd][Lessons for interactive theorem proving researchers from a survey of Coq users]]. ~ Ana de Almeida Borges et als.f#page=189 #ITP #Coq
++ [[https://drops.dagstuhl.de/opus/volltexte/2023/18374/pdf/lipics-vol268-itp2023-complete.pd][Tealeaves: Structured monads for generic first-order abstract syntax infrastructure]]. ~ Lawrence Dunn, Val Tannen, Steve Zdancewic.f#page=225 #ITP #Coq
++ [[https://drops.dagstuhl.de/opus/volltexte/2023/18374/pdf/lipics-vol268-itp2023-complete.pd][Proof pearl: Faithful computation and extraction of μ-recursive algorithms in Coq]]. ~ Dominique Larchey-Wendling, Jean-François Monin.f#page=359 #ITP #Coq
++ [[https://drops.dagstuhl.de/opus/volltexte/2023/18374/pdf/lipics-vol268-itp2023-complete.pd][Bel-Games: A formal theory of games of incomplete information based on belief functions in the Coq proof assistant]]. ~ Pierre Pomeret-Coquot, Hélène Fargier, Érik Martin-Dorel.f#page=431 #ITP #Coq
++ [[https://drops.dagstuhl.de/opus/volltexte/2023/18374/pdf/lipics-vol268-itp2023-complete.pd][Proof repair infrastructure for supervised models: Building a large proof repair dataset]]. ~ Tom Reichel, R. Wesley Henderson, Andrew Touchet, Andrew Gardner, Talia Ringer.f#page=451 #ITP #Coq
++ [[https://drops.dagstuhl.de/opus/volltexte/2023/18374/pdf/lipics-vol268-itp2023-complete.pd][A sound and complete projection for global types]]. ~ Dawit Tirore, Jesper Bengtson, Marco Carbone.f#page=489 #ITP #Coq
++ [[https://drops.dagstuhl.de/opus/volltexte/2023/18374/pdf/lipics-vol268-itp2023-complete.pd][Certifying higher-order polynomial interpretations]]. ~ Niels van der Weide, Deivid Vale, Cynthia Kop.f#page=527 #ITP #Coq
++ [[https://drops.dagstuhl.de/opus/volltexte/2023/18374/pdf/lipics-vol268-itp2023-complete.pd][Slice nondeterminism]]. ~ Niels F. W. Voorneveld.f#page=527 #ITP #Agda
+
 *** 19-Jul-23
 + [[https://spectrum.ieee.org/ai-programming][How coders can survive -and thrive- in a ChatGPT world (4 tips for programmers to stay ahead of generative AI)]]. ~ Rina Diane Caballar. #GenerativeAI #Programming
 
