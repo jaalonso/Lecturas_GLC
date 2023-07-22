@@ -50,6 +50,11 @@ its content.
 
 ** Julio 2023
 
+*** 21-Jul-23
++ [[https://arxiv.org/abs/2307.10266][A DPLL(T) framework for verifying deep neural networks]]. ~ Hai Duong, Linhan Li, ThanhVu Nguyen, Matthew Dwyer. #NeuralNetwork #SMT #SAT
++ [[https://arxiv.org/abs/2301.13867][Mathematical capabilities of ChatGPT]]. ~ Simon Frieder et als. #ChatGPT #Math
++ [[https://youtube.com/playlist?list=PLgBHexwnIcdueioZA-fgrx0dxXY2tJu6H][FLAIM: Formal Languages, AI and Mathematics (2022)]]. #Math #AI #ITP
+
 *** 20-Jul-23
 + [[https://drops.dagstuhl.de/opus/volltexte/2023/18374/pdf/lipics-vol268-itp2023-complete.pd][Formalisation of additive combinatorics in Isabelle/HOL]]. ~ Angeliki Koutsoukou-Argyraki.f#page=11 #ITP #IsabelleHOL #Math
 + [[https://drops.dagstuhl.de/opus/volltexte/2023/18374/pdf/lipics-vol268-itp2023-complete.pd][A formal analysis of RANKING]]. ~ Mohammad Abdulaziz, Christoph  Madlener.f#page=15 #ITP #IsabelleHOL
