@@ -50,6 +50,17 @@ its content.
 
 ** Julio 2023
 
+*** 22-Jul-23
++ [[https://youtu.be/zjEkr-zBf1Q][LeanProver - A Cheat Sheet for those familiar with Coq Proof Assistant]]. ~ Walter Schulze (@awalterschulze). #ITP #Lean4 #Coq
++ [[https://webusers.imj-prg.fr/~riccardo.brasca/event/rome-2023/rome.pdf][What does it mean to formalise and why do it]]. ~ Riccardo Brasca. #ITP #LeanProver #Math
++ [[https://webusers.imj-prg.fr/~riccardo.brasca/event/luxembourg-2021/pres.pdf][How to explain advanced mathematics to a computer]]. ~ Riccardo Brasca. #ITP #LeanProver #Math
++ [[http://math.iisc.ac.in/~gadgil/proofs-and-programs-2023/doc/PnP2023.html][Course: Proofs and Programs 2023]]. ~ Siddhartha Gadgil. #ITP #Lean4 #FunctionalProgramming #Math
++ [[https://www.theses.fr/2023UPASG040.pdf][Bibliothèque certifiée en Coq pour la provenance des données]]. ~ Rébecca Zucchini. #ITP #Coq
++ [[https://publikationen.sulb.uni-saarland.de/bitstream/20.500.11880/35767/1/s10817-022-09647-x.pdf][Synthetic undecidability and incompleteness of first‑order axiom systems in Coq]]. ~ Dominik Kirst, Marc Hermes. #ITP #Coq #Logic
++ [[https://www2.cms.hu-berlin.de/newlogic/webMathematica/Logic/undecidability_phil_publication.pdf][Explaining the undecidability of First-Order Logic]]. ~ Timm Lampert, Anderson Nakano. #Logic
++ [[https://arxiv.org/abs/1701.07470][Decidability, complexity, and expressiveness of first-order logic over the subword ordering]]. ~ Simon Halfon, Philippe Schnoebelen, Georg Zetzsche. #Logic
++ [[https://jaspervdj.be/posts/2023-07-22-lazy-layout.html][Lazy layout (A fun application of circular programming)]]. ~ Jasper Van der Jeugt (@jaspervdj). #Haskell #FunctionalProgramming
+
 *** 21-Jul-23
 + [[https://arxiv.org/abs/2307.10266][A DPLL(T) framework for verifying deep neural networks]]. ~ Hai Duong, Linhan Li, ThanhVu Nguyen, Matthew Dwyer. #NeuralNetwork #SMT #SAT
 + [[https://arxiv.org/abs/2301.13867][Mathematical capabilities of ChatGPT]]. ~ Simon Frieder et als. #ChatGPT #Math
