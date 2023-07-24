@@ -50,6 +50,10 @@ its content.
 
 ** Julio 2023
 
+*** 23-Jul-23
++ [[https://arxiv.org/abs/2211.07524][Towards a mathematics formalisation assistant using Large Language Models]]. ~ Ayush Agrawal, Siddhartha Gadgil, Navin Goyal, Ashvni Narayanan, Anand Tadipatri. #AI #LLMs #ITP #LeanProver #Math #Autoformalization
++ [[https://github.com/siddhartha-gadgil/LeanAid][LeanAIde: Tools based on AI for helping with Lean 4]]. Siddhartha Gadgil et als.e#readme #ITP #Lean4 #AI
+
 *** 22-Jul-23
 + [[https://youtu.be/zjEkr-zBf1Q][LeanProver - A Cheat Sheet for those familiar with Coq Proof Assistant]]. ~ Walter Schulze (@awalterschulze). #ITP #Lean4 #Coq
 + [[https://webusers.imj-prg.fr/~riccardo.brasca/event/rome-2023/rome.pdf][What does it mean to formalise and why do it]]. ~ Riccardo Brasca. #ITP #LeanProver #Math
