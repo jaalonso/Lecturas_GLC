@@ -50,6 +50,16 @@ its content.
 
 ** Julio 2023
 
+*** 25-Jul-23
++ [[https://arxiv.org/abs/2307.12224][Calculational proofs in ACL2s]]. ~ Andrew T. Walter, Ankit Kumar, Panagiotis Manolios. #ITP #ACL2 #Logic
++ [[https://www.proquest.com/openview/78dfe9e41f0f293c2e928713153c591e][Productivity tools for solver-aided programming]]. ~ Sorawee Porncharoenwase. #ITP #LeanProver.
++ [[http://www.edsko.net/pubs/falsify.pdf][falsify: Internal shrinking reimagined for Haskell]]. ~ Edsko de Vries. #Haskell #FunctionalProgramming
++ [[https://pp.info.uni-karlsruhe.de/uploads/publikationen/ellinger22bachelorarbeit.pdf][Transient data structures for Haskell]]. ~ Pascal Ellinger. #Haskell #FunctionalProgramming
++ [[https://youtu.be/QkUCHFG1hK8][Haskell course: Lesson 15: Handling errors]]. ~ Robertino Martínez (@_roberm_). #Haskell #FunctionalProgramming
++ [[https://arxiv.org/abs/2305.12295][Logic-LM: Empowering large language models with symbolic solvers for faithful logical reasoning]]. ~ Liangming Pan, Alon Albalak, Xinyi Wang, William Yang Wang. #LLMs #Logic #Reasoning
++ [[https://arxiv.org/abs/2209.00840][FOLIO: Natural language reasoning with first-order logic]]. ~ Simeng Han et als. #LLMs #Logic #Autoformalization #Reasoning
++ [[https://arxiv.org/abs/2304.09102][Solving math word problems by combining language models with symbolic solvers]]. ~ Joy He-Yueya, Gabriel Poesia, Rose E. Wang, Noah D. Goodman. #LLMs #Math
+
 *** 23-Jul-23
 + [[https://arxiv.org/abs/2211.07524][Towards a mathematics formalisation assistant using Large Language Models]]. ~ Ayush Agrawal, Siddhartha Gadgil, Navin Goyal, Ashvni Narayanan, Anand Tadipatri. #AI #LLMs #ITP #LeanProver #Math #Autoformalization
 + [[https://github.com/siddhartha-gadgil/LeanAid][LeanAIde: Tools based on AI for helping with Lean 4]]. Siddhartha Gadgil et als.e#readme #ITP #Lean4 #AI
