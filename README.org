@@ -50,6 +50,10 @@ its content.
 
 ** Julio 2023
 
+*** 27-Jul-23
++ [[https://www.youtube.com/live/V7673JaWXaA?feature=share][The Haskell Unfolder Episode 8: laws]]. ~ Edsko de Vries (@EdskoDeVries), Andres Löh (@kosmikus). #Haskell #FunctionalProgramming
++ [[https://arxiv.org/abs/2307.11194][An exceptional actor system (Functional Pearl)]]. ~ Patrick Redmond, Lindsey Kuper. #Haskell #FunctionalProgramming
+
 *** 26-Jul-23
 + [[https://lawrencecpaulson.github.io/2023/07/26/Wang.html][Hao Wang on the formalisation of mathematics]]. ~ Lawrence C. Paulson (@LawrPaulson). #Logic #Math #ATP
 + [[https://lawrencecpaulson.github.io/papers/Early-History-of-ATP.pdf][The early history of automated deduction]]. ~ Martin Davis. #Logic #Math #ATP
