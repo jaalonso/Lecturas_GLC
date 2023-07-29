@@ -50,6 +50,9 @@ its content.
 
 ** Julio 2023
 
+*** 28-Jul-23
++ [[https://arxiv.org/abs/2307.14671][A verified efficient implementation of the weighted path order]]. ~ René Thiemann, Elias Wenninger. #ITP #IsabelleHOL
+
 *** 27-Jul-23
 + [[https://www.youtube.com/live/V7673JaWXaA?feature=share][The Haskell Unfolder Episode 8: laws]]. ~ Edsko de Vries (@EdskoDeVries), Andres Löh (@kosmikus). #Haskell #FunctionalProgramming
 + [[https://arxiv.org/abs/2307.11194][An exceptional actor system (Functional Pearl)]]. ~ Patrick Redmond, Lindsey Kuper. #Haskell #FunctionalProgramming
