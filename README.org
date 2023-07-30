@@ -50,6 +50,11 @@ its content.
 
 ** Julio 2023
 
+*** 29-Jul-23
++ [[https://backend.orbit.dtu.dk/ws/portalfiles/portal/330349164/Afhandling_Asta_From.pdf][Formally correct deduction methods for computational logic]]. ~ Asta Halkjær From. #ITP #IsabelleHOL #LeanProver #Logic
++ [[https://cybertesis.unmsm.edu.pe/bitstream/handle/20.500.12672/19939/Chu_rf.pdf][Teoría homotópica de tipos]]. ~ Fernando Rafael Chu Rivera. #ITP #Agda #HoTT
++ [[http://cl-informatik.uibk.ac.at/users/cek/docs/23/lzlbckju-frocos23.pdf][Learning proof transformations and its applications in interactive theorem proving]]. ~ Liao Zhang, Lasse Blaauwbroek, Cezary Kaliszyk, Josef Urban. #ITP #Coq #MachineLearning
+
 *** 28-Jul-23
 + [[https://arxiv.org/abs/2307.14671][A verified efficient implementation of the weighted path order]]. ~ René Thiemann, Elias Wenninger. #ITP #IsabelleHOL
 
