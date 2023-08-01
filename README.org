@@ -50,6 +50,11 @@ its content.
 
 ** Julio 2023
 
+*** 31-Jul-23
++ [[https://youtu.be/sruXs0GydE0][Haskell at the heart of terabit laser communication]]. ~ Christiaan Baaij. #Haskell #FunctionalProgramming
++ [[https://www.casadellibro.com/libro-kurt-godel-obras-completas/9788420647739/1082204][Kurt Gödel: Obras completas]]. ~ Jesús Mosterín. #Lógica #Matemática
++ [[https://blogs.lse.ac.uk/highereducation/2023/07/27/where-now-for-academics-on-social-media-post-twitter/][Where now for academics on social media, post Twitter?]] ~ Mark Carrigan. #Twitter
+
 *** 29-Jul-23
 + [[https://backend.orbit.dtu.dk/ws/portalfiles/portal/330349164/Afhandling_Asta_From.pdf][Formally correct deduction methods for computational logic]]. ~ Asta Halkjær From. #ITP #IsabelleHOL #LeanProver #Logic
 + [[https://cybertesis.unmsm.edu.pe/bitstream/handle/20.500.12672/19939/Chu_rf.pdf][Teoría homotópica de tipos]]. ~ Fernando Rafael Chu Rivera. #ITP #Agda #HoTT
