@@ -11,6 +11,7 @@ its content.
 
 * Content                                                                      :TOC:
 - [[#lecturas-del-año-2023][Lecturas del año 2023]]
+  - [[#agosto-2023][Agosto 2023]]
   - [[#julio-2023][Julio 2023]]
   - [[#junio-2023][Junio 2023]]
   - [[#mayo-2023][Mayo 2023]]
@@ -47,6 +48,20 @@ its content.
 - [[#lecturas-anteriores][Lecturas anteriores]]
 
 * Lecturas del año 2023
+
+** Agosto 2023
+
+*** 01-Ago-23
++ [[https://cgi.cse.unsw.edu.au/~eptcs/paper.cgi?ACL22022.3.pdf][All prime numbers have primitive roots]]. ~ Ruben Gamboa, Woodrow Gamboa. #ITP #ACL2 #Math
++ [[https://cgi.cse.unsw.edu.au/~eptcs/paper.cgi?ACL22022.4.pdf][Using ACL2 to teach students about software testing]]. ~ Ruben Gamboa, Alicia Thoney. #ITP #ACL2
++ [[https://cgi.cse.unsw.edu.au/~eptcs/paper.cgi?ACL22022.5.pdf][A mechanized proof of bounded convergence time for the distributed perimeter surveillance system (DPSS) algorithm]]. ~ David Greve, Jennifer Davis, Laura Humphrey. #ITP #ACL2
++ [[https://cgi.cse.unsw.edu.au/~eptcs/paper.cgi?ACL22022.8.pdf][A free group of rotations of rank 2]]. ~ Jagadish Bapanapally, Ruben Gamboa. #ITP #ACL2 #Math
++ [[https://cgi.cse.unsw.edu.au/~eptcs/paper.cgi?ACL22022.9.pdf][Modeling asymptotic complexity using ACL2]]. ~ William D. Young. #ITP #ACL2
++ [[https://cgi.cse.unsw.edu.au/~eptcs/paper.cgi?ACL22022.10.pdf][A formalization of finite group theory]]. ~ David M. Russinoff. #ITP #ACL2
++ [[https://cgi.cse.unsw.edu.au/~eptcs/paper.cgi?ACL22022.11.pdf][Verified implementation of an efficient term-rewriting algorithm for multiplier verification on ACL2]]. ~ Mertcan Temel. #ITP #ACL2
++ [[https://link.springer.com/article/10.1134/S0361768823040102][Admissible ordering on monomials is well-founded: A constructive proof]]. ~ S. D. Meshveliani. #ITP #Agda #Math
++ [[https://inria.hal.science/hal-04172593/document][Testing equality of parametric semi-linear sets]]. ~ Engel Lefaucheux. #ITP #Coq #Math
++ [[https://www.cs.ru.nl/bachelors-theses/2023/Marijn_van_Wezel___1040392___Formalizing_the_query_language_of_Semantic_MediaWiki.pdf][Formalizing the query language of Semantic MediaWiki]]. ~ Marijn van Wezel. #ITP #Coq
 
 ** Julio 2023
 
