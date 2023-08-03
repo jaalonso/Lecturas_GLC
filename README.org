@@ -51,6 +51,14 @@ its content.
 
 ** Agosto 2023
 
+*** 02-Ago-23
++ [[https://arxiv.org/abs/2307.02477][Reasoning or reciting? Exploring the capabilities and limitations of language models through counterfactual tasks]]. ~ Zhaofeng Wu et als. #LLMs #GPT
++ [[https://arxiv.org/abs/2308.00245][The hitchhiker's guide to program analysis: A journey with large language models]]. ~ Haonan Li, Yu Hao, Yizhuo Zhai, Zhiyun Qian. #LLMs #Programming
++ [[https://www.vladasedlacek.cz/en/posts/lean-01-intro][Lean series 01: Intro]]. ~ Vladimír Sedláček (@vlada_sedlacek). #ITP #Lean4
++ [[https://www.vladasedlacek.cz/en/posts/lean-02-demo][Lean series 02: Demo (Synthetic Euclidean geometry)]]. ~ Vladimír Sedláček (@vlada_sedlacek). #ITP #Lean4
++ [[https://www.vladasedlacek.cz/en/posts/lean-03-tactics][Lean series 03: Tactics]]. ~ Vladimír Sedláček (@vlada_sedlacek). #ITP #Lean4
++ [[https://www.vladasedlacek.cz/en/posts/lean-04-linperm][Lean series 04: Linperm]]. ~ Vladimír Sedláček (@vlada_sedlacek). #ITP #Lean4
+
 *** 01-Ago-23
 + [[https://cgi.cse.unsw.edu.au/~eptcs/paper.cgi?ACL22022.3.pdf][All prime numbers have primitive roots]]. ~ Ruben Gamboa, Woodrow Gamboa. #ITP #ACL2 #Math
 + [[https://cgi.cse.unsw.edu.au/~eptcs/paper.cgi?ACL22022.4.pdf][Using ACL2 to teach students about software testing]]. ~ Ruben Gamboa, Alicia Thoney. #ITP #ACL2
