@@ -51,6 +51,11 @@ its content.
 
 ** Agosto 2023
 
+*** 04-Ago-23
++ [[https://arxiv.org/abs/2307.16270][Formalizing monoidal categories and actions for syntax with binders]]. ~ Benedikt Ahrens, Ralph Matthes, Kobe Wullaert. #ITP #Coq
++ [[https://trustworthy.systems/publications/papers/Paturel_SH_23.pdf][First steps in verifying the seL4 Core Platform]]. ~ Mathieu Paturel, Isitha Subasinghe, Gernot Heiser. #Haskell #FunctionalProgramming #IsabelleHOL
++ [[https://cacm.acm.org/news/275222-what-can-you-do-when-ai-lies-about-you/fulltext][What can you do when A.I. lies about you?]] #AI
+
 *** 03-Ago-23
 + [[https://arxiv.org/abs/2307.16648][LLMs4OL: Large language models for ontology learning]]. ~ Hamed Babaei Giglou, Jennifer D'Souza, Sören Auer. #LLMs #KRR
 
