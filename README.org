@@ -51,6 +51,11 @@ its content.
 
 ** Agosto 2023
 
+*** 05-Ago-23
++ [[https://link.springer.com/chapter/10.1007/978-3-031-40875-5_4][Formalizing the unexpected hanging paradox: A classical surprise]]. ~ Polina Vinogradova. #ITP #Coq
++ [[https://www.cyberagentur.de/wp-content/uploads/2023/07/OevIT-Vorstudien-Los-1.pdf][Formal verification of complex software systems (A study)]]. ~ Bernhard Beckert, Oliver Denninger, Jonas Klamroth, Max Scheerer, Jörg Henß. #FormalMethods
++ [[https://arxiv.org/abs/2305.15541][Harnessing the power of large language models for natural language to first-order logic translation]]. ~ Yuan Yang, Siheng Xiong, Ali Payani, Ehsan Shareghi, Faramarz Fekri. #LLMs #Logic
+
 *** 04-Ago-23
 + [[https://arxiv.org/abs/2307.16270][Formalizing monoidal categories and actions for syntax with binders]]. ~ Benedikt Ahrens, Ralph Matthes, Kobe Wullaert. #ITP #Coq
 + [[https://trustworthy.systems/publications/papers/Paturel_SH_23.pdf][First steps in verifying the seL4 Core Platform]]. ~ Mathieu Paturel, Isitha Subasinghe, Gernot Heiser. #Haskell #FunctionalProgramming #IsabelleHOL
