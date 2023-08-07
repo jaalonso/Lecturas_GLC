@@ -51,6 +51,10 @@ its content.
 
 ** Agosto 2023
 
+*** 06-Ago-23
++ [[https://youtu.be/M5fwAkJqAVw][Datalog]]. ~ Markus Triska (@MarkusTriska). #Prolog #LogicProgramming
++ [[https://arstechnica.com/science/2023/07/large-language-models-beat-undergrads-on-tests-of-reasoning-via-analogy/][GPT-3 aces tests of reasoning by analogy]]. ~ John Timmer. #GPT #Reasoning
+
 *** 05-Ago-23
 + [[https://link.springer.com/chapter/10.1007/978-3-031-40875-5_4][Formalizing the unexpected hanging paradox: A classical surprise]]. ~ Polina Vinogradova. #ITP #Coq
 + [[https://www.cyberagentur.de/wp-content/uploads/2023/07/OevIT-Vorstudien-Los-1.pdf][Formal verification of complex software systems (A study)]]. ~ Bernhard Beckert, Oliver Denninger, Jonas Klamroth, Max Scheerer, Jörg Henß. #FormalMethods
