@@ -51,6 +51,10 @@ its content.
 
 ** Agosto 2023
 
+*** 07-Ago-23
++ [[https://arxiv.org/abs/2308.02432][Performance of large language models in a computer science degree program]]. ~ Tim Krüger, Michael Gref. #LLMs #Education #CompSci
++ [[https://cacm.acm.org/blogs/blog-cacm/275278-chatgpt-in-computer-science-education-freshmens-perceptions/fulltext][ChatGPT in computer science education: freshmen's perceptions]]. ~ Yael Erez and Orit Hazzan. #ChatGPT #Education #CompSci
+
 *** 06-Ago-23
 + [[https://youtu.be/M5fwAkJqAVw][Datalog]]. ~ Markus Triska (@MarkusTriska). #Prolog #LogicProgramming
 + [[https://arstechnica.com/science/2023/07/large-language-models-beat-undergrads-on-tests-of-reasoning-via-analogy/][GPT-3 aces tests of reasoning by analogy]]. ~ John Timmer. #GPT #Reasoning
