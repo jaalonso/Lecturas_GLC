@@ -51,6 +51,18 @@ its content.
 
 ** Agosto 2023
 
+*** 08-Ago-23
++ [[https://publikationen.bibliothek.kit.edu/1000161074/151088087][An extensible theorem proving frontend]]. ~ Sebastian Andreas Ullrich. #ITP #LeanProver
++ [[https://scholarworks.umass.edu/cgi/viewcontent.cgi?article=3936&context=dissertations_2][Automating the formal verification of software]]. ~ Emily First. #ITP #Coq
++ [[https://lics.siglog.org/lics23/Slides/s086.pdf][Formalizing π4(S3) ∼= Z/2Z and computing a Brunerie number in Cubical Agda]]. ~ Axel Ljungström, Anders Mörtberg.  #ITP #Agda #Math
++ [[https://arxiv.org/abs/2308.02540][Top-down automated theorem proving (Notes for Sir Timothy)]]. ~ C. E. Larson, N. Van Cleemput. #ATP #Math
++ [[https://aenui.org/actas/pdf/JENUI_2023_016.pdf][DeduccionNatural.pl: herramienta escrita en Prolog para el aprendizaje de la asignatura de Lógica]]. ~ Joaquín Arias, Iván Ramírez, Alessandra Gallinari. #Prolog #LogicProgramming #Logic
++ [[https://aenui.org/actas/pdf/JENUI_2023_004.pdf][Impacto de ChatGPT en los métodos de evaluación de un grado de Ingeniería Informática]]. ~ Roberto Rodríguez-Echeverría, Juan D. Gutiérrez, José M. Conejero, Álvaro E. Prieto. #ChatGPT #Education #CompSci
++ [[https://aenui.org/actas/pdf/JENUI_2023_020.pdf][El impacto de asistentes basados en IA en la enseñanza-aprendizaje de la programación]]. ~ Francisco de Sande, Pablo López Ramos. #ChatGPT #Teaching #Programming
++ [[https://aenui.org/actas/pdf/JENUI_2023_025.pdf][Experiencia docente preliminar con ChatGPT: desafíos y adaptaciones]]. ~ Francisco P. Romero et als. #ChatGPT #Education
++ [[https://aenui.org/actas/pdf/JENUI_2023_040.pdf][Reflexiones y perspectivas del uso de ChatGPT en la docencia del Grado en Ingeniería Informática]]. ~ Isaac Lera, Gabriel Moyà-Alcover, Carlos Guerrero, Antoni Jaume-i-Capó. #ChatGPT #Educación #Computación
++ [[https://cacm.acm.org/news/275293-tech-experts-start-to-doubt-chatgpt-ai-hallucinations-will-ever-go-away/fulltext][Tech experts start to doubt ChatGPT, A.I. 'hallucinations' will ever go away]]. #ChatGPT #LLMs
+
 *** 07-Ago-23
 + [[https://arxiv.org/abs/2308.02432][Performance of large language models in a computer science degree program]]. ~ Tim Krüger, Michael Gref. #LLMs #Education #CompSci
 + [[https://cacm.acm.org/blogs/blog-cacm/275278-chatgpt-in-computer-science-education-freshmens-perceptions/fulltext][ChatGPT in computer science education: freshmen's perceptions]]. ~ Yael Erez and Orit Hazzan. #ChatGPT #Education #CompSci
