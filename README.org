@@ -51,6 +51,14 @@ its content.
 
 ** Agosto 2023
 
+*** 11-Ago-23
++ [[https://youtu.be/WNeS4J62v6g][Will machines eat mathematics?]] ~ Kevin Buzzard (@XenaProject). #ITP #LeanProver #Math
++ [[https://www.isa-afp.org/entries/Polygonal_Number_Theorem.html][Polygonal number theorem (in Isabelle/HOL)]]. ~ Kevin Lee, Zhengkun Ye, Angeliki Koutsoukou-Argyraki. #ITP #IsabelleHOL #Math
++ [[https://www.isa-afp.org/entries/Quantales_Converse.html][Modal quantales, involutive quantales, Dedekind quantales (in Isabelle/HOL)]]. ~ Georg Struth, Cameron Calk. #ITP #IsabelleHOL #Math
++ [[https://www.parsonsmatt.org/2023/08/10/the_meaning_of_monad_in_monadtrans.html][The meaning of Monad in MonadTrans]]. ~  Matt Parsons (@mattoflambda). #Haskell #FunctionalProgramming
++ [[https://galois.com/blog/2023/08/applying-gpt-4-to-saw-formal-verification/][Applying GPT-4 to SAW formal verification]]. ~ Adam Karvonen. #AI #GPT4 #FormalVerification
++ [[https://arxiv.org/abs/2308.05713][Testing GPT-4 with Wolfram Alpha and Code Interpreter plug-ins on math and science problems]]. ~ Ernest Davis, Scott Aaronson. #GPT4 #Math
+
 *** 10-Ago-23
 + [[https://djvelleman.github.io/HTPIwL/][How to prove it with Lean]]. ~ Daniel J. Velleman. #ITP #Lean4 #Logic #Math
 + [[https://camilocs.substack.com/p/entrevista-a-alfred-aho-acm-turing][Entrevista a Alfred Aho (ACM Turing Award)]]. ~ Camilo Chacón Sartori (@camilo_chacon_s). #CompSci
