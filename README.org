@@ -51,6 +51,11 @@ its content.
 
 ** Agosto 2023
 
+*** 12-Ago-23
++ [[http://reports-archive.adm.cs.cmu.edu/anon/anon/usr/ftp/home/ftp/2023/CMU-CS-23-130.pdf][Formally verifying algorithms for real quantifier elimination]]. ~ Katherine Kosaia. #ITP #IsabelleHOL #Logic #Math
++ [[https://www.seas.upenn.edu/~lucsil/assets/pdf/dissertation.pdf][Interaction trees and formal specifications]]. ~ Lucas Silver. #ITP #Coq
++ [[https://drops.dagstuhl.de/opus/volltexte/2023/18508/pdf/OASIcs-ICPEC-2023-12.pdf][Haskelite: A step-by-step interpreter for teaching functional programming]]. ~ Pedro Vasconcelos. #Haskell #FunctionalProgramming
+
 *** 11-Ago-23
 + [[https://youtu.be/WNeS4J62v6g][Will machines eat mathematics?]] ~ Kevin Buzzard (@XenaProject). #ITP #LeanProver #Math
 + [[https://www.isa-afp.org/entries/Polygonal_Number_Theorem.html][Polygonal number theorem (in Isabelle/HOL)]]. ~ Kevin Lee, Zhengkun Ye, Angeliki Koutsoukou-Argyraki. #ITP #IsabelleHOL #Math
