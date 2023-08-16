@@ -51,6 +51,10 @@ its content.
 
 ** Agosto 2023
 
+*** 15-Ago-23
++ [[https://www.mdpi.com/2078-2489/14/8/45][Explanation of student attendance AI prediction with the Isabelle infrastructure framework]]. ~ Florian Kammüller, Dimpy Satija.3#B38-information-14-00453 #ITP #IsabelleHOL #XAI
++ [[https://bit.ly/3QWbDt9][Entrevista a Leslie Lamport (ACM Turing Award y pionero en el campo de la especificación y verificación de sistemas concurrentes)]]. ~ Camilo Chacón Sartori (@camilo_chacon_s). #CompSci
+
 *** 12-Ago-23
 + [[http://reports-archive.adm.cs.cmu.edu/anon/anon/usr/ftp/home/ftp/2023/CMU-CS-23-130.pdf][Formally verifying algorithms for real quantifier elimination]]. ~ Katherine Kosaia. #ITP #IsabelleHOL #Logic #Math
 + [[https://www.seas.upenn.edu/~lucsil/assets/pdf/dissertation.pdf][Interaction trees and formal specifications]]. ~ Lucas Silver. #ITP #Coq
