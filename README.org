@@ -51,6 +51,13 @@ its content.
 
 ** Agosto 2023
 
+*** 16-Ago-23
++ [[https://arxiv.org/abs/2308.07890][EduSAT: A pedagogical tool for theory and applications of boolean satisfiability]]. ~ Yiqi Zhao, Ziyan An, Meiyi Ma, Taylor Johnson. #Logic #SAT_Solver #SMT
++ [[https://people.maths.ox.ac.uk/trefethen/tda05.pdf][Ten digit algorithms]]. ~ Lloyd N. Trefethen. #Algorithms #Math #Programming
++ [[https://arxiv.org/abs/2308.07921][Solving challenging math word problems using GPT-4 code interpreter with code-based self-verification]]. ~ Aojun Zhou et als. #LLMs #GPT4 #Math
++ [[https://arxiv.org/abs/2308.07758][Backward reasoning in large language models for verification]]. ~ Weisen Jiang et als. #LLMs #Reasoning
++ [[https://cacm.acm.org/careers/275482-search-for-ai-talent-sends-salaries-soaring/fulltext][Search for AI talent sends salaries soaring]]. #AI
+
 *** 15-Ago-23
 + [[https://www.mdpi.com/2078-2489/14/8/45][Explanation of student attendance AI prediction with the Isabelle infrastructure framework]]. ~ Florian Kammüller, Dimpy Satija.3#B38-information-14-00453 #ITP #IsabelleHOL #XAI
 + [[https://bit.ly/3QWbDt9][Entrevista a Leslie Lamport (ACM Turing Award y pionero en el campo de la especificación y verificación de sistemas concurrentes)]]. ~ Camilo Chacón Sartori (@camilo_chacon_s). #CompSci
