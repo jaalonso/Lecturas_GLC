@@ -51,6 +51,12 @@ its content.
 
 ** Agosto 2023
 
+*** 17-Ago-23
++ [[https://arxiv.org/abs/2308.06970][ProofBuddy: A proof assistant for learning and monitoring]]. ~ Nadine Karsten, Frederik Krogsdal Jacobsen, Kim Jana Eiken, Uwe Nestmann, Jørgen Villadsen. #Logic #Teaching #IsabelleHOL #ITP
++ [[https://atticuskuhn.github.io/papers/denotationalCircuits.pdf][Denotationally correct computer arithmetic]]. ~ Atticus Kuhn. #ITP #Agda
++ [[https://arxiv.org/abs/2308.06971v1][Disco: A functional programming language for discrete mathematics]]. ~ Brent A. Yorgey. #Haskell #FunctionalProgramming #Math
++ [[https://arxiv.org/abs/2308.07938v1][Computer aided design and grading for an electronic functional programming exam]]. ~ Ole Lübke, Konrad Fuger, Fin Hendrik Bahnsen, Katrin Billerbeck, Sibylle Schupp. #Haskell #FunctionalProgramming #Teaching
+
 *** 16-Ago-23
 + [[https://arxiv.org/abs/2308.07890][EduSAT: A pedagogical tool for theory and applications of boolean satisfiability]]. ~ Yiqi Zhao, Ziyan An, Meiyi Ma, Taylor Johnson. #Logic #SAT_Solver #SMT
 + [[https://people.maths.ox.ac.uk/trefethen/tda05.pdf][Ten digit algorithms]]. ~ Lloyd N. Trefethen. #Algorithms #Math #Programming
