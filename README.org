@@ -51,6 +51,12 @@ its content.
 
 ** Agosto 2023
 
+*** 18-Ago-23
++ [[https://cacm.acm.org/careers/275521-use-of-ai-is-seeping-into-academic-journals/fulltext][Use of AI is seeping into academic journals]]. #AI
++ [[https://www.youtube.com/live/vyp8pWW5QQk?feature=share][The Haskell Unfolder Episode 9: GHC Core]]. ~ Edsko de Vries (@EdskoDeVries), Andres Löh (@kosmikus). #Haskell #FunctionalProgramming
++ [[https://cacm.acm.org/news/275502-chatgpt-answers-more-than-half-of-software-engineering-questions-incorrectly/fulltext][ChatGPT answers more than half of software engineering questions incorrectly]]. #ChatGPT #Programming
++ [[https://arxiv.org/abs/2308.02312][Who answers it better? An in-depth analysis of ChatGPT and Stack Overflow answers to software engineering questions]]. ~ Samia Kabir, David N. Udo-Imeh, Bonan Kou, Tianyi Zhang. #ChatGPT #Programming
+
 *** 17-Ago-23
 + [[https://arxiv.org/abs/2308.06970][ProofBuddy: A proof assistant for learning and monitoring]]. ~ Nadine Karsten, Frederik Krogsdal Jacobsen, Kim Jana Eiken, Uwe Nestmann, Jørgen Villadsen. #Logic #Teaching #IsabelleHOL #ITP
 + [[https://atticuskuhn.github.io/papers/denotationalCircuits.pdf][Denotationally correct computer arithmetic]]. ~ Atticus Kuhn. #ITP #Agda
