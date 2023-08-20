@@ -51,6 +51,14 @@ its content.
 
 ** Agosto 2023
 
+*** 19-Ago-23
++ [[https://www.isa-afp.org/entries/Ceva.html][Ceva's Theorem (in Isabelle/HOL)]]. ~ Mathias Schack Rabing. #ITP #IsabelleHOL #Math
++ [[https://arxiv.org/abs/2308.08404][A topological counterpart of well-founded trees in dependent type theory]]. ~ Maria Emilia Maietti, Pietro Sabelli. #ITP #Agda
++ [[https://drops.dagstuhl.de/opus/volltexte/2023/18593/pdf/LIPIcs-MFCS-2023-59.pdf][Formalizing hyperspaces for extracting efficient exact real computation]]. ~ Michal Konečný, Sewon Park, Holger Thies. #ITP #Coq
++ [[https://flaviomoura.info/files/from2023.pdf][A formalized extension of the substitution lemma in Coq]]. ~ Maria J. D. Lima, Flávio L. C. de Moura. #ITP #Coq
++ [[https://camilocs.substack.com/p/entrevista-a-william-j-rapaport][Entrevista a William J. Rapaport (Uno de los principales filósofos de la computación)]]. ~ Camilo Chacón Sartori (@camilo_chacon_s). #CompSci
++ [[https://youtu.be/B-uSHL7DMrs][Presente y futuro de la IA generativa]]. ~ Eduardo Matallanas. #IA_generativa
+
 *** 18-Ago-23
 + [[https://cacm.acm.org/careers/275521-use-of-ai-is-seeping-into-academic-journals/fulltext][Use of AI is seeping into academic journals]]. #AI
 + [[https://www.youtube.com/live/vyp8pWW5QQk?feature=share][The Haskell Unfolder Episode 9: GHC Core]]. ~ Edsko de Vries (@EdskoDeVries), Andres Löh (@kosmikus). #Haskell #FunctionalProgramming
