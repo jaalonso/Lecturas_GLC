@@ -51,6 +51,11 @@ its content.
 
 ** Agosto 2023
 
+*** 20-Ago-23
++ [[https://www.isa-afp.org/entries/Fixed_Length_Vector.html][Fixed-length vectors (in Isabelle/HOL)]]. ~ Lars Hupel (@lars@hupel.info). #ITP #IsabelleHOL
++ [[https://thehighergeometer.wordpress.com/2023/08/09/no-order-10-projective-planes-via-sat/][No order-10 projective planes via SAT]]. ~ David Michael Roberts (@highergeometer@mathstodon.xyz). #SAT_solver #Math
++ [[https://www.quantamagazine.org/complexity-theorys-50-year-journey-to-the-limits-of-knowledge-20230817/][Complexity theory’s 50-year journey to the limits of knowledge]]. ~ Ben Brubaker. #Math #CompSci
+
 *** 19-Ago-23
 + [[https://www.isa-afp.org/entries/Ceva.html][Ceva's Theorem (in Isabelle/HOL)]]. ~ Mathias Schack Rabing. #ITP #IsabelleHOL #Math
 + [[https://arxiv.org/abs/2308.08404][A topological counterpart of well-founded trees in dependent type theory]]. ~ Maria Emilia Maietti, Pietro Sabelli. #ITP #Agda
