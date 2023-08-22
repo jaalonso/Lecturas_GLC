@@ -51,6 +51,13 @@ its content.
 
 ** Agosto 2023
 
+*** 21-Ago-23
++ [[https://www.google.es/books/edition/Mathematical_Analysis_of_Machine_Learnin/p8TIEAAAQBAJ][Mathematical analysis of machine learning algorithms]]. ~ Tong Zhang. #AI #MachineLearning #Math
++ [[https://cacm.acm.org/blogs/blog-cacm/275590-machine-learning-the-road-to-artificial-intelligence/fulltext][Machine learning: the road to artificial intelligence?]] ~ Walid S. Saba. #AI #MachineLearning
++ [[https://arxiv.org/abs/2308.08708][Consciousness in artificial intelligence: Insights from the science of consciousness]]. ~ Patrick Butlin et als. #AI
++ [[https://arxiv.org/abs/2308.08572][Large language models in introductory programming education: ChatGPT's performance and implications for assessments]]. ~ Natalie Kiesler, Daniel Schiffner. #ChatGPT #Teaching #Programming
++ [[https://arxiv.org/abs/2308.08784][CodeCoT and beyond: Learning to program and test like a developer]]. ~ Dong Huang, Qingwen Bu, Heming Cui. #LLMs #Programming
+
 *** 20-Ago-23
 + [[https://www.isa-afp.org/entries/Fixed_Length_Vector.html][Fixed-length vectors (in Isabelle/HOL)]]. ~ Lars Hupel (@lars@hupel.info). #ITP #IsabelleHOL
 + [[https://thehighergeometer.wordpress.com/2023/08/09/no-order-10-projective-planes-via-sat/][No order-10 projective planes via SAT]]. ~ David Michael Roberts (@highergeometer@mathstodon.xyz). #SAT_solver #Math
