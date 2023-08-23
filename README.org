@@ -51,6 +51,15 @@ its content.
 
 ** Agosto 2023
 
+*** 22-Ago-23
++ [[https://raw.githubusercontent.com/blanchette/logical_verification_2023/main/hitchhikers_guide.pdf][The hitchhiker’s guide to logical verification (2023 standard edition)]]. ~ Anne Baanen, Alexander Bentkamp, Jasmin Blanchette, Johannes Hölzl, Jannis Limperg. #eBook #ITP #LeanProver
++ [[https://www.researchgate.net/profile/Clarence-Protin/publication/373093053_Natural_Deduction_Formalisation_of_Euclid_VII1/links/64d7d3bead846e28828b7cc8/Natural-Deduction-Formalisation-of-Euclid-VII-1.pdf][Natural deduction formalisation of Euclid VII,1]]. ~ Clarence Lewis Protin. #ITP #PyLog #Math
++ [[https://www.proquest.com/openview/5cfcf5ca0a012dde424e550b7802abdd][Neuro-symbolic AI approaches to enhance deep neural networks with logical reasoning and knowledge integration]]. ~ Zhun Yang. #PhDThesis #AI #NeuralNetwork #ASP #LogicProgramming
++ [[https://tongzhang-ml.org/lt-book/lt-book.pdf][Mathematical analysis of machine learning algorithms]]. ~ Tong Zhang. #eBook #AI #MachineLearning #Math
++ [[https://camilocs.substack.com/p/entrevista-a-peter-j-denning][Entrevista a Peter J. Denning (Precursor de la ciencia de la computación)]]. ~ Camilo Chacón Sartori (@camilo_chacon_s). #CompSci
++ [[https://arxiv.org/abs/2308.09267 LLMs][Enhancing reasoning capabilities of large language models: A graph-based verification approach]]. ~ Lang  Cao. #Reasoning
++ [[https://arxiv.org/abs/2201.07794][A non-expert's introduction to data ethics for mathematicians]]. ~ Mason A. Porter. #Ethics #CompSci #Math
+
 *** 21-Ago-23
 + [[https://www.google.es/books/edition/Mathematical_Analysis_of_Machine_Learnin/p8TIEAAAQBAJ][Mathematical analysis of machine learning algorithms]]. ~ Tong Zhang. #AI #MachineLearning #Math
 + [[https://cacm.acm.org/blogs/blog-cacm/275590-machine-learning-the-road-to-artificial-intelligence/fulltext][Machine learning: the road to artificial intelligence?]] ~ Walid S. Saba. #AI #MachineLearning
