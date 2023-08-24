@@ -51,6 +51,15 @@ its content.
 
 ** Agosto 2023
 
+*** 23-Ago-23
++ [[https://lawrencecpaulson.github.io//2023/08/23/Propositions_as_Types.html][Propositions as types: explained (and debunked)]]. ~ Lawrence C. Paulson (@LawrPaulson). #Logic #TypeTheory
++ [[https://nekoka-project.github.io/pubs/given.pdf][Verified given clause procedures]]. ~ Jasmin Blanchette, Qi Qiu, Sophie Tourret. #ITP #IsabelleHOL
++ [[https://arxiv.org/abs/2209.14133v2][Towards a verified tableau prover for a quantifier-free fragment of set theory]]. ~ Lukas Stevens. #ITP #IsabelleHOL #SetTheory
++ [[https://www.tcs.ifi.lmu.de/mitarbeiter/jasmin-blanchette/naw5-2023-24-2-114.pdf][Finding mathematical proofs using computers]]. ~ Alexander Bentkamp, Jasmin Blanchette. #ATP #Logic
++ [[https://arxiv.org/abs/2308.10686][Normative conditional reasoning as a fragment of HOL]]. ~ Xavier Parent, Christoph Benzmüller. #ITP #IsabelleHOL
++ [[https://arxiv.org/abs/2112.12758][A manifesto for applicable formal methods]]. ~ Mario Gleirscher, Jaco van de Pol, Jim Woodcock. #FormalMethods
++ [[https://cacm.acm.org/blogs/blog-cacm/275647-what-if-generative-ai-turned-out-to-be-a-dud/fulltext][What if generative AI turned out to be a dud? ~ Gary Marcus]]. #GenerativeAI
+
 *** 22-Ago-23
 + [[https://raw.githubusercontent.com/blanchette/logical_verification_2023/main/hitchhikers_guide.pdf][The hitchhiker’s guide to logical verification (2023 standard edition)]]. ~ Anne Baanen, Alexander Bentkamp, Jasmin Blanchette, Johannes Hölzl, Jannis Limperg. #eBook #ITP #LeanProver
 + [[https://www.researchgate.net/profile/Clarence-Protin/publication/373093053_Natural_Deduction_Formalisation_of_Euclid_VII1/links/64d7d3bead846e28828b7cc8/Natural-Deduction-Formalisation-of-Euclid-VII-1.pdf][Natural deduction formalisation of Euclid VII,1]]. ~ Clarence Lewis Protin. #ITP #PyLog #Math
