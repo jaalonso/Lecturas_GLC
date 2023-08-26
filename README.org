@@ -51,6 +51,11 @@ its content.
 
 ** Agosto 2023
 
+*** 25-Ago-23
++ [[https://link.springer.com/article/10.1134/S1064562423700606][The work of a mathematician as a prefiguring of mastering mathematics by students: the role of experiments]]. ~ Yu. S. Vishnyakova, A.L. Semenovb, G.B. Shabate. #Math #Teaching
++ [[https://bpb-us-w2.wpmucdn.com/voices.uchicago.edu/dist/5/3515/files/2023/07/Monograph-07.09.23.pdf][Type theory for logic and mathematics (A philosophical and mathematical introduction to type theory)]]. ~ Kevin Davey. #Logic #Math #TypeTheory
++ [[https://www.nature.com/articles/d41586-023-02554-0][Thousands of scientists are cutting back on Twitter, seeding angst and uncertainty]]. ~ Myriam Vidal Valero. #Communication
+
 *** 23-Ago-23
 + [[https://lawrencecpaulson.github.io//2023/08/23/Propositions_as_Types.html][Propositions as types: explained (and debunked)]]. ~ Lawrence C. Paulson (@LawrPaulson). #Logic #TypeTheory
 + [[https://nekoka-project.github.io/pubs/given.pdf][Verified given clause procedures]]. ~ Jasmin Blanchette, Qi Qiu, Sophie Tourret. #ITP #IsabelleHOL
