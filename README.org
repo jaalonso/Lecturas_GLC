@@ -51,6 +51,10 @@ its content.
 
 ** Agosto 2023
 
+*** 27-Ago-23
++ [[https://youtu.be/dTdV3PwnqII][Monads and more (an introduction to monads (in Haskell) for software developers)]]. ~ Glyn Normington (@underlap@fosstodon.org). #Haskell #FunctionalProgramming
++ [[https://youtu.be/LekhueQ4zVU][The monad problem]]. ~ Antoine Leblanc (@nicuveo@tech.lgbt). #Haskell #FunctionalProgramming
+
 *** 26-Ago-23
 + [[https://loogle.lean-fro.org][Loogle: a search tool for Lean/Mathlib]]. #ITP #LeanProver #Mathlib
 + [[https://bit.ly/3sknl6j][My experience at the Machine-Checked Mathematics workshop]]. ~ Jana Göken. #ITP #LeanProver #Math
