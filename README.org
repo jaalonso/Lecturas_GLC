@@ -51,6 +51,14 @@ its content.
 
 ** Agosto 2023
 
+*** 29-Ago-23
++ [[https://lume.ufrgs.br/bitstream/handle/10183/264011/001175975.pdf][Lambda calculus meets machine learning]]. ~ João Marcos Flach. #LambdaCalculus #MachineLearning #NeuralNetwork
++ [[https://arxiv.org/abs/2308.10335][A study on robustness and reliability of large language model code generation]]. ~ Li Zhong, Zilong Wang. #LLMs #Programming
++ [[https://arxiv.org/abs/2308.12950][Code Llama: Open foundation models for code]]. ~ Baptiste Rozière et als. #LLMs #Llama #Programming
++ [[https://arxiv.org/abs/2308.10620][Large language models for software engineering: A systematic literature review]]. ~ Xinyi Hou et als. #LLMs #SoftwareEngineering
++ [[https://arxiv.org/abs/2210.11694][Multi-view reasoning: consistent contrastive learning for math word problem]]. ~ Wenqi Zhang et als. #LLMs #Math
++ [[https://www.msn.com/en-us/money/companies/behind-the-ai-boom-an-army-of-overseas-workers-in-digital-sweatshops/ar-AA1fRrT2?ocid=socialshare][Behind the AI boom, an army of overseas workers in 'digital sweatshops']]. ~ Rebecca Tan, Regine Cabato. #AI
+
 *** 27-Ago-23
 + [[https://youtu.be/dTdV3PwnqII][Monads and more (an introduction to monads (in Haskell) for software developers)]]. ~ Glyn Normington (@underlap@fosstodon.org). #Haskell #FunctionalProgramming
 + [[https://youtu.be/LekhueQ4zVU][The monad problem]]. ~ Antoine Leblanc (@nicuveo@tech.lgbt). #Haskell #FunctionalProgramming
