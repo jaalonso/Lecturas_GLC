@@ -51,6 +51,14 @@ its content.
 
 ** Agosto 2023
 
+*** 30-Ago-23
++ [[Https://leanprover.github.io/talks/WITS2023.pdf][Scaling Lean to the next millions of lines of proofs]]. ~ Sebastian Ullrich (@kha@functional.cafe). #ITP #LeanProver
++ [[https://cgi.cse.unsw.edu.au/~eptcs/paper.cgi?ICLP2023.27][Reliable natural language understanding with large language models and answer set programming]]. ~ Abhiramon Rajasekharan, Yankai Zeng, Parth Padalkar, Gopal Gupta. #LLMs #ASP #LogicProgramming
++ [[https://cgi.cse.unsw.edu.au/~eptcs/paper.cgi?ICLP2023.15][Natlog: Embedding logic programming into the Python deep-learning ecosystem]]. ~ Paul Tarau. #LLMs #LogicProgramming #Python
++ [[https://arxiv.org/abs/2304.12154][Explainable AI insights for symbolic computation: A case study on selecting the variable ordering for cylindrical algebraic decomposition]]. ~ Lynn Pickering, Tereso Del Rio Almajano, Matthew England, Kelly Cohen. #AI #ML #XAI #ComputerAlgebra #Math
++ [[https://youtu.be/5p248yoa3oE?si=nr2H7f7WKVh3t0ls][Opportunities in AI]]. ~ Andrew Ng. #AI
++ [[http://simonvandevelde.be/static/publications/FOLL-E.pdf][FOLL-E: Teaching first-order logic to children]]. ~ Simon Vandevelde, Joost Vennekens. #Logic #Teaching
+
 *** 29-Ago-23
 + [[https://lume.ufrgs.br/bitstream/handle/10183/264011/001175975.pdf][Lambda calculus meets machine learning]]. ~ João Marcos Flach. #LambdaCalculus #MachineLearning #NeuralNetwork
 + [[https://arxiv.org/abs/2308.10335][A study on robustness and reliability of large language model code generation]]. ~ Li Zhong, Zilong Wang. #LLMs #Programming
