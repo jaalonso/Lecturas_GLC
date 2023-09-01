@@ -51,6 +51,11 @@ its content.
 
 ** Agosto 2023
 
+*** 31-Ago-23
++ [[https://lawrencecpaulson.github.io//2023/08/31/ALEXANDRIA_finished.html][The end (?) of the ALEXANDRIA project]] ~ Lawrence C. Paulson (@lawrpaulson@bird.makeup).  #ITP #IsabelleHOL #Math
++ [[https://youtu.be/wbZURbNwGuA?si=vAztZUyK9hPJlzrF][Domain-specific languages of mathematics mini-course, Lectures 1 and 2]]. ~ Patrik Janson. #Haskell #FunctionalProgramming #Math
++ [[https://www.youtube.com/live/_PlSAWOYgbE?si=5BY0wgDbZ7TdJY6D. ~ Edsko de Vries (@EdskoDeVries), Andres Löh (@kosmikus@functional.cafe).][The Haskell Unfolder Episode 10: generalBracket]]. #Haskell #FunctionalProgramming
+
 *** 30-Ago-23
 + [[Https://leanprover.github.io/talks/WITS2023.pdf][Scaling Lean to the next millions of lines of proofs]]. ~ Sebastian Ullrich (@kha@functional.cafe). #ITP #LeanProver
 + [[https://cgi.cse.unsw.edu.au/~eptcs/paper.cgi?ICLP2023.27][Reliable natural language understanding with large language models and answer set programming]]. ~ Abhiramon Rajasekharan, Yankai Zeng, Parth Padalkar, Gopal Gupta. #LLMs #ASP #LogicProgramming
