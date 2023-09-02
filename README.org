@@ -11,6 +11,7 @@ its content.
 
 * Content                                                                      :TOC:
 - [[#lecturas-del-año-2023][Lecturas del año 2023]]
+  - [[#septiembre-2023][Septiembre 2023]]
   - [[#agosto-2023][Agosto 2023]]
   - [[#julio-2023][Julio 2023]]
   - [[#junio-2023][Junio 2023]]
@@ -48,6 +49,17 @@ its content.
 - [[#lecturas-anteriores][Lecturas anteriores]]
 
 * Lecturas del año 2023
+
+** Septiembre 2023
+
+*** 01-Sep-23
++ [[https://youtu.be/BOLdEOeuigk?si=D_gQ8gSczV46XWpT][Domain-specific languages of mathematics mini-course, Lecture 3: limit of functions and derivaties]]. ~ Patrik Janson (@patrikja@functional.cafe). #Haskell #FunctionalProgramming #Math
++ [[https://people.irisa.fr/Sandrine.Blazy/2023-VTSA/2023vtsa.pdf][Verified compilation (An introduction to CompCert)]]. ~ Sandrine Blazy. #ITP #Coq
++ [[https://www.quantamagazine.org/why-mathematical-proof-is-a-social-compact-20230831/][Why mathematical proof is a social compact (Number theorist Andrew Granville on what mathematics really is — and why objectivity is never quite within reach)]]. #Math
++ [[https://arxiv.org/abs/2305.02329][Proof in the time of machines]]. ~ Andrew Granville. #Math #ITP
++ [[https://arxiv.org/abs/2304.11938][Is ChatGPT the ultimate programming assistant -- how far is it?]] ~ Haoye Tian et als. #ChatGPT #Programming
++ [[https://www.microsiervos.com/archivo/ia/loca-idea-maquina-que-sepa-pensar-articulos-inteligencia-artificial.html][«La loca idea de una máquina que sepa pensar» y otros artículos sobre inteligencia artificial]]. ~ @Alvy. #IA
++ [[https://www.eldiario.es/tecnologia/loca-idea-maquina-sepa-pensar_1_10413656.html][La loca idea de una máquina que sepa pensar]]. ~  Álvaro Ibáñez. #IA
 
 ** Agosto 2023
 
