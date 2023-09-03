@@ -52,6 +52,17 @@ its content.
 
 ** Septiembre 2023
 
+*** 02-Sep-23
++ [[https://link.springer.com/chapter/10.1007/978-3-031-42753-4_3][Evasiveness through binary decision diagrams]]. ~ Jesús Aransay, Laureano Lambán & Julio Rubio. #ITP #IsabelleHOL #Math
++ [[https://link.springer.com/chapter/10.1007/978-3-031-42753-4_11][Formalizing free groups in Isabelle/HOL: The Nielsen-Schreier theorem and the conjugacy problem]]. ~ Aabid Seeyal Abdul Kharim, T. V. H. Prathamesh, Shweta Rajiv & Rishi Vyas. #ITP #IsabelleHOL #Math
++ [[https://link.springer.com/chapter/10.1007/978-3-031-42753-4_10][Formalization quality in Isabelle]]. ~ Fabian Huch, Yiannos Stathopoulos. #ITP #IsabelleHOL
++ [[https://arxiv.org/abs/2306.10558][Isabelle formalisation of original representation theorems]]. ~ Marco B. Caminati. #ITP #IsabelleHOL
++ [[https://link.springer.com/chapter/10.1007/978-3-031-42753-4_4][Nominal AC-matching]]. ~ Mauricio Ayala-Rincón, Maribel Fernández, Gabriel Ferreira Silva, Temur Kutsia & Daniele Nantes-Sobrinho. #ITP #PVS
++ [[https://www.researchgate.net/publication/373491652_Mechanising_Godel-Lob_Provability_Logic_in_HOL_Light][Mechanising Gödel–Löb provability logic in HOL Light]]. ~ Marco Maggesi, Cosimo Perini Brogi. #ITP #HOL_Light #Logic
++ [[https://cs.uwaterloo.ca/~shallit/Talks/oeis.pdf][Using Walnut to prove results about sequences in the OEIS]]. ~ Jeffrey Shallit. #ATP #Math #OEIS
++ [[https://www.google.es/books/edition/The_Logical_Approach_to_Automatic_Sequen/4-WBEAAAQBAJ][The logical approach to automatic sequences (Exploring combinatorics on words with Walnut)]]. ~ Jeffrey Shallit. #ATP #Walnut #Math #OEIS
++ [[https://youtu.be/3l1RMiGeTfU?si=G2agRGcLsdbcfhJZ][When computers write proofs, what's the point of mathematicians?]] ~ Andrew Granville. #Math #ITP
+
 *** 01-Sep-23
 + [[https://youtu.be/BOLdEOeuigk?si=D_gQ8gSczV46XWpT][Domain-specific languages of mathematics mini-course, Lecture 3: limit of functions and derivaties]]. ~ Patrik Janson (@patrikja@functional.cafe). #Haskell #FunctionalProgramming #Math
 + [[https://people.irisa.fr/Sandrine.Blazy/2023-VTSA/2023vtsa.pdf][Verified compilation (An introduction to CompCert)]]. ~ Sandrine Blazy. #ITP #Coq
