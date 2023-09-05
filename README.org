@@ -52,6 +52,13 @@ its content.
 
 ** Septiembre 2023
 
+*** 04-Sep-23
++ [[https://www.marktechpost.com/2023/07/01/can-llms-generate-mathematical-proofs-that-can-be-rigorously-checked-meet-leandojo-an-open-source-ai-playground-with-toolkits-benchmarks-and-models-for-large-language-models-to-prove-formal-theore/][Can LLMs generate mathematical proofs that can be rigorously checked? Meet LeanDojo: An open-source AI playground with toolkits, benchmarks, and models for large language models to prove formal theorems in the Lean proof assistant]]. ~ Tanya Malhotra. #AI #LLMs #ITP #LeanProver
++ [[https://www.haskellforall.com/2022/03/applicatives-should-usually-implement.html][Applicatives should usually implement Semigroup and Monoid]]. ~ Gabriella Gonzalez (@GabriellaG439). #Haskell #FunctionalProgramming
++ [[https://arxiv.org/abs/2309.00422][Declarative reasoning on explanations using constraint logic programming]]. ~ Laura State, Salvatore Ruggieri, Franco Turini. #XAI #CLP #Prolog #LogicProgramming
++ [[https://cacm.acm.org/blogs/blog-cacm/276029-how-soon-ai-will-start-firing-programmers/fulltext][How soon AI will start firing programmers? (Robots vs]]. Programmers). ~ Yegor Bugayenko. #AI #ChatGPT #LLMs #Programming
++ [[https://arxiv.org/abs/2309.00029][Exploring the potential of large language models to generate formative programming feedback]]. ~ Natalie Kiesler, Dominic Lohr, Hieke Keuning. #LLMs #ChatGPT #Programming #Teaching
+
 *** 02-Sep-23
 + [[https://link.springer.com/chapter/10.1007/978-3-031-42753-4_3][Evasiveness through binary decision diagrams]]. ~ Jesús Aransay, Laureano Lambán & Julio Rubio. #ITP #IsabelleHOL #Math
 + [[https://link.springer.com/chapter/10.1007/978-3-031-42753-4_11][Formalizing free groups in Isabelle/HOL: The Nielsen-Schreier theorem and the conjugacy problem]]. ~ Aabid Seeyal Abdul Kharim, T. V. H. Prathamesh, Shweta Rajiv & Rishi Vyas. #ITP #IsabelleHOL #Math
