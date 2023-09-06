@@ -52,6 +52,19 @@ its content.
 
 ** Septiembre 2023
 
+*** 05-Sep-23
++ [[http://cl-informatik.uibk.ac.at/iwc/2023/papers/9_kohl.pdf][Formalizing confluence and commutation criteria using proof terms]]. ~ Christina Kohl, Aart Middeldorp. #ITP #IsabelleHOL
++ [[http://cl-informatik.uibk.ac.at/iwc/2023/papers/thiemann.pdf][A verified algorithm for deciding pattern completeness and related properties]]. ~ René Thiemann. #ITP #IsabelleHOL
++ [[https://m-fleury.github.io/ox-hugo/FleuryLammich-CADE29.pdf][A more Pragmatic CDCL for IsaSAT and targetting LLVM]]. ~ Mathias Fleury, Peter Lammich. #ITP #IsabelleHOL
++ [[https://link.springer.com/content/pdf/10.1007/978-3-031-38499-8_7.pdf][An Isabelle/HOL formalization of the SCL(FOL) calculus]]. ~ Martin Bromberger, Martin Desharnais, Christoph Weidenbach. #ITP #IsabelleHOL
++ [[https://research.temporallogic.org/papers/GR23.pdf][Stalnaker’s epistemic logic on Isabelle/HOL]]. ~ Laura P. Gamboa Guzman, Kristin Y. Rozier. #ITP #IsabelleHOL
++ [[https://paulz.me/files/lamb.pdf][Automated ambiguity detection in layout-sensitive grammars]]. ~ Fengmin Zhu, Jiangyi Liu, Fei He. #ITP #Coq
++ [[https://turing.cs.ttu.ee/~tanel.tammet/nlp_reasoning_pipeline.pdf][An experimental pipeline for automated reasoning in natural language]]. #ATP #LLMs #Reasoning
++ [[https://dl.acm.org/doi/pdf/10.1145/3609026.3609732][Haskell library for safer virtual machine introspection (experience report)]]. ~ Takato Otsuka,  Hideya Iwasaki. #Haskell #FunctionalProgramming
++ [[https://dl.acm.org/doi/pdf/10.1145/3609026.3609727][The essence of reactivity]]. ~ Ivan Perez, Frank Dedden. #Haskell #FunctionalProgramming
++ [[https://dl.acm.org/doi/pdf/10.1145/3609026.3609730][Don’t go down the rabbit hole: Reprioritizing enumeration for property-based testing]]. ~ Segev Elazar Mittelman et als. #Haskell #FunctionalProgramming
++ [[https://www.gaussianos.com/aproximando-muy-bien-raices-cuadradas-con-el-metodo-de-heron/][Aproximando (muy bien) raíces cuadradas con el método de Herón]]. ~ Miguel Ángel Morales (@gaussianos). #Matemática
+
 *** 04-Sep-23
 + [[https://www.marktechpost.com/2023/07/01/can-llms-generate-mathematical-proofs-that-can-be-rigorously-checked-meet-leandojo-an-open-source-ai-playground-with-toolkits-benchmarks-and-models-for-large-language-models-to-prove-formal-theore/][Can LLMs generate mathematical proofs that can be rigorously checked? Meet LeanDojo: An open-source AI playground with toolkits, benchmarks, and models for large language models to prove formal theorems in the Lean proof assistant]]. ~ Tanya Malhotra. #AI #LLMs #ITP #LeanProver
 + [[https://www.haskellforall.com/2022/03/applicatives-should-usually-implement.html][Applicatives should usually implement Semigroup and Monoid]]. ~ Gabriella Gonzalez (@GabriellaG439). #Haskell #FunctionalProgramming
