@@ -52,6 +52,9 @@ its content.
 
 ** Septiembre 2023
 
+*** 07-Sep-23
++ [[https://cr.yp.to/papers/pwccp-20230906.pdf][Papers with computer-checked proofs]]. ~ Daniel J. Bernstein (@hashbreaker). #ITP #HOL_Light #Math #CompSci
+
 *** 05-Sep-23
 + [[http://cl-informatik.uibk.ac.at/iwc/2023/papers/9_kohl.pdf][Formalizing confluence and commutation criteria using proof terms]]. ~ Christina Kohl, Aart Middeldorp. #ITP #IsabelleHOL
 + [[http://cl-informatik.uibk.ac.at/iwc/2023/papers/thiemann.pdf][A verified algorithm for deciding pattern completeness and related properties]]. ~ René Thiemann. #ITP #IsabelleHOL
