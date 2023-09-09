@@ -52,6 +52,12 @@ its content.
 
 ** Septiembre 2023
 
+*** 08-Sep-23
++ [[https://arxiv.org/abs/2309.03642][Formal verification of Chase-Lev deque in concurrent separation logic]]. ~ Jaemin Choi. #ITP #Coq
++ [[https://www.youtube.com/live/rDe0nIHINXs?si=rlxNXmzAipa_v8Ct][Lean 4: Empowering the formal mathematics revolution and beyond]]. ~ Leonardo de Moura. #ITP #Lean4
++ [[https://leanprover-community.github.io/blog/posts/first-lean-release/][The first official release of Lean 4]]. #ITP #Lean4
++ [[https://www.haskellforall.com/2023/09/ghc-plugin-for-hlint.html][GHC plugin for HLint]]. ~ Gabriella Gonzalez (@GabriellaG439). #Haskell #FunctionalProgramming
+
 *** 07-Sep-23
 + [[https://cr.yp.to/papers/pwccp-20230906.pdf][Papers with computer-checked proofs]]. ~ Daniel J. Bernstein (@hashbreaker). #ITP #HOL_Light #Math #CompSci
 
