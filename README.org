@@ -52,6 +52,10 @@ its content.
 
 ** Septiembre 2023
 
+*** 09-Sep-23
++ [[https://arxiv.org/abs/2309.01933][Provably safe systems: the only path to controllable AGI]]. ~ Max Tegmark, Steve Omohundro. #ITP #AI #AGI
++ [[https://arxiv.org/abs/2210.13078][Study of a division-like property]]. ~ Robin Khanfir, Béranger Seguin (@Moinsdeuxcat). #ITP #LeanProver #Math
+
 *** 08-Sep-23
 + [[https://arxiv.org/abs/2309.03642][Formal verification of Chase-Lev deque in concurrent separation logic]]. ~ Jaemin Choi. #ITP #Coq
 + [[https://www.youtube.com/live/rDe0nIHINXs?si=rlxNXmzAipa_v8Ct][Lean 4: Empowering the formal mathematics revolution and beyond]]. ~ Leonardo de Moura. #ITP #Lean4
