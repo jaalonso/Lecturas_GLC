@@ -52,6 +52,12 @@ its content.
 
 ** Septiembre 2023
 
+*** 10-Sep-23
++ [[https://github.com/lean-dojo/LeanInfer][LeanInfer: Neural Network Inference in Lean 4]]. ~ Peiyang Song, Kaiyu Yang, Anima Anandkumar. #ITP #Lean4 #AI #NeuralNetwork #LLMs
++ [[https://elpais.com/tecnologia/2023-09-06/ramon-lopez-de-mantaras-experto-en-inteligencia-artificial-la-ia-sola-no-resolvera-absolutamente-nada-seran-los-humanos.html][Ramón López de Mántaras, experto en inteligencia artificial: “La IA sola no resolverá absolutamente nada]]. Serán los humanos”. #IA
++ [[https://www.lavanguardia.com/ciencia/20230910/9214970/me-preocupa-mas-estupidez-humana-inteligencia-artificial.html][Ramon López de Mántaras: "Me preocupa más la estupidez humana que la inteligencia artificial"]]. #IA
++ [[https://arstechnica.com/information-technology/2023/09/ai-took-my-job-literally-gizmodo-fires-spanish-staff-amid-switch-to-ai-translator/ ]["AI took my job, literally" - Gizmodo fires Spanish staff amid switch to AI translator]]. #AI
+
 *** 09-Sep-23
 + [[https://arxiv.org/abs/2309.01933][Provably safe systems: the only path to controllable AGI]]. ~ Max Tegmark, Steve Omohundro. #ITP #AI #AGI
 + [[https://arxiv.org/abs/2210.13078][Study of a division-like property]]. ~ Robin Khanfir, Béranger Seguin (@Moinsdeuxcat). #ITP #LeanProver #Math
