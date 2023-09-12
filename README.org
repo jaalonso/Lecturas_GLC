@@ -52,6 +52,10 @@ its content.
 
 ** Septiembre 2023
 
+*** 11-Sep-23
++ [[https://arxiv.org/abs/2309.04295][FIMO: A challenge formal dataset for automated theorem proving]]. ~ Chengwu Liu et als. #ITP #LeanProver #Math
++ [[https://www.joachim-breitner.de/blog/807-Left_recursive_parser_combinators_via_sharing][Left recursive parser combinators via sharing]]. ~ Joachim Breitner (@nomeata@mastodon.online). #Haskell #FunctionalProgramming
+
 *** 10-Sep-23
 + [[https://github.com/lean-dojo/LeanInfer][LeanInfer: Neural Network Inference in Lean 4]]. ~ Peiyang Song, Kaiyu Yang, Anima Anandkumar. #ITP #Lean4 #AI #NeuralNetwork #LLMs
 + [[https://elpais.com/tecnologia/2023-09-06/ramon-lopez-de-mantaras-experto-en-inteligencia-artificial-la-ia-sola-no-resolvera-absolutamente-nada-seran-los-humanos.html][Ramón López de Mántaras, experto en inteligencia artificial: “La IA sola no resolverá absolutamente nada]]. Serán los humanos”. #IA
