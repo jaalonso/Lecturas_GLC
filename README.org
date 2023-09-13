@@ -52,6 +52,12 @@ its content.
 
 ** Septiembre 2023
 
+*** 12-Sep-23
++ [[https://www.researchgate.net/profile/Robert-Kowalski-2/publication/373484292_Proceedings_39th_International_Conference_on_Logic_Programming_Logical_English_Demonstration/links/64f5921b4c70687b8ecf1e0c/Proceedings-39th-International-Conference-on-Logic-Programming-Logical-English-Demonstration.pdf][Logical english demonstration]]. ~ Robert Kowalski, Jacinto Dávila. #Prolog #LogicProgramming
++ [[https://appam.icube.unistra.fr/][APPAM: Les assistants de preuve pour les apprentissages mathématiques]]. #ITP #Math
++ [[https://cacm.acm.org/blogs/blog-cacm/276268-can-llms-really-reason-and-plan/fulltext][Can LLMs really reason and plan?]] ~ Subbarao Kambhampati. #LLMs #Reasoning
++ [[https://www.gaussianos.com/una-nueva-demostracion-de-la-irracionalidad-de-raiz-de-dos/][Una «nueva» demostración de la irracionalidad de raíz de dos]]. ~ Miguel Ángel Morales (@gaussianos@mathstodon.xyz). #Matemáticas
+
 *** 11-Sep-23
 + [[https://arxiv.org/abs/2309.04295][FIMO: A challenge formal dataset for automated theorem proving]]. ~ Chengwu Liu et als. #ITP #LeanProver #Math
 + [[https://www.joachim-breitner.de/blog/807-Left_recursive_parser_combinators_via_sharing][Left recursive parser combinators via sharing]]. ~ Joachim Breitner (@nomeata@mastodon.online). #Haskell #FunctionalProgramming
