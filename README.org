@@ -52,6 +52,13 @@ its content.
 
 ** Septiembre 2023
 
+*** 13-Sep-23
++ [[https://youtu.be/8Xe0ujcThxg][Functional programming in financial markets]]. ~ Damián Soriano. #Haskell #FunctionalProgramming
++ [[https://www.quantamagazine.org/how-to-build-a-big-prime-number-20230713/][How to build a big prime number (A new algorithm brings together the advantages of randomness and deterministic processes to reliably construct large prime numbers)]]. ~ Stephen Ornes. #Math #Algorithms
++ [[https://interstices.info/les-jeux-a-la-rescousse-de-la-verification/][Les jeux à la rescousse de la vérification]]. ~ Benjamin Monmege. #Programming #Verification
++ [[https://arxiv.org/abs/2309.05689][Large language model for science: A Study on P vs]]. NP. ~ Qingxiu Dong et als. #LLMs #CompSci
++ [[https://www.google.es/books/edition/A_New_History_of_Modern_Computing/KOY9EAAAQBAJ][A new history of modern computing]]. ~ Thomas Haigh, Paul E. Ceruzzi. #CompSci
+
 *** 12-Sep-23
 + [[https://www.researchgate.net/profile/Robert-Kowalski-2/publication/373484292_Proceedings_39th_International_Conference_on_Logic_Programming_Logical_English_Demonstration/links/64f5921b4c70687b8ecf1e0c/Proceedings-39th-International-Conference-on-Logic-Programming-Logical-English-Demonstration.pdf][Logical english demonstration]]. ~ Robert Kowalski, Jacinto Dávila. #Prolog #LogicProgramming
 + [[https://appam.icube.unistra.fr/][APPAM: Les assistants de preuve pour les apprentissages mathématiques]]. #ITP #Math
