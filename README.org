@@ -52,6 +52,11 @@ its content.
 
 ** Septiembre 2023
 
+*** 14-Sep-23
++ [[https://arxiv.org/abs/2309.04696][pun: Fun with properties; towards a programming language with built-in facilities for program validation]]. ~ Triera Gashi et als. #Haskell #FunctionalProgramming
++ [[https://github.com/wellecks/llmstep][llmstep: LLM proofstep suggestions in Lean]]. ~ Sean Welleck, Rahul Saha. #LeanProver #LLMs
++ [[https://arxiv.org/abs/2309.06888][OWL reasoners still useable in 2023]]. ~ Konrad Abicht. #ATP #OWL
+
 *** 13-Sep-23
 + [[https://youtu.be/8Xe0ujcThxg][Functional programming in financial markets]]. ~ Damián Soriano. #Haskell #FunctionalProgramming
 + [[https://www.quantamagazine.org/how-to-build-a-big-prime-number-20230713/][How to build a big prime number (A new algorithm brings together the advantages of randomness and deterministic processes to reliably construct large prime numbers)]]. ~ Stephen Ornes. #Math #Algorithms
