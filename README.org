@@ -52,6 +52,12 @@ its content.
 
 ** Septiembre 2023
 
+*** 16-Sep-23
++ [[https://link.springer.com/chapter/10.1007/978-3-031-43513-3_25][A naive prover for first-order logic: A minimal example of analytic completeness]]. ~ Asta Halkjær From, Jørgen Villadsen. #ITP #IsabelleHOL #Logic
++ [[https://drops.dagstuhl.de/opus/volltexte/2023/19045/pdf/LIPIcs-CP-2023-8.pdf][Symmetries for cube-and-conquer in finite model finding]]. ~ João Araújo, Choiwah Chow, Mikoláš Janota. #ATP #Mace4
++ [[https://www.di.ens.fr/~pouzet/bib/emsoft23a.pdf][Verified compilation of synchronous dataflow with state machines]]. ~ Timothy Bourke, Basile Pesin, Marc Pouzet. #ITP #Coq
++ [[https://blog.bracha.org/WitherProgramming.html][W(h)ither programming? ~ Gilad Bracha (@Gilad_Bracha)]]. #AI #LLMs #Programming
+
 *** 14-Sep-23
 + [[https://arxiv.org/abs/2309.04696][pun: Fun with properties; towards a programming language with built-in facilities for program validation]]. ~ Triera Gashi et als. #Haskell #FunctionalProgramming
 + [[https://github.com/wellecks/llmstep][llmstep: LLM proofstep suggestions in Lean]]. ~ Sean Welleck, Rahul Saha. #LeanProver #LLMs
