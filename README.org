@@ -52,6 +52,9 @@ its content.
 
 ** Septiembre 2023
 
+*** 17-Sep-23
++ [[https://www.youtube.com/live/dthDvNUXSFk][The Haskell Unfolder Episode 11: Haskell at ICFP]]. ~ Edsko de Vries (@EdskoDeVries), Andres Löh (@kosmikus). #Haskell #FunctionalProgramming
+
 *** 16-Sep-23
 + [[https://link.springer.com/chapter/10.1007/978-3-031-43513-3_25][A naive prover for first-order logic: A minimal example of analytic completeness]]. ~ Asta Halkjær From, Jørgen Villadsen. #ITP #IsabelleHOL #Logic
 + [[https://drops.dagstuhl.de/opus/volltexte/2023/19045/pdf/LIPIcs-CP-2023-8.pdf][Symmetries for cube-and-conquer in finite model finding]]. ~ João Araújo, Choiwah Chow, Mikoláš Janota. #ATP #Mace4
