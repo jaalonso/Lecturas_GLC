@@ -52,6 +52,13 @@ its content.
 
 ** Septiembre 2023
 
+*** 19-Sep-23
++ [[https://link.springer.com/chapter/10.1007/978-3-031-43369-6_12][Hammering floating-point arithmetic]]. ~ Olle Torstensson, Tjark Weber. #ITP #IsabelleHOL
++ [[https://arxiv.org/abs/2309.07252][Towards solid abelian groups: A formal proof of Nöbeling's theorem]]. ~ Dagur Asgeirsson. #ITP #LeanProver #Math
++ [[https://link.springer.com/chapter/10.1007/978-3-031-43369-6_3][Formal verification of bit-vector invertibility conditions in Coq]]. ~ Burak Ekici, Arjun Viswanathan, Yoni Zohar, Cesare Tinelli & Clark Barrett. #ITP #Coq
++ [[https://arxiv.org/abs/2309.09395][Formalizing two-level type theory with cofibrant exo-nat]]. ~ Elif Uskuplu. #ITP #Agda
++ [[https://jssst.or.jp/files/user/taikai/2023/papers/23-R.pdf][Automatic correctness checking of Haskell’s rewrite rules: Theory and practice]]. ~ Makoto Hamana. #Haskell #FunctionalProgramming
+
 *** 17-Sep-23
 + [[https://www.youtube.com/live/dthDvNUXSFk][The Haskell Unfolder Episode 11: Haskell at ICFP]]. ~ Edsko de Vries (@EdskoDeVries), Andres Löh (@kosmikus). #Haskell #FunctionalProgramming
 
