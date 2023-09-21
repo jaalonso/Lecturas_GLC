@@ -52,6 +52,11 @@ its content.
 
 ** Septiembre 2023
 
+*** 20-Sep-23
++ [[https://well-typed.com/blog/aux/files/zurihac-2023/andres-loeh-lazy-evaluation.pdf][Lazy evaluation]]. ~ Andres Löh (@kosmikus). #Haskell #FunctionalProgramming
++ [[https://youtube.com/playlist?list=PLOvRW_utVPVmzDGGOJ2amgVBK168Vemke&si=GL9qNOv3JN301EcT][ZuriHac 2023]]. #Haskell #FunctionalProgramming
++ [[https://arxiv.org/abs/2309.10419][Learning from teaching assistants to program with subgoals: Exploring the potential for AI teaching assistants]]. ~ Changyoon Lee, Junho Myung, Jieun Han, Jiho Jin, Alice Oh. #AI #LLMs #Programming
+
 *** 19-Sep-23
 + [[https://link.springer.com/chapter/10.1007/978-3-031-43369-6_12][Hammering floating-point arithmetic]]. ~ Olle Torstensson, Tjark Weber. #ITP #IsabelleHOL
 + [[https://arxiv.org/abs/2309.07252][Towards solid abelian groups: A formal proof of Nöbeling's theorem]]. ~ Dagur Asgeirsson. #ITP #LeanProver #Math
