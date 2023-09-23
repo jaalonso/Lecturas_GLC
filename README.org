@@ -52,6 +52,14 @@ its content.
 
 ** Septiembre 2023
 
+*** 22-Sep-23
++ [[https://arxiv.org/abs/2309.08962][Dynamic separation logic]]. ~ Frank S. de Boer, Hans-Dieter A. Hiep, Stijn de Gouw. #ITP #Coq
++ [[https://pure.tue.nl/ws/portalfiles/portal/307424967/Thesis_BTW_BEP_Bram_Bastiaansen_002_.pdf][Waterproof: Educational proof assistant for linear algebra]]. ~ B. Bastiaans. #ITP #Coq #Math
++ [[https://www.isa-afp.org/entries/Euler_Polyhedron_Formula.html][Euler's polyhedron formula (in Isabelle/HOL)]]. ~ Lawrence C. Paulson (@lawrpaulson@bird.makeup). #ITP #IsabelleHOL #Math
++ [[https://www.isa-afp.org/entries/Hypergraph_Basics.html][Hypergraphs (in Isabelle/HOL)]]. ~ Chelsea Edmonds (@chelsealedmonds). #ITP #IsabelleHOL #Math
++ [[https://www.isa-afp.org/entries/Lovasz_Local.html][General probabilistic techniques for combinatorics and the Lovasz local lemma (in Isabelle/HOL)]]. ~ Chelsea Edmonds (@chelsealedmonds). #ITP #IsabelleHOL #Math
++ [[https://madhu.cs.illinois.edu/FLUID_OOPSLA2023.pdf][Complete first-order reasoning for properties of functional programs]]. ~ Adithya Murali, Lucas Peña, Ranjit Jhala, P. Madhusudan. #Haskell #FunctionalProgramming
+
 *** 20-Sep-23
 + [[https://well-typed.com/blog/aux/files/zurihac-2023/andres-loeh-lazy-evaluation.pdf][Lazy evaluation]]. ~ Andres Löh (@kosmikus). #Haskell #FunctionalProgramming
 + [[https://youtube.com/playlist?list=PLOvRW_utVPVmzDGGOJ2amgVBK168Vemke&si=GL9qNOv3JN301EcT][ZuriHac 2023]]. #Haskell #FunctionalProgramming
