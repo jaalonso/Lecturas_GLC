@@ -52,6 +52,10 @@ its content.
 
 ** Septiembre 2023
 
+*** 23-Sep-23
++ [[https://cacm.acm.org/magazines/2023/10/276632-generating-and-exploiting-automated-reasoning-proof-certificates/abstract][Generating and exploiting automated reasoning proof certificates]]. ~ Haniel Barbosa, Clark Barrett, Byron Cook, Bruno Dutertre, Gereon Kremer, Hanna Lachnitt, Aina Niemetz, Andres Nötzli, Alex Ozdemir, Mathias Preiner, Andrew Reynolds, Cesare Tinelli, Yoni Zohar. #AutomatedReasoning #FormalVerification
++ [[https://camilocs.substack.com/p/entrevista-a-bjarne-stroustrup][Entrevista a Bjarne Stroustrup (El creador de C++)]]. ~ Camilo Chacón Sartori (@camilo_chacon_s). #CompSci
+
 *** 22-Sep-23
 + [[https://arxiv.org/abs/2309.08962][Dynamic separation logic]]. ~ Frank S. de Boer, Hans-Dieter A. Hiep, Stijn de Gouw. #ITP #Coq
 + [[https://pure.tue.nl/ws/portalfiles/portal/307424967/Thesis_BTW_BEP_Bram_Bastiaansen_002_.pdf][Waterproof: Educational proof assistant for linear algebra]]. ~ B. Bastiaans. #ITP #Coq #Math
