@@ -52,6 +52,13 @@ its content.
 
 ** Septiembre 2023
 
+*** 24-Sep-23
++ [[https://zenodo.org/record/7430233][Aesop: White-box best-first proof search for Lean]]. ~ Jannis Limperg Limperg, Asta Halkjær From. #ITP #LeanProver
++ [[https://github.com/JLimperg/aesop][Aesop (automated extensible search for obvious proofs): a proof search tactic for Lean 4]]. #ITP #Lean4
++ [[https://www.cs.nott.ac.uk/~pszgmh/123.pdf][Programming language semantics (It’s easy as 1,2,3)]]. ~ Graham Hutton. #Haskell #FunctionalProgramming
++ [[https://dev.to/yelouafi/types-as-propositions-in-typescript-2m97][Types as propositions in Typescript]]. ~ Yassine Elouafi. #Typescript #TypeTheory
++ [[https://www.20minutos.es/noticia/5175005/0/universidad-afronta-irrupcion-ia-hice-tfg-dos-dias-aprobe-gracias-chatgpt][La universidad afronta la irrupción de la IA: "Hice el TFG en dos días y aprobé gracias a ChatGPT"]]. #IA #ChatGPT #Educación
+
 *** 23-Sep-23
 + [[https://cacm.acm.org/magazines/2023/10/276632-generating-and-exploiting-automated-reasoning-proof-certificates/abstract][Generating and exploiting automated reasoning proof certificates]]. ~ Haniel Barbosa, Clark Barrett, Byron Cook, Bruno Dutertre, Gereon Kremer, Hanna Lachnitt, Aina Niemetz, Andres Nötzli, Alex Ozdemir, Mathias Preiner, Andrew Reynolds, Cesare Tinelli, Yoni Zohar. #AutomatedReasoning #FormalVerification
 + [[https://camilocs.substack.com/p/entrevista-a-bjarne-stroustrup][Entrevista a Bjarne Stroustrup (El creador de C++)]]. ~ Camilo Chacón Sartori (@camilo_chacon_s). #CompSci
