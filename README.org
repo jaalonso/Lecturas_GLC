@@ -52,6 +52,9 @@ its content.
 
 ** Septiembre 2023
 
+*** 25-Sep-23
++ [[https://cgi.cse.unsw.edu.au/~eptcs/paper.cgi?FROM2023.8][While loops in Coq]]. ~ David Nowak, Vlad Rusu. #ITP #Coq
+
 *** 24-Sep-23
 + [[https://zenodo.org/record/7430233][Aesop: White-box best-first proof search for Lean]]. ~ Jannis Limperg Limperg, Asta Halkjær From. #ITP #LeanProver
 + [[https://github.com/JLimperg/aesop][Aesop (automated extensible search for obvious proofs): a proof search tactic for Lean 4]]. #ITP #Lean4
