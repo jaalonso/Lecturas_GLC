@@ -52,6 +52,13 @@ its content.
 
 ** Septiembre 2023
 
+*** 26-Sep-23
++ [[https://arxiv.org/abs/2309.11676][Cardinality and representation of Stone relation algebras]]. ~ Hitoshi Furusawa, Walter Guttmann. #ITP #IsabelleHOL #Logic #Math
++ [[https://sorawee.github.io/pretty-expressive-oopsla23-artifact/full-paper.pdf][A pretty expressive printer]]. ~ Sorawee Porncharoenwase, Justin Pombrio, Emina Torlak. #ITP #LeanProver
++ [[https://clei.org/cleiej/index.php/cleiej/article/download/599/459][Education-oriented proof assistant based on calculational logic: proof theory algorithms and assessment experience]]. ~ Federico Flaviani, Walter Carballosa. #ITP #Logic #Teaching
++ [[https://arxiv.org/abs/2309.11829][Making mathematical research data FAIR: A technology overview]]. ~ Tim Conrad et als. #Math
++ [[https://arxiv.org/abs/2309.13059][Beyond traditional teaching: the potential of large language models and chatbots in graduate engineering education]]. ~ Mahyar Abedi, Ibrahem Alshybani, Muhammad Rubayat Bin Shahadat, Michael S. Murillo. #LLMs #Education
+
 *** 25-Sep-23
 + [[https://cgi.cse.unsw.edu.au/~eptcs/paper.cgi?FROM2023.8][While loops in Coq]]. ~ David Nowak, Vlad Rusu. #ITP #Coq
 
