@@ -52,6 +52,9 @@ its content.
 
 ** Septiembre 2023
 
+*** 27-Sep-23
++ [[https://camilocs.substack.com/p/entrevista-a-brian-kernighan][Entrevista a Brian Kernighan (cocreador de AWK y AMPL]]. Y coautor del libro «The C Programming Language» (K&R)). ~ Camilo Chacón Sartori (@camilo_chacon_s). #CompSci
+
 *** 26-Sep-23
 + [[https://arxiv.org/abs/2309.11676][Cardinality and representation of Stone relation algebras]]. ~ Hitoshi Furusawa, Walter Guttmann. #ITP #IsabelleHOL #Logic #Math
 + [[https://sorawee.github.io/pretty-expressive-oopsla23-artifact/full-paper.pdf][A pretty expressive printer]]. ~ Sorawee Porncharoenwase, Justin Pombrio, Emina Torlak. #ITP #LeanProver
