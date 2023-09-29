@@ -52,6 +52,12 @@ its content.
 
 ** Septiembre 2023
 
+*** 28-Sep-23
++ [[https://www.sciencedirect.com/science/article/pii/S0168007223000039][A formalised theorem in the partition calculus]]. ~ Lawrence C. Paulson (@lawrpaulson@bird.makeup). #ITP #IsabelleHOL
++ [[https://theses.liacs.nl/pdf/2022-2023-BingenZA.pdf][Verification of combinational and sequential circuits in Lean3]]. ~ Zahir A. Bingen. #ITP #LeanProver
++ [[https://www.cs.ru.nl/bachelors-theses/2023/Dick_Blankvoort___1056960___Implementing_Patch_Theories_in_Homotopy_Type_Theory.pdf][Implementing patch theories in homotopy type theory]]. ~ Dick Blankvoort. #ITP #Coq #HoTT
++ [[https://arxiv.org/abs/2309.15577][An evaluation of ChatGPT-4's qualitative spatial reasoning capabilities in RCC-8]]. ~ Anthony G Cohn. #ChatGPT #Reasoning
+
 *** 27-Sep-23
 + [[https://camilocs.substack.com/p/entrevista-a-brian-kernighan][Entrevista a Brian Kernighan (cocreador de AWK y AMPL]]. Y coautor del libro «The C Programming Language» (K&R)). ~ Camilo Chacón Sartori (@camilo_chacon_s). #CompSci
 
