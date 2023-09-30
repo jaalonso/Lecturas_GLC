@@ -52,6 +52,16 @@ its content.
 
 ** Septiembre 2023
 
+*** 29-Sep-23
++ [[https://unreasonableeffectiveness.com/learning-lean-4-as-a-programming-language-project-euler/][Learning Lean 4 as a programming language 1 – Project Euler]]. ~ Markus Schmaus. #Lean4 #FunctionalProgramming
++ [[https://www.mdpi.com/1999-4893/16/10/459][Mathematical foundation of a functional implementation of the CNF algorithm]]. ~ Francisco Miguel García-Olmedo, Jesús García-Miranda, Pedro González-Rodelas. #Logic #Haskell #FunctionalProgramming
++ [[https://github.com/ringstellung/CNF][CNF and D&P algorithm implementations]]. #Logic #Haskell #FunctionalProgramming
++ [[https://arxiv.org/abs/2309.16224][Automatic proof checking and proof construction by tactics]]. ~ Gilles Dowek. #ITP #Coq
++ [[https://golem.ph.utexas.edu/category/2023/09/lectures_on_applied_category_t.html][Lectures on applied category theory]]. ~ John Baez. #CategoryTheory
++ [[https://arxiv.org/abs/2309.16436][Neuro symbolic reasoning for planning: counterexample guided inductive synthesis using large language models and satisfiability solving]]. ~ Sumit Kumar Jha et als. #LLMs #Reasoning #SMT
++ [[https://arxiv.org/abs/2308.10379][Algorithm of thoughts: enhancing exploration of ideas in large language models]]. ~ Bilgehan Sel et als. #LLMs
++ [[https://retinatendencias.com/opinion/navegamos-hacia-la-segunda-fase-de-la-ia-generativa-la-frontera-de-las-realidades/][Navegamos hacia la segunda fase de la IA generativa. La frontera de las realidades]]. ~ Mariano Minoli y Javier Fernández. #IA_generativa
+
 *** 28-Sep-23
 + [[https://www.sciencedirect.com/science/article/pii/S0168007223000039][A formalised theorem in the partition calculus]]. ~ Lawrence C. Paulson (@lawrpaulson@bird.makeup). #ITP #IsabelleHOL
 + [[https://theses.liacs.nl/pdf/2022-2023-BingenZA.pdf][Verification of combinational and sequential circuits in Lean3]]. ~ Zahir A. Bingen. #ITP #LeanProver
