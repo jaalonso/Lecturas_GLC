@@ -52,6 +52,10 @@ its content.
 
 ** Septiembre 2023
 
+*** 30-Sep-23
++ [[https://annals-csis.org/proceedings/2023/pliks/3409.pdf][Developing field theory in Mizar]]. ~ Christoph Schwarzweller. #ITP #Mizar #Math
++ [[https://arxiv.org/abs/2309.15806][Lyra: Orchestrating dual correction in automated theorem proving]]. ~ Chuanyang Zheng et als. #LLMs #ITP #IsabelleHOL
+
 *** 29-Sep-23
 + [[https://unreasonableeffectiveness.com/learning-lean-4-as-a-programming-language-project-euler/][Learning Lean 4 as a programming language 1 – Project Euler]]. ~ Markus Schmaus. #Lean4 #FunctionalProgramming
 + [[https://www.mdpi.com/1999-4893/16/10/459][Mathematical foundation of a functional implementation of the CNF algorithm]]. ~ Francisco Miguel García-Olmedo, Jesús García-Miranda, Pedro González-Rodelas. #Logic #Haskell #FunctionalProgramming
