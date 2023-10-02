@@ -11,6 +11,7 @@ its content.
 
 * Content                                                                      :TOC:
 - [[#lecturas-del-año-2023][Lecturas del año 2023]]
+  - [[#octubre-2023][Octubre 2023]]
   - [[#septiembre-2023][Septiembre 2023]]
   - [[#agosto-2023][Agosto 2023]]
   - [[#julio-2023][Julio 2023]]
@@ -49,6 +50,12 @@ its content.
 - [[#lecturas-anteriores][Lecturas anteriores]]
 
 * Lecturas del año 2023
+
+** Octubre 2023
+
+*** 01-Oct-23
++ [[https://cs3110.github.io/textbook/cover.html][OCaml programming: correct + efficient + beautiful]]. ~ Michael R. Clarkson et als. #OCaml #FunctionalProgramming
++ [[https://youtube.com/playlist?list=PLt0HgEXFOHdkE-NTs87s7QjwYwqeihb-D&si=BSkFVWZJfhYEGGO8][CS3100 Paradigms of programming @ IITM (OCaml + Prolog)]]. ~ KC Sivaramakrishnan. #OCaml #FunctionalProgramming #Prolog #LogicProgramming
 
 ** Septiembre 2023
 
