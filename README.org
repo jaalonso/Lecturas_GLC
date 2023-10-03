@@ -53,6 +53,9 @@ its content.
 
 ** Octubre 2023
 
+*** 02-Oct-23
++ [[https://cacm.acm.org/blogs/blog-cacm/276916-can-ai-be-fair/fulltext][Can AI be fair?]] ~ Antony Chayka, Andrei Sukhov. #AI
+
 *** 01-Oct-23
 + [[https://cs3110.github.io/textbook/cover.html][OCaml programming: correct + efficient + beautiful]]. ~ Michael R. Clarkson et als. #OCaml #FunctionalProgramming
 + [[https://youtube.com/playlist?list=PLt0HgEXFOHdkE-NTs87s7QjwYwqeihb-D&si=BSkFVWZJfhYEGGO8][CS3100 Paradigms of programming @ IITM (OCaml + Prolog)]]. ~ KC Sivaramakrishnan. #OCaml #FunctionalProgramming #Prolog #LogicProgramming
