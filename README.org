@@ -53,6 +53,24 @@ its content.
 
 ** Octubre 2023
 
+*** 03-Oct-23
++ [[https://github.com/JLimperg/regensburg-itp-school-2023][A taste of Lean 4]]. ~ Jannis Limperg. #ITP #Lean4 #Math
++ [[https://itp-school-2023.github.io/slides/slides_demoura.pdf][Lean 4: an extensible proof assistant and programming language]]. ~ Leonardo de Moura. #Lean4 #ITP #FunctionalProgramming
++ [[https://itp-school-2023.github.io/slides/slides_uschold.pdf][Amenable groups in Lean]]. ~ Matthias Uschold. #ITP #LeanProver #Math
++ [[https://itp-school-2023.github.io/slides/slides_aka1.pdf][Part 1: Formalising mathematics in Isabelle/HOL]]. ~ Angeliki Koutsoukou-Argyraki (@AngelikiKoutso1). #ITP #IsabelleHOL #Math
++ [[https://itp-school-2023.github.io/slides/slides_aka2.pdf][Part 2: Formalisation of additive combinatorics in Isabelle/HOL]]. ~ Angeliki Koutsoukou-Argyraki (@AngelikiKoutso1). #ITP #IsabelleHOL #Math
++ [[https://itp-school-2023.github.io/slides/slides_shulman.pdf][Modal type theories]]. ~ Michael Shulman. #ITP #Agda #Logic
++ [[https://itp-school-2023.github.io/slides/slides_jrh_part1.pdf][HOL Light from the foundations]]. ~ John Harrison. #ITP #HOL_Light
++ [[https://itp-school-2023.github.io/slides/slides_jrh_part2.pdf][HOL Light from the foundations (part 2/3)]]. ~ John Harrison. #ITP #HOL_Light
++ [[https://itp-school-2023.github.io/slides/slides_jrh_part3.pdf][HOL Light from the foundations (part 3/3)]]. ~ John Harrison. #ITP #HOL_Light
++ [[https://www-sop.inria.fr/members/Yves.Bertot/Regensburg_lectures/slides1.pdf][Introduction to Coq (Part 1: the calculus of inductive constructions and inductive types)]]. ~ Yves Bertot. #ITP #Coq
++ [[https://www-sop.inria.fr/members/Yves.Bertot/Regensburg_lectures/slides2.pdf][Introduction to Coq (Part 2: Automation tactics)]]. ~ Yves Bertot. #ITP #Coq
++ [[https://www-sop.inria.fr/members/Yves.Bertot/Regensburg_lectures/slides3.pdf][Introduction to Coq (Part 3: Some libraries)]]. ~ Yves Bertot. #ITP #Coq
++ [[https://itp-school-2023.github.io/slides/slides_brogi.pdf][Theorem provers within theorem provers (Experiments with modal logic in HOL Light)]]. ~ Cosimo Perini Brogi. #ITP #HOL_Light #Logic #Math
++ [[https://github.com/MatthiasHu/grahams-number-in-proof-assistants][Graham's number in proof assistants]]. #ITP #Agda #Lean #Coq #Math
++ [[https://www.lix.polytechnique.fr/Labo/Noam.ZEILBERGER/teaching/CSE301/][Course: Functional programming]]. ~ Noam Zeilberger, Théo Boury, Jill-Jênn Vie. #Haskell #FunctionalProgramming
++ [[https://www.zdnet.com/article/can-generative-ai-solve-computer-sciences-greatest-unsolved-problem/][Can generative AI solve computer science's greatest unsolved problem? ~ Tiernan Ray]]. #AI GPT4 #CompSci
+
 *** 02-Oct-23
 + [[https://cacm.acm.org/blogs/blog-cacm/276916-can-ai-be-fair/fulltext][Can AI be fair?]] ~ Antony Chayka, Andrei Sukhov. #AI
 
