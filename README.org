@@ -53,6 +53,10 @@ its content.
 
 ** Octubre 2023
 
+*** 06-Oct-23
++ [[https://www.giannigastaldi.com/assets/pdf/pubs/Gastaldi2023c_s.pdf][How to do maths with words (Neural machine learning applications to mathematics and their philosophical significance)]]. ~ Juan Luis Gastald. #AI #Math
++ [[https://arxiv.org/abs/2310.03731][MathCoder: Seamless code integration in LLMs for enhanced mathematical reasoning]]. ~ Ke Wang et als. #LLMs #Math
+
 *** 05-Oct-23
 + [[https://lawrencecpaulson.github.io/2023/10/04/Ochigame.html][The concept of proof within the context of machine mathematics]]. ~ Lawrence C. Paulson (@lawrpaulson@bird.makeup).  #Philosophy #Math #ITP
 + [[https://unreasonableeffectiveness.com/learning-lean-4-as-a-programming-language-2-infinite-lists/][Learning Lean 4 as a programming language 2: Infinite lists]]. ~ Markus Schmaus. #Lean4 #FunctionalProgramming
