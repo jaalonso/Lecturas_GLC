@@ -53,6 +53,10 @@ its content.
 
 ** Octubre 2023
 
+*** 07-Oct-23
++ [[https://www.youtube.com/watch?v=mFUQYXqaODw][The Haskell Unfolder Episode 12: Parametricity]]. ~ Edsko de Vries (@EdskoDeVries), Andres Löh (@kosmikus). #Haskell #FunctionalProgramming
++ [[https://www.cs.princeton.edu/~appel/papers/SpecPaper.pdf][Specifying and verifying a real-world packet error-correction system]]. ~ Joshua M. Cohen, Andrew W. Appel. #ITP #Coq
+
 *** 06-Oct-23
 + [[https://www.giannigastaldi.com/assets/pdf/pubs/Gastaldi2023c_s.pdf][How to do maths with words (Neural machine learning applications to mathematics and their philosophical significance)]]. ~ Juan Luis Gastald. #AI #Math
 + [[https://arxiv.org/abs/2310.03731][MathCoder: Seamless code integration in LLMs for enhanced mathematical reasoning]]. ~ Ke Wang et als. #LLMs #Math
