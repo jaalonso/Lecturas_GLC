@@ -53,6 +53,9 @@ its content.
 
 ** Octubre 2023
 
+*** 08-Oct-23
++ [[https://camilocs.substack.com/p/entrevista-a-simon-peyton-jones?r=3vd4r][Entrevista a Simon Peyton Jones (Una de las mentes principales detrás de Haskell)]]. ~ Camilo Chacón Sartori (@camilo_chacon_s). #Haskell #FunctionalProgramming
+
 *** 07-Oct-23
 + [[https://www.youtube.com/watch?v=mFUQYXqaODw][The Haskell Unfolder Episode 12: Parametricity]]. ~ Edsko de Vries (@EdskoDeVries), Andres Löh (@kosmikus). #Haskell #FunctionalProgramming
 + [[https://www.cs.princeton.edu/~appel/papers/SpecPaper.pdf][Specifying and verifying a real-world packet error-correction system]]. ~ Joshua M. Cohen, Andrew W. Appel. #ITP #Coq
