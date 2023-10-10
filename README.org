@@ -53,6 +53,10 @@ its content.
 
 ** Octubre 2023
 
+*** 09-Oct-23
++ [[https://arxiv.org/abs/2310.04353][A language-agent approach to formal theorem-proving]]. ~ Amitayush Thakur, Yeming Wen, Swarat Chaudhuri. #LLMs #Reasoning #ITP
++ [[https://flaviomoura.info/files/lca.pdf][Lógica computacional e algoritmos (Uma introdução assistida por computador)]]. ~ Flávio L. C. de Moura. #Logic #ITP #Coq
+
 *** 08-Oct-23
 + [[https://camilocs.substack.com/p/entrevista-a-simon-peyton-jones?r=3vd4r][Entrevista a Simon Peyton Jones (Una de las mentes principales detrás de Haskell)]]. ~ Camilo Chacón Sartori (@camilo_chacon_s). #Haskell #FunctionalProgramming
 
