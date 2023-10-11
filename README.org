@@ -53,6 +53,9 @@ its content.
 
 ** Octubre 2023
 
+*** 10-Oct-23
++ [[https://neurosymbolic-ai-journal.com/system/files/nai-paper-669.pdf][Deep deductive reasoning is a hard deep learning problem]]. ~ Pascal Hitzler et als. #AI #ML #Reasoning
+
 *** 09-Oct-23
 + [[https://arxiv.org/abs/2310.04353][A language-agent approach to formal theorem-proving]]. ~ Amitayush Thakur, Yeming Wen, Swarat Chaudhuri. #LLMs #Reasoning #ITP
 + [[https://flaviomoura.info/files/lca.pdf][Lógica computacional e algoritmos (Uma introdução assistida por computador)]]. ~ Flávio L. C. de Moura. #Logic #ITP #Coq
