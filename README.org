@@ -53,6 +53,13 @@ its content.
 
 ** Octubre 2023
 
+*** 11-Oct-23
++ [[https://arxiv.org/abs/2310.06376][Martin-Löf à la Coq]]. ~ Arthur Adjedj et als. #ITP #Coq
++ [[https://arxiv.org/abs/2310.05993][Measuring reasoning capabilities of ChatGPT]]. ~ Adrian Groza. #ChatGPT #Reasoning
++ [[https://frasertweedale.github.io/blog-fp/posts/2023-10-10-education-fund-modelling.html][Education fund modelling with Haskell]]. ~ Fraser Tweedale (@hackuador@functional.cafe) #Haskell #FunctionalProgramming
++ [[https://github.com/Wilfred/suggest.el][suggest.el: an Emacs package for discovering elisp functions based on examples]]. ~ Wilfred Hughes (@wilfredh@mastodon.social). #Emacs #Elisp
++ [[https://arxiv.org/abs/2310.04870][Lemur: Integrating large language models in automated program verification]]. ~ Haoze Wu, Clark Barrett, Nina Narodytska. #LLMs #Verification
+
 *** 10-Oct-23
 + [[https://neurosymbolic-ai-journal.com/system/files/nai-paper-669.pdf][Deep deductive reasoning is a hard deep learning problem]]. ~ Pascal Hitzler et als. #AI #ML #Reasoning
 
