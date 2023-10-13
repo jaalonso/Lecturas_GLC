@@ -53,6 +53,20 @@ its content.
 
 ** Octubre 2023
 
+*** 12-Oct-23
++ [[https://www.maths.ed.ac.uk/~adona/files/honours_project.pdf][Exploring the capabilities of the Lean interactive theorem prover]]. ~ Adrián Doña Mateo. #ITP #LeanProver #Math
++ [[https://unreasonableeffectiveness.com/learning-lean-4-as-a-programming-language-4-proofs/][Learning Lean 4 as a programming language 4: Proofs]]. ~ Markus Schmaus. #Lean4 #FunctionalProgramming #ITP
++ [[https://www.quantamagazine.org/the-deep-link-equating-math-proofs-and-computer-programs-20231011/][The deep link equating math proofs and computer programs]]. ~ Sheon Han (@sheonhan). #Math #CompSci #ITP #Coq #LeanProver
++ [[https://link.springer.com/content/pdf/10.1007/s10472-023-09894-7.pdf][Automated programming, symbolic computation, machine learning: my personal view]]. ~ Bruno Buchberger. #ATP #ITP #CAS #AI #ML
++ [[https://adg2023.matf.bg.ac.rs/downloads/slides/InvitedTalkNarboux.pdf][Formalisation, arithmetization and automatisation of geometry]]. ~ Julien Narboux. #ITP #Coq #Math
++ [[https://arxiv.org/abs/2310.05891][Automated reasoning for proving non-orderability of groups]]. ~ Alexei Lisitsa, Zipei Nie, Alexei Vernitski. #ATP #Prover9 #Mace4 #Math
++ [[https://www.isa-afp.org/entries/Standard_Borel_Spaces.html][Standard Borel spaces (in Isabelle/HOL)]]. ~ Michikazu Hirata. #ITP #IsabelleHOL #Math
++ [[https://www.isa-afp.org/entries/S_Finite_Measure_Monad.html][S-finite measure monad on quasi-Borel spaces (in Isabelle/HOL)]]. ~ Michikazu Hirata, Yasuhiko Minamide. #ITP #IsabelleHOL #Math
++ [[https://bahr.io/pubs/files/asyncrattus-paper.pdf][Asynchronous reactive programming with modal types in Haskell]]. ~ Patrick Bahr, Emil Houlborg, and Gregers Thomas Skat Rørdam. #Haskell #FunctionalProgramming
++ [[https://www.tweag.io/blog/2023-10-12-rhine-bayes/][rhine-bayes: a library for online reactive Bayesian inference]]. ~ Manuel Bärenz. #Haskell #FunctionalProgramming #MachineLearning
++ [[https://arxiv.org/abs/2305.15074][Have LLMs advanced enough? A challenging problem solving benchmark for large language models]]. ~ Daman Arora, Himanshu Gaurav Singh, Mausam. #LLMs #Math
++ [[https://youtu.be/mizw1UCfk_o][Las Matemáticas como herramienta de creación artística]]. ~ Raúl Ibáñez. #Matemáticas
+
 *** 11-Oct-23
 + [[https://arxiv.org/abs/2310.06376][Martin-Löf à la Coq]]. ~ Arthur Adjedj et als. #ITP #Coq
 + [[https://arxiv.org/abs/2310.05993][Measuring reasoning capabilities of ChatGPT]]. ~ Adrian Groza. #ChatGPT #Reasoning
