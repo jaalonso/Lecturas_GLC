@@ -53,6 +53,11 @@ its content.
 
 ** Octubre 2023
 
+*** 13-Oct-23
++ [[https://arxiv.org/abs/2205.03659][Mechanising Gödel-Löb provability logic in HOL Light]]. ~ Marco Maggesi, Cosimo Perini Brogi. #ITP #HOL_Light #Logic
++ [[https://arxiv.org/abs/2310.07957 ][A new approach towards autoformalization]]. ~ Nilay Patel, Jeffrey Flanigan, Rahul Saha. #Autoformalization #GPT #LeanProver #Math
++ [[https://arxiv.org/abs/2310.00656][LEGO-prover: Neural theorem proving with growing libraries]]. ~ Huajian Xin et als. #LLMs #ITP #IsabelleHOL
+
 *** 12-Oct-23
 + [[https://www.maths.ed.ac.uk/~adona/files/honours_project.pdf][Exploring the capabilities of the Lean interactive theorem prover]]. ~ Adrián Doña Mateo. #ITP #LeanProver #Math
 + [[https://unreasonableeffectiveness.com/learning-lean-4-as-a-programming-language-4-proofs/][Learning Lean 4 as a programming language 4: Proofs]]. ~ Markus Schmaus. #Lean4 #FunctionalProgramming #ITP
