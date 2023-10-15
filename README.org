@@ -53,6 +53,12 @@ its content.
 
 ** Octubre 2023
 
+*** 14-Oct-23
++ [[https://www.glc.us.es/~jalonso/vestigium/14-oct-23/][La semana en Calculemus (Demostraciones con Lean4) (14-oct-23)]]. #ITP #Lean4 #Math
++ [[https://arxiv.org/abs/2303.05244][Transport via partial Galois connections and equivalences]]. ~ Kevin Kappelmann. #ITP #IsabelleHOL #Math
++ [[https://www.isa-afp.org/entries/Transport.html][Transport via partial Galois connections and equivalences (in Isabelle/HOL)]]. ~ Kevin Kappelmann. #ITP #IsabelleHOL #Math
++ [[https://arxiv.org/abs/2310.06959][Towards proof repair in Cubical Agda]]. ~ Cosmo Viola, Max Fan, Talia Ringer. #ITP #Agda
+
 *** 13-Oct-23
 + [[https://arxiv.org/abs/2205.03659][Mechanising Gödel-Löb provability logic in HOL Light]]. ~ Marco Maggesi, Cosimo Perini Brogi. #ITP #HOL_Light #Logic
 + [[https://arxiv.org/abs/2310.07957 ][A new approach towards autoformalization]]. ~ Nilay Patel, Jeffrey Flanigan, Rahul Saha. #Autoformalization #GPT #LeanProver #Math
