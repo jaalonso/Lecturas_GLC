@@ -53,6 +53,9 @@ its content.
 
 ** Octubre 2023
 
+*** 15-Oct-23
++ [[https://youtu.be/jaibFnoMDSw][Lean FRO: Monthly Community Meeting Oct 13, 2023]]. #ITP #LeanProver
+
 *** 14-Oct-23
 + [[https://www.glc.us.es/~jalonso/vestigium/14-oct-23/][La semana en Calculemus (Demostraciones con Lean4) (14-oct-23)]]. #ITP #Lean4 #Math
 + [[https://arxiv.org/abs/2303.05244][Transport via partial Galois connections and equivalences]]. ~ Kevin Kappelmann. #ITP #IsabelleHOL #Math
