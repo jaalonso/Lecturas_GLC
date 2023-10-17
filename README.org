@@ -53,6 +53,11 @@ its content.
 
 ** Octubre 2023
 
+*** 16-Oct-23
++ [[https://github.com/madvorak/lean4-tactics][Overview of tactics in Lean 4 for beginners]]. ~ Martin Dvořák. #ITP #Lean4
++ [[https://github.com/madvorak/fecssk][Formalisms every computer scientist should know]]. ~ Martin Dvořák. #ITP #Lean4
++ [[https://www.isa-afp.org/entries/Hypergraph_Colourings.html][Hypergraph colouring bounds (in Isabelle/HOL)]]. ~ Chelsea Edmonds (@chelsealedmonds), Lawrence C. Paulson (@lawrpaulson@bird.makeup). #ITP #IsabelleHOL
+
 *** 15-Oct-23
 + [[https://youtu.be/jaibFnoMDSw][Lean FRO: Monthly Community Meeting Oct 13, 2023]]. #ITP #LeanProver
 
