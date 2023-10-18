@@ -53,6 +53,17 @@ its content.
 
 ** Octubre 2023
 
+*** 17-Oct-23
++ [[https://github.com/fpvandoorn/LeanCourse23/blob/master/lean-tactics.pdf][Lean 4 Cheatsheet]]. ~ Floris van Doorn. #ITP #LeanProver #Lean4
++ [[https://github.com/fpvandoorn/LeanCourse23/tree/master][Course: Formalized Mathematics in Lean]]. ~ Floris van Doorn. #ITP #LeanProver #Math
++ [[https://docs.google.com/spreadsheets/d/1Gsn5al4hlpNc_xKoXdU6XGmMyLiX4q-LFesFVsMlANo][Lean phrasebook]]. ~ Terry Tao. #ITP #LeanProver
++ [[https://www.research.herts.ac.uk/ws/portalfiles/portal/35422102/Human_Machine_Collaboration.pdf][Human-machine collaboration in the teaching of proof]]. ~ Gila Hanna, Brendan Larvor, Xiaoheng (Kitty) Yan (Feb. 2023). #ITP #LeanProver #Teaching
++ [[https://www-lipn.univ-paris13.fr/~mayero/publis/Assistants_preuves_Gazette-SMF.pdf][Utilisation des assistants de preuves pour l’enseignement en L1]]. ~ M. Kerjean et al. #ITP #LeanProver #Teaching
++ [[https://hal.science/hal-04227823v1/file/presentationJulienNarbouxThedu23.pdf][Foundations of proof assistants: impact on student perception of proof]]. ~ Iro Bartzia, Emmanuel Beffara, Antoine Meyer, Julien Narboux. #ITP #Teaching
++ [[https://www.abp-workshop.de/2023/proceedings.pd][Automatic evaluation of Haskell assignments using existing Haskell tooling]]. ~ Thomas Prokosch, Sven Strickroth.f#page=25 #Haskell #FunctionalProgramming
++ [[https://hal.science/hal-01912885v1/document][Didactical issues at the interface of mathematics and computer science]]. ~ Viviane Durand-Guerrier, Antoine Meyer, Simon Modeste. #Math #CompSci #Teaching
++ [[https://arxiv.org/abs/2310.09921][An introduction to mathematical logic]]. ~ Anton Freund. #Logic #Math
+
 *** 16-Oct-23
 + [[https://github.com/madvorak/lean4-tactics][Overview of tactics in Lean 4 for beginners]]. ~ Martin Dvořák. #ITP #Lean4
 + [[https://github.com/madvorak/fecssk][Formalisms every computer scientist should know]]. ~ Martin Dvořák. #ITP #Lean4
