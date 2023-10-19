@@ -53,6 +53,10 @@ its content.
 
 ** Octubre 2023
 
+*** 18-Oct-23
++ [[https://morph.so/blog/the-personal-ai-proof-engineer/][The personal AI proof engineer]]. ~ @morph_labs. #AI #ITP #LeanProver #Math
++ [[https://lab.cccb.org/es/la-doble-vida-de-la-inteligencia-artificial/][La doble vida de la inteligencia artificial]]. ~ Marta Peirano (@minipetite). #IA
+
 *** 17-Oct-23
 + [[https://github.com/fpvandoorn/LeanCourse23/blob/master/lean-tactics.pdf][Lean 4 Cheatsheet]]. ~ Floris van Doorn. #ITP #LeanProver #Lean4
 + [[https://github.com/fpvandoorn/LeanCourse23/tree/master][Course: Formalized Mathematics in Lean]]. ~ Floris van Doorn. #ITP #LeanProver #Math
