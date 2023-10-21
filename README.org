@@ -53,6 +53,11 @@ its content.
 
 ** Octubre 2023
 
+*** 20-Oct-23
++ [[https://youtu.be/5Jl3ZeYeDfE][Formalising a number theory textbook: Lessons learnt]]. Lawrence Paulson (@LawrPaulson). #ITP #IsabelleHOL #Mat #ITP #LeanProver #Math
++ [[https://github.com/Strichcoder/lambda-metric-space][Formalization of Λ-metric spaces and Λ-trees]]. ~ Raphael Appenzeller. #ITP #LeanProver #Math
++ [[https://youtu.be/DEj-_k2Nx6o][How to code your own type theory]]. ~ Jon Sterling. #OCaml #FunctionalProgramming #TypeTheory
+
 *** 18-Oct-23
 + [[https://morph.so/blog/the-personal-ai-proof-engineer/][The personal AI proof engineer]]. ~ @morph_labs. #AI #ITP #LeanProver #Math
 + [[https://lab.cccb.org/es/la-doble-vida-de-la-inteligencia-artificial/][La doble vida de la inteligencia artificial]]. ~ Marta Peirano (@minipetite). #IA
