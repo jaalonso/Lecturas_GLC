@@ -53,6 +53,9 @@ its content.
 
 ** Octubre 2023
 
+*** 22-Oct-23
++ [[https://cacm.acm.org/magazines/2023/11/277437-what-came-first-math-or-computing/fulltext][What came first, math or computing?]] ~ Moshe Y. Vardi (@vardi). #Math #CompSci
+
 *** 20-Oct-23
 + [[https://youtu.be/5Jl3ZeYeDfE][Formalising a number theory textbook: Lessons learnt]]. Lawrence Paulson (@LawrPaulson). #ITP #IsabelleHOL #Mat #ITP #LeanProver #Math
 + [[https://github.com/Strichcoder/lambda-metric-space][Formalization of Λ-metric spaces and Λ-trees]]. ~ Raphael Appenzeller. #ITP #LeanProver #Math
