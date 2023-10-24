@@ -53,6 +53,11 @@ its content.
 
 ** Octubre 2023
 
+*** 23-Oct-23
++ [[https://github.com/MichaelStollBayreuth/Weights ITP][Formalization in Lean4 of some results in "Minimization of hypersurfaces" ~ A]].-S. Elsenhans and M. Stoll. #LeanProver #Math
++ [[https://github.com/dwrensha/compfiles][Catalog of math problems formalized in Lean]]. ~ David Renshaw et als. #ITP #LeanProver #Math #IMO
++ [[https://youtu.be/zoE3DqglcgM][On making mathematic proof a business]]. ~ Byron Cook (@byroncook). #AutomatedReasoning #Math #CompSci
+
 *** 22-Oct-23
 + [[https://cacm.acm.org/magazines/2023/11/277437-what-came-first-math-or-computing/fulltext][What came first, math or computing?]] ~ Moshe Y. Vardi (@vardi). #Math #CompSci
 
