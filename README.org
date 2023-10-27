@@ -53,6 +53,12 @@ its content.
 
 ** Octubre 2023
 
+*** 26-Oct-23
++ [[https://youtu.be/DeoVsm5dbJI][Try Lean on your browser]]. ~ Adolfo Neto. #ITP #LeanProver
++ [[https://tirore96.github.io/assets/report.pdf][Mechanized formalization of a propositional calculus for contract specification]]. ~ Dawit Legesse Tirore. #ITP #Coq
++ [[https://voidma.in/assets/papers/23nawrocki_user_interfaces_computer_assisted_mathematics.pdf][User interfaces for computer-assisted mathematics]]. ~ Wojciech Nawrocki. #ITP #LeanProver #Lean4 #Math
++ [[https://www.youtube.com/live/pfwP4hXM5hA][The Haskell Unfolder Episode 13: 13: open recursion]]. ~ Edsko de Vries (@EdskoDeVries), Andres Löh (@kosmikus). #Haskell #FunctionalProgramming
+
 *** 24-Oct-23
 + [[https://arxiv.org/abs/2310.03640][Proof-theoretic methods in quantifier-free definability]]. ~ Zoltan A. Kocsis. #ITP #Agda #Logic #Math
 
