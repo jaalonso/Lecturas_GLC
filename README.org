@@ -53,6 +53,9 @@ its content.
 
 ** Octubre 2023
 
+*** 27-Oct-23
++ [[https://arxiv.org/abs/2310.17064][math-PVS: A large language model framework to map scientific publications to PVS theories]]. ~ Hassen Saidi, Susmit Jha, Tuhin Sahai. #AI #LLMs #ITP #PVS #Math
+
 *** 26-Oct-23
 + [[https://youtu.be/DeoVsm5dbJI][Try Lean on your browser]]. ~ Adolfo Neto. #ITP #LeanProver
 + [[https://tirore96.github.io/assets/report.pdf][Mechanized formalization of a propositional calculus for contract specification]]. ~ Dawit Legesse Tirore. #ITP #Coq
