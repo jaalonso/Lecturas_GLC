@@ -53,6 +53,11 @@ its content.
 
 ** Octubre 2023
 
+*** 28-Oct-23
++ [[https://era.ed.ac.uk/bitstream/handle/1842/41096/Morris2023.pdf][Mechanising Euler’s use of infinitesimals in the proof of the Basel problem]]. ~ Imogen I. Morris. #ITP #IsabelleHOL #Math
++ [[https://arxiv.org/abs/2310.15164][LINC: A neurosymbolic approach for logical reasoning by combining language models with first-order logic provers]]. ~ Theo X. Olausson et als. #LLMs #Reasoning #ATP #Prover9
++ [[https://managing-ai-risks.com/][Managing AI risks in an era of rapid progress]]. ~ Yoshua Bengio, Geoffrey Hinton (@geoffreyhinton) et als. #AI
+
 *** 27-Oct-23
 + [[https://arxiv.org/abs/2310.17064][math-PVS: A large language model framework to map scientific publications to PVS theories]]. ~ Hassen Saidi, Susmit Jha, Tuhin Sahai. #AI #LLMs #ITP #PVS #Math
 
