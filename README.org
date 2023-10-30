@@ -53,6 +53,10 @@ its content.
 
 ** Octubre 2023
 
+*** 29-Oct-23
++ [[https://raw.githubusercontent.com/jaalonso/Calculemus2/main/libro/Calculemus2.pdf][Libro "Calculemus (Demostraciones con Lean4)" (versión 28-oct-23)]]. #ITP #LeanProver #Lean4 #Math
++ [[https://github.com/DSLsofMath/FPClimate][PhD course on functional programming and climate impact research]]. ~ Patrik Jansson (@patrikja). #FunctionalProgramming
+
 *** 28-Oct-23
 + [[https://era.ed.ac.uk/bitstream/handle/1842/41096/Morris2023.pdf][Mechanising Euler’s use of infinitesimals in the proof of the Basel problem]]. ~ Imogen I. Morris. #ITP #IsabelleHOL #Math
 + [[https://arxiv.org/abs/2310.15164][LINC: A neurosymbolic approach for logical reasoning by combining language models with first-order logic provers]]. ~ Theo X. Olausson et als. #LLMs #Reasoning #ATP #Prover9
