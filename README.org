@@ -53,6 +53,12 @@ its content.
 
 ** Octubre 2023
 
+*** 31-Oct-23
++ [[https://youtu.be/FPiykrdPe6U][Learning to code in Lean 4 with a friend: 1. Starting out]]. ~ Richard Southwell, Avi Cramer. #ITP #LeanProver #Lean4
++ [[https://www.sciencedirect.com/science/article/pii/S2352220823000779][Certifying expressive power and algorithms of reversible primitive permutations with Lean]]. ~ Giacomo Maletto, Luca Roversi. #ITP #LeanProver #Math
++ [[https://educaixa.org/documents/10180/83268007/A3_Guia-LLM_educaixa_ESP.pdf][¿Qué son los modelos de lenguaje avanzado (LLM)?]] ~ Raquel Fernández Rovira. #IA #LLM
++ [[https://educaixa.org/documents/10180/83431662/A3_Guia-logica-LLM+02_educaixa_ESP_v01.pdf][¿Qué lógica hay tras un LLM?]] ~ Lluís Godo y Tommaso Flaminio. #IA #LLM #Lógica
+
 *** 29-Oct-23
 + [[https://raw.githubusercontent.com/jaalonso/Calculemus2/main/libro/Calculemus2.pdf][Libro "Calculemus (Demostraciones con Lean4)" (versión 28-oct-23)]]. #ITP #LeanProver #Lean4 #Math
 + [[https://github.com/DSLsofMath/FPClimate][PhD course on functional programming and climate impact research]]. ~ Patrik Jansson (@patrikja). #FunctionalProgramming
