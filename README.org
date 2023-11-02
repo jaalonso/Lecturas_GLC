@@ -11,6 +11,7 @@ its content.
 
 * Content                                                                      :TOC:
 - [[#lecturas-del-año-2023][Lecturas del año 2023]]
+  - [[#noviembre-2023][Noviembre 2023]]
   - [[#octubre-2023][Octubre 2023]]
   - [[#septiembre-2023][Septiembre 2023]]
   - [[#agosto-2023][Agosto 2023]]
@@ -50,6 +51,38 @@ its content.
 - [[#lecturas-anteriores][Lecturas anteriores]]
 
 * Lecturas del año 2023
+
+** Noviembre 2023
+
+*** 01-Nov-23
++ [[https://lftcm2023.github.io/index.html][#LftCM2023: Lean for the Curious Mathematician 2023]]. #ITP #LeanProver #Math
++ [[https://youtu.be/Ft_3jDl3qxQ][Lean for the Curious Mathematician 2023: Basics]]. ~ Bhavik Mehta #ITP #LeanProver #Math #LftCM2023
++ [[https://youtu.be/iub1ULdXjTY][Lean for the Curious Mathematician 2023: Logic]]. ~ Jakob von Raumer. #ITP #LeanProver #Math #LftCM2023
++ [[https://youtu.be/hSFTTgGNGRI][Lean for the Curious Mathematician 2023: Sets and functions]]. ~ Maria Ines de Frutos Fernandez #ITP #LeanProver #Math #LftCM2023
++ [[https://youtu.be/JIG9MQiRTt4][Lean for the Curious Mathematician 2023: Algebra tactics]]. ~ Marc Masdeu. #ITP #LeanProver #Math #LftCM2023
++ [[https://youtu.be/L_VDsP9_ty8][Lean for the Curious Mathematician 2023: Structures and classes]]. ~ Eric Wieser. #ITP #LeanProver #Math #LftCM2023
++ [[https://eric-wieser.github.io/lftcm-2023][Lean for the Curious Mathematician 2023: Structures and classes (Slides)]]. ~ Eric Wieser. #ITP #LeanProver #Math #LftCM2023
++ [[https://youtu.be/SsF80rTRkhs][Lean for the Curious Mathematician 2023: Building an algebraic hierarchy]]. ~ Marc Masdeu. #ITP #LeanProver #Math #LftCM2023
++ [[https://lftcm2023.github.io/slides/SlidesBuildingAlgebraicHierarchy.pdf][Lean for the Curious Mathematician 2023: Building an algebraic hierarchy (Slides)]]. ~ Marc Masdeu. #ITP #LeanProver #Math #LftCM2023
++ [[https://youtu.be/am2GiV00Fm0][Lean for the Curious Mathematician 2023: Analysis]]. ~ Oliver Nash. #ITP #LeanProver #Math #LftCM2023
++ [[https://youtu.be/_cJctOIXWE4][Lean for the Curious Mathematician 2023: Combinatorics]]. ~ Bhavik Mehta. #ITP #LeanProver #Math #LftCM2023
++ [[https://youtu.be/WRjlRq64vws][Lean for the Curious Mathematician 2023: Category theory]]. ~ Jakob von Raumer. #ITP #LeanProver #Math #LftCM2023
++ [[https://youtu.be/NQe5_IBt5KE][Lean for the Curious Mathematician 2023: Algebraic geometry]]. ~ Damiano Testa. #ITP #LeanProver #Math #LftCM2023
++ [[https://lftcm2023.github.io/slides/AG.pdf][Lean for the Curious Mathematician 2023: Algebraic geometry in Mathlib (Slides)]]. ~ Damiano Testa. #ITP #LeanProver #Math #LftCM2023
++ [[https://youtu.be/m6eKO6-o6BQ][Lean for the Curious Mathematician 2023: Differential geometry]]. ~ Floris van Doorn. #ITP #LeanProver #Math #LftCM2023
++ [[https://youtu.be/QQEJVbGD8Ho][Lean for the Curious Mathematician 2023: Number theory]]. ~ Maria Ines de Frutos Fernandez. #ITP #LeanProver #Math #LftCM2023
++ [[https://youtu.be/lwNnjONc50Y][Lean for the Curious Mathematician 2023: Lean into Learning]]. ~ Gihan Marasingha. #ITP #LeanProver #Math #LftCM2023
++ [[https://youtu.be/mie6z_xLKRI][Lean for the Curious Mathematician 2023: The independence of the continuum hypothesis]]. ~ Floris van Dorn. #ITP #LeanProver #Math #LftCM2023
++ [[https://lftcm2023.github.io/slides/independenceCH.pdf][Lean for the Curious Mathematician 2023: The independence of the continuum hypothesis (Slides)]]. ~ Floris van Dorn #ITP #LeanProver #Math #LftCM2023
++ [[https://youtu.be/kmgcnA7ayZo][Lean for the Curious Mathematician 2023: On a formalization of Gromov's h-principle and Smale's sphere eversion theorem in Lean]]. ~ Oliver Nash. #ITP #LeanProver #Math #LftCM2023
++ [[https://lftcm2023.github.io/slides/gromov.pdf][Lean for the Curious Mathematician 2023: On a formalization of Gromov's h-principle and Smale's sphere eversion theorem in Lean (Slides)]]. ~ Oliver Nash. #ITP #LeanProver #Math #LftCM2023
++ [[https://youtu.be/HEG_2dd4Jtw][Lean for the Curious Mathematician 2023: Theorem proving via machine learning]]. ~ Kaiyu Yang. #ITP #LeanProver #MachineLearning #Math #LftCM2023
++ [[https://lftcm2023.github.io/slides/Kaiyu_Yang_TheoremProvingViaMachineLearning.pdf][Lean for the Curious Mathematician 2023: Theorem proving via machine learning (Slides)]]. ~ Kaiyu Yang. #ITP #LeanProver #MachineLearning #Math #LftCM2023
++ [[https://mathai2022.github.io/papers/17.pdf][Towards automating formalisation of theorem statements using large language models]]. ~ Siddhartha Gadgil et als. #Autoformalization #ITP #LeanProver #Math
++ [[https://mathai2022.github.io/papers/20.pdf][ProofNet: A benchmark for autoformalizing and formally proving undergraduate-level mathematics problems]]. ~ Zhangir A Azerbayev, Bartosz Piotrowski, Jeremy Avigad. #Autoformalization #ITP #LeanProver #Math
++ [[https://lawrencecpaulson.github.io//2023/11/01/Foundations.html][What do we mean by "the foundations of mathematics"?]] ~ Lawrence C. Paulson (@LawrPaulson). #Logic #Math
+
+
 
 ** Octubre 2023
 
