@@ -54,6 +54,12 @@ its content.
 
 ** Noviembre 2023
 
+*** 02-Nov-23
++ [[https://arxiv.org/abs/2311.00007][Mathematics and the formal turn]]. ~ Jeremy Avigad. #ITP #Math
++ [[https://www.isa-afp.org/entries/Eudoxus_Reals.htm][Eudoxus reals (in Isabelle/HOL)]]. ~ Ata Keskin.l# #ITP #IsabelleHOL #Math
++ [[https://oa.upm.es/76469/1/TFM_MARCOS_LUIS_GRANDURY_GONZALEZ.pdf][Mechanized verification of the union-find data structure]]. ~Marcos Luis Grandury González. #ITP #Coq
++ [[https://www.lix.polytechnique.fr/Labo/Samuel.Mimram/docs/mimram_generated_delooping.pdf][Delooping generated groups in homotopy type theory]]. ~ Camil Champin, Samuel Mimram, Émile Oleon. #ITP #Agda #Math
+
 *** 01-Nov-23
 + [[https://lftcm2023.github.io/index.html][#LftCM2023: Lean for the Curious Mathematician 2023]]. #ITP #LeanProver #Math
 + [[https://youtu.be/Ft_3jDl3qxQ][Lean for the Curious Mathematician 2023: Basics]]. ~ Bhavik Mehta #ITP #LeanProver #Math #LftCM2023
