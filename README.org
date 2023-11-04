@@ -54,6 +54,10 @@ its content.
 
 ** Noviembre 2023
 
++ [[https://tech.freckle.com/2023/10/31/haskell-refactoring-step-through/][Haskell refactoring step-through]]. ~ Michael Gilliland. #Haskell #FunctionalProgramming
++ [[https://www.gov.uk/government/publications/generative-artificial-intelligence-in-education/generative-artificial-intelligence-ai-in-education][Generative artificial intelligence (AI) in education]]. #AI #Education
++ [[https://youtu.be/SaE3-Cu9-xo][Desafíos en los fundamentos de la IA generativa]]. ~ Joaquín Borrego (@jborrego). #IA
+
 *** 02-Nov-23
 + [[https://arxiv.org/abs/2311.00007][Mathematics and the formal turn]]. ~ Jeremy Avigad. #ITP #Math
 + [[https://www.isa-afp.org/entries/Eudoxus_Reals.htm][Eudoxus reals (in Isabelle/HOL)]]. ~ Ata Keskin.l# #ITP #IsabelleHOL #Math
