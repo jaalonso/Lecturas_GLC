@@ -54,6 +54,13 @@ its content.
 
 ** Noviembre 2023
 
+*** 04-Nov-23
++ [[https://www.cs.ru.nl/~henk/HB.Seldin80.pdf][Combining computation and deduction]]. ~ Henk Barendregt. #Logic #Math #CompSci
++ [[https://www.mdpi.com/2227-7102/13/11/1109][Generative Artificial Intelligence: Implications and considerations for higher education practice]]. ~ Tom Farrelly, Nick Baker. #AI #GAI #Education
++ [[https://canaltic.com/blog/?p=5475][Herramientas de Inteligencia Artificial en educación]]. ~ Fernando Posada Prieto. #AI #Educación
++ [[https://readerunner.wordpress.com/2022/01/06/graphs-kites-and-darts/][Graphs, kites and darts]]. ~ Chris Reade. #Haskell #FunctionalProgramming #Math
+
+*** 03-Nov-23
 + [[https://tech.freckle.com/2023/10/31/haskell-refactoring-step-through/][Haskell refactoring step-through]]. ~ Michael Gilliland. #Haskell #FunctionalProgramming
 + [[https://www.gov.uk/government/publications/generative-artificial-intelligence-in-education/generative-artificial-intelligence-ai-in-education][Generative artificial intelligence (AI) in education]]. #AI #Education
 + [[https://youtu.be/SaE3-Cu9-xo][Desafíos en los fundamentos de la IA generativa]]. ~ Joaquín Borrego (@jborrego). #IA
