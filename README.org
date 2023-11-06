@@ -54,6 +54,9 @@ its content.
 
 ** Noviembre 2023
 
+*** 05-Nov-23
++ [[https://xenaproject.wordpress.com/2023/11/04/formalising-modern-research-mathematics-in-real-time/][Formalising modern research mathematics in real time]]. ~ Bhavik Mehta. #ITP #LeanProver #Math
+
 *** 04-Nov-23
 + [[https://www.cs.ru.nl/~henk/HB.Seldin80.pdf][Combining computation and deduction]]. ~ Henk Barendregt. #Logic #Math #CompSci
 + [[https://www.mdpi.com/2227-7102/13/11/1109][Generative Artificial Intelligence: Implications and considerations for higher education practice]]. ~ Tom Farrelly, Nick Baker. #AI #GAI #Education
