@@ -54,6 +54,11 @@ its content.
 
 ** Noviembre 2023
 
+*** 06-Nov-23
++ [[https://github.com/teorth/symmetric_project][Symmetric project: "A Maclaurin type inequality" in Lean]]. ~ Terence Tao. #ITP #LeanProver #Math
++ [[https://arxiv.org/abs/2209.01259][Category theory for programming]]. ~ Benedikt Ahrens, Kobe Wullaert. #CategoryTheory #FunctionalProgramming
++ [[https://vaibhavsagar.com/blog/2023/10/07/binary-trees-to-hamts/][Binary trees to hash array mapped tries, step by step]]. ~ Vaibhav Sagar. #Haskell #FunctionalProgramming
+
 *** 05-Nov-23
 + [[https://xenaproject.wordpress.com/2023/11/04/formalising-modern-research-mathematics-in-real-time/][Formalising modern research mathematics in real time]]. ~ Bhavik Mehta. #ITP #LeanProver #Math
 
