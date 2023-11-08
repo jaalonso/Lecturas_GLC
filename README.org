@@ -54,6 +54,13 @@ its content.
 
 ** Noviembre 2023
 
+*** 07-Nov-23
++ [[https://arxiv.org/abs/2302.00151][Formalizing π₄(𝐒³) ≅ ℤ/2ℤ and computing a Brunerie number in Cubical Agda]]. ~ Axel Ljungström, Anders Mörtberg. #ITP #Agda #Math
++ [[https://mmhaskell.com/blog/2023/11/6/quick-and-simple-benchmarking][Quick and simple benchmarking]]. ~ James Bowen (@james_OWA). #Haskell #FunctionalProgramming
++ [[https://github.com/vikasrawal/orgpaper/blob/master/orgpapers.org][Reproducible research papers using Org-mode and R: A guide]]. ~ Vikas Rawal. #Emacs #OrgMode #RStats
++ [[https://cuentodelabuenapipa.com/2023/10/25/introduccion-a-emacs-y-org-mode/][Introducción a Emacs y Org-mode]]. ~ Nahuel J. Sacchetti. #Emacs #OrgMode
++ [[https://cuentodelabuenapipa.com/2023/10/27/notas-y-tareas-en-org-mode/][Notas y tareas en Org-mode]]. ~ Nahuel J. Sacchetti. #Emacs #OrgMode
+
 *** 06-Nov-23
 + [[https://github.com/teorth/symmetric_project][Symmetric project: "A Maclaurin type inequality" in Lean]]. ~ Terence Tao. #ITP #LeanProver #Math
 + [[https://arxiv.org/abs/2209.01259][Category theory for programming]]. ~ Benedikt Ahrens, Kobe Wullaert. #CategoryTheory #FunctionalProgramming
