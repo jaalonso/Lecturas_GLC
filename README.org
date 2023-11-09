@@ -54,6 +54,11 @@ its content.
 
 ** Noviembre 2023
 
+*** 08-Nov-23
++ [[https://www.isa-afp.org/entries/Disintegration.html][Disintegration theorem (in Isabelle/HOL)]]. ~ Michikazu Hirata. #ITP #IsabelleHOL #Math
++ [[https://doisinkidney.com/pdfs/algebraic-free-monads.pdf][Algebraic effects meet Hoare logic in Cubical Agda]]. ~ Donnacha Oisín Kidney, Zhixuan Yang, Nicolas Wu. #ITP #Agda #FunctionalProgramming
++ [[https://iagoleal.com/posts/automata-monads/][A fistful of automata]]. ~ Iago Leal de Freitas. #Haskell #FunctionalProgramming
+
 *** 07-Nov-23
 + [[https://arxiv.org/abs/2302.00151][Formalizing π₄(𝐒³) ≅ ℤ/2ℤ and computing a Brunerie number in Cubical Agda]]. ~ Axel Ljungström, Anders Mörtberg. #ITP #Agda #Math
 + [[https://mmhaskell.com/blog/2023/11/6/quick-and-simple-benchmarking][Quick and simple benchmarking]]. ~ James Bowen (@james_OWA). #Haskell #FunctionalProgramming
