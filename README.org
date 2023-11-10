@@ -54,6 +54,16 @@ its content.
 
 ** Noviembre 2023
 
+*** 09-Nov-23
++ [[https://stem.elearning.unipd.it/pluginfile.php/532921/mod_resource/content/14/dispensa.pdf][Logic for knowledge representation, learning, and inference]]. ~ Luciano Serafini. #Logic #AI #KRR
++ [[https://personal.cis.strath.ac.uk/james.wood.100/pub/thesis.pdf][A framework for semiring-annotated type systems]]. ~ James Wood. #PhDThesis #ITP #Agda #FunctionalProgramming
++ [[https://intapi.sciendo.com/pdf/10.2478/forma-2023-0012][Antiderivatives and integration]]. ~ Noboru Endou. #ITP #Mizar #Math
++ [[https://ntrs.nasa.gov/api/citations/20230014919/downloads/fmcad-2023.pdf][A provably correct floating-point implementation of well clear avionics concepts]]. ~ Mariano M. Moscato et als. #ITP #PVS
++ [[https://www.sciencedirect.com/science/article/pii/S2772662223001935][A quantitative fuzzy-valued intersection matrix for obtaining fuzzy relationships between vague spatial objects]]. ~ Subhankar Jana, Juthika Mahanta. #ITP #Coq
++ [[https://jezenthomas.com/2023/11/stubbing-io-in-yesod/][Stubbing I/O in Yesod]]. ~ Jezen Thomas. #Haskell #FunctionalProgramming
++ [[https://www.youtube.com/live/EXgsXy1BR-0][The Haskell Unfolder Episode 14: Higher-kinded types]]. ~ Edsko de Vries (@EdskoDeVries), Andres Löh (@kosmikus). #Haskell #FunctionalProgramming
++ [[https://youtu.be/a2S_-pl6onM][Peano: Learning formal mathematical reasoning without human data]]. ~ Gabriel Poesia. #ATP #Math #Reasoning
+
 *** 08-Nov-23
 + [[https://www.isa-afp.org/entries/Disintegration.html][Disintegration theorem (in Isabelle/HOL)]]. ~ Michikazu Hirata. #ITP #IsabelleHOL #Math
 + [[https://doisinkidney.com/pdfs/algebraic-free-monads.pdf][Algebraic effects meet Hoare logic in Cubical Agda]]. ~ Donnacha Oisín Kidney, Zhixuan Yang, Nicolas Wu. #ITP #Agda #FunctionalProgramming
