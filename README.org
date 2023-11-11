@@ -54,6 +54,9 @@ its content.
 
 ** Noviembre 2023
 
+*** 10-Nov-23
++ [[https://lawrencecpaulson.github.io//2023/11/08/CoinductivePuzzle.html][Coinductive puzzle]]. ~ Jasmin Blanchette, Dmitriy Traytel. #ITP #IsabelleHOL
+
 *** 09-Nov-23
 + [[https://stem.elearning.unipd.it/pluginfile.php/532921/mod_resource/content/14/dispensa.pdf][Logic for knowledge representation, learning, and inference]]. ~ Luciano Serafini. #Logic #AI #KRR
 + [[https://personal.cis.strath.ac.uk/james.wood.100/pub/thesis.pdf][A framework for semiring-annotated type systems]]. ~ James Wood. #PhDThesis #ITP #Agda #FunctionalProgramming
