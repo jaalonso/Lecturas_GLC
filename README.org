@@ -54,6 +54,12 @@ its content.
 
 ** Noviembre 2023
 
+*** 12-Nov-23
++ [[https://arxiv.org/abs/2311.03585][OpenBSD formal driver verification with SeL4]]. ~ Adriana Nicolae, Paul Irofti, Ioana Leustean. #ITP #IsabelleHOL
++ [[https://arxiv.org/abs/2311.03755][Multilingual mathematical autoformalization]]. ~ Albert Q. Jiang, Wenda Li, Mateja Jamnik. #Autoformalization #Math #ITP #LeanProver
++ [[https://www.mathsciteacher.com/download/empowering-mathematics-education-through-programming-13847.pdf][Empowering mathematics education through programming]]. ~ Thomas Lingefjärd. #Math #Programming #Python #WolframAlpha #GeoGebra
++ [[https://camilocs.substack.com/p/entrevista-a-valeria-de-paiva][Entrevista a Valeria de Paiva (Destacada matemática, lógica y científica de la computación)]]. ~ Camilo Chacón Sartori (@camilo_chacon_s). #Matemáticas #Computación
+
 *** 10-Nov-23
 + [[https://lawrencecpaulson.github.io//2023/11/08/CoinductivePuzzle.html][Coinductive puzzle]]. ~ Jasmin Blanchette, Dmitriy Traytel. #ITP #IsabelleHOL
 
