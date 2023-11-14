@@ -54,6 +54,10 @@ its content.
 
 ** Noviembre 2023
 
+*** 13-Nov-23
++ [[https://arxiv.org/abs/2311.06188][A formalization of martingales in Isabelle/HOL]]. ~ Ata Keskin. #ITP #IsabelleHOL #Math
++ [[https://youtu.be/QdPstW9YThY][What are exact real numbers?]] ~ Auke Booij. #Haskell #FunctionalProgramming
+
 *** 12-Nov-23
 + [[https://arxiv.org/abs/2311.03585][OpenBSD formal driver verification with SeL4]]. ~ Adriana Nicolae, Paul Irofti, Ioana Leustean. #ITP #IsabelleHOL
 + [[https://arxiv.org/abs/2311.03755][Multilingual mathematical autoformalization]]. ~ Albert Q. Jiang, Wenda Li, Mateja Jamnik. #Autoformalization #Math #ITP #LeanProver
