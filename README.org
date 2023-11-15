@@ -54,6 +54,13 @@ its content.
 
 ** Noviembre 2023
 
+*** 14-Nov-23
++ [[https://people.compute.dtu.dk/ahfrom/aesop-camera-ready.pdf][Aesop: White-box best-first proof search for Lean]]. ~ Jannis Limperg, Asta Halkjær From. #ITP #LeanProver
++ [[https://mmhaskell.com/blog/2023/11/13/ballparking-solutions][Ballparking solutions]]. ~ James Bowen (@james_OWA). #Haskell #FunctionalProgramming
++ [[https://dev.to/zelenya/how-to-introduce-haskell-into-your-company-9ff][How to introduce Haskell into your company]]. ~ Zelenya. #Haskell #FunctionalProgramming
++ [[https://arxiv.org/abs/2308.07336][Learning deductive reasoning from synthetic corpus based on formal logic]]. ~ Terufumi Morishita, Gaku Morio, Atsuki Yamaguchi, Yasuhiro Sogawa. #LLMs #Reasoning
++ [[https://arxiv.org/abs/2311.06158][Language models can be logical solvers]]. ~ Jiazhan Feng et als. #LLMs #Reasoning #Logic
+
 *** 13-Nov-23
 + [[https://arxiv.org/abs/2311.06188][A formalization of martingales in Isabelle/HOL]]. ~ Ata Keskin. #ITP #IsabelleHOL #Math
 + [[https://youtu.be/QdPstW9YThY][What are exact real numbers?]] ~ Auke Booij. #Haskell #FunctionalProgramming
