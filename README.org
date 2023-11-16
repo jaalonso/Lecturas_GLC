@@ -54,6 +54,11 @@ its content.
 
 ** Noviembre 2023
 
+*** 15-Nov-23
++ [[https://www.sciencedirect.com/science/article/pii/S0167642323001363][Reasoning about logical systems in the Coq proof assistant]]. ~ Conor Reynolds, Rosemary Monahan. #ITP #Coq
++ [[https://www.repositorio.ufop.br/jspui/bitstream/123456789/17720/1/DISSERTA%C3%87%C3%83O_Formaliza%C3%A7%C3%A3oL%C3%B3gicaModal.pdf][Uma formalizaçao da lógica modal usando o assistente de provas Coq]]. ~ Ariel Agne da Silveira. #ITP #Coq #Logic
++ [[https://www.isa-afp.org/entries/Perfect_Fields.html][Perfect fields (in Isabelle/HOL)]]. ~ Manuel Eberl, Katharina Kreuzer. #ITP #IsabelleHOL #Math
+
 *** 14-Nov-23
 + [[https://people.compute.dtu.dk/ahfrom/aesop-camera-ready.pdf][Aesop: White-box best-first proof search for Lean]]. ~ Jannis Limperg, Asta Halkjær From. #ITP #LeanProver
 + [[https://mmhaskell.com/blog/2023/11/13/ballparking-solutions][Ballparking solutions]]. ~ James Bowen (@james_OWA). #Haskell #FunctionalProgramming
