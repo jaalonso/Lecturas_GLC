@@ -54,6 +54,8 @@ its content.
 
 ** Noviembre 2023
 
+*** 16-Nov-23
++ [[https://www.isa-afp.org/entries/Q0_Metatheory.html][Metatheory of Q0 (in Isabelle/HOL)]]. ~ Javier Díaz. #ITP #IsabelleHOL #Logic #Math
 *** 15-Nov-23
 + [[https://www.sciencedirect.com/science/article/pii/S0167642323001363][Reasoning about logical systems in the Coq proof assistant]]. ~ Conor Reynolds, Rosemary Monahan. #ITP #Coq
 + [[https://www.repositorio.ufop.br/jspui/bitstream/123456789/17720/1/DISSERTA%C3%87%C3%83O_Formaliza%C3%A7%C3%A3oL%C3%B3gicaModal.pdf][Uma formalizaçao da lógica modal usando o assistente de provas Coq]]. ~ Ariel Agne da Silveira. #ITP #Coq #Logic
