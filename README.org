@@ -54,6 +54,12 @@ its content.
 
 ** Noviembre 2023
 
+*** 17-Nov-23
++ [[https://arxiv.org/abs/1503.08744][Propositional calculus in Coq]]. ~ Floris van Doorn. #ITP #Coq #Logic
++ [[https://www.isa-afp.org/entries/Nominal_Myhill_Nerode.html][Myhill-Nerode theorem for nominal G-automata (in Isabelle/HOL)]]. ~ Cárolos Laméris. #ITP #IsabelleHOL
++ [[https://www.isa-afp.org/entries/Elimination_Of_Repeated_Factors.html][Elimination of repeated factors algorithm (in Isabelle/HOL)]]. ~ Katharina Kreuzer, Manuel Eberl. #ITP #IsabelleHOL #Math
++ [[https://arxiv.org/abs/2311.07223][Wasm SpecTec: Engineering a formal language standard]]. ~ Joachim Breitner et als. #ITP #LeanProver
+
 *** 16-Nov-23
 + [[https://www.isa-afp.org/entries/Q0_Metatheory.html][Metatheory of Q0 (in Isabelle/HOL)]]. ~ Javier Díaz. #ITP #IsabelleHOL #Logic #Math
 *** 15-Nov-23
