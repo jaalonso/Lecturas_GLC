@@ -54,6 +54,9 @@ its content.
 
 ** Noviembre 2023
 
+*** 19-Nov-23
++ [[https://terrytao.wordpress.com/2023/11/18/formalizing-the-proof-of-pfr-in-lean4-using-blueprint-a-short-tour/][Formalizing the proof of PFR in Lean4 using Blueprint: a short tour]]. ~ Terence Tao (@tao@mathstodon.xyz). #ITP #LeanProver #Math
+
 *** 18-Nov-23
 + [[https://arxiv.org/abs/2311.08860][Proving calculational proofs correct]]. ~ Andrew T. Walter, Ankit Kumar, Panagiotis Manolios. #ITP #ACL2 #Logic
 + [[https://arxiv.org/abs/2311.08855v1][A case study in analytic protocol analysis in ACL2]]. ~ Max von Hippel et als. #ITP #ACL2
