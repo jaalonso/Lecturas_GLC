@@ -54,6 +54,9 @@ its content.
 
 ** Noviembre 2023
 
+*** 20-Nov-23
++ [[https://github.com/PatrickMassot/verbose-lean4][Verbose Lean 4: This project provides tactics and commands for Lean in a very controlled natural language]]. ~ Patrick Massot. #ITP #LeanProver #Lean4
+
 *** 19-Nov-23
 + [[https://terrytao.wordpress.com/2023/11/18/formalizing-the-proof-of-pfr-in-lean4-using-blueprint-a-short-tour/][Formalizing the proof of PFR in Lean4 using Blueprint: a short tour]]. ~ Terence Tao (@tao@mathstodon.xyz). #ITP #LeanProver #Math
 
