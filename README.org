@@ -54,6 +54,10 @@ its content.
 
 ** Noviembre 2023
 
+*** 21-Nov-23
++ [[https://www.ps.uni-saarland.de/~kirst/downloads/paper-csl24.pdf][The Kleene-Post and Post’s theorem in the calculus of inductive constructions]]. ~ Yannick Forster, Dominik Kirst, Niklas Mück. #ITP #Coq
++ [[https://github.com/microsoft/generative-ai-for-beginners][Generative AI for beginners (A 12 Lesson course teaching everything you need to know to start building Generative AI applications)]]. #GenerativeAI
+
 *** 20-Nov-23
 + [[https://github.com/PatrickMassot/verbose-lean4][Verbose Lean 4: This project provides tactics and commands for Lean in a very controlled natural language]]. ~ Patrick Massot. #ITP #LeanProver #Lean4
 
