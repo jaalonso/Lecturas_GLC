@@ -54,6 +54,16 @@ its content.
 
 ** Noviembre 2023
 
+*** 24-Nov-23
++ [[https://arxiv.org/abs/2311.10965][(Nearest) neighbors you can rely on: Formally verified k-d tree construction and search in Coq]]. ~ Nadeem Abdul Hamid. #ITP #Coq
++ [[https://github.com/fpvandoorn/LeanCourse23/blob/master/lean-tactics.pdf][Lean 4 Cheatsheet]]. ~ Floris van Doorn. #ITP #LeanProver #Lean4
++ [[https://www.isa-afp.org/entries/Perfect_Fields.html][Perfect fields (in Isabelle/HOL)]]. ~ Manuel Eberl, Katharina Kreuzer. #ITP #IsabelleHOL #Math
++ [[https://www.isa-afp.org/entries/Chebyshev_Polynomials.html][Chebyshev polynomials (in Isabelle/HOL)]]. ~ Manuel Eberl. #ITP #IsabelleHOL #Math
++ [[https://www.isa-afp.org/entries/Polynomial_Crit_Geometry.html ][Two theorems about the geometry of the critical points of a complex polynomial (in Isabelle/HOL)]]. ~ Manuel Eberl. #ITP #IsabelleHOL #Math
++ [[https://www.isa-afp.org/entries/Polylog.html][The polylogarithm function (in Isabelle/HOL)]]. ~ Manuel Eberl. #ITP #IsabelleHOL #Math
++ [[https://www.youtube.com/live/VpYC-uixrEQ][The Haskell Unfolder Episode 15: Interruptible operations]]. ~ Edsko de Vries (@EdskoDeVries), Andres Löh (@kosmikus). #Haskell #FunctionalProgramming
++ [[https://michaelneuper.com/posts/efficient-latex-editing-with-emacs/][Efficient LaTeX editing with Emacs]]. ~ Michael Neuper. #Emacs #LaTeX
+
 *** 21-Nov-23
 + [[https://www.ps.uni-saarland.de/~kirst/downloads/paper-csl24.pdf][The Kleene-Post and Post’s theorem in the calculus of inductive constructions]]. ~ Yannick Forster, Dominik Kirst, Niklas Mück. #ITP #Coq
 + [[https://github.com/microsoft/generative-ai-for-beginners][Generative AI for beginners (A 12 Lesson course teaching everything you need to know to start building Generative AI applications)]]. #GenerativeAI
