@@ -54,6 +54,11 @@ its content.
 
 ** Noviembre 2023
 
+*** 25-Nov-23
++ [[https://raw.githubusercontent.com/alexoltean61/alexoltean61.github.io/main/hybrid.pdf][A formalization of hybrid logic in Lean]]. ~ Andrei-Alexandru Oltean. #ITP #LeanProver #Logic #Math
++ [[https://webusers.imj-prg.fr/~antoine.chambert-loir/publications/papers/jordan.pdf][Formalizing the proof of an intermediate-level algebra theorem — An experiment]]. ~ Antoine Chambert-Loir (@antoinechambertloir@mathstodon.xyz). #ITP #LeanProver #Math
++ [[https://webusers.imj-prg.fr/~antoine.chambert-loir/publications/papers/gaceta2023.pdf][Un experimento de demostración formal de un teorema de nivel intermedio en álgebra]]. ~ Antoine Chambert-Loir (@antoinechambertloir@mathstodon.xyz). #ITP #LeanProver #Matemáticas
+
 *** 24-Nov-23
 + [[https://arxiv.org/abs/2311.10965][(Nearest) neighbors you can rely on: Formally verified k-d tree construction and search in Coq]]. ~ Nadeem Abdul Hamid. #ITP #Coq
 + [[https://github.com/fpvandoorn/LeanCourse23/blob/master/lean-tactics.pdf][Lean 4 Cheatsheet]]. ~ Floris van Doorn. #ITP #LeanProver #Lean4
