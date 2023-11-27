@@ -54,6 +54,10 @@ its content.
 
 ** Noviembre 2023
 
+*** 26-Nov-23
++ [[https://www.isa-afp.org/entries/Q0_Soundness.html][Soundness of the Q0 proof system for higher-order logic (in Isabelle/HOL)]]. ~ Anders Schlichtkrull. #ITP #IsabelleHOL #Logic #Math
++ [[https://www.isa-afp.org/entries/Cardinality_Continuum.html][The cardinality of the continuum (in Isabelle/HOL)]]. ~ Manuel Eberl. #ITP #IsabelleHOL #Math
+
 *** 25-Nov-23
 + [[https://raw.githubusercontent.com/alexoltean61/alexoltean61.github.io/main/hybrid.pdf][A formalization of hybrid logic in Lean]]. ~ Andrei-Alexandru Oltean. #ITP #LeanProver #Logic #Math
 + [[https://webusers.imj-prg.fr/~antoine.chambert-loir/publications/papers/jordan.pdf][Formalizing the proof of an intermediate-level algebra theorem — An experiment]]. ~ Antoine Chambert-Loir (@antoinechambertloir@mathstodon.xyz). #ITP #LeanProver #Math
