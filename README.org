@@ -54,6 +54,11 @@ its content.
 
 ** Noviembre 2023
 
+*** 29-Nov-23
++ [[https://arxiv.org/abs/2310.00513][Formal probabilistic methods for combinatorial structures in Isabelle/HOL]]. ~ Chelsea Edmonds, Lawrence C. Paulson. #ITP #IsabelleHOL #Math
++ [[https://github.com/bhgomes/lean-riemann-hypothesis][Riemann hypothesis in Lean]]. ~ Brandon H. Gomes, Alex Kontorovich. #ITP #LeanProver #Math
++ [[https://www.isa-afp.org/entries/Lambert_Series.html][Lambert series (in Isabelle/HOL)]]. ~ Manuel Eberl. #ITP #IsabelleHOL #Math
+
 *** 28-Nov-23
 + [[https://github.com/google-deepmind/debate][Stochastic doubly-efficient debate formalization]]. ~ Geoffrey Irving. #ITP #LeanProver
 
