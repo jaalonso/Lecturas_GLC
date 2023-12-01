@@ -54,6 +54,10 @@ its content.
 
 ** Noviembre 2023
 
+*** 30-Nov-23
++ [[https://aisola.org/papers/johansson.pdf][What can large language models do for theorem proving and formal methods?]] ~ Moa Johansson. #LLMs #ITP #Math
++ [[https://arxiv.org/abs/2311.13692][Molly: A verified compiler for cryptoprotocol roles]]. ~ Daniel J. Dougherty, Joshua D. Guttman. #ITP #Coq
+
 *** 29-Nov-23
 + [[https://arxiv.org/abs/2310.00513][Formal probabilistic methods for combinatorial structures in Isabelle/HOL]]. ~ Chelsea Edmonds, Lawrence C. Paulson. #ITP #IsabelleHOL #Math
 + [[https://github.com/bhgomes/lean-riemann-hypothesis][Riemann hypothesis in Lean]]. ~ Brandon H. Gomes, Alex Kontorovich. #ITP #LeanProver #Math
