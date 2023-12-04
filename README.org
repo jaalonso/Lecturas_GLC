@@ -11,6 +11,7 @@ its content.
 
 * Content                                                                      :TOC:
 - [[#lecturas-del-año-2023][Lecturas del año 2023]]
+  - [[#diciembre-2023][Diciembre 2023]]
   - [[#noviembre-2023][Noviembre 2023]]
   - [[#octubre-2023][Octubre 2023]]
   - [[#septiembre-2023][Septiembre 2023]]
@@ -51,6 +52,13 @@ its content.
 - [[#lecturas-anteriores][Lecturas anteriores]]
 
 * Lecturas del año 2023
+
+** Diciembre 2023
+
+*** 03-Dic-23
++ [[https://michel.steuwer.info/files/publications/2024/POPL-2024-1.pdf][Shoggoth: A formal foundation for strategic rewriting]]. ~ Xueying Qin et als. #ITP #IsabelleHOL
++ [[https://arxiv.org/abs/2311.17860][On the verification of the correctness of a subgraph construction algorithm]]. ~ Lucas Böltz, Viorica Sofronie-Stokkermans, Hannes Frey. #ITP #Coq
++ [[https://www.microsiervos.com/archivo/matematicas/demostraciones-matematicas-instagram-divulgacion-todos-niveles.html][Demostraciones matemáticas en Instagram, divulgación para todos los niveles]]. ~ @Alvy. #Matemáticas
 
 ** Noviembre 2023
 
