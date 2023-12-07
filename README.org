@@ -55,6 +55,11 @@ its content.
 
 ** Diciembre 2023
 
+*** 06-Dic-23
++ [[https://www.isa-afp.org/entries/Martingales.html][Martingales (in Isabelle/HOL)]]. ~ Ata Keskin. #ITP #IsabelleHOL #Math
++ [[https://www.isa-afp.org/entries/Concentration_Inequalities.html][Concentration inequalities (in Isabelle/HOL)]]. ~ Emin Karayel, Yong Kiam Tan. #ITP #IsabelleHOL #Math
++ [[https://www.nature.com/articles/d41586-023-03817-6][Is AI leading to a reproducibility crisis in science?]] ~ Philip Ball. #AI
+
 *** 03-Dic-23
 + [[https://michel.steuwer.info/files/publications/2024/POPL-2024-1.pdf][Shoggoth: A formal foundation for strategic rewriting]]. ~ Xueying Qin et als. #ITP #IsabelleHOL
 + [[https://arxiv.org/abs/2311.17860][On the verification of the correctness of a subgraph construction algorithm]]. ~ Lucas Böltz, Viorica Sofronie-Stokkermans, Hannes Frey. #ITP #Coq
