@@ -55,6 +55,13 @@ its content.
 
 ** Diciembre 2023
 
+*** 07-Dic-23
++ [[https://terrytao.wordpress.com/2023/12/05/a-slightly-longer-lean-4-proof-tour/][A slightly longer Lean 4 proof tour]]. ~ Terence Tao (@tao@mathstodon.xyz). #ITP #LeanProver #Math
++ [[https://www.quantamagazine.org/a-team-of-math-proves-a-critical-link-between-addition-and-sets-20231206/]['A-team' of math proves a critical link between addition and sets]]. ~ Leila Sloman. #ITP #LeanProver #Math
++ [[https://hal.science/hal-04318847/document][A matroid-based automatic prover and Coq proof generator for projective incidence geometry]]. ~ David Braun, Nicolas Magaud, Pascal Schreck. #ITP #Coq #Math
++ [[https://nap.nationalacademies.org/catalog/27241/artificial-intelligence-to-assist-mathematical-reasoning-proceedings-of-a-workshop][Artificial intelligence to assist mathematical reasoning]]. #AI #Math
++ [[https://www.youtube.com/live/tnCHrPZk8xo][The Haskell Unfolder Episode 16: Monads and deriving via]]. ~ Edsko de Vries (@EdskoDeVries), Andres Löh (@kosmikus). #Haskell #FunctionalProgramming
+
 *** 06-Dic-23
 + [[https://www.isa-afp.org/entries/Martingales.html][Martingales (in Isabelle/HOL)]]. ~ Ata Keskin. #ITP #IsabelleHOL #Math
 + [[https://www.isa-afp.org/entries/Concentration_Inequalities.html][Concentration inequalities (in Isabelle/HOL)]]. ~ Emin Karayel, Yong Kiam Tan. #ITP #IsabelleHOL #Math
