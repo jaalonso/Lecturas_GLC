@@ -55,6 +55,16 @@ its content.
 
 ** Diciembre 2023
 
+*** 09-Dic-23
++ [[https://cs.vu.nl/~tbn305/publicaties/proefschrift-latest.pdf][Formalizing fundamental algebraic number theory]]. ~ Anne Baanen. #ITP #LeanProver #Math
++ [[https://arxiv.org/abs/2311.00007][Mathematics and the formal turn]]. ~ Jeremy Avigad. #Math #ITP
++ [[https://mathai2023.github.io/papers/19.pdf][LLM vs ITP]]. ~ S. Frieder et als. #ITP #LLMs
++ [[https://www.nature.com/articles/s41586-021-04086-x][Advancing mathematics by guiding human intuition with AI]]. ~ Alex Davies et als. #AI #Math
++ [[https://arxiv.org/abs/2304.12602][Is deep learning a useful tool for the pure mathematician?]] ~ Geordie Williamson. #AI #Math
+
+*** 08-Dic-23
++ [[https://alt-romes.github.io/posts/2023-11-30-computed-properties-for-haskell-records.html][Computed properties for Haskell records]]. ~ Rodrigo Mesquita. #Haskell #FunctionalProgramming
+
 *** 07-Dic-23
 + [[https://terrytao.wordpress.com/2023/12/05/a-slightly-longer-lean-4-proof-tour/][A slightly longer Lean 4 proof tour]]. ~ Terence Tao (@tao@mathstodon.xyz). #ITP #LeanProver #Math
 + [[https://www.quantamagazine.org/a-team-of-math-proves-a-critical-link-between-addition-and-sets-20231206/]['A-team' of math proves a critical link between addition and sets]]. ~ Leila Sloman. #ITP #LeanProver #Math
