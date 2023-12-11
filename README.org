@@ -55,6 +55,11 @@ its content.
 
 ** Diciembre 2023
 
+*** 10-Dic-23
++ [[https://youtu.be/tp_h3vzkObo][Formal mathematics for mathematicians and mathematics students]]. ~ Patrick Massot. #ITP #LeanProver #Math
++ [[https://www.ias.ac.in/article/fulltext/sadh/034/01/0003-0025][Proof assistants: History, ideas and future]]. ~ H Geuvers. #ITP #Math
++ [[https://www.cl.cam.ac.uk/~jrh13/papers/joerg.pdf][History of interactive theorem proving]]. ~ John Harrison, Josef Urban, Freek Wiedijk. #ITP
+
 *** 09-Dic-23
 + [[https://cs.vu.nl/~tbn305/publicaties/proefschrift-latest.pdf][Formalizing fundamental algebraic number theory]]. ~ Anne Baanen. #ITP #LeanProver #Math
 + [[https://arxiv.org/abs/2311.00007][Mathematics and the formal turn]]. ~ Jeremy Avigad. #Math #ITP
