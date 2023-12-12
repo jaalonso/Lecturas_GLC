@@ -55,6 +55,9 @@ its content.
 
 ** Diciembre 2023
 
+*** 11-Dic-23
++ [[https://github.com/lean-dojo/LeanCopilot][Lean Copilot: LLMs as copilots for theorem proving in Lean]]. ~ Peiyang Song, Kaiyu Yang, Anima Anandkumar. #LLMs #LeanProver
+
 *** 10-Dic-23
 + [[https://youtu.be/tp_h3vzkObo][Formal mathematics for mathematicians and mathematics students]]. ~ Patrick Massot. #ITP #LeanProver #Math
 + [[https://www.ias.ac.in/article/fulltext/sadh/034/01/0003-0025][Proof assistants: History, ideas and future]]. ~ H Geuvers. #ITP #Math
