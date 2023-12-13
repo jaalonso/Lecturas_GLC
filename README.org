@@ -55,6 +55,14 @@ its content.
 
 ** Diciembre 2023
 
+*** 12-Dic-23
++ [[https://www.glc.us.es/~jalonso/vestigium/02-dic-23/][La semana en Calculemus (Demostraciones con Lean4) (2-dic-23)]]. #ITP #Lean4 #Math
++ [[https://www.glc.us.es/~jalonso/vestigium/10-dic-23/][La semana en Calculemus (Demostraciones con Lean4) (10-dic-23)]]. #ITP #Lean4 #Math
++ [[https://inria.hal.science/hal-04329663/document][Verified extraction from Coq to OCaml]]. ~ Yannick Forster, Matthieu Sozeau, Nicolas Tabareau. #ITP #Coq #OCaml
++ [[https://hal.science/hal-04328058/document][Towards automatic transformations of Coq proof scripts]]. ~ Nicolas Magaud. #ITP #Coq
++ [[https://www.researchgate.net/profile/Camilo-Chacon-Sartori/publication/376232150_Introduction_to_Lambda_Calculus_using_Racket/links/656f6df7fd4c91437ba4d987/Introduction-to-Lambda-Calculus-using-Racket.pdf][Introduction to lambda calculus using Racket]]. ~ Camilo Chacón Sartori (@camilo_chacon_s). #LambdaCalculus #Racket
++ [[https://arxiv.org/abs/2312.04556][Large language models for mathematicians]]. ~ Simon Frieder, Julius Berner, Philipp Petersen, Thomas Lukasiewicz. #LLMs #Math
+
 *** 11-Dic-23
 + [[https://github.com/lean-dojo/LeanCopilot][Lean Copilot: LLMs as copilots for theorem proving in Lean]]. ~ Peiyang Song, Kaiyu Yang, Anima Anandkumar. #LLMs #LeanProver
 
