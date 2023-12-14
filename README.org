@@ -55,6 +55,9 @@ its content.
 
 ** Diciembre 2023
 
+*** 13-Dic-23
++ [[https://www.isa-afp.org/entries/KnuthMorrisPratt.html][Knuth–Morris–Pratt string search (in Isabelle/HOL)]]. ~ Lawrence C. Paulson (@LawrPaulson). #ITP #IsabelleHOL
+
 *** 12-Dic-23
 + [[https://www.glc.us.es/~jalonso/vestigium/02-dic-23/][La semana en Calculemus (Demostraciones con Lean4) (2-dic-23)]]. #ITP #Lean4 #Math
 + [[https://www.glc.us.es/~jalonso/vestigium/10-dic-23/][La semana en Calculemus (Demostraciones con Lean4) (10-dic-23)]]. #ITP #Lean4 #Math
