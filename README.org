@@ -55,6 +55,15 @@ its content.
 
 ** Diciembre 2023
 
+*** 15-Dic-23
++ [[https://arxiv.org/abs/2312.06506][The directed Van Kampen theorem in Lean]]. ~ Henning Basold, Peter Bruin, Dominique Lawson. #ITP #LeanProver #Math
++ [[https://youtu.be/fwfd8_sl3rs][Interactive theorem provers: can they help mathematicians?]] ~ Kevin Buzzard. #ITP #LeanProver #Math
++ [[https://arxiv.org/abs/2312.08375][An encoding of abstract dialectical frameworks into higher-order logic]]. ~ Antoine Martina, Alexander Steen. #ITP #IsabelleHOL
++ [[https://arxiv.org/abs/2210.15609][The formal verification of the ctm approach to forcing]]. ~ Emmanuel Gunther, Miguel Pagano, Pedro Sánchez Terraf, Matías Steinberg. #ITP #IsabelleZF #Math
++ [[https://arxiv.org/abs/2312.06103][A practical formalization of monadic equational reasoning in dependent-type theory]]. ~ Reynald Affeldt, Jacques Garrigue, Takafumi Saikawa. #ITP #Coq
++ [[https://arxiv.org/abs/2312.04598][Formalization of robot collision detection method based on conformal geometric algebra]]. ~ Yingjie Wu, Guohui Wang, Shanyan Chen, Zhiping Shi, Yong Guan, Ximeng Li. #ITP #Coq #Math
++ [[https://youtube.com/playlist?list=PLvKo-zX3IKZH9-ommFSvb5Pm_TBbEWDc8][Ultimate monad tutorial]]. ~ Jay Zelenskyi. #Haskell #FunctionalProgramming
+
 *** 13-Dic-23
 + [[https://www.isa-afp.org/entries/KnuthMorrisPratt.html][Knuth–Morris–Pratt string search (in Isabelle/HOL)]]. ~ Lawrence C. Paulson (@LawrPaulson). #ITP #IsabelleHOL
 
