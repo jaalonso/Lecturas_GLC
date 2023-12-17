@@ -55,6 +55,9 @@ its content.
 
 ** Diciembre 2023
 
+*** 16-Dic-23
++ [[https://www.researchgate.net/profile/Paola-Iannone/publication/376397361_Natural_Number_Game_Students'_activity_using_an_Interactive_Theorem_Prover/links/6576ca6dcbd2c535ea1584d8/Natural-Number-Game-Students-activity-using-an-Interactive-Theorem-Prover.pdf][Natural Number Game: Students’ activity using an interactive theorem prover]]. ~ Athina Thoma, Paola Iannone. #ITP #LeanProver #Math
++ [[https://cacm.acm.org/news/278734-google-deepmind-used-a-large-language-model-to-solve-an-unsolvable-math-problem/fulltext][Google DeepMind used a large language model to solve an unsolvable math problem]]. #AI #Math
 *** 15-Dic-23
 + [[https://arxiv.org/abs/2312.06506][The directed Van Kampen theorem in Lean]]. ~ Henning Basold, Peter Bruin, Dominique Lawson. #ITP #LeanProver #Math
 + [[https://youtu.be/fwfd8_sl3rs][Interactive theorem provers: can they help mathematicians?]] ~ Kevin Buzzard. #ITP #LeanProver #Math
