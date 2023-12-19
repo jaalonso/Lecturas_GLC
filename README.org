@@ -55,6 +55,14 @@ its content.
 
 ** Diciembre 2023
 
+*** 18-Dic-23
++ [[https://bit.ly/4aqUy1K][Is sized typing for Coq practical?]] ~ Jonathan Chan, Yufeng Li, William J. Bowman. #ITP #Coq
++ [[https://bit.ly/41oDc1f][Folding left and right matters: Direct style, accumulators, and continuations]]. ~ Olivier Danvy. #ITP #Coq
++ [[https://bit.ly/41pvT9q][A correct-by-construction conversion from lambda calculus to combinatory logic]]. ~ Wouter Swierstra. #ITP #Agda
++ [[https://bit.ly/3GNjTW0][Certified, total serialisers with an application to Huffman encoding]]. ~ Ralf Hinze. #ITP #Agda #FunctionalProgramming
++ [[https://bit.ly/3Nv31qG][Level-p-complexity of Boolean functions using thinning, memoization, and polynomials]]. ~ Julia Jansson, Patrik Jansson. #Haskell #FunctionalProgramming
++ [[https://bit.ly/47XSw7F][Trace contracts]]. ~ Cameron Moy, Matthias Felleisen. #Racket #FunctionalProgramming
+
 *** 16-Dic-23
 + [[https://www.researchgate.net/profile/Paola-Iannone/publication/376397361_Natural_Number_Game_Students'_activity_using_an_Interactive_Theorem_Prover/links/6576ca6dcbd2c535ea1584d8/Natural-Number-Game-Students-activity-using-an-Interactive-Theorem-Prover.pdf][Natural Number Game: Students’ activity using an interactive theorem prover]]. ~ Athina Thoma, Paola Iannone. #ITP #LeanProver #Math
 + [[https://cacm.acm.org/news/278734-google-deepmind-used-a-large-language-model-to-solve-an-unsolvable-math-problem/fulltext][Google DeepMind used a large language model to solve an unsolvable math problem]]. #AI #Math
