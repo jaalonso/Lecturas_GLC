@@ -55,6 +55,13 @@ its content.
 
 ** Diciembre 2023
 
++ [[https://worldlogicday.com/events/2024/UniversidadDeSevilla][Jornada por el día Mundial de la Lógica (Sevilla, 11 de enero de 2024)]]. #WorldLogicDay
++ [[https://machine-learning-for-theorem-proving.github.io/][NeurIPS Tutorial on Machine Learning for Theorem Proving]]. #MachineLearning #LLMs #ITP
++ [[https://bit.ly/4apnGGx][NeurIPS Tutorial on Machine Learning for Theorem Proving [Slides]]]. #MachineLearning #LLMs #ITP
++ [[https://bit.ly/3tgBJh1][Machine learning for theorem proving]]. ~ Kaiyu Yang, Albert Q. Jiang, Emily First. #MachineLearning #LLMs #ITP
++ [[https://bit.ly/3TwFMQN][Guiding formal maths with informal maths]]. ~ Albert Q. Jiang. #ITP #LeanProver #Math #MachineLearning #AI
++ [[https://bit.ly/48mjWUd][Machine learning for formal software verification]]. ~ Emily First, Albert Q Jiang, Kaiyu Yang. #ITP #MachineLearning #AI
+
 *** 18-Dic-23
 + [[https://bit.ly/4aqUy1K][Is sized typing for Coq practical?]] ~ Jonathan Chan, Yufeng Li, William J. Bowman. #ITP #Coq
 + [[https://bit.ly/41oDc1f][Folding left and right matters: Direct style, accumulators, and continuations]]. ~ Olivier Danvy. #ITP #Coq
