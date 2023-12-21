@@ -55,6 +55,12 @@ its content.
 
 ** Diciembre 2023
 
+*** 20-Dic-23
++ [[https://bit.ly/3v9El0H][Formally verified ZTA requirements for OT/ICS environments with Isabelle/HOL]]. ~ Yakoub Nemouchi, Sriharsha Etigowni, Alexander Zolan, Richard Macwan. #ITP #IsabelleHOL
++ [[https://bit.ly/4arXMlu][An encoding of abstract dialectical frameworks into higher-order logic]]. ~ Antoine Martina, Alexander Steen. #ITP #IsabelleHOL
++ [[https://bit.ly/3v4WDAe][Laas (LaTeX Auto Activating Snippets)]]. #TeXLaTeX #Emacs
+
+*** 19-Dic-23
 + [[https://worldlogicday.com/events/2024/UniversidadDeSevilla][Jornada por el día Mundial de la Lógica (Sevilla, 11 de enero de 2024)]]. #WorldLogicDay
 + [[https://machine-learning-for-theorem-proving.github.io/][NeurIPS Tutorial on Machine Learning for Theorem Proving]]. #MachineLearning #LLMs #ITP
 + [[https://bit.ly/4apnGGx][NeurIPS Tutorial on Machine Learning for Theorem Proving [Slides]]]. #MachineLearning #LLMs #ITP
