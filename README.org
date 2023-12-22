@@ -55,6 +55,16 @@ its content.
 
 ** Diciembre 2023
 
+*** 21-Dic-23
++ [[https://bit.ly/472SDxi][Building an arithmetic expression parser]]. ~ Josh Brown. #Haskell #FunctionalProgramming
++ [[https://bit.ly/41wPZPe][Golden tests]]. ~ Tom Sydney Kerckhove. #Haskell #FunctionalProgramming
++ [[https://bit.ly/3RtgPmR][Better code design with types and concepts]]. ~ Tikhon Jelvis. #Haskell #FunctionalProgramming
++ [[https://bit.ly/3TzBzvH][Open source in space: Challenges developing and adopting open source tools for aerospace]]. ~ Ivan Perez. #Haskell #FunctionalProgramming
++ [[https://bit.ly/3NZaPBt][Why Haskell is a terrible choice for startups (and why we picked it anyway)]]. ~ Avi Press (@avi_press). #Haskell #FunctionalProgramming
++ [[https://bit.ly/4872Rhp][The Haskell Unfolder Episode 17: Circular programs]]. ~ Edsko de Vries (@EdskoDeVries), Andres Löh (@kosmikus). #Haskell #FunctionalProgramming
++ [[https://bit.ly/3NCvrPo][Logic Programming loves Data]]. ~ Fabien Alberi. #LogicProgramming #FunctionalProgramming #Clojure
++ [[https://bit.ly/487PJsp][An introduction to Datalog]]. ~ Fabien Alberi. #Datalog #FunctionalProgramming #Clojure
+
 *** 20-Dic-23
 + [[https://bit.ly/3v9El0H][Formally verified ZTA requirements for OT/ICS environments with Isabelle/HOL]]. ~ Yakoub Nemouchi, Sriharsha Etigowni, Alexander Zolan, Richard Macwan. #ITP #IsabelleHOL
 + [[https://bit.ly/4arXMlu][An encoding of abstract dialectical frameworks into higher-order logic]]. ~ Antoine Martina, Alexander Steen. #ITP #IsabelleHOL
