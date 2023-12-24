@@ -55,6 +55,14 @@ its content.
 
 ** Diciembre 2023
 
+*** 23-Dic-23
++ [[https://bit.ly/48oZW3o][A formalization of the CHSH inequality and Tsirelson's upper-bound in Isabelle/HOL]]. ~ Mnacho Echenim, Mehdi Mhalla. #ITP #IsabelleHOL
++ [[https://bit.ly/3RypynB][SeqCalc: A tool for teaching logic in the Isabelle/HOL proof assistant]]. ~ Jørgen Villadsen. #ITP #IsabelleHOL #Logic
++ [[https://bit.ly/3GT1E18][Well-founded recursion done right (Coq programming pearl)]]. ~ Xavier Leroy. #ITP #Coq
++ [[https://bit.ly/4axJjEr][Security for electronic voting systems]]. ~ Morten Rotvold Solberg. #PhDThesis #ITP #Coq
++ [[https://bit.ly/3Ryq2dp][Types of algebraic structures in proof assistant systems]]. ~ Akshobhya Katte Madhusudana. #PhDThesis #ITP #Agda
++ [[https://bit.ly/41CoXG0][A survey of reasoning with foundation models: Concepts, methodologies, and outlook]]. ~ Jiankai Sun et als. #Reasoning #AI #LLMs
+
 *** 21-Dic-23
 + [[https://bit.ly/472SDxi][Building an arithmetic expression parser]]. ~ Josh Brown. #Haskell #FunctionalProgramming
 + [[https://bit.ly/41wPZPe][Golden tests]]. ~ Tom Sydney Kerckhove. #Haskell #FunctionalProgramming
