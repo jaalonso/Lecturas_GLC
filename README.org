@@ -55,6 +55,9 @@ its content.
 
 ** Diciembre 2023
 
+*** 24-Dic-23
++ [[https://bit.ly/3TUFBiH][Mathematical proof between generations]]. ~ Jonas Bayer, Christoph Benzmüller, Kevin Buzzard, Marco David, Leslie Lamport, Yuri Matiyasevich, Lawrence Paulson, Dierk Schleicher, Benedikt Stock, Efim Zelmanov. #ITP #Math
+
 *** 23-Dic-23
 + [[https://bit.ly/48oZW3o][A formalization of the CHSH inequality and Tsirelson's upper-bound in Isabelle/HOL]]. ~ Mnacho Echenim, Mehdi Mhalla. #ITP #IsabelleHOL
 + [[https://bit.ly/3RypynB][SeqCalc: A tool for teaching logic in the Isabelle/HOL proof assistant]]. ~ Jørgen Villadsen. #ITP #IsabelleHOL #Logic
