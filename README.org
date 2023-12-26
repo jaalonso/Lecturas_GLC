@@ -55,6 +55,10 @@ its content.
 
 ** Diciembre 2023
 
+*** 25-Dic-23
++ [[https://bit.ly/3vaOx98][Enhancing neural theorem proving through data augmentation and dynamic sampling method]]. ~ Rahul Vishwakarma, Subhankar Mishra. #LLMs #ITP #LeanProver
++ [[https://bit.ly/48dbAyI][A language-agent approach to formal theorem-proving]]. ~ Amitayush Thakur, Yeming Wen, Swarat Chaudhuri. #LLMs #Reasoning #ITP #LeanProver #Coq
+
 *** 24-Dic-23
 + [[https://bit.ly/3TUFBiH][Mathematical proof between generations]]. ~ Jonas Bayer, Christoph Benzmüller, Kevin Buzzard, Marco David, Leslie Lamport, Yuri Matiyasevich, Lawrence Paulson, Dierk Schleicher, Benedikt Stock, Efim Zelmanov. #ITP #Math
 
