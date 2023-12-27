@@ -55,6 +55,10 @@ its content.
 
 ** Diciembre 2023
 
+*** 26-Dic-23
++ [[https://bit.ly/3Rua5ow][Formal definitions and proofs for partial (co)recursive functions]]. ~ Horatiu Cheval, David Nowak, Vlad Rusu. #ITP #Coq
++ [[https://bit.ly/4azv8ik][Machine learning for heuristic optimisation and premise selection in automated theorem proving]]. ~ Edvard K. Holden. #MachineLearning #ATP
+
 *** 25-Dic-23
 + [[https://bit.ly/3vaOx98][Enhancing neural theorem proving through data augmentation and dynamic sampling method]]. ~ Rahul Vishwakarma, Subhankar Mishra. #LLMs #ITP #LeanProver
 + [[https://bit.ly/48dbAyI][A language-agent approach to formal theorem-proving]]. ~ Amitayush Thakur, Yeming Wen, Swarat Chaudhuri. #LLMs #Reasoning #ITP #LeanProver #Coq
