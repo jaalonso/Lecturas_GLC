@@ -55,6 +55,11 @@ its content.
 
 ** Diciembre 2023
 
+*** 28-Dic-23
++ [[https://bit.ly/3RHhktC][Embedding principle for rings and abelian groups]]. ~ Yasushige Watase. #ITP #Mizar #Math
++ [[https://bit.ly/48eULU1][Lean4 Exercise: Double negation implies law of excluded middle]]. #ITP #LeanProver #Lean4 #Logic
++ [[https://bit.ly/3RXcWYy][Unification for subformula linking under quantifiers]]. ~ Ike Mulder, Robbert Krebbers. #ITP #Coq
+
 *** 26-Dic-23
 + [[https://bit.ly/3Rua5ow][Formal definitions and proofs for partial (co)recursive functions]]. ~ Horatiu Cheval, David Nowak, Vlad Rusu. #ITP #Coq
 + [[https://bit.ly/4azv8ik][Machine learning for heuristic optimisation and premise selection in automated theorem proving]]. ~ Edvard K. Holden. #MachineLearning #ATP
