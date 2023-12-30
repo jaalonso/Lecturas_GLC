@@ -55,6 +55,9 @@ its content.
 
 ** Diciembre 2023
 
+*** 29-Dic-23
++ [[https://bit.ly/48bUnFV][8 months of OCaml after 8 years of Haskell in production]]. ~ Dmitrii Kovanikov (@ChShersh). #Haskell #Ocaml #FunctionalProgramming
+
 *** 28-Dic-23
 + [[https://bit.ly/3RHhktC][Embedding principle for rings and abelian groups]]. ~ Yasushige Watase. #ITP #Mizar #Math
 + [[https://bit.ly/48eULU1][Lean4 Exercise: Double negation implies law of excluded middle]]. #ITP #LeanProver #Lean4 #Logic
