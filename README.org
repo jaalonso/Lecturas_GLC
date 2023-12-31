@@ -55,6 +55,11 @@ its content.
 
 ** Diciembre 2023
 
+*** 30-Dic-23
++ [[https://bit.ly/48DI0SX][Towards a certified proof assistant kernel (What it takes and what we have)]]. ~ Meven Lennon-Bertrand. #ITP
++ [[https://bit.ly/3RycnD6][Formalising the double-pushout approach to graph transformation]]. ~ Robert Söldner, Detlef Plump. #ITP #IsabelleHOL
++ [[https://bit.ly/47h5bkP][CertiCAN: Certifying CAN analyses and their results]]. ~ Pascal Fradet, Xiaojie Guo, Sophie Quinton. #ITP #Coq
+
 *** 29-Dic-23
 + [[https://bit.ly/48bUnFV][8 months of OCaml after 8 years of Haskell in production]]. ~ Dmitrii Kovanikov (@ChShersh). #Haskell #Ocaml #FunctionalProgramming
 
