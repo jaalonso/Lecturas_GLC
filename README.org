@@ -55,6 +55,11 @@ its content.
 
 ** Diciembre 2023
 
+*** 31-Dic-23
++ [[https://bit.ly/3tswta9][The mechanization of mathematics]]. ~ Jeremy Avigad. #ITP #Math
++ [[https://bit.ly/48ypNWK][Linear algebra done right (fourth edition)]]. ~ Sheldon Axler. #eBook #Math
++ [[https://bit.ly/3H3M96W][Every LLM in Emacs, with GPTel]]. ~ Karthik. #Emacs #LLMs
+
 *** 30-Dic-23
 + [[https://bit.ly/48DI0SX][Towards a certified proof assistant kernel (What it takes and what we have)]]. ~ Meven Lennon-Bertrand. #ITP
 + [[https://bit.ly/3RycnD6][Formalising the double-pushout approach to graph transformation]]. ~ Robert Söldner, Detlef Plump. #ITP #IsabelleHOL
