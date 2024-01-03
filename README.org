@@ -10,6 +10,8 @@ At the end of each article you will find tags related to the systems it uses or
 its content.
 
 * Content                                                                      :TOC:
+- [[#lecturas-del-año-2024][Lecturas del año 2024]]
+  - [[#enero-2024][Enero 2024]]
 - [[#lecturas-del-año-2023][Lecturas del año 2023]]
   - [[#diciembre-2023][Diciembre 2023]]
   - [[#noviembre-2023][Noviembre 2023]]
@@ -50,6 +52,22 @@ its content.
   - [[#febrero-2021][Febrero 2021]]
   - [[#enero-2021][Enero 2021]]
 - [[#lecturas-anteriores][Lecturas anteriores]]
+
+* Lecturas del año 2024
+
+** Enero 2024
+
+*** 02-Ene-24
++ [[https://bit.ly/3NPy80h][A parametricity-based formalization of semi-simplicial and semi-cubical sets]]. ~ Hugo Herbelin, Ramkumar Ramachandra. #ITP #Coq #Math
++ [[https://bit.ly/3H1qV9N][Is mathematics obsolete?]] ~ Jeremy Avigad. #Math #AI #MachineLearning
++ [[https://bit.ly/3tzWrIN][A & B == B & A: Triggering logical reasoning failures in large language models]]. ~ Yuxuan Wan, Wenxuan Wang, Yiliu Yang, Youliang Yuan, Jen-tse Huang, Pinjia He, Wenxiang Jiao, Michael R. Lyu. #LLMs #Reasoning
+
+*** 01-Ene-24
++ [[https://bit.ly/41LHgJg][Machine learning and symbolic AI for mathematics]]. ~ Jeremy Avigad. #MachineLearning #AI #ITP #Math
++ [[https://bit.ly/3RJpG3F][Functional data structures and algorithms]]. ~ Tobias Nipkow et als. #eBook #ITP #IsabelleHOL #FunctionalProgramming #Algorithms
++ [[https://bit.ly/41DI42N][Higher order model checking in Isabelle for human centric infrastructure security]]. ~ Florian Kammüller. #ITP #IsabelleHOL
+
+
 
 * Lecturas del año 2023
 
