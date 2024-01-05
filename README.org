@@ -57,6 +57,11 @@ its content.
 
 ** Enero 2024
 
+*** 04-Ene-24
++ [[https://bit.ly/3S6l4Gv][Formal verification of an UAV autopilot: Static analysis and verified code generation]]. ~ Baptiste Pollien. #ITP #Coq
++ [[https://bit.ly/3NPVzqj][What are non-classical logics and why do we need them? An extended interview with Dov Gabbay and Leon van der Torre]]. #Logic #AI
++ [[https://bit.ly/48JZRHX][Parsing recipe pattern]]. ~ Grzegorz Milka. #Haskell #FunctionalProgramming
+
 *** 03-Ene-24
 + [[https://bit.ly/4aK0e6O][A computer-checked proof of the Four Color Theorem]]. ~ Georges Gonthier. #ITP #Coq #Math
 
