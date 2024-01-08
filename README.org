@@ -57,6 +57,9 @@ its content.
 
 ** Enero 2024
 
+*** 07-Ene-24
++ [[https://youtu.be/e51SHLZQtws][Autoformalization via Grammatical Framework]]. ~ Shashank Pathak. #Autoformalization #LeanProver
+
 *** 06-Ene-24
 + [[https://odr.chalmers.se/server/api/core/bitstreams/774ba4a2-58b4-407f-aa6b-b0209b6c7d70/content][Polynomial functors in Agda: Theory and Practice (A formalization and collection of applications of categories of polynomial functors)]]. ~ André Muricy Santos Marcus Jörgensson. #ITP #Agda #FunctionalProgramming
 
