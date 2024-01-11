@@ -57,6 +57,16 @@ its content.
 
 ** Enero 2024
 
+*** 10-Ene-24
++ [[https://intapi.sciendo.com/pdf/10.2478/forma-2023-0018][Conway numbers – Formal introduction]]. ~ Karol Pąk. #ITP #Mizar #Math
++ [[https://intapi.sciendo.com/pdf/10.2478/forma-2023-0020][The ring of Conway numbers in Mizar]]. ~ Karol Pąk. #ITP #Mizar #Math
++ [[https://sciendo.com/issue/FORMA/31/1][Formalized Mathematics (Volume 31 (2023): Issue 1 (September 2023))]]. #ITP #Mizar #Math
++ [[https://youtu.be/XlAxs8wO8PQ][Condensed mathematics in Mathlib]]. ~ Dagur Asgeirsson. #ITP #LeanProver #Math
++ [[https://youtu.be/Kjx5KvB8FL8][Automatic differentiation in Lean]]. ~ Tomáš Skřivan. #ITP #LeanProver #Math
++ [[https://youtu.be/g57VphyGFUI][Probability in the formalization of the PFR conjecture]]. ~ Rémy Degenne. #ITP #LeanProver #Math
++ [[https://youtu.be/TJ6Qh8EHM5A][Formalization of class number computations]]. ~ Nirvana Coppola et als. #ITP #LeanProver #Math
++ [[https://youtu.be/VSFXQuhA_vk ][Formalization of SNARKs]]. Bolton Bailey, Andrew Miller. #ITP #LeanProver #Math
+
 *** 08-Ene-24
 + [[https://hosting.cs.vt.edu/seminar/DL_series_2010-2011/Moshe_Vardi/logic.pdf][From Aristotle to Pentium]]. ~ Moshe Y. Vardi. #Logic #CompSci
 + [[https://youtu.be/lZ6zHma7Rj0][Simplicial homotopies in Lean]]. ~ Jack McKoen. #ITP #LeanProver #Math
