@@ -57,6 +57,23 @@ its content.
 
 ** Enero 2024
 
+*** 11-Ene-24
++ [[https://arxiv.org/abs/2310.00513][Formal probabilistic methods for combinatorial structures using the Lovász local lemma]]. ~ Chelsea Edmonds (@chelsealedmonds), Lawrence C. Paulson (@LawrPaulson). #ITP #IsabelleHOL #Math
++ [[https://youtu.be/xuLGxDCfSRY][Formalization of p-adic L-functions]]. ~ Ashvni Narayanan. #ITP #LeanProver #Math
++ [[https://youtu.be/_lBFks9lI2k][Formalisation of combinatorics]]. ~ Bhavik Mehta. #ITP #LeanProver #Math
++ [[https://youtu.be/kjBDkH10OnQ][Operator algebras in Mathlib]]. ~ Jireh Loreaux. #ITP #LeanProver #Math
++ [[https://youtu.be/6FLmQwhQlwA][Overview of homology in Mathlib]]. ~ Joël Riou. #ITP #LeanProver #Math
++ [[https://youtu.be/VkKfIWoM3Ms][Leaff, a Lean diff tool]]. ~ Alex J. Best. #ITP #LeanProver #Math
++ [[https://ceur-ws.org/Vol-3613/AReCCa2023_paper1.pdf][20 years of leanCoP — An overview of the provers]]. ~ Jens Otten. #ATP #Prolog #LogicProgramming
++ [[https://ceur-ws.org/Vol-3613/AReCCa2023_paper3.pdf][nanoCoP-Ω: A non-clausal connection prover with arithmetic]].~ Leo Repp, Mario Frank. #ATP #Prolog #LogicProgramming
++ [[https://ceur-ws.org/Vol-3613/AReCCa2023_paper9.pdf][Comparison of proof methods]]. ~ Wolfgang Bibel. #ATP
++ [[https://arxiv.org/abs/2401.02949][Graph2Tac: Learning hierarchical representations of math concepts in theorem proving]]. ~ Jason Rute, Miroslav Olšák, Lasse Blaauwbroek, Fidel Ivan Schaposnik Massolo, Jelle Piepenbrock, Vasily Pestun. #MachineLearning #ITP #Coq
++ [[https://readerunner.wordpress.com/2021/09/13/diagrams-for-penrose-tiles/][Diagrams for Penrose tiles]]. ~ Chris Reade. #Haskell #FunctionalProgramming
++ [[https://well-typed.com/blog/2024/01/when-blocked-indefinitely-is-not-indefinite/][When "blocked indefinitely" is not indefinite]]. ~ Edsko de Vries  (@EdskoDeVries). #Haskell #FunctionalProgramming
++ [[https://blog.ploeh.dk/2024/01/08/a-range-kata-implementation-in-haskell/][A Range kata implementation in Haskell]]. ~ Mark Seemann (@ploeh). #Haskell #FunctionalProgramming
++ [[http://h2.jaguarpaw.co.uk/posts/foldl-traverses-state-foldr-traverses-anything/][foldl traverses with State, foldr traverses with anything]]. ~ Tom Ellis. #Haskell #FunctionalProgramming
++ [[https://github.com/ossu/computer-science][Open Source Society University: Path to a free self-taught education in Computer Science!]] #CompSci
+
 *** 10-Ene-24
 + [[https://intapi.sciendo.com/pdf/10.2478/forma-2023-0018][Conway numbers – Formal introduction]]. ~ Karol Pąk. #ITP #Mizar #Math
 + [[https://intapi.sciendo.com/pdf/10.2478/forma-2023-0020][The ring of Conway numbers in Mizar]]. ~ Karol Pąk. #ITP #Mizar #Math
