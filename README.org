@@ -57,6 +57,15 @@ its content.
 
 ** Enero 2024
 
+*** 12-Ene-24
++ [[https://philarchive.org/archive/BLUIFP][Isabelle for philosophers]]. ~ Ben Blumson. #ITP #IsabelleHOL #Logic
++ [[https://rachel.cafe/2022/12/15/haskell-and-logic.html][Haskell and logic]]. ~ Rachel Lambda Samuelsson. #Haskell #FunctionalProgramming #Logic #CurryHoward
++ [[https://www.ben-sherman.net/aux/curry-howard.pdf][Haskell and the Curry-Howard isomorphism (Part 1)]]. ~ Ben Sherman. #Haskell #FunctionalProgramming #Logic #CurryHoward
++ [[https://gist.github.com/Kazark/06acabbd25817ac9efc7fbe0493f23ff][Curry-Howard tutorial in literate Haskell]]. ~ Keith Pinson. #Haskell #FunctionalProgramming #Logic #CurryHoward
++ [[https://web.archive.org/web/20080819185521/http://www.thenewsh.com/~newsham/formal/curryhoward/][The Curry-Howard correspondence in Haskell]]. ~ Tim Newsham. #Logic #Haskell #FunctionalProgramming #CurryHoward
++ [[https://www.ccs.neu.edu/home/mates/pubs/mates_ugrad_thesis.pdf][A survey into the Curry-Howard isomorphism & type systems]]. ~ Phillip Mates. #Logic #Haskell #FunctionalProgramming #CurryHoward
++ [[https://antitypical.com/posts/2021-07-28-when-howard-met-curry/][When Howard met Curry]]. ~ Rob Rix (@rob_rix). #Haskell #FunctionalProgramming #CurryHoward
+
 *** 11-Ene-24
 + [[https://arxiv.org/abs/2310.00513][Formal probabilistic methods for combinatorial structures using the Lovász local lemma]]. ~ Chelsea Edmonds (@chelsealedmonds), Lawrence C. Paulson (@LawrPaulson). #ITP #IsabelleHOL #Math
 + [[https://youtu.be/xuLGxDCfSRY][Formalization of p-adic L-functions]]. ~ Ashvni Narayanan. #ITP #LeanProver #Math
