@@ -57,6 +57,21 @@ its content.
 
 ** Enero 2024
 
+*** 13-Ene-24
++ [[https://www.tandfonline.com/doi/full/10.1080/10586458.2021.1983489][Schemes in Lean]]. ~ Kevin Buzzard, Chris Hughes, Kenny Lau, Amelia Livingston, Ramon Fernández Mir, Scott Morrison. #ITP #LeanProver #Math
++ [[https://www.tandfonline.com/doi/full/10.1080/10586458.2022.2062073][Simple type theory is not too simple: Grothendieck’s schemes without dependent types]]. ~ Anthony Bordg, Lawrence Paulson, Wenda Li. #ITP #IsabelleHOL #Math
++ [[https://www.tandfonline.com/doi/full/10.1080/10586458.2021.1980464][Formalizing ordinal partition relations using Isabelle/HOL]]. ~ Mirna Džamonja, Angeliki Koutsoukou-Argyraki, Lawrence C. Paulson. #ITP #IsabelleHOL #Math
++ [[https://www.tandfonline.com/doi/full/10.1080/10586458.2021.1980465][Irrationality and transcendence criteria for infinite series in Isabelle/HOL]]. ~ Angeliki Koutsoukou-Argyraki, Wenda Li, Lawrence C. Paulson. #ITP #IsabelleHOL #Math
++ [[https://www.tandfonline.com/doi/full/10.1080/10586458.2021.1986176][Formalizing Galois theory]]. ~ Thomas Browning, Patrick Lutz. #ITP #LeanProver #Math
++ [[https://youtu.be/GNOXmt5A_MQ][CvxLean, modeling convex optimization problems in Lean]]. ~ Ramon Fernández Mir. #ITP #LeanProver #Math
++ [[https://youtu.be/iNgMnuuhQH0][Formalizing local fields in Lean]]. ~ María Inés de Frutos-Fernández. #ITP #LeanProver #Math
++ [[https://youtu.be/Pv_L2AYq7zo][Explicit refinement types]]. ~ Jad Ghalayini. #ITP #LeanProver
++ [[https://youtu.be/1SjsTzPx_S8][Lean standard library 2024]]. ~ Joe Hendrix. #ITP #LeanProver
++ [[https://youtu.be/7NAIXBANSj4][Large language models as copilots for theorem proving in Lean]]. ~ Kaiyu Yang. #ITP #LeanProver #LLMs
++ [[https://youtu.be/aR7Wv_CfkB4][Lean-auto (An interface between Lean and automated theorem provers)]]. ~ Yicheng Qian. #ITP #LeanProver
++ [[https://youtu.be/Ms4UmbRgm68][Duper: A higher order proof producing superposition theorem prover]]. ~ Josh Clune. #ITP #LeanProver
++ [[https://youtu.be/tV7de8jUJCU][Permutations on bitvectors]]. ~ Wrenna Robson. #ITP #LeanProver
+
 *** 12-Ene-24
 + [[https://philarchive.org/archive/BLUIFP][Isabelle for philosophers]]. ~ Ben Blumson. #ITP #IsabelleHOL #Logic
 + [[https://rachel.cafe/2022/12/15/haskell-and-logic.html][Haskell and logic]]. ~ Rachel Lambda Samuelsson. #Haskell #FunctionalProgramming #Logic #CurryHoward
