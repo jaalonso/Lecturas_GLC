@@ -57,6 +57,13 @@ its content.
 
 ** Enero 2024
 
+*** 14-Ene-24
++ [[https://dl.acm.org/doi/pdf/10.1145/3636501.3636949][Certification of confluence- and commutation-proofs via parallel critical pairs]]. ~ Nao Hirokawa, Dohan Kim, Kiraku Shintani & René Thiemann. #ITP #IsabelleHOL
++ [[https://dl.acm.org/doi/pdf/10.1145/3636501.3636945][Formalizing the ∞-categorical Yoneda lemma]]. ~ Nikolai Kudasov, Emily Riehl & Jonathan Weinberger. #ITP #Coq
++ [[https://dl.acm.org/doi/pdf/10.1145/3636501.3636958][UTC time, formally verified]]. ~ Ana de Almeida Borges, Mireia González Bedmar, Juan Conejero Rodríguez, Eduardo Hermo Reyes, Joaquim Casals Buñuel & Joost J. Joosten. #ITP #Coq
++ [[https://dl.acm.org/doi/pdf/10.1145/3636501.3636947][Formalizing Giles Gardam’s disproof of Kaplansky’s unit conjecture]]. ~ Siddhartha Gadgil & Anand Rao Tadipatri. #ITP #Coq
++ [[https://dl.acm.org/doi/pdf/10.1145/3636501.3636959][Lean formalization of extended regular expression matching with lookarounds]]. ~ Ekaterina Zhuchko, Margus Veanes & Gabriel Ebner. #ITP #LeanProver
+
 *** 13-Ene-24
 + [[https://www.tandfonline.com/doi/full/10.1080/10586458.2021.1983489][Schemes in Lean]]. ~ Kevin Buzzard, Chris Hughes, Kenny Lau, Amelia Livingston, Ramon Fernández Mir, Scott Morrison. #ITP #LeanProver #Math
 + [[https://www.tandfonline.com/doi/full/10.1080/10586458.2022.2062073][Simple type theory is not too simple: Grothendieck’s schemes without dependent types]]. ~ Anthony Bordg, Lawrence Paulson, Wenda Li. #ITP #IsabelleHOL #Math
