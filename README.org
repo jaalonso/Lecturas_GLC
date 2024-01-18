@@ -57,6 +57,11 @@ its content.
 
 ** Enero 2024
 
+*** 17-Ene-24
++ [[https://deepmind.google/discover/blog/alphageometry-an-olympiad-level-ai-system-for-geometry/][AlphaGeometry: An Olympiad-level AI system for geometry]]. ~ Trieu Trinh & Thang Luong. #AI #Math #IMO
++ [[https://www.nature.com/articles/s41586-023-06747-5][Solving olympiad geometry without human demonstrations]]. ~ Trieu H. Trinh, Yuhuai Wu, Quoc V. Le, He He & Thang Luong. #AI #Math #IMO
++ [[https://www.lavanguardia.com/ciencia/20240117/9499757/ia-supera-gran-desafio-demuestra-teoremas-matematicos.amp.html][La IA supera otro gran desafío: demuestra teoremas matemáticos]]. ~ Marc Masip. #IA #Matemáticas #IMO
+
 *** 16-Ene-24
 + [[https://www.philipzucker.com/harrison-handbook-in-python-pt-i/][Harrison handbook in Python pt 1]]. ~ Philip Zucker (@SandMouth). #Logic #ATP #Phython
 + [[https://proofassistants.stackexchange.com/questions/43/proof-assistants-for-beginners-a-comparison][Proof assistants for beginners - a comparison]]. #ITP #Coq #LeanProver
