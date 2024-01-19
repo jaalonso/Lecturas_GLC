@@ -57,6 +57,15 @@ its content.
 
 ** Enero 2024
 
+*** 18-Ene-24
++ [[https://github.com/motib/gentle-lean][A gentle introduction on Lean]]. ~ Moti Ben-Ari. #ITP #LeanProver
++ [[https://github.com/motib/LearnSAT/tree/master][LearnSAT: A SAT solver for education]]. ~ Moti Ben-Ari. #Logic #Prolog #LogicProgramming
++ [[https://link.springer.com/book/10.1007/978-3-031-13566-8][Mathematical surprises]]. ~ Mordechai Ben-Ari. #Math
++ [[https://github.com/motib/surprises/blob/master/surprises-es-2023-09-19.pdf][Sorpresas matemáticas]]. ~ Mordechai Ben-Ari. #Matemáticas
++ [[https://www.microsoft.com/en-us/research/uploads/prod/2023/07/fiptree-tr-v4.pdf][The functional essence of imperative binary search trees]]. ~ Anton Lorenzen, Daan Leijen, Wouter Swierstra & Sam Lindley. #ITP #Coq
++ [[https://github.com/google-deepmind/alphageometry][Solving olympiad geometry without human demonstrations]]. #AI #Math #IMO
++ [[https://youtu.be/TuZhU1CiC0k][AlphaGeometry]]. ~ Trieu Hobbies. #AI #Math #IMO
+
 *** 17-Ene-24
 + [[https://deepmind.google/discover/blog/alphageometry-an-olympiad-level-ai-system-for-geometry/][AlphaGeometry: An Olympiad-level AI system for geometry]]. ~ Trieu Trinh & Thang Luong. #AI #Math #IMO
 + [[https://www.nature.com/articles/s41586-023-06747-5][Solving olympiad geometry without human demonstrations]]. ~ Trieu H. Trinh, Yuhuai Wu, Quoc V. Le, He He & Thang Luong. #AI #Math #IMO
