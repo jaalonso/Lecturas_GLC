@@ -57,6 +57,13 @@ its content.
 
 ** Enero 2024
 
+*** 19-Ene-24
++ [[https://dl.acm.org/doi/10.1145/3632869][Quotient Haskell: Lightweight quotient types for all]]. ~ Brandon Hewer & Graham Hutton. #Haskell #FunctionalProgramming
++ [[https://www.tweag.io/blog/2024-01-18-linear-desugaring/][A look under GHC's hood: desugaring linear types]]. ~ Arnaud Spiwack. #Haskell #FunctionalProgramming
++ [[https://www.youtube.com/live/JzymjoHC0ig][The Haskell Unfolder Episode 18: Computing constraints]]. ~ Edsko de Vries (@EdskoDeVries), Andres Löh (@kosmikus). #Haskell #FunctionalProgramming
++ [[https://www.laurentlafforgue.org/Expose_Lafforgue_Representation_Images_octobre_2023.pdf][Grothendieck toposes as mathematics for future AI: illustration by the problem of image representation]]. ~ Laurent Lafforgue. #Math #AI
++ [[https://www.laurentlafforgue.org/Expose_Lafforgue_Padoue_Juin_2023.pdf][Glimpses on Grothendieck toposes in the perspective of AI]]. ~ Laurent Lafforgue. #Math #AI
+
 *** 18-Ene-24
 + [[https://github.com/motib/gentle-lean][A gentle introduction on Lean]]. ~ Moti Ben-Ari. #ITP #LeanProver
 + [[https://github.com/motib/LearnSAT/tree/master][LearnSAT: A SAT solver for education]]. ~ Moti Ben-Ari. #Logic #Prolog #LogicProgramming
