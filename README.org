@@ -57,6 +57,10 @@ its content.
 
 ** Enero 2024
 
+*** 20-Ene-24
++ [[https://github.com/ivanbakel/hout-prover][Hout: a non-interactive proof assistant for first-order logic, in Haskell]]. ~ Isaac van Bakel. #Haskell #FunctionalProgramming #Logic
++ [[https://arxiv.org/abs/2401.07663][Selene: Pioneering automated proof in software verification]]. ~ Lichen Zhang, Shuai Lu & Nan Duan. #ITP #IsabelleHOL #LLMs
+
 *** 19-Ene-24
 + [[https://dl.acm.org/doi/10.1145/3632869][Quotient Haskell: Lightweight quotient types for all]]. ~ Brandon Hewer & Graham Hutton. #Haskell #FunctionalProgramming
 + [[https://www.tweag.io/blog/2024-01-18-linear-desugaring/][A look under GHC's hood: desugaring linear types]]. ~ Arnaud Spiwack. #Haskell #FunctionalProgramming
