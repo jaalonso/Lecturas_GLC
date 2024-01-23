@@ -57,6 +57,12 @@ its content.
 
 ** Enero 2024
 
+*** 22-Ene-24
++ [[https://xenaproject.wordpress.com/2024/01/20/lean-in-2024/][Lean in 2024]]. ~ Kevin Buzzard (@XenaProject). #ITP #LeanProver #Math
++ [[https://github.com/ImperialCollegeLondon/formalising-mathematics-2024][Formalising Mathematics 2024 (a course for undergraduate mathematicians)]]. ~ Kevin Buzzard (@XenaProject). #ITP #LeanProver #Math
++ [[https://lean-lang.org/blog/2024-1-11-recursive-definitions-in-lean/][Recursive definitions in Lean]]. ~ Joachim Breitner (@nomeata). #ITP #LeanProver
++ [[https://github.com/Paper-Proof/paperproof][Paperproof: Lean theorem proving interface which feels like pen-and-paper proofs]]. ~ Evgenia Karunus & Anton Kovsharov. #ITP #LeanProver
+
 *** 20-Ene-24
 + [[https://github.com/ivanbakel/hout-prover][Hout: a non-interactive proof assistant for first-order logic, in Haskell]]. ~ Isaac van Bakel. #Haskell #FunctionalProgramming #Logic
 + [[https://arxiv.org/abs/2401.07663][Selene: Pioneering automated proof in software verification]]. ~ Lichen Zhang, Shuai Lu & Nan Duan. #ITP #IsabelleHOL #LLMs
