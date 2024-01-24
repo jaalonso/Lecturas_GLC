@@ -57,6 +57,14 @@ its content.
 
 ** Enero 2024
 
+*** 23-Ene-24
++ [[https://www.isa-afp.org/entries/Interval_Analysis.html][(Extended) interval analysis (in Isabelle/HOL)]]. ~ Achim D. Brucker & Amy Stell. #ITP #IsabelleHOL #Math
++ [[https://www.isa-afp.org/entries/Isabelle_hoops.html][Decomposition of totally ordered hoops (in Isabelle/HOL)]]. ~ Sebastián Buss. #ITP #IsabelleHOL #Math
++ [[https://theses.hal.science/tel-04405955/document][Verified programming and secure integration of operating system libraries in Coq]]. ~ Shenghao Yuan. #ITP #Coq
++ [[https://repository.ubn.ru.nl/bitstream/handle/2066/302182/302182.pdf?sequence=1][Synergy of machine learning and automated reasoning]]. ~ Bartosz Pawel Piotrowski. #ATP #ITP #Coq #Lean #MachineLearning
++ [[https://link.springer.com/article/10.1007/s13194-024-00569-6][Theorem proving in artificial neural networks: new frontiers in mathematical AI]]. ~ Markus Pantsar. #AI #MachineLearning #ITP #Math
++ [[https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10403917][Computer-aided verification of P/NP proofs: A survey and discussion]]. ~ Stefan Rass, Max-Julian Jakobitsch, Stefan Haan & Moritz Hiebler. #ITP #IsabelleHOL
+
 *** 22-Ene-24
 + [[https://xenaproject.wordpress.com/2024/01/20/lean-in-2024/][Lean in 2024]]. ~ Kevin Buzzard (@XenaProject). #ITP #LeanProver #Math
 + [[https://github.com/ImperialCollegeLondon/formalising-mathematics-2024][Formalising Mathematics 2024 (a course for undergraduate mathematicians)]]. ~ Kevin Buzzard (@XenaProject). #ITP #LeanProver #Math
