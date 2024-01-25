@@ -57,6 +57,10 @@ its content.
 
 ** Enero 2024
 
+*** 24-Ene-24
++ [[https://youtu.be/CiD2Hm4GmpQ][What came first, math or computing?]] ~ Moshe Vardi. #Math #CompSci
++ [[https://programadorwebvalencia.com/por-que-los-usuarios-de-emacs-lo-usan-para-todo/][¿Por qué los usuarios de Emacs lo usan para todo?]] ~ Andros Fenollosa. #Emacs
+
 *** 23-Ene-24
 + [[https://www.isa-afp.org/entries/Interval_Analysis.html][(Extended) interval analysis (in Isabelle/HOL)]]. ~ Achim D. Brucker & Amy Stell. #ITP #IsabelleHOL #Math
 + [[https://www.isa-afp.org/entries/Isabelle_hoops.html][Decomposition of totally ordered hoops (in Isabelle/HOL)]]. ~ Sebastián Buss. #ITP #IsabelleHOL #Math
