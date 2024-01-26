@@ -57,6 +57,19 @@ its content.
 
 ** Enero 2024
 
+*** 25-Ene-24
++ [[https://thmprover.wordpress.com][Ariadne's thread (Navigating the labyrinth of formal proofs with Mizar)]]. ~ Alex Nelson (@thmprover@mathstodon.xyz). #ITP #Mizar #Math
++ [[https://thmprover.wordpress.com/2024/01/20/proofs-in-mizar/][Proofs in Mizar]]. ~ Alex Nelson (@thmprover@mathstodon.xyz). #ITP #Mizar #Math
++ [[https://thmprover.wordpress.com/2024/01/22/set-axioms-in-mizar/][Set axioms in Mizar]]. ~ Alex Nelson (@thmprover@mathstodon.xyz). #ITP #Mizar #Math
++ [[https://thmprover.wordpress.com/2024/01/24/definitions-in-mizar/][Definitions in Mizar]]. ~ Alex Nelson (@thmprover@mathstodon.xyz). #ITP #Mizar #Math
++ [[https://inria.hal.science/hal-04406350/document][Towards the fundamental theorem of calculus for the Lebesgue integral in Coq]]. ~ Reynald Affeldt & Zachary Stone. #ITP #Coq #Math
++ [[https://arxiv.org/abs/2401.10553][Single-set cubical categories and their formalisation with a proof assistant]]. ~ Philippe Malbos, Tanguy Massacrier & Georg Struth. #ITP #IsabelleHOL
++ [[https://ceur-ws.org/Vol-3624/Paper_2.pdf][On Newman's lemma and non-termination]]. ~ Ievgen Ivanov. #ITP #IsabelleHOL
++ [[https://arxiv.org/abs/2401.12061][Scalable automated verification for cyber-physical systems in Isabelle/HOL]]. ~ Jonathan Julián Huerta y Munive et als. #ITP #IsabelleHOL
++ [[https://arxiv.org/abs/2401.13304][An analysis of the constructive content of Henkin's proof of Gödel's completeness theorem]]. ~ Hugo Herbelin & Danko Ilik. #Logic #Math
++ [[https://cdsmithus.medium.com/pair-programming-with-chatgpt-haskell-1c4490b71da6][Pair programming with ChatGPT & Haskell]]. ~ Chris Smith. #Haskell #FunctionalProgramming #ChatGPT
++ [[https://theconversation.com/klara-dan-von-neumann-la-artifice-del-codigo-de-maniac-221174][Klára Dán von Neumann: la artífice del código de MANIAC]]. ~ Marta Macho-Stadler. #Matemáticas #Computación
+
 *** 24-Ene-24
 + [[https://youtu.be/CiD2Hm4GmpQ][What came first, math or computing?]] ~ Moshe Vardi. #Math #CompSci
 + [[https://programadorwebvalencia.com/por-que-los-usuarios-de-emacs-lo-usan-para-todo/][¿Por qué los usuarios de Emacs lo usan para todo?]] ~ Andros Fenollosa. #Emacs
