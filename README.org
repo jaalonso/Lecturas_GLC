@@ -57,6 +57,9 @@ its content.
 
 ** Enero 2024
 
+*** 26-Ene-24
++ [[https://arxiv.org/abs/2401.13700][Towards automated readable proofs of ruler and compass constructions]]. ~ Vesna Marinković, Tijana Šukilović & Filip Marić. #ATP #ITP #Math
+
 *** 25-Ene-24
 + [[https://thmprover.wordpress.com][Ariadne's thread (Navigating the labyrinth of formal proofs with Mizar)]]. ~ Alex Nelson (@thmprover@mathstodon.xyz). #ITP #Mizar #Math
 + [[https://thmprover.wordpress.com/2024/01/20/proofs-in-mizar/][Proofs in Mizar]]. ~ Alex Nelson (@thmprover@mathstodon.xyz). #ITP #Mizar #Math
