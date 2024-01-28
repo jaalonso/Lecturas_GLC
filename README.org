@@ -57,6 +57,15 @@ its content.
 
 ** Enero 2024
 
+*** 27-Ene-24
++ [[https://xenaproject.wordpress.com/2022/08/16/the-future-of-interactive-theorem-proving/][The future of interactive theorem proving?]] ~ Zhangir Azerbayev. #ITP #LeanProver #LeanChat
++ [[https://browncs1951x.github.io][Course: Formal proof and verification]]. ~ Robert Y. Lewis et als. #ITP #LeanProver
++ [[https://inference-review.com/article/the-man-who-carried-computer-science-on-his-shoulders][Edsger Dijkstra: The man who carried computer science on his shoulders]]. ~ Krzysztof Apt. #CompSci
++ [[https://inference-review.com/article/cantors-diagonalization-method][Cantor’s diagonalization method]]. ~ Alexander Kharazishvili. #Math
++ [[https://inference-review.com/article/categories-from-zero-to-infinity][Categories: From zero to infinity]]. ~ Pierre Schapira. #Math #CategoryTheory
++ [[https://inference-review.com/article/loebs-theorem-and-currys-paradox][Löb’s theorem and Curry’s paradox]]. ~ Graham Priest. #Logic #Math
++ [[https://inference-review.com/article/the-origins-of-python][The origins of Python]]. ~ Lambert Meertens. #Python #Programming
+
 *** 26-Ene-24
 + [[https://arxiv.org/abs/2401.13700][Towards automated readable proofs of ruler and compass constructions]]. ~ Vesna Marinković, Tijana Šukilović & Filip Marić. #ATP #ITP #Math
 
