@@ -57,6 +57,9 @@ its content.
 
 ** Enero 2024
 
+*** 28-Ene-24
++ [[https://uwspace.uwaterloo.ca/bitstream/handle/10012/20273/Gusakov_Alena.pdf][Formalizing the excluded minor characterization of binary matroids in the Lean theorem prover]]. ~ Alena Gusakov. #ITP #LeanProver #Math
+
 *** 27-Ene-24
 + [[https://xenaproject.wordpress.com/2022/08/16/the-future-of-interactive-theorem-proving/][The future of interactive theorem proving?]] ~ Zhangir Azerbayev. #ITP #LeanProver #LeanChat
 + [[https://browncs1951x.github.io][Course: Formal proof and verification]]. ~ Robert Y. Lewis et als. #ITP #LeanProver
