@@ -57,6 +57,10 @@ its content.
 
 ** Enero 2024
 
+*** 30-Ene-24
++ [[https://blog.adrianistan.eu/curva-hilbert-prolog][Curva de Hilbert en Prolog- ~ Adrián Arroyo Calle (@aarroyoca)]]. #Prolog #Matemáticas
++ [[https://interstices.info/construire-des-logiciels-fiables/][Construire des logiciels fiables]]. ~ Sylvain Boulmé. #FormalVerification
+
 *** 28-Ene-24
 + [[https://uwspace.uwaterloo.ca/bitstream/handle/10012/20273/Gusakov_Alena.pdf][Formalizing the excluded minor characterization of binary matroids in the Lean theorem prover]]. ~ Alena Gusakov. #ITP #LeanProver #Math
 
