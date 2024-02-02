@@ -11,6 +11,7 @@ its content.
 
 * Content                                                                      :TOC:
 - [[#lecturas-del-año-2024][Lecturas del año 2024]]
+  - [[#febrero-2024][Febrero 2024]]
   - [[#enero-2024][Enero 2024]]
 - [[#lecturas-del-año-2023][Lecturas del año 2023]]
   - [[#diciembre-2023][Diciembre 2023]]
@@ -54,6 +55,15 @@ its content.
 - [[#lecturas-anteriores][Lecturas anteriores]]
 
 * Lecturas del año 2024
+
+** Febrero 2024
+
+*** 01-Feb-24
++ [[https://alexkontorovich.github.io/PrimeNumberTheoremAnd/web/][Prime number theorem and beyond]]. ~  Alex Kontorovich, Terence Tao et als. #ITP #LeanProver #Math
++ [[https://thmprover.wordpress.com/2024/01/26/registration-and-adjectives/][Registration and adjectives in Mizar]]. ~ Alex Nelson (@thmprover@mathstodon.xyz). #ITP #Mizar #Math
++ [[https://thmprover.wordpress.com/2024/01/29/environment-directives/][Environment directives in Mizar]]. ~ Alex Nelson (@thmprover@mathstodon.xyz). #ITP #Mizar #Math
++ [[https://thmprover.wordpress.com/2024/01/31/mizar-mathematical-library-set-theory/][Mizar Mathematical Library: Set theory]]. ~ Alex Nelson (@thmprover@mathstodon.xyz). #ITP #Mizar #Math
++ [[https://thmprover.wordpress.com/2024/01/][Number systems in Mizar]]. ~ Alex Nelson (@thmprover@mathstodon.xyz). #ITP #Mizar #Math
 
 ** Enero 2024
 
