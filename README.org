@@ -58,6 +58,12 @@ its content.
 
 ** Febrero 2024
 
+*** 02-Feb-24
++ [[https://arxiv.org/abs/2402.00854][SymbolicAI: A framework for logic-based approaches combining generative models and solvers]]. ~ Marius-Constantin Dinu, Claudiu Leoveanu-Condrei, Markus Holzleitner, Werner Zellinger, Sepp Hochreiter. #AI
++ [[https://github.com/enricozb/buffon-lean/blob/main/Buffon/Rewrite.lean][Buffon's needle (in Lean)]]. ~ Enrico Z. Borba. #ITP #LeanProver #Math
++ [[https://thmprover.wordpress.com/2024/02/02/axiom-schemes/][Axiom schemes (in Mizar)]]. Alex Nelson (@thmprover@mathstodon.xyz). #ITP #Mizar #Math
++ [[https://notxor.nueva-actitud.org/2024/02/02/emacs-configuraciones-basicas.html][Emacs, configuraciones básicas]]. ~ Notxor. #Emacs
+
 *** 01-Feb-24
 + [[https://alexkontorovich.github.io/PrimeNumberTheoremAnd/web/][Prime number theorem and beyond]]. ~  Alex Kontorovich, Terence Tao et als. #ITP #LeanProver #Math
 + [[https://thmprover.wordpress.com/2024/01/26/registration-and-adjectives/][Registration and adjectives in Mizar]]. ~ Alex Nelson (@thmprover@mathstodon.xyz). #ITP #Mizar #Math
