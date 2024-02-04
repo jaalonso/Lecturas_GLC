@@ -58,6 +58,10 @@ its content.
 
 ** Febrero 2024
 
+*** 03-Feb-24
++ [[https://www.quantamagazine.org/what-makes-for-good-mathematics-20240201/][What makes for ‘good’ mathematics?]] ~ Steven Strogatz. #Math
++ [[https://arxiv.org/abs/math/0702396][What is good mathematics?]] ~ Terence Tao. #Math
+
 *** 02-Feb-24
 + [[https://arxiv.org/abs/2402.00854][SymbolicAI: A framework for logic-based approaches combining generative models and solvers]]. ~ Marius-Constantin Dinu, Claudiu Leoveanu-Condrei, Markus Holzleitner, Werner Zellinger, Sepp Hochreiter. #AI
 + [[https://github.com/enricozb/buffon-lean/blob/main/Buffon/Rewrite.lean][Buffon's needle (in Lean)]]. ~ Enrico Z. Borba. #ITP #LeanProver #Math
