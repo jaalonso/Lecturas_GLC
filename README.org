@@ -58,6 +58,10 @@ its content.
 
 ** Febrero 2024
 
+*** 05-Feb-24
++ [[https://github.com/siddhartha-gadgil/Saturn][SATurn: SAT Solver-prover in Lean 4]]. ~ Siddhartha Gadgil. #ITP #LeanProver #Lean4 #SAT_Solver
++ [[https://github.com/siddhartha-gadgil/proofs-and-programs-2023][Proofs and programs 2023]]. ~ Siddhartha Gadgil. #ITP #LeanProver #Lean4
+
 *** 03-Feb-24
 + [[https://www.quantamagazine.org/what-makes-for-good-mathematics-20240201/][What makes for ‘good’ mathematics?]] ~ Steven Strogatz. #Math
 + [[https://arxiv.org/abs/math/0702396][What is good mathematics?]] ~ Terence Tao. #Math
