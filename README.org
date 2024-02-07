@@ -58,6 +58,12 @@ its content.
 
 ** Febrero 2024
 
+*** 06-Feb-24
++ [[https://arxiv.org/abs/2212.08515][The formal theory of monads, univalently]]. ~ Niels van der Weide. #ITP #Coq
++ [[https://arxiv.org/abs/2402.01840][Ruitenburg's theorem mechanized and contextualized]]. ~ Tadeusz Litak. #ITP #Coq
++ [[https://dev.to/chshersh/learn-lambda-calculus-in-10-minutes-with-ocaml-56ba][Learn Lambda Calculus in 10 minutes with OCaml]]. ~ Dmitrii Kovanikov (@ChShersh). #LambdaCalculus #OCaml #FunctionalProgramming
++ [[https://writingtipsoasis.com/publishers-of-mathematics-books/][17 top publishers of mathematics books]]. ~ Hiten Vyas. #Math
+
 *** 05-Feb-24
 + [[https://github.com/siddhartha-gadgil/Saturn][SATurn: SAT Solver-prover in Lean 4]]. ~ Siddhartha Gadgil. #ITP #LeanProver #Lean4 #SAT_Solver
 + [[https://github.com/siddhartha-gadgil/proofs-and-programs-2023][Proofs and programs 2023]]. ~ Siddhartha Gadgil. #ITP #LeanProver #Lean4
