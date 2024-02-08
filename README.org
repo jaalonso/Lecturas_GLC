@@ -58,6 +58,13 @@ its content.
 
 ** Febrero 2024
 
+*** 07-Feb-24
++ [[https://arxiv.org/abs/2402.03488][Redex -> Coq: towards a theory of decidability of Redex's reduction semantics]]. ~ Mallku Soldevila, Rodrigo Ribeiro, Beta Ziliani. #ITP #Coq
++ [[https://thmprover.wordpress.com/2024/02/05/proving-there-is-no-set-of-all-groups-or-rings-or/][Proving there is no set of all groups (or rings, or ]]...). ~ Alex Nelson (@thmprover@mathstodon.xyz).  #ITP #Mizar #Math
++ [[https://arxiv.org/abs/2401.09270][Exact real search: Formalised optimisation and regression in constructive univalent mathematics]]. ~ Todd Waugh Ambridge. #ITP #Agda
++ [[https://arxiv.org/abs/2402.00157][Large language models for mathematical reasoning: Progresses and challenges]]. ~ Janice Ahn, Rishu Verma, Renze Lou, Di Liu, Rui Zhang, Wenpeng Yin. #LLMS #Math #Reasoning
++ [[https://www.google.es/books/edition/Programming_Languages/vhOUEAAAQBAJ?hl=es&gbpv=1&dq=Programming%20Languages%20Build%2C%20Prove%2C%20and%20Compare&pg=PP1][Programming languages (Build, prove, and compare)]]. ~ Norman Ramsey. #CompSci #Programming
+
 *** 06-Feb-24
 + [[https://arxiv.org/abs/2212.08515][The formal theory of monads, univalently]]. ~ Niels van der Weide. #ITP #Coq
 + [[https://arxiv.org/abs/2402.01840][Ruitenburg's theorem mechanized and contextualized]]. ~ Tadeusz Litak. #ITP #Coq
