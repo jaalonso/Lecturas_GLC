@@ -58,6 +58,11 @@ its content.
 
 ** Febrero 2024
 
+*** 08-Feb-24
++ [[https://youtu.be/nxlpYp8bKdc][Formalising 21st-century mathematics]]. ~ Lawrence C. Paulson (@LawrPaulson). #ITP #IsabelleHOL #Math
++ [[https://youtu.be/AayZuuDDKP0][Machine assisted proof]]. ~ Terence Tao (@tao@mathstodon.xyz). #ITP #Math
++ [[https://bartoszmilewski.com/2024/02/07/linear-lenses-in-haskell/][Linear lenses in Haskell]]. ~ Bartosz Milewski (@BartoszMilewski). #Haskell #FunctionalProgramming
+
 *** 07-Feb-24
 + [[https://arxiv.org/abs/2402.03488][Redex -> Coq: towards a theory of decidability of Redex's reduction semantics]]. ~ Mallku Soldevila, Rodrigo Ribeiro, Beta Ziliani. #ITP #Coq
 + [[https://thmprover.wordpress.com/2024/02/05/proving-there-is-no-set-of-all-groups-or-rings-or/][Proving there is no set of all groups (or rings, or ]]...). ~ Alex Nelson (@thmprover@mathstodon.xyz).  #ITP #Mizar #Math
