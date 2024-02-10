@@ -58,6 +58,11 @@ its content.
 
 ** Febrero 2024
 
+*** 09-Feb-24
++ [[https://thmprover.wordpress.com/2024/02/08/how-mizar-formalizes-groups/][How Mizar formalizes groups]]. ~ Alex Nelson (@anelson_os). #ITP #Mizar #Math
++ [[https://carloangiuli.com/courses/b619-sp24/notes.pdf][Principles of dependent type theory]]. ~ Carlo Angiuli & Daniel Gratzer. #TypeTheory #FunctionalProgramming
++ [[https://arxiv.org/abs/2402.04464][Ten hard problems in Artificial Intelligence we must get right]]. ~ Gavin Leech, Simson Garfinkel, Misha Yagudin, Alexander Briand, Aleksandr Zhuravlev. #AI
+
 *** 08-Feb-24
 + [[https://youtu.be/nxlpYp8bKdc][Formalising 21st-century mathematics]]. ~ Lawrence C. Paulson (@LawrPaulson). #ITP #IsabelleHOL #Math
 + [[https://youtu.be/AayZuuDDKP0][Machine assisted proof]]. ~ Terence Tao (@tao@mathstodon.xyz). #ITP #Math
