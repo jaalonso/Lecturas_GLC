@@ -58,6 +58,15 @@ its content.
 
 ** Febrero 2024
 
+*** 10-Feb-24
++ [[https://lean-lang.org/blog/2024-2-4-lean-450/][Lean 4.5.0]]. ~ David Thrane Christiansen (@d_christiansen@mathstodon.xyz). #ITP #LeanProver
++ [[https://leanprover.zulipchat.com/user_uploads/3121/xBtLUKmdrvmdNxoaYydDYC-h/mathlib-holes.pdf][What’s missing in Mathlib?]] ~ Yury Kudryashov. #ITP #LeanProver #Mathlib #Math
++ [[https://duckrabbit.tech/articles/learning-haskell.html][How I learned Haskell in just 15 years]]. ~ Evan Silberman. #Haskell #FunctionalProgramming
++ [[https://youtu.be/UBgam9XUHs0][Exploring Verse, Haskell, Language Design and Teaching (with Simon Peyton Jones)]]. #Haskell #FunctionalProgramming
++ [[https://www.textql.com/blog/why-haskell][Haskell in production: TextQL’s ontology service]]. ~ Mark Hay. #Haskell #FunctionalProgramming
++ [[https://mathoverflow.net/questions/35468/widely-accepted-mathematical-results-that-were-later-shown-to-be-wrong][Widely accepted mathematical results that were later shown to be wrong]]. #Math
++ [[https://www.gaussianos.com/lva2-nueva-revista-de-divulgacion-matematica-del-grupo-retos-matematicos/][Lva², nueva revista de divulgación matemática del grupo «Retos Matemáticos»]]. ~ Miguel Ángel Morales (@gaussianos@mathstodon.xyz). #Matemáticas
+
 *** 09-Feb-24
 + [[https://thmprover.wordpress.com/2024/02/08/how-mizar-formalizes-groups/][How Mizar formalizes groups]]. ~ Alex Nelson (@anelson_os). #ITP #Mizar #Math
 + [[https://carloangiuli.com/courses/b619-sp24/notes.pdf][Principles of dependent type theory]]. ~ Carlo Angiuli & Daniel Gratzer. #TypeTheory #FunctionalProgramming
