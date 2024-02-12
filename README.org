@@ -58,6 +58,11 @@ its content.
 
 ** Febrero 2024
 
+*** 11-Feb-24
++ [[https://bookdown.org/aleksander_mendoza_drosik/learn-isabelle/][Learn mathematics and computer science with Isabelle]]. ~ Aleksadner Mendoza. #ITP #IsabelleHOL #Math
++ [[https://arxiv.org/abs/2402.03523v1][Symmetric monoidal smash products in Homotopy Type Theory]]. ~ Axel Ljungström. #ITP #Agda #HoTT
++ [[https://essay.utwente.nl/98155/1/Santen%2Cvan_BA_EEMCS.pdf][Using LLM chatbots to improve the learning experience in functional programming courses]]. ~ Julian Van Santen. #LLMs #Haskell #FunctionalProgramming
+
 *** 10-Feb-24
 + [[https://lean-lang.org/blog/2024-2-4-lean-450/][Lean 4.5.0]]. ~ David Thrane Christiansen (@d_christiansen@mathstodon.xyz). #ITP #LeanProver
 + [[https://leanprover.zulipchat.com/user_uploads/3121/xBtLUKmdrvmdNxoaYydDYC-h/mathlib-holes.pdf][What’s missing in Mathlib?]] ~ Yury Kudryashov. #ITP #LeanProver #Mathlib #Math
