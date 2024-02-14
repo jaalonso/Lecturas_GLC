@@ -58,6 +58,12 @@ its content.
 
 ** Febrero 2024
 
+*** 13-Feb-24
++ [[https://www.cs.us.es/~jalonso/publicaciones/Logica_programacion_y_demostracion/Logica_programacion_y_demostracion.html][Lógica, programación y demostración]]. #Logic #ITP #LeanProver #Haskell #FunctionalProgramming
++ [[https://link.springer.com/article/10.1007/s13218-024-00834-z][Computer-verified foundations of metaphysics]]. ~ Daniel Kirchner. #ITP #IsabelleHOL
++ [[https://refubium.fu-berlin.de/bitstream/handle/fub188/35426/dissertation_kirchner.pdf][Computer-verified foundations of metaphysics and an ontology of natural numbers in Isabelle/HOL]]. ~ Daniel Kirchner. #ITP #IsabelleHOL
++ [[https://openresearch-repository.anu.edu.au/bitstream/1885/285075/1/Thesis%20Material%20-%20Thesis%20-%20Minchao%20Wu%20-%202023.pdf][Learning systems for interactive theorem proving]]. ~ Minchao Wu. #ITP #MachineLearning
+
 *** 11-Feb-24
 + [[https://bookdown.org/aleksander_mendoza_drosik/learn-isabelle/][Learn mathematics and computer science with Isabelle]]. ~ Aleksadner Mendoza. #ITP #IsabelleHOL #Math
 + [[https://arxiv.org/abs/2402.03523v1][Symmetric monoidal smash products in Homotopy Type Theory]]. ~ Axel Ljungström. #ITP #Agda #HoTT
