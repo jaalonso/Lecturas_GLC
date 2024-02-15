@@ -58,6 +58,17 @@ its content.
 
 ** Febrero 2024
 
+*** 14-Feb-24
++ [[https://thmprover.wordpress.com/2024/02/13/isabelle-mizars-soft-type-system/ ][Isabelle/Mizar’s soft type system]]. ~ Alex Nelson (@thmprover@mathstodon.xyz). #ITP #IsabelleHOL #Mizar #Math
++ [[https://arxiv.org/abs/2307.06299][Towards a certified proof checker for deep neural network verification]]. ~ Remi Desmartin, Omri Isac, Grant Passmore, Kathrin Stark, Guy Katz, Ekaterina Komendantskaya. #ITP #Imandra #NeuralNetwork
++ [[https://arxiv.org/abs/2004.10263v1][The Imandra automated reasoning system (system description)]]. ~ Grant Olney Passmore, Simon Cruanes, Denis Ignatovich, Dave Aitken, Matt Bray, Elijah Kagan, Kostya Kanishev, Ewen Maclean, Nicola Mometto. #ITP #Imandra #OCaml #FunctionalProgramming
++ [[https://docs.imandra.ai/][Imandra documentation]]. #ITP #Imandra #OCaml #FunctionalProgramming
++ [[https://youtu.be/e8uFEQ3alo4][Imandra: Automated reasoning for LLMs]]. #AutomatedReasoning #LLMs #Imandra
++ [[https://okmij.org/ftp/tagless-final/datatypes.html][Algebraic data types and pattern-matching]]. ~ Oleg Kiselyov. #Haskell #FunctionalProgramming
++ [[https://lawrencecpaulson.github.io//2024/02/14/Contradiction.html][Contradictions and the principle of explosion]]. ~ Lawrence Paulson (@LawrPaulson@mathstodon.xyz) #Logic
++ [[https://arxiv.org/abs/2402.03667][Large language models as an indirect reasoner: Contrapositive and contradiction for automated reasoning]]. ~ Yanfang Zhang, Yiliu Sun, Yibing Zhan, Dapeng Tao, Dacheng Tao, Chen Gong. #LLMs #Reasoning
++ [[https://arxiv.org/abs/2402.03300][DeepSeekMath: Pushing the limits of mathematical reasoning in open language models]]. ~ Zhihong Shao, Peiyi Wang, Qihao Zhu, Runxin Xu, Junxiao Song, Mingchuan Zhang, Y.K. Li, Y. Wu, Daya Guo. #LLMs #Reasoning
+
 *** 13-Feb-24
 + [[https://www.cs.us.es/~jalonso/publicaciones/Logica_programacion_y_demostracion/Logica_programacion_y_demostracion.html][Lógica, programación y demostración]]. #Logic #ITP #LeanProver #Haskell #FunctionalProgramming
 + [[https://link.springer.com/article/10.1007/s13218-024-00834-z][Computer-verified foundations of metaphysics]]. ~ Daniel Kirchner. #ITP #IsabelleHOL
