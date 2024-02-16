@@ -58,6 +58,10 @@ its content.
 
 ** Febrero 2024
 
+*** 15-Feb-24
++ [[https://nicaudinet.github.io/2024/02/11/hmatrix-zeros-to-hero/][Hmatrix: from zeros to hero]]. ~ Nicolas Audinet de Pieuchon. #Haskell #FunctionalProgramming
++ [[https://blog.ploeh.dk/2024/02/12/range-as-a-functor/][Range as a functor]]. ~ Mark Seemann (@ploeh@mastodon.social). #Haskell #FunctionalProgramming
+
 *** 14-Feb-24
 + [[https://thmprover.wordpress.com/2024/02/13/isabelle-mizars-soft-type-system/ ][Isabelle/Mizar’s soft type system]]. ~ Alex Nelson (@thmprover@mathstodon.xyz). #ITP #IsabelleHOL #Mizar #Math
 + [[https://arxiv.org/abs/2307.06299][Towards a certified proof checker for deep neural network verification]]. ~ Remi Desmartin, Omri Isac, Grant Passmore, Kathrin Stark, Guy Katz, Ekaterina Komendantskaya. #ITP #Imandra #NeuralNetwork
