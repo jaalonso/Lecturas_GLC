@@ -58,6 +58,12 @@ its content.
 
 ** Febrero 2024
 
+*** 16-Feb-24
++ [[https://thmprover.wordpress.com/2024/02/15/formalizing-subgroups-in-mizar/][Formalizing subgroups in Mizar]]. ~ Alex Nelson (@thmprover@mathstodon.xyz). #ITP #Mizar #Math
++ [[https://github.com/jsm28/AperiodicMonotilesLean][Lean formalization of aperiodic monotiles papers]]. ~ Joseph Myers (@jsm28@mathstodon.xyz). #ITP #LeanProver #Math
++ [[https://formal.land/blog/2024/02/02/formal-verification-for-aleph-zero][The importance of formal verification]]. #FormalVerification
++ [[https://arxiv.org/abs/2312.14188][Enhancing neural theorem proving through data augmentation and dynamic sampling method]]. ~ Rahul Vishwakarma, Subhankar Mishra. #LLMs #ITP #LeanProver
+
 *** 15-Feb-24
 + [[https://nicaudinet.github.io/2024/02/11/hmatrix-zeros-to-hero/][Hmatrix: from zeros to hero]]. ~ Nicolas Audinet de Pieuchon. #Haskell #FunctionalProgramming
 + [[https://blog.ploeh.dk/2024/02/12/range-as-a-functor/][Range as a functor]]. ~ Mark Seemann (@ploeh@mastodon.social). #Haskell #FunctionalProgramming
