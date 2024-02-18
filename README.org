@@ -58,6 +58,12 @@ its content.
 
 ** Febrero 2024
 
+*** 17-Feb-24
++ [[https://arxiv.org/abs/2402.08032v1][The formal proof of the Kepler conjecture: a critical retrospective]]. ~ Thomas Hales. #ITP #HOL_Light #IsabelleHOL #Math
++ [[https://math.hawaii.edu/~bjoern/LeanProtein.pdf][Backtracking, formalization, and non-monotonicity in protein folding models]]. ~ Bjørn Kjos-Hanssen. #ITP #LeanProver
++ [[http://www.javakade.nl/research/pdf/naive.pdf][On naïvely implementing the λβ-calculus]]. ~ Vincent van Oostrom. #Haskell #FunctionalProgramming #LambdaCalculus
++ [[http://yummymelon.com/devnull/computing-truth-tables-in-org.html][Computing truth tables in Org]]. ~ Charles Choi. #Emacs #Logic
+
 *** 16-Feb-24
 + [[https://thmprover.wordpress.com/2024/02/15/formalizing-subgroups-in-mizar/][Formalizing subgroups in Mizar]]. ~ Alex Nelson (@thmprover@mathstodon.xyz). #ITP #Mizar #Math
 + [[https://github.com/jsm28/AperiodicMonotilesLean][Lean formalization of aperiodic monotiles papers]]. ~ Joseph Myers (@jsm28@mathstodon.xyz). #ITP #LeanProver #Math
