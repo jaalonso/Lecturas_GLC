@@ -58,6 +58,22 @@ its content.
 
 ** Febrero 2024
 
+*** 20-Feb-24
++ [[https://blog.codeminer42.com/exploring-lean4/][Exploring the Lean4 language]]. ~ Sofia Rodrigues. #ITP #LeanProver #Lean4 #FunctionalProgramming
++ [[https://blog.codeminer42.com/overcoming-challenges-and-crafting-in-the-uncharted-territory-of-lean4/][Lean4: Crafting in an uncharted territory]]. ~ Sofia Rodrigues. #Lean4 #FunctionalProgramming
++ [[https://www.ams.org/journals/bull/0000-000-00/S0273-0979-2024-01833-3/S0273-0979-2024-01833-3.pdf][Mathematical reasoning and the computer]]. ~ Kevin Buzzard. #ITP #AI #NeuralNetwork #LLMs #Math
++ [[https://www.ams.org/journals/bull/0000-000-00/S0273-0979-2024-01832-1/S0273-0979-2024-01832-1.pdf][Mathematics and the formal turn]]. ~ Jeremy Avigad. #ITP #Math
++ [[https://www.ams.org/journals/bull/0000-000-00/S0273-0979-2024-01826-6/S0273-0979-2024-01826-6.pdf][Proof in the time of machines]]. ~ Andrew Granville. #ITP #Math
++ [[https://www.ams.org/journals/bull/0000-000-00/S0273-0979-2024-01831-X/S0273-0979-2024-01831-X.pdf][Abstraction boundaries and spec driven development in pure mathematics]]. ~ Johan Commelin & Adam Topaz. #ITP #LeanProver #Math
++ [[https://www.ams.org/journals/bull/0000-000-00/S0273-0979-2024-01830-8/S0273-0979-2024-01830-8.pdf][Strange new universes: Proof assistants and synthetic foundations]]. ~ Michael Shulman. #ITP #LLMs #Math
++ [[https://www.ams.org/journals/bull/0000-000-00/S0273-0979-2024-01834-5/S0273-0979-2024-01834-5.pdf][Some thoughts on automation and mathematical research]]. ~ Akshay Venkatesh. #ITP #Math
++ [[https://www.ams.org/journals/bull/0000-000-00/S0273-0979-2024-01828-X/S0273-0979-2024-01828-X.pdf][Mathematics, word problems, common sense, and artificial intelligence]]. ~ Ernest Davi. #AI #LLMs #Math
++ [[https://www.ams.org/journals/bull/0000-000-00/S0273-0979-2024-01825-4/S0273-0979-2024-01825-4.pdf ][Automation compels mathematicians to reflect on our values]]. ~ Michael Harris. #Math #ITP #AI #LLMs
++ [[https://www.jonbell.net/preprint/msr24-proof-assistants.pdf][Thirty-three years of mathematicians and software engineers: A case study of domain expertise and participation in proof assistant ecosystems]]. ~ Gwenyth Lincroft, Minsung Cho, Katherine Hough, Mahsa Bazzaz, Jonathan Bell. #ITP #Coq #IsabelleHOL #LeanProver #Math
++ [[https://www.ams.org/journals/bull/0000-000-00/S0273-0979-2024-01829-1/S0273-0979-2024-01829-1.pdf][Is deep learning a useful tool for the pure mathematician? ~ Geordie Williamson]]. #Math #DeepLearning
++ [[https://www.philipzucker.com/applicative_python/][Applicative Python a la ACL2]]. ~ Philip Zucker (@sandmouth@types.pl). #ITP #ACL2 #Python
++ [[https://arxiv.org/abs/2402.11291][Puzzle solving using reasoning of large language models: A survey]]. ~ Panagiotis Giadikiaroglou, Maria Lymperaiou, Giorgos Filandrianos, Giorgos Stamou. #LLMs #Reasoning
+
 *** 17-Feb-24
 + [[https://arxiv.org/abs/2402.08032v1][The formal proof of the Kepler conjecture: a critical retrospective]]. ~ Thomas Hales. #ITP #HOL_Light #IsabelleHOL #Math
 + [[https://math.hawaii.edu/~bjoern/LeanProtein.pdf][Backtracking, formalization, and non-monotonicity in protein folding models]]. ~ Bjørn Kjos-Hanssen. #ITP #LeanProver
