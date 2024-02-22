@@ -58,6 +58,10 @@ its content.
 
 ** Febrero 2024
 
+*** 21-Feb-24
++ [[https://arxiv.org/abs/2310.14022][Trocq: Proof transfer for free, with or without univalence]]. ~ Cyril Cohen, Enzo Crance, Assia Mahboubi. #ITP #Coq
++ [[https://www.isa-afp.org/entries/Karatsuba.html][Karatsuba multiplication on integers (in Isabelle/HOL)]]. ~ Jakob Schulz & Emin Karayel. #ITP #IsabelleHOL #Math
+
 *** 20-Feb-24
 + [[https://blog.codeminer42.com/exploring-lean4/][Exploring the Lean4 language]]. ~ Sofia Rodrigues. #ITP #LeanProver #Lean4 #FunctionalProgramming
 + [[https://blog.codeminer42.com/overcoming-challenges-and-crafting-in-the-uncharted-territory-of-lean4/][Lean4: Crafting in an uncharted territory]]. ~ Sofia Rodrigues. #Lean4 #FunctionalProgramming
