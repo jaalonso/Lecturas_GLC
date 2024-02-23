@@ -58,6 +58,14 @@ its content.
 
 ** Febrero 2024
 
+*** 22-Feb-24
++ [[https://arxiv.org/abs/2402.10494v1][Mechanised uniform interpolation for modal logics K, GL and iSL]]. ~ Hugo Férée, Iris van der Giessen, Sam van Gool, Ian Shillito. #ITP #Coq #Logic
++ [[https://arxiv.org/abs/2402.12169][Automating boundary filling in Cubical Agda]]. ~ Maximilian Doré, Evan Cavallo, Anders Mörtberg. #ITP #Agda
++ [[https://www.youtube.com/live/WHVMjMIJnB4][The Haskell Unfolder Episode 20: Dijkstra's shortest paths]]. ~ Edsko de Vries (@EdskoDeVries), Andres Löh (@kosmikus@functional.cafe). #Haskell #FunctionalProgramming
++ [[https://essay.utwente.nl/98278/1/De%20Vree_BA_EEMCS.pdf][Forging a differential tester for Haskell compilers using Xsmith]]. ~ Everard de Vree. #Haskell #FunctionalProgramming
++ [[https://youtu.be/yAn0Q6j1L-M][Faster labeling for N-Queens]]. ~ Markus Triska (@MarkusTriska).  #Prolog #LogicProgramming
++ [[https://arxiv.org/abs/2309.17452][ToRA: A tool-integrated reasoning agent for mathematical problem solving]]. ~ Zhibin Gou et als. #LLMs #Reasoning #Math
+
 *** 21-Feb-24
 + [[https://arxiv.org/abs/2310.14022][Trocq: Proof transfer for free, with or without univalence]]. ~ Cyril Cohen, Enzo Crance, Assia Mahboubi. #ITP #Coq
 + [[https://www.isa-afp.org/entries/Karatsuba.html][Karatsuba multiplication on integers (in Isabelle/HOL)]]. ~ Jakob Schulz & Emin Karayel. #ITP #IsabelleHOL #Math
