@@ -58,6 +58,11 @@ its content.
 
 ** Febrero 2024
 
+*** 23-Feb-24
++ [[https://arxiv.org/abs/2402.14485v1][Machine-checked categorical diagrammatic reasoning]]. ~ Benoît Guillemet, Assia Mahboubi, Matthieu Piquerez. #ITP #Coq
++ [[https://cacm.acm.org/magazines/2024/3/280078-co-developing-programs-and-their-proof-of-correctness/fulltext][Co-developing programs and their proof of correctness]]. ~ Roderick Chapman, Claire Dross, Stuart Matthews, Yannick Moy. #FormalVerification #SPARK
++ [[https://blog.ploeh.dk/2024/02/19/extracting-data-from-a-small-csv-file-with-haskell/][Extracting data from a small CSV file with Haskell]]. ~ Mark Seemann (@ploeh@mastodon.social). #Haskell #FunctionalProgramming
+
 *** 22-Feb-24
 + [[https://arxiv.org/abs/2402.10494v1][Mechanised uniform interpolation for modal logics K, GL and iSL]]. ~ Hugo Férée, Iris van der Giessen, Sam van Gool, Ian Shillito. #ITP #Coq #Logic
 + [[https://arxiv.org/abs/2402.12169][Automating boundary filling in Cubical Agda]]. ~ Maximilian Doré, Evan Cavallo, Anders Mörtberg. #ITP #Agda
