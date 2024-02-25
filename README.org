@@ -58,6 +58,11 @@ its content.
 
 ** Febrero 2024
 
+*** 24-Feb-24
++ [[https://eprint.iacr.org/2024/267.pdf][zkPi: Proving Lean theorems in zero-knowledge]]. ~ Evan Laufer, Alex Ozdemir, Dan Boneh. #ITP #LeanProver
++ [[https://www2.sf.ecei.tohoku.ac.jp/~kztk/papers/anders_esop2024_author_ver.pdf][Reconciling partial and local invertibility]]. ~ Anders Ågren, Kazutaka Matsuda, Meng Wang. #ITP #Agda
++ [[https://sedici.unlp.edu.ar/bitstream/handle/10915/162904/Documento_completo.pdf-PDFA.pdf][La lógica como lenguaje de programación]]. ~ Clara Smith. #Lógica #Matemática #Computación
+
 *** 23-Feb-24
 + [[https://arxiv.org/abs/2402.14485v1][Machine-checked categorical diagrammatic reasoning]]. ~ Benoît Guillemet, Assia Mahboubi, Matthieu Piquerez. #ITP #Coq
 + [[https://cacm.acm.org/magazines/2024/3/280078-co-developing-programs-and-their-proof-of-correctness/fulltext][Co-developing programs and their proof of correctness]]. ~ Roderick Chapman, Claire Dross, Stuart Matthews, Yannick Moy. #FormalVerification #SPARK
