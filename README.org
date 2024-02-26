@@ -58,6 +58,11 @@ its content.
 
 ** Febrero 2024
 
+*** 25-Feb-24
++ [[https://underlap.org/understanding-haskells-type-system][Understanding Haskell's type system]]. ~ Glyn Normington (@underlap@fosstodon.org). #Haskell #FunctionalProgramming
++ [[https://garymarcus.substack.com/p/the-hottest-new-programming-language][The hottest new programming language is English! Or maybe not]]. (Programming in English might not be all its cracked up to be). ~ Gary Marcus (@garymarcus@sigmoid.social). #AI #Programming
++ [[https://canaltic.com/blog/?p=5542][Informe «Inteligencia Artificial y educación»]]. ~ Fernando Posada Prieto. #IA #Educación
+
 *** 24-Feb-24
 + [[https://eprint.iacr.org/2024/267.pdf][zkPi: Proving Lean theorems in zero-knowledge]]. ~ Evan Laufer, Alex Ozdemir, Dan Boneh. #ITP #LeanProver
 + [[https://www2.sf.ecei.tohoku.ac.jp/~kztk/papers/anders_esop2024_author_ver.pdf][Reconciling partial and local invertibility]]. ~ Anders Ågren, Kazutaka Matsuda, Meng Wang. #ITP #Agda
