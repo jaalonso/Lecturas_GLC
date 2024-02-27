@@ -58,6 +58,10 @@ its content.
 
 ** Febrero 2024
 
+*** 26-Feb-24
++ [[https://blog.computationalcomplexity.org/2024/02/when-is-it-worth-time-and-effort-to.html][When is it worth the time and effort to verify a proof FORMALLY?]] ~ Bill Gasarch. #ITP #Math
++ [[https://ai4k12.org/][AI4K12: The Artificial Intelligence (AI) for K-12 initiative]]. #AI #Education
+
 *** 25-Feb-24
 + [[https://underlap.org/understanding-haskells-type-system][Understanding Haskell's type system]]. ~ Glyn Normington (@underlap@fosstodon.org). #Haskell #FunctionalProgramming
 + [[https://garymarcus.substack.com/p/the-hottest-new-programming-language][The hottest new programming language is English! Or maybe not]]. (Programming in English might not be all its cracked up to be). ~ Gary Marcus (@garymarcus@sigmoid.social). #AI #Programming
