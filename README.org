@@ -58,6 +58,14 @@ its content.
 
 ** Febrero 2024
 
+*** 27-Feb-24
++ [[https://www.philipzucker.com/twee/][Automated equational reasoning with Twee pt 1]]. ~ Philip Zucker (@sandmouth@types.pl). #ATP #Twee
++ [[https://nick8325.github.io/twee/][Twee: an equational theorem prover]]. #ATP #Twee
++ [[https://www21.in.tum.de/~traytel/papers/tacas24-whymon/whymon.pdf][Explainable online monitoring of metric first-order temporal logic]]. ~ Leonardo Lima, Jonathan Julián Huerta y Munive, Dmitriy Traytel. #ITP #IsabelleHOL
++ [[https://dataspace.princeton.edu/handle/88435/dsp014j03d298b][Deep learning for automated theorem proving]]. ~ Mingzhe Wang. #DeepLearning #ITP #LeanProver
++ [[https://arxiv.org/abs/2311.08941][Reasoning over description logic-based contexts with transformers]]. ~ Angelos Poulis, Eleni Tsalapati, Manolis Koubarakis. #LLMs #Reasoning
++ [[https://batsov.com/articles/2024/02/26/emacs-dead-and-loving-it/][Emacs: Dead and loving it]]. ~ Bozhidar Batsov (@bbatsov@hachyderm.io). #Emacs
+
 *** 26-Feb-24
 + [[https://blog.computationalcomplexity.org/2024/02/when-is-it-worth-time-and-effort-to.html][When is it worth the time and effort to verify a proof FORMALLY?]] ~ Bill Gasarch. #ITP #Math
 + [[https://ai4k12.org/][AI4K12: The Artificial Intelligence (AI) for K-12 initiative]]. #AI #Education
