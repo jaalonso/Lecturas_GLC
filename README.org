@@ -58,6 +58,18 @@ its content.
 
 ** Febrero 2024
 
+*** 28-Feb-24
++ [[https://lawrencecpaulson.github.io/2024/02/28/Gowers_bijection_example.html][Two small examples by Fields medallists]]. ~ Lawrence Paulson (@LawrPaulson@mathstodon.xyz). #ITP #IsabelleHOL #LeanProver #Math
++ [[https://logic-forall.blogspot.com/2024/02/preparing-for-network-mathematics-2023.html][Preparing for Network Mathematics 2023]]. ~ Valeria de Paiva (@vcvpaiva@mathstodon.xyz). #ITP #Math
++ [[https://topos.site/blog/2021-07-11-introducing-mathfoldr/][Introducing the MathFoldr project]]. ~ Brendan Fong, Valeria de Paiva (@valeriadepaiva). #Math #AI
++ [[https://topos.site/blog/2022-04-18-facets-of-networked-mathematics/][The many facets of Networked Mathematics]]. ~ Valeria de Paiva (@valeriadepaiva). #Math #AI #ITP
++ [[https://topos.site/blog/2023-01-05-preparing-for-networked-mathematics/][Preparing for Networked Mathematics]]. ~ Valeria de Paiva (@vcvpaiva@mathstodon.xyz). #AI #Math #ITP
++ [[https://www.youtube.com/live/XLqG3JUn5PY][Foothills and cathedrals: organising the libraries behind big proofs]]. ~ Georges Gonthier. #ITP #Coq
++ [[https://www.youtube.com/live/MHf07noO9KA][Abstraction engineering with the Prototype Verification System (PVS)]]. ~ Nat Shankar. #ITP #PVS
++ [[https://topos.site/topos-colloquium/slides/2023-11-30.pdf][Who owns mathematics: A question of identity]]. ~ Minhyong Kim. #Math
++ [[https://www.funcas.es/articulos/big-data-aprendizaje-estadistico-automatico-e-inteligencia-artificial/][Big Data. Aprendizaje estadístico automático e inteligencia artificial]]. ~ Daniel Peña. #IA
++ [[https://www.theintrinsicperspective.com/p/here-lies-the-internet-murdered-by][Here lies the Internet, murdered by generative AI]]. ~ Erik Hoel (@erikphoel). #AI
+
 *** 27-Feb-24
 + [[https://www.philipzucker.com/twee/][Automated equational reasoning with Twee pt 1]]. ~ Philip Zucker (@sandmouth@types.pl). #ATP #Twee
 + [[https://nick8325.github.io/twee/][Twee: an equational theorem prover]]. #ATP #Twee
