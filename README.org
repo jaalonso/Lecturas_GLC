@@ -58,6 +58,14 @@ its content.
 
 ** Febrero 2024
 
+*** 29-Feb-24
++ [[https://arxiv.org/abs/2402.17927][MCSat-based finite field reasoning in the Yices2 SMT solver]]. ~ Thomas Hader, Daniela Kaufmann, Ahmed Irfan, Stéphane Graham-Lengrand, Laura Kovács. #Yice2 #SMT
++ [[https://arxiv.org/abs/2402.15332][Categorical deep learning: An algebraic theory of architectures]]. ~ Bruno Gavranović, Paul Lessard, Andrew Dudzik, Tamara von Glehn, João G. M. Araújo, Petar Veličković. #DeepLearning #Haskell #FunctionalProgramming
++ [[https://arxiv.org/abs/2402.17786][Stepwise self-consistent mathematical reasoning with Large Language Models]]. ~ Zilong Zhao, Yao Rong, Dongyang Guo, Emek Gözlüklü, Emir Gülboy, Enkelejda Kasneci. #LLMs #Math #Reasoning
++ [[https://arxiv.org/abs/2312.01661][ChatGPT as a math questioner? Evaluating ChatGPT on generating pre-university math questions]]. ~ Phuoc Pham Van Long, Duc Anh Vu, Nhat M. Hoang, Xuan Long Do, Anh Tuan Luu. #LLMs #ChatGPT #Math
++ [[https://neurosymbolic-ai-journal.com/system/files/nai-paper-726.pdf][Neuro-symbolic methods for trustworthy AI: A systematic review]]. ~ Cyprien Michel–Delétie, Md Kamruzzaman Sarker. #AI #NeuroSymbolic
++ [[https://www.quantamagazine.org/how-selective-forgetting-can-help-ai-learn-better-20240228/][How selective forgetting can help AI learn better]]. ~ Amos Zeeberg. #AI #MachineLearning
+
 *** 28-Feb-24
 + [[https://lawrencecpaulson.github.io/2024/02/28/Gowers_bijection_example.html][Two small examples by Fields medallists]]. ~ Lawrence Paulson (@LawrPaulson@mathstodon.xyz). #ITP #IsabelleHOL #LeanProver #Math
 + [[https://logic-forall.blogspot.com/2024/02/preparing-for-network-mathematics-2023.html][Preparing for Network Mathematics 2023]]. ~ Valeria de Paiva (@vcvpaiva@mathstodon.xyz). #ITP #Math
