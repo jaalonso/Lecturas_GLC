@@ -11,6 +11,7 @@ its content.
 
 * Content                                                                      :TOC:
 - [[#lecturas-del-año-2024][Lecturas del año 2024]]
+  - [[#marzo-2024][Marzo 2024]]
   - [[#febrero-2024][Febrero 2024]]
   - [[#enero-2024][Enero 2024]]
 - [[#lecturas-del-año-2023][Lecturas del año 2023]]
@@ -55,6 +56,18 @@ its content.
 - [[#lecturas-anteriores][Lecturas anteriores]]
 
 * Lecturas del año 2024
+
+** Marzo 2024
+
+*** 01-Mar-24
++ [[https://siliconreckoner.substack.com/p/mechanical-understanding-of-proof][Mechanical understanding of proof?]] ~ Michael Harris. #Math #AI #ITP
++ [[https://oleg.fi/gists/posts/2024-02-27-more-qualified-do.html][More QualifiedDo examples]]. ~ Oleg Grenrus (@phadej). #Haskell #FunctionalProgramming
++ [[https://github.com/DanRyba253/smh][smh: A string manipulation tool written in Haskell]]. ~ Dani Rybe. #Haskell #FunctionalProgramming
++ [[https://willschenk.com/labnotes/2024/ai_in_emacs/][AI in Emacs]]. ~ Will Schenk (@wschenk). #AI #Emacs
++ [[https://github.com/s-kostyaev/ellama][Ellama: a tool for interacting with large language models from Emacs]]. #LLMs #Emacs #Ellama
++ [[https://h2o.ai/blog/2023/entrenando-tu-propio-llm-sin-programacion/][Entrenando tu propio LLM sin programación]]. ~ Favio Vazquez. #LLMs
++ [[https://www.analyticsvidhya.com/blog/2023/09/training-your-own-llm-without-coding/][Training your own LLM without coding]]. ~ Favio Vazquez. #LLMs
++ [[https://www.genbeta.com/actualidad/no-c-c-casa-blanca-pide-dejar-usar-lenguajes-programacion-que-base-windows-linux-macos][No más C/C++: la Casa Blanca pide dejar de usar los lenguajes de programación que son la base de Windows, Linux o macOS]]. ~ Marcos Merino. #Programación
 
 ** Febrero 2024
 
