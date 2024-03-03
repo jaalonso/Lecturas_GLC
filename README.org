@@ -59,6 +59,13 @@ its content.
 
 ** Marzo 2024
 
+*** 02-Mar-24
++ [[https://youtu.be/81XurNlv5cw][Tensor DSLs and curved space-time]]. ~ Patrik Jansson (@patrikja@functional.cafe). #Haskell #FunctionalProgramming
++ [[https://arxiv.org/abs/2312.02664][Domain-specific tensor languages]]. ~ Jean-Philippe Bernardy, Patrik Jansson (@patrikja@functional.cafe). #Haskell #FunctionalProgramming
++ [[https://arxiv.org/abs/2402.17286][A constraint-based mathematical modeling library in Prolog with answer constraint semantics]]. ~ François Fages. #Prolog #LogicProgramming
++ [[https://www.fugue.co/blog/2015-11-11-guide-to-emacs.html][A CEO's guide to Emacs]]. ~ Josh Stella. #Emacs
++ [[https://www.fugue.co/blog/2018-08-09-two-years-with-emacs-as-a-cto.html][Two years with Emacs as a CEO (and now CTO)]]. ~ Josh Stella. #Emacs
+
 *** 01-Mar-24
 + [[https://siliconreckoner.substack.com/p/mechanical-understanding-of-proof][Mechanical understanding of proof?]] ~ Michael Harris. #Math #AI #ITP
 + [[https://oleg.fi/gists/posts/2024-02-27-more-qualified-do.html][More QualifiedDo examples]]. ~ Oleg Grenrus (@phadej). #Haskell #FunctionalProgramming
