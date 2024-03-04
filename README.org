@@ -59,6 +59,9 @@ its content.
 
 ** Marzo 2024
 
+*** 03-Mar-24
++ [[https://cacm.acm.org/news/cacm-is-now-open-access-2/][Communications of the ACM is now open access]].
+
 *** 02-Mar-24
 + [[https://youtu.be/81XurNlv5cw][Tensor DSLs and curved space-time]]. ~ Patrik Jansson (@patrikja@functional.cafe). #Haskell #FunctionalProgramming
 + [[https://arxiv.org/abs/2312.02664][Domain-specific tensor languages]]. ~ Jean-Philippe Bernardy, Patrik Jansson (@patrikja@functional.cafe). #Haskell #FunctionalProgramming
