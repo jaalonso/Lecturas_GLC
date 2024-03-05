@@ -59,6 +59,15 @@ its content.
 
 ** Marzo 2024
 
+*** 04-Mar-24
++ [[https://www.isa-afp.org/entries/CubicalCategories.html][Cubical categories (in Isabelle/HOL)]]. ~ Georg Struth, Tanguy Massacrier. #ITP #IsabelleHOL
++ [[https://cacm.acm.org/research/formally-verified-mathematics/][Formally verified mathematics (With the help of computational proof assistants, formal verification could become the new standard for rigor in mathematics)]]. ~ Jeremy Avigad, John Harrison (2014). #ITP #Math
++ [[https://www.ams.org/journals/notices/201304/rnoti-p418.pdf][Errors and corrections in the mathematical literature]]. ~ Joseph F. Grcar (2013). #Math
++ [[https://www.ams.org/staff/jackson/comm-davies.pdf][Whither mathematics?]] ~ Brian Davies (2005). #Math #ITP
++ [[https://www.ams.org/notices/200807/tx080700773p.pdf][Desperately seeking mathematical truth]]. ~ Melvyn B. Nathanson (2008). #Math
++ [[https://cacm.acm.org/article/generating-and-exploiting-automated-reasoning-proof-certificates/][Generating and exploiting automated reasoning proof certificates]]. ~ Haniel Barbosa, Clark Barrett et als. (2023) #SMT #FormalVerification
++ [[https://siliconreckoner.substack.com/p/kevins-all-synth-techno-band-covers-f73][Kevin's all-synth techno band covers Andrew's greatest hit (Part two: what will Lean understand?)]]. ~ Michael Harris. #AI #Math #ITP #LeanProver
+
 *** 03-Mar-24
 + [[https://cacm.acm.org/news/cacm-is-now-open-access-2/][Communications of the ACM is now open access]].
 
