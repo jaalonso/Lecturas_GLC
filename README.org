@@ -65,7 +65,6 @@ its content.
 
 *** 05-Mar-24
 + [[https://inria.hal.science/hal-04485670/file/article.pdf][A safe low-level language for computer algebra and its formally verified compiler]]. ~ Guillaume Melquiond, Josué Moreau. #ITP #Coq
-+ [[https://www.cs.nott.ac.uk/~pszgmh/graphs.pdf][Beyond trees: Calculating graph-based compilers]]. ~ Patrick Bahr, Graham Hutton. #Haskell #FunctionalProgramming
 + [[https://www.atlantis-press.com/article/125998950.pdf][Time efficiency analysis of parallel programs on Liquid Haskell]]. ~ Yu Daiki, Shinya Nishizaki. #Haskell #FunctionalProgramming
 + [[https://static1.squarespace.com/static/649fa930ced4b430860ddc68/t/65d170dcecf21f361ab293fb/1708224734836/dafny2024.pdf][Learn ’em Dafny!]] ~ James Noble. #FormalVerification #Dafny
 
