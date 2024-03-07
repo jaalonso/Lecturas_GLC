@@ -59,6 +59,10 @@ its content.
 
 ** Marzo 2024
 
+*** 06-Mar-24
++ [[https://www.tandfonline.com/doi/full/10.1080/26375451.2024.2312789][Generative AI and accuracy in the history of mathematics]]. ~ Peter Rowlett. #ChatGPT #Math
++ [[https://www.logicolympiad.org/][International Logic Olympiad 2024]]. #IL2024 #Logic
+
 *** 05-Mar-24
 + [[https://inria.hal.science/hal-04485670/file/article.pdf][A safe low-level language for computer algebra and its formally verified compiler]]. ~ Guillaume Melquiond, Josué Moreau. #ITP #Coq
 + [[https://www.cs.nott.ac.uk/~pszgmh/graphs.pdf][Beyond trees: Calculating graph-based compilers]]. ~ Patrick Bahr, Graham Hutton. #Haskell #FunctionalProgramming
