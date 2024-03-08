@@ -59,6 +59,15 @@ its content.
 
 ** Marzo 2024
 
+*** 07-Mar-24
++ [[https://rtca2023.github.io/pages_Lyon/eberl.pdf][Some new tricks for formalising advanced mathematics]]. ~ Manuel Eberl (@pruvisto@graz.social). #ITP #IsabelleHOL #Math
++ [[https://arialdomartini.github.io//universal-quantifiers ][Universal quantifiers and existential types for the rest of us]]. ~ Arialdo Martini (@arialdo@mastodon.online). #Haskell #FunctionalProgramming
++ [[https://www.youtube.com/live/ZHB8UAi6cO0][The Haskell Unfolder Episode 21: Testing without a reference]]. ~ Edsko de Vries (@EdskoDeVries), Andres Löh (@kosmikus@functional.cafe). #Haskell #FunctionalProgramming
++ [[https://www.logicmatters.net/2024/03/06/ana-agore-a-first-course-in-category-theory/][Ana Agore, a first course in category theory]]. ~ Peter Smith (@PeterSmith@mathstodon.xyz). #CategoryTheory
++ [[https://plato.stanford.edu/entries/reverse-mathematics/][Reverse mathematics]]. ~ Benedict Eastaugh (@beastaugh@mathstodon.xyz). #Math
++ [[https://arxiv.org/abs/2403.01010][My favorite math jokes]]. ~ Tanya Khovanova. #Math
++ [[https://arialdomartini.github.io/emacs-surround][Emacs: Let's surround!]] ~ Arialdo Martini (@arialdo@mastodon.online). #Emacs
+
 *** 06-Mar-24
 + [[https://www.tandfonline.com/doi/full/10.1080/26375451.2024.2312789][Generative AI and accuracy in the history of mathematics]]. ~ Peter Rowlett. #ChatGPT #Math
 + [[https://www.logicolympiad.org/][International Logic Olympiad 2024]]. #IL2024 #Logic
