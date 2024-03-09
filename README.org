@@ -59,6 +59,14 @@ its content.
 
 ** Marzo 2024
 
+*** 08-Mar-24
++ [[https://cacm.acm.org/research/mechanical-mathematicians/][Mechanical mathematicians (A new generation of automatic theorem provers eliminate bugs in software and mathematics)]]. ~ Alexander Bentkamp, Jasmin Blanchette, Visa Nummelin, Sophie Tourret, Petar Vukmirović, and Uwe Waldmann (2023). #ITP #Math
++ [[https://arxiv.org/abs/2403.04017][Learning guided automated reasoning: A brief survey]]. ~ Lasse Blaauwbroek, David Cerna, Thibault Gauthier, Jan Jakubův, Cezary Kaliszyk, Martin Suda, Josef Urban. #AutomatedReasoning #MachineLearning
++ [[https://www.tweag.io/blog/2024-03-07-dps-haskell][Extending destination-passing style programming to arbitrary data types in Linear Haskell]]. ~ Thomas Bagrel. #Haskell #FunctionalProgramming
++ [[https://iagoleal.com/posts/value-iteration-haskell/][Playing with value iteration in Haskell]]. ~ Iago Leal de Freitas. #Haskell #FunctionalProgramming
++ [[https://nicaudinet.github.io/2024/03/03/hmatrix-reshape/][Reshape in Hmatrix]]. ~ Nicolas Audinet de Pieuchon. #Haskell #FunctionalProgramming
++ [[https://www.technologyreview.com/2024/03/04/1089403/large-language-models-amazing-but-nobody-knows-why/][Large language models can do jaw-dropping things]]. But nobody knows exactly why. ~ Will Douglas Heaven. #AI #LLMs
+
 *** 07-Mar-24
 + [[https://rtca2023.github.io/pages_Lyon/eberl.pdf][Some new tricks for formalising advanced mathematics]]. ~ Manuel Eberl (@pruvisto@graz.social). #ITP #IsabelleHOL #Math
 + [[https://arialdomartini.github.io//universal-quantifiers ][Universal quantifiers and existential types for the rest of us]]. ~ Arialdo Martini (@arialdo@mastodon.online). #Haskell #FunctionalProgramming
