@@ -59,6 +59,15 @@ its content.
 
 ** Marzo 2024
 
+*** 09-Mar-24
++ [[https://www.isa-afp.org/entries/HOL-CSP_OpSem.html][Operational semantics formally proven in HOL-CSP]]. ~ Benoît Ballenghien, Burkhart Wolff. #ITP #IsabelleHOL
++ [[https://www.isa-afp.org/entries/Wieferich_Kempner.html][Wieferich–Kempner theorem]]. ~ Jamie Chen. #ITP #IsabelleHOL #Math
++ [[https://www.isa-afp.org/entries/QBF_Solver_Verification.html][Verified QBF solving]]. ~ Axel Bergström, Tjark Weber. #ITP #IsabelleHOL
++ [[https://temelmertcan.github.io/pdfs/radix16-paper.pdf][Formal verification of booth radix-8 and radix-16 multipliers]]. ~ Mertcan Temel. #FormalVerification #ACL2
++ [[https://temelmertcan.github.io/pdfs/tacas24-vescmul-preprint-paper.pdf][VeSCMul: Verified implementation of S-C-rewriting for multiplier verification]]. ~ Mertcan Temel. #FormalVerification #ACL2
++ [[https://arxiv.org/abs/2403.02273][Let a thousand flowers bloom (An algebraic representation for edge graphs)]]. ~ Jack Liell-Cocka, Tom Schrijvers. #Haskell #FunctionalProgramming
++ [[https://cacm.acm.org/research/inductive-programming-meets-the-real-world/][Inductive programming meets the real world (Inductive programming can liberate users from performing tedious and repetitive tasks)]]. ~ Sumit Gulwani, José Hernández-Orallo, Emanuel Kitzelmann, Stephen H. Muggleton, Ute Schmid, and Benjamin Zorn. #InductiveProgramming #ILP #IFP
+
 *** 08-Mar-24
 + [[https://cacm.acm.org/research/mechanical-mathematicians/][Mechanical mathematicians (A new generation of automatic theorem provers eliminate bugs in software and mathematics)]]. ~ Alexander Bentkamp, Jasmin Blanchette, Visa Nummelin, Sophie Tourret, Petar Vukmirović, and Uwe Waldmann (2023). #ITP #Math
 + [[https://arxiv.org/abs/2403.04017][Learning guided automated reasoning: A brief survey]]. ~ Lasse Blaauwbroek, David Cerna, Thibault Gauthier, Jan Jakubův, Cezary Kaliszyk, Martin Suda, Josef Urban. #AutomatedReasoning #MachineLearning
