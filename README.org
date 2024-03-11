@@ -59,6 +59,14 @@ its content.
 
 ** Marzo 2024
 
+*** 10-Mar-24
++ [[https://arxiv.org/abs/2403.02778][Abstracting denotational interpreters]]. ~ Sebastian Graf, Simon Peyton Jones, Sven Keidel. #Haskell #FunctionalProgramming
++ [[https://cacm.acm.org/research/toward-verified-artificial-intelligence/][Toward verified artificial intelligence (Making AI more trustworthy with a formal methods-based approach to AI system verification and validation)]]. ~ Sanjit A. Seshia, Dorsa Sadigh, S. Shankar Sastry (2022). #AI #FormalVerification
++ [[https://www.jeremykun.com/2024/03/08/tabletop-games-based-on-math-problems/][Tabletop games based on math problems]]. ~ Jeremy Kun (@j2kun@mathstodon.xyz). #Math #Game
++ [[https://open.substack.com/pub/acceptable/p/gpts][GPTs (Figuring out AI for writing)]]. ~ Chris James. #AI #GPT
++ [[https://www.johndcook.com/blog/2024/03/09/how-to-organize-technical-research/][How to organize technical research?]] ~ Wayne Joubert. #KnowledgeManagement
++ [[https://notxor.nueva-actitud.org/2024/03/09/texinfo-el-sistema-de-ayuda-de-emacs.html][Texinfo: el sistema de ayuda de Emacs]]. ~ Notxor. #Emacs
+
 *** 09-Mar-24
 + [[https://www.isa-afp.org/entries/HOL-CSP_OpSem.html][Operational semantics formally proven in HOL-CSP]]. ~ Benoît Ballenghien, Burkhart Wolff. #ITP #IsabelleHOL
 + [[https://www.isa-afp.org/entries/Wieferich_Kempner.html][Wieferich–Kempner theorem]]. ~ Jamie Chen. #ITP #IsabelleHOL #Math
