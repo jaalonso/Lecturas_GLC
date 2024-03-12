@@ -59,6 +59,9 @@ its content.
 
 ** Marzo 2024
 
+*** 11-Mar-24
++ [[https://arxiv.org/abs/2403.04807][Mathematics of neural networks (Lecture notes graduate course)]]. ~ Bart M.N. Smets. #Math #NeuralNetwork #MachineLearning #AI
+
 *** 10-Mar-24
 + [[https://arxiv.org/abs/2403.02778][Abstracting denotational interpreters]]. ~ Sebastian Graf, Simon Peyton Jones, Sven Keidel. #Haskell #FunctionalProgramming
 + [[https://cacm.acm.org/research/toward-verified-artificial-intelligence/][Toward verified artificial intelligence (Making AI more trustworthy with a formal methods-based approach to AI system verification and validation)]]. ~ Sanjit A. Seshia, Dorsa Sadigh, S. Shankar Sastry (2022). #AI #FormalVerification
