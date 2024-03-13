@@ -59,6 +59,11 @@ its content.
 
 ** Marzo 2024
 
+*** 12-Mar-24
++ [[https://www.bartbogaerts.eu/articles/2024/005-Geuvers-CoqAFT/FormalisingAFTinCOQ.pdf][Approximation fixpoint theory in Coq with an application to logic programming]]. ~ Bart Bogaerts, Luís Cruz-Filipe. #ITP #Coq
++ [[https://cacm.acm.org/research/formally-verified-software-in-the-real-world/][Formally verified software in the real world]]. ~ Gerwin Klein, June Andronick, Matthew Fernandez, Ihor Kuz, Toby Murray, Gernot Heiser (2018). #FormalVerification
++ [[https://michal.sapka.me/emacs/][What is Emacs?]] ~ Michał Sapka (@mms@emacs.ch). #Emacs
+
 *** 11-Mar-24
 + [[https://arxiv.org/abs/2403.04807][Mathematics of neural networks (Lecture notes graduate course)]]. ~ Bart M.N. Smets. #Math #NeuralNetwork #MachineLearning #AI
 
