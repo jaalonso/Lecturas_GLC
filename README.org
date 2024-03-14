@@ -59,6 +59,12 @@ its content.
 
 ** Marzo 2024
 
+*** 13-Mar-24
++ [[https://cacm.acm.org/news/automating-proofs/][Automating proofs (Math struggles with the usability of formal proofs)]]. ~ Chris Edwards (2016). #ITP #Math
++ [[https://cacm.acm.org/research/propositions-as-types/][Propositions as types (Connecting mathematical logic and computation, it ensures that some aspects of programming are absolute)]]. ~ Philip Wadler (2015). #Logic #Math #CompSci
++ [[https://www.scientificamerican.com/article/the-simplest-math-problem-could-be-unsolvable/][The simplest math problem could be unsolvable (The Collatz conjecture has plagued mathematicians for decades—so much so that professors warn their students away from it)]]. ~ Manon Bischoff. #Math
++ [[https://www.sciencedirect.com/science/article/pii/S030439750800635X][Two undecidable variants of Collatz’s problems]]. ~ Eero Lehtonen (2008). #Math #CompSci
+
 *** 12-Mar-24
 + [[https://www.bartbogaerts.eu/articles/2024/005-Geuvers-CoqAFT/FormalisingAFTinCOQ.pdf][Approximation fixpoint theory in Coq with an application to logic programming]]. ~ Bart Bogaerts, Luís Cruz-Filipe. #ITP #Coq
 + [[https://cacm.acm.org/research/formally-verified-software-in-the-real-world/][Formally verified software in the real world]]. ~ Gerwin Klein, June Andronick, Matthew Fernandez, Ihor Kuz, Toby Murray, Gernot Heiser (2018). #FormalVerification
