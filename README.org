@@ -59,6 +59,12 @@ its content.
 
 ** Marzo 2024
 
+*** 14-Mar-24
++ [[https://cacm.acm.org/news/a-new-type-of-mathematics/][A new type of mathematics? (New discoveries expand the scope of computer-assisted proofs of theorems)]]. ~ Don Monroe (2014). #ITP #Math
++ [[https://www.michaelpj.com/blog/2024/03/11/defunctionalization-thoughts.html][Why is defunctionalization good? ~ Michael Peyton Jones (@mpeytonjones)]]. #Haskell #FunctionalProgramming
++ [[https://cacm.acm.org/practice/domain-specific-languages-and-code-synthesis-using-haskell/][Domain-specific languages and code synthesis using Haskell]]. ~ Andy Gill (2014). #Haskell #FunctionalProgramming
++ [[https://siliconreckoner.substack.com/p/news-flash-new-nsf-funding-for-ai][News flash: new NSF funding for AI in mathematical reasoning]]. ~ Michael Harris. #Math #AI
+
 *** 13-Mar-24
 + [[https://cacm.acm.org/news/automating-proofs/][Automating proofs (Math struggles with the usability of formal proofs)]]. ~ Chris Edwards (2016). #ITP #Math
 + [[https://cacm.acm.org/research/propositions-as-types/][Propositions as types (Connecting mathematical logic and computation, it ensures that some aspects of programming are absolute)]]. ~ Philip Wadler (2015). #Logic #Math #CompSci
