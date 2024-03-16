@@ -59,6 +59,11 @@ its content.
 
 ** Marzo 2024
 
+*** 15-Mar-24
++ [[https://www.diva-portal.org/smash/get/diva2:1843766/FULLTEXT01.pdf][A verified QBF solver]]. ~ Axel Bergström. #ITP #IsabelleHOL
++ [[https://cacm.acm.org/research/sel4-formal-verification-of-an-operating-system-kernel/][seL4: Formal verification of an operating-system kernel]]. ~ Gerwin Klein et als. (2010). #FormalVerification #IsabelleHOL
++ [[https://cacm.acm.org/research/satisfiability-modulo-theories/][Satisfiability modulo theories: Introduction and applications]]. ~ Leonardo De Moura, Nikolaj Bjørner (2011). #SMT
+
 *** 14-Mar-24
 + [[https://cacm.acm.org/news/a-new-type-of-mathematics/][A new type of mathematics? (New discoveries expand the scope of computer-assisted proofs of theorems)]]. ~ Don Monroe (2014). #ITP #Math
 + [[https://www.michaelpj.com/blog/2024/03/11/defunctionalization-thoughts.html][Why is defunctionalization good? ~ Michael Peyton Jones (@mpeytonjones)]]. #Haskell #FunctionalProgramming
