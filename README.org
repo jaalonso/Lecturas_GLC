@@ -59,6 +59,11 @@ its content.
 
 ** Marzo 2024
 
+*** 16-Mar-24
++ [[https://cvc5.github.io/blog/2024/03/15/isabelle-reconstruction.html][Reconstructing cvc5 proofs in Isabelle/HOL (Part I: Communication between Isabelle and cvc5)]]. ~ Hanna Lachnitt. #ITP #IsabelleHOL #SMT #cvc5
++ [[https://cacm.acm.org/research/formal-verification-of-a-realistic-compiler/][Formal verification of a realistic compiler]]. ~ Xavier Leroy (2009). #FormalVerification #ITP #Coq
++ [[https://dl.acm.org/doi/pdf/10.1145/219717.219771][Applications of inductive logic programming]]. ~ Ivan Bratko, Stephen Muggleton (1995). #ILP #LogicProgramming
+
 *** 15-Mar-24
 + [[https://www.diva-portal.org/smash/get/diva2:1843766/FULLTEXT01.pdf][A verified QBF solver]]. ~ Axel Bergström. #ITP #IsabelleHOL
 + [[https://cacm.acm.org/research/sel4-formal-verification-of-an-operating-system-kernel/][seL4: Formal verification of an operating-system kernel]]. ~ Gerwin Klein et als. (2010). #FormalVerification #IsabelleHOL
