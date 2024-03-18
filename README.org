@@ -59,6 +59,17 @@ its content.
 
 ** Marzo 2024
 
+*** 17-Mar-24
++ [[https://arxiv.org/abs/2403.07948][A study on actions for atomic logics]]. ~ Raül Espejo-Boix. #ITP #Coq #Logic
++ [[https://arxiv.org/abs/2403.08173][A bargain for mergesorts (functional pearl) -- How to prove your mergesort correct and stable, almost for free]]. ~ Cyril Cohen, Kazuhiko Sakaguchi. #ITP #Coq
++ [[https://josh-hs-ko.github.io/manuscripts/BT.pdf][Binomial tabulation: A short story]]. ~ Hsiang-Shang Ko, Shin-Cheng Mu, Jeremy Gibbons. #Haskell #FunctionalProgramming
++ [[https://youtu.be/OrvljJbLk50][Building my own HTTP server in Haskell]]. #Haskell #FunctionalProgramming
++ [[https://opus.bibliothek.uni-augsburg.de/opus4/frontdoor/deliver/index/docId/111981/file/111981.pdf][Reification, Curry-Howard correspondence, and didactical consequences]]. ~ Reinhard Oldenburg. #CurryHoward #FunctionalProgramming #LambdaCalculus
++ [[https://dl.acm.org/doi/pdf/10.1145/131295.131296][Logic and logic programming]]. ~ J. A. Robinson (1992). #Logic #LogicProgramming #ATP
++ [[https://dl.acm.org/doi/pdf/10.1145/361604.361612][Computer programming as an art]]. ~ Donald E. Knuth (1974). #Programming
++ [[https://cacm.acm.org/research/scientific-knowledge-discovery-using-inductive-logic-programming/][Scientific knowledge discovery using inductive logic programming]]. ~ Stephen Muggleton (1999). #ILP
++ [[https://www.quantamagazine.org/a-mathematician-on-creativity-art-logic-and-language-20240313/]["The rest of the world disappears": Claire Voisin on mathematical creativity (The recipient of the 2024 Crafoord Prize in Mathematics discusses math as art, math as language, and math as abstract thought)]]. ~ Jordana Cepelewicz (@jordanacep). #Math
+
 *** 16-Mar-24
 + [[https://cvc5.github.io/blog/2024/03/15/isabelle-reconstruction.html][Reconstructing cvc5 proofs in Isabelle/HOL (Part I: Communication between Isabelle and cvc5)]]. ~ Hanna Lachnitt. #ITP #IsabelleHOL #SMT #cvc5
 + [[https://cacm.acm.org/research/formal-verification-of-a-realistic-compiler/][Formal verification of a realistic compiler]]. ~ Xavier Leroy (2009). #FormalVerification #ITP #Coq
