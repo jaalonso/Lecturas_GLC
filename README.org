@@ -59,6 +59,13 @@ its content.
 
 ** Marzo 2024
 
+*** 18-Mar-24
++ [[https://terrytao.files.wordpress.com/2024/03/machine-jan-3.pdf][Machine assisted proofs [Slides]]]. ~ Terence Tao (@tao@mathstodon.xyz). #ITP #ProofAssistants #Coq #IsabelleHOL #HOL_Light #LeanProver #MachineLearning #LLMs #Math
++ [[https://terrytao.files.wordpress.com/2024/03/machine-assisted-proof-notices.pdf][Machine assisted proofs]]. ~ Terence Tao (@tao@mathstodon.xyz). #ITP #ProofAssistants #Coq #IsabelleHOL #HOL_Light #LeanProver #MachineLearning #LLMs #Math
++ [[https://arxiv.org/abs/2403.10334][A conjecture for ATP research]]. ~ Wolfgang Bibel. #ATP
++ [[https://gist.github.com/kbridge/00f2e155acdc8d50270aa322caa26be3][Understanding the phases applicative]]. ~  #Haskell #FunctionalProgramming
++ [[https://e-aprendizaje.es/2024/03/17/la-ia-en-educacion-el-nuevo-aceite-de-serpiente/][La IA (en Educación), ¿el nuevo Aceite de Serpiente?]] ~ David Álvarez (@balhisay). #AI #Educación
+
 *** 17-Mar-24
 + [[https://arxiv.org/abs/2403.07948][A study on actions for atomic logics]]. ~ Raül Espejo-Boix. #ITP #Coq #Logic
 + [[https://arxiv.org/abs/2403.08173][A bargain for mergesorts (functional pearl) -- How to prove your mergesort correct and stable, almost for free]]. ~ Cyril Cohen, Kazuhiko Sakaguchi. #ITP #Coq
