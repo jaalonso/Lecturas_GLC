@@ -59,6 +59,15 @@ its content.
 
 ** Marzo 2024
 
+*** 21-Mar-24
++ [[https://arxiv.org/abs/2403.12627][Enhancing formal theorem proving: A comprehensive dataset for training AI models on Coq code]]. ~ Andreas Florath. #ITP #Coq #AI #LLMs
++ [[https://arxiv.org/abs/2403.13088][The functor of points approach to schemes in Cubical Agda]]. ~ Max Zeuner, Matthias Hutzler. #ITP #Agda
++ [[https://www.stackbuilders.com/blog/gui-application/][Creating a GUI application in Haskell]]. ~ Mark Karpov, Jorge Galarza. #Haskell #FunctionalProgramming
++ [[https://www.youtube.com/live/C-GahictORU][The Haskell Unfolder Episode 21¡2: foldr-build fusion]]. ~ Edsko de Vries (@EdskoDeVries), Andres Löh (@kosmikus@functional.cafe). #Haskell #FunctionalProgramming
++ [[https://www.google.es/books/edition/Introduction_to_Computation/IyFaEAAAQBAJ?gbpv=1][Introduction to computation: Haskell, logic and automata]]. ~ D. Sannella. M Fourman, H. Peng and P. Wadler. #Haskell #FunctionalProgramming #Logic #Math #CompSci
++ [[https://arxiv.org/abs/2310.08559][Phenomenal yet puzzling: Testing inductive reasoning capabilities of language models with hypothesis refinement]]. ~ Linlu Qiu et als. #AI #LLMs #Reasoning
++ [[https://cacm.acm.org/opinion/generative-ai-and-cs-education/][Generative AI and CS education (Increased knowledge sharing is helping CS educators and researchers accelerate change in computing education)]]. ~ Maggie Johnson. #AI #Education
+
 *** 20-Mar-24
 + [[https://arxiv.org/abs/2403.13310][A semantic search engine for Mathlib4]]. ~ Guoxiong Gao et als. #ITP #LeanProver #Mathlib
 + [[https://arxiv.org/abs/2403.13700][Taming differentiable logics with Coq formalisation]]. ~ Reynald Affeldt et als. #ITP #Coq
