@@ -59,6 +59,11 @@ its content.
 
 ** Marzo 2024
 
+*** 22-Mar-24
++ [[https://arxiv.org/abs/2403.11437v1][Formalization of complexity analysis of the first-order optimization algorithms]]. ~ Chenyi Li et als. #ITP #LeanProver #Lean4 #Math
++ [[https://arxiv.org/abs/2403.12733][Small scale reflection for the working Lean user]]. ~ Vladimir Gladshtein, George Pîrlea, Ilya Sergey. #ITP #LeanProver #Lean4
++ [[https://arxiv.org/abs/2403.11919][A Coq mechanization of JavaScript regular expression semantics]]. ~ Noé De Santo, Aurèle Barrière, Clément Pit-Claudel. #ITP #Coq
+
 *** 21-Mar-24
 + [[https://arxiv.org/abs/2403.12627][Enhancing formal theorem proving: A comprehensive dataset for training AI models on Coq code]]. ~ Andreas Florath. #ITP #Coq #AI #LLMs
 + [[https://arxiv.org/abs/2403.13088][The functor of points approach to schemes in Cubical Agda]]. ~ Max Zeuner, Matthias Hutzler. #ITP #Agda
