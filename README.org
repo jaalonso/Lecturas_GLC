@@ -59,6 +59,14 @@ its content.
 
 ** Marzo 2024
 
+*** 23-Mar-24
++ [[https://arxiv.org/abs/2403.14064][Lean4Lean: Towards a formalized metatheory for the Lean theorem prover]]. ~ Mario Carneiro. #ITP #LeanProver #Lean4
++ [[https://arxiv.org/abs/2403.13312][LeanReasoner: Boosting complex logical reasoning with Lean]]. ~ Dongwei Jiang, Marcio Fonseca, Shay B. Cohen. #ITP #LeanProver #LLMs
++ [[https://arxiv.org/abs/2403.13310][A semantic search engine for Mathlib4]]. ~ Guoxiong Gao et als. #ITP #LeanProver #LLMs
++ [[https://www.isa-afp.org/entries/Approximate_Model_Counting.html][Approximate model counting (in Isabelle/HOL)]]. ~ Yong Kiam Tan, Jiong Yang. #ITP #IsabelleHOL
++ [[https://arxiv.org/abs/2403.14576][Fully evaluated left-sequential logics]]. ~ Alban Ponse, Daan J.C. Staudt. #ATP #Prover0 #Mace4 #Logic
++ [[https://bartoszmilewski.com/2024/03/22/neural-networks-pre-lenses-and-triple-tambara-modules][Neural networks, pre-lenses, and triple Tambara modules]]. ~ Bartosz Milewski (@BartoszMilewski@mathstodon.xyz) #Haskell #FunctionalProgramming #AI #MachineLearning #DeepLearning #NeuralNetwork
+
 *** 22-Mar-24
 + [[https://arxiv.org/abs/2403.11437v1][Formalization of complexity analysis of the first-order optimization algorithms]]. ~ Chenyi Li et als. #ITP #LeanProver #Lean4 #Math
 + [[https://arxiv.org/abs/2403.12733][Small scale reflection for the working Lean user]]. ~ Vladimir Gladshtein, George Pîrlea, Ilya Sergey. #ITP #LeanProver #Lean4
