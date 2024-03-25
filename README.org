@@ -59,6 +59,13 @@ its content.
 
 ** Marzo 2024
 
+*** 24-Mar-24
++ [[https://lean-lang.org/blog/2024-3-21-quasiquotation-with-binders-a-lean-metaprogramming-exampl][Quasiquotation with binders: A Lean metaprogramming example]]. ~ David Thrane Christiansen (@d_christiansen@mathstodon.xyz).e#ITP #LeanProver #Lean4 #FunctionalProgramming
++ [[https://www.researchgate.net/profile/Federico-Rossi-12/publication/379019477_Towards_formal_verification_of_neural_networks_in_cyber-physical_systems/links/65f95465a8baf573a1c1d2bf/Towards-formal-verification-of-neural-networks-in-cyber-physical-systems.pdf][Towards formal verification of neural networks in cyber-physical systems]]. ~ Federico Rossi et als. #ITP #PVS #NeuralNetwork
++ [[https://www.philipzucker.com/knuckledrag2/][Knuckledragger update: ATP for python interactive theorem proving]]. ~ Philip Zucker (@sandmouth@types.pl). #ITP #Python
++ [[https://youtu.be/3mrs8rEzSpk][Teaching computing, logic, human communication, and problem solving through Prolog]]. ~ Bob Kowalski. #Prolog #LogicProgramming #CompSci
++ [[https://warepam.medium.com/who-is-an-ai-engineer-525e7525f2d0][Who is an AI engineer? (AI engineering: The emergence of a new “on-demand” job role)]]. ~ Richard Warepam. #AI
+
 *** 23-Mar-24
 + [[https://arxiv.org/abs/2403.14064][Lean4Lean: Towards a formalized metatheory for the Lean theorem prover]]. ~ Mario Carneiro. #ITP #LeanProver #Lean4
 + [[https://arxiv.org/abs/2403.13312][LeanReasoner: Boosting complex logical reasoning with Lean]]. ~ Dongwei Jiang, Marcio Fonseca, Shay B. Cohen. #ITP #LeanProver #LLMs
