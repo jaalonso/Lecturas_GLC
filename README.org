@@ -59,6 +59,13 @@ its content.
 
 ** Marzo 2024
 
+*** 25-Mar-24
++ [[https://www.philipzucker.com/finiteset][Finite set theory in Python]]. ~ Philip Zucker (@sandmouth@types.pl). #Python #SetTheory
++ [[https://www.isa-afp.org/entries/Continued_Fractions.html][Continued fractions (in Isabelle/HOL)]]. ~ Manuel Eberl (@pruvisto@graz.social). #ITP #IsabelleHOL #Math
++ [[https://arxiv.org/abs/2403.16269][Applied category theory in the Wolfram Language using Categorica I: diagrams, functors and fibrations]]. ~ Jonathan Gorard. #CategoryTheory #Mathematica
++ [[https://arxiv.org/abs/2310.04870][Lemur: Integrating Large Language Models in automated program verification]]. ~ Haoze Wu, Clark Barrett, Nina Narodytska. #FormalVerification #LLMs
++ [[https://arxiv.org/abs/2305.17196][A knowledge engineering primer]]. ~ Agnieszka Ławrynowicz. #AI #KRR
+
 *** 24-Mar-24
 + [[https://lean-lang.org/blog/2024-3-21-quasiquotation-with-binders-a-lean-metaprogramming-exampl][Quasiquotation with binders: A Lean metaprogramming example]]. ~ David Thrane Christiansen (@d_christiansen@mathstodon.xyz).e#ITP #LeanProver #Lean4 #FunctionalProgramming
 + [[https://www.researchgate.net/profile/Federico-Rossi-12/publication/379019477_Towards_formal_verification_of_neural_networks_in_cyber-physical_systems/links/65f95465a8baf573a1c1d2bf/Towards-formal-verification-of-neural-networks-in-cyber-physical-systems.pdf][Towards formal verification of neural networks in cyber-physical systems]]. ~ Federico Rossi et als. #ITP #PVS #NeuralNetwork
