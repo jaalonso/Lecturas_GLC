@@ -59,6 +59,11 @@ its content.
 
 ** Marzo 2024
 
+*** 26-Mar-24
++ [[https://isarmathlib.org/index.html][IsarMathLib (Proofs by humans, for humans, formally verified by Isabelle/ZF proof assistant)]]. ~ Slawomir Kolodynski. #ITP #IsabelleZF #Math
++ [[https://slawekk.wordpress.com/2024/03/25/isarmathlib-1-29-0-modules-and-vector-spaces/][IsarMathLib 1.29.0: Modules and vector spaces]]. ~ Slawomir Kolodynski. #ITP #IsabelleZF #Math
++ [[https://realpython.com/practical-prompt-engineering][Prompt engineering: A practical example]]. ~ Martin Breuss. #LLMs #ChatGPT #Python #Programming
+
 *** 25-Mar-24
 + [[https://www.philipzucker.com/finiteset][Finite set theory in Python]]. ~ Philip Zucker (@sandmouth@types.pl). #Python #SetTheory
 + [[https://www.isa-afp.org/entries/Continued_Fractions.html][Continued fractions (in Isabelle/HOL)]]. ~ Manuel Eberl (@pruvisto@graz.social). #ITP #IsabelleHOL #Math
