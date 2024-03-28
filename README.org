@@ -59,6 +59,11 @@ its content.
 
 ** Marzo 2024
 
+*** 27-Mar-24
++ [[https://arxiv.org/abs/2403.17370][Formal verification of the empty hexagon number]]. ~ Bernardo Subercaseaux, Wojciech Nawrocki, James Gallicchio, Cayden Codel, Mario Carneiro, Marijn J. H. Heule. #ITP #LeanProver #Math
++ [[https://www.johndcook.com/blog/2024/03/26/hallucinations-of-ai-science-models/][Hallucinations of AI science models]]. ~ Wayne Joubert. #AI #MachineLearning #DeepLearning #Math
++ [[https://misha.brukman.net/blog/2022/04/writing-math-with-hugo/][Writing math with Hugo]]. #Blog #Hugo #Math
+
 *** 26-Mar-24
 + [[https://isarmathlib.org/index.html][IsarMathLib (Proofs by humans, for humans, formally verified by Isabelle/ZF proof assistant)]]. ~ Slawomir Kolodynski. #ITP #IsabelleZF #Math
 + [[https://slawekk.wordpress.com/2024/03/25/isarmathlib-1-29-0-modules-and-vector-spaces/][IsarMathLib 1.29.0: Modules and vector spaces]]. ~ Slawomir Kolodynski. #ITP #IsabelleZF #Math
