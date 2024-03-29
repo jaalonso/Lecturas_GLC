@@ -59,6 +59,13 @@ its content.
 
 ** Marzo 2024
 
+*** 28-Mar-24
++ [[https://arxiv.org/abs/2403.18229][A comprehensive overview of the Lebesgue differentiation theorem in Coq]]. ~ Reynald Affeldt, Zachary Stone. #ITP #Coq #Math
++ [[https://www.popularmechanics.com/science/math/a60280173/machines-are-on-the-verge-of-tackling-fermats-last-theorema-proof-that-once-defied-them/][Machines are on the verge of tackling Fermat’s last theorem—a proof that once defied them]]. ~ Caroline Delbert. #ITP #LeanProver #Math
++ [[https://arxiv.org/abs/2403.15185][Investigating the performance of language models for completing code in functional programming languages: a Haskell case study]]. ~ Tim van Dam et als. #LLMs #Haskell #FunctionalProgramming
++ [[https://research.chalmers.se/publication/540080/file/540080_Fulltext.pdf][Functional programming for securing cloud and embedded environments]]. ~ Abhiroop Sarkar. #Haskell #FunctionalProgramming
++ [[https://cacm.acm.org/practice/the-curse-of-the-excluded-middle][The curse of the excluded middle ("Mostly functional" programming does not work)]]. ~ Erik Meijer (@headinthebox@twtr.plus). #FunctionalProgramming #Haskell
+
 *** 27-Mar-24
 + [[https://arxiv.org/abs/2403.17370][Formal verification of the empty hexagon number]]. ~ Bernardo Subercaseaux, Wojciech Nawrocki, James Gallicchio, Cayden Codel, Mario Carneiro, Marijn J. H. Heule. #ITP #LeanProver #Math
 + [[https://www.johndcook.com/blog/2024/03/26/hallucinations-of-ai-science-models/][Hallucinations of AI science models]]. ~ Wayne Joubert. #AI #MachineLearning #DeepLearning #Math
