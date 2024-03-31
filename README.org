@@ -59,6 +59,14 @@ its content.
 
 ** Marzo 2024
 
+*** 30-Mar-24
++ [[https://www.isa-afp.org/entries/Kummer_Congruence.html][Kummer's congruence (in Isabelle/HOL)]]. ~ Manuel Eberl (@pruvisto@graz.social). #ITP #IsabelleHOL
++ [[https://www.isa-afp.org/entries/Doob_Convergence.html][Doob's upcrossing inequality and martingale convergence theorem (in Isabelle/HOL)]]. ~ Ata Keskin. #ITP #IsabelleHOL #Math
++ [[https://www.isa-afp.org/entries/CondNormReasHOL.html][Conditional normative reasoning as a fragment of HOL (Isabelle/HOL dataset)]]. ~ Xavier Parent, Christoph Benzmüller. #ITP #IsabelleHOL
++ [[https://www.philipzucker.com/linear-algebra-of-types/][Linear algebra of types]]. ~ Philip Zucker (@sandmouth@types.pl). #TypeTheory #Haskell #FunctionalProgramming
++ [[https://www.tandfonline.com/doi/pdf/10.1080/10705511.2024.2325122][Using SymPy (Symbolic Python) for understanding structural equation modeling]]. ~ Joel S. Steele, Kevin J. Grimm. #Python #Math
++ [[https://monografo.blog/2024/03/29/guia-de-ingenieria-de-prompts/][Guía de ingeniería de prompts]]. ~ Eduardo González (@EduardoGonRob). #GPT
+
 *** 29-Mar-24
 + [[https://arxiv.org/abs/2403.19639][Linear programming in Isabelle/HOL]]. ~ Julian Parsert. #ITP #IsabelleHOL #Math
 + [[https://arxiv.org/abs/2108.03018][Conditional separation as a binary relation (A Coq assisted proof)]]. ~ Jean-Philippe Chancelier, Michel de Lara, Benjamin Heymann. #ITP #Coq
