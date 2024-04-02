@@ -11,6 +11,7 @@ its content.
 
 * Content                                                                      :TOC:
 - [[#lecturas-del-año-2024][Lecturas del año 2024]]
+  - [[#abril-2024][Abril 2024]]
   - [[#marzo-2024][Marzo 2024]]
   - [[#febrero-2024][Febrero 2024]]
   - [[#enero-2024][Enero 2024]]
@@ -56,6 +57,20 @@ its content.
 - [[#lecturas-anteriores][Lecturas anteriores]]
 
 * Lecturas del año 2024
+
+** Abril 2024
+
+*** 01-Abr-24
++ [[https://www.ams.org/journals/bull/0000-000-00/S0273-0979-2024-01827-8/S0273-0979-2024-01827-8.pdf Math][How machines can make mathematics more congressive]]. ~ Eugenia Cheng. #CompSci
++ [[https://www.ams.org/journals/bull/0000-000-00/S0273-0979-2024-01834-5/S0273-0979-2024-01834-5.pdf][Some thoughts on automation and mathematical research]]. ~ Akshay Venkatesh. #Math #CompSci
++ [[https://www.ams.org/journals/bull/0000-000-00/S0273-0979-2024-01828-X/S0273-0979-2024-01828-X.pdf][Mathematics, word problems, common sense, and artificial intelligence]]. ~ Ernest Davis. #Math #AI #LLMs #GPT
++ [[https://www.ams.org/journals/bull/0000-000-00/S0273-0979-2024-01831-X/S0273-0979-2024-01831-X.pdf][Abstraction boundaries and spec driven development in pure mathematics]]. ~ Johan Commelin, Adam Topaz. #Math #ITP #LeanProver
++ [[https://www.ams.org/journals/bull/0000-000-00/S0273-0979-2024-01830-8/S0273-0979-2024-01830-8.pdf][Strange new universes: Proof assistants and synthetic foundations]]. ~ Michael Shulman. #Math #ITP #LLMs
++ [[https://www.ams.org/journals/bull/0000-000-00/S0273-0979-2024-01833-3/S0273-0979-2024-01833-3.pdf][Mathematical reasoning and the computer]]. ~ Kevin Buzzard. #Math #AI #NeuralNetwork #LLMs #ITP #LeanProver
++ [[https://www.ams.org/journals/bull/0000-000-00/S0273-0979-2024-01825-4/S0273-0979-2024-01825-4.pdf][Automation compels mathematicians to reflect on our values]]. ~ Michael Harris. #Math #AI
++ [[https://www.ams.org/journals/bull/0000-000-00/S0273-0979-2024-01829-1/S0273-0979-2024-01829-1.pdf][Is deep learning a useful tool for the pure mathematician?]] ~ Geordie Williamson. #Math #AI #DeepLearning
++ [[https://www.ams.org/journals/bull/0000-000-00/S0273-0979-2024-01832-1/S0273-0979-2024-01832-1.pdf][Mathematics and the formal turn]]. ~ Jeremy Avigad. #Math #AI #ITP #MachineLearning
++ [[https://www.ams.org/journals/bull/0000-000-00/S0273-0979-2024-01826-6/S0273-0979-2024-01826-6.pdf][Proof in the time of machines]]. ~ Andrew Granville. #Math #ITP
 
 ** Marzo 2024
 
