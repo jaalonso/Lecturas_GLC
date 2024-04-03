@@ -60,6 +60,10 @@ its content.
 
 ** Abril 2024
 
+*** 02-Abr-24
++ [[https://www.philipzucker.com/resolution1/][Resolution proving I]]. ~ Philip Zucker (@sandmouth@types.pl). #Logic #ATP #Python
++ [[https://enpc.hal.science/hal-03315809/][Conditional separation as a binary relation]]. A Coq assisted proof. ~ Jean-Philippe Chancelier, Michel de Lara , Benjamin Heymann. #ITP #Coq
+
 *** 01-Abr-24
 + [[https://www.ams.org/journals/bull/0000-000-00/S0273-0979-2024-01827-8/S0273-0979-2024-01827-8.pdf Math][How machines can make mathematics more congressive]]. ~ Eugenia Cheng. #CompSci
 + [[https://www.ams.org/journals/bull/0000-000-00/S0273-0979-2024-01834-5/S0273-0979-2024-01834-5.pdf][Some thoughts on automation and mathematical research]]. ~ Akshay Venkatesh. #Math #CompSci
