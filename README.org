@@ -60,6 +60,15 @@ its content.
 
 ** Abril 2024
 
+*** 03-Abr-24
++ [[https://www.isa-afp.org/entries/Broadcast_Psi.html][Broadcast Psi-calculi (in Isabelle/HOL)]]. ~ Palle Raabjerg, Johannes Åman Pohjola, Tjark Weber. #ITP #IsabelleHOL
++ [[https://arxiv.org/abs/2403.12627][Enhancing formal theorem proving: A comprehensive dataset for training AI models on Coq code]]. ~ Andreas Florath. #ITP #Coq #LLMs
++ [[https://arxiv.org/abs/2303.17513][Improving the Diproche CNL through autoformalization via Large Language Models]]. ~ Merlin Carl. #ITP #Diproche #LLMs
++ [[https://arxiv.org/abs/2404.01761][A formal proof of R(4,5)=25]]. ~ Thibault Gauthier, Chad E. Brown. #ITP #HOL4 #Math
++ [[https://arxiv.org/abs/2304.06186][Using large language models for (de-)formalization and natural argumentation exercises for beginner's students]]. ~ Merlin Carl. #LLMs #Autoformalization #Logic
++ [[https://terrytao.wordpress.com/2024/04/02/ai-mathematical-olympiad-progress-prize-competition-now-open/][AI Mathematical Olympiad – Progress Prize Competition now open]]. ~ Terence Tao (@tao@mathstodon.xyz). #AI #Math
++ [[https://youtu.be/tHh9zjNazz4][Generative logic, teaching Prolog in art & design]]. ~ Christian Jendreiko. #Prolog #LogicProgramming
+
 *** 02-Abr-24
 + [[https://www.philipzucker.com/resolution1/][Resolution proving I]]. ~ Philip Zucker (@sandmouth@types.pl). #Logic #ATP #Python
 + [[https://enpc.hal.science/hal-03315809/][Conditional separation as a binary relation]]. A Coq assisted proof. ~ Jean-Philippe Chancelier, Michel de Lara , Benjamin Heymann. #ITP #Coq
