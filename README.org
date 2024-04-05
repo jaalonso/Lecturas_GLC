@@ -60,6 +60,12 @@ its content.
 
 ** Abril 2024
 
+*** 04-Abr-24
++ [[http://www.mat.unb.br/~ayala/CompactnessAndApplications.pdf][Combinatorial applications of the compactness theorem]]. ~ Fabián Fernando Serrano Suárez, Mauricio Ayala-Rincón, Thaynara Arielly de Lima. #ITP #IsabelleHOL
++ [[http://www.mat.unb.br/~ayala/Certified_AC_Unification_Algorithm.pdf][Certified first-order AC-unification and applications]]. ~ Mauricio Ayala-Rincón et als. #ITP #PVS
++ [[https://people.cs.aau.dk/~andsch/SAC2024.pdf][Isabelle-verified correctness of Datalog programs for program analysis]]. ~ Anders Schlichtkrull, René Rydhof Hansen, Flemming Nielson. #ITP #IsabelleHOL
++ [[https://github.com/haruhisa-enomoto/mathlib4-all-tactics/blob/main/all-tactics.md][All tactics in mathlib4]]. ~ Haruhisa Enomoto. #ITP #LeanProver #Mathlib
+
 *** 03-Abr-24
 + [[https://www.isa-afp.org/entries/Broadcast_Psi.html][Broadcast Psi-calculi (in Isabelle/HOL)]]. ~ Palle Raabjerg, Johannes Åman Pohjola, Tjark Weber. #ITP #IsabelleHOL
 + [[https://arxiv.org/abs/2403.12627][Enhancing formal theorem proving: A comprehensive dataset for training AI models on Coq code]]. ~ Andreas Florath. #ITP #Coq #LLMs
