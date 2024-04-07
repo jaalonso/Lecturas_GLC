@@ -60,6 +60,10 @@ its content.
 
 ** Abril 2024
 
+*** 06-Abr-24
++ [[https://staff.aist.go.jp/reynald.affeldt/documents/cs2024_preprint.pdf][The Radon-Nikodým theorem and the Lebesgue-Stieltjes measure in Coq]]. ~ Yoshihiro Ishiguro, Reynald Affeldt. #ITP #Coq #Math
++ [[https://arxiv.org/abs/2404.01234][GFLean: An autoformalisation framework for Lean via GF]]. ~ Shashank Pathak. #Lean #Autoformalization #FunctionalProgramming #Haskell
+
 *** 05-Abr-24
 + [[https://taylor.fausak.me/2024/03/31/alias-current-module/][Alias the current module with Imp]]. ~ Taylor Fausak. #Haskell #FunctionalProgramming
 + [[https://oleg.fi/gists/posts/2024-04-01-implicit-arguments.html][Implicit arguments]]. ~ Oleg Grenrus. #Haskell #FunctionalProgramming
