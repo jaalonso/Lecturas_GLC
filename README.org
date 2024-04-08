@@ -60,6 +60,11 @@ its content.
 
 ** Abril 2024
 
+*** 07-Abr-24
++ [[https://link.springer.com/chapter/10.1007/978-3-031-57249-4_11][A comprehensive specification and verification of the L4 microkernel API]]. ~ Leping Zhang, Yongwang Zhao, Jianxin Li. #ITP #IsabelleHOL
++ [[https://arxiv.org/abs/2404.03614v1][Towards trustworthy automated program verifiers: Formally validating translations into an intermediate verification language]]. ~ Gaurav Parthasarathy et als. #ITP #IsabelleHOL
++ [[https://link.springer.com/chapter/10.1007/978-3-031-57262-3_4][Program synthesis from graded types]]. ~ Jack Hughes, Dominic Orchard. #Haskell #FunctionalProgramming
+
 *** 06-Abr-24
 + [[https://staff.aist.go.jp/reynald.affeldt/documents/cs2024_preprint.pdf][The Radon-Nikodým theorem and the Lebesgue-Stieltjes measure in Coq]]. ~ Yoshihiro Ishiguro, Reynald Affeldt. #ITP #Coq #Math
 + [[https://arxiv.org/abs/2404.01234][GFLean: An autoformalisation framework for Lean via GF]]. ~ Shashank Pathak. #Lean #Autoformalization #FunctionalProgramming #Haskell
