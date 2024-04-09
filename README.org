@@ -60,6 +60,9 @@ its content.
 
 ** Abril 2024
 
+*** 08-Abr-24
++ [[https://link.springer.com/chapter/10.1007/978-3-031-57259-3_1][From mechanized semantics to verified compilation: the Clight semantics of CompCert]]. ~ Sandrine Blazy. #ITP #Coq
+
 *** 07-Abr-24
 + [[https://link.springer.com/chapter/10.1007/978-3-031-57249-4_11][A comprehensive specification and verification of the L4 microkernel API]]. ~ Leping Zhang, Yongwang Zhao, Jianxin Li. #ITP #IsabelleHOL
 + [[https://arxiv.org/abs/2404.03614v1][Towards trustworthy automated program verifiers: Formally validating translations into an intermediate verification language]]. ~ Gaurav Parthasarathy et als. #ITP #IsabelleHOL
