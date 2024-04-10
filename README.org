@@ -60,6 +60,17 @@ its content.
 
 ** Abril 2024
 
+*** 09-Abr-24
++ [[https://arxiv.org/abs/2404.05458][Teaching higher-order logic using Isabelle]]. ~ Simon Tobias Lund, Jørgen Villadsen. #ITP #IsabelleHOL #Logic
++ [[https://arxiv.org/abs/2404.05462][Interactive formal specification for mathematical problems of engineers]]. ~ Walther Neuper. #ITP #IsabelleHOL
++ [[https://www.isa-afp.org/entries/Uncertainty_Principle.html][Uncertainty principle (in Isabelle/HOL)]]. ~ Alexander Treml. #ITP #IsabelleHOL
++ [[https://aws.amazon.com/es/blogs/opensource/lean-into-verified-software-development/][Lean into verified software development]]. ~ Kesha Hietala, Emina Torlak. #ITP #LeanProver
++ [[https://arxiv.org/abs/2404.05459][A Coq library of sets for teaching denotational semantics]]. ~ Qinxiang Cao, Xiwei Wu, Yalun Liang. #ITP #Coq
++ [[https://arxiv.org/abs/2403.14606][The elements of differentiable programming]]. ~ Mathieu Blondel, Vincent Roulet. #Math #CompSci
++ [[https://arxiv.org/abs/2404.05213][Evaluation of an LLM in identifying logical fallacies: A call for rigor when adopting LLMs in HCI research]]. ~ Gionnieve Lim, Simon T. Perrault. #LLMs #Reasoning #Logic
++ [[https://arxiv.org/abs/2404.04293][Reason from fallacy: Enhancing large language models' logical reasoning through logical fallacy understanding]]. ~ Yanda Li et als. #LLMs #Reasoning #Logic
++ [[https://tusharhero.codeberg.page/creating_a_blog.html][Creating a blog]]. #Emacs #OrgMode #Blog
+
 *** 08-Abr-24
 + [[https://link.springer.com/chapter/10.1007/978-3-031-57259-3_1][From mechanized semantics to verified compilation: the Clight semantics of CompCert]]. ~ Sandrine Blazy. #ITP #Coq
 
