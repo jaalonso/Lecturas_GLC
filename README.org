@@ -60,6 +60,9 @@ its content.
 
 ** Abril 2024
 
+*** 10-Abr-24
++ [[https://arxiv.org/abs/2404.06477][Mechanised hypersafety proofs about structured data: extended version]]. ~ Vladimir Gladshtein, Qiyuan Zhao, Willow Ahrens, Saman Amarasinghe, Ilya Sergey. #ITP #Coq
+
 *** 09-Abr-24
 + [[https://arxiv.org/abs/2404.05458][Teaching higher-order logic using Isabelle]]. ~ Simon Tobias Lund, Jørgen Villadsen. #ITP #IsabelleHOL #Logic
 + [[https://arxiv.org/abs/2404.05462][Interactive formal specification for mathematical problems of engineers]]. ~ Walther Neuper. #ITP #IsabelleHOL
