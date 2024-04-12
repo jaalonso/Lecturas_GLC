@@ -60,6 +60,9 @@ its content.
 
 ** Abril 2024
 
+*** 11-Abr-24
++ [[https://youtu.be/5Ml7AcaY8DE][The mathematics of Prolog]]. ~ David S Warren. #Prolog #LogicProgramming #Math
+
 *** 10-Abr-24
 + [[https://arxiv.org/abs/2404.06477][Mechanised hypersafety proofs about structured data: extended version]]. ~ Vladimir Gladshtein, Qiyuan Zhao, Willow Ahrens, Saman Amarasinghe, Ilya Sergey. #ITP #Coq
 
