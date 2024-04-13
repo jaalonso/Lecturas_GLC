@@ -60,6 +60,16 @@ its content.
 
 ** Abril 2024
 
+*** 12-Abr-24
++ [[https://arxiv.org/abs/2404.06405][Wu's method can boost symbolic AI to rival silver medalists and AlphaGeometry to outperform gold medalists at IMO geometry]]. ~ Shiven Sinha et als. #AI #ATP #IMO #Math
++ [[https://charlesaverill.github.io/ctpe/][Coq tactics in plain english]]. ~ Charles Averill. #ITP #Coq
++ [[https://charlesaverill.github.io/teaching/fpv_cyberfest23.pdf][Formal program verification (Rigorous proof of program correctness and security)]]. ~ Charles Averill. #ITP #Coq
++ [[https://www.unwoundstack.com/blog/ob-coq.html][Ann: ob-coq (A package for Coq developments in Org Mode)]]. ~ Michael Herstine (@unwoundstack). #ITP #Coq #Emacs #OrgMode
++ [[https://youtu.be/oG4qVQpCeDQ][Dyadic Decomposition using Functional lenses]]. ~ Eduardo Lemos. #Haskell #FunctionalProgramming
++ [[https://abhinavsarkar.net/posts/compiling-aoc23-aplenty/][Solving Advent of Code ’23 “Aplenty” by Compiling]]. ~ Abhinav Sarkar (@abnv@fantastic.earth). #Haskell #FunctionalProgramming
++ [[https://tspace.library.utoronto.ca/bitstream/1807/138077/1/Wu_Yuhuai_202403_PhD_thesis.pdf][Neural networks for mathematical reasoning: Evaluations, capabilities, and techniques]]. ~ Yuhuai Tony Wu. #NeuralNetwork #Reasoning #Math
++ [[https://www.semanticscholar.org/api-gallery/epsilon][Epsilon: Scientific research at your fingertips (Epsilon uses AI to answer research questions with academic literature)]]. #AI
+
 *** 11-Abr-24
 + [[https://youtu.be/5Ml7AcaY8DE][The mathematics of Prolog]]. ~ David S Warren. #Prolog #LogicProgramming #Math
 
