@@ -60,6 +60,11 @@ its content.
 
 ** Abril 2024
 
+*** 13-Abr-24
++ [[https://essay.utwente.nl/98665/1/Veen_van_der_MA_EEMCS.pdf][A formal proof for the correctness of tangle learning]]. ~ Suzanne Ellen van der Veen. #ITP #IsabelleHOL
++ [[https://www.cambridge.org/core/journals/journal-of-functional-programming/article/knuthmorrispratt-illustrated/8EFA77D663D585B68630E372BCE1EBA4][Knuth–Morris–Pratt illustrated]]. ~ Cameron Moy. #FunctionalProgramming #Haskell
++ [[https://www.cambridge.org/core/journals/journal-of-functional-programming/article/asymptotic-speedup-via-effect-handlers/296879DE2FD96FB6CF388F27978C76E4][Asymptotic speedup via effect handlers]]. ~ Daniel Hillerström, Sam Lindley, John Longley. #FunctionalProgramming
+
 *** 12-Abr-24
 + [[https://arxiv.org/abs/2404.06405][Wu's method can boost symbolic AI to rival silver medalists and AlphaGeometry to outperform gold medalists at IMO geometry]]. ~ Shiven Sinha et als. #AI #ATP #IMO #Math
 + [[https://charlesaverill.github.io/ctpe/][Coq tactics in plain english]]. ~ Charles Averill. #ITP #Coq
