@@ -60,6 +60,10 @@ its content.
 
 ** Abril 2024
 
+*** 14-Abr-24
++ [[https://www.tcs.ifi.lmu.de/lehre/ss-2024/itp_de.html][Course: Interactive theorem proving]]. ~ Jasmin Blanchette et als. #ITP #Lean4
++ [[https://seasawher.github.io/mathlib4-tactics/][Mathlib4 tactics]]. ~ Kitamado. #ITP #Lean4 #Mathlib
+
 *** 13-Abr-24
 + [[https://essay.utwente.nl/98665/1/Veen_van_der_MA_EEMCS.pdf][A formal proof for the correctness of tangle learning]]. ~ Suzanne Ellen van der Veen. #ITP #IsabelleHOL
 + [[https://www.cambridge.org/core/journals/journal-of-functional-programming/article/knuthmorrispratt-illustrated/8EFA77D663D585B68630E372BCE1EBA4][Knuth–Morris–Pratt illustrated]]. ~ Cameron Moy. #FunctionalProgramming #Haskell
