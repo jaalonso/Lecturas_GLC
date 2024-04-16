@@ -60,6 +60,21 @@ its content.
 
 ** Abril 2024
 
+*** 15-Abr-24
++ [[https://link.springer.com/content/pdf/10.1007/978-3-031-42753-4.pd][Large-scale formal proof for the working mathematician (lessons learnt from the ALEXANDRIA project)]]. ~ Lawrence C. Paulson.f#page=17 #ITP #IsabelleHOL #Math
++ [[https://link.springer.com/content/pdf/10.1007/978-3-031-42753-4.pd][Evasiveness through Binary Decision Diagrams]]. ~ Jesús Aransay, Laureano Lambán, Julio Rubio.f#page=49 #ITP #IsabelleHOL
++ [[https://link.springer.com/content/pdf/10.1007/978-3-031-42753-4.pd][Category theory in Isabelle/HOL as a basis for meta-logical investigation]]. ~ Jonas Bayer, Alexey Gonus, Christoph Benzmüller, Dana S. Scott.f#page=81 #ITP #IsabelleHOL
++ [[https://link.springer.com/content/pdf/10.1007/978-3-031-42753-4.pd][Isabelle formalisation of original representation theorems]]. ~ Marco B. Caminati.f#page=110 #ITP #IsabelleHOL #Math
++ [[https://link.springer.com/content/pdf/10.1007/978-3-031-42753-4.pd][Formalization quality in Isabelle]]. ~ Fabian Huch, Yiannos Stathopoulos.f#page=154 #ITP #IsabelleHOL
++ [[https://link.springer.com/chapter/10.1007/978-3-031-42753-4_11][Formalizing free groups in Isabelle/HOL: The Nielsen-Schreier theorem and the conjugacy problem]]. ~ Aabid Seeyal Abdul Kharim et als. #ITP #IsabelleHOL #Math
++ [[https://link.springer.com/chapter/10.1007/978-3-031-42753-4_14][Verified correctness, accuracy, and convergence of a stationary iterative linear solver: Jacobi method]]. ~ Mohit Tekriwal et als. #ITP #Coq #Math
++ [[https://link.springer.com/chapter/10.1007/978-3-031-42753-4_15][Multiple-inheritance hazards in dependently-typed algebraic hierarchies]]. ~ Eric Wieser. #ITP #LeanProver
++ [[https://link.springer.com/content/pdf/10.1007/978-3-031-42753-4.pd][Nominal AC-matching]]. ~ Mauricio Ayala-Rincón et als.f#page=65 #ITP #PVS
++ [[https://link.springer.com/chapter/10.1007/978-3-031-42753-4_16][CoProver: A recommender system for proof construction]]. ~ Eric Yeh, Briland Hitaj, Sam Owre, Maena Quemener, Natarajan Shankar. #ITP #PVS
++ [[https://youtube.com/playlist?list=PLy5PZQDDJeY3pGUeIo2rVQJH4txKDmMZ4&si=gk9Wv3kzhbusUen4][From foundations to frontiers: Mastering Haskell programming]]. ~ Byte Sorcery. #Haskell #FunctionalProgramming
++ [[https://docs.google.com/document/d/1kD7H4E28656ua8jOGZ934nbH2HcBLyxcRgFDduH5iQ0][AI for Math resources]]. ~ Talia Ringer et als. #AI #Math
++ [[https://substack.com/inbox/post/143505428][Reimagining middle school education: The synergy of AI and Montessori principles (Next-level AI curriculum development)]]. ~ Nick Potkalitsky, Sam Bobo. #AI #Education
+
 *** 14-Abr-24
 + [[https://www.tcs.ifi.lmu.de/lehre/ss-2024/itp_de.html][Course: Interactive theorem proving]]. ~ Jasmin Blanchette et als. #ITP #Lean4
 + [[https://seasawher.github.io/mathlib4-tactics/][Mathlib4 tactics]]. ~ Kitamado. #ITP #Lean4 #Mathlib
