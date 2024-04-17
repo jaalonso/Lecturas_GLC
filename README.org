@@ -60,6 +60,15 @@ its content.
 
 ** Abril 2024
 
+*** 16-Abr-24
++ [[https://arxiv.org/abs/2404.09033][Logic in mathematics and computer science]]. ~ Richard Zach (@rrrichardzach@mathstodon.xyz). #Logic #Math #CompSci
++ [[https://link.springer.com/chapter/10.1007/978-3-031-57246-3_17][IsaRare: Automatic verification of SMT rewrites in Isabelle/HOL]]. ~ Hanna Lachnitt, Mathias Fleury, Leni Aniva, Andrew Reynolds, Haniel Barbosa, Andres Nötzli, Clark Barrett & Cesare Tinelli. #ITP #IsabelleHOL #SMT
++ [[https://math.hawaii.edu/~bjoern/Protein-ICMS.pdf][Protein folding by recursive backtracking]]. ~ Bjørn Kjos-Hanssen. #ITP #Lean4
++ [[https://samuelgruetter.net/assets/liveverif-camera-ready-2024-04-06.pdf][Live verification in an interactive proof assistant]]. ~ Samuel Gruetter, Viktor Fukala, Adam Chlipala. #ITP #Coq
++ [[https://link.springer.com/chapter/10.1007/978-3-031-57246-3_21][A state-of-the-art Karp-Miller algorithm certified in Coq]]. ~ Thibault Hilaire, David Ilcinkas & Jérôme Leroux. #ITP #Coq
++ [[https://samuelgruetter.net/assets/garagedoor-camera-ready-2024-04-06.pdf][Foundational integration verification of a cryptographic server]]. ~ Andres Erbsen, Jade Philipoom, Dustin Jamner, Ashley Lin, Samuel Gruetter, Clément Pit-Claudel & Adam Chlipala. #ITP #Coq
++ [[https://cr.yp.to/papers/latticeasymp-20240413.pdf][Asymptotics for the standard block size in primal lattice attacks: second order, formally verified]]. ~ Daniel J. Bernstein. #ITP #HOL_Light
+
 *** 15-Abr-24
 + [[https://link.springer.com/content/pdf/10.1007/978-3-031-42753-4.pd][Large-scale formal proof for the working mathematician (lessons learnt from the ALEXANDRIA project)]]. ~ Lawrence C. Paulson.f#page=17 #ITP #IsabelleHOL #Math
 + [[https://link.springer.com/content/pdf/10.1007/978-3-031-42753-4.pd][Evasiveness through Binary Decision Diagrams]]. ~ Jesús Aransay, Laureano Lambán, Julio Rubio.f#page=49 #ITP #IsabelleHOL
