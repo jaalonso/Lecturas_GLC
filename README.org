@@ -60,6 +60,12 @@ its content.
 
 ** Abril 2024
 
+*** 17-Abr-24
++ [[https://www.sciencedirect.com/science/article/pii/S1570866706000311][Exact arithmetic on the Stern–Brocot tree]]. ~ Milad Niqui (2007). #ITP #Coq #Math
++ [[https://www.youtube.com/live/ksW04Cl2dgo][The Haskell Unfolder Episode 23: specialisation]]. ~ Edsko de Vries (@EdskoDeVries), Andres Löh (@kosmikus@functional.cafe). #Haskell #FunctionalProgramming
++ [[http://jmc.stanford.edu/articles/lisp/lisp.pdf][History of Lisp]]. ~ John McCarthy (1979). #Lisp
++ [[https://the-algorithms.com][The algorithms (Open source resource for learning data structures & algorithms and their implementation in any programming language)]]. ~ @The_Algorithms. #Algorithms #Programming
+
 *** 16-Abr-24
 + [[https://arxiv.org/abs/2404.09033][Logic in mathematics and computer science]]. ~ Richard Zach (@rrrichardzach@mathstodon.xyz). #Logic #Math #CompSci
 + [[https://link.springer.com/chapter/10.1007/978-3-031-57246-3_17][IsaRare: Automatic verification of SMT rewrites in Isabelle/HOL]]. ~ Hanna Lachnitt, Mathias Fleury, Leni Aniva, Andrew Reynolds, Haniel Barbosa, Andres Nötzli, Clark Barrett & Cesare Tinelli. #ITP #IsabelleHOL #SMT
