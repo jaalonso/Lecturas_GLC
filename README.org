@@ -60,6 +60,13 @@ its content.
 
 ** Abril 2024
 
+*** 20-Abr-24
++ [[https://doi.org/10.1016/j.apal.2024.103413][The formal verification of the ctm approach to forcing]]. ~ Emmanuel Gunther et als. #ITP #Isabelle #Math
++ [[https://www.isa-afp.org/entries/MFOTL_Checker.html][A verified proof checker for metric first-order temporal logic]]. ~ Andrei Herasimau, Jonathan Julian Huerta y Munive, Leonardo Lima, Martin Raszyk, Dmitriy Traytel. #ITP #IsabelleHOL
++ [[https://llm4code.github.io/assets/pdf/papers/5.pdf][Applying large language models to enhance the assessment of parallel functional programming assignments]]. ~ Skyler Grandel, Douglas C. Schmidt, Kevin Leach. #FunctionalProgramming #LLMs #ChatGPT
++ [[https://terrytao.wordpress.com/2024/04/19/two-announcements-ai-for-math-resources-and-erdosproblems-com/][Two announcements: AI for Math resources, and erdosproblems.com]]. ~ Terence Tao (@tao@mathstodon.xyz). #AI #Math
++ [[https://hbr.org/2024/04/why-engineers-should-study-philosophy][Why engineers should study Philosophy]]. ~ Marco Argenti. #AI #Philosophy
+
 *** 19-Abr-24
 + [[https://oleg.fi/gists/posts/2024-04-12-core-inspection.html][Core inspection]]. ~ Oleg Grenrus. #Haskell #FunctionalProgramming
 + [[http://jackkelly.name/blog/archives/2024/04/13/why_streaming_is_my_favourite_haskell_streaming_library/index.html][Why streaming is my favourite Haskell streaming library]]. ~Jack Kelly. #FunctionalProgramming #Haskell
