@@ -60,6 +60,14 @@ its content.
 
 ** Abril 2024
 
+*** 21-Abr-24
++ [[https://arxiv.org/abs/2404.11638][Chain Bounding and the leanest proof of Zorn's lemma]]. ~ Guillermo L. Incatasciato, Pedro Sánchez Terraf. #ITP #Lean4 #Math
++ [[https://hal.science/hal-04546712/document][Formalization of derived categories in Lean/mathlib]]. ~ Joël Riou. #ITP #Lean4 #Math #CategoryTheory
++ [[https://link.springer.com/chapter/10.1007/978-3-031-57853-3_17][Effective parallel formal verification of reconfigurable discrete-event systems formalizing with Isabelle/HOL]]. ~ Sohaib Soualah, Mohamed Khalgui & Allaoua Chaoui. #ITP #IsabelleHOL
++ [[https://arxiv.org/abs/2404.10952][Can language models solve olympiad programming?]] ~ Quan Shi et als. #LLMs #Programming
++ [[https://hai.stanford.edu/news/ai-index-state-ai-13-charts][AI index: State of AI in 13 charts]]. ~  Shana Lynch. #AI
++ [[https://outsiderart.substack.com/p/cyc-historys-forgotten-ai-project][Cyc: history's forgotten AI project]]. ~ I. A. Fisher. #AI
+
 *** 20-Abr-24
 + [[https://doi.org/10.1016/j.apal.2024.103413][The formal verification of the ctm approach to forcing]]. ~ Emmanuel Gunther et als. #ITP #Isabelle #Math
 + [[https://www.isa-afp.org/entries/MFOTL_Checker.html][A verified proof checker for metric first-order temporal logic]]. ~ Andrei Herasimau, Jonathan Julian Huerta y Munive, Leonardo Lima, Martin Raszyk, Dmitriy Traytel. #ITP #IsabelleHOL
