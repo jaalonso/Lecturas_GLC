@@ -60,6 +60,14 @@ its content.
 
 ** Abril 2024
 
+*** 22-Abr-24
++ [[https://link.springer.com/article/10.1007/s11858-024-01577-9][Using the proof assistant Lean in undergraduate mathematics classrooms]]. ~ Brendan Larvor, Gila Hanna, Xiaoheng Yan. #ITP #Lean4 #Math
++ [[https://inria.hal.science/hal-04550762/document][Teaching divisibility and binomials with Coq]]. ~ Sylvie Boldo, François Clément, David Hamelin, Micaela Mayero, Pierre Rousselin. #ITP #Coq #Math
++ [[https://dwrensha.github.io/compfiles/][Compfiles: Catalog of math problems formalized in Lean]]. ~ David Renshaw (@david@social.wub.site) et als. #ITP #Lean4 #Math #IMO
++ [[https://lean-ja.github.io/lean99/][Lean 99: Ninety-nine Lean problems]]. ~ Kitamado. #FunctionalProgramming #Lean4
++ [[https://cs-syd.eu/posts/2024-04-20-static-linking-haskell-nix][Getting your Haskell executable statically linked with Nix]]. ~ Tom Sydney Kerckhove. #FunctionalProgramming #Haskell #Nix
++ [[https://oleg.fi/gists/posts/2024-04-21-a-note-about-coercions.html][A note about coercions]]. ~ Oleg Grenrus (@phadej). #FunctionalProgramming #ITP #Agda
+
 *** 21-Abr-24
 + [[https://arxiv.org/abs/2404.11638][Chain Bounding and the leanest proof of Zorn's lemma]]. ~ Guillermo L. Incatasciato, Pedro Sánchez Terraf. #ITP #Lean4 #Math
 + [[https://hal.science/hal-04546712/document][Formalization of derived categories in Lean/mathlib]]. ~ Joël Riou. #ITP #Lean4 #Math #CategoryTheory
