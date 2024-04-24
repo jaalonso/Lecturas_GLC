@@ -60,6 +60,12 @@ its content.
 
 ** Abril 2024
 
+*** 23-Abr-24
++ [[https://www.researchgate.net/publication/367962741_Human-machine_collaboration_in_the_teaching_of_proof][Human-machine collaboration in the teaching of proof]]. ~ Gila Hanna, Brendan Larvor, Xiaoheng Kitty Yan. #ITP #Lean4 #Math
++ [[https://liberabaci.gitlabpages.inria.fr/][LiberAbaci: Teaching mathematics with the help of Coq]]. #ITP #Coq #Math
++ [[https://adabeat.com/fp/benefits-of-functional-programming/][Benefits of functional programming]]. ~ Ada Beat. #FunctionalProgramming
++ [[https://www.math.ias.edu/avi/book][Mathematics and computation]]. ~ Avi Wigderson. #eBook #Math #CompSci
+
 *** 22-Abr-24
 + [[https://link.springer.com/article/10.1007/s11858-024-01577-9][Using the proof assistant Lean in undergraduate mathematics classrooms]]. ~ Brendan Larvor, Gila Hanna, Xiaoheng Yan. #ITP #Lean4 #Math
 + [[https://inria.hal.science/hal-04550762/document][Teaching divisibility and binomials with Coq]]. ~ Sylvie Boldo, François Clément, David Hamelin, Micaela Mayero, Pierre Rousselin. #ITP #Coq #Math
