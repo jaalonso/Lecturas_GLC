@@ -60,6 +60,12 @@ its content.
 
 ** Abril 2024
 
+*** 24-Abr-24
++ [[https://arxiv.org/abs/2404.14919][Stalnaker's epistemic logic in Isabelle/HOL]]. ~ Laura P. Gamboa Guzman, Kristin Y. Rozier. #ITP #IsabelleHOL
++ [[https://arxiv.org/abs/2404.15214][Embedding differential dynamic logic in PVS]]. ~ J. Tanner Slagel, Mariano Moscato, Lauren White, César A. Muñoz, Swee Balachandran, Aaron Dutle. #ITP #PVS
++ [[https://arxiv.org/abs/2404.14920][Formalizing factorization on euclidean domains and abstract euclidean algorithms]]. ~ Thaynara Arielly de Lima, Andréia Borges Avelar, André Luiz Galdino, Mauricio Ayala-Rincón. #ITP #PVS #Math
++ [[https://cacm.acm.org/research/computing-education-in-the-era-of-generative-ai/][Computing education in the era of generative AI]]. ~ Paul Denny et als. #AI #Education
+
 *** 23-Abr-24
 + [[https://www.researchgate.net/publication/367962741_Human-machine_collaboration_in_the_teaching_of_proof][Human-machine collaboration in the teaching of proof]]. ~ Gila Hanna, Brendan Larvor, Xiaoheng Kitty Yan. #ITP #Lean4 #Math
 + [[https://liberabaci.gitlabpages.inria.fr/][LiberAbaci: Teaching mathematics with the help of Coq]]. #ITP #Coq #Math
