@@ -60,6 +60,11 @@ its content.
 
 ** Abril 2024
 
+*** 25-Abr-24
++ [[https://www.sciencedirect.com/science/article/pii/S0097316524000438][The number of primitive words of unbounded exponent in the language of an HD0L-system is finite]]. ~ Karel Klouda, Štěpán Starosta. #ITP #IsabelleHOL
++ [[https://arxiv.org/abs/2404.14223][Error credits: Resourceful reasoning about error bounds for higher-order probabilistic programs]]. ~ Alejandro Aguirre et als. #ITP #Coq
++ [[https://arxiv.org/abs/2404.14069][On the systematic creation of faithfully rounded commutative truncated booth multipliers]]. ~ Theo Drane, Samuel Coward, Mertcan Temel, Joe Leslie-Hurd. #ITP #ACL2
+
 *** 24-Abr-24
 + [[https://arxiv.org/abs/2404.14919][Stalnaker's epistemic logic in Isabelle/HOL]]. ~ Laura P. Gamboa Guzman, Kristin Y. Rozier. #ITP #IsabelleHOL
 + [[https://arxiv.org/abs/2404.15214][Embedding differential dynamic logic in PVS]]. ~ J. Tanner Slagel, Mariano Moscato, Lauren White, César A. Muñoz, Swee Balachandran, Aaron Dutle. #ITP #PVS
