@@ -60,6 +60,10 @@ its content.
 
 ** Abril 2024
 
+*** 27-Abr-24
++ [[https://formalweb3.uibk.ac.at/docs/24/kajjck-lpar24.pdf][Prover9 unleashed: Automated configuration for enhanced proof discovery]]. ~ Kristina Aleksandrova, Jan Jakubuv, Cezary Kaliszyk. #ATP #Prover9
++ [[https://serokell.io/blog/ghc-dependent-types-in-haskell-3][Serokell’s Work on GHC: Dependent types, Part 3]]. #FunctionalProgramming #Haskell
+
 *** 25-Abr-24
 + [[https://www.sciencedirect.com/science/article/pii/S0097316524000438][The number of primitive words of unbounded exponent in the language of an HD0L-system is finite]]. ~ Karel Klouda, Štěpán Starosta. #ITP #IsabelleHOL
 + [[https://arxiv.org/abs/2404.14223][Error credits: Resourceful reasoning about error bounds for higher-order probabilistic programs]]. ~ Alejandro Aguirre et als. #ITP #Coq
