@@ -60,6 +60,12 @@ its content.
 
 ** Abril 2024
 
+*** 30-Abr-24
++ [[https://arxiv.org/abs/2402.10494][Mechanised uniform interpolation for modal logics K, GL, and iSL]]. ~ Hugo Férée, Iris van der Giessen, Sam van Gool, Ian Shillito. #ITP #Coq #Logic
++ [[https://arxiv.org/abs/2212.09570][Solving quantified modal logic problems by translation to classical logics]]. ~ Alexander Steen, Geoff Sutcliffe, Christoph Benzmüller. #ATP #Logic
++ [[https://arxiv.org/abs/2404.18067][Type inference for Isabelle2Cpp]]. ~ Dongchen Jiang, Chenxi Fu. #ITP #IsabelleHOL
++ [[https://www.philipzucker.com/sqrt2/][Experiments in the irrationality of Sqrt 2 with SMT]]. ~ Philip Zucker (@sandmouth@types.pl). #ATP #SMT #Math
+
 *** 27-Abr-24
 + [[https://formalweb3.uibk.ac.at/docs/24/kajjck-lpar24.pdf][Prover9 unleashed: Automated configuration for enhanced proof discovery]]. ~ Kristina Aleksandrova, Jan Jakubuv, Cezary Kaliszyk. #ATP #Prover9
 + [[https://serokell.io/blog/ghc-dependent-types-in-haskell-3][Serokell’s Work on GHC: Dependent types, Part 3]]. #FunctionalProgramming #Haskell
@@ -770,7 +776,6 @@ its content.
 + [[https://bit.ly/41LHgJg][Machine learning and symbolic AI for mathematics]]. ~ Jeremy Avigad. #MachineLearning #AI #ITP #Math
 + [[https://bit.ly/3RJpG3F][Functional data structures and algorithms]]. ~ Tobias Nipkow et als. #eBook #ITP #IsabelleHOL #FunctionalProgramming #Algorithms
 + [[https://bit.ly/41DI42N][Higher order model checking in Isabelle for human centric infrastructure security]]. ~ Florian Kammüller. #ITP #IsabelleHOL
-
 
 
 * Lecturas del año 2023
