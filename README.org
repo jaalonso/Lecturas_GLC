@@ -11,6 +11,7 @@ its content.
 
 * Content                                                                      :TOC:
 - [[#lecturas-del-año-2024][Lecturas del año 2024]]
+  - [[#mayo-2024][Mayo 2024]]
   - [[#abril-2024][Abril 2024]]
   - [[#marzo-2024][Marzo 2024]]
   - [[#febrero-2024][Febrero 2024]]
@@ -57,6 +58,12 @@ its content.
 - [[#lecturas-anteriores][Lecturas anteriores]]
 
 * Lecturas del año 2024
+
+** Mayo 2024
+
+*** 01-May-24
++ [[https://leanprover-community.github.io/blog/posts/FLT-announcement/][The Fermat's last theorem project]]. ~ Kevin Buzzard. #ITP #Lean4 #Math
++ [[https://arxiv.org/abs/2302.00151][Formalising and computing the fourth homotopy group of the 3-sphere in Cubical Agda]]. ~ Axel Ljungström, Anders Mörtberg. #ITP #Agda #Math
 
 ** Abril 2024
 
