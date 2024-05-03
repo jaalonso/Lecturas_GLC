@@ -61,6 +61,15 @@ its content.
 
 ** Mayo 2024
 
+*** 02-May-24
++ [[https://www.contrib.andrew.cmu.edu/~avigad/Papers/ar4math.pdf][Automated reasoning for mathematics]]. ~ Jeremy Avigad. #ITP #ATP #IsabelleHOL #LeanProver #Coq #Math
++ [[http://reports-archive.adm.cs.cmu.edu/anon/anon/usr/ftp/home/ftp/2024/CMU-CS-24-117.pdf][Compactness via pattern stepping bisimulation]]. ~ Matias Scharager. #ITP #Coq
++ [[http://www.javakade.nl/research/pdf/crabytiling-v2.pdf][Commutative residual algebra motivation, decision, and applications]]. ~ Vincent van Oostrom. #ATP #Prover9 #Mace4 #Math
++ [[https://www.isa-afp.org/entries/Picks_Theorem.html][Pick's theorem (in Isabelle/HOL)]]. ~ Sage Binder, Katherine Kosaian. #ITP #IsabelleHOL #Math
++ [[https://www.youtube.com/live/QTgRKWGDVr0][The Haskell Unfolder Episode 24: generic (un)folds]]. ~ Edsko de Vries (@EdskoDeVries), Andres Löh (@kosmikus@functional.cafe). #Haskell #FunctionalProgramming
++ [[https://realpython.com/python-sequences/][Python sequences: A comprehensive guide]]. ~ Stephen Gruppetta. #Python
++ [[https://es.slideshare.net/slideshow/introduction-to-prompt-engineering-focusing-on-chatgpt/267707160][Introduction to Prompt Engineering (Focusing on ChatGPT)]]. ~ Chameera Dedduwage. #ChatGPT
+
 *** 01-May-24
 + [[https://leanprover-community.github.io/blog/posts/FLT-announcement/][The Fermat's last theorem project]]. ~ Kevin Buzzard. #ITP #Lean4 #Math
 + [[https://arxiv.org/abs/2302.00151][Formalising and computing the fourth homotopy group of the 3-sphere in Cubical Agda]]. ~ Axel Ljungström, Anders Mörtberg. #ITP #Agda #Math
