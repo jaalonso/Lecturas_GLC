@@ -61,6 +61,13 @@ its content.
 
 ** Mayo 2024
 
+*** 03-May-24
++ [[https://www.isa-afp.org/entries/Orient_Rewrite_Rule_Undecidable.html][Undecidability results on orienting single rewrite rules (in Isabelle/HOL)]]. ~ René Thiemann, Fabian Mitterwallner, Aart Middeldorp. #ITP #IsabelleHOL
++ [[https://arxiv.org/abs/2403.04017][Learning guided automated reasoning: A brief survey]]. ~ Lasse Blaauwbroek, David Cerna, Thibault Gauthier, Jan Jakubův, Cezary Kaliszyk, Martin Suda, Josef Urban. #ATP #ITP #AI #MachineLearning
++ [[https://aclanthology.org/2023.acl-long.817.pdf][A survey of deep learning for mathematical reasoning]]. ~ Pan Lu, Liang Qiu, Wenhao Yu, Sean Welleck, Kai-Wei Chang. #AI #DeepLearning #Math #Reasoning
++ [[https://arxiv.org/abs/2404.09939][A survey on deep learning for theorem proving]]. ~ Zhaoyu Li, Jialiang Sun, Logan Murphy, Qidong Su, Zenan Li, Xian Zhang, Kaiyu Yang, Xujie Si. #AI #DeepLearning #ATP #ITP #Math
++ [[https://spectrum.ieee.org/ai-coding][AI copilots are changing how coding is taught (Professors are shifting away from syntax and emphasizing higher-level skills)]]. ~ Rina Diane Caballar. #GenerativeAI #CompSci #Education
+
 *** 02-May-24
 + [[https://www.contrib.andrew.cmu.edu/~avigad/Papers/ar4math.pdf][Automated reasoning for mathematics]]. ~ Jeremy Avigad. #ITP #ATP #IsabelleHOL #LeanProver #Coq #Math
 + [[http://reports-archive.adm.cs.cmu.edu/anon/anon/usr/ftp/home/ftp/2024/CMU-CS-24-117.pdf][Compactness via pattern stepping bisimulation]]. ~ Matias Scharager. #ITP #Coq
