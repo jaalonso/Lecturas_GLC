@@ -61,6 +61,13 @@ its content.
 
 ** Mayo 2024
 
+*** 05-May-24
++ [[https://arxiv.org/abs/2405.01379][Verification and refinement of natural language explanations through LLM-symbolic theorem proving]]. ~ Xin Quan, Marco Valentino, Louise A. Dennis, André Freitas. #AI #LLMs #ITP #IsabelleHOL
+
+*** 04-May-24
++ [[https://www.isa-afp.org/entries/Substitutions_Lambda_Free.html][Substitutions for lambda-free higher-order terms (in Isabelle/HOL)]]. ~ Vincent Trélat. #ITP #IsabelleHOL
++ [[https://books.google.nl/books?id=mroFEQAAQBAJ&newbks=0&printsec=frontcover ][A narrative history of Artificial Intelligence]]. ~ Masayuki Ida. #AI
+
 *** 03-May-24
 + [[https://www.isa-afp.org/entries/Orient_Rewrite_Rule_Undecidable.html][Undecidability results on orienting single rewrite rules (in Isabelle/HOL)]]. ~ René Thiemann, Fabian Mitterwallner, Aart Middeldorp. #ITP #IsabelleHOL
 + [[https://arxiv.org/abs/2403.04017][Learning guided automated reasoning: A brief survey]]. ~ Lasse Blaauwbroek, David Cerna, Thibault Gauthier, Jan Jakubův, Cezary Kaliszyk, Martin Suda, Josef Urban. #ATP #ITP #AI #MachineLearning
