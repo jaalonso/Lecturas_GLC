@@ -61,6 +61,10 @@ its content.
 
 ** Mayo 2024
 
+*** 08-May-24
++ [[https://files.inria.fr/blanqui/lpar24.pdf][Translating HOL-Light proofs to Coq]]. ~ Frédéric Blanqui. #ITP #HOL_Light #Coq
++ [[https://dl.acm.org/doi/pdf/10.1145/3649819][HOL4P4: Mechanized small-step semantics for P4]]. ~ Anoud Alshnakat, Didrik Lundberg, Roberto Guanciale, Mads Dam. #ITP #HOL4
+
 *** 07-May-24
 + [[https://arxiv.org/abs/2405.03264][Delooping generated groups in homotopy type theory]]. ~ Camil Champin, Samuel Mimram, Emile Oleon. #ITP #Agda #Math
 + [[https://arxiv.org/abs/2405.02318][NL2FOL: Translating natural language to first-order logic for logical fallacy detection]]. ~ Abhinav Lalwani, Lovish Chopra, Christopher Hahn, Caroline Trippel, Zhijing Jin, Mrinmaya Sachan. #LLMs #SMT #Logic
