@@ -61,6 +61,11 @@ its content.
 
 ** Mayo 2024
 
+*** 09-May-24
++ [[https://injuly.in/blog/defunct/][Compiling higher order functions with GADTs]]. ~ Srijan (@_injuly). #FunctionalProgramming #Haskell
++ [[https://blog.daniel-beskin.com/2024-05-02-lazy-enough][When are functions lazy enough for lists]]. ~ Daniel Beskin. #FunctionalProgramming #Haskell
++ [[https://arxiv.org/abs/1912.10642][Notes on Category Theory (with examples from basic mathematics)]]. ~ Paolo Perrone. #CategoryTheory
+
 *** 08-May-24
 + [[https://files.inria.fr/blanqui/lpar24.pdf][Translating HOL-Light proofs to Coq]]. ~ Frédéric Blanqui. #ITP #HOL_Light #Coq
 + [[https://dl.acm.org/doi/pdf/10.1145/3649819][HOL4P4: Mechanized small-step semantics for P4]]. ~ Anoud Alshnakat, Didrik Lundberg, Roberto Guanciale, Mads Dam. #ITP #HOL4
