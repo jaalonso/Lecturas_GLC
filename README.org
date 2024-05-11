@@ -61,6 +61,10 @@ its content.
 
 ** Mayo 2024
 
+*** 10-May-24
++ [[https://youtu.be/-NTodQdAjgQ][Verifying a SAT solver from ground up]]. ~ Mathias Fleury. #ITP #IsabelleHOL #SAT_solver
++ [[https://python-bloggers.com/2024/05/solving-recurrence-relations/][Solving recurrence relations]]. ~ John Mount. #Python #Math
+
 *** 09-May-24
 + [[https://injuly.in/blog/defunct/][Compiling higher order functions with GADTs]]. ~ Srijan (@_injuly). #FunctionalProgramming #Haskell
 + [[https://blog.daniel-beskin.com/2024-05-02-lazy-enough][When are functions lazy enough for lists]]. ~ Daniel Beskin. #FunctionalProgramming #Haskell
