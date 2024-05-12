@@ -61,6 +61,16 @@ its content.
 
 ** Mayo 2024
 
+*** 11-May-24
++ [[https://arxiv.org/abs/2405.04699][Algorithm and abstraction in formal mathematics]]. ~ Heather Macbeth. #ITP #Agda #Coq #Lean4 #HOL_Light #IsabelleHOL #Metamath #Mizar #Math
++ [[https://glams-lean-2024.github.io/][Course: Formalising Mathematics in Lean]]. ~  Adrián Doña Mateo, Monica Abu Omar, Patrick Kinnear and Simone Castellan. #ITP #Lean4 #Math
++ [[https://github.com/fpvandoorn/LeanCourse23][Course: Formalized Mathematics in Lean (Winter 23/24)]]. ~ Floris van Doorn. #ITP #Lean4 #Math
++ [[https://github.com/adomani/MA4N1_2023][Course: Theorem proving with Lean]]. ~ Damiano Testa. #ITP #Lean4 #Math
++ [[https://www.isa-afp.org/entries/Top_Down_Solver.html][Partial correctness of the top-down solver (in Isabelle/HOL)]]. ~ Yannick Stade, Sarah Tilscher, Helmut Seidl. #ITP #IsabelleHOL
++ [[https://www.isa-afp.org/entries/LL1_Parser.html][LL(1) parser generator (in Isabelle/HOL)]]. ~ Sarah Tilscher and Simon Wimmer. #ITP #IsabelleHOL
++ [[https://marketsplash.com/lisp-metaprogramming/][How to explore Lisp metaprogramming techniques]]. #CommonLisp
++ [[https://funcall.blogspot.com/2024/05/the-way-of-lisp-or-right-way.html][The way of Lisp or the right way]]. ~ Joe Marshall. #Lisp #Programming
+
 *** 10-May-24
 + [[https://youtu.be/-NTodQdAjgQ][Verifying a SAT solver from ground up]]. ~ Mathias Fleury. #ITP #IsabelleHOL #SAT_solver
 + [[https://python-bloggers.com/2024/05/solving-recurrence-relations/][Solving recurrence relations]]. ~ John Mount. #Python #Math
