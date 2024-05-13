@@ -61,6 +61,11 @@ its content.
 
 ** Mayo 2024
 
+*** 12-May-24
++ [[https://imperialcollegelondon.github.io/FLT/blueprint.pdf][A Lean proof of Fermat’s Last Theorem]]. ~ Kevin Buzzard, Richard Taylor. #ITP #Lean4 #Math
++ [[https://jesper.cx/posts/agda-core.html][Agda core: The dream and the reality]]. ~ Jesper Cockx (@jesper@agda.club) #ITP #Agda
++ [[https://hasufell.github.io/posts/2024-05-07-ultimate-string-guide.html][The ultimate guide to Haskell Strings]]. ~ Julian Ospald. #FunctionalProgramming #Haskell
+
 *** 11-May-24
 + [[https://arxiv.org/abs/2405.04699][Algorithm and abstraction in formal mathematics]]. ~ Heather Macbeth. #ITP #Agda #Coq #Lean4 #HOL_Light #IsabelleHOL #Metamath #Mizar #Math
 + [[https://glams-lean-2024.github.io/][Course: Formalising Mathematics in Lean]]. ~  Adrián Doña Mateo, Monica Abu Omar, Patrick Kinnear and Simone Castellan. #ITP #Lean4 #Math
