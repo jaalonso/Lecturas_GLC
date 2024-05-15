@@ -61,6 +61,11 @@ its content.
 
 ** Mayo 2024
 
+*** 14-May-24
++ [[https://www.isa-afp.org/entries/Schoenhage_Strassen.html][Schönhage-Strassen multiplication (in Isabelle/HOL)]]. ~ Jakob Schulz. #ITP #IsabelleHOL #Math
++ [[https://github.com/james-stoup/org-mode-better-defaults][An entry into the world of Org Mode for non Emacs users]]. ~ James Stoup. #Emacs #OrgMode
++ [[https://plaindrops.de/blog/2024/CodingLispWithChatGPT/][Writing Lisp code with ChatGPT]]. #Elisp #ChatGPT
+
 *** 12-May-24
 + [[https://imperialcollegelondon.github.io/FLT/blueprint.pdf][A Lean proof of Fermat’s Last Theorem]]. ~ Kevin Buzzard, Richard Taylor. #ITP #Lean4 #Math
 + [[https://jesper.cx/posts/agda-core.html][Agda core: The dream and the reality]]. ~ Jesper Cockx (@jesper@agda.club) #ITP #Agda
