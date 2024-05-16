@@ -61,6 +61,10 @@ its content.
 
 ** Mayo 2024
 
+*** 15-May-24
++ [[https://ppgi.unb.br/images/documentos/Doutorado/Gabriel_Ferreira_Silva.pdf][Towards nominal AC-unification]]. ~ Gabriel Ferreira Silva. #PhDThesis #ITP #PVS
++ [[https://jihgfee.github.io/papers/multris_manuscript.pdf][Multris: Functional verification of multiparty message passing in separation logic]]. ~ Jonas Kastberg Hinrichsen, Jules Jacobs, Robbert Krebbers. #ITP #Coq
+
 *** 14-May-24
 + [[https://www.isa-afp.org/entries/Schoenhage_Strassen.html][Schönhage-Strassen multiplication (in Isabelle/HOL)]]. ~ Jakob Schulz. #ITP #IsabelleHOL #Math
 + [[https://github.com/james-stoup/org-mode-better-defaults][An entry into the world of Org Mode for non Emacs users]]. ~ James Stoup. #Emacs #OrgMode
