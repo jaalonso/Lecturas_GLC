@@ -61,6 +61,13 @@ its content.
 
 ** Mayo 2024
 
+*** 16-May-24
++ [[https://hackmd.io/@alexhkurz/rJDrv_qDT][Course: Logic in Software Engineering (Lean)]]. ~ Alexander Kurz. #ITP #Lean4 #Logic
++ [[https://youtu.be/0GEHHxjfqV4][Interactive theorem proving:Introduction to Agda]]. ~ Jeremy Siek. #ITP #Agda
++ [[https://wwwcip.cs.fau.de/~hy84coky/bsc-slides.pdf][Implementing categorical notions of partiality and delay in Agda]]. ~ Leon Vatthauee. #ITP #Agda #FunctionalProgramming #Haskell
++ [[https://scholarworks.wm.edu/cgi/viewcontent.cgi?article=3209&context=honorstheses][Evaluating Large Language Model performance on Haskell]]. ~ Andrew Chen. #LLMs #Haskell #FunctionalProgramming
++ [[https://www.youtube.com/live/YwshlQXKO80][The Haskell Unfolder Episode 25: from Java to Haskell]]. ~ Edsko de Vries (@EdskoDeVries), Andres Löh (@kosmikus@functional.cafe). #Haskell #FunctionalProgramming
+
 *** 15-May-24
 + [[https://ppgi.unb.br/images/documentos/Doutorado/Gabriel_Ferreira_Silva.pdf][Towards nominal AC-unification]]. ~ Gabriel Ferreira Silva. #PhDThesis #ITP #PVS
 + [[https://jihgfee.github.io/papers/multris_manuscript.pdf][Multris: Functional verification of multiparty message passing in separation logic]]. ~ Jonas Kastberg Hinrichsen, Jules Jacobs, Robbert Krebbers. #ITP #Coq
