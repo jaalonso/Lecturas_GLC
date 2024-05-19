@@ -61,6 +61,16 @@ its content.
 
 ** Mayo 2024
 
+*** 18-May-24
++ [[https://dependenttyp.es/pdf/conversations.pdf][Proofs and conversations]]. ~ Talia Ringer (@TaliaRinger@mathstodon.xyz). #ITP #Coq #Math
++ [[https://lean-lang.org/blog/2024-5-17-functional-induction/][Functional induction]]. ~ Joachim Breitner (@nomeata@mastodon.online). #ITP #Lean4
++ [[https://arxiv.org/abs/2405.08863][HepLean: Digitalising high energy physics]]. ~ Joseph Tooby-Smith. #ITP #Lean4 #Physics
++ [[https://arxiv.org/abs/2405.08348][Foundational verification of smart contracts through verified compilation]]. ~ Vilhelm Sjöberg, Kinnari Dave, Daniel Britten, Maria A Schett, Xinyuan Sun, Qinshi Wang, Sean Noble Anderson, Steve Reeves, Zhong Shao. #ITP #Coq
++ [[https://arxiv.org/abs/2405.09504][Initial algebras unchained (A novel initial algebra construction formalized in Agda)]]. ~ Thorsten Wißmann and Stefan Milius. #ITP #Agda #Math
++ [[https://journals.helsinki.fi/lumat/article/view/2155/1938][Programming as a mediator of mathematical thinking (Examples from upper secondary students exploring the definite integral)]]. ~ Timo Tossavainen, Claes Johansson, Alf Juhlin and Anna Wedestig. #Math #Programming #Python
++ [[https://www.jeremykun.com/shortform/2024-05-17-1555/][Math databases]]. ~ Jeremy Kun (@j2kun@mathstodon.xyz). #Math
++ [[https://code4math.org/][code4math: Consortium of digital ecosystems for mathematics]]. #Math
+
 *** 16-May-24
 + [[https://hackmd.io/@alexhkurz/rJDrv_qDT][Course: Logic in Software Engineering (Lean)]]. ~ Alexander Kurz. #ITP #Lean4 #Logic
 + [[https://youtu.be/0GEHHxjfqV4][Interactive theorem proving:Introduction to Agda]]. ~ Jeremy Siek. #ITP #Agda
