@@ -61,6 +61,17 @@ its content.
 
 ** Mayo 2024
 
+*** 20-May-24
++ [[https://raw.githubusercontent.com/gteege/gentle-isabelle/main/man-isabelle.pdf][A gentle introduction to Isabelle and Isabelle/HOL]]. ~ Gunnar Teege. #ITP #IsabelleHOL
++ [[https://link.springer.com/article/10.1007/s10817-024-09698-2 ][Linear resources in Isabelle/HOL]]. ~ Filip Smola and Jacques D. Fleuriot. #ITP #IsabelleHOL
++ [[https://arxiv.org/abs/2405.10387][Grothendieck's use of equality]]. ~ Kevin Buzzard. #Math #ITP #LeanProver
++ [[https://www.cs.nott.ac.uk/~pszgmh/graphs.pdf][Beyond trees: Calculating graph-based compilers]]. ~ Patrick Bahr and Graham Hutton. #FunctionalProgramming #Haskell
+
+*** 19-May-24
++ [[https://arxiv.org/abs/2405.10188][Bridging syntax and semantics of Lean expressions in E-Graphs]]. ~ Marcus Rossel and Andrés Goens. #ITP #Lean4
++ [[https://www.imm.dtu.dk/~samo/pspspj-preprint.pdf][PSPSP: A tool for automated verification of stateful protocols in Isabelle/HOL]]. ~ Andreas Viktor Hess, Sebastian Alexander Mödersheim, Achim D. Brucker and Anders Schlichtkrull. #ITP #IsabelleHOL
++ [[https://homepages.math.uic.edu/~marker/math502-F15/mm.pdf][Metamathematics]]. ~ David Marker. #Logic #Math
+
 *** 18-May-24
 + [[https://dependenttyp.es/pdf/conversations.pdf][Proofs and conversations]]. ~ Talia Ringer (@TaliaRinger@mathstodon.xyz). #ITP #Coq #Math
 + [[https://lean-lang.org/blog/2024-5-17-functional-induction/][Functional induction]]. ~ Joachim Breitner (@nomeata@mastodon.online). #ITP #Lean4
