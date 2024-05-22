@@ -61,6 +61,13 @@ its content.
 
 ** Mayo 2024
 
+*** 21-May-24
++ [[https://youtu.be/1EINmWKQP6Q][On the ingredients for Fermat]]. ~ Kevin Buzzard. #ITP #Lean4 #Math
++ [[https://plv.mpi-sws.org/quiver/paper-quiver.pdf][Quiver: Guided abductive inference of separation logic specifications in Coq]]. ~ Simon Spies, Lennard Gäher, Michael Sammler and Derek Dreyer. #ITP #Coq
++ [[https://www.philipzucker.com/analysis_knuckle/][Proving Sum n = n*(n-1)/2 and that 1/n tends to 0]]. ~ Philip Zucker (@sandmouth@types.pl). #Python #SMT #Z3
++ [[https://www.haskellforall.com/2024/05/prefer-do-notation-over-applicative.htm][Prefer do notation over Applicative operators when assembling records]]. ~ Gabriella Gonzalez (@GabriellaG439).l#FunctionalProgramming #Haskell
++ [[https://academic.oup.com/philmat/article/23/1/87/1432455][Beauty is not simplicity: An analysis of mathematicians' proof appraisals]]. ~ Matthew Inglis and Andrew Aberdein. #Math
+
 *** 20-May-24
 + [[https://raw.githubusercontent.com/gteege/gentle-isabelle/main/man-isabelle.pdf][A gentle introduction to Isabelle and Isabelle/HOL]]. ~ Gunnar Teege. #ITP #IsabelleHOL
 + [[https://link.springer.com/article/10.1007/s10817-024-09698-2 ][Linear resources in Isabelle/HOL]]. ~ Filip Smola and Jacques D. Fleuriot. #ITP #IsabelleHOL
