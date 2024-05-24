@@ -61,6 +61,12 @@ its content.
 
 ** Mayo 2024
 
+*** 23-May-24
++ [[https://seashell.charles.systems/publications/VOLPIC_SRC.pdf][VOLPIC: Verifying lifted Pascal in Coq]]. ~ Charles Averill. #ITP #Coq
++ [[https://www.youtube.com/live/5wbgRlzJYUU][The Haskell Unfolder Episode 26: Variable-arity functions]]. ~ Edsko de Vries (@EdskoDeVries), Andres Löh (@kosmikus@functional.cafe). #Haskell #FunctionalProgramming
++ [[https://www.nature.com/articles/d41586-024-01413-w][Why mathematics is set to be revolutionized by AI]]. ~ Thomas Fink. #Math #AI
++ [[https://www.resourceaholic.com/p/digitised-antique-maths-textbooks.html][Online historical maths textbooks]]. #Math
+
 *** 21-May-24
 + [[https://youtu.be/1EINmWKQP6Q][On the ingredients for Fermat]]. ~ Kevin Buzzard. #ITP #Lean4 #Math
 + [[https://plv.mpi-sws.org/quiver/paper-quiver.pdf][Quiver: Guided abductive inference of separation logic specifications in Coq]]. ~ Simon Spies, Lennard Gäher, Michael Sammler and Derek Dreyer. #ITP #Coq
