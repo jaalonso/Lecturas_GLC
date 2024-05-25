@@ -61,6 +61,10 @@ its content.
 
 ** Mayo 2024
 
+*** 24-May-24
++ [[https://drops.dagstuhl.de/storage/01oasics/oasics-vol118-fmbc2024/OASIcs.FMBC.2024.4/OASIcs.FMBC.2024.4.pdf][Towards mechanised consensus in Isabelle]]. ~ Elliot Jones and Diego Marmsoler. #ITP #IsabelleHOL
++ [[https://drops.dagstuhl.de/storage/01oasics/oasics-vol118-fmbc2024/OASIcs.FMBC.2024.7/OASIcs.FMBC.2024.7.pdf][Towards formally specifying and verifying smart contract upgrades in Coq]]. ~ Derek Sorensen. #ITP #Coq
+
 *** 23-May-24
 + [[https://seashell.charles.systems/publications/VOLPIC_SRC.pdf][VOLPIC: Verifying lifted Pascal in Coq]]. ~ Charles Averill. #ITP #Coq
 + [[https://www.youtube.com/live/5wbgRlzJYUU][The Haskell Unfolder Episode 26: Variable-arity functions]]. ~ Edsko de Vries (@EdskoDeVries), Andres Löh (@kosmikus@functional.cafe). #Haskell #FunctionalProgramming
