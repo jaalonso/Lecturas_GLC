@@ -61,6 +61,12 @@ its content.
 
 ** Mayo 2024
 
+*** 25-May-24
++ [[https://jaalonso.github.io/vestigium/posts/2024/05/25-la-semana-en-calculemus-25-de-mayo-de-2024/][La semana en Calculemus (Demostraciones con Lean4 e Isabelle/HOL) (25-mayo-24)]]. #ITP #Lean4 #IsabelleHOL #Math
++ [[https://wickstrom.tech/2024-05-23-statically-typed-functional-programming-python-312.html][Statically typed functional programming with Python 3]].12. ~ Oskar Wickström (@owickstrom). #FunctionalProgramming #Python
++ [[https://arxiv.org/abs/2405.14414][Proving theorems recursively]]. ~ Haiming Wang et als. #ITP #IsabelleHOL #LLMs #MachineLearning
++ [[https://arxiv.org/abs/2405.14333][DeepSeek-Prover: Advancing theorem proving in LLMs through large-scale synthetic data]]. ~ Huajian Xin et als. #LLMs #ITP #Lean4
+
 *** 24-May-24
 + [[https://drops.dagstuhl.de/storage/01oasics/oasics-vol118-fmbc2024/OASIcs.FMBC.2024.4/OASIcs.FMBC.2024.4.pdf][Towards mechanised consensus in Isabelle]]. ~ Elliot Jones and Diego Marmsoler. #ITP #IsabelleHOL
 + [[https://drops.dagstuhl.de/storage/01oasics/oasics-vol118-fmbc2024/OASIcs.FMBC.2024.7/OASIcs.FMBC.2024.7.pdf][Towards formally specifying and verifying smart contract upgrades in Coq]]. ~ Derek Sorensen. #ITP #Coq
