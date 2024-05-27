@@ -61,6 +61,9 @@ its content.
 
 ** Mayo 2024
 
+*** 26-May-24
++ [[https://www21.in.tum.de/students/past/go_code_generation/assets/go.pdf][Generating executable Go code from the Isabelle theorem prover]]. ~ Matthias Stübinger. #ITP #IsabelleHOL #Go
+
 *** 25-May-24
 + [[https://jaalonso.github.io/vestigium/posts/2024/05/25-la-semana-en-calculemus-25-de-mayo-de-2024/][La semana en Calculemus (Demostraciones con Lean4 e Isabelle/HOL) (25-mayo-24)]]. #ITP #Lean4 #IsabelleHOL #Math
 + [[https://wickstrom.tech/2024-05-23-statically-typed-functional-programming-python-312.html][Statically typed functional programming with Python 3]].12. ~ Oskar Wickström (@owickstrom). #FunctionalProgramming #Python
