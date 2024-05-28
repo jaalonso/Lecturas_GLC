@@ -61,6 +61,15 @@ its content.
 
 ** Mayo 2024
 
+*** 27-May-24
++ [[https://www.ams.org/journals/bull/2024-61-03/S0273-0979-2024-01823-0/S0273-0979-2024-01823-0.pdf][Proofs for a price: Tomorrow’s ultra-rigorous mathematical culture]]. ~ Silvia De Toffoli. #Math #ITP
++ [[https://www.ams.org/journals/bull/2024-61-03/S0273-0979-2024-01822-9/S0273-0979-2024-01822-9.pdf][Poincaré on the value of reasoning machines]]. ~ Colin McLarty. #Math #ITP
++ [[https://www.ams.org/journals/bull/2024-61-03/S0273-0979-2024-01824-2/S0273-0979-2024-01824-2.pdf][AlephZero and mathematical experience]]. ~ Simon DeDeo. #Math #AI #ITP
++ [[https://www.ams.org/journals/bull/2024-61-03/S0273-0979-2024-01843-6/S0273-0979-2024-01843-6.pdf][Working with machines in mathematics]]. ~ Alex Davies. #Math #MachineLearning
++ [[https://www.ams.org/journals/bull/2024-61-03/S0273-0979-2024-01821-7/S0273-0979-2024-01821-7.pdf][Automated mathematics and the reconfiguration of proof and labor]]. ~ Rodrigo Ochigame. #Math #ITP
++ [[https://www.ams.org/journals/bull/2024-61-03/S0273-0979-2024-01839-4/S0273-0979-2024-01839-4.pdf][Machine Learning and Information Theory Concepts towards an AI Mathematician]]. ~ Yoshua Bengio and Nikolay Malkin. #Math #AI #ITP
++ [[https://mahdi-sasar.github.io/001-Calculate-Pi.html][How to calculate pi in a new way]]. ~ Mahdi Sasar (@MahdiSasar@mathstodon.xyz). #Math
+
 *** 26-May-24
 + [[https://www21.in.tum.de/students/past/go_code_generation/assets/go.pdf][Generating executable Go code from the Isabelle theorem prover]]. ~ Matthias Stübinger. #ITP #IsabelleHOL #Go
 
