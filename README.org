@@ -61,6 +61,9 @@ its content.
 
 ** Mayo 2024
 
+*** 29-May-24
++ [[https://slawekk.wordpress.com/2024/05/28/isarmathlib-1-30-0-modules-and-update-to-isabelle2024/][IsarMathLib 1.30.0: Modules and update to Isabelle2024]]. #ITP #Isabelle #Math
+
 *** 27-May-24
 + [[https://www.ams.org/journals/bull/2024-61-03/S0273-0979-2024-01823-0/S0273-0979-2024-01823-0.pdf][Proofs for a price: Tomorrow’s ultra-rigorous mathematical culture]]. ~ Silvia De Toffoli. #Math #ITP
 + [[https://www.ams.org/journals/bull/2024-61-03/S0273-0979-2024-01822-9/S0273-0979-2024-01822-9.pdf][Poincaré on the value of reasoning machines]]. ~ Colin McLarty. #Math #ITP
