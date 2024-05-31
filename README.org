@@ -61,6 +61,16 @@ its content.
 
 ** Mayo 2024
 
+*** 30-May-24
++ [[https://arxiv.org/abs/2405.19270][Formalising the local compactness of the adele ring]]. ~ Salvatore Mercuri. #ITP #Lean4 #Math
++ [[https://arxiv.org/abs/2202.05587v3][Formalization of asymptotic convergence for stationary iterative methods]]. ~ Mohit Tekriwal, Joshua Miller, Jean-Baptiste Jeannin. #ITP #Coq #Math
++ [[https://easychair.org/publications/download/tbwq][Certification of tail recursive bubble–sort in Theorema and Coq]]. ~ Isabela Dramnesc, Tudor Jebelean, and Sorin Stratulat. #ITP #Coq #Theorema
++ [[https://easychair.org/publications/paper/mtFT][Translating HOL-Light proofs to Coq]]. ~ Frédéric Blanqui. #ITP #HOL_Light #Coq
++ [[https://easychair.org/publications/download/tGgl][Prover9 unleashed: Automated configuration for enhanced proof discovery]]. ~ Kristina Aleksandrova, Jan Jakubuv and Cezary Kaliszyk. #ATP #Prover9
++ [[https://ww.easychair.org/publications/download/n9Jl][Automated theorem proving for Prolog verification]]. ~ Fred Mesnard, Thierry Marianne and Etienne Payet. #ATP #Vampire #TPTP #Prolog
++ [[https://arxiv.org/abs/2405.16384][Free foil: Generating efficient and scope-safe abstract syntax]]. ~ Nikolai Kudasov, Renata Shakirova, Egor Shalagin, Karina Tyulebaeva. #FunctionalProgramming #Haskell
++ [[https://easychair.org/publications/download/vzpW][Automated theorem provers help improve large language model reasoning]]. ~ Lachlan McGinness and Peter Baumgartner. #LLMS #ATP
+
 *** 29-May-24
 + [[https://slawekk.wordpress.com/2024/05/28/isarmathlib-1-30-0-modules-and-update-to-isabelle2024/][IsarMathLib 1.30.0: Modules and update to Isabelle2024]]. #ITP #Isabelle #Math
 
