@@ -61,6 +61,9 @@ its content.
 
 ** Mayo 2024
 
+*** 31-May-24
++ [[https://www.tweag.io/blog/2024-05-30-lh-upgrades/][Liquid Haskell through the compilers]]. ~ Facundo Domínguez. #FunctionalProgramming #LiquidHaskell
+
 *** 30-May-24
 + [[https://arxiv.org/abs/2405.19270][Formalising the local compactness of the adele ring]]. ~ Salvatore Mercuri. #ITP #Lean4 #Math
 + [[https://arxiv.org/abs/2202.05587v3][Formalization of asymptotic convergence for stationary iterative methods]]. ~ Mohit Tekriwal, Joshua Miller, Jean-Baptiste Jeannin. #ITP #Coq #Math
