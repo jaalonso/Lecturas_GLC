@@ -11,6 +11,7 @@ its content.
 
 * Content                                                                      :TOC:
 - [[#lecturas-del-año-2024][Lecturas del año 2024]]
+  - [[#junio-2024][Junio 2024]]
   - [[#mayo-2024][Mayo 2024]]
   - [[#abril-2024][Abril 2024]]
   - [[#marzo-2024][Marzo 2024]]
@@ -58,6 +59,14 @@ its content.
 - [[#lecturas-anteriores][Lecturas anteriores]]
 
 * Lecturas del año 2024
+
+** Junio 2024
+
+*** 02-Jun-24
++ [[https://media.ccc.de/v/gpn22-483-intro-to-lean-4-a-language-at-the-intersection-of-programming-and-mathematics][Intro to Lean 4: A language at the intersection of programming and mathematics]]. ~ Kiiya. #ITP #Lean4
++ [[https://hakon.gylterud.net/programming/applicative-logic.html][A boolean is maybe true]]. ~ Håkon Robbestad Gylterud. #FunctionalProgramming #Haskell
++ [[https://www.danielgratzer.com/courses/type-theory-s-2024/lecture-notes.pdf][Principles of dependent type theory]]. ~ Carlo Angiuli and Daniel Gratzer (@danielgratzer@mathstodon.xyz). #TypeTheory #FunctionalProgramming
++ [[https://interstices.info/lintelligence-artificielle-hier-aujourdhuiet-demain/][L’intelligence artificielle : Hier, aujourd’hui ... et demain]]. ~ Jean-Paul Haton. #IA
 
 ** Mayo 2024
 
