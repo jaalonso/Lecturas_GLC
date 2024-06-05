@@ -62,6 +62,11 @@ its content.
 
 ** Junio 2024
 
+*** 04-Jun-24
++ [[https://www.isa-afp.org/entries/Sorted_Terms.html][Sorted terms (in Isabelle/HOL)]]. ~ Akihisa Yamada, and René Thiemann. #ITP #IsabelleHOL
++ [[https://www.isa-afp.org/entries/Pattern_Completeness.html][Verifying a decision procedure for pattern completeness (in Isabelle/HOL)]]. ~ René Thiemann, and Akihisa Yamada. #ITP #IsabelleHOL
++ [[https://www.isa-afp.org/entries/Countable_Sums_and_Discrete_Distributions.html][Countable sums and discrete (sub)distributions (in Isabelle/HOL)]]. ~ Gergely Buday, and Andrei Popescu. #ITP #IsabelleHOL #Math
+
 *** 02-Jun-24
 + [[https://media.ccc.de/v/gpn22-483-intro-to-lean-4-a-language-at-the-intersection-of-programming-and-mathematics][Intro to Lean 4: A language at the intersection of programming and mathematics]]. ~ Kiiya. #ITP #Lean4
 + [[https://hakon.gylterud.net/programming/applicative-logic.html][A boolean is maybe true]]. ~ Håkon Robbestad Gylterud. #FunctionalProgramming #Haskell
