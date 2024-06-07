@@ -62,6 +62,14 @@ its content.
 
 ** Junio 2024
 
+*** 06-Jun-24
++ [[https://europroofnet.github.io/_pages/WG4/Sep22/stathopoulos.pdf][Finding facts in large formalization libraries: Two Isabelle/AFP attempts]]. ~ Fabian Huch, Yiannos Stathopoulos. #ITP #IsabelleHOL
++ [[https://europroofnet.github.io/_pages/WG4/Sep22/baanen.pdf][Bundling in dependent type theory]]. ~ Anne Baanen. #ITP #Lean4
++ [[https://europroofnet.github.io/_pages/WG4/Sep22/maggesi.pdf][The HOL Light library of formalized mathematics]]. ~ Marco Maggesi. #ITP #HOL_Light #Math
+
+*** 05-Jun-24
++ [[https://www.isa-afp.org/entries/Stone_Cech.html][The Stone-Cech compactification (in Isabelle/HOL)]]. ~ Mike Stannett. #ITP #IsabelleHOL #Math
+
 *** 04-Jun-24
 + [[https://www.isa-afp.org/entries/Sorted_Terms.html][Sorted terms (in Isabelle/HOL)]]. ~ Akihisa Yamada, and René Thiemann. #ITP #IsabelleHOL
 + [[https://www.isa-afp.org/entries/Pattern_Completeness.html][Verifying a decision procedure for pattern completeness (in Isabelle/HOL)]]. ~ René Thiemann, and Akihisa Yamada. #ITP #IsabelleHOL
