@@ -62,6 +62,14 @@ its content.
 
 ** Junio 2024
 
+*** 07-Jun-24
++ [[https://arxiv.org/abs/2205.08628][Mechanized analysis of Anselm's modal ontological argument]]. ~ John Rushby. #ITP #PVS
++ [[https://arxiv.org/abs/2406.03847][Lean Workbook: A large-scale Lean problem set formalized from natural language math problems]]. ~ Huaiyuan Ying, Zijian Wu, Yihan Geng, Jiayu Wang, Dahua Lin, Kai Chen. #LLMs #ITP #Lean4
++ [[https://www.cs.nott.ac.uk/~pszgmh/algebraic.pdf][Calculating compilers effectively (Functional Pearl)]]. ~ Zac Garby, Graham Hutton, Patrick Bahr. #FunctionalProgramming #Haskell
++ [[https://informal.codes/posts/stabilising-th/][Working towards a more stable Template Haskell]]. ~ Teo Camarasu. #FunctionalProgramming #Haskell
++ [[https://gilkalai.wordpress.com/2024/06/07/andrew-granville-accepted-proofs-objective-truth-or-culturally-robust/][Andrew Granville: Accepted proofs: Objective truth, or culturally robust?]] ~ Gil Kalai. #Math
++ [[https://arxiv.org/abs/2406.00284][A closer look at logical reasoning with LLMs: The choice of tool matters]]. ~ Long Hei Matthew Lam, Ehsan Shareghi. #LLMs #ATP #Prover9 #SMT #Z3
+
 *** 06-Jun-24
 + [[https://europroofnet.github.io/_pages/WG4/Sep22/stathopoulos.pdf][Finding facts in large formalization libraries: Two Isabelle/AFP attempts]]. ~ Fabian Huch, Yiannos Stathopoulos. #ITP #IsabelleHOL
 + [[https://europroofnet.github.io/_pages/WG4/Sep22/baanen.pdf][Bundling in dependent type theory]]. ~ Anne Baanen. #ITP #Lean4
