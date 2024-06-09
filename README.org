@@ -62,6 +62,10 @@ its content.
 
 ** Junio 2024
 
+*** 08-Jun-24
++ [[https://arxiv.org/abs/2406.01940][Process-driven autoformalization in Lean 4]]. ~ Jianqiao Lu et als. #Autoformalization #LLMs #ITP #Lean4
++ [[https://well-typed.com/blog/2024/06/announcing-free-haskell-intro-course/][Announcing a free video-based Haskell introduction course]]. ~ Andres Löh (@kosmikus@functional.cafe). #FunctionalProgramming #Haskell
+
 *** 07-Jun-24
 + [[https://arxiv.org/abs/2205.08628][Mechanized analysis of Anselm's modal ontological argument]]. ~ John Rushby. #ITP #PVS
 + [[https://arxiv.org/abs/2406.03847][Lean Workbook: A large-scale Lean problem set formalized from natural language math problems]]. ~ Huaiyuan Ying, Zijian Wu, Yihan Geng, Jiayu Wang, Dahua Lin, Kai Chen. #LLMs #ITP #Lean4
