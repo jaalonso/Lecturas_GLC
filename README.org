@@ -62,6 +62,12 @@ its content.
 
 ** Junio 2024
 
+*** 11-Jun-24
++ [[https://www.isa-afp.org/entries/Levy_Prokhorov_Metric.html][The Lévy-Prokhorov metric (in Isabelle/HOL)]]. ~ Michikazu Hirata. #ITP #IsabelleHOL #Math
++ [[https://www.isa-afp.org/entries/Riesz_Representation.html][The Riesz representation theorem (in Isabelle/HOL)]]. ~ Michikazu Hirata. #ITP #IsabelleHOL #Math
++ [[https://arxiv.org/abs/2406.06108][The new TPTP format for interpretations]]. ~ Geoff Sutcliffe, Alexander Steen, Pascal Fontaine. #ATP #TPTP
++ [[https://youtu.be/vhIQZ0px-Lc][Ranking functional programming languages (Why I'm biased and excited)]]. #FunctionalProgramming #Haskell #Scala #Ocaml #PureScript #Elm #Roc #Unison #Gleam #Fsharp
+
 *** 09-Jun-24
 + [[https://www.scientificamerican.com/article/ai-will-become-mathematicians-co-pilot/][AI will become mathematicians’ ‘co-pilot’ (Fields Medalist Terence Tao explains how proof checkers and AI programs are dramatically changing mathematics)]]. ~ Christoph Drösser. #AI #ITP #Lean4 #Math
 
