@@ -62,6 +62,14 @@ its content.
 
 ** Junio 2024
 
+*** 14-Jun-24
++ [[https://siek.blogspot.com/2024/06/data-structures-and-algorithms-correctly.html][Data structures and algorithms, correctly]]. ~ Jeremy Siek (@jeremysiek@types.pl). #Algorithms #FunctionalProgramming #ITP #Deduce
++ [[https://github.com/jsiek/deduce][Deduce: A proof checker meant for education]]. Primarily for teaching proofs of correctness of functional programs. ~ Jeremy Siek (@jeremysiek@types.pl). #Algorithms #FunctionalProgramming #ITP #Deduce
++ [[https://www.isa-afp.org/entries/Coppersmith_Method.html][Formalizing Coppersmith's method (in Isabelle/HOL)]]. ~ Katherine Kosaian, Yong Kiam Tan. #ITP #IsabelleHOL #Math
++ [[https://mathscholar.org/2024/06/computation-ai-and-the-future-of-mathematics/][Computation, AI and the future of mathematics]]. ~ David H Bailey. #Math #CompSci #ITP #AI
++ [[https://www.youtube.com/live/XXw9DsDzonk][The Haskell Unfolder Episode 27: Duality]]. ~ Edsko de Vries (@EdskoDeVries), Andres Löh (@kosmikus@functional.cafe). #Haskell #FunctionalProgramming
++ [[https://cacm.acm.org/opinion/the-rise-of-the-ai-co-pilot-lessons-for-design-from-aviation-and-beyond/][The rise of the AI co-pilot: Lessons for design from aviation and beyond (Building on cross-disciplinary insights to shape the future of human-AI interaction)]]. ~ Abigail Sellen, and Eric Horvitz. #AI
+
 *** 11-Jun-24
 + [[https://www.isa-afp.org/entries/Levy_Prokhorov_Metric.html][The Lévy-Prokhorov metric (in Isabelle/HOL)]]. ~ Michikazu Hirata. #ITP #IsabelleHOL #Math
 + [[https://www.isa-afp.org/entries/Riesz_Representation.html][The Riesz representation theorem (in Isabelle/HOL)]]. ~ Michikazu Hirata. #ITP #IsabelleHOL #Math
