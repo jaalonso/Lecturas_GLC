@@ -62,6 +62,11 @@ its content.
 
 ** Junio 2024
 
+*** 15-Jun-24
++ [[https://lastland.github.io/pdfs/Demand.pdf][Story of your lazy function’s life (A bidirectional demand semantics for mechanized cost analysis of lazy programs)]]. ~ Li-Yao Xia et als. #ITP #Rocq_Prover
++ [[https://arxiv.org/abs/2406.06555][An evaluation benchmark for autoformalization in Lean4]]. ~ Aryan Gulati, Devanshu Ladsaria, Shubhra Mishra, Jasdeep Sidhu, Brando Miranda. #Autoformalization #LLMs #ITP #Lean4 #Math
++ [[https://www.iflscience.com/what-does-mean-mathematicians-arent-sure-and-that-could-be-a-problem-74651][What does = mean? Mathematicians aren't sure (and that could be a problem)]]. ~ Katie Spalding (@supermathskid). #Math
+
 *** 14-Jun-24
 + [[https://siek.blogspot.com/2024/06/data-structures-and-algorithms-correctly.html][Data structures and algorithms, correctly]]. ~ Jeremy Siek (@jeremysiek@types.pl). #Algorithms #FunctionalProgramming #ITP #Deduce
 + [[https://github.com/jsiek/deduce][Deduce: A proof checker meant for education]]. Primarily for teaching proofs of correctness of functional programs. ~ Jeremy Siek (@jeremysiek@types.pl). #Algorithms #FunctionalProgramming #ITP #Deduce
@@ -69,6 +74,9 @@ its content.
 + [[https://mathscholar.org/2024/06/computation-ai-and-the-future-of-mathematics/][Computation, AI and the future of mathematics]]. ~ David H Bailey. #Math #CompSci #ITP #AI
 + [[https://www.youtube.com/live/XXw9DsDzonk][The Haskell Unfolder Episode 27: Duality]]. ~ Edsko de Vries (@EdskoDeVries), Andres Löh (@kosmikus@functional.cafe). #Haskell #FunctionalProgramming
 + [[https://cacm.acm.org/opinion/the-rise-of-the-ai-co-pilot-lessons-for-design-from-aviation-and-beyond/][The rise of the AI co-pilot: Lessons for design from aviation and beyond (Building on cross-disciplinary insights to shape the future of human-AI interaction)]]. ~ Abigail Sellen, and Eric Horvitz. #AI
+
+*** 12-Jun-24
++ [[https://arxiv.org/abs/2406.07340][Formally verified approximate policy iteration]]. ~ Maximilian Schäffeler, Mohammad Abdulaziz. #ITP #IsabelleHOL #Math
 
 *** 11-Jun-24
 + [[https://www.isa-afp.org/entries/Levy_Prokhorov_Metric.html][The Lévy-Prokhorov metric (in Isabelle/HOL)]]. ~ Michikazu Hirata. #ITP #IsabelleHOL #Math
