@@ -62,6 +62,12 @@ its content.
 
 ** Junio 2024
 
+*** 16-Jun-24
++ [[https://arxiv.org/abs/1503.08744][Propositional calculus in Coq]]. ~ Floris van Doorn. #ITP #Coq #Logic #Math
++ [[https://www.cs.uoregon.edu/research/summerschool/summer24/lectures/Downen1.pdf][Foundations of programming languages]]. ~ Paul Downen. #CompSci
++ [[https://www.infinitelymore.xyz/p/quantifier-elimination-dense-linear-orders][Quantifier elimination — dense linear orders]]. ~ Joel David Hamkins. #Math
++ [[https://youtu.be/ViPNHMSUcog][Programming with math | The lambda calculus]]. ~ Eyesomorphic. #LambdaCalculus
+
 *** 15-Jun-24
 + [[https://lastland.github.io/pdfs/Demand.pdf][Story of your lazy function’s life (A bidirectional demand semantics for mechanized cost analysis of lazy programs)]]. ~ Li-Yao Xia et als. #ITP #Rocq_Prover
 + [[https://arxiv.org/abs/2406.06555][An evaluation benchmark for autoformalization in Lean4]]. ~ Aryan Gulati, Devanshu Ladsaria, Shubhra Mishra, Jasdeep Sidhu, Brando Miranda. #Autoformalization #LLMs #ITP #Lean4 #Math
