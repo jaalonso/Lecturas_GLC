@@ -62,6 +62,11 @@ its content.
 
 ** Junio 2024
 
+*** 17-Jun-24
++ [[https://functional-algorithms-verified.org/functional_data_structures_algorithms.pdf][Functional data structures and algorithms (A proof assistant approach)]]. ~ Tobias Nipkow (ed.). #ITP #IsabelleHOL #FunctionalProgramming #Algorithms
++ [[https://www.isa-afp.org/entries/Alpha_Beta_Pruning.html][Alpha-beta pruning (in Isabelle/HOL)]]. ~ Tobias Nipkow. #ITP #IsabelleHOL #FunctionalProgramming #Algorithms
++ [[https://futurism.com/logic-question-stumps-ai][This simple logic question stumps even the most advanced AI]]. ~ Maggie Harrison Dupré. #AI
+
 *** 16-Jun-24
 + [[https://arxiv.org/abs/1503.08744][Propositional calculus in Coq]]. ~ Floris van Doorn. #ITP #Coq #Logic #Math
 + [[https://www.cs.uoregon.edu/research/summerschool/summer24/lectures/Downen1.pdf][Foundations of programming languages]]. ~ Paul Downen. #CompSci
