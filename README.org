@@ -62,6 +62,20 @@ its content.
 
 ** Junio 2024
 
+*** 19-Jun-24
++ [[https://omid.dev/2024/06/18/haskell-monads-functors-and-applicatives/][Exploring advanced functional programming techniques in Haskell: Monads, functors, and applicatives]]. ~ Omid Farhang (@omid@floss.social). #FunctionalProgramming #Haskell
++ [[https://arxiv.org/abs/2406.11915][miniCodeProps: A minimal benchmark for proving code properties]]. ~ Evan Lohn, Sean Welleck. #LLMs #ITP #Lean4 #FunctionalProgramming #Haskell
+
+*** 18-Jun-24
++ [[https://arxiv.org/abs/2406.11414][Formally certified approximate model counting]]. ~ Yong Kiam Tan, Jiong Yang, Mate Soos, Magnus O. Myreen, Kuldeep S. Meel. #ITP #IsabelleHOL
++ [[https://www.isa-afp.org/entries/EnrichedCategoryBasics.html][Enriched category basics (in Isabelle/HOL)]]. ~ Eugene W. Stark. #ITP #IsabelleHOL #Math
++ [[https://www.isa-afp.org/entries/ResiduatedTransitionSystem2.html][Residuated transition systems II: Categorical properties (in Isabelle/HOL)]]. ~ Eugene W. Stark. #ITP #IsabelleHOL
++ [[https://arxiv.org/abs/2311.03645][Automated mathematical discovery and verification: Minimizing pentagons in the plane]]. ~ Bernardo Subercaseaux, John Mackey, Marijn J. H. Heule, Ruben Martins. #ATP #SAT #Math
++ [[https://pub.towardsai.net/monkey-banana-problem-in-prolog-92aaf38e2b85][Dive deeper into Prolog: Master the fundamentals and tackle complex AI challenges]]. ~ Ashani Sansala Kodithuwakku. #LogicProgramming #Prolog #AI
++ [[https://www.cs.cornell.edu/~ellisk/documents/Li_Ellis_pbe_2024.pdf][Is programming by example solved by LLMs?]] ~ Wen-Ding L, Kevin Ellis. #LLMs #Programming
++ [[https://www.diva-portal.org/smash/get/diva2:1870236/FULLTEXT01.pdf][Can AI models solve the programming challenge Advent of Code? (Evaluating state of the art large language models)]]. ~ Johannes Sandström. #AI #LLMs #Programming
++ [[https://arxiv.org/abs/2406.11326][GitHub Copilot: the perfect Code compLeeter? ~ Ilja Siroš, Dave Singelée, Bart Preneel]]. #AI #LLMs #Programming
+
 *** 17-Jun-24
 + [[https://functional-algorithms-verified.org/functional_data_structures_algorithms.pdf][Functional data structures and algorithms (A proof assistant approach)]]. ~ Tobias Nipkow (ed.). #ITP #IsabelleHOL #FunctionalProgramming #Algorithms
 + [[https://www.isa-afp.org/entries/Alpha_Beta_Pruning.html][Alpha-beta pruning (in Isabelle/HOL)]]. ~ Tobias Nipkow. #ITP #IsabelleHOL #FunctionalProgramming #Algorithms
