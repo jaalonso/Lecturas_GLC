@@ -62,6 +62,13 @@ its content.
 
 ** Junio 2024
 
+*** 20-Jun-24
++ [[https://www.goens.org/publications/fernandez-mir-cicm-24/cicm24.pdf][Transforming optimization problems into disciplined convex programming form]]. ~ Ramon Fernández Mir, Paul B. Jackson, Siddharth Bhat, Andrés Goens, Tobias Grosser. #ITP #Lean4 #Math
++ [[https://types2024.itu.dk/abstracts.pdf#page=21][Yet another formal theory of probabilities (with an application to random sampling)]] ~ Reynald Affeldt et als. #ITP #Coq #Math
++ [[https://types2024.itu.dk/abstracts.pdf#page=26][A zoo of continuity properties in constructive type theory]]. ~ Martin Baillon et als. #ITP #Coq
++ [[https://openreview.net/forum?id=vqW1VRFeVP][PutnamBench: A multilingual competition-mathematics benchmark for formal theorem-proving]]. ~ George Tsoukalas, Jasper Lee, John Jennings, Jimmy Xin, Michelle Ding, Michael Jennings, Amitayush Thakur, Swarat Chaudhuri. #ITP #Coq #IsabelleHOL #Lean4
++ [[https://types2024.itu.dk/abstracts.pdf#page=152][OnlineProver: A proof assistant for online teaching of formal logic and semantics]] ~ Joachim Tilsted Kristensen et als. #Logic
+
 *** 19-Jun-24
 + [[https://omid.dev/2024/06/18/haskell-monads-functors-and-applicatives/][Exploring advanced functional programming techniques in Haskell: Monads, functors, and applicatives]]. ~ Omid Farhang (@omid@floss.social). #FunctionalProgramming #Haskell
 + [[https://arxiv.org/abs/2406.11915][miniCodeProps: A minimal benchmark for proving code properties]]. ~ Evan Lohn, Sean Welleck. #LLMs #ITP #Lean4 #FunctionalProgramming #Haskell
