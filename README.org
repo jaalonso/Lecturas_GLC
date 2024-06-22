@@ -62,6 +62,11 @@ its content.
 
 ** Junio 2024
 
+*** 21-Jun-24
++ [[https://dl.acm.org/doi/pdf/10.1145/3656379][Verified extraction from Coq to OCaml]]. ~ Yannick Forster, Matthieu Sozeau, Nicolas Tabareau. #ITP #Coq #FunctionalProgramming #OCaml
++ [[https://dl.acm.org/doi/pdf/10.1145/3656390][A verified compiler for a functional tensor language]]. ~ Amanda Liu,Gilbert Bernstein,Adam Chlipala,Jonathan Ragan-Kelley. #ITP #Coq
++ [[https://dl.acm.org/doi/pdf/10.1145/3656439][Live verification in an interactive proof assistant]]. ~ Samuel Gruetter,Viktor Fukala,Adam Chlipala. #ITP #Coq
+
 *** 20-Jun-24
 + [[https://www.goens.org/publications/fernandez-mir-cicm-24/cicm24.pdf][Transforming optimization problems into disciplined convex programming form]]. ~ Ramon Fernández Mir, Paul B. Jackson, Siddharth Bhat, Andrés Goens, Tobias Grosser. #ITP #Lean4 #Math
 + [[https://types2024.itu.dk/abstracts.pdf#page=21][Yet another formal theory of probabilities (with an application to random sampling)]] ~ Reynald Affeldt et als. #ITP #Coq #Math
