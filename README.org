@@ -62,6 +62,12 @@ its content.
 
 ** Junio 2024
 
+*** 22-Jun-24
++ [[https://florisvandoorn.com/carleson/blueprint/][Carleson operators on doubling metric measure spaces, ~ Lars Becker, Floris van Doorn, Asgar Jamneshan, Rajula Srivastava, Christoph Thiele]]. #ITP #Lean4 #Math
++ [[https://openreview.net/forum?id=sjLWmLeJ6R][Lean4trace: Data augmentation for neural theorem proving in Lean]]. ~ Vasilii Nesterov, Yermek Kapushev, Mikhail Burtsev. #ITP #Lean4 #LLMs
++ [[https://openreview.net/forum?id=AkJvzpYMvK][More details, please: Improving autoformalization with more detailed proofs]]. ~ Guillem Tarrach, Albert Q. Jiang, Daniel Raggi, Wenda Li, Mateja Jamnik. #ITP #IsabelleHOL #LLMs
++ [[https://openreview.net/forum?id=S9utaRXaZt][VerityMath: Advancing mathematical reasoning by self-verification through unit consistency]]. ~ Vernon Toh Yan Han, Ratish Puduppully, Nancy F. Chen. #LLMs #Math #Reasoning
+
 *** 21-Jun-24
 + [[https://dl.acm.org/doi/pdf/10.1145/3656379][Verified extraction from Coq to OCaml]]. ~ Yannick Forster, Matthieu Sozeau, Nicolas Tabareau. #ITP #Coq #FunctionalProgramming #OCaml
 + [[https://dl.acm.org/doi/pdf/10.1145/3656390][A verified compiler for a functional tensor language]]. ~ Amanda Liu,Gilbert Bernstein,Adam Chlipala,Jonathan Ragan-Kelley. #ITP #Coq
