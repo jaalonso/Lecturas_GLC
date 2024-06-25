@@ -62,6 +62,9 @@ its content.
 
 ** Junio 2024
 
+*** 24-Jun-24
++ [[https://youtu.be/sBv_IT3GgyA][Formalising advanced mathematics in Isabelle/HOL]]. ~ Lawrence Paulson (@LawrPaulson@mathstodon.xyz). #ITP #IsabelleHOL #Math
+
 *** 23-Jun-24
 + [[https://byorgey.github.io/blog/posts/2024/06/21/cpih-product-divisors.html][Competitive programming in Haskell: sieving with mutable arrays]]. ~ Brent Yorgey (@byorgey@mathstodon.xyz). #FunctionalProgramming #Haskell
 
