@@ -62,6 +62,30 @@ its content.
 
 ** Junio 2024
 
+*** 25-Jun-24
++ [[https://youtu.be/IroFHvdAsJg][Teaching mathematics to computers]]. ~ Kevin Buzzard (@XenaProject). #ITP #Lean4 #Math #AI #MachineLearning
++ [[https://youtu.be/PNaOSAPtvv0][Towards a formalized proof of Carleson's theorem]]. ~ Floris van Doorn. #ITP #Lean4 #Math
++ [[https://youtu.be/f8LuzA7k4K4][Linear algebra game in Lean]]. ~ Sina Hazratpour. #ITP #Lean4 #Math
++ [[https://youtu.be/NJetR3C6uH8][Building measure theory using hierarchy builder]]. ~ Cyril Cohen. #ITP #Coq #Math
++ [[https://arxiv.org/abs/2404.12048][Symbolic computation for all the fun]]. ~ Chad E. Brown, Mikoláš Janota, Mirek Olšák. #Math #ATP
++ [[https://youtu.be/IaC35SHBitE][System introductions I: HOL (1)]]. ~ Freek Wiedijk. #ITP #HOL
++ [[https://youtu.be/ux96swHX-6s][More on HOL Light (2)]]. ~ Freek Wiedijk. #ITP #HOL_Light
++ [[https://youtu.be/R-3kPIHB2RA][Even more on HOL Light (3)]]. ~ Freek Wiedijk. #ITP #HOL_Light
++ [[https://youtu.be/FNmB1CRaC7U][Modularity in PVS]]. ~ Sam Owre. #ITP #PVS
++ [[https://youtu.be/aEYhBl-S2EE][Lessons from Metamath]]. ~ Mario Carneiro. #ITP #Metamath
++ [[https://youtu.be/YQ6YAKIa42Q][A quick tour of Agda]]. ~ Guillaume Allais. #ITP #Agda
++ [[https://youtu.be/M0fVmNZBIrg][Theorem proving and AI]]. ~ Josef Urban. #ATP #ITP #AI #Math
++ [[https://youtu.be/HKAMz1oyYWU][System introductions I: Lean]]. ~ Mario Carneiro. #ITP #Lean4
++ [[https://youtu.be/Oh1rDkWYrNI][System introductions II: Isabelle]]. ~ Manuel Eberl. #ITP #IsabelleHOL
++ [[https://youtu.be/EeC6YAFiWDQ][System introductions: PVS]]. ~ Sam Owre. #ITP #PVS
++ [[https://youtu.be/hOnUyx6LtNc][Reconciling type theory with the use of a single type of numbers for mathematical education at introductory levels]]. ~ Yves Bertot. #ITP #Coq #Math
++ [[https://youtu.be/fc5crdT3u_U][Programming mathematics: Tools and challenges]]. ~ Georges Gonthier. #ITP #Coq
++ [[https://youtu.be/dmR_D7SRdck][From informal to formal and back]]. ~ Patrick Massot. #ITP #Lean4 #Math
++ [[https://youtu.be/8I-v3y1MGfM][Beautiful formalizations and proofs]]. ~ Natarajan Shankar. #ITP #PVS #Math
++ [[https://youtube.com/playlist?list=PLul8LCT3AJqSxDjduIXoMnfaQSsExWLTC&si=D2bye9lEUfQrqJ1U][Workshop: Formalization of Mathematics (June 2024)]]. Hausdorff Center for Mathematics. #ITP #Math
++ [[https://youtu.be/C7NBGlJb2DQ][AI tools for Better Math]]. ~ Valeria de Paiva (@vcvpaiva@mathstodon.xyz). #Math #AI
++ [[https://interstices.info/la-grande-epopee-des-algorithmes/][La grande épopée des algorithmes]]. ~ Claire Mathieu. #Algorithms
+
 *** 24-Jun-24
 + [[https://youtu.be/sBv_IT3GgyA][Formalising advanced mathematics in Isabelle/HOL]]. ~ Lawrence Paulson (@LawrPaulson@mathstodon.xyz). #ITP #IsabelleHOL #Math
 
