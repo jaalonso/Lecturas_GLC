@@ -62,6 +62,9 @@ its content.
 
 ** Junio 2024
 
+*** 26-Jun-24
++ [[https://byorgey.github.io/blog/posts/2024/06/25/unordered-n-tuple-product.html][Products with unordered n-tuples]]. ~ Brent Yorgey (@byorgey@mathstodon.xyz). #FunctionalProgramming #Haskell
+
 *** 25-Jun-24
 + [[https://youtu.be/IroFHvdAsJg][Teaching mathematics to computers]]. ~ Kevin Buzzard (@XenaProject). #ITP #Lean4 #Math #AI #MachineLearning
 + [[https://youtu.be/PNaOSAPtvv0][Towards a formalized proof of Carleson's theorem]]. ~ Floris van Doorn. #ITP #Lean4 #Math
