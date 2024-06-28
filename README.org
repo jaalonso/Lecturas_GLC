@@ -62,6 +62,14 @@ its content.
 
 ** Junio 2024
 
+*** 27-Jun-24
++ [[https://essay.utwente.nl/99869/1/Beekman_MA_EEMCS.pdf][Error bounds for floating points in Isabelle/HOL]]. ~ Jan Douwe Beekman. #ITP #IsabelleHOL
++ [[https://youtu.be/NoCYsyoBdC0][Condensed mathematics in Mathlib]]. ~ Dagur Asgeirsson. #ITP #Lean4 #Math
++ [[https://youtu.be/KuxFWwwlEtc][Tactics & keyframes: Visualizing Lean 4 proofs in Blender]]. ~ David Renshaw. #ITP #Lean4
++ [[https://arxiv.org/abs/2406.11915][miniCodeProps: A minimal benchmark for proving code properties]]. ~ Evan Lohn, Sean Welleck. #ITP #Lean4 #LLMs
++ [[https://arxiv.org/abs/2406.14408][FVEL: Interactive formal verification environment with large language models via theorem proving]]. ~ Xiaohan Lin et als. #ITP #IsabelleHOL #LLMs
++ [[https://arxiv.org/abs/2406.14219][Proving olympiad algebraic inequalities without human demonstrations]]. ~ Chenrui Wei, Mengzhou Sun, Wei Wang. #AIPS #AI #ITP #Math
+
 *** 26-Jun-24
 + [[https://byorgey.github.io/blog/posts/2024/06/25/unordered-n-tuple-product.html][Products with unordered n-tuples]]. ~ Brent Yorgey (@byorgey@mathstodon.xyz). #FunctionalProgramming #Haskell
 
