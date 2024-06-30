@@ -62,6 +62,17 @@ its content.
 
 ** Junio 2024
 
+*** 29-Jun-24
++ [[https://avigad.github.io/lamr/][Logic and mechanized reasoning]]. ~ Jeremy Avigad, Marijn J. H. Heule, and Wojciech Nawrocki. #Logic #ITP #Lean4
++ [[https://mat.unb.br/ayala/FormalizationQuaternions.pdf][A formalization of the general theory of quaternions]]. ~Thaynara Arielly de Lima, André Luiz Galdino, Bruno Berto de Oliveira Ribeiro, Mauricio Ayala-Rincón. #ITP #PVS #Math
++ [[https://hal.science/hal-04515714/document][End-to-end formal verification of a fast and accurate floating-point approximation]]. ~ Florian Faissole, Paul Geneau de Lamarlière and Guillaume Melquiond. #ITP #Coq
++ [[https://youtu.be/5Jl3ZeYeDfE][Formalising a number theory textbook: Lessons learnt]]. ~ Lawrence Paulson (@LawrPaulson@mathstodon.xyz). #ITP #IsabelleHOL #Math
+
+*** 28-Jun-24
++ [[https://youtu.be/UdvSg2TUQPc][A "calculation-heavy" introduction to proof, with support from Lean]]. ~ Heather Macbeth. #ITP #Lean4
++ [[https://library.mlabs.city/mastering-quickcheck][Mastering QuickCheck: Advanced yet practical techniques for property-based testing]]. ~ Koz Ross. #FunctionalProgramming #Haskell
++ [[https://youtu.be/ygf7J_FTNnY][Introducción a la programación lógica con Scryer Prolog]]. ~ Adrián Arroyo Calle (@aarroyoc@castilla.social). #LogicProgramming #Prolog
+
 *** 27-Jun-24
 + [[https://essay.utwente.nl/99869/1/Beekman_MA_EEMCS.pdf][Error bounds for floating points in Isabelle/HOL]]. ~ Jan Douwe Beekman. #ITP #IsabelleHOL
 + [[https://youtu.be/NoCYsyoBdC0][Condensed mathematics in Mathlib]]. ~ Dagur Asgeirsson. #ITP #Lean4 #Math
