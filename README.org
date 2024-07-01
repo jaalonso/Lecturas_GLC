@@ -62,6 +62,10 @@ its content.
 
 ** Junio 2024
 
+*** 30-Jun-24
++ [[https://github.com/Wenda302/Number_Theory_ITP2024][The accompanying code for the submission "Formalising half of a graduate textbook on number theory" to ITP 2024]]. ~ Manuel Eberl, Anthony Bordg, Lawrence Paulson, and Wenda Li. #ITP #IsabelleHOL #Math
++ [[http://cl-informatik.uibk.ac.at/users/meberl/pdfs/ant.pdf][Nine chapters of analytic number theory in Isabelle/HOL]]. ~ Manuel Eberl. #ITP #IsabelleHOL #Math
+
 *** 29-Jun-24
 + [[https://avigad.github.io/lamr/][Logic and mechanized reasoning]]. ~ Jeremy Avigad, Marijn J. H. Heule, and Wojciech Nawrocki. #Logic #ITP #Lean4
 + [[https://mat.unb.br/ayala/FormalizationQuaternions.pdf][A formalization of the general theory of quaternions]]. ~Thaynara Arielly de Lima, André Luiz Galdino, Bruno Berto de Oliveira Ribeiro, Mauricio Ayala-Rincón. #ITP #PVS #Math
