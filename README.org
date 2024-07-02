@@ -11,6 +11,7 @@ its content.
 
 * Content                                                                      :TOC:
 - [[#lecturas-del-año-2024][Lecturas del año 2024]]
+  - [[#julio-2024][Julio 2024]]
   - [[#junio-2024][Junio 2024]]
   - [[#mayo-2024][Mayo 2024]]
   - [[#abril-2024][Abril 2024]]
@@ -59,6 +60,13 @@ its content.
 - [[#lecturas-anteriores][Lecturas anteriores]]
 
 * Lecturas del año 2024
+
+** Julio 2024
+
+*** 01-Jul-24
++ [[https://rucore.libraries.rutgers.edu/rutgers-lib/72436/PDF/1/play/][Formalized synthetic geometry]]. ~ André Hernández-Espiet. #PhDThesis #ITP #Lean4 #Math
++ [[https://era.ed.ac.uk/bitstream/handle/1842/41930/ChevallierM_2024.pdf][Verification using formalised mathematics and theorem proving of reinforcement and deep learning]]. ~ Mark Chevallier. #ITP #IsabelleHOL #DeepLearning
++ [[https://github.com/j991222/ai4math-papers][AI for Mathematics (AI4Math) paper list]]. ~ Haocheng Ju. #AI #Math #ITP #MachineLearning
 
 ** Junio 2024
 
