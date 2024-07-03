@@ -63,6 +63,14 @@ its content.
 
 ** Julio 2024
 
+*** 02-Jul-24
++ [[https://arxiv.org/abs/2310.02704][Extending Isabelle/HOL's code generator with support for the Go programming language]]. ~ Terru Stübinger, Lars Hupel. #ITP #IsabelleHOL
++ [[https://arxiv.org/abs/2403.18229][A comprehensive overview of the Lebesgue differentiation theorem in Coq]]. ~ Reynald Affeldt, Zachary Stone. #ITP #Coq #Math
++ [[https://leanprover-community.github.io/blog/posts/month-in-mathlib/2024/month-in-mathlib-may-2024/][This month in Mathlib (May 2024)]]. #ITP #Lean4 #Mathlib #Math
++ [[https://okmij.org/ftp/Algorithms/map-monoid-reduce.html][Folding in parallel]]. ~ Oleg Kiselyov. #FunctionalProgramming #Haskell
++ [[https://realpython.com/python-built-in-functions/][Python's built-in functions: A complete exploration]]. ~ Leodanis Pozo Ramos. #Python #Programming
++ [[https://www.logicmatters.net/resources/pdfs/SmithCat.pdf][Introducing category theory]]. ~ Peter Smith (@PeterSmith@mathstodon.xyz). #CategoryTheory
+
 *** 01-Jul-24
 + [[https://rucore.libraries.rutgers.edu/rutgers-lib/72436/PDF/1/play/][Formalized synthetic geometry]]. ~ André Hernández-Espiet. #PhDThesis #ITP #Lean4 #Math
 + [[https://era.ed.ac.uk/bitstream/handle/1842/41930/ChevallierM_2024.pdf][Verification using formalised mathematics and theorem proving of reinforcement and deep learning]]. ~ Mark Chevallier. #ITP #IsabelleHOL #DeepLearning
