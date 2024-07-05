@@ -63,6 +63,11 @@ its content.
 
 ** Julio 2024
 
+*** 04-Jul-24
++ [[https://leanfirststeps.blogspot.com/p/contents.html][Lean: First steps]]. #ITP #Lean4 #Math
++ [[https://arxiv.org/abs/2407.03203][TheoremLlama: Transforming general-purpose LLMs into Lean4 experts]]. ~ Ruida Wang et als. #ITP #Lean4 #LLMs
++ [[https://www.youtube.com/live/gN6zIfkdlxE][The Haskell Unfolder Episode 28: Type families and overlapping instances]]. ~ Edsko de Vries (@EdskoDeVries), Andres Löh (@kosmikus@functional.cafe). #Haskell #FunctionalProgramming
+
 *** 02-Jul-24
 + [[https://arxiv.org/abs/2310.02704][Extending Isabelle/HOL's code generator with support for the Go programming language]]. ~ Terru Stübinger, Lars Hupel. #ITP #IsabelleHOL
 + [[https://arxiv.org/abs/2403.18229][A comprehensive overview of the Lebesgue differentiation theorem in Coq]]. ~ Reynald Affeldt, Zachary Stone. #ITP #Coq #Math
