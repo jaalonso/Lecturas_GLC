@@ -63,6 +63,20 @@ its content.
 
 ** Julio 2024
 
+*** 05-Jul-24
++ [[https://link.springer.com/content/pdf/10.1007/978-3-031-63498-7_1][Automated reasoning for mathematics]]. ~ Jeremy Avigad. #ATP #ITP #Math
++ [[https://link.springer.com/content/pdf/10.1007/978-3-031-63498-7_26][Fast and verified UNSAT certificate checking]]. ~ Peter Lammich. #ITP #IsabelleHOL #SAT
++ [[https://arxiv.org/abs/2210.12150][Formalizing chemical physics using the Lean theorem prover]]. ~ Maxwell P. Bobbin, Samiha Sharlin, Parivash Feyzishendi, An Hong Dang, Catherine M. Wraback, Tyler R. Josephson. #ITP #Lean4
++ [[https://pitmonticone.github.io/FLT3/blueprint.pdf][Formalising Fermat’s last theorem for exponent 3 in Lean]]. ~ Pietro Monticone. #ITP #Lean4 #Math
++ [[https://www.uv.es/coslloen/Arxiu/Fitxers/TFG/2024PonsLlopis.pdf][Verificació formal de formes equivalents de l’axioma d’elecció]]. ~ Vicent Pons Llopis. #TFG #ITP #Lean4 #Math
++ [[https://link.springer.com/chapter/10.1007/978-3-031-63498-7_4][An empirical assessment of progress in automated theorem proving]]. ~ Geoff Sutcliffe et als. #ATP
++ [[https://link.springer.com/content/pdf/10.1007/978-3-031-63498-7_13][Lemma discovery and strategies for automated induction]]. ~ Sólrún Halla Einarsdóttir, Márton Hajdu, Moa Johansson, Nicholas Smallbone, Martin Suda. #FunctionalProgramming #Haskell
++ [[https://ceur-ws.org/Vol-3717/paper7.pdf][A technological approach to teaching inequalities, propositional and predicate logic]]. ~ Zoltán Kovács, Reinhard Oldenburg. #Logic #GeoGebra
++ [[https://ceur-ws.org/Vol-3717/paper3.pdf][A natural-language proof assistant for higher-order logic (Work in progress)]]. ~ Adam Dingle. #ITP #Natty #OCaml
++ [[https://github.com/medovina/natty][Natty: a natural-language proof assistant with an embedded automatic prover for higher-order logic]]. ~ Adam Dingle. #ITP #Natty #OCaml
++ [[https://arxiv.org/abs/2407.00695][Learning formal mathematics from intrinsic motivation]]. ~ Gabriel Poesia, David Broman, Nick Haber, Noah D. Goodman. #Math #AI
++ [[https://stevana.github.io/the_sad_state_of_property-based_testing_libraries.html][The sad state of property-based testing libraries]]. ~ #FunctionalProgramming #Haskell
+
 *** 04-Jul-24
 + [[https://leanfirststeps.blogspot.com/p/contents.html][Lean: First steps]]. #ITP #Lean4 #Math
 + [[https://arxiv.org/abs/2407.03203][TheoremLlama: Transforming general-purpose LLMs into Lean4 experts]]. ~ Ruida Wang et als. #ITP #Lean4 #LLMs
