@@ -63,6 +63,9 @@ its content.
 
 ** Julio 2024
 
+*** 06-Jul-24
++ [[https://www.quantamagazine.org/amateur-mathematicians-find-fifth-busy-beaver-turing-machine-20240702/][With fifth busy beaver, researchers approach computation’s limits (After decades of uncertainty, a motley team of programmers has proved precisely how complicated simple computer programs can get)]]. ~ Ben Brubaker. #ITP #Coq #Math
+
 *** 05-Jul-24
 + [[https://link.springer.com/content/pdf/10.1007/978-3-031-63498-7_1][Automated reasoning for mathematics]]. ~ Jeremy Avigad. #ATP #ITP #Math
 + [[https://link.springer.com/content/pdf/10.1007/978-3-031-63498-7_26][Fast and verified UNSAT certificate checking]]. ~ Peter Lammich. #ITP #IsabelleHOL #SAT
