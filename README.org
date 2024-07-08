@@ -63,6 +63,18 @@ its content.
 
 ** Julio 2024
 
+*** 07-Jul-24
++ [[https://drops.dagstuhl.de/storage/00lipics/lipics-vol299-fscd2024/LIPIcs.FSCD.2024/LIPIcs.FSCD.2024.pd][Lean: Past, present, and future]]. ~ Sebastian Ullrich.f#page=61 #ITP #Lean4
++ [[https://hal.science/hal-04633614/document][Categorical foundations of formalized condensed mathematics]]. ~ Dagur Asgeirsson et als. #ITP #Lean4 #Math
++ [[https://bhaktishh.github.io/papers/popl-24-src-abs.pdf][A Lean formalization of Cedar]]. ~ Bhakti Shah. #ITP #Lean4
++ [[https://drops.dagstuhl.de/storage/00lipics/lipics-vol299-fscd2024/LIPIcs.FSCD.2024/LIPIcs.FSCD.2024.pdf#page=551][A verified algorithm for deciding pattern completeness]]. ~ René Thiemann, Akihisa Yamada. #ITP #IsabelleHOL #Haskell
++ [[https://publishup.uni-potsdam.de/opus4-ubp/frontdoor/deliver/index/docId/64255/file/frank_diss.pdf][On synthesising Linux kernel module components from Coq formalisations]]. ~ Mario Frank. #PhDThesis #ITP #Coq
++ [[https://arxiv.org/abs/2407.02704][Monads, comonads, and transducers]]. ~ Rafał Stefański. #ITP #Coq
++ [[https://drops.dagstuhl.de/storage/00lipics/lipics-vol299-fscd2024/LIPIcs.FSCD.2024/LIPIcs.FSCD.2024.pdf#page=127][Machine-checked categorical diagrammatic reasoning]]. ~ Benoît Guillemet, Assia Mahboubi, Matthieu Piquerez. #ITP #Coq
++ [[https://drops.dagstuhl.de/storage/00lipics/lipics-vol299-fscd2024/LIPIcs.FSCD.2024/LIPIcs.FSCD.2024.pdf#page=147][Mechanized subject expansion in uniform intersection types for perpetual reductions]]. ~ Andrej Dudenhefner, Daniele Pautasso. #ITP #Coq
++ [[https://drops.dagstuhl.de/storage/00lipics/lipics-vol299-fscd2024/LIPIcs.FSCD.2024/LIPIcs.FSCD.2024.pdf#page=513][Substitution for non-wellfounded syntax with binders through monoidal categories]]. ~ Ralph Matthes, Kobe Wullaert, Benedikt Ahrens. #ITP #Coq
++ [[https://drops.dagstuhl.de/storage/00lipics/lipics-vol299-fscd2024/LIPIcs.FSCD.2024/LIPIcs.FSCD.2024.pdf#page=107][Delooping generated groups in homotopy type theory]]. ~ Camil Champin, Samuel Mimram, Émile Oleon. #ITP #Agda #Math
+
 *** 06-Jul-24
 + [[https://www.quantamagazine.org/amateur-mathematicians-find-fifth-busy-beaver-turing-machine-20240702/][With fifth busy beaver, researchers approach computation’s limits (After decades of uncertainty, a motley team of programmers has proved precisely how complicated simple computer programs can get)]]. ~ Ben Brubaker. #ITP #Coq #Math
 
