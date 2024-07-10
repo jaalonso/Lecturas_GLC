@@ -63,6 +63,11 @@ its content.
 
 ** Julio 2024
 
+*** 09-Jul-24
++ [[https://leanfirststeps.blogspot.com/2024/07/05-inequalities.html][Lean: First steps (05 - Inequalities)]]. ~ Tariq Rashid (@rzeta0@mastodon.social). #ITP #Lean4 #Math
++ [[https://lecopivo.github.io/scientific-computing-lean/title.html][Scientific computing in Lean]]. ~ Tomáš Skřivan. #ITP #Lean4
++ [[https://arxiv.org/abs/2308.10686][Normative conditional reasoning as a fragment of HOL]]. ~ Xavier Parent, Christoph Benzmüller. #ITP #IsabelleHOL #Logic
+
 *** 07-Jul-24
 + [[https://drops.dagstuhl.de/storage/00lipics/lipics-vol299-fscd2024/LIPIcs.FSCD.2024/LIPIcs.FSCD.2024.pd][Lean: Past, present, and future]]. ~ Sebastian Ullrich.f#page=61 #ITP #Lean4
 + [[https://hal.science/hal-04633614/document][Categorical foundations of formalized condensed mathematics]]. ~ Dagur Asgeirsson et als. #ITP #Lean4 #Math
