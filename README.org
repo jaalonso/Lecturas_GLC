@@ -63,6 +63,15 @@ its content.
 
 ** Julio 2024
 
+*** 10-Jul-24
++ [[https://www.trs.css.i.nagoya-u.ac.jp/event/iwc2024/IWC2024_proceedings.pdf#page=35][On non-triviality of the hierarchy of decreasing Church-Rosser abstract rewriting systems]]. ~ Ievgen Ivanov. #ITP #IsabelleHOL
++ [[https://arxiv.org/abs/2407.06222][Formalization of the filter extension principle (FEP) in Coq]]. ~ Guowei Dou, Wensheng Yu. #ITP #Coq
++ [[https://arxiv.org/abs/2407.06625][Binding contexts as partitionable multisets in Abella]]. ~ Terrance Gray, Gopalan Nadathur. #ITP #Abella
++ [[https://arxiv.org/abs/2407.06624][A Beluga formalization of the Harmony Lemma in the π-calculus]]. ~ Gabriele Cecilia, Alberto Momigliano. #ITP #Beluga
++ [[https://www.trs.css.i.nagoya-u.ac.jp/event/iwc2024/IWC2024_proceedings.pdf#page=61][Confluence by the Z-property for De Bruijn’s λ-calculus with nameless dummies, based on PLFA∗]]. ~ Vincent van Oostrom. #ITP #Agda
++ [[https://arxiv.org/abs/2407.03685][Verifying peephole rewriting in SSA compiler IRs]]. ~ Siddharth Bhat, Alex Keizer, Chris Hughes, Andrés Goens, Tobias Grosser. #ITP #Lean4
++ [[https://www.trs.css.i.nagoya-u.ac.jp/event/iwc2024/IWC2024_proceedings.pdf#page=74][Moca 0.3: A first-order theorem prover for Horn clauses]]. ~ Yusuke Oi, Nao Hirokawa, Teppei Saito. #Haskell #ATP #Logic
+
 *** 09-Jul-24
 + [[https://leanfirststeps.blogspot.com/2024/07/05-inequalities.html][Lean: First steps (05 - Inequalities)]]. ~ Tariq Rashid (@rzeta0@mastodon.social). #ITP #Lean4 #Math
 + [[https://lecopivo.github.io/scientific-computing-lean/title.html][Scientific computing in Lean]]. ~ Tomáš Skřivan. #ITP #Lean4
