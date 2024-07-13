@@ -63,6 +63,12 @@ its content.
 
 ** Julio 2024
 
+*** 12-Jul-24
++ [[https://arxiv.org/abs/2407.08090][Functional programming in learning electromagnetic theory]]. ~ Scott N. Walck. #FunctionalProgramming #Haskell #Physics
++ [[https://lazamar.github.io/haskell-data-compression-with-huffman-codes/][Building a data compression utility in Haskell using Huffman codes]]. ~ Marcelo Lazaroni (@Marcelolaza). #FunctionalProgramming #Haskell
++ [[https://cdsmithus.medium.com/collatz-computations-in-base-2-and-3-af04976d7826][Collatz computations in base 2 and 3]]. ~ Chris Smith. #FunctionalProgramming #Haskell #Math
++ [[https://arxiv.org/abs/2402.15174][The flower calculus]]. ~ Pablo Donato. #ITP #Coq #Logic
+
 *** 10-Jul-24
 + [[https://www.trs.css.i.nagoya-u.ac.jp/event/iwc2024/IWC2024_proceedings.pdf#page=35][On non-triviality of the hierarchy of decreasing Church-Rosser abstract rewriting systems]]. ~ Ievgen Ivanov. #ITP #IsabelleHOL
 + [[https://arxiv.org/abs/2407.06222][Formalization of the filter extension principle (FEP) in Coq]]. ~ Guowei Dou, Wensheng Yu. #ITP #Coq
