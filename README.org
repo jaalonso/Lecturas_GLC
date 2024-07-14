@@ -63,6 +63,16 @@ its content.
 
 ** Julio 2024
 
+*** 13-Jul-24
++ [[https://youtu.be/gi8ZTjRO-xI][IMO 1987 Problem 4: Animated Lean 4 proof]]. ~ David Renshaw. #ITP #Lean4 #Math #IMO
++ [[https://arxiv.org/abs/2407.06222][Formalization of the filter extension principle (FEP) in Coq]]. ~ Guowei Dou, Wensheng Yu. #ITP #Coq #Logic #Math
++ [[https://arxiv.org/abs/2407.06625][Binding contexts as partitionable multisets in Abella]]. ~ Terrance Gray, Gopalan Nadathur. #ITP #Abella
++ [[https://arxiv.org/abs/2407.06952][Domain theory in univalent foundations I: Directed complete posets and Scott's D∞]]. ~ Tom de Jong. #ITP #Agda
++ [[https://arxiv.org/abs/2407.06956][Domain theory in univalent foundations II: Continuous and algebraic domains]]. ~ Tom de Jong, Martín Hötzel Escardó. #ITP #Agda
++ [[https://mizar.uwb.edu.pl/fm/fm32/field_15.pdf][Separable polynomials and separable extensions]]. ~ Christoph Schwarzweller. #ITP #Mizar #Math
++ [[https://mizar.uwb.edu.pl/fm/fm32/mesfun17.pdf][Integral of continuous three variable functions]]. ~ Noboru Endou. #ITP #Mizar #Math
++ [[https://byorgey.github.io/blog/posts/2024/07/11/cpih-factor-full-tree.html][Competitive programming in Haskell: Tree path decomposition, part I]]. ~ Brent Yorgey (@byorgey@mathstodon.xyz). #FunctionalProgramming #Haskell
+
 *** 12-Jul-24
 + [[https://arxiv.org/abs/2407.08090][Functional programming in learning electromagnetic theory]]. ~ Scott N. Walck. #FunctionalProgramming #Haskell #Physics
 + [[https://lazamar.github.io/haskell-data-compression-with-huffman-codes/][Building a data compression utility in Haskell using Huffman codes]]. ~ Marcelo Lazaroni (@Marcelolaza). #FunctionalProgramming #Haskell
