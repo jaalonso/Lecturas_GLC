@@ -63,6 +63,10 @@ its content.
 
 ** Julio 2024
 
+*** 14-Jul-24
++ [[https://iltp.de/ARQNL-2024/download/proceedings_preli/4_ARQNL_2024_paper_5.pdf][Implementing the Fatio protocol for multi-agent argumentation in LogiKEy]]. ~ Luca Pasetto, Christoph Benzmüller. #Logic #ITP #IsabelleHOL
++ [[https://iltp.de/ARQNL-2024/download/proceedings_preli/2_ARQNL_2024_paper_8.pdf][Implementing intermediate logics]]. ~ Bastiaan Haaksema, Jens Otten, Revantha Ramanayake. #ATP #Logic #Haskell #Prolog
+
 *** 13-Jul-24
 + [[https://youtu.be/gi8ZTjRO-xI][IMO 1987 Problem 4: Animated Lean 4 proof]]. ~ David Renshaw. #ITP #Lean4 #Math #IMO
 + [[https://arxiv.org/abs/2407.06222][Formalization of the filter extension principle (FEP) in Coq]]. ~ Guowei Dou, Wensheng Yu. #ITP #Coq #Logic #Math
