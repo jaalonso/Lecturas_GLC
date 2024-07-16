@@ -63,6 +63,11 @@ its content.
 
 ** Julio 2024
 
+*** 15-Jul-24
++ [[https://qbf24.pages.sai.jku.at/quantify/villadsen.pdf][Formalizing implicational axiomatics for classical first-order logic with functions in Isabelle/HOL]]. ~ Jørgen Villadsen, Roberto Pettinau. #ITP #IsabelleHOL #Logic
++ [[https://books.google.nl/books?id=tpkTEQAAQBAJ&lpg=PR1&hl=es&pg=PR.1#v=onepage&q&f=false][Mathematics in programming]]. ~ Xinyu Liu #Math #CompSci #Haskell
++ [[https://www.mr70.eu/posts/dmcommunity_org_challenge-jul-2024/][Smart investment problem with Prolog]]. ~ Matteo Redaelli (@matteoredaelli). #Prolog
+
 *** 14-Jul-24
 + [[https://iltp.de/ARQNL-2024/download/proceedings_preli/4_ARQNL_2024_paper_5.pdf][Implementing the Fatio protocol for multi-agent argumentation in LogiKEy]]. ~ Luca Pasetto, Christoph Benzmüller. #Logic #ITP #IsabelleHOL
 + [[https://iltp.de/ARQNL-2024/download/proceedings_preli/2_ARQNL_2024_paper_8.pdf][Implementing intermediate logics]]. ~ Bastiaan Haaksema, Jens Otten, Revantha Ramanayake. #ATP #Logic #Haskell #Prolog
