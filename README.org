@@ -63,6 +63,11 @@ its content.
 
 ** Julio 2024
 
+*** 16-Jul-24
++ [[https://lfmtp.github.io/lfmtp-page/workshops/2024/wip_1_vaishnav.pdf][A term-patching framework for eliminating definitional equalities in Lean (Work-in-progress)]]. ~ Rishikesh Vaishnav. #ITP #Lean4
++ [[https://dash.harvard.edu/bitstream/handle/1/37379274/Senior_Thesis_Tarun_Prasad.pdf][Guided proof search using large language models and lemma extraction in Coq]]. ~ Tarun Prasad. #ITP #Coq #LLMs
++ [[https://github.com/shishimaru/gemini-code-completion.el][Code completion with Google Gemini for Emacsen]]. ~ Hitoshi Uchida. #Programming #Emacs #Gemini
+
 *** 15-Jul-24
 + [[https://qbf24.pages.sai.jku.at/quantify/villadsen.pdf][Formalizing implicational axiomatics for classical first-order logic with functions in Isabelle/HOL]]. ~ Jørgen Villadsen, Roberto Pettinau. #ITP #IsabelleHOL #Logic
 + [[https://books.google.nl/books?id=tpkTEQAAQBAJ&lpg=PR1&hl=es&pg=PR.1#v=onepage&q&f=false][Mathematics in programming]]. ~ Xinyu Liu #Math #CompSci #Haskell
