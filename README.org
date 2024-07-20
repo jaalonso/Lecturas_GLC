@@ -63,6 +63,12 @@ its content.
 
 ** Julio 2024
 
+*** 19-Jul-24
++ [[https://arxiv.org/abs/2407.12840][Categorical foundations of formalized condensed mathematics]]. ~ Dagur Asgeirsson et als. #ITP #Lean4 #Math
++ [[https://youtu.be/nlTJU8wLo7E][Haskell for dilettantes, Part 1: Intro]]. ~ Tea Leaves. #FunctionalProgramming #Haskell
++ [[https://youtu.be/qy0AO0tWFOU][Haskell for dilettantes, Part 2: Expressions, types, and functions]]. ~ Tea Leaves. #FunctionalProgramming #Haskell
++ [[https://youtu.be/HgLrsnBs2FQ][Haskell for dilettantes, Part 3a: Homework 1, Exercise 1]]. ~ Tea Leaves. #FunctionalProgramming #Haskell
+
 *** 16-Jul-24
 + [[https://lfmtp.github.io/lfmtp-page/workshops/2024/wip_1_vaishnav.pdf][A term-patching framework for eliminating definitional equalities in Lean (Work-in-progress)]]. ~ Rishikesh Vaishnav. #ITP #Lean4
 + [[https://dash.harvard.edu/bitstream/handle/1/37379274/Senior_Thesis_Tarun_Prasad.pdf][Guided proof search using large language models and lemma extraction in Coq]]. ~ Tarun Prasad. #ITP #Coq #LLMs
