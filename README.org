@@ -63,6 +63,13 @@ its content.
 
 ** Julio 2024
 
+*** 20-Jul-24
++ [[https://arxiv.org/abs/2407.10040][Lean-STaR: Learning to interleave thinking and proving]]. ~ Haohan Lin, Zhiqing Sun, Yiming Yang, Sean Welleck. #ITP #Lean4 #LLMs
++ [[https://arxiv.org/abs/2407.11214v1][PutnamBench: Evaluating neural theorem-provers on the Putnam mathematical competition]]. ~ George Tsoukalas et als. #LLMs #ITP #Lean4 #IsabelleHOL #Coq
++ [[https://arxiv.org/abs/2407.11831][Haskelite: A tracing interpreter based on a pattern-matching calculus]]. ~ Pedro Vasconcelos, Rodrigo Marques. #FunctionalProgramming #Haskell
++ [[https://ilyasergey.net/assets/pdf/papers/pika-ecoop24.pdf][Higher-order specifications for deductive synthesis of programs with pointers]]. ~ David Young et als. #FunctionalProgramming #Pika
++ [[https://arxiv.org/abs/2407.09959][The significance of symbolic logic for scientific education]]. ~ André Platzer. #Logic #CompSci
+
 *** 19-Jul-24
 + [[https://arxiv.org/abs/2407.12840][Categorical foundations of formalized condensed mathematics]]. ~ Dagur Asgeirsson et als. #ITP #Lean4 #Math
 + [[https://youtu.be/nlTJU8wLo7E][Haskell for dilettantes, Part 1: Intro]]. ~ Tea Leaves. #FunctionalProgramming #Haskell
