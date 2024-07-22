@@ -63,6 +63,13 @@ its content.
 
 ** Julio 2024
 
+*** 21-Jul-24
++ [[https://raw.githubusercontent.com/gteege/gentle-isabelle/main/man-isabelle.pdf][A gentle introduction to Isabelle and Isabelle/HOL]]. ~ Gunnar Teege. #ITP #IsabelleHOL
++ [[https://arxiv.org/abs/2407.13619][A tree rewriting system for the Reflection Calculus]]. ~ Sofía Santiago-Fernández, Joost J. Joosten, David Fernández-Duque. #ITP #Coq #Logic
++ [[https://www.jot.fm/issues/issue_2024_03/article1.pdf][Automated proof tactics for model transformation]]. ~ Julien Cohen, Massimo Tisi, Remi Douence. #ITP #Coq
++ [[https://arxiv.org/abs/2407.13671][Liquid amortization: Proving amortized complexity with LiquidHaskell (Functional pearl)]]. ~ Jan van Brügge. #FunctionalProgramming #Haskell #LiquidHaskell
++ [[https://www.quantamagazine.org/monumental-proof-settles-geometric-langlands-conjecture-20240719/][Monumental proof settles geometric Langlands conjecture]]. ~ Erica Klarreich (@EricaKlarreich). #Math
+
 *** 20-Jul-24
 + [[https://arxiv.org/abs/2407.10040][Lean-STaR: Learning to interleave thinking and proving]]. ~ Haohan Lin, Zhiqing Sun, Yiming Yang, Sean Welleck. #ITP #Lean4 #LLMs
 + [[https://arxiv.org/abs/2407.11214v1][PutnamBench: Evaluating neural theorem-provers on the Putnam mathematical competition]]. ~ George Tsoukalas et als. #LLMs #ITP #Lean4 #IsabelleHOL #Coq
