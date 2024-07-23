@@ -63,6 +63,9 @@ its content.
 
 ** Julio 2024
 
+*** 22-Jul-24
++ [[https://www.microsiervos.com/archivo/puzzles-y-rubik/robot-resuelve-rompecabezas-200-mas-rapido-personas-habiles.html][Un robot que resuelve rompecabezas 200 veces más rápido que las personas más hábiles]]. ~ @Alvy. #AI
+
 *** 21-Jul-24
 + [[https://raw.githubusercontent.com/gteege/gentle-isabelle/main/man-isabelle.pdf][A gentle introduction to Isabelle and Isabelle/HOL]]. ~ Gunnar Teege. #ITP #IsabelleHOL
 + [[https://arxiv.org/abs/2407.13619][A tree rewriting system for the Reflection Calculus]]. ~ Sofía Santiago-Fernández, Joost J. Joosten, David Fernández-Duque. #ITP #Coq #Logic
