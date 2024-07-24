@@ -63,6 +63,12 @@ its content.
 
 ** Julio 2024
 
+*** 23-Jul-24
++ [[https://matematiflo.github.io/SoSe_2024/notes/07_Intro_to_Lean.pdf][Proseminar on computer-assisted mathematics, session 7: Introduction to Lean]]. ~ Judith Ludwig, Florent Schaffhauser. #ITP #Lean4 #Math
++ [[https://live.lean-lang.org][Proseminar on computer-assisted mathematics, session 7: Introduction to Lean (Code)]]. ~ Judith Ludwig, Florent Schaffhauser./#url=https%3A%2F%2Fmatematiflo.github.io%2FSoSe_2024%2Fcode%2F07_intro_to_Lean.lean #ITP #Lean4 #Math
++ [[https://matematiflo.github.io/SoSe_2024/CompAssistedMath2024.html][(Pro)Seminar on computer-assisted mathematics]]. ~ Judith Ludwig, Florent Schaffhauser. #CAS #Sage #ITP #LeanProver #Math
++ [[https://arxiv.org/abs/2404.17901][Practical deductive verification of OCaml programs (Extended version)]]. ~ Mário Pereira. #FunctionalProgramming #OCaml
+
 *** 22-Jul-24
 + [[https://www.microsiervos.com/archivo/puzzles-y-rubik/robot-resuelve-rompecabezas-200-mas-rapido-personas-habiles.html][Un robot que resuelve rompecabezas 200 veces más rápido que las personas más hábiles]]. ~ @Alvy. #AI
 
