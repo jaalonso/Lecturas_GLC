@@ -63,6 +63,11 @@ its content.
 
 ** Julio 2024
 
+*** 24-Jul-24
++ [[https://blog.cofree.coffee/2024-03-03-lean-for-haskell-developers/][Lean For Haskell developers]]. ~ Solomon. #ITP #Lean4 #FunctionalProgramming #Haskell
++ [[https://arxiv.org/abs/2407.16117][A logic for veracity: Development and implementation]]. ~ Daniel Britten, Steve Reeves. #ITP #Coq #Logic
++ [[https://arxiv.org/abs/2311.14347][Typed compositional quantum computation with lenses]]. ~ Jacques Garrigue, Takafumi Saikawa. #ITP #Coq
+
 *** 23-Jul-24
 + [[https://matematiflo.github.io/SoSe_2024/notes/07_Intro_to_Lean.pdf][Proseminar on computer-assisted mathematics, session 7: Introduction to Lean]]. ~ Judith Ludwig, Florent Schaffhauser. #ITP #Lean4 #Math
 + [[https://live.lean-lang.org][Proseminar on computer-assisted mathematics, session 7: Introduction to Lean (Code)]]. ~ Judith Ludwig, Florent Schaffhauser./#url=https%3A%2F%2Fmatematiflo.github.io%2FSoSe_2024%2Fcode%2F07_intro_to_Lean.lean #ITP #Lean4 #Math
