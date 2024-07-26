@@ -63,6 +63,10 @@ its content.
 
 ** Julio 2024
 
+*** 25-Jul-24
++ [[https://arxiv.org/abs/2407.14107][Approximate relational reasoning for higher-order probabilistic programs]]. ~ Philipp G. Haselwarter, Kwing Hei Li, Alejandro Aguirre, Simon Oddershede Gregersen, Joseph Tassarotti, Lars Birkedal. #ITP #Coq
++ [[https://arxiv.org/abs/2407.17227][LEAN-GitHub: Compiling GitHub LEAN repositories for a versatile LEAN prover]]. ~ Zijian Wu, Jiayu Wang, Dahua Lin, Kai Chen. #LLMs #ITP #Lean4 #Math
+
 *** 24-Jul-24
 + [[https://blog.cofree.coffee/2024-03-03-lean-for-haskell-developers/][Lean For Haskell developers]]. ~ Solomon. #ITP #Lean4 #FunctionalProgramming #Haskell
 + [[https://arxiv.org/abs/2407.16117][A logic for veracity: Development and implementation]]. ~ Daniel Britten, Steve Reeves. #ITP #Coq #Logic
