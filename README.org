@@ -63,6 +63,15 @@ its content.
 
 ** Julio 2024
 
+*** 26-Jul-24
++ [[https://deepmind.google/discover/blog/ai-solves-imo-problems-at-silver-medal-level/][AI achieves silver-medal standard solving International Mathematical Olympiad problems]]. #AI #Math #IMO #Lean4 #AlphaProof #AlphaGeometry2
++ [[https://storage.googleapis.com/deepmind-media/DeepMind.com/Blog/imo-2024-solutions/index.html][Google DeepMind IMO 2024 Solutions]]. #AI #Math #IMO #Lean4 #AlphaProof #AlphaGeometry2
++ [[https://www.nytimes.com/2024/07/25/science/ai-math-alphaproof-deepmind.html][Move over, mathematicians, here comes AlphaProof (A]].I. is getting good at math — and might soon make a worthy collaborator for humans). ~ Siobhan Roberts. #AI #Math #IMO #Lean4 #AlphaProof
++ [[https://kmill.github.io/informalization/ucsc_cse_talk.pdf][To formalized mathematics and back with the Lean theorem prover]]. ~ Kyle Miller. #ITP #LeanProver #Math
++ [[https://lawrencecpaulson.github.io//2024/07/25/Numeric_types.html][The mysteries and frustrations of numerical proofs]]. ~ Lawrence Paulson (@LawrPaulson@mathstodon.xyz). #ITP #IsabelleHOL #Math
++ [[https://fse.studenttheses.ub.rug.nl/33570/1/2-3TreesReport.pdf][Formal verification of 2-3 trees in Coq]]. ~ Horia-Matei Cornea. #ITP #Coq
++ [[https://byorgey.github.io/blog/posts/2024/07/18/River.html][Rivers: eventually constant streams in Haskell]]. ~ Brent Yorgey (@byorgey@mathstodon.xyz). #FunctionalProgramming #Haskell
++ [[https://two-wrongs.com/types-as-interfaces][Types as interfaces]]. #FunctionalProgramming #Haskell
 *** 25-Jul-24
 + [[https://arxiv.org/abs/2407.14107][Approximate relational reasoning for higher-order probabilistic programs]]. ~ Philipp G. Haselwarter, Kwing Hei Li, Alejandro Aguirre, Simon Oddershede Gregersen, Joseph Tassarotti, Lars Birkedal. #ITP #Coq
 + [[https://arxiv.org/abs/2407.17227][LEAN-GitHub: Compiling GitHub LEAN repositories for a versatile LEAN prover]]. ~ Zijian Wu, Jiayu Wang, Dahua Lin, Kai Chen. #LLMs #ITP #Lean4 #Math
