@@ -63,6 +63,10 @@ its content.
 
 ** Julio 2024
 
+*** 27-Jul-24
++ [[https://blog.jle.im/entry/haskell-nuggets-kmeans.html][Haskell nuggets: k-means]]. ~ Justin Lê (@mstk). #FunctionalProgramming #Haskell
++ [[https://arxiv.org/abs/math/0409509][Prove or disprove. 100 conjectures from the OEIS]]. ~ Ralf Stephan. #Math
+
 *** 26-Jul-24
 + [[https://deepmind.google/discover/blog/ai-solves-imo-problems-at-silver-medal-level/][AI achieves silver-medal standard solving International Mathematical Olympiad problems]]. #AI #Math #IMO #Lean4 #AlphaProof #AlphaGeometry2
 + [[https://storage.googleapis.com/deepmind-media/DeepMind.com/Blog/imo-2024-solutions/index.html][Google DeepMind IMO 2024 Solutions]]. #AI #Math #IMO #Lean4 #AlphaProof #AlphaGeometry2
