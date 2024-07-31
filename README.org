@@ -63,6 +63,19 @@ its content.
 
 ** Julio 2024
 
+*** 30-Jul-24
++ [[https://arxiv.org/abs/2407.19211][A construction of the Lie algebra of a Lie group in Isabelle/HOL]]. ~ Richard Schmoetten, Jacques D. Fleuriot. #ITP #IsabelleHOL #Math
++ [[https://arxiv.org/abs/2407.18723v1][LLASP: Fine-tuning Large Language Models for Answer Set Programming]]. ~ Erica Coppolillo, Francesco Calimeri, Giuseppe Manco, Simona Perri, Francesco Ricca. #AI #LLMs #LogicProgramming #ASP
++ [[https://garymarcus.substack.com/p/alphaproof-alphageometry-chatgpt][AlphaProof, AlphaGeometry, ChatGPT, and why the future of AI is neurosymbolic]]. ~ Gary Marcus (@garymarcus@sigmoid.social). #AI
++ [[https://www.microsiervos.com/archivo/humor/calcgpt-calculadora-inutil-inteligente.html][CalcGPT, la calculadora inútil pero «inteligente»]]. ~ @Alvy. #ChatGPT #Math
+
+*** 29-Jul-24
++ [[https://www.researchgate.net/profile/Douglas-Youvan/publication/382360478_Advancing_Mathematics_through_Computers_and_AI_Automation_Discovery_and_Collaboration/links/669978194a172d2988ad3496/Advancing-Mathematics-through-Computers-and-AI-Automation-Discovery-and-Collaboration.pdf][Advancing mathematics through computers and AI: Automation, discovery, and collaboration]]. ~ Douglas C. Youvan. #AI #ITP #CAS #Math
+
+*** 28-Jul-24
++ [[https://studenttheses.uu.nl/bitstream/handle/20.500.12932/46756/formalisation-of-the-finite-simple-conway-groups-in-lean.pdf][Formalisation of the finite simple Conway groups in Lean]]. ~  Erik van der Plas. #ITP #LeanProver #Math
++ [[https://studenttheses.uu.nl/bitstream/handle/20.500.12932/46757/The%20first%20Janko%20group%20-%20Bachelor%20thesis%20Mathematics%20UU%20-%20Roxy%20van%20de%20Kuilen.pdf][The first Janko group J1: simplicity and formalization]]. ~ Roxy van de Kuilen. #ITP #LeanProver #Math
+
 *** 27-Jul-24
 + [[https://blog.jle.im/entry/haskell-nuggets-kmeans.html][Haskell nuggets: k-means]]. ~ Justin Lê (@mstk). #FunctionalProgramming #Haskell
 + [[https://arxiv.org/abs/math/0409509][Prove or disprove. 100 conjectures from the OEIS]]. ~ Ralf Stephan. #Math
