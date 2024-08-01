@@ -63,6 +63,11 @@ its content.
 
 ** Julio 2024
 
+*** 31-Jul-24
++ [[https://link.springer.com/content/pdf/10.1007/s10817-022-09648-w.pdf?pdf=button][A formalization and proof checker for Isabelle’s metalogic]]. ~ Simon Roßkopf, Tobias Nipkow. #ITP #IsabelleHOL
++ [[https://www.researchgate.net/publication/329557898_From_Schutte%27s_Formal_Systems_to_Modern_Automated_Deduction][From Schütte’s formal systems to modern automated deduction]]. ~ Wolfgang Bibel, Jens Otten. #ATP #Logic
++ [[https://arxiv.org/abs/2407.20244][Steamroller problems: An evaluation of LLM reasoning capability with automated theorem prover strategies]]. ~ Lachlan McGinness, Peter Baumgartner. #LLMs #ATP #Reasoning
+
 *** 30-Jul-24
 + [[https://arxiv.org/abs/2407.19211][A construction of the Lie algebra of a Lie group in Isabelle/HOL]]. ~ Richard Schmoetten, Jacques D. Fleuriot. #ITP #IsabelleHOL #Math
 + [[https://arxiv.org/abs/2407.18723v1][LLASP: Fine-tuning Large Language Models for Answer Set Programming]]. ~ Erica Coppolillo, Francesco Calimeri, Giuseppe Manco, Simona Perri, Francesco Ricca. #AI #LLMs #LogicProgramming #ASP
