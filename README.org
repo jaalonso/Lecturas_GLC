@@ -11,6 +11,7 @@ its content.
 
 * Content                                                                      :TOC:
 - [[#lecturas-del-año-2024][Lecturas del año 2024]]
+  - [[#agosto-2024][Agosto 2024]]
   - [[#julio-2024][Julio 2024]]
   - [[#junio-2024][Junio 2024]]
   - [[#mayo-2024][Mayo 2024]]
@@ -60,6 +61,18 @@ its content.
 - [[#lecturas-anteriores][Lecturas anteriores]]
 
 * Lecturas del año 2024
+
+** Agosto 2024
+
+*** 01-Ago-24
++ [[https://youtu.be/BZjAghqKOjI][Continuous functions — formalized in Lean4]]. ~ Dominic Plein & Felix Lentze. #ITP #Lean4 #Math
++ [[https://github.com/Splines/lean-continuous][Continuous functions — formalized in Lean4 (code and a LaTeX document)]]. ~ Dominic Plein & Felix Lentze. #ITP #Lean4 #Math
++ [[https://leansearch.net][LeanSearch: Find theorems in Mathlib4 using natural language query]]. #ITP #Lean4 #Mathlib
++ [[https://huggingface.co/spaces/dx2102/search-mathlib][Search Mathlib: A webpage that searches for Mathlib theorems]]. ~ Deming Xu. #ITP #Lean4 #Mathlib
++ [[https://adam.math.hhu.de][Set Theory Game (An introduction to mathematical proof)]]. ~ Daniel J. Velleman./#/g/djvelleman/stg4 #ITP #Lean4 #Math
++ [[https://adam.math.hhu.de][Lean Game Server (A repository of learning games for the proof assistant Lean (Lean 4) and its mathematical library Mathlib)]]. #ITP #Lean4 #Math
++ [[http://joomy.korkutblech.com/papers/veriffi.pdf][A verified foreign function interface between Coq and C]]. ~ Joomy Korkut, Kathrin Stark, Andrew W. Appel. #ITP #Coq
++ [[https://www.youtube.com/live/KNXi5CrrjKg][The Haskell Unfolder Episode 30: runST]]. ~ Edsko de Vries (@EdskoDeVries), Andres Löh (@kosmikus@functional.cafe). #Haskell #FunctionalProgramming
 
 ** Julio 2024
 
