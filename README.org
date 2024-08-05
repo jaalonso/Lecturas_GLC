@@ -64,6 +64,10 @@ its content.
 
 ** Agosto 2024
 
+*** 04-Ago-24
++ [[https://link.springer.com/chapter/10.1007/978-3-031-65627-9_15][The top-down solver verified: Building confidence in static analyzers]]. Yannick Stade, Sarah Tilscher & Helmut Seidl. #ITP #IsabelleHOL
++ [[https://scholarship.claremont.edu/cgi/viewcontent.cgi?article=1991&context=jhm][Sociomathematical norms and automated proof checking in mathematical education: Reflections and experiences]]. ~ Merlin Carl. #ITP #Diproche #Math
+
 *** 01-Ago-24
 + [[https://youtu.be/BZjAghqKOjI][Continuous functions — formalized in Lean4]]. ~ Dominic Plein & Felix Lentze. #ITP #Lean4 #Math
 + [[https://github.com/Splines/lean-continuous][Continuous functions — formalized in Lean4 (code and a LaTeX document)]]. ~ Dominic Plein & Felix Lentze. #ITP #Lean4 #Math
