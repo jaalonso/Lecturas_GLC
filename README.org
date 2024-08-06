@@ -64,6 +64,11 @@ its content.
 
 ** Agosto 2024
 
+*** 05-Ago-24
++ [[https://arxiv.org/abs/2408.00986][A SAT-based approach to rigorous verification of Bayesian networks]]. ~ Ignacy Stępka, Nicholas Gisolfi & Artur Dubrawski. #ATP #SAT
++ [[https://adueck.github.io/blog/on-haskell-jazz-and-pure-math/][Why does everyone hate Haskell, jazz, and pure math? ~ Adam Dueck]]. #Haskell #FunctionalProgramming
++ [[https://adueck.github.io/blog/curry-howard-proofs-are-programs/][Proofs are programs: A few examples of the Curry-Howard correspondence]]. ~ Adam Dueck. #CurryHoward #TypeScript
+
 *** 04-Ago-24
 + [[https://link.springer.com/chapter/10.1007/978-3-031-65627-9_15][The top-down solver verified: Building confidence in static analyzers]]. Yannick Stade, Sarah Tilscher & Helmut Seidl. #ITP #IsabelleHOL
 + [[https://scholarship.claremont.edu/cgi/viewcontent.cgi?article=1991&context=jhm][Sociomathematical norms and automated proof checking in mathematical education: Reflections and experiences]]. ~ Merlin Carl. #ITP #Diproche #Math
