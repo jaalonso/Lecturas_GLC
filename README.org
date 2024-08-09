@@ -64,6 +64,10 @@ its content.
 
 ** Agosto 2024
 
+*** 07-Ago-24
++ [[https://arxiv.org/abs/2404.09939][A survey on deep learning for theorem proving]]. ~ Zhaoyu Li, Jialiang Sun, Logan Murphy, Qidong Su, Zenan Li, Xian Zhang, Kaiyu Yang, Xujie Si. #ITP #DeepLearning
++ [[https://youtu.be/KyuyTsLgkMY][Getting started with Blueprint-Driven formalization projects in Lean]]. ~ Pietro Monticone (@PietroMonticone). #ITP #LeanProver #Lean4
+
 *** 05-Ago-24
 + [[https://arxiv.org/abs/2408.00986][A SAT-based approach to rigorous verification of Bayesian networks]]. ~ Ignacy Stępka, Nicholas Gisolfi & Artur Dubrawski. #ATP #SAT
 + [[https://adueck.github.io/blog/on-haskell-jazz-and-pure-math/][Why does everyone hate Haskell, jazz, and pure math? ~ Adam Dueck]]. #Haskell #FunctionalProgramming
