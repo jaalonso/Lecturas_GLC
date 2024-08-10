@@ -64,6 +64,20 @@ its content.
 
 ** Agosto 2024
 
+*** 09-Ago-24
++ [[https://lawrencecpaulson.github.io/2024/08/08/Ln_lower_bound.html][A tricky lower bound proof]]. ~ Lawrence Paulson (@LawrPaulson@mathstodon.xyz). #ITP #IsabelleHOL #Math
++ [[https://era.ed.ac.uk/bitstream/handle/1842/42057/Fern%C3%A1ndez%20Mir2024.pdf][Verified transformations for convex programming]]. ~ Ramon Fernández Mir. #ITP #Lean4 #Math
++ [[https://arxiv.org/abs/2408.04564][First steps towards computational polynomials in Lean]]. ~ James Harold Davenport. #ITP #LeanProver #Math
++ [[https://arxiv.org/abs/2312.15641][Formalising the double-pushout approach to graph transformation]]. ~ Robert Söldner & Detlef Plump. #ITP #IsabelleHOL
++ [[https://www.diva-portal.org/smash/get/diva2:1879891/FULLTEXT01.pdf][Validation of a formal floating-point model for the interactive proof  assistant Isabelle/HOL]]. ~ Olof Lindström. #ITP #IsabelleHOL
++ [[https://www.diva-portal.org/smash/get/diva2:1879248/FULLTEXT01.pdf][Validation of HOL4's formal floating-point model]]. ~ Hugo Eidmann. #ITP #HOL4
++ [[https://arxiv.org/abs/2310.04353][An in-context learning agent for formal theorem-proving]]. ~ Amitayush Thakur, George Tsoukalas, Yeming Wen, Jimmy Xin & Swarat Chaudhuri. #LLMs #ITP #Coq #LeanProver
++ [[https://byorgey.github.io/blog/posts/2024/08/08/TreeDecomposition.html][Competitive programming in Haskell: Tree path decomposition, part II]]. ~ Brent Yorgey (@byorgey@mathstodon.xyz). #Haskell #FunctionalProgramming
++ [[https://arxiv.org/abs/2408.03170][typedKanren: Statically typed relational programming with exhaustive matching in Haskell]]. ~ Nikolai Kudasov & Artem Starikov. #Haskell #FunctionalProgramming
++ [[https://books.google.nl/books?id=_6eJEAAAQBAJ&lpg=PR1&hl=es&pg=PR.8#v=onepage&q&f=false][Combinatorial and algorithmic mathematics (From foundation to optimization)]] ~ Baha M. Alzalg #Math
++ [[https://books.google.nl/books?id=Y7IXEQAAQBAJ&lpg=PP1&hl=es&pg=PP1#v=onepage&q&f=false][Intelligent Computer Mathematics (17th International Conference, CICM 2024, Proceedings)]] #ITP #Math
++ [[https://youtu.be/_sTDSO74D8Q][The potential for AI in science and mathematics]]. ~ Terence Tao. #IA #Math #ITP #LeanProver
+
 *** 07-Ago-24
 + [[https://arxiv.org/abs/2404.09939][A survey on deep learning for theorem proving]]. ~ Zhaoyu Li, Jialiang Sun, Logan Murphy, Qidong Su, Zenan Li, Xian Zhang, Kaiyu Yang, Xujie Si. #ITP #DeepLearning
 + [[https://youtu.be/KyuyTsLgkMY][Getting started with Blueprint-Driven formalization projects in Lean]]. ~ Pietro Monticone (@PietroMonticone). #ITP #LeanProver #Lean4
