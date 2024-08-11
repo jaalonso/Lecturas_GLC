@@ -64,6 +64,9 @@ its content.
 
 ** Agosto 2024
 
+*** 10-Ago-24
++ [[https://freefrancisco.hashnode.dev/function-composition-and-currying-in-python][Function composition and currying in Python (Python in the streets, Haskell in the sheets!)]]. ~ Francisco Gutierrez. #Python #Haskell #FunctionalProgramming
+
 *** 09-Ago-24
 + [[https://lawrencecpaulson.github.io/2024/08/08/Ln_lower_bound.html][A tricky lower bound proof]]. ~ Lawrence Paulson (@LawrPaulson@mathstodon.xyz). #ITP #IsabelleHOL #Math
 + [[https://era.ed.ac.uk/bitstream/handle/1842/42057/Fern%C3%A1ndez%20Mir2024.pdf][Verified transformations for convex programming]]. ~ Ramon Fernández Mir. #ITP #Lean4 #Math
