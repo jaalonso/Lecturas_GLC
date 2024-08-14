@@ -64,6 +64,12 @@ its content.
 
 ** Agosto 2024
 
+*** 13-Ago-24
++ [[https://arxiv.org/abs/2212.10931][An elementary proof of the FMP for Kleene algebra]]. ~ Tobias Kappé. #ITP #Coq #Math
++ [[https://arxiv.org/abs/2308.15465][Sharing proofs with predicative theories through universe-polymorphic elaboration]]. ~ Thiago Felicissimo & Frédéric Blanqui. #ITP #Agda #Coq
++ [[https://www.philipzucker.com/knuck_exp/][Bounding Euler's constant]]. ~ Philip Zucker (@sandmouth@types.pl). #Math #Python
++ [[https://www.mathvalues.org/masterblog/algebra-its-not-what-it-was][Algebra. It's powerful. But it's not what it was]]. ~ Keith Devlin (@KeithDevlin@fediscience.org). #Math
+
 *** 10-Ago-24
 + [[https://freefrancisco.hashnode.dev/function-composition-and-currying-in-python][Function composition and currying in Python (Python in the streets, Haskell in the sheets!)]]. ~ Francisco Gutierrez. #Python #Haskell #FunctionalProgramming
 
