@@ -64,6 +64,11 @@ its content.
 
 ** Agosto 2024
 
+*** 14-Ago-24
++ [[https://sinhp.github.io/teaching/2022-introduction-to-proofs-with-Lean][Introduction to proofs with Lean proof assistant]]. ~  Sina Hazratpour (@sina_htpr). #ITP #LeanProver
++ [[https://www.uv.es/coslloen/Lean4.html][Taller de Lean 4]]. ~ Enric Cosme, Mario Vago. #ITP #LeanProver #Lean4
++ [[https://arxiv.org/abs/2205.09617][A topological approach for semi-supervised learning]]. ~ Adrián Inés, César Domínguez, Jónathan Heras, Gadea Mata & Julio Rubio. #AI #MachineLearning #Math
+
 *** 13-Ago-24
 + [[https://arxiv.org/abs/2212.10931][An elementary proof of the FMP for Kleene algebra]]. ~ Tobias Kappé. #ITP #Coq #Math
 + [[https://arxiv.org/abs/2308.15465][Sharing proofs with predicative theories through universe-polymorphic elaboration]]. ~ Thiago Felicissimo & Frédéric Blanqui. #ITP #Agda #Coq
