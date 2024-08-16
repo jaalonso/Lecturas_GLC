@@ -64,6 +64,13 @@ its content.
 
 ** Agosto 2024
 
+*** 15-Ago-24
++ [[https://comp.anu.edu.au/courses/comp4011-itp/lectures/comp4011_slides.pdf][Software verification with Isabelle/HOL]]. ~ Peter Höfner. #ITP #IsabelleHOL
++ [[https://github.com/clayrat/fav-ssr/][Functional algorithms verified in SSReflect]]. ~ Alex Gryzlov et als. #ITP #Coq #SSReflect
++ [[https://flaviocorpa.com/haskell-for-elm-developers-giving-names-to-stuff-part-5-semigroups-and-monoids.html][Haskell for Elm developers: giving names to stuff (Part 5 - Semigroups and Monoids)]]. ~ Flavio Corpa (@FlavioCorpa). #Haskell #Elm #FunctionalProgramming
++ [[https://www.youtube.com/live/NTW62s3mrXQ][The Haskell Unfolder Episode 31: nothunks]]. ~ Edsko de Vries (@EdskoDeVries), Andres Löh (@kosmikus@functional.cafe). #Haskell #FunctionalProgramming
++ [[https://arxiv.org/abs/2408.07499][Galois theory]]. ~ Tom Leinster. #Math
+
 *** 14-Ago-24
 + [[https://sinhp.github.io/teaching/2022-introduction-to-proofs-with-Lean][Introduction to proofs with Lean proof assistant]]. ~  Sina Hazratpour (@sina_htpr). #ITP #LeanProver
 + [[https://www.uv.es/coslloen/Lean4.html][Taller de Lean 4]]. ~ Enric Cosme, Mario Vago. #ITP #LeanProver #Lean4
