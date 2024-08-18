@@ -64,6 +64,11 @@ its content.
 
 ** Agosto 2024
 
+*** 16-Ago-24
++ [[https://www.youtube.com/live/ekYeqvMcaWQ][Machine-checked proofs and the rise of formal methods in mathematics]]. ~ Leonardo de Moura. #ITP #LeanProver #Math
++ [[https://www.arxiv.org/abs/2408.08152][DeepSeek-Prover-V1]].5: Harnessing proof assistant feedback for reinforcement learning and Monte-Carlo tree search. ~ Huajian Xin et als. #ITP #Lean4
++ [[https://arxiv.org/abs/2408.06292][The AI scientist: Towards fully automated open-ended scientific discovery]]. ~ Chris Lu, Cong Lu, Robert Tjarko Lange, Jakob Foerster, Jeff Clune & David Ha. #AI
+
 *** 15-Ago-24
 + [[https://comp.anu.edu.au/courses/comp4011-itp/lectures/comp4011_slides.pdf][Software verification with Isabelle/HOL]]. ~ Peter Höfner. #ITP #IsabelleHOL
 + [[https://github.com/clayrat/fav-ssr/][Functional algorithms verified in SSReflect]]. ~ Alex Gryzlov et als. #ITP #Coq #SSReflect
