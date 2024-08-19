@@ -64,6 +64,11 @@ its content.
 
 ** Agosto 2024
 
+*** 18-Ago-24
++ [[https://www.amazon.science/blog/how-the-lean-language-brings-math-to-coding-and-coding-to-math][How the Lean language brings math to coding and coding to math]]. ~ Leo de Moura. #ITP #LeanProver #Math
++ [[https://youtu.be/ywBsvy4MxSc][Lean again]]. ~ Adolfo Neto (@adolfoneto@bertha.social). #ITP #Lean4 #FunctionalProgramming
++ [[https://arxiv.org/abs/2408.07652][The semantics of metapropramming in Prolog]]. ~ David S. Warren. #Prolog #LogicProgramming
+
 *** 16-Ago-24
 + [[https://www.youtube.com/live/ekYeqvMcaWQ][Machine-checked proofs and the rise of formal methods in mathematics]]. ~ Leonardo de Moura. #ITP #LeanProver #Math
 + [[https://www.arxiv.org/abs/2408.08152][DeepSeek-Prover-V1]].5: Harnessing proof assistant feedback for reinforcement learning and Monte-Carlo tree search. ~ Huajian Xin et als. #ITP #Lean4
