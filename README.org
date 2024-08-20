@@ -64,6 +64,10 @@ its content.
 
 ** Agosto 2024
 
+*** 19-Ago-24
++ [[https://jaalonso.github.io/calculemus/posts/2024/08/19-equivalence_of_reverse_definitions/][Proofs of the equivalence of reverse definitions in Lean4 and Isabelle/HOL]]. #ITP #Lean4 #IsabelleHOL #Math #Calculemus
++ [[https://studenttheses.uu.nl/bitstream/handle/20.500.12932/47248/Bachelor_thesis%20(4).pdf][A formalisation of the Mathieu-24 group]]. ~ Edward van de Meent. #ITP #LeanProver #Lean4 #Math
+
 *** 18-Ago-24
 + [[https://www.amazon.science/blog/how-the-lean-language-brings-math-to-coding-and-coding-to-math][How the Lean language brings math to coding and coding to math]]. ~ Leo de Moura. #ITP #LeanProver #Math
 + [[https://youtu.be/ywBsvy4MxSc][Lean again]]. ~ Adolfo Neto (@adolfoneto@bertha.social). #ITP #Lean4 #FunctionalProgramming
