@@ -64,6 +64,15 @@ its content.
 
 ** Agosto 2024
 
+*** 20-Ago-24
++ [[https://youtu.be/5IARsdn78xE][Improving on AlphaProof: IMO 2024 problem 2 in Lean 4]]. ~ David Renshaw. #ITP #Lean4 #Math #AlphaProof
++ [[https://repository.library.northeastern.edu/files/neu:ms35v299k/fulltext.pdf][Verification and attack synthesis for network protocols]]. ~ Max von Hippel. #ITP #ACL2
++ [[https://dl.acm.org/doi/pdf/10.1145/3674652][A two-phase infinite/finite low-level memory model (Reconciling integer–pointer casts, finite space, and undef at the LLVM IR level of abstraction)]]. ~ Calvin Beck, Irene Yoon, Hanxi Chen, Yannick Zakowski & Steve Zdancewic. #ITP #Coq
++ [[https://dl.acm.org/doi/pdf/10.1145/3674637][Snapshoble stores]]. ~ Clément Allain, Basile Clément, Alexandre Moine & Gabriel Scherer. #ITP #Coq
++ [[https://dl.acm.org/doi/pdf/10.1145/3674645][Refinement composition logic]]. ~ Youngju Song & Dongjae Lee. #ITP #Coq
++ [[https://dl.acm.org/doi/pdf/10.1145/3674638][Beyond trees: Calculating graph-based compilers (Functional pearl)]]. ~ Patrick Bahr & Graham Hutton. #Haskell #FunctionalProgramming
++ [[https://arxiv.org/abs/2408.09488][An introduction to categorical proof theory]]. ~ Amirhossein Akbar Tabatabai. #Logic #Math #CategoryTheory #TypeTheory
+
 *** 19-Ago-24
 + [[https://jaalonso.github.io/calculemus/posts/2024/08/19-equivalence_of_reverse_definitions/][Proofs of the equivalence of reverse definitions in Lean4 and Isabelle/HOL]]. #ITP #Lean4 #IsabelleHOL #Math #Calculemus
 + [[https://studenttheses.uu.nl/bitstream/handle/20.500.12932/47248/Bachelor_thesis%20(4).pdf][A formalisation of the Mathieu-24 group]]. ~ Edward van de Meent. #ITP #LeanProver #Lean4 #Math
