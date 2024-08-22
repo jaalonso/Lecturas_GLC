@@ -64,6 +64,13 @@ its content.
 
 ** Agosto 2024
 
+*** 21-Ago-24
++ [[https://lawrencecpaulson.github.io/2024/08/21/Probabilistic_Example.html][Probabilistic reasoning and formal proof]]. ~ Lawrence Paulson (@LawrPaulson@mathstodon.xyz). #ITP #IsabelleHOL #Math
++ [[https://youtu.be/MHengN9q__0][Writing a small program with input and output in the Lean functional programming language]]. ~ Adolfo Neto (@adolfoneto@bertha.social). #Lean4 #FunctionalProgramming
++ [[https://www.isa-afp.org/entries/Worklist_Algorithms.html][Worklist algorithms (in Isabelle/HOL)]]. ~ Simon Wimmer & Peter Lammich. #ITP #IsabelleHOL
++ [[https://mediatum.ub.tum.de/doc/1576100/1576100.pdf][Trustworthy verification of realtime systems]]. ~ Simon Wimmer. #ITP #IsabelleHOL
++ [[https://link.springer.com/content/pdf/10.1007/978-3-319-89960-2_4.pdf][Verified model checking of timed automata]]. ~ Simon Wimmer & Peter Lammich. #ITP #IsabelleHOL
+
 *** 20-Ago-24
 + [[https://youtu.be/5IARsdn78xE][Improving on AlphaProof: IMO 2024 problem 2 in Lean 4]]. ~ David Renshaw. #ITP #Lean4 #Math #AlphaProof
 + [[https://repository.library.northeastern.edu/files/neu:ms35v299k/fulltext.pdf][Verification and attack synthesis for network protocols]]. ~ Max von Hippel. #ITP #ACL2
