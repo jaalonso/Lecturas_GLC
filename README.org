@@ -64,6 +64,10 @@ its content.
 
 ** Agosto 2024
 
+*** 22-Ago-24
++ [[https://arxiv.org/abs/2001.06696][Terminal coalgebras and non-wellfounded sets in Homotopy Type Theory]]. ~ Håkon Robbestad Gylterud, Elisabeth Stenholm & Niccolò Veltri. #ITP #Agda #HoTT
++ [[https://www.benjamin.pizza/posts/2024-08-15-prettier-happier-more-imperative.html][Prettier. Happier. More Imperative. (Understanding "A prettier printer" by porting it)]]. ~ Benjamin Hodgson. #Haskell #FunctionalProgramming
+
 *** 21-Ago-24
 + [[https://lawrencecpaulson.github.io/2024/08/21/Probabilistic_Example.html][Probabilistic reasoning and formal proof]]. ~ Lawrence Paulson (@LawrPaulson@mathstodon.xyz). #ITP #IsabelleHOL #Math
 + [[https://youtu.be/MHengN9q__0][Writing a small program with input and output in the Lean functional programming language]]. ~ Adolfo Neto (@adolfoneto@bertha.social). #Lean4 #FunctionalProgramming
