@@ -64,6 +64,16 @@ its content.
 
 ** Agosto 2024
 
+*** 23-Ago-24
++ [[https://leanfirststeps.blogspot.com/2024/08/06-intermediate-results.html][Lean: First steps (06 - Intermediate results)]]. ~ Tariq Rashid (@rzeta0@mastodon.social). #ITP #Lean4 #Math
++ [[https://www.youtube.com/live/ZOT5jQ8W2Nc][How to make mathematicians into programmers (and vice versa)]]. ~ Will Crichton. #ITP #LeanProver #Math
++ [[https://arxiv.org/abs/1806.04002][Michael John Caldwell Gordon (FRS 1994), 28 February 1948 - 22 August 2017]]. ~ Lawrence C Paulson (@LawrPaulson@mathstodon.xyz). #ITP #HOL
++ [[https://www.isa-afp.org/entries/Coproduct_Measure.html][Coproduct measure (in Isabelle/HOL)]]. ~ Michikazu Hirata. #ITP #IsabelleHOL #Math
++ [[https://arxiv.org/abs/2404.09939][A survey on deep learning for theorem proving]]. ~ Zhaoyu Li, Jialiang Sun, Logan Murphy, Qidong Su, Zenan Li, Xian Zhang, Kaiyu Yang & Xujie Si. #AI #DeepLearning #ITP
++ [[https://harrisongoldste.in/papers/dissertation.pdf][Property-based testing for the people]]. ~ Harrison Goldstein. #PhDThesis #Haskell #FunctionalProgramming
++ [[https://arxiv.org/abs/2408.10369][Boolean matrix logic programming]]. ~ Lun Ai & Stephen H. Muggleton. #LogicProgramming
++ [[https://www.philipzucker.com/ordinals/][Ordinals aren't much worse than Quaternions]]. ~ Philip Zucker (@sandmouth@types.pl). #Python #Math
+
 *** 22-Ago-24
 + [[https://arxiv.org/abs/2001.06696][Terminal coalgebras and non-wellfounded sets in Homotopy Type Theory]]. ~ Håkon Robbestad Gylterud, Elisabeth Stenholm & Niccolò Veltri. #ITP #Agda #HoTT
 + [[https://www.benjamin.pizza/posts/2024-08-15-prettier-happier-more-imperative.html][Prettier. Happier. More Imperative. (Understanding "A prettier printer" by porting it)]]. ~ Benjamin Hodgson. #Haskell #FunctionalProgramming
