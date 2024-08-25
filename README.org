@@ -64,6 +64,10 @@ its content.
 
 ** Agosto 2024
 
+*** 24-Ago-24
++ [[https://cs.uwaterloo.ca/~plragde/flaneries/LACI/][Logic and computation intertwined]]. ~ Prabhakar Ragde. #Logic #Racket #ITP #Coq #Agda
++ [[https://jpyamamoto.com/projects/dependent-types/dept.pdf][Tipos dependientes: λP]]. ~ Juan Pablo Yamamoto Zazueta. #TypeTheory #CurryHoward
+
 *** 23-Ago-24
 + [[https://leanfirststeps.blogspot.com/2024/08/06-intermediate-results.html][Lean: First steps (06 - Intermediate results)]]. ~ Tariq Rashid (@rzeta0@mastodon.social). #ITP #Lean4 #Math
 + [[https://www.youtube.com/live/ZOT5jQ8W2Nc][How to make mathematicians into programmers (and vice versa)]]. ~ Will Crichton. #ITP #LeanProver #Math
