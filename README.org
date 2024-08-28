@@ -64,6 +64,15 @@ its content.
 
 ** Agosto 2024
 
+*** 27-Ago-24
++ [[https://www.isa-afp.org/entries/Topological_Groups.html][Topological groups (in Isabelle/HOL)]]. ~ Niklas Krofta. #ITP #IsabelleHOL #Math
++ [[https://www.isa-afp.org/entries/Difference_Bound_Matrices.html][Difference bound matrices (in Isabelle/HOL)]]. ~ Simon Wimmer & Peter Lammich. #ITP #IsabelleHOL
+
+*** 26-Ago-24
++ [[https://jaalonso.github.io/calculemus/posts/2024/08/26-proofs_that_the_mirror_function_of_binary_trees_is_involutive/][Proofs that the mirror function of binary trees is involutive in Lean4 and Isabelle/HOL]]. ~ José A. Alonso (@Jose_A_Alonso@mathstodon.xyz). #ITP #Lean4 #IsabelleHOL #Math #Calculemus
++ [[https://www.isa-afp.org/entries/IMP_With_Speculation.html][A formalized programming language with speculative execution]]. ~ Jamie Wright & Andrei Popescu. #ITP #IsabelleHOL
++ [[https://thingspool.net/morsels/page-10.html][Game programming in Prolog (Part 1)]]. ~ Youngjin Kang. #Prolog #LogicProgramming
+
 *** 24-Ago-24
 + [[https://cs.uwaterloo.ca/~plragde/flaneries/LACI/][Logic and computation intertwined]]. ~ Prabhakar Ragde. #Logic #Racket #ITP #Coq #Agda
 + [[https://jpyamamoto.com/projects/dependent-types/dept.pdf][Tipos dependientes: λP]]. ~ Juan Pablo Yamamoto Zazueta. #TypeTheory #CurryHoward
