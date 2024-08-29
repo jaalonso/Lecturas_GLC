@@ -64,6 +64,16 @@ its content.
 
 ** Agosto 2024
 
+*** 28-Ago-24
++ [[https://jaalonso.github.io/calculemus/posts/2024/08/28-flatten_of_mirror][Proofs of "flatten (mirror a) = reverse (flatten a)" in Lean4 and Isabelle/HOL]]. ~ José A. Alonso (@Jose_A_Alonso@mathstodon.xyz). #ITP #Lean4 #IsabelleHOL #Math #Calculemus
++ [[https://arxiv.org/abs/2408.15180][Formalizing Mason-Stothers theorem and its corollaries in Lean 4]]. ~ Jineon Baek & Seewoo Lee. #ITP #LeanProver #Lean4 #Math
++ [[https://inmabb.criba.edu.ar/revuma/pdf/earlyview/3349.pdf][On the maximum weighted irredundant set problem]]. ~ Ricardo D. Katz & Daniel Severín. #ITP #Coq #Math
++ [[https://ilyasergey.net/assets/pdf/papers/bythos-ccs24.pdf][Compositional verification of composite byzantine protocols]]. ~ Qiyuan Zhao, George Pîrlea, Karolina Grzeszkiewicz, Seth Gilbert, Ilya Sergey. #ITP #Coq
++ [[https://a16z.com/100-gen-ai-apps-3/][The top 100 gen AI consumer apps]]. ~ Olivia Moore (@omooretweets). #AI
++ [[https://theconversation.com/conocimientos-de-sentido-comun-el-obstaculo-de-la-ia-en-el-camino-hacia-la-inteligencia-artificial-general-235260][Conocimientos de sentido común: el obstáculo de la IA en el camino hacia la inteligencia artificial general]]. ~ Ramón López de Mántaras. #IA
++ [[https://www.microsiervos.com/archivo/ia/herramientas-ia-atencion-gente.html][Las herramientas de IA que están captando la atención de la gente]]. ~ @Alvy #IA
++ [[https://interstices.info/lintelligence-artificielle-hier-aujourdhuiet-demain/][L’intelligence artificielle : Hier, aujourd’hui ]]... et demain. ~  Jean-Paul Haton. #AI
+
 *** 27-Ago-24
 + [[https://www.isa-afp.org/entries/Topological_Groups.html][Topological groups (in Isabelle/HOL)]]. ~ Niklas Krofta. #ITP #IsabelleHOL #Math
 + [[https://www.isa-afp.org/entries/Difference_Bound_Matrices.html][Difference bound matrices (in Isabelle/HOL)]]. ~ Simon Wimmer & Peter Lammich. #ITP #IsabelleHOL
