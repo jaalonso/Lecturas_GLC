@@ -64,6 +64,11 @@ its content.
 
 ** Agosto 2024
 
+*** 29-Ago-24
++ [[https://jaalonso.github.io/calculemus/posts/2024/08/29-fibonacci/][Proofs of the equivalence of two definitions of the Fibonacci function in Lean4 and Isabelle/HOL]]. #ITP #Lean4 #IsabelleHOL #Math #Calculemus
++ [[https://hal.science/hal-04674908/document][A residual service curve computable in quadratic time for network calculus]]. ~ Marc Boyer & Pierre Roux. #ITP #Coq
++ [[https://robbertkrebbers.nl/research/articles/intrusive.pdf][Modular verification of intrusive list and tree data structures in separation logic]]. ~ Marc Hermes & Robbert Krebbers. #ITP #Coq
+
 *** 28-Ago-24
 + [[https://jaalonso.github.io/calculemus/posts/2024/08/28-flatten_of_mirror][Proofs of "flatten (mirror a) = reverse (flatten a)" in Lean4 and Isabelle/HOL]]. ~ José A. Alonso (@Jose_A_Alonso@mathstodon.xyz). #ITP #Lean4 #IsabelleHOL #Math #Calculemus
 + [[https://arxiv.org/abs/2408.15180][Formalizing Mason-Stothers theorem and its corollaries in Lean 4]]. ~ Jineon Baek & Seewoo Lee. #ITP #LeanProver #Lean4 #Math
