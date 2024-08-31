@@ -64,6 +64,12 @@ its content.
 
 ** Agosto 2024
 
+*** 30-Ago-24
++ [[https://www.isa-afp.org/entries/Prop_Compactness.html][Compactness theorem for propositional logic and combinatorial applications]]. ~ Fabián Fernando Serran Suárez, Thaynara Arielly de Lima & Mauricio Ayala-Rincón. #ITP #IsabelleHOL #Logic #Math
++ [[https://arxiv.org/abs/2408.1403][Law and order for typestate with borrowing]]. ~ Hannes Saffrich, Yuki Nishida & Peter Thiemann.1# #ITP #Agda
++ [[https://abhinavsarkar.net/posts/nix-for-haskell/][Getting started with Nix for Haskell]]. ~ Abhinav Sarkar (@abnv@fantastic.earth). #Nix #Haskell #FunctionalProgramming
++ [[https://ntrs.nasa.gov/citations/20240010266][Logic programming with extensible types]]. ~ Ivan Perez & Angel Herranz. #Haskell #FunctionalProgramming #LogicProgramming
+
 *** 29-Ago-24
 + [[https://jaalonso.github.io/calculemus/posts/2024/08/29-fibonacci/][Proofs of the equivalence of two definitions of the Fibonacci function in Lean4 and Isabelle/HOL]]. #ITP #Lean4 #IsabelleHOL #Math #Calculemus
 + [[https://hal.science/hal-04674908/document][A residual service curve computable in quadratic time for network calculus]]. ~ Marc Boyer & Pierre Roux. #ITP #Coq
