@@ -64,6 +64,12 @@ its content.
 
 ** Agosto 2024
 
+*** 31-Ago-24
++ [[https://jaalonso.github.io/calculemus/posts/2024/08/31-if_x_is_the_supremum_of_set_a_then_forall_y_y_lt_x_to_exists_a_in_a_y_lt_a/][Proofs of "If x is the supremum of set A, then (∀ y, y < x → ∃ a ∈ A, y < a) in Lean4 and Isabelle/HOL]]. #ITP #Lean4 #IsabelleHOL #Math #Calculemus
++ [[https://arxiv.org/abs/2408.1581][Unifying model execution and deductive verification with interaction trees in Isabelle/HOL]]. ~ Simon Foster, Chung-Kil Hur & Jim Woodcock.7# #ITP #IsabelleHOL
++ [[https://inria.hal.science/hal-04678850/file/paper-scss-2024.pdf][Certification of sorting algorithms using Theorema and Coq]]. ~ Isabela Drămnesc, Tudor Jebelean & Sorin Stratulat. #ITP #Theorema #Coq
++ [[https://jonaprieto.github.io/drafts/main_20240124_010319.pdf][Investigations in graph-theoretical constructions in Homotopy Type Theory]]. ~ Jonathan Prieto-Cubides. #PhDThesis #ITP #Agda #HoTT
+
 *** 30-Ago-24
 + [[https://www.isa-afp.org/entries/Prop_Compactness.html][Compactness theorem for propositional logic and combinatorial applications]]. ~ Fabián Fernando Serran Suárez, Thaynara Arielly de Lima & Mauricio Ayala-Rincón. #ITP #IsabelleHOL #Logic #Math
 + [[https://arxiv.org/abs/2408.1403][Law and order for typestate with borrowing]]. ~ Hannes Saffrich, Yuki Nishida & Peter Thiemann.1# #ITP #Agda
