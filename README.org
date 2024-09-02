@@ -11,6 +11,7 @@ its content.
 
 * Content                                                                      :TOC:
 - [[#lecturas-del-año-2024][Lecturas del año 2024]]
+  - [[#septiembre-2024][Septiembre 2024]]
   - [[#agosto-2024][Agosto 2024]]
   - [[#julio-2024][Julio 2024]]
   - [[#junio-2024][Junio 2024]]
@@ -61,6 +62,11 @@ its content.
 - [[#lecturas-anteriores][Lecturas anteriores]]
 
 * Lecturas del año 2024
+
+** Septiembre 2024
+
+*** 01-Sep-24
++ [[https://dl.acm.org/doi/pdf/10.1145/3678000.3678202][Modal μ-calculus for free in Agda]]. ~ Ivan Todorov & Casper Bach Poulsen. #ITP #Agda
 
 ** Agosto 2024
 
