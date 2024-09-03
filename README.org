@@ -65,6 +65,13 @@ its content.
 
 ** Septiembre 2024
 
+*** 02-Sep-24
++ [[https://jaalonso.github.io/calculemus/posts/2024/09/02-le_of_forall_pos_le_add][Proofs of "If (∀ ε > 0, y ≤ x + ε), then y ≤ x" in Lean4 and Isabelle/HOL]]. #ITP #Lean4 #IsabelleHOL #Math #Calculemus
++ [[https://www.sciencedirect.com/science/article/pii/S2352220824000592][Maude2Lean: Theorem proving for Maude specifications using Lean]]. ~ Rubén Rubio & Adrián Riesco. #ITP #LeanProver #Maude
++ [[https://verse-lab.github.io/papers/Kiran-Gopinathan-PhD.pdf][Scaling the evolution of verified software]]. ~ Kiran Gopinathan. #PhDThesis #ITP #Coq
++ [[https://www.isa-afp.org/entries/Ramsey_Bounds.html][Ramsey number bounds (in Isabelle/HOL)]]. ~ Lawrence C. Paulson (@LawrPaulson@mathstodon.xyz). #ITP #IsabelleHOL #Math
++ [[https://lean-lang.org/blog/2024-9-1-lean-4110/][Lean 4.11.0]]. ~ David Thrane Christiansen (@d_christiansen@mathstodon.xyz). #ITP #Lean4 #FunctionalProgramming
+
 *** 01-Sep-24
 + [[https://dl.acm.org/doi/pdf/10.1145/3678000.3678202][Modal μ-calculus for free in Agda]]. ~ Ivan Todorov & Casper Bach Poulsen. #ITP #Agda
 
