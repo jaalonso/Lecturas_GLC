@@ -65,6 +65,12 @@ its content.
 
 ** Septiembre 2024
 
+*** 03-Sep-24
++ [[https://jaalonso.github.io/calculemus/posts/2024/09/03-limits_are_less_than_or_equal_to_upper_bounds/][Proofs of "If x is the limit of u and y is an upper bound of u, then x ≤ y" in Lean4 and Isabelle/HOL]]. #ITP #Lean4 #IsabelleHOL #Math #Calculemus
++ [[https://www.isa-afp.org/entries/Diagonal_Ramsey.html][An exponential improvement for diagonal Ramsey (in Isabelle/HOL)]]. ~ Lawrence C. Paulson (@LawrPaulson@mathstodon.xyz). #ITP #IsabelleHOL #Math
++ [[https://www.isa-afp.org/entries/IMP_Noninterference_Extension.html][Extension of stateful intransitive noninterference with inputs, outputs, and nondeterminism in language IMP]]. ~ Pasquale Noce. #ITP #IsabelleHOL
++ [[https://www.isa-afp.org/entries/LTL3_Semantics.html][Definitive set semantics for LTL3 (in Isabelle/HOL)]]. ~ Rayhana Amjad, Rob van Glabbeek & Liam O’Connor. #ITP #IsabelleHOL
+
 *** 02-Sep-24
 + [[https://jaalonso.github.io/calculemus/posts/2024/09/02-le_of_forall_pos_le_add][Proofs of "If (∀ ε > 0, y ≤ x + ε), then y ≤ x" in Lean4 and Isabelle/HOL]]. #ITP #Lean4 #IsabelleHOL #Math #Calculemus
 + [[https://www.sciencedirect.com/science/article/pii/S2352220824000592][Maude2Lean: Theorem proving for Maude specifications using Lean]]. ~ Rubén Rubio & Adrián Riesco. #ITP #LeanProver #Maude
