@@ -65,6 +65,15 @@ its content.
 
 ** Septiembre 2024
 
+*** 05-Sep-24
++ [[https://leanfirststeps.blogspot.com/2024/09/07-proof-by-cases.html][Lean: First steps (07 - Proof by cases)]]. ~ Tariq Rashid (@rzeta0@mastodon.social). #ITP #Lean4 #Math
++ [[https://leanprover-community.github.io/logic_and_proof/][Logic and proof]]. ~ Jeremy Avigad, Robert Y. Lewis & Floris van Doorn. #ITP #LeanProver #Lean4 #Logic #Math
++ [[https://arxiv.org/abs/2409.0260][Formalising inductive and coinductive containers]]. ~ Stefania Damato, Thorsten Altenkirch & Axel Ljungström.3# #ITP #Agda
++ [[https://blog.ielliott.io/sized-types-and-coinduction-in-safe-agda][Sized types and coinduction in Safe Agda]]. ~ Isaac Elliott. #Agda #FunctionalProgramming
++ [[https://ocaml.xyz/][OCaml scientific computing]]. #OCaml #FunctionalProgramming #AI
++ [[https://www.michaelpj.com/blog/2024/09/03/lsp-good-bad-ugly.html][LSP: the good, the bad, and the ugly]]. ~ Michael Peyton Jones (@mpeytonjones). #Haskell #FunctionalProgramming
++ [[https://dev.to/artemisyo/parsers-are-relative-bimonads-20cd][Parsers are relative bimonads]]. ~ Artemis. #Haskell #FunctionalProgramming
+
 *** 04-Sep-24
 + [[https://blog.jle.im/entry/levels-of-type-safety-haskell-lists.html][Seven levels of type safety in Haskell: Lists]]. ~ Justin Lê (@mstk). #Haskell #FunctionalProgramming
 
