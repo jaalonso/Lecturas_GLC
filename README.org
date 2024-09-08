@@ -65,6 +65,14 @@ its content.
 
 ** Septiembre 2024
 
+*** 07-Sep-24
++ [[https://jaalonso.github.io/calculemus/posts/2024/09/07-sum_of_arithmetic_progression/][Proofs of "a+(a+d)+(a+2d)+···+(a+nd) = (n+1)(2a+nd)/2" in Lean4 and Isabelle/HOL]]. #ITP #Lean4 #IsabelleHOL #Math #Calculemus
++ [[https://youtube.com/playlist?list=PL_bVGic_CrGtMw1QVFRLRsZjcymm56mRi&si=xCh3BrJr1Dgq_xSE][Metaprogramming in Lean]]. ~ Siddhartha Gadgil. #ITP #LeanProver #Lean4
++ [[https://github.com/siddhartha-gadgil/MetaExamples][Examples using MetaProgramming for writing tactics]]. ~ Siddhartha Gadgil. #ITP #LeanProver #Lean4
++ [[http://www.mat.unb.br/ayala/HallTheoremCountableGraphs.pdf][Formalisation of Hall’s theorem for countable infinite graphs]]. ~ Fabián Fernando Serrano Suárez, Mauricio Ayala-Rincón & Thaynara Arielly de Lima. #ITP #IsabelleHOL #Math
++ [[https://ceur-ws.org/Vol-3754/paper11.pdf][First-order theorem proving with power maps in semigroups]]. ~ Yi Lin1, Ranganathan Padmanabhan & Yang Zhang. #ATP #Prover9 #Math
++ [[https://docta.ucm.es/rest/api/core/bitstreams/d40e94d0-be70-4df1-88bc-6461f3a905ed/content][Maude2Lean: Theorem proving for Maude specifications using Lean]]. ~ Rubén Rubio & Adrián Riesco. #ITP #Maude #LeanProver #Lean3
+
 *** 06-Sep-24
 + [[https://drops.dagstuhl.de/storage/00lipics/lipics-vol309-itp2024/LIPIcs.ITP.2024.6/LIPIcs.ITP.2024.6.pdf][Towards solid abelian groups: A formal proof of Nöbeling’s theorem]]. ~ Dagur Asgeirsson. #ITP #LeanProver #Math
 + [[https://drops.dagstuhl.de/storage/00lipics/lipics-vol309-itp2024/LIPIcs.ITP.2024.8/LIPIcs.ITP.2024.8.pdf][The directed Van Kampen theorem in Lean]]. ~ Henning Basold, Peter Bruin & Dominique Lawson. #ITP #LeanProver #Lean4 #Math
