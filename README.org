@@ -70,6 +70,10 @@ its content.
 + [[https://youtu.be/ZKMIIp1NQl0][Describing a knight's tour with Prolog]]. ~ Markus Triska (@MarkusTriska). #Prolog #FunctionalProgramming
 + [[https://www.philipzucker.com/string_knuth/][String Knuth Bendix]]. ~ Philip Zucker (@sandmouth@types.pl). #Math #Python
 
+*** 08-Sep-24
++ [[https://repozitorij.uni-lj.si/Dokument.php?id=189507&lang=slv][Formalization of the structure sheaf of a ring spectrum]]. ~ Maša Žaucer. #ITP #Agda #Math
++ [[https://docta.ucm.es/rest/api/core/bitstreams/0dc4263b-879b-4fb6-9139-9699258264db/content][Automatic test-case generation for Haskell based on dependent types]]. ~ Pablo Castellanos García. #Haskell #FunctionalProgramming
+
 *** 07-Sep-24
 + [[https://jaalonso.github.io/calculemus/posts/2024/09/07-sum_of_arithmetic_progression/][Proofs of "a+(a+d)+(a+2d)+···+(a+nd) = (n+1)(2a+nd)/2" in Lean4 and Isabelle/HOL]]. #ITP #Lean4 #IsabelleHOL #Math #Calculemus
 + [[https://youtube.com/playlist?list=PL_bVGic_CrGtMw1QVFRLRsZjcymm56mRi&si=xCh3BrJr1Dgq_xSE][Metaprogramming in Lean]]. ~ Siddhartha Gadgil. #ITP #LeanProver #Lean4
