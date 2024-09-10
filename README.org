@@ -65,6 +65,11 @@ its content.
 
 ** Septiembre 2024
 
+*** 09-Sep-24
++ [[https://jaalonso.github.io/calculemus/posts/2024/09/09-sum_of_geometric_progresion/][Proofs of "a+aq+aq²+···+aqⁿ = a(1-qⁿ⁺¹)/(1-q)" in Lean4 and Isabelle/HOL]]. #ITP #Lean4 #IsabelleHOL #Math #Calculemus
++ [[https://youtu.be/ZKMIIp1NQl0][Describing a knight's tour with Prolog]]. ~ Markus Triska (@MarkusTriska). #Prolog #FunctionalProgramming
++ [[https://www.philipzucker.com/string_knuth/][String Knuth Bendix]]. ~ Philip Zucker (@sandmouth@types.pl). #Math #Python
+
 *** 07-Sep-24
 + [[https://jaalonso.github.io/calculemus/posts/2024/09/07-sum_of_arithmetic_progression/][Proofs of "a+(a+d)+(a+2d)+···+(a+nd) = (n+1)(2a+nd)/2" in Lean4 and Isabelle/HOL]]. #ITP #Lean4 #IsabelleHOL #Math #Calculemus
 + [[https://youtube.com/playlist?list=PL_bVGic_CrGtMw1QVFRLRsZjcymm56mRi&si=xCh3BrJr1Dgq_xSE][Metaprogramming in Lean]]. ~ Siddhartha Gadgil. #ITP #LeanProver #Lean4
