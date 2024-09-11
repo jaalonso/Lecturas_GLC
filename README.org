@@ -65,6 +65,11 @@ its content.
 
 ** Septiembre 2024
 
+*** 10-Sep-24
++ [[https://jaalonso.github.io/calculemus/posts/2024/09/10-sum_of_the_first_cubes/][Proofs of 0³+1³+2³+3³+···+n³ = (n(n+1)/2)² in Lean4 and Isabelle/HOL]]. #ITP #Lean4 #IsabelleHOL #Math #Calculemus
++ [[https://jaalonso.github.io/exercitium/posts/2024/09/04-sumas_de_dos_abundantes/][#Exercitium: Sumas de dos abundantes]]. #Haskell #Python #Matemáticas
++ [[https://entropicthoughts.com/types-as-interfaces][Types as interfaces]]. ~ Chris. #Haskell #FunctionalProgramming
+
 *** 09-Sep-24
 + [[https://jaalonso.github.io/calculemus/posts/2024/09/09-sum_of_geometric_progresion/][Proofs of "a+aq+aq²+···+aqⁿ = a(1-qⁿ⁺¹)/(1-q)" in Lean4 and Isabelle/HOL]]. #ITP #Lean4 #IsabelleHOL #Math #Calculemus
 + [[https://youtu.be/ZKMIIp1NQl0][Describing a knight's tour with Prolog]]. ~ Markus Triska (@MarkusTriska). #Prolog #FunctionalProgramming
