@@ -65,6 +65,22 @@ its content.
 
 ** Septiembre 2024
 
+*** 11-Sep-24
++ [[https://aitp-conference.org/2024/slides/MO.pdf][Mathematical Olympiad (To the geometry and beyond...)]]. ~ Mirek Olšák. #Math #ITP #AI #IMO #AlphaGeometry #AlphaProof #LeanProver
++ [[https://aitp-conference.org/2024/slides/JJHM.pdf][Isabelle/RL project proposal: Reinforcement learning on the Isabelle proof assistant]]. ~ Jonathan Julián Huerta y Munive. #ITP #IsabelleHOL #MachineLearning
++ [[https://aitp-conference.org/2024/slides/AK.pdf][CoqPilot, a plugin for LLM-based generation of proofs]]. ~ Andrei Kozyrev, Gleb Solovev, Nikita Khramov & Anton Podkopaev. #ITP #Coq #LLMs
++ [[https://aitp-conference.org/2024/slides/ZG.pdf][ATPs as universal AIs: What do AGI architectures suggest for ATP research?]] ~ Zarathustra Goertzel. #ATP #AI
++ [[https://arxiv.org/abs/2212.08515][The formal theory of monads, univalently]]. ~ Niels van der Weide. #ITP #Coq
++ [[https://aitp-conference.org/2024/slides/JR.pdf  ][The last mile: How do we make AI theorem provers which work in the real world for real users and not just on benchmarks?]] ~ Jason Rute. #ITP #AI #LLMs
++ [[https://aitp-conference.org/2024/slides/AdL.pdf][Naproche-ZF: Lessons learned from implementing a new natural-language-oriented theorem prover]]. ~ Adrian De Lon. #ITP #NaprocheZF #Math
++ [[https://aitp-conference.org/2024/slides/AD.pdf][Natural-language proof assistant for higher-order logic]]. ~ Adam Dingle. #ITP #Natty #Math
++ [[https://github.com/medovina/natty?tab=readme-ov-file][Natty: a natural-language proof assistant with an embedded automatic prover for higher-order logic]]. ~ Adam Dingle. #ITP #Natty #Math #OCaml
++ [[https://aitp-conference.org/2024/slides/SW.pdf][A few open problems in neural theorem proving (in Lean)]]. ~ Sean Welleck. #ITP #LeanProver #LLMs
++ [[https://aitp-conference.org/2024/slides/DV.pdf][Project description: Experiments with language models for Isabelle autoformalization]]. ~ David Valente, Manuel Eberl, Cezary Kaliszyk & Josef Urban. #ITP #IsabelleHOL #Autoformalization
++ [[https://aitp-conference.org/2024/slides/MC.pdf][Provably safe systems: Prospects and approaches]]. ~ Mario Carneiro. #ITP #AI
++ [[https://www.quantamagazine.org/amateur-mathematicians-find-fifth-busy-beaver-turing-machine-20240702/][With fifth busy beaver, researchers approach computation’s limits]]. ~ Ben Brubaker. #ITP #Coq #Math #CompSci
++ [[https://www.scientificamerican.com/article/the-u-s-should-teach-kids-to-think-logically/][Kids should be taught to think logically]]. ~ Vinay K. Chaudhri. #Logic
+
 *** 10-Sep-24
 + [[https://jaalonso.github.io/calculemus/posts/2024/09/10-sum_of_the_first_cubes/][Proofs of 0³+1³+2³+3³+···+n³ = (n(n+1)/2)² in Lean4 and Isabelle/HOL]]. #ITP #Lean4 #IsabelleHOL #Math #Calculemus
 + [[https://jaalonso.github.io/exercitium/posts/2024/09/04-sumas_de_dos_abundantes/][#Exercitium: Sumas de dos abundantes]]. #Haskell #Python #Matemáticas
