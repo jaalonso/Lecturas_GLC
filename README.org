@@ -65,6 +65,11 @@ its content.
 
 ** Septiembre 2024
 
+*** 12-Sep-24
++ [[https://jaalonso.github.io/calculemus/posts/2024/09/12-proofs_of_1%2Bpn_ge_1%2Bnp/][Proofs of "If p > -1, then (1+p)ⁿ ≥ 1+np" in Lean4 and Isabelle/HOL]]. #ITP #Lean4 #IsabelleHOL #Math #Calculemus
++ [[https://www.ps.uni-saarland.de/~brenner/bachelor/thesis.pdf][The undecidability of contextual equivalence on PCF2 (Towards a mechanisation in Coq)]]. ~ Fabian Andreas Brenner. #ITP #Coq
++ [[https://media.githubusercontent.com/media/anlun/publicFiles/master/papers/Kozyrev-al-ASE24.pdf][CoqPilot, a plugin for LLM-based generation of proofs]]. ~ Andrei Kozyrev, Gleb Solovev, Nikita Khramov & Anton Podkopaev. #ITP #Coq #LLMs
+
 *** 11-Sep-24
 + [[https://aitp-conference.org/2024/slides/MO.pdf][Mathematical Olympiad (To the geometry and beyond...)]]. ~ Mirek Olšák. #Math #ITP #AI #IMO #AlphaGeometry #AlphaProof #LeanProver
 + [[https://aitp-conference.org/2024/slides/JJHM.pdf][Isabelle/RL project proposal: Reinforcement learning on the Isabelle proof assistant]]. ~ Jonathan Julián Huerta y Munive. #ITP #IsabelleHOL #MachineLearning
