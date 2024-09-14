@@ -65,6 +65,10 @@ its content.
 
 ** Septiembre 2024
 
+*** 13-Sep-24
++ [[https://www.tweag.io/blog/2024-09-12-lh-reflection][Reflecting away from definitions in Liquid Haskell]]. ~ Jonathan Arnoult. #Haskell #FunctionalProgramming #LiquidHaskell
++ [[https://www.evalapply.org/posts/why-and-how-i-use-org-mode/index.html][Why and how I use "Org Mode" for my writing and more]]. ~ Aditya Athalye. #Emacs #OrgMode
+
 *** 12-Sep-24
 + [[https://jaalonso.github.io/calculemus/posts/2024/09/12-proofs_of_1%2Bpn_ge_1%2Bnp/][Proofs of "If p > -1, then (1+p)ⁿ ≥ 1+np" in Lean4 and Isabelle/HOL]]. #ITP #Lean4 #IsabelleHOL #Math #Calculemus
 + [[https://www.ps.uni-saarland.de/~brenner/bachelor/thesis.pdf][The undecidability of contextual equivalence on PCF2 (Towards a mechanisation in Coq)]]. ~ Fabian Andreas Brenner. #ITP #Coq
