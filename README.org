@@ -65,6 +65,16 @@ its content.
 
 ** Septiembre 2024
 
+*** 14-Sep-24
++ [[https://arxiv.org/abs/2409.05977][AI for Mathematics: Mathematical formalized problem solving and theorem proving in different fields in Lean 4]]. ~ Xichen Tang. #ITP #LeanProver #Lean4 #Math
++ [[https://www.amazon.science/blog/better-performing-25519-elliptic-curve-cryptography][Better-performing “25519” elliptic-curve cryptography (Automated reasoning and optimizations specific to CPU microarchitectures improve both performance and assurance of correct implementation)]]. ~ Torben Hansen, John Harrison. #ITP #HOL_Light
++ [[https://www.isa-afp.org/entries/Pi_Irrational.html][A simple proof that π is irrational (in Isabelle/HOL)]]. ~ Manuel Eberl (@pruvisto@graz.social). #ITP #IsabelleHOL #Math
++ [[https://byorgey.github.io/blog/posts/2024/09/09/OneLevelTypesIndexed.lagda.html][Decidable equality for indexed data types]]. ~ Brent Yorgey (@byorgey@mathstodon.xyz). #ITP #Agda #FunctionalProgramming
++ [[https://www.gtf.io/musings/why-haskell][Why Haskell? ~ Gideon Farrell (@gideonfarrell)]]. #Haskell #FunctionalProgramming
++ [[https://thehighergeometer.wordpress.com/2024/09/13/type-theoretic-considerations-in-functional-language-software-development/][Type-theoretic considerations in functional language software development]]. ~ David Michael Roberts (@highergeometer@mathstodon.xyz). #Haskell #FunctionalProgramming #ITP #IsabelleHOL
++ [[https://hbr.github.io/Lambda-Calculus/lam-simu/simu.pdf][Simulation of lambda terms in lambda calculus]]. ~ Helmut Brandl. #LambdaCalculus
++ [[https://matematicas11235813.luismiglesias.es/2024/09/13/estrenando-el-nuevo-modelo-de-openai-o1-preview-resolviendo-con-chatgpt-un-problema-de-matematicas-ii-de-la-prueba-de-acceso-a-la-universidad-ebau/][Estrenando el nuevo modelo de OpenAI: o1-preview]]. Resolviendo con ChatGPT un problema de Matemáticas II de la Prueba de Acceso a la Universidad EBAU. ~ Luis M. Iglesias (@luismiglesias). #LLMs #Matemáticas
+
 *** 13-Sep-24
 + [[https://www.tweag.io/blog/2024-09-12-lh-reflection][Reflecting away from definitions in Liquid Haskell]]. ~ Jonathan Arnoult. #Haskell #FunctionalProgramming #LiquidHaskell
 + [[https://www.evalapply.org/posts/why-and-how-i-use-org-mode/index.html][Why and how I use "Org Mode" for my writing and more]]. ~ Aditya Athalye. #Emacs #OrgMode
