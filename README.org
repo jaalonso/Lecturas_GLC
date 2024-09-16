@@ -65,6 +65,11 @@ its content.
 
 ** Septiembre 2024
 
+*** 15-Sep-24
++ [[https://github.com/cmu-l3/llmlean][LLMlean integrates LLMs and Lean for tactic suggestions, proof completion, and more]]. ~ Sean Welleck et als. #ITP #LeanProver #Lean4 #LLMs
++ [[https://leandojo.org/][LeanDojo: Theorem Proving in Lean using Language Models]]. ~ Kaiyu Yang et als. #ITP #LeanProver #Lean4 #LLMs
++ [[https://github.com/wellecks/llmstep][llmstep: [L]LM proofstep suggestions in Lean 4]]. ~ Sean Welleck et als. #ITP #LeanProver #Lean4 #LLMs
+
 *** 14-Sep-24
 + [[https://arxiv.org/abs/2409.05977][AI for Mathematics: Mathematical formalized problem solving and theorem proving in different fields in Lean 4]]. ~ Xichen Tang. #ITP #LeanProver #Lean4 #Math
 + [[https://www.amazon.science/blog/better-performing-25519-elliptic-curve-cryptography][Better-performing “25519” elliptic-curve cryptography (Automated reasoning and optimizations specific to CPU microarchitectures improve both performance and assurance of correct implementation)]]. ~ Torben Hansen, John Harrison. #ITP #HOL_Light
