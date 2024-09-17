@@ -65,6 +65,10 @@ its content.
 
 ** Septiembre 2024
 
+*** 16-Sep-24
++ [[https://arxiv.org/abs/2409.08119][Duality theory in linear optimization and its extensions (formally verified)]]. ~ Martin Dvorak & Vladimir Kolmogorov. #ITP #LeanProver #Lean4 #Math
++ [[https://blog.haskell.org/the-haskell-playground/][The Haskell playground]]. ~ Tom Smeding. #Haskell #FunctionalProgramming
+
 *** 15-Sep-24
 + [[https://github.com/cmu-l3/llmlean][LLMlean integrates LLMs and Lean for tactic suggestions, proof completion, and more]]. ~ Sean Welleck et als. #ITP #LeanProver #Lean4 #LLMs
 + [[https://leandojo.org/][LeanDojo: Theorem Proving in Lean using Language Models]]. ~ Kaiyu Yang et als. #ITP #LeanProver #Lean4 #LLMs
