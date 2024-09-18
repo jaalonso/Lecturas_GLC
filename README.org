@@ -65,6 +65,15 @@ its content.
 
 ** Septiembre 2024
 
+*** 17-Sep-24
++ [[https://lecopivo.github.io/scientific-computing-lean/][Scientific computing in Lean]]. ~ Tomáš Skřivan. #ITP #LeanProver #Lean4 #Math
++ [[https://arxiv.org/abs/2409.09533][Towards verified polynomial factorisation]]. ~ James H. Davenport. #ITP #LeanProver #Math
++ [[https://arxiv.org/abs/2408.04564][First steps towards computational polynomials in Lean]]. ~ James H. Davenport. #ITP #LeanProver #Math
++ [[https://aitp-conference.org/2024/abstract/AITP_2024_paper_31.pdf][miniCodeProps: A minimal benchmark for proving properties of code]]. ~ Evan Lohn & Sean Welleck. #ITP #LeanProver #Lean4 #LLMs
++ [[https://aitp-conference.org/2024/abstract/AITP_2024_paper_34.pdf][Leveraging large language models for autoformalizing theorems: A case study]]. ~ Michail Karatarakis. #ITP #LeanProver #Lean4  #Autoformalization #Math
++ [[https://www.isa-afp.org/entries/Chebyshev_Prime_Bounds.html][Concrete bounds for Chebyshev’s prime counting functions (in Isabelle/HOL)]]. ~ Manuel Eberl. #ITP #IsabelleHOL #Math
++ [[https://tristancacqueray.github.io/blog/emacs-30][Why Emacs is the best: 10 key advantages]]. ~ Tristan de Cacqueray. #Emacs
+
 *** 16-Sep-24
 + [[https://arxiv.org/abs/2409.08119][Duality theory in linear optimization and its extensions (formally verified)]]. ~ Martin Dvorak & Vladimir Kolmogorov. #ITP #LeanProver #Lean4 #Math
 + [[https://blog.haskell.org/the-haskell-playground/][The Haskell playground]]. ~ Tom Smeding. #Haskell #FunctionalProgramming
