@@ -65,6 +65,10 @@ its content.
 
 ** Septiembre 2024
 
+*** 18-Sep-24
++ [[https://link.springer.com/chapter/10.1007/978-3-031-71162-6_10][Combining classical and probabilistic independence reasoning to verify the security of oblivious algorithms]]. #ITP #IsabelleHOL
++ [[https://link.springer.com/content/pdf/10.1007/978-3-031-71162-6_11][Efficient formally verified maximal end component decomposition for MDPs]]. ~ Arnd Hartmanns, Bram Kohlen & Peter Lammich. #ITP #IsabelleHOL
+
 *** 17-Sep-24
 + [[https://lecopivo.github.io/scientific-computing-lean/][Scientific computing in Lean]]. ~ Tomáš Skřivan. #ITP #LeanProver #Lean4 #Math
 + [[https://arxiv.org/abs/2409.09533][Towards verified polynomial factorisation]]. ~ James H. Davenport. #ITP #LeanProver #Math
