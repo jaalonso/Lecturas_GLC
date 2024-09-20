@@ -65,6 +65,14 @@ its content.
 
 ** Septiembre 2024
 
+*** 19-Sep-24
++ [[https://arxiv.org/abs/2409.11946][An imperative language for verified exact real-number computation]]. ~ Andrej Bauer, Sewon Park & Alex Simpson. #ITP #Coq #Math
++ [[https://www.youtube.com/live/GnlD13FcME4][The Haskell Unfolder Episode 32: Solving tic-tac-toe]]. ~ Edsko de Vries (@EdskoDeVries), Andres Löh (@kosmikus@functional.cafe). #Haskell #FunctionalProgramming
++ [[http://www.logicamodernapproach.com/rpi/ilbaif24.sbringsjord/whatisL-BAI_whirlwindhistory.pdf][What is logic-based/logicist AI? (Its history)]]. ~ Selmer Bringsjord. #Logic #AI
++ [[http://www.logicamodernapproach.com/rpi/ilbaif24.sbringsjord/failureDL.pdf][The failure of Deep Learning (GPT-4o bites the dust)]]. ~ Selmer Bringsjord. #Logic #AI
++ [[https://cacm.acm.org/opinion/ai-should-challenge-not-obey/][AI should challenge, not obey (Let’s transform our robot secretaries into Socratic gadflies)]]. ~ Advait Sarkar. #AI #CriticalThinking
++ [[https://www.microsiervos.com/archivo/ciencia/mecanica-cuantica-explicada-facil-entender-contexto-historico.html][La mecánica cuántica explicada de otra forma fácil de entender y en su contexto histórico]]. ~ @Alvy. #Física
+
 *** 18-Sep-24
 + [[https://link.springer.com/chapter/10.1007/978-3-031-71162-6_10][Combining classical and probabilistic independence reasoning to verify the security of oblivious algorithms]]. #ITP #IsabelleHOL
 + [[https://link.springer.com/content/pdf/10.1007/978-3-031-71162-6_11][Efficient formally verified maximal end component decomposition for MDPs]]. ~ Arnd Hartmanns, Bram Kohlen & Peter Lammich. #ITP #IsabelleHOL
