@@ -65,6 +65,11 @@ its content.
 
 ** Septiembre 2024
 
+*** 20-Sep-24
++ [[https://jaalonso.github.io/calculemus/posts/2024/09/19-gausss_formula_for_summation/][Proofs of "∑i<n. i = n(n-1)/2" in Lean4 and Isabelle/HOL]]. #ITP #Lean4 #IsabelleHOL #Math #CaWlculemus
++ [[https://arxiv.org/abs/2310.02704][Extending Isabelle/HOL's code generator with support for the Go programming language]]. ~ Terru Stübinger & Lars Hupel. #ITP #IsabelleHOL #GoLang
++ [[https://www.uni.lodz.pl/fileadmin/Projekty/EXTENDD/abstracts.pdf#page=18][Mapping probability with logic: First order models in puzzle solving]]. ~ Adrian Groza. #ATP #Prover9 #Mace4
+
 *** 19-Sep-24
 + [[https://arxiv.org/abs/2409.11946][An imperative language for verified exact real-number computation]]. ~ Andrej Bauer, Sewon Park & Alex Simpson. #ITP #Coq #Math
 + [[https://www.youtube.com/live/GnlD13FcME4][The Haskell Unfolder Episode 32: Solving tic-tac-toe]]. ~ Edsko de Vries (@EdskoDeVries), Andres Löh (@kosmikus@functional.cafe). #Haskell #FunctionalProgramming
