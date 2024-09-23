@@ -65,6 +65,19 @@ its content.
 
 ** Septiembre 2024
 
+*** 22-Sep-24
++ [[https://leanfirststeps.blogspot.com/2024/09/08-and-hypothesis.html][Lean: First steps (08 - "And" hypothesis)]]. ~ Tariq Rashid (@rzeta0@mastodon.social). #ITP #Lean4 #Math
++ [[https://raw.githubusercontent.com/rafaelgrenier/lean-intro-topology/master/Latex/Main.pdf][Using Lean theorem prover to teach formal mathematics: Lean-Intro-Topology library]]. ~ Rafael Grenier. #ITP #LeanProver #Lean4 #Math
++ [[https://github.com/rafaelgrenier/lean-intro-topology][Lean-Intro-Topology: Introduction to topology with Lean]]. ~ Rafael Grenier. #ITP #LeanProver #Lean4 #Math
++ [[https://github.com/enricozb/logic]["A concise introduction to mathematical logic" in Lean4]]. ~ Enrico Borba. #ITP #LeanProver #Lean4 #Logic #Math
++ [[https://github.com/mgsium/102_comb_lean][Lean proofs of (some) problems from the book "102 combinatorial problems"]]. ~ Musab Guma'a et als. #ITP #LeanProver #Lean4 #Math
++ [[https://mmasdeu.github.io/topologygame/][The Topology Game (Learn topology with Lean!)]]. ~ Barcelona Lean Seminar. #ITP #LeanProver #Math
++ [[https://github.com/mmasdeu/topologygame][Source of the "The Topology Game"]]. ~ Marc Masdeu (@marcmasdeu) et als. #ITP #LeanProver #Lean3 #Math
++ [[https://github.com/mmasdeu/stieltjes][Formalization of Riemann-Stieltjes integral in Lean4]]. ~ Marc Masdeu (@marcmasdeu) et als. #ITP #LeanProver #Lean4 #Math
++ [[https://github.com/cymcymcymcym/Unique_Factorization_Lean4?tab=readme-ov-file][A Lean 4 proof of unique prime factorization in well-ordered rings, starting from ring axioms]]. ~ Mattchen. #ITP #LeanProver #LEan4 #Math
++ [[https://gitlab.com/fredokun/tmc-seminar-lean4][Formalisation of mathematics and dependent-type programming (A tutorial introduction using the Lean4 theorem prover)]]. ~ Frédéric Peschanski. #ITP #LeanProver #Lean4 #Math
++ [[https://gitlab.com/fredokun/agreg-lecture-lean4][A tutorial introduction of dependently-typed programming (and the Lean4 theorem prover)]]. ~ Frédéric Peschanski. #ITP #LeanProver #Lean4 #Math
+
 *** 21-Sep-24
 + [[https://adomani.github.io/Syllabus/MA4N1][Course: Theorem proving with Lean]]. ~ Damiano Testa. #ITP #LeanProver #Math
 + [[https://github.com/adomani/MA4N1_Theorem_proving_with_Lean/blob/master/MA4N1_2023/L17_navigating_Mathlib.lean][Finding lemmas in Mathlib]]. ~ Damiano Testa. #ITP #LeanProver #Mathlib
