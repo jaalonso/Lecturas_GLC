@@ -65,6 +65,18 @@ its content.
 
 ** Septiembre 2024
 
+*** 23-Sep-24
++ [[https://raw.githubusercontent.com/pitmonticone/LeanInVienna2024/master/Presentations/introduction-to-lean.pdf][Introduction to Lean]]. ~ Markus Himmel. #ITP #LeanProver #Math
++ [[https://slides.com/lecopivo/scientific-computing-in-lean-5b89e4][Scientific computing in Lean]]. ~ Tomáš Skřivan. #ITP #LeanProver #Math
++ [[https://docs.google.com/presentation/d/1jyDV72KMvnN0Edb7dOWgTYS0Visl5B5GOslf4E_y1wE][Tips and tricks for beginners using Mathlib/Lean]]. ~ Moritz Firsching. #ITP #LeanProver
++ [[https://github.com/pitmonticone/LeanInVienna2024][Lean Tutorial in Vienna]]. ~ Pietro Monticone et als. #ITP #LeanProver #Math
++ [[https://inria.hal.science/hal-04702129/document][Turning the Coq proof assistant into a pocket calculator]]. ~ Guillaume Melquiond. #ITP #Coq
++ [[https://i.cs.hku.hk/~bruno/papers/oopsla24_first.pdf][A case for first-class environments]]. ~ Jinhao Tan & Bruno C. D. S. Oliveira. #ITP #Coq
++ [[https://media.githubusercontent.com/media/anlun/publicFiles/master/papers/Kozyrev-al-ASE24.pdf][CoqPilot, a plugin for LLM-based generation of proofs]]. ~ Andrei Kozyrev, Gleb Solovev, Nikita Khramov & Anton Podkopaev. #ITP #Coq #AI #LLMs
++ [[https://www.isa-afp.org/entries/Randomized_Closest_Pair.html][Rabin's closest pair of points algorithm (in Isabelle/HOL)]]. ~ Emin Karayel & Zixuan Fan. #ITP #IsabelleHOL
++ [[https://www.isa-afp.org/browser_info/current/AFP/Wlog/document.pdf][Wlog – Without loss of generality (in Isabelle/HOL)]]. ~ Dominique Unruh. #ITP #IsabelleHOL
++ [[https://leanpub.com/haskell-cookbook/read][Haskell tutorial and cookbook]]. ~ Mark Watson. #Haskell #FunctionalProgramming
+
 *** 22-Sep-24
 + [[https://leanfirststeps.blogspot.com/2024/09/08-and-hypothesis.html][Lean: First steps (08 - "And" hypothesis)]]. ~ Tariq Rashid (@rzeta0@mastodon.social). #ITP #Lean4 #Math
 + [[https://raw.githubusercontent.com/rafaelgrenier/lean-intro-topology/master/Latex/Main.pdf][Using Lean theorem prover to teach formal mathematics: Lean-Intro-Topology library]]. ~ Rafael Grenier. #ITP #LeanProver #Lean4 #Math
