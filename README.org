@@ -65,6 +65,20 @@ its content.
 
 ** Septiembre 2024
 
+*** 24-Sep-24
++ [[https://jaalonso.github.io/calculemus/posts/2024/09/24-sum_of_powers_of_two/][Proofs of ∑k<n. 2ᵏ = 2ⁿ-1 in Lean4 and Isabelle/HOL]]. #ITP #Lean4 #IsabelleHOL #Math #Calculemus
++ [[https://github.com/david-christiansen/lean-fkbh-24][Code examples from a Lean tutorial at the Copenhagen functional programming meetup (1/2)]]. ~ David Thrane Christiansen (@d_christiansen@mathstodon.xyz). #ITP #Lean4 #FunctionalProgramming
++ [[https://github.com/david-christiansen/lean-fkbh-24-2][Code examples from a Lean tutorial at the Copenhagen functional programming meetup (2/2)]]. ~ David Thrane Christiansen (@d_christiansen@mathstodon.xyz). #ITP #Lean4 #FunctionalProgramming
++ [[https://cdsmithus.medium.com/playing-with-a-game-0dd944082e2c][Playing with a game]]. ~ Chris Smith. #Haskell #FunctionalProgramming
++ [[https://hakon.gylterud.net/programming/applicative-logic.html][Applicative logic]]. ~ Håkon Robbestad Gylterud. #Haskell #FunctionalProgramming #Logic
++ [[https://golem.ph.utexas.edu/category/2024/09/axiomatic_set_theory_1_introdu.html][Axiomatic set theory 1: Introduction]]. ~ Tom Leinster. #Math #SetTheory
++ [[https://www.maths.ed.ac.uk/~tl/ast/ast.pdf][Axiomatic set theory (Version of 21 September 2024)]]. ~ Tom Leinster. #Math #SetTheory
++ [[https://arxiv.org/abs/2409.14465][On logic and generative AI]]. ~ Yuri Gurevich, Andreas Blass. #Logic #AI
++ [[https://arxiv.org/abs/2409.14274][Proof automation with Large Language Models]]. ~ Minghai Lu, Benjamin Delaware, Tianyi Zhang. #ITP #Coq #LLMs
++ [[https://arxiv.org/abs/2409.15112][ChatGPT as a solver and grader of programming exams written in spanish]]. ~ Pablo Fernández-Saborido, Marcos Fernández-Pichel, David E. Losada. #LLMs #ChatGPT #CompSci
++ [[https://economictimes.indiatimes.com/small-biz/security-tech/technology/is-math-the-path-to-chatbots-that-dont-make-stuff-up/articleshow/113619293.cms][Is math the path to chatbots that don't make stuff up?]] ~ Cade Metz. #AI #ITP #Lean4 #Math
++ [[https://harmonic.fun][Harmonic: We are forging the world's most advanced mathematical reasoning engine]]. #AI #ITP #Math
+
 *** 23-Sep-24
 + [[https://raw.githubusercontent.com/pitmonticone/LeanInVienna2024/master/Presentations/introduction-to-lean.pdf][Introduction to Lean]]. ~ Markus Himmel. #ITP #LeanProver #Math
 + [[https://slides.com/lecopivo/scientific-computing-in-lean-5b89e4][Scientific computing in Lean]]. ~ Tomáš Skřivan. #ITP #LeanProver #Math
