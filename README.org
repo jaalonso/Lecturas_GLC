@@ -65,6 +65,13 @@ its content.
 
 ** Septiembre 2024
 
+*** 25-Sep-24
++ [[https://jaalonso.github.io/calculemus/posts/2024/09/25-brahmagupta-fibonacci_identity/][Proofs of the Brahmagupta-Fibonacci identity in Lean4 and Isabelle/HOL]]. #ITP #Lean4 #IsabelleHOL #Math #Calculemus
++ [[https://github.com/faenuccio-teaching/M2Lyon2425/blob/master/M2Lyon2425/SetsAndFunctions1.lean][M2Lyon2425: Sets and functions (1)]]. ~ Filippo A. E. Nuccio. #ITP #LeanProver #Lean4 #Math
++ [[https://yaeldillies.github.io/LeanCamCombi/][Cambridge combinatorics in Lean (Formalisation of the Cambridge combinatorics courses)]]. ~ Yaël Dillies. #ITP #LeanProver #Lean4 #Math
++ [[https://github.com/eric-wieser/lean-matrix-cookbook][The Matrix Cookbook, using Lean's mathlib]]. ~ Eric Wieser. #ITP #LeanProver #Lean4 #Mathlib #Math
++ [[https://www.danielbrice.net/blog/math-haskell-rosetta-stone/][Math-Haskell Rosetta Stone - Part 1]]. ~ Daniel Brice (@_fried_brice_). #Haskell #FunctionalProgramming
+
 *** 24-Sep-24
 + [[https://jaalonso.github.io/calculemus/posts/2024/09/24-sum_of_powers_of_two/][Proofs of ∑k<n. 2ᵏ = 2ⁿ-1 in Lean4 and Isabelle/HOL]]. #ITP #Lean4 #IsabelleHOL #Math #Calculemus
 + [[https://github.com/david-christiansen/lean-fkbh-24][Code examples from a Lean tutorial at the Copenhagen functional programming meetup (1/2)]]. ~ David Thrane Christiansen (@d_christiansen@mathstodon.xyz). #ITP #Lean4 #FunctionalProgramming
