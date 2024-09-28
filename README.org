@@ -65,6 +65,23 @@ its content.
 
 ** Septiembre 2024
 
+*** 26-Sep-24
++ [[https://www.sequoiacap.com/podcast/training-data-harmonic/][Why Vlad Tenev and Tudor Achim of Harmonic think AI is about to change Math—and why it matters?]] #AI #LLMs #ITP #Lean4 #Math
+
+*** 27-Sep-24
++ [[https://terrytao.wordpress.com/2024/09/25/a-pilot-project-in-universal-algebra-to-explore-new-ways-to-collaborate-and-use-machine-assistance/][A pilot project in universal algebra to explore new ways to collaborate and use machine assistance?]] ~ Terence Tao (@tao@mathstodon.xyz). #ITP #LeanProver #Lean4 #Math
++ [[https://github.com/teorth/equational_theories][Equational theory project]]. ~ Terence Tao et als. #ITP #ATP #Math
++ [[https://teorth.github.io/equational_theories/blueprint][Equational theories (Blueprint)]]. ~ Terence Tao (@tao@mathstodon.xyz). #ITP #Lean4 #Math
++ [[https://www.philipzucker.com/tao_algebra][Knuckledragger solvers for Terence Tao's equational reasoning challenge]]. ~ Philip Zucker (@SandMouth). #ITP #Math
++ [[https://leanprover-community.github.io/mathematics_in_lean/C09_Linear_Algebra.html][Linear algebra in "Mathematics in Lean"]]. ~ Patrick Massot. #ITP #Lean4 #Math
++ [[https://leanfirststeps.blogspot.com/2024/09/09-or-goal.html][Lean: First steps (09 - "Or" goal)]]. ~ Tariq Rashid (@rzeta0@mastodon.social). #ITP #Lean4 #Math
++ [[https://leanfirststeps.blogspot.com/2024/09/11-existence.html][Lean: First steps (11 - Existence)]]. ~ Tariq Rashid (@rzeta0@mastodon.social) #ITP #Lean4 #Math
++ [[https://www.ps.uni-saarland.de/~zeng/bachelor/Zeng_thesis.pdf][Post’s problem and the priority method in synthetic computability]]. ~ Haoyi Zeng. #ITP #Coq
++ [[https://marmsoler.com/wp-content/uploads/2024/09/marmsoler_24_isabelle-solidity.pdf][Secure smart contracts with Isabelle/Solidity]]. ~ Diego Marmsoler, Asad Ahmed & Achim D. Brucker. #ITP #IsabelleHOL
++ [[https://dl.acm.org/doi/pdf/10.1145/3696432][Theoretical and practical approach to the soundness and completeness of operational semantics based on denotational semantics for MDESL]]. ~ Hongyan Zhao, Huibiao Zhu, Feng Sheng, Jifeng He & Jonathan Bowen. #ITP #Coq
++ [[https://uqmss.org/assets/slides/2024/wk2_gabriel_field.pdf][The universal presence of category theory]]. ~ Gabriel Field. #Math #CategoryTheory
++ [[https://www.maths.ed.ac.uk/~tl/ast/ast.pdf][Axiomatic set theory (Version of 24 September 2024)]]. ~ Tom Leinster. #Math #SetTheory
+
 *** 25-Sep-24
 + [[https://jaalonso.github.io/calculemus/posts/2024/09/25-brahmagupta-fibonacci_identity/][Proofs of the Brahmagupta-Fibonacci identity in Lean4 and Isabelle/HOL]]. #ITP #Lean4 #IsabelleHOL #Math #Calculemus
 + [[https://github.com/faenuccio-teaching/M2Lyon2425/blob/master/M2Lyon2425/SetsAndFunctions1.lean][M2Lyon2425: Sets and functions (1)]]. ~ Filippo A. E. Nuccio. #ITP #LeanProver #Lean4 #Math
