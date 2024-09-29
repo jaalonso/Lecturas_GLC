@@ -65,6 +65,13 @@ its content.
 
 ** Septiembre 2024
 
+*** 28-Sep-24
++ [[https://arxiv.org/abs/2409.15191][Hyperstability in the Erdős-Sós conjecture]]. ~ Alexey Pokrovskiy. #ITP #LeanProver #Math
++ [[https://lamassr.github.io/editions/2021/papers/Formalized-Soundness.pdf][Formalized soundness and completeness of epistemic logic]]. ~ Asta Halkjær From, Alexander Birch Jensen & Jørgen Villadsen. #ITP #IsabelleHOL #Logic #Math
++ [[https://www.ps.uni-saarland.de/~bailitis/bachelor/Bailitis_thesis.pdf][Löb’s theorem and provability predicates in Coq]]. ~ Janis Bailitis. #ITP #Coq #Logic #Math
++ [[https://hvg.ece.concordia.ca/projects/fvps/pde/Formalizing_Potential_Flows_using_the_HOL_Light_Theorem_Prover.pdf][Formalizing potential flows using the HOL Light theorem prover]]. ~ Elif Deniz & Sofiène Tahar. #ITP HOL_Light
++ [[https://hvg.ece.concordia.ca/projects/fvps/pde/Formal_Verification_of_Coupled_Transmission_Lines.pdf][Formal verification of coupled transmission lines using theorem proving]]. ~ Elif Deniz, Adnan Rashid & Sofiène Tahar. #ITP #HOL_Light
+
 *** 26-Sep-24
 + [[https://www.sequoiacap.com/podcast/training-data-harmonic/][Why Vlad Tenev and Tudor Achim of Harmonic think AI is about to change Math—and why it matters?]] #AI #LLMs #ITP #Lean4 #Math
 
