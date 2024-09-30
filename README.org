@@ -65,6 +65,23 @@ its content.
 
 ** Septiembre 2024
 
+*** 29-Sep-24
++ [[https://is.gd/9pGEFb][M2Lyon2425: Sets and functions (Solutions)]]. ~ Filippo A. E. Nuccio. #ITP #LeanProver #Lean4 #Math
++ [[https://is.gd/A7sFcJ][M2Lyon2425: Sets and functions]]. ~ Filippo A. E. Nuccio. #ITP #LeanProver #Lean4 #Math
++ [[https://is.gd/ClUvLL][ENS-Lean_course: Introduction to Lean]]. ~ Roman Soletskyi. #ITP #LeanProver #Lean4 #Math
++ [[https://is.gd/MCptLu][ENS-Lean_course: Proofs by calculation]]. ~ Roman Soletskyi. #ITP #LeanProver #Lean4 #Math
++ [[https://is.gd/sd1FJI][ENS-Lean_course: Using theorems in Lean]]. ~ Roman Soletskyi. #ITP #LeanProver #Lean4 #Math
++ [[https://is.gd/EZLyou][ENS-Lean_course: Lean style guidelines]]. ~ Roman Soletskyi. #ITP #LeanProver #Lean4 #Math
++ [[https://is.gd/mKtmY7][ENS-Lean_course: Homework 1 (Sep 21, 2024)]]. ~ Roman Soletskyi. #ITP #LeanProver #Lean4 #Math
++ [[https://is.gd/vzuFQv][ENS-Lean_course: Logic in Lean4]]. ~ Roman Soletskyi. #ITP #LeanProver #Lean4 #Math
++ [[https://is.gd/dFVNA3][Con(NF): A formal consistency proof of Quine's set theory New Foundations]]. ~ Sky Wilshaw et als. #ITP #Lean4 #Math
++ [[https://research.chalmers.se/publication/542885/file/542885_Fulltext.pdf][Welcome to the parti(tioning) (Functional Pearl): Using rewrite rules and specialisation to partition Haskell programs]]. ~ Robert Krook & Samuel Hammersber. #Haskell #FunctionalProgramming
++ [[https://roia.centre-mersenne.org/item/10.5802/roia.70.pdf][The Marseille-Edinburgh connection]]. ~ Robert Kowalski. #Prolog #LogicProgramming
++ [[https://roia.centre-mersenne.org/item/10.5802/roia.71.pdf][PROLOG en son temps: hier, aujourd’hui, demain]]. Un point de vue industriel, économique et géopolitique. ~ Jean Rohmer. #Prolog #LogicProgramming
++ [[https://roia.centre-mersenne.org/item/10.5802/roia.77.pdf][L’IA symbolique et le dépassement de la logique classique]]. ~ Henri Prade. #AI #Logic #Prolog #LogicProgramming
++ [[https://roia.centre-mersenne.org/item/10.5802/roia.78.pdf][ASP: un devenir de Prolog]]. ~ Belaïd Benhamou, Vincent Risch & Éric Würbel. #LogicProgramming #Prolog #ASP
++ [[https://roia.centre-mersenne.org/item/10.5802/roia.73.pdf][Dimensions linguistiques de Prolog : le passé, le futur]]. ~ Verónica Dahl. #Prolog #AI
+
 *** 28-Sep-24
 + [[https://arxiv.org/abs/2409.15191][Hyperstability in the Erdős-Sós conjecture]]. ~ Alexey Pokrovskiy. #ITP #LeanProver #Math
 + [[https://lamassr.github.io/editions/2021/papers/Formalized-Soundness.pdf][Formalized soundness and completeness of epistemic logic]]. ~ Asta Halkjær From, Alexander Birch Jensen & Jørgen Villadsen. #ITP #IsabelleHOL #Logic #Math
