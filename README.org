@@ -65,6 +65,11 @@ its content.
 
 ** Septiembre 2024
 
+*** 30-Sep-24
++ [[https://is.gd/UcOdFz][Introduction to the λ-calculus]]. ~ Lawrence C. Paulson (@LawrPaulson@mathstodon.xyz). #LambdaCalculus
++ [[https://is.gd/sSrDoR][How to read Lean]]. ~ Martin Dvořák. #ITP #LeanProver #Math
++ [[https://is.gd/OUt7ev][Certifying rings of integers in number fields]]. ~ Anne Baanen, Alain Chavarri Villarello & Sander R. Dahmen. #ITP #Lean4 #Math
+
 *** 29-Sep-24
 + [[https://is.gd/9pGEFb][M2Lyon2425: Sets and functions (Solutions)]]. ~ Filippo A. E. Nuccio. #ITP #LeanProver #Lean4 #Math
 + [[https://is.gd/A7sFcJ][M2Lyon2425: Sets and functions]]. ~ Filippo A. E. Nuccio. #ITP #LeanProver #Lean4 #Math
