@@ -11,6 +11,7 @@ its content.
 
 * Content                                                                      :TOC:
 - [[#lecturas-del-año-2024][Lecturas del año 2024]]
+  - [[#octubre-2024][Octubre 2024]]
   - [[#septiembre-2024][Septiembre 2024]]
   - [[#agosto-2024][Agosto 2024]]
   - [[#julio-2024][Julio 2024]]
@@ -62,6 +63,16 @@ its content.
 - [[#lecturas-anteriores][Lecturas anteriores]]
 
 * Lecturas del año 2024
+
+** Octubre 2024
+
+*** 01-Oct-24
++ [[https://tinyurl.com/2755evuo][ENS-Lean_course: Homework 2 (Logic)]]. ~ Roman Soletskyi. #ITP #LeanProver #Lean4 #Math
++ [[https://mat.uab.cat/~masdeu/argo/][The geometry game]]. ~ Marc Masdeu. (@marcmasdeu). #ITP #Lean3 #Math
++ [[https://www.isa-afp.org/entries/Parallel_Shear_Sort.html][Parallel shear sort (in Isabelle/HOL)]]. ~ Manuel Eberl & Peter Lammich. #ITP #IsabelleHOL #Algorithms
++ [[https://www.philipzucker.com/ruler/][Rule synthesis etudes for Tao's algebra problem]]. ~ Philip Zucker (@SandMouth). #ATP #SMT #Z3
++ [[https://smelc.github.io/tn-fp-haskell-course/slides/][Functional programming course for Telecom Nancy, using Haskell]]. ~ Clément Hurlin (@smelc3). #Haskell #FunctionalProgramming
++ [[https://youtu.be/32hRTNTgBY8][Integrando AI con mi herramienta de trabajo preferida: Google Gemini, Emacs Lisp y GNU/Linux!! ~ lksadj]]. #Emacs #AI #GoogleGemini
 
 ** Septiembre 2024
 
