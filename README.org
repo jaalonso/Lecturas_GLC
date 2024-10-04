@@ -66,6 +66,14 @@ its content.
 
 ** Octubre 2024
 
++ [[https://blog.lean-lang.org/blog/2024-10-3-lean-4120/][The v4.12.0 release of Lean has just arrived!]] ~ Bharat Bhat & Kim Morrison. #ITP #LeanProver #Lean4
++ [[https://tinyurl.com/28qm5968][M2Lyon2425: Sets and functions 2 (Lecture)]]. ~ Filippo A. E. Nuccio. #ITP #LeanProver #Lean4 #Math
++ [[https://tinyurl.com/28ffzqfj][M2Lyon2425: Sets and functions 2 (Solutions)]]. ~ Filippo A. E. Nuccio. #ITP #LeanProver #Lean4 #Math
++ [[https://github.com/andreadlm/master-thesis][A Lean-certified reversibilization of Meyer-Ritchie LOOP language]]. ~ Andrea Delmastro. #ITP #Lean4
++ [[https://www.isa-afp.org/entries/SuffixArray.html][Formally verified suffix array construction (in Isabelle/HOL)]]. ~ Louis Cheung & Christine Rizkallah. #ITP #IsabelleHOL
++ [[https://www.youtube.com/live/iX9ShJG5L0A][The Haskell Unfolder Episode 33: Diagrams]]. ~ Edsko de Vries (@EdskoDeVries), Andres Löh (@kosmikus@functional.cafe). #Haskell #FunctionalProgramming
++ [[https://fixpt.de/blog/2024-09-23-total-denotational-semantics.html][Total denotational semantics]]. ~ Sebastian Graf (@sgraf@mastodon.online). #Haskell #FunctionalProgramming
++ [[https://cs-syd.eu/posts/2024-10-02-how-to-get-the-string-out-of-the-io-string][How to get the String out of the IO String in Haskell]]. ~ Tom Sydney Kerckhove (@kerckhove_ts). #Haskell #FunctionalProgramming
 *** 01-Oct-24
 + [[https://tinyurl.com/2755evuo][ENS-Lean_course: Homework 2 (Logic)]]. ~ Roman Soletskyi. #ITP #LeanProver #Lean4 #Math
 + [[https://mat.uab.cat/~masdeu/argo/][The geometry game]]. ~ Marc Masdeu. (@marcmasdeu). #ITP #Lean3 #Math
