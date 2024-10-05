@@ -66,6 +66,11 @@ its content.
 
 ** Octubre 2024
 
+*** 04-Oct-24
++ [[https://jaalonso.github.io/calculemus/posts/2024/10/04-if_ff_is_biyective_then_f_is_biyective/][Proofs of "If f ∘ f is bijective, then f is bijective" in Lean4 and Isabelle/HOL]]. #ITP #Lean4 #IsabelleHOL #Math #Calculemus
++ [[https://www.isa-afp.org/entries/Abstract_Substitution.html][Abstract substitution (in Isabelle/HOL)]]. ~ Martin Desharnais. #ITP #IsabelleHOL
++ [[https://ggc-discrete-math.github.io/python_intro.html][Discrete Math]]. ~ Mohamed Jamaloodeen, Kathy Pinzon, Daniel Pragel, Joshua Roberts & Sebastien Siva. #Math #Python
+
 *** 03-Oct-24
 + [[https://blog.lean-lang.org/blog/2024-10-3-lean-4120/][The v4.12.0 release of Lean has just arrived!]] ~ Bharat Bhat & Kim Morrison. #ITP #LeanProver #Lean4
 + [[https://tinyurl.com/28qm5968][M2Lyon2425: Sets and functions 2 (Lecture)]]. ~ Filippo A. E. Nuccio. #ITP #LeanProver #Lean4 #Math
