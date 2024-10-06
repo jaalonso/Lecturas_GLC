@@ -66,6 +66,27 @@ its content.
 
 ** Octubre 2024
 
+*** 05-Oct-24
++ [[https://is.gd/Txb8Ik][ENS-Lean-course: Taxicab number in Lean4]]. ~ Roman Soletskyi. #ITP #LeanProver #Lean4 #Math
++ [[https://is.gd/o9Y1tK][ENS-Lean-course: Sets in Lean4]]. ~ Roman Soletskyi. #ITP #LeanProver #Lean4 #Math
++ [[https://is.gd/hZ2H7n][ENS-Lean-course: Homework 3: Sets]]. ~ Roman Soletskyi. #ITP #LeanProver #Lean4 #Math
++ [[https://github.com/rodrigogribeiro/pcc116-2021-2][PCC116-2021: Lógica aplicada à computação (2021/22)]]. ~ Rodrigo Ribeiro (@rodrigogeraldo). #ITP #Agda #Logic  #Math #CompSci
++ [[https://github.com/rodrigogribeiro/pcc116-2024-1][PCC116: Lógica aplicada à computação (2024)]]. ~ Rodrigo Ribeiro (@rodrigogeraldo). #ITP #Lean4 #Logic  #Math #CompSci
++ [[https://is.gd/N36ahG][PCC116: Aula 1: Lógica proposicional em Lean]]. ~ Rodrigo Ribeiro (@rodrigogeraldo). #ITP #Lean4 #Logic #Math
++ [[https://is.gd/t2SbBm][PCC116: Aula 2: Predicate logic in Lean]]. ~ Rodrigo Ribeiro (@rodrigogeraldo). #ITP #Lean4 #Logic #Math
++ [[https://is.gd/xgKGD5][PCC116: Aula 3: Programação funcional em Lean]]. ~ Rodrigo Ribeiro (@rodrigogeraldo). #ITP #Lean4 #Logic #Math #FunctionalProgramming
++ [[https://is.gd/i7Bg3x][PCC116: Aula 4: Programação funcional e recursividade em Lean]]. ~ Rodrigo Ribeiro (@rodrigogeraldo). #ITP #Lean4 #Logic #Math #FunctionalProgramming
++ [[https://is.gd/4XKepV][PCC116: Aula 5: Listas encadeadas (tipo List na biblioteca) em Lean]]. ~ Rodrigo Ribeiro (@rodrigogeraldo). #ITP #Lean4 #Logic #Math #FunctionalProgramming
++ [[https://is.gd/e3ZruO][PCC116: Aula 6: Predicados indutivos em Lean]]. ~ Rodrigo Ribeiro (@rodrigogeraldo). #ITP #Lean4 #Logic #Math #FunctionalProgramming
++ [[https://is.gd/rx8sTK][PCC116: Aula 8: Programando com tipos dependentes em Lean]]. ~ Rodrigo Ribeiro (@rodrigogeraldo). #ITP #Lean4 #Logic #Math #FunctionalProgramming
++ [[https://is.gd/qLlvvp][PCC116: Aula 9: Sobrecarga e classes de tipos em Lean]]. ~ Rodrigo Ribeiro (@rodrigogeraldo). #ITP #Lean4 #Logic #Math #FunctionalProgramming
++ [[https://is.gd/zddSjS][PCC116: Aula 10: Metaprogramação e automação de provas em Lean]]. ~ Rodrigo Ribeiro (@rodrigogeraldo). #ITP #Lean4 #Logic #Math #FunctionalProgramming
++ [[https://is.gd/J2mGri][PCC116: Aula 11: Recursão geral em Lean]]. ~ Rodrigo Ribeiro (@rodrigogeraldo). #ITP #Lean4 #Logic #Math #FunctionalProgramming
++ [[https://is.gd/lpTOEa][PCC116: Aula 12: Representando semântica formal em Lean]]. ~ Rodrigo Ribeiro (@rodrigogeraldo). #ITP #Lean4 #Logic #Math #FunctionalProgramming
++ [[https://is.gd/Ic2DiH][PCC116: Aula 13: λ-cálculo tipado simples em Lean]]. ~ Rodrigo Ribeiro (@rodrigogeraldo). #ITP #Lean4 #Logic #Math #FunctionalProgramming
++ [[https://is.gd/TLRpd6][PCC116: Aula 14: Formalizando em Lean compiladores / semântica de linguagens imperativas]]. ~ Rodrigo Ribeiro (@rodrigogeraldo). #ITP #Lean4 #Logic #Math #FunctionalProgramming
++ [[https://is.gd/SQyncw][PCC116: Aula 15: Modelagem de autômatos em Lean]]. ~ Rodrigo Ribeiro (@rodrigogeraldo). #ITP #Lean4 #Logic #Math #FunctionalProgramming
++ [[https://mathscholar.org/2024/10/terence-taos-vision-of-ai-assistants-in-research-mathematics/][Terence Tao’s vision of AI assistants in research mathematics]]. ~ David H Bailey. #Math #AI #ITP #LeanProver
 *** 04-Oct-24
 + [[https://jaalonso.github.io/calculemus/posts/2024/10/04-if_ff_is_biyective_then_f_is_biyective/][Proofs of "If f ∘ f is bijective, then f is bijective" in Lean4 and Isabelle/HOL]]. #ITP #Lean4 #IsabelleHOL #Math #Calculemus
 + [[https://www.isa-afp.org/entries/Abstract_Substitution.html][Abstract substitution (in Isabelle/HOL)]]. ~ Martin Desharnais. #ITP #IsabelleHOL
