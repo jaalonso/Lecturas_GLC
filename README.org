@@ -66,6 +66,13 @@ its content.
 
 ** Octubre 2024
 
+*** 06-Oct-24
++ [[https://en.wikipedia.org/wiki/Grelling%E2%80%93Nelson_paradox][Grelling–Nelson paradox]]. #Logic
++ [[https://github.com/jpyamamoto/grelling-paradox-lean][Formalization of the Grelling's paradox in the Lean theorem prover]]. ~ Juan Pablo Yamamoto (@jpyamamoto@mathstodon.xyz). #ITP #LeanProver #Logic
++ [[https://mathoverflow.net/questions/291158/proofs-shown-to-be-wrong-after-formalization-with-proof-assistant][Proofs shown to be wrong after formalization with proof assistant]]. #ITP #Math
++ [[https://www.theatlantic.com/technology/archive/2024/10/terence-tao-ai-interview/680153/][We're entering uncharted territory for Math (Terence Tao, the world’s greatest living mathematician, has a vision for AI)]]. ~ Matteo Wong. #Math #AI #ITP
++ [[https://github.com/jgalgarra/PythonMatematicas][Curso Python para Matemáticas]]. ~ Javier García-Algarra. #Matemáticas #Python
+
 *** 05-Oct-24
 + [[https://is.gd/Txb8Ik][ENS-Lean-course: Taxicab number in Lean4]]. ~ Roman Soletskyi. #ITP #LeanProver #Lean4 #Math
 + [[https://is.gd/o9Y1tK][ENS-Lean-course: Sets in Lean4]]. ~ Roman Soletskyi. #ITP #LeanProver #Lean4 #Math
