@@ -66,6 +66,22 @@ its content.
 
 ** Octubre 2024
 
+*** 07-Oct-24
++ [[https://jaalonso.github.io/calculemus/posts/2024/10/07-pigeonhole_principle/][Proofs of the pigeonhole principle in Lean4]]. #ITP #Lean4 #Math #Calculemus
++ [[https://arxiv.org/abs/2410.03465][Formalizing MLTL formula progression in Isabelle/HOL]]. ~ Katherine Kosaian, Zili Wang, Elizabeth Sloan, Kristin Rozier. #ITP #IsabelleHOL #Logic
++ [[https://github.com/Happyves/BerLean_Workshop][Repo for the first BerLean workshop]]. #ITP #Lean4 #Math
++ [[https://github.com/EugZol/algebra][Re-invention of group/ring algebra in Lean 4 for learning purposes]]. ~ Eugene Zolotarev. #ITP #Lean4 #Math
++ [[https://math.berkeley.edu/~hutching/teach/proofs.pdf][Introduction to mathematical arguments (background handout for courses requiring proofs)]]. ~ Michael Hutchings. #Logic #Math
++ [[https://eugeniacheng.com/wp-content/uploads/2017/02/cheng-proofguide.pdf][How to write proofs: a quick guide]]. ~ Eugenia Cheng. #Logic #Math
++ [[https://sites.millersville.edu/bikenaga/math-proof/math-proof-notes.html][Notes on math proof]]. ~ Bruce Ikenaga. #Logic #Math
++ [[http://math.hws.edu/eking/pandptips][Proof writing and presentation tips]]. ~ Erika L.C. King. #Logic #Math
++ [[https://www.xavier.edu/math-undergraduate-research/documents/Write.pdf][How to write mathematics]]. ~ Martin Erickson. #Logic #Math
++ [[https://kconrad.math.uconn.edu/blurbs/proofs/writingtips.pdf][Advice on mathematical writing]]. ~ Keith Conrad. #Math
++ [[https://kconrad.math.uconn.edu/blurbs/proofs/induction.pdf][Examples of proofs by induction]]. ~ Keith Conrad. #Math
++ [[https://personal.math.vt.edu/day/ProofsBook/IPaMV.pdf][An introduction to proofs and the mathematical vernacular]]. ~ Martin V. Day. #Math
++ [[https://sites.math.washington.edu//~lee/Courses/310-2006/writing-proofs.pdf][Conventions for writing mathematical proofs]]. ~ John M. Lee.  #Math
++ [[https://arxiv.org/abs/2407.03203][TheoremLlama: Transforming general-purpose LLMs into Lean4 experts]]. ~ Ruida Wang, Jipeng Zhang, Yizhen Jia, Rui Pan, Shizhe Diao, Renjie Pi, Tong Zhang. #ITP #Lean4 #LLMs
+
 *** 06-Oct-24
 + [[https://en.wikipedia.org/wiki/Grelling%E2%80%93Nelson_paradox][Grelling–Nelson paradox]]. #Logic
 + [[https://github.com/jpyamamoto/grelling-paradox-lean][Formalization of the Grelling's paradox in the Lean theorem prover]]. ~ Juan Pablo Yamamoto (@jpyamamoto@mathstodon.xyz). #ITP #LeanProver #Logic
