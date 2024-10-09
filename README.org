@@ -66,6 +66,16 @@ its content.
 
 ** Octubre 2024
 
+*** 08-Oct-24
++ [[https://arxiv.org/abs/2312.15641][Formalising the double-pushout approach to graph transformation]]. ~ Robert Söldner, Detlef Plump. #ITP #IsabelleHOL
++ [[https://firsching.ch/FormalBook/blueprint][Formal BOOK (formalizing "Proofs from THE BOOK" by Martin Aigner and Günter M. Ziegler)]]. ~ Moritz Firsching, Nick Kuhn, Ralf Stephan, Christopher Schmidt. #ITP #Lean4 #Math
++ [[https://github.com/fpvandoorn/LeanCourse24][Bonn Lean Course WiSe 24/25]]. ~ Floris van Doorn. #ITP #Lean4
++ [[https://github.com/fpvandoorn/LeanCourse24/blob/master/LeanCourse/Lectures/Lecture1.lean][BonnLeanCourse: 1 - Introduction to Lean 4]]. ~ Floris van Doorn. #ITP #Lean4
++ [[https://arxiv.org/abs/2410.00065][Conway normal form: Bridging approaches for comprehensive formalization of surreal numbers]]. ~ Karol Pąk, Cezary Kaliszyk. #ITP #Mizar #Math
++ [[https://cacm.acm.org/opinion/what-is-theoretical-computer-science/][What is theoretical computer science? ~ Moshe Y]]. Vardi. #CompSci #Math
++ [[https://francismurillo.github.io/2017-02-22-Literate-Org-Haskell/][Literate Org Haskell]]. ~ F. Murillo. #Emacs #OrgMode #Haskell #FunctionalProgramming
++ [[https://static1.squarespace.com/static/661587048ee66c27f27eecc8/t/66b9334e115dc60c33c31152/1723413327084/orgmode_guide.pdf][Using Org Mode to write and organize a book]]. ~ Ron Galloway. #Emacs #OrgMode
+
 *** 07-Oct-24
 + [[https://jaalonso.github.io/calculemus/posts/2024/10/07-pigeonhole_principle/][Proofs of the pigeonhole principle in Lean4]]. #ITP #Lean4 #Math #Calculemus
 + [[https://arxiv.org/abs/2410.03465][Formalizing MLTL formula progression in Isabelle/HOL]]. ~ Katherine Kosaian, Zili Wang, Elizabeth Sloan, Kristin Rozier. #ITP #IsabelleHOL #Logic
