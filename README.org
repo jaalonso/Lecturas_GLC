@@ -66,6 +66,21 @@ its content.
 
 ** Octubre 2024
 
+*** 10-Oct-24
++ [[https://tinyurl.com/2x4lnkxg][M2Lyon2425: Group theory in Lean]]. ~ Filippo A. E. Nuccio. #ITP #LeanProver #Lean4 #Math
++ [[https://arxiv.org/abs/2410.01466v1][A complete formalization of Fermat's Last Theorem for regular primes in Lean]]. ~ Riccardo Brasca, Christopher Birkbeck, Eric Rodriguez Boidi, Alex Best, Ruben van De Velde, Andrew Yang. #ITP #LeanProver #Lean4 #Math
++ [[https://arxiv.org/abs/2410.00529][Pointwise order of generalized Hofstadter functions G, H and beyond]]. ~ Pierre Letouzey, Shuo Li, Wolfgang Steiner. #ITP #Coq #Math
++ [[https://arxiv.org/abs/2410.01538][Finite element method]]. Detailed proofs to be formalized in Coq. ~ François Clément, Vincent Martin. #ITP #Coq #Math
++ [[https://web.eng.fiu.edu/gaquan/Papers/ESWEEK24Papers/CPS-Proceedings/pdfs/MEMOCODE/780200a012/780200a012.pdf][Modelling and proving the monotonicity of processor pipelines in Coq]]. ~ Alban Gruin, Armelle Bonenfant, Thomas Carle, Christine Rochange. #ITP #Coq
++ [[https://www.isa-afp.org/entries/Karatsuba_Sqrt.html][The Karatsuba square root algorithm (in Isabelle/HOL)]]. ~ Manuel Eberl. #ITP #IsabelleHOL #Math
++ [[https://arxiv.org/abs/2409.19176][Polynomial universes and dependent types]]. ~ C.B. Aberlé, David I. Spivak. #ITP #Agda
++ [[https://dspace.cuni.cz/bitstream/handle/20.500.11956/193769/120486074.pdf][Formalization of homotopy pushouts in homotopy type theory]]. ~ Vojtěch Štěpančík. #ITP #Agda #Math #HoTT
++ [[https://arxiv.org/abs/2410.02666][AlphaIntegrator: Transformer action search for symbolic integration proofs]]. ~ Mert Ünsal, Timon Gehr, Martin Vechev. #LLMs #Math
++ [[https://www.youtube.com/live/DejwguECV1o][Demostraciones por inducción en Lean]]. ~ Luis Turcio. #ITP #Lean4
+
+*** 09-Oct-24
++ [[https://well-typed.com/blog/2024/10/18-months-of-unfolder/][18 months of the Haskell Unfolder]]. ~ Edsko de Vries (@EdskoDeVries), Andres Löh (@kosmikus@functional.cafe). #Haskell #FunctionalProgramming
+
 *** 08-Oct-24
 + [[https://arxiv.org/abs/2312.15641][Formalising the double-pushout approach to graph transformation]]. ~ Robert Söldner, Detlef Plump. #ITP #IsabelleHOL
 + [[https://firsching.ch/FormalBook/blueprint][Formal BOOK (formalizing "Proofs from THE BOOK" by Martin Aigner and Günter M. Ziegler)]]. ~ Moritz Firsching, Nick Kuhn, Ralf Stephan, Christopher Schmidt. #ITP #Lean4 #Math
