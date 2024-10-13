@@ -66,6 +66,21 @@ its content.
 
 ** Octubre 2024
 
+*** 12-Oct-24
++ [[https://tinyurl.com/23hrzp9h][ENS-Lean-course: Functions in Lean4]]. ~ Roman Soletskyi. #ITP #LeanProver #Lean4 #Math
++ [[https://tinyurl.com/269sfvo3][ENS-Lean-course: Taxicab number in Lean4]]. ~ Roman Soletskyi. #ITP #LeanProver #Lean4 #Math
++ [[https://github.com/mortarsanjaya/IMOSLLean4][IMOSLLean4: Formalization of IMO shortlist problems in Lean 4]]. ~ Gian Sanjaya. #ITP #Lean4 #Math #IMO
++ [[https://www.andrew.cmu.edu/user/avigad/Talks/kerala.pdf][AI for Mathematics]]. ~ Jeremy Avigad. #ITP #LeanProver #ATP #AI #MachineLearning #LLMs #Math
++ [[https://www.maths.ed.ac.uk/~tl/ast/ast.pdf][Axiomatic set theory (Version of 9 October 2024)]]. ~ Tom Leinster. #Math #SetTheory
+
+*** 11-Oct-24
++ [[https://arxiv.org/abs/2410.04753v1][ImProver: Agent-based automated proof optimization]]. ~ Riyaz Ahuja, Jeremy Avigad, Prasad Tetali, Sean Welleck. #ITP #LeanProver #LLMs
++ [[https://pure.tue.nl/ws/portalfiles/portal/341228665/Thesis_BDS_Dick_Arends.pdf][Combining Waterproof and Mathematical Components (Utilising Mathematical Components in Waterproof to teach linear algebra proving)]]. ~ Dick Arends. #ITP #Coq #Waterproof #Math
++ [[https://siek.blogspot.com/2024/10/take-aways-from-using-deduce-in.html][Take-aways from using Deduce in the classroom]]. ~ Jeremy Siek (@jeremysiek@types.pl). #ITP #Deduce
++ [[https://www.isa-afp.org/entries/Category_Set.html][The elementary theory of the category of sets (in Isabelle/HOL)]]. ~ James Baxter & Dustin Bryant. #ITP #IsabelleHOL #Math
++ [[https://scholarworks.umt.edu/cgi/viewcontent.cgi?article=1034&context=tme][Automated geometric theorem proving: Wu's method]]. ~ Joran Elias. #ATP #Math
++ [[https://www-ps.informatik.uni-kiel.de/~mh/papers/WLP24.pdf][Can logic programming be liberated from predicates and backtracking?]] ~ Michael Hanus. #LogicProgramming
+
 *** 10-Oct-24
 + [[https://tinyurl.com/2x4lnkxg][M2Lyon2425: Group theory in Lean]]. ~ Filippo A. E. Nuccio. #ITP #LeanProver #Lean4 #Math
 + [[https://arxiv.org/abs/2410.01466v1][A complete formalization of Fermat's Last Theorem for regular primes in Lean]]. ~ Riccardo Brasca, Christopher Birkbeck, Eric Rodriguez Boidi, Alex Best, Ruben van De Velde, Andrew Yang. #ITP #LeanProver #Lean4 #Math
