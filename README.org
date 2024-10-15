@@ -66,6 +66,18 @@ its content.
 
 ** Octubre 2024
 
+*** 13-Oct-24
++ [[https://dl.acm.org/doi/pdf/10.1145/3689750][Effects and coeffects in call-by-push-value]]. ~ Cassia Torczon, Emmanuel Suárez Acevedo, Shubh Agrawal, Joey Velez-Ginorio, Stephanie Weirich. #ITP #Coq
++ [[https://youngzt998.github.io/papers/oopsla24/oopslab24-final.pdf][Fully verified instruction scheduling]]. ~ Ziteng Yang, Jun Shirako, Vivek Sarkar. #ITP #Coq
++ [[https://dl.acm.org/doi/pdf/10.1145/3689722][Iris-MSWasm: Elucidating and mechanising the security invariants of memory-safe WebAssembly]]. ~ Maxime Legoupil, June Rousseau, Aïna Linn Georges, Jean Pichon-Pharabod, Lars Birkedal. #ITP #Coq
++ [[https://hazel.org/][Hazel: a live functional programming environment organized around typed holes]]. ~  Cyrus Omar et als. #ITP #FunctionalProgramming #Hazel
++ [[https://hazel.org/papers/learner_centered_proofs_hatra_2024.pdf][Learner-centered design criteria for classroom proof assistants]]. ~ Matthew Keenan, Cyrus Omar. #ITP #Hazel
++ [[https://export.arxiv.org/abs/2410.07918][Accessible bridge between category theory and functional programming]]. ~ Fethi Kadhi. #Haskell #FunctionalProgramming #CategoryTheory
++ [[https://dl.acm.org/doi/pdf/10.1145/3689745][Refinement type refutations]]. ~ Robin Webbers, Klaus von Gleissenthall, Ranjit Jhala. #Haskell #FunctionalProgramming
++ [[https://dl.acm.org/doi/pdf/10.1145/3689714][Intensional functions]]. ~ Zachary Palmer, Nathaniel Wesley Filardo, Ke Wu. #Haskell #FunctionalProgramming
++ [[https://dl.acm.org/doi/pdf/10.1145/3689758][Semantics lifting for syntactic sugar]]. ~ Zhichao Guan, Yiyuan Cao, Tailai Yu, Ziheng Wang, Di Wang, Zhenjiang Hu. #Haskell #FunctionalProgramming
++ [[https://ceur-ws.org/Vol-3781/paper01.pdf][The use of artificial intelligence in teaching students programming languages]]. ~ Svitlana Lytvynova, Natalya Rashevska and Svitlana Proskura. #AI #Education #Programming
+
 *** 12-Oct-24
 + [[https://tinyurl.com/23hrzp9h][ENS-Lean-course: Functions in Lean4]]. ~ Roman Soletskyi. #ITP #LeanProver #Lean4 #Math
 + [[https://tinyurl.com/269sfvo3][ENS-Lean-course: Taxicab number in Lean4]]. ~ Roman Soletskyi. #ITP #LeanProver #Lean4 #Math
