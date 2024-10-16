@@ -66,6 +66,19 @@ its content.
 
 ** Octubre 2024
 
+*** 15-Oct-16
++ [[https://leanfirststeps.blogspot.com/2024/10/12-odd-even.html][Lean: First steps (12 - Odd & Even )]]. ~ Tariq Rashid (@rzeta0@mastodon.social) #ITP #Lean4 #Math
++ [[https://www.youtube.com/@LeanFirstSteps][Tutorial videos for the course "Lean: First Steps"]]. ~ Tariq Rashid (@rzeta0@mastodon.social). #ITP #Lean4 #Math
++ [[https://thebook.zib.de/graph%20theory/2024/10/11/handshaking-lemma.html][The handshaking lemma]]. ~ Christoph Spiegel. #ITP #LeanProver #Lean4 #Math
++ [[https://nicaudinet.github.io/2024/10/14/watersort-haskell/][Water sort in Haskell]]. ~ Nicolas Audinet de Pieuchon. #Haskell #FunctionalProgramming
++ [[https://www.metalevel.at/prolog][The power of Prolog]]. ~ Markus Triska (@MarkusTriska). #Prolog #LogicProgramming
++ [[https://jaalonso.github.io/materias/PLconProlog/temas/tema-9.html][Programación lógica con restricciones]]. #Prolog #LogicProgramming
++ [[https://www.cs.us.es/~jalonso/apuntes/Emacs_para_ciencias_del_dato/Emacs_para_ciencias_del_dato.html][Emacs para ciencias del dato]]. #Emacs #OrgMode
++ [[https://lawrencecpaulson.github.io/2024/10/14/Church_Rosser.html][The λ-calculus, 2: The Church-Rosser theorem]]. ~ Lawrence Paulson (@LawrPaulson@mathstodon.xyz). #LambdaCalculus
+
+*** 14-Oct-24
++ [[https://www.mdpi.com/2073-431X/13/8/187][On using GeoGebra and ChatGPT for geometric discovery]]. ~ Francisco Botana, Tomás Recio, María Pilar Vélez. #GeoGebra #ChatGPT #Math #AI
+
 *** 13-Oct-24
 + [[https://dl.acm.org/doi/pdf/10.1145/3689750][Effects and coeffects in call-by-push-value]]. ~ Cassia Torczon, Emmanuel Suárez Acevedo, Shubh Agrawal, Joey Velez-Ginorio, Stephanie Weirich. #ITP #Coq
 + [[https://youngzt998.github.io/papers/oopsla24/oopslab24-final.pdf][Fully verified instruction scheduling]]. ~ Ziteng Yang, Jun Shirako, Vivek Sarkar. #ITP #Coq
