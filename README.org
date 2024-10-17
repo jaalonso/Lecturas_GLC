@@ -66,6 +66,11 @@ its content.
 
 ** Octubre 2024
 
+*** 16-Oct-24
++ [[https://leanfirststeps.blogspot.com/2024/10/13-disquality.html][Lean: First steps (13 - Disquality)]]. ~ Tariq Rashid (@rzeta0@mastodon.social) #ITP #Lean4 #Math
++ [[https://pointfree-wasm.github.io][Munihac WASM experiment: convert Haskell expressions to pointfree in your browser]]. ~ Sergey Vinokurov (@5ergv). #Haskell #FunctionalProgramming
++ [[https://www.rsme.es/2024/10/comision-de-profesiones-y-empleabilidad-por-que-debemos-ensenar-machine-learning-en-todos-los-titulos-universitarios/][Por qué debemos enseñar Machine Learning en todos los títulos universitarios]]. ~ Manuel de León Rodríguez y Rodrigo Trujillo González. #Education #AI #MachineLearning
+
 *** 15-Oct-16
 + [[https://leanfirststeps.blogspot.com/2024/10/12-odd-even.html][Lean: First steps (12 - Odd & Even )]]. ~ Tariq Rashid (@rzeta0@mastodon.social) #ITP #Lean4 #Math
 + [[https://www.youtube.com/@LeanFirstSteps][Tutorial videos for the course "Lean: First Steps"]]. ~ Tariq Rashid (@rzeta0@mastodon.social). #ITP #Lean4 #Math
