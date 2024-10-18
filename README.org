@@ -66,6 +66,13 @@ its content.
 
 ** Octubre 2024
 
+*** 17-Oct-24
++ [[https://www.youtube.com/live/n5ZtsHrYWq0][The Haskell Unfolder Episode 34: You already understand monads]]. ~ Edsko de Vries (@EdskoDeVries), Andres Löh (@kosmikus@functional.cafe). #Haskell #FunctionalProgramming
++ [[https://github.com/tusharad/ollama-haskell][Ollama-haskell: Haskell bindings for Ollama]]. ~ Tushar Adhatrao. #Haskell #FunctionalProgramming #Ollama #LLMs
++ [[https://www.quantamagazine.org/big-advance-on-simple-sounding-math-problem-was-a-century-in-the-making-20241014/][Big advance on simple-sounding math problem was a century in the making]]. ~ Erica Klarreich (@EricaKlarreich). #Math
++ [[https://sachachua.com/blog/2024/10/thinking-about-12-aspects-of-personal-information-knowledge-management/][Thinking about 12 aspects of personal information/knowledge management]]. ~ Sacha Chua (@sacha@social.sachachua.com). #Emacs #OrgMode
++ [[https://texto-plano.xyz/~tano/archivos-sphinx][Manual en español de GNU/Emacs 29.1]]. ~ Tano. #Emacs
+
 *** 16-Oct-24
 + [[https://leanfirststeps.blogspot.com/2024/10/13-disquality.html][Lean: First steps (13 - Disquality)]]. ~ Tariq Rashid (@rzeta0@mastodon.social) #ITP #Lean4 #Math
 + [[https://pointfree-wasm.github.io][Munihac WASM experiment: convert Haskell expressions to pointfree in your browser]]. ~ Sergey Vinokurov (@5ergv). #Haskell #FunctionalProgramming
