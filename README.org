@@ -66,6 +66,19 @@ its content.
 
 ** Octubre 2024
 
+*** 18-Oct-24
++ [[https://www.amazon.science/blog/how-the-lean-language-brings-math-to-coding-and-coding-to-math][How the Lean language brings math to coding and coding to math]]. ~ Leo de Moura. #Lean4 #ITP #FunctionalProgramming #Math
++ [[https://leanprover-community.github.io/blog/posts/basic-probability-in-mathlib/][Basic probability in Mathlib]]. ~ Rémy Degenne. #ITP #LeanProver #Math
++ [[https://arxiv.org/abs/2410.01466][A complete formalization of Fermat's Last Theorem for regular primes in Lean]]. ~ Riccardo Brasca, Christopher Birkbeck, Eric Rodriguez Boidi, Alex Best, Ruben van De Velde, Andrew Yang. #ITP #LeanProver #Math
++ [[https://gist.github.com/TOTBWF/6890425f52066fa3bbfdd3e629565a4e][Agda proof of the Knaster-Tarski Fixpoint Theorem]]. ~ Reed Mullanix (@totbwf@types.pl). #ITP #Agda #Math
++ [[https://www.linkedin.com/pulse/deep-dive-profound-connection-between-prolog-lean-dehbozorgi-x9nte/][Deep dive: The profound connection between Prolog and Lean (A technical analysis)]]. ~ Alireza Dehbazargi (@BDehbozorgi83). #Prolog #LogicProgramming #LeanProver #ITP
++ [[https://www.isa-afp.org/entries/Wooley_Elementary_Discrete_Inequality.html][Wooley's discrete inequality (in Isabelle/HOL)]]. ~ Angeliki Koutsoukou-Argyraki (@angelikikoutso1@bird.makeup). #ITP #IsabelleHOL #Math
++ [[https://arxiv.org/abs/2410.13508][Formalizing hyperspaces and operations on subsets of polish spaces over abstract exact real numbers]]. ~ Michal Konečný, Sewon Park, Holger Thies. #ITP #Coq #Math
++ [[https://arxiv.org/abs/2410.10135][FormalAlign: Automated alignment evaluation for autoformalization]]. ~ Jianqiao Lu, Yingjia Wan, Yinya Huang, Jing Xiong, Zhengying Liu, Zhijiang Guo. #Autoformalization #ITP #Lean4
++ [[https://www21.in.tum.de/students/past/vscode_plugin_improvements/assets/Isabelle_LSP_Thesis.pdf][Improving Isabelle/VSCode: Towards better prover IDE integration via language server]]. ~ Thomas Lindae. #ITP #IsabelleHOL
++ [[https://personal.cis.strath.ac.uk/robert.atkey/cs208][Course: Logic & algorithms]]. ~ Bob Atkey (@bentnib@types.pl). #Logic
++ [[https://themkat.net/2024/10/17/emacs_lisp_macros.html][Write your own Emacs Lisp macros - a short introduction]]. ~ Marie K. Ekeberg. #Emacs #Lisp
+
 *** 17-Oct-24
 + [[https://www.youtube.com/live/n5ZtsHrYWq0][The Haskell Unfolder Episode 34: You already understand monads]]. ~ Edsko de Vries (@EdskoDeVries), Andres Löh (@kosmikus@functional.cafe). #Haskell #FunctionalProgramming
 + [[https://github.com/tusharad/ollama-haskell][Ollama-haskell: Haskell bindings for Ollama]]. ~ Tushar Adhatrao. #Haskell #FunctionalProgramming #Ollama #LLMs
