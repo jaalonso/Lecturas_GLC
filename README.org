@@ -66,6 +66,12 @@ its content.
 
 ** Octubre 2024
 
+*** 19-Oct-24
++ [[https://tinyurl.com/2y893tu4][ENS-Lean-course: Plain structures in Lean4]]. ~ Roman Soletskyi. #ITP #LeanProver #Lean4 #Math
++ [[https://tinyurl.com/258hbnpr][ENS-Lean-course: How to build hierarchy of algebraic structures in Lean4]]. ~ Roman Soletskyi. #ITP #LeanProver #Lean4 #Math
++ [[https://www.maths.ed.ac.uk/~tl/ast/ast.pdf][Axiomatic set theory (Version of 18 October 2024)]]. ~ Tom Leinster. #Math #SetTheory
++ [[https://cacm.acm.org/blogcacm/nobel-prizes-and-ai-the-promise-the-peril-and-the-path-forward/][Nobel prizes and AI: The promise, the peril, and the path forward]]. ~ Marc Rotenberg. #AI
+
 *** 18-Oct-24
 + [[https://www.amazon.science/blog/how-the-lean-language-brings-math-to-coding-and-coding-to-math][How the Lean language brings math to coding and coding to math]]. ~ Leo de Moura. #Lean4 #ITP #FunctionalProgramming #Math
 + [[https://leanprover-community.github.io/blog/posts/basic-probability-in-mathlib/][Basic probability in Mathlib]]. ~ Rémy Degenne. #ITP #LeanProver #Math
