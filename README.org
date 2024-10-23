@@ -66,6 +66,30 @@ its content.
 
 ** Octubre 2024
 
+*** 22-Oct-24
++ [[https://nachivpn.me/kssf.pdf][Kripke-style semantics for strong functors]]. ~ Nachiappan Valliappan. #ITP #Agda
++ [[https://pure.tue.nl/ws/portalfiles/portal/341648276/Thesis_BTW_Matt_Verhoeven.pdf][Analysis on normed semirings and semimodules]]. ~ Matt Verhoeven. #ITP #Coq #Math
++ [[https://aws.amazon.com/es/blogs/security/an-unexpected-discovery-automated-reasoning-often-makes-systems-more-efficient-and-easier-to-maintain/][An unexpected discovery: Automated reasoning often makes systems more efficient and easier to maintain]]. ~ Byron Cook. #ITP
++ [[https://tompreichel.com/thesis.pdf][Neural approaches to theorem search & proof repair]]. ~ Thomas Reichel. #ITP #Coq #LLMs
++ [[https://arxiv.org/abs/2405.06624][Towards Guaranteed Safe AI: A framework for ensuring robust and reliable AI systems]]. ~ David Dalrymple et als. #AI
+
+*** 21-Oct-24
++ [[https://lean-lang.org/doc/reference/latest/][The Lean Language Reference]]. #ITP #LeanProver #Lean4
++ [[https://arxiv.org/abs/2410.13508][Formalizing hyperspaces and operations on subsets of polish spaces over abstract exact real numbers]]. ~ Michal Konečný, Sewon Park, Holger Thies.][]][[https://github.com/fzyzcjy/ai_math_paper_list][AI for Mathematics paper list]]. #AI #Math #AI4Mat #ITP #Coq #Math
++ [[https://www.aria.org.uk/programme-safeguarded-ai][Safeguarded AI: this programme aims to develop the safety standards we need for transformational AI]]. #AI
++ [[https://www.aria.org.uk/wp-content/uploads/2024/04/ARIA-Mathematics-and-modelling-are-the-keys-we-need-to-safely-unlock-transformative-AI-v01.pdf][Mathematics for Safe AI]]. ~ David Dalrymple. #AI
++ [[https://www.aria.org.uk/wp-content/uploads/2024/01/ARIA-Safeguarded-AI-Programme-Thesis-V1.pdf][Safeguarded AI: constructing guaranteed safety (Programme thesis)]]. ~ David Dalrymple. #AI
++ [[https://www.provablysafe.ai/][ProvablySafe.AI: a collaborative landing page for the field and community at the intersection of AI safety and formal methods]]. #AI
++ [[https://programadorwebvalencia.com/cursos/emacs-lisp][Curso de Emacs Lisp]]. ~ Andros Fenollosa (@andros@activity.andros.dev). #Emacs #Lisp
++ [[https://programadorwebvalencia.com/cursos/ui-emacs-lisp][Curso de Emacs Lisp orientado a las interfaces de usuario]]. ~ Andros Fenollosa (@andros@activity.andros.dev). #Emacs #Lisp
+
+*** 20-Oct-24
++ [[https://joomy.korkutblech.com/papers/dissertation.pdf][Foreign function verification through metaprogramming]]. ~ Joomy Korkut. #ITP #Coq
++ [[https://www.cs.cmu.edu/~janh/courses/814/24/lectures/lecture01.pdf][Lecture notes on overview and the lambda calculus]]. ~ Jan Hoffmann. #LambdaCalculus
++ [[https://www.cs.cmu.edu/~janh/courses/814/24/schedule/][Course: Types and Programming Languages]]. ~ Jan Hoffmann. #FunctionalProgramming
++ [[https://link.springer.com/article/10.1007/s10462-024-10928-7][An efficient propositional system for Abductive Logic Programming]]. ~ M. Gavanelli, P. Julián-Iranzo, F. Sáenz-Pérez. #ALP #LogicProgramming
++ [[https://openreview.net/group?id=NeurIPS.cc%2F2024%2FWorkshop%2FMATH-AI#tab-accept][The accepted papers for the MATH-AI workshop have been released on OpenReview]]. #ITP #AI #LLMs #Math
+
 *** 19-Oct-24
 + [[https://tinyurl.com/2y893tu4][ENS-Lean-course: Plain structures in Lean4]]. ~ Roman Soletskyi. #ITP #LeanProver #Lean4 #Math
 + [[https://tinyurl.com/258hbnpr][ENS-Lean-course: How to build hierarchy of algebraic structures in Lean4]]. ~ Roman Soletskyi. #ITP #LeanProver #Lean4 #Math
