@@ -66,6 +66,31 @@ its content.
 
 ** Octubre 2024
 
+*** 25-Oct-24
++ [[https://arxiv.org/abs/2410.17847][A formal characterization of discrete condensed objects]]. ~ Dagur Asgeirsson. #ITP #LeanProver #Math
++ [[https://arxiv.org/abs/2410.15386][Formalization of differential privacy in Isabelle/HOL]]. ~ Tetsuya Sato, Yasuhiko Minamide. #ITP #IsabelleHOL
++ [[https://github.com/sven-manthe/A-formalization-of-Borel-determinacy-in-Lean][A formalization of Borel determinacy in Lean]]. ~  #ITP #LeanProver #Math
++ [[https://arxiv.org/abs/2410.14718][Brownian motion in Isabelle/HOL]]. ~ Christian Pardillo Laursen, Simon Foster, Mark Post. #ITP #IsabelleHOL
++ [[https://prolog-lang.org/Education/2024_WS_papers/paper2PEG2.0.herme.pdf][Teaching pure LP with Prolog and a fair search rule]]. ~ Manuel V. Hermenegildo, Jose F. Morales, Pedro Lopez-Garcia. #Prolog #LogicProgramming
++ [[https://prolog-lang.org/Education/2024_WS_papers/paper3PEG2.0.genesereth.pdf][General game playing - Killer app for logic programming]]. ~ Michael Genesereth. #Prolog #LogicProgramming
++ [[https://prolog-lang.org/Education/2024_WS_papers/paper4PEG2.0.warren.pdf][Teaching Prolog through grammars]]. ~ David S. Warren. #Prolog #LogicProgramming
++ [[https://prolog-lang.org/Education/2024_WS_papers/paper6PEG2.0.skvortsov.pdf][From logic programming to programming in Logica: A first-course in declarative data science & engineering]]. ~ Evgeny Skvortsov, Yilin Xia, Shawn Bowers & Bertram Ludäscher. #LogicProgramming #Logica
++ [[https://github.com/EvgSkv/logica][Logica: language of Big Data]]. ~ Evgeny Skvortsov et als. #LogicProgramming #Logica
++ [[https://prolog-lang.org/Education/2024_WS_papers/paper5PEG2.0.cecci.pdf][Democratising access to logic programming: A Web application design tool for querying Prolog code]]. ~ Santiago Andrés Villarroel, Christian Nelson Gimenez, Jorge Pablo Rodríguez, Laura Andrea Cecchi. #Prolog #LogicProgramming
++ [[https://prolog-lang.org/Education/2024_WS_papers/paper8PEG2.0.gupta.pdf][Computational thinking with logic programming]]. ~ Gopal Gupta, Elmer Salazar, Joaquín Arias. #ASP #LogicProgramming
++ [[https://prolog-lang.org/Education/2024_WS_papers/paper9PEG2.0.jendreiko.pdf][Generative logic: Teaching Prolog as Generative AI in art and design]]. ~ Christian Jendreiko. #Prolog #LogicProgramming #GenerativeAI
++ [[https://prolog-lang.org/Education/2024_WS_papers/paper10PEG2.0.davila.pdf][Controlled natural language models]]. ~ Jacinto A. Dávila Quintero. #LLMs #Prolog #LogicProgramming
++ [[https://prolog-lang.org/Education/2024_WS_papers/paper11PEG2.0.tarau.pdf][On teaching logic programming in the era of generative AI]]. ~ Paul Tarau. #Prolog #LogicProgramming #GenerativeAI
++ [[https://prolog-lang.org/Education/2024_WS_papers/short1PEG2.0.cecci.pdf][Bringing logic programming to primary school: a teacher training course]]. ~ Laura Andrea Cecchi, Jorge Pablo Rodríguez. #Prolog #LogicProgramming #Education
++ [[https://prolog-lang.org/Education/2024_WS_papers/short7PEG.0.fages.pdf][On teaching constraint-based modeling and algorithms for decision support in Prolog]]. ~ François Fages. #CLP #LogicProgramming
++ [[https://ruc.udc.es/dspace/bitstream/handle/2183/39694/PazosCurra_Pedro_TFG_2024.pdf][Desarrollo de sistema de resolución de rompecabezas en ASP mediante el uso de LLM]]. ~ Pedro Pazos Curra. #ASP #LLMs
++ [[https://www.soundandcomplete.org/vstte2024/vstte2024-invited.pdf][Verifying the Rust Standard Library]]. ~ Rahul Kumar et als. #Rust #Verification
+
+*** 23-Oct-24
++ [[https://github.com/fpvandoorn/LeanCourse24/blob/master/LeanCourse/Lectures/Lecture3.lean][BonnLeanCourse: 3 - Logic and sets in Lean 4]]. ~ Floris van Doorn. #ITP #Lean4 #Math
++ [[https://leanfirststeps.blogspot.com/2024/10/appendix-taxonomy.html][Lean: First steps (Appendix A - Taxonomy)]]. ~ Tariq Rashid (@rzeta0@mastodon.social). #ITP #Lean4 #Math
++ [[https://www.gaussianos.com/confirmado-el-descubrimiento-del-primo-de-mersenne-numero-52/ ~ Miguel Ángel Morales (@gaussianos@mathstodon.xyz).][Confirmado el descubrimiento del primo de Mersenne número 52]]. #Matemáticas
+
 *** 22-Oct-24
 + [[https://nachivpn.me/kssf.pdf][Kripke-style semantics for strong functors]]. ~ Nachiappan Valliappan. #ITP #Agda
 + [[https://pure.tue.nl/ws/portalfiles/portal/341648276/Thesis_BTW_Matt_Verhoeven.pdf][Analysis on normed semirings and semimodules]]. ~ Matt Verhoeven. #ITP #Coq #Math
