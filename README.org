@@ -66,6 +66,11 @@ its content.
 
 ** Octubre 2024
 
+*** 27-Oct-24
++ [[https://arxiv.org/abs/2410.18751][Double auctions: Formalization and automated checkers]]. ~ Mohit Garg, N. Raja, Suneel Sarswat, Abhishek Kr Singh. #ITP #Coq #Haskell #OCaml
++ [[https://www.maths.ed.ac.uk/~tl/ast/ast.pdf][Axiomatic set theory (Version of 26 October 2024)]]. ~ Tom Leinster. #Math #SetTheory
++ [[https://www.iejme.com/download/chatgpts-performance-in-university-admissions-tests-in-mathematics-15517.pdf][ChatGPT’s performance in university admissions tests in mathematics]]. ~ Angel Udias et als. #ChatGPT #Math
+
 *** 26-Oct-24
 + [[http://platon.etsii.urjc.es/~jarias/ICLPWorkshops2024/short7GDE24.pdf][Neuro-symbolic agent with ASP for robust exception learning in text-based games]]. ~ Kinjal Basu. #ILP #LogicProgramming #AI #MachineLearning
 + [[https://cacm.acm.org/opinion/an-ai-learning-hierarchy/][An AI learning hierarchy]]. ~ Peter J. Denning, Ted G. Lewis. #AI
