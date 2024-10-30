@@ -66,6 +66,25 @@ its content.
 
 ** Octubre 2024
 
+*** 29-Oct-24
++ [[https://arxiv.org/pdf/2410.19738#page=14][Tools are all you need]]. ~ Henry Kautz. #AI #LLMs #Logic #Reasoning
++ [[https://arxiv.org/pdf/2410.19738#page=31][Logic in the age of AI]]. ~ Yuri Gurevich. #Logic #AI
++ [[https://arxiv.org/pdf/2410.19738#page=34][Rigorous language models for trustworthy AI]]. ~ Yanhong A. Liu. #AI #LLMs #Logic #Reasoning
++ [[https://arxiv.org/pdf/2410.19738#page=41][Harnessing ASP and its extensions: Recent applications and role in Trustworthy AI]]. ~ Giuseppe Mazzotta, Francesco Ricca. #AI #ASP #LogicProgramming
++ [[https://ceur-ws.org/Vol-3428/paper2.pdf][Advancements in xASP, an XAI system for Answer Set Programming]]. ~ Mario Alviano, Ly Ly Trieu, Tran Son, Marcello Balduccini. #ASP #XAI
++ [[https://arxiv.org/abs/2406.11873v1][Logic-based explainability: Past, present & future]]. ~ Joao Marques-Silva. #XAI #Logic
++ [[https://arxiv.org/pdf/2410.19738#page=48][A case study on TSP: What to optimize and how?]] ~ Martin Gebser. #ASP #LogicProgramming
++ [[https://arxiv.org/abs/2410.19738][Integrating reasoning systems for trustworthy AI (Proceedings of the 4th Workshop on Logic and Practice of Programming (LPOP))]]. ~ Anil Nerode, Yanhong A. Liu (eds.) #Logic #LogicProgramming #AI
++ [[https://arxiv.org/abs/2410.19736][Combining LLM code generation with formal specifications and reactive program synthesis]]. ~ William Murphy, Nikolaus Holzer, Feitong Qiao, Leyi Cui, Raven Rothkopf, Nathan Koenig, Mark Santolucito. #LLMs
++ [[https://youtu.be/_2qXIDO-cWw][Keynote presentation by Hal Abelson and Gerald Sussman at the fourteenth RacketCon: "Teaching people thinking: programming and powerful ideas" and "From computational thinking to computational action"]]. #CompSci
++ [[https://realpython.com/python-git-github-intro/][Introduction to Git and GitHub for Python developers]]. ~ Jim Anderson. #Git
+
+*** 28-Oct-24
++ [[https://youtu.be/9gOBbgICQic][Lean: First steps (12 - Odd & Even)]]. ~ Tariq Rashid (@rzeta0@mastodon.social) #ITP #Lean4 #Math
++ [[https://youtu.be/5tA7ejHcfNM][Lean: First steps (13 - Disequality)​]]. ~ Tariq Rashid (@rzeta0@mastodon.social) #ITP #Lean4 #Math
++ [[https://alexkontorovich.github.io/PrimeNumberTheoremAnd/web/][Prime number theorem and more]]. ~ Alex Kontorovich et als. #ITP #LeanProver #Math
++ [[https://arxiv.org/abs/2410.19605][CoqPilot, a plugin for LLM-based generation of proofs]]. ~ Andrei Kozyrev, Gleb Solovev, Nikita Khramov, Anton Podkopaev. #ITP #Coq #LLMs
+
 *** 27-Oct-24
 + [[https://arxiv.org/abs/2410.18751][Double auctions: Formalization and automated checkers]]. ~ Mohit Garg, N. Raja, Suneel Sarswat, Abhishek Kr Singh. #ITP #Coq #Haskell #OCaml
 + [[https://www.maths.ed.ac.uk/~tl/ast/ast.pdf][Axiomatic set theory (Version of 26 October 2024)]]. ~ Tom Leinster. #Math #SetTheory
