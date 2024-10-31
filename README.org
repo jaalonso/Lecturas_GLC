@@ -66,6 +66,15 @@ its content.
 
 ** Octubre 2024
 
+*** 30-Oct-24
++ [[https://raw.githubusercontent.com/fpvandoorn/LeanCourse24/master/lean-tactics.pdf][Lean 4 tactic cheatsheet (October 29, 2024)]]. ~ Floris van Doorn. #ITP #Lean4
++ [[https://youtu.be/e049IoFBnLA][AI and Mathematics]]. ~ Terence Tao. #AI #Math #ITP #Lean4
++ [[https://arxiv.org/abs/2410.17847][A formal characterization of discrete condensed objects]]. ~ Dagur Asgeirsson. #ITP #Lean4 #Math
++ [[https://www.isa-afp.org/entries/Min_Max_Least_Greatest.html][Minimal, maximal, least, and greatest elements w.r.t. restricted ordering (in Isabelle/HOL)]]. ~ Martin Desharnais. #ITP #IsabelleHOL
++ [[https://youtu.be/ViPNHMSUcog][Programming with Math: The lambda calculus]]. #LambdaCalculus
++ [[https://github.com/llaisdy/PrologInfo][Prolog, Datalog, languages, resources, and beyond!]] #Prolog #ASP #LogicProgramming
++ [[https://arxiv.org/abs/2410.20962v1][Combining logic with Large Language Models for automatic debugging and repair of ASP programs]]. ~ Ricardo Brancas, Vasco Manquinho, Ruben Martins. #ASP #LogicProgramming #LLMs
+
 *** 29-Oct-24
 + [[https://arxiv.org/pdf/2410.19738#page=14][Tools are all you need]]. ~ Henry Kautz. #AI #LLMs #Logic #Reasoning
 + [[https://arxiv.org/pdf/2410.19738#page=31][Logic in the age of AI]]. ~ Yuri Gurevich. #Logic #AI
