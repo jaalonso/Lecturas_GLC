@@ -66,6 +66,14 @@ its content.
 
 ** Octubre 2024
 
+*** 31-Oct-24
++ [[https://leanfirststeps.blogspot.com/2024/10/14-disquality-again.html][Lean: First steps (14 - Disequality again)​]]. ~ Tariq Rashid (@rzeta0@mastodon.social). #ITP #Lean4 #Math
++ [[https://www.isa-afp.org/entries/Babai_Nearest_Plane.html][Babai’s nearest plane algorithm (in Isabelle/HOL)]]. ~ Eric Ren, Sage Binder,  Katherine Kosaian. #ITP #IsabelleHOL #Math
++ [[https://hal.science/hal-03254579/document][Combining pencil/paper proofs and formal proofs, a challenge for Artificial Intelligence and mathematics education]]. ~ Julien Narboux, Viviane Durand-Guerrier. #ITP #Coq #Math #Education
++ [[https://cacm.acm.org/blogcacm/generative-ai-as-an-icebreaker-to-help-us-accept-other-ways-of-thinking/][Generative AI as an icebreaker to help us accept other ways of thinking]]. ~ Berry Billingsley, Ted Selker. #GenerativeAI
++ [[https://cacm.acm.org/news/the-secret-of-ramsey-numbers/][The secret of Ramsey numbers (A new order forms out of randomness)]]. ~ Chris Edwards. #Math #CompSci
++ [[https://www.lluiscodina.com/inteligencia-artificial-etica-academia/][Ética, pensamiento crítico y responsabilidad en el uso de la IA en trabajos académicos (presentación)]]. ~ Lluís Codina. #GenerativeAI #Education
+
 *** 30-Oct-24
 + [[https://raw.githubusercontent.com/fpvandoorn/LeanCourse24/master/lean-tactics.pdf][Lean 4 tactic cheatsheet (October 29, 2024)]]. ~ Floris van Doorn. #ITP #Lean4
 + [[https://youtu.be/e049IoFBnLA][AI and Mathematics]]. ~ Terence Tao. #AI #Math #ITP #Lean4
