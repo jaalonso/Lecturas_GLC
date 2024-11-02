@@ -11,6 +11,7 @@ its content.
 
 * Content                                                                      :TOC:
 - [[#lecturas-del-año-2024][Lecturas del año 2024]]
+  - [[#noviembre-2024][Noviembre 2024]]
   - [[#octubre-2024][Octubre 2024]]
   - [[#septiembre-2024][Septiembre 2024]]
   - [[#agosto-2024][Agosto 2024]]
@@ -63,6 +64,17 @@ its content.
 - [[#lecturas-anteriores][Lecturas anteriores]]
 
 * Lecturas del año 2024
+
+** Noviembre 2024
+
+*** 01-Nov-24
++ [[https://arxiv.org/abs/2410.23765][Intuitionistic propositional logic in Lean]]. ~ Dafina Trufaş. #ITP #Lean4 #Logic #Math
++ [[https://arxiv.org/abs/2410.19940][Cobblestone: Iterative automation for formal verification]]. ~ Saketh Ram Kasibatla, Arpan Agarwal, Yuriy Brun, Sorin Lerner, Talia Ringer, Emily First. #ITP #Coq #LLMs
++ [[https://abhinavsarkar.net/posts/repling-with-haskeline/][Going REPLing with Haskeline]]. ~ Abhinav Sarkar (@abnv@fantastic.earth). #Haskell #FunctionalProgramming
++ [[https://arxiv.org/abs/2406.14219][Proving Olympiad algebraic inequalities without human demonstrations]]. ~ Chenrui Wei, Mengzhou Sun, Wei Wang. #LLMs #ITP #Math
++ [[https://arxiv.org/abs/2410.20936][Autoformalize mathematical statements by symbolic equivalence and semantic consistency]]. ~ Zenan Li, Yifan Wu, Zhaoyu Li, Xinming Wei, Xian Zhang, Fan Yang, Xiaoxing Ma. #Autoformalization #LLMs #IsabelleHOL #Math
+
+
 
 ** Octubre 2024
 
