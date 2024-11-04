@@ -67,6 +67,20 @@ its content.
 
 ** Noviembre 2024
 
+*** 03-Nov-24
++ [[https://byorgey.github.io/blog/posts/2024/11/02/UnionFind.html][Competitive programming in Haskell: Union-find]]. ~ Brent Yorgey (@byorgey@mathstodon.xyz). #Haskell #FunctionalProgramming
+
+*** 02-Nov-24
++ [[https://www.linkedin.com/pulse/future-mathematics-world-machines-simone-severini-v6odc/][The future of Mathematics in a world of machines]]. ~ Simone Severini. #Math #ITP #LeanProver #AI #LLMs #Autoformalization
++ [[https://sites.google.com/view/aips2][AIPS: An Olympiad-level AI system for algebraic inequalities]]. #LLMs #ITP #Lean4 #Math
++ [[https://ceur-ws.org/Vol-3811/paper250.pdf][Proving the existence of stable assignments in democratic forking using Isabelle/HOL]]. ~ Jan-Georg Smaus. #ITP #IsabelleHOL
++ [[https://essay.utwente.nl/104408/1/sleurink_MA_EEMCS.pdf][Verified parser- and printer-combinator bidefinition in the Isabelle proof assistant]]. ~ Matthias Sleurink. #ITP #IsabelleHOL
++ [[https://www.isa-afp.org/entries/Boustrophedon_Transform.html][The Boustrophedon transform, the Entringer numbers, and related sequences (in Isabelle/HOL)]]. ~ Manuel Eberl (@pruvisto@graz.social). #ITP #IsabelleHOL #Math
++ [[https://ora.ox.ac.uk/objects/uuid:04459963-2733-47e2-859d-2c88e1be2901/files/sdn39x337v][Completeness of asynchronous session tree subtyping in Coq]]. ~ Burak Ekici, Nobuko Yoshida. #ITP #Coq
++ [[https://www.maths.ed.ac.uk/~tl/ast/ast.pdf][Axiomatic set theory (Version of 31 October 2024)]]. ~ Tom Leinster. #Math #SetTheory
++ [[https://arxiv.org/abs/1612.09375][Basic category theory]]. ~ Tom Leinster. #Math #CategoryTheory
++ [[https://cacm.acm.org/blogcacm/computational-thinking-the-idea-that-lived/][Computational thinking: The idea that lived]]. ~ Shuchi Grover. #Education #Programming
+
 *** 01-Nov-24
 + [[https://arxiv.org/abs/2410.23765][Intuitionistic propositional logic in Lean]]. ~ Dafina Trufaş. #ITP #Lean4 #Logic #Math
 + [[https://arxiv.org/abs/2410.19940][Cobblestone: Iterative automation for formal verification]]. ~ Saketh Ram Kasibatla, Arpan Agarwal, Yuriy Brun, Sorin Lerner, Talia Ringer, Emily First. #ITP #Coq #LLMs
