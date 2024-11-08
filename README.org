@@ -67,6 +67,15 @@ its content.
 
 ** Noviembre 2024
 
+*** 07-Nov-24
++ [[https://arxiv.org/abs/2410.23760][Unification in matching logic — revisited]]. ~ Ádám Kurucz, Péter Bereczky, Dániel Horpácsi. #ITP #Coq
++ [[https://www.youtube.com/live/Y1pCjBA2u6w][Grupos en Lean]]. ~ Luis Turcio. #ITP #Lean4 #Math
++ [[https://www.youtube.com/live/g_vKOg0LdlI][The Haskell Unfolder Episode 35: Distributive and representable functors]]. ~ Edsko de Vries (@EdskoDeVries), Andres Löh (@kosmikus@functional.cafe). #Haskell #FunctionalProgramming
++ [[https://consequently.org/papers/what-can-we-mean-aristotelian.pdf][What can we mean? (on practices, norms and pluralisms)]]. ~ Greg Restall. #ITP #Agda #Lean #Logic #Math
++ [[https://arxiv.org/abs/2411.01188][Learning rules explaining interactive theorem proving tactic prediction]]. ~ Liao Zhang, David M. Cerna, Cezary Kaliszyk. #ILP #ITP #Coq
++ [[https://arxiv.org/abs/2411.00863][Next-token prediction task assumes optimal data ordering for LLM training in proof generation]]. ~ Chenyang An et als. #LLMs #ITP #LeanProver
++ [[https://end-educationconference.org/wp-content/uploads/2024/07/202402OP019.pdf][ChatGPT as tutor? A case study on competitive programming]]. ~ Juuso Rytilahti, Erno Lokkila. #ChatGPT #AI #Programming #Education
+
 *** 05-Nov-24
 + [[https://blog.jle.im/entry/functors-to-monads-a-story-of-shapes.html][Functors to Monads: A story of shapes]]. ~ Justin Lê (@mstk). #Haskell #FunctionalProgramming
 
