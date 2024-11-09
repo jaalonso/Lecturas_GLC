@@ -67,6 +67,11 @@ its content.
 
 ** Noviembre 2024
 
+*** 08-Nov-24
++ [[https://www.dharwadker.org/pirzada/applications/][Applications of graph theory]]. ~ Ashay Dharwadker, Shariefuddin Pirzada. #Math
++ [[https://arxiv.org/abs/2411.04872][FrontierMath: A benchmark for evaluating advanced mathematical reasoning in AI]]. ~ Elliot Glazer et als. #AI #Math #Reasoning
++ [[https://arxiv.org/abs/2411.04372][Benchmarking Large Language Models with integer sequence generation tasks]]. ~ Daniel O'Malley, Manish Bhattarai, Javier Santos. #AI #LLMs #Math
+
 *** 07-Nov-24
 + [[https://arxiv.org/abs/2410.23760][Unification in matching logic — revisited]]. ~ Ádám Kurucz, Péter Bereczky, Dániel Horpácsi. #ITP #Coq
 + [[https://www.youtube.com/live/Y1pCjBA2u6w][Grupos en Lean]]. ~ Luis Turcio. #ITP #Lean4 #Math
