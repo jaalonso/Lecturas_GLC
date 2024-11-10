@@ -67,6 +67,12 @@ its content.
 
 ** Noviembre 2024
 
+*** 09-Nov-24
++ [[https://doisinkidney.com/pdfs/formalising-graphs-coinduction.pdf][Formalising graph algorithms with coinduction]]. ~ Donnacha Oisín Kidney, Nicolas Wu. #ITP #Agda #Math
++ [[https://www.maths.ed.ac.uk/~tl/ast/ast.pdf][Axiomatic set theory (Version of 3 November 2024)]]. ~ Tom Leinster. #Math #SetTheory
++ [[https://www.math.utoronto.ca/~alfonso/proofs/fuchs.pdf][Introduction to mathematical proofs]]. ~ Shay Fuchs. #Logic #Math
++ [[https://neurosymbolic-ai-journal.com/system/files/nai-paper-792.pdf][On the relevance of logic for AI, and the promise of neuro-symbolic learning]]. ~ Vaishak Belle. #Logic #AI #MachineLearning
+
 *** 08-Nov-24
 + [[https://www.dharwadker.org/pirzada/applications/][Applications of graph theory]]. ~ Ashay Dharwadker, Shariefuddin Pirzada. #Math
 + [[https://arxiv.org/abs/2411.04872][FrontierMath: A benchmark for evaluating advanced mathematical reasoning in AI]]. ~ Elliot Glazer et als. #AI #Math #Reasoning
