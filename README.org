@@ -67,6 +67,26 @@ its content.
 
 ** Noviembre 2024
 
+*** 10-Nov-24
++ [[https://personal.math.ubc.ca/~PLP/assets/plp.pdf][An introduction to mathematical proof]]. ~ Seçkin Demirbaş, Andrew Rechnitzer, Hannah Kohut. #Logic #Math
++ [[https://culturacientifica.com/2024/08/28/los-numeros-metalicos][Los números metálicos]]. ~ Marta Macho Stadler (@MartaMachoS). #Math
++ [[https://culturacientifica.com/2024/07/31/los-numeros-vistos-como-bosques/][Los números vistos como bosques]]. ~ Marta Macho Stadler (@MartaMachoS). #Math
++ [[https://www.ugr.es/~anillos/textos/pdf/2014/Combinatoria.pdf][Problemas de competición sobre combinatoria]]. ~ Araceli Arjona Muñoz. #TFM #Math
++ [[https://www.ugr.es/~anillos/textos/pdf/2023/TFM_Probabilidad.pdf][Problemas de probabilidad de Olimpiada Matemática]]. ~ Eduardo Cebrián García. #TFM #Matemáticas
++ [[https://www.ugr.es/~anillos/textos/pdf/2023/TFM_Desigualdades.pdf][Análisis y resolución de problemas sobre desigualdades numéricas en la preparación de la Olimpiada de Matemáticas]]. ~ Sara Amaro Serrano. #TFM #Matemáticas
++ [[https://www.ugr.es/~anillos/textos/pdf/2022/TFM-Juegos.pdf ][Análisis y resolución de problemas sobre teoría de juegos]]. ~ Celia García Ruiz. #TFM #Matemáticas
++ [[https://www.ugr.es/~anillos/textos/pdf/2018/Invariantes.pdf][Invariantes en la resolución de problemas]]. ~ José Félix Sánchez Martínez. #TFM #Matemáticas
++ [[https://www.ugr.es/~anillos/textos/pdf/2017/NN.pdf][Estudio y discusión sobre problemas de Olimpíada: Aritmética]]. ~ Inmaculada Perálvarez Bermúdez. #TFM #Matemáticas
++ [[https://www.ugr.es/~anillos/textos/pdf/2017/NNCC.pdf][Problemas de olimpiadas sobre números complejos]]. ~ Paola Posadas Prados. #TFM #Matemáticas
++ [[https://www.ugr.es/~anillos/textos/pdf/2017/EEDD.pdf][Estudio y discusión sobre problemas de Olimpíada: Ecuaciones diofánticas]]. ~ Antonio Manuel Ortega Torres. #TFM #Matemáticas
++ [[https://www.ugr.es/~anillos/textos/pdf/2017/Desigualdades.pdf][Estudio y discusión sobre problemas de Olimpíada: Desigualdades]]. ~ Iván Valero Terrón. #TFM #Matemáticas
++ [[https://www.ugr.es/~anillos/textos/pdf/2017/Probabilidad.pdf][Problemas de Olimpíadas Matemáticas sobre Probabilidad]]. ~ Marta Fernández Rodríguez. #TFM #Matemáticas
++ [[https://www.ugr.es/~anillos/textos/pdf/2017/PyA.SucesionesRecurrentes.pdf][Problemas y aplicaciones de sucesiones recurrentes]]. ~ Carlos Cervera Zafra. #TFM #Matemáticas
++ [[https://www.ugr.es/~anillos/textos/pdf/2016/EcuacionesFuncionales.pdf][Estudio de problemas sobre ecuaciones funcionales en el nivel de Olimpiadas Matemáticas]]. ~ Luis Castro Castro. #TFM #Matemáticas
++ [[https://www.ugr.es/~anillos/textos/pdf/2008/numeros.pdf][Números curiosos]]. ~ Pascual Jara. #Matemáticas
++ [[https://www.ugr.es/~anillos/textos/pdf/2008/paradojas.pdf][Paradojas]]. ~ Pascual Jara Martínez. #Lógica #Matemáticas
++ [[https://www.ugr.es/~anillos/textos/pdf/2004/100MDSucesiones-PB.pdf][Sucesiones recurrentes]]. ~ Pascual Jara Martínez. #Matemáticas
+
 *** 09-Nov-24
 + [[https://doisinkidney.com/pdfs/formalising-graphs-coinduction.pdf][Formalising graph algorithms with coinduction]]. ~ Donnacha Oisín Kidney, Nicolas Wu. #ITP #Agda #Math
 + [[https://www.maths.ed.ac.uk/~tl/ast/ast.pdf][Axiomatic set theory (Version of 3 November 2024)]]. ~ Tom Leinster. #Math #SetTheory
