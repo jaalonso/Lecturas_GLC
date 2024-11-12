@@ -67,6 +67,11 @@ its content.
 
 ** Noviembre 2024
 
+*** 11-Nov-24
++ [[https://openreview.net/forum?id=c5l3oA87c][NL²PS: A natural language to Lean proofs system]]. ~ Yifan Luo, Kangping Xu.V#discussion #ITP #LeanProver #LLMs
++ [[https://eprint.iacr.org/2024/1819.pdf][VCVio: A formally verified forking lemma and Fiat-Shamir transform, via a flexible and expressive oracle representation]]. ~ Devon Tuma, Nicholas Hopper. #ITP #LeanProver
++ [[https://matthbeck.github.io/papers/aop.noprint.pdf][The art of proof (Basic training for deeper mathematics)]]. ~ Matthias Beck, Ross Geoghegan. #Logic #Math
+
 *** 10-Nov-24
 + [[https://personal.math.ubc.ca/~PLP/assets/plp.pdf][An introduction to mathematical proof]]. ~ Seçkin Demirbaş, Andrew Rechnitzer, Hannah Kohut. #Logic #Math
 + [[https://culturacientifica.com/2024/08/28/los-numeros-metalicos][Los números metálicos]]. ~ Marta Macho Stadler (@MartaMachoS). #Math
