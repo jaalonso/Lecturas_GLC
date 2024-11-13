@@ -67,6 +67,11 @@ its content.
 
 ** Noviembre 2024
 
+*** 12-Nov-24
++ [[https://aclanthology.org/2024.nlp4science-1.18.pdf][Benchmarking automated theorem proving with Large Language Models]]. ~ Vanessa Lama, Catherine Ma, Tirthankar Ghosal. #ITP #LeanProver #LLMs
++ [[https://aclanthology.org/2024.emnlp-main.180.pdf][BC-Prover: Backward chaining prover for formal theorem proving]]. ~ Yuhang He et als. #ITP #LeanProver #LLMs
++ [[https://maxxcan.flounder.online/informatica/emacs/articulos/2024-07-25-programacion-literaria-1.gmi][Programación literaria en Emacs (1ª parte)]]. ~ Nyan Max (@maxxcan@mastodon.social). #Emacs
+
 *** 11-Nov-24
 + [[https://openreview.net/forum?id=c5l3oA87c][NL²PS: A natural language to Lean proofs system]]. ~ Yifan Luo, Kangping Xu.V#discussion #ITP #LeanProver #LLMs
 + [[https://eprint.iacr.org/2024/1819.pdf][VCVio: A formally verified forking lemma and Fiat-Shamir transform, via a flexible and expressive oracle representation]]. ~ Devon Tuma, Nicholas Hopper. #ITP #LeanProver
