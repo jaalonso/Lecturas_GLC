@@ -67,6 +67,11 @@ its content.
 
 ** Noviembre 2024
 
+*** 13-Nov-24
++ [[https://arxiv.org/abs/2407.12840][Categorical foundations of formalized condensed mathematics]]. ~ Dagur Asgeirsson, Riccardo Brasca, Nikolas Kuhn, Filippo Alberto Edoardo Nuccio Mortarino Majno di Capriglio, Adam Topaz. #ITP #Lean4 #Math
++ [[https://arxiv.org/abs/2411.07667][Formalization of physics index notation in Lean 4]]. ~ Joseph Tooby-Smith. #ITP #Lean4 #Math #Physics
++ [[https://arxiv.org/abs/2411.07955][How to discover short, shorter, and the shortest proofs of unsatisfiability: A branch-and-bound approach for resolution proof length minimization]]. ~ Konstantin Sidorov, Koos van der Linden, Gonçalo Homem de Almeida Correia, Mathijs de Weerdt, Emir Demirović. #ATP #SAT_Solvers
+
 *** 12-Nov-24
 + [[https://aclanthology.org/2024.nlp4science-1.18.pdf][Benchmarking automated theorem proving with Large Language Models]]. ~ Vanessa Lama, Catherine Ma, Tirthankar Ghosal. #ITP #LeanProver #LLMs
 + [[https://aclanthology.org/2024.emnlp-main.180.pdf][BC-Prover: Backward chaining prover for formal theorem proving]]. ~ Yuhang He et als. #ITP #LeanProver #LLMs
