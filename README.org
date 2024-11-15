@@ -67,6 +67,15 @@ its content.
 
 ** Noviembre 2024
 
+*** 14-Nov-24
++ [[https://ceur-ws.org/Vol-3828/paper22.pdf][VEL: A formally verified reasoner for ℰℒ++ description logic]]. ~ Atalay Mert Ileri1, Hande Küçük McGinty. #ITP #Coq #Logic
++ [[https://www.youtube.com/live/QVwYKsRQLKo][La formalización automatizada de las matemática: Una historia de cómo la necesidad hizo la virtud]]. ~ David de Frutos Escrig. #ITP #LeanProver #Math
++ [[https://jelv.is/blog/Debugging-Haskell-Type-Errors/][Debugging Haskell type errors]]. ~ Tikhon Jelvis (@tikhonjelvis). #Haskell #FunctionalProgramming
++ [[https://dl.acm.org/doi/pdf/10.1145/3702231][The role of formal methods in computer science education]]. ~ Maurice ter Beek, Manfred Broy, Brijesh Dongol. #FormalMethods #CompSci #Education
++ [[https://kondylidou.github.io/assets/pdf/BA-wanda.pdf][Resolution prover in Rust]]. ~ Wanda Rosmus. #Logic #ATP #RustLang
++ [[https://venturebeat.com/ai/ais-math-problem-frontiermath-benchmark-shows-how-far-technology-still-has-to-go/][AI’s math problem: FrontierMath benchmark shows how far technology still has to go]]. ~ Michael Nuñez (@MichaelFNunez). #AI #Math
++ [[https://ysu1989.github.io/resources/language_agents_YuSu_2024.pdf][A holistic and critical look at language agents]]. ~ Yu Su (@ysu_nlp). #AI #LLMs
+
 *** 13-Nov-24
 + [[https://arxiv.org/abs/2407.12840][Categorical foundations of formalized condensed mathematics]]. ~ Dagur Asgeirsson, Riccardo Brasca, Nikolas Kuhn, Filippo Alberto Edoardo Nuccio Mortarino Majno di Capriglio, Adam Topaz. #ITP #Lean4 #Math
 + [[https://arxiv.org/abs/2411.07667][Formalization of physics index notation in Lean 4]]. ~ Joseph Tooby-Smith. #ITP #Lean4 #Math #Physics
