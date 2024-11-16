@@ -67,6 +67,12 @@ its content.
 
 ** Noviembre 2024
 
+*** 15-Nov-24
++ [[https://youtu.be/QCRLwC5JQw0][Formalizing the divided power envelope in Lean]]. ~ María Inés de Frutos Fernández. #ITP #LeanProver #Math
++ [[https://www.haskellforall.com/2024/11/the-haskell-inlining-and-specialization.html][The Haskell inlining and specialization FAQ]]. ~ Gabriella Gonzalez (@GabriellaG439). #Haskell #FunctionalProgramming
++ [[https://www.maths.ed.ac.uk/~tl/ast/ast.pdf][Axiomatic set theory (Version of 9 November 2024)]]. ~ Tom Leinster. #Math #SetTheory
++ [[https://www.science.org/doi/full/10.1126/science.adt6140][The metaphors of artificial intelligence]]. ~ Melanie Mitchell. #AI #LLMs
+
 *** 14-Nov-24
 + [[https://ceur-ws.org/Vol-3828/paper22.pdf][VEL: A formally verified reasoner for ℰℒ++ description logic]]. ~ Atalay Mert Ileri1, Hande Küçük McGinty. #ITP #Coq #Logic
 + [[https://www.youtube.com/live/QVwYKsRQLKo][La formalización automatizada de las matemática: Una historia de cómo la necesidad hizo la virtud]]. ~ David de Frutos Escrig. #ITP #LeanProver #Math
