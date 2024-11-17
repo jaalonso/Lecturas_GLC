@@ -67,6 +67,14 @@ its content.
 
 ** Noviembre 2024
 
+*** 16-Nov-24
++ [[https://tinyurl.com/23xrlngz][Code with proofs: The Arena]]. #ITP #Lean4 #FunctionalProgramming
++ [[https://www.science.org/doi/10.1126/science.adq9356][The Turing Test and our shifting conceptions of intelligence]]. ~ Melanie Mitchell (@melaniemitchell.bsky.social). #AI
++ [[https://www.science.org/doi/10.1126/science.ado7069][Debates on the nature of artificial general intelligence]]. ~ Melanie Mitchell (@melaniemitchell.bsky.social). #AI
++ [[https://oecs.mit.edu/pub/zp5n8ivs/release/1?readingCollection=9dd2a47d][Large Language Models]]. ~ Melanie Mitchell (@melaniemitchell.bsky.social). #AI #LLMs
++ [[https://g4m.code4math.org/g4m.html][GitHub for mathematicians]]. ~ Steven Clontz. #Git #GitHub
++ [[https://code4math.org/][Code4math: Consortium of Digital Ecosystems for Mathematics]]. #Math
+
 *** 15-Nov-24
 + [[https://youtu.be/QCRLwC5JQw0][Formalizing the divided power envelope in Lean]]. ~ María Inés de Frutos Fernández. #ITP #LeanProver #Math
 + [[https://www.haskellforall.com/2024/11/the-haskell-inlining-and-specialization.html][The Haskell inlining and specialization FAQ]]. ~ Gabriella Gonzalez (@GabriellaG439). #Haskell #FunctionalProgramming
