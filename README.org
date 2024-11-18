@@ -67,6 +67,18 @@ its content.
 
 ** Noviembre 2024
 
+*** 17-Nov-24
++ [[https://jwshii.github.io/deauto.pdf][Designing proof deautomation for Coq]]. ~ Jessica Shi, Cassia Torczon, Harrison Goldstein, Andrew Head, Benjamin C. Pierce. #ITP #Coq
++ [[http://cl-informatik.uibk.ac.at/teaching/ws24/afp/slides/02x1.pdf][Type-checking and type-inference]]. ~ René Thiemann. #Haskell #FunctionalProgramming
++ [[http://cl-informatik.uibk.ac.at/teaching/ws24/afp/slides/03x1.pdf][Type-inference in Haskell, kinds and explicit foralls]]. ~ René Thiemann. #Haskell #FunctionalProgramming
++ [[http://cl-informatik.uibk.ac.at/teaching/ws24/afp/slides/04x1.pdf][Functors, record syntax, case study: a simple parser]]. ~ René Thiemann. #Haskell #FunctionalProgramming
++ [[http://cl-informatik.uibk.ac.at/teaching/ws24/afp/slides/05x1.pdf][Monads in general, state monads]]. ~ René Thiemann. #Haskell #FunctionalProgramming
++ [[http://cl-informatik.uibk.ac.at/teaching/ws24/afp/slides/06x1.pdf][Evaluation of monadic code, example: Tseitin, error monads]]. ~ René Thiemann. #Haskell #FunctionalProgramming
++ [[http://cl-informatik.uibk.ac.at/teaching/ws24/afp/slides/07x1.pdf][Parsing in general, Parsec]]. ~ René Thiemann. #Haskell #FunctionalProgramming
++ [[https://kaygun.github.io/clean/2024-11-16-counting-ternary-trees.html][Number of isomorphism classes of ternary trees]]. ~ Atabey Kaygun (@atabeykaygun.bsky.social). #FunctionalProgramming #CommonLisp
++ [[https://bartoszmilewski.com/2024/11/16/sieves-and-sheaves][Sieves and sheaves]]. ~ Bartosz Milewski (@bartoszmilewski.bsky.social). #CategoryTheory
++ [[https://blog.stackademic.com/is-python-still-the-king-of-data-science-476f1e3191b3][Python is no more the king of data science (5 reasons why Python is losing its crown)]]. ~ Abdur Rahman. #Python #Programming
+
 *** 16-Nov-24
 + [[https://tinyurl.com/23xrlngz][Code with proofs: The Arena]]. #ITP #Lean4 #FunctionalProgramming
 + [[https://www.science.org/doi/10.1126/science.adq9356][The Turing Test and our shifting conceptions of intelligence]]. ~ Melanie Mitchell (@melaniemitchell.bsky.social). #AI
