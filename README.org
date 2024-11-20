@@ -67,6 +67,14 @@ its content.
 
 ** Noviembre 2024
 
+*** 19-Nov-24
++ [[https://arxiv.org/abs/2405.19270][Formalising the local compactness of the adele ring]]. ~ Salvatore Mercuri. #ITP #Lean4 #Math
++ [[https://byorgey.github.io/blog/posts/2024/11/18/UnionFind-sols.html][Competitive programming in Haskell: Union-Find, part II]]. ~ Brent Yorgey (@byorgey@mathstodon.xyz). #Haskell #FunctionalProgramming
+
+*** 18-Nov-24
++ [[https://arxiv.org/abs/2410.14979][Do Large Language Models truly grasp mathematics? An empirical exploration from cognitive psychology]]. ~ Wei Xie, Shuoyoucheng Ma, Zhenhua Wang, Enze Wang, Kai Chen, Xiaobing Sun, Baosheng Wang. #LLMs #Math #Reasoning
++ [[https://arxiv.org/abs/2312.05658][Monoid theory in Alonzo: A little theories formalization in simple type theory]]. ~ William M. Farmer, Dennis Y. Zvigelsky. #Logic #Math #TypeTheory
+
 *** 17-Nov-24
 + [[https://jwshii.github.io/deauto.pdf][Designing proof deautomation for Coq]]. ~ Jessica Shi, Cassia Torczon, Harrison Goldstein, Andrew Head, Benjamin C. Pierce. #ITP #Coq
 + [[http://cl-informatik.uibk.ac.at/teaching/ws24/afp/slides/02x1.pdf][Type-checking and type-inference]]. ~ René Thiemann. #Haskell #FunctionalProgramming
