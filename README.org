@@ -67,6 +67,11 @@ its content.
 
 ** Noviembre 2024
 
+*** 20-Nov-24
++ [[https://arxiv.org/abs/2411.11885][Anatomy of a formal proof]]. ~ Jeremy Avigad, Johan Commelin, Heather Macbeth, Adam Topaz. #ITP #Lean4 #Math
++ [[https://arxiv.org/abs/2411.11873][A course of Algebra (Part I)]]. ~ Aleksandr Aleksandrovich Zykov. #Math
++ [[https://elpais.com/ciencia/cafe-y-teoremas/2024-11-19/el-aprendizaje-automatico-ayuda-a-atacar-problemas-matematicos-clasicos.html][El aprendizaje automático ayuda a atacar problemas matemáticos clásicos]]. ~  Juanjo Rué y Ágata A. Timón. #AI #Math
+
 *** 19-Nov-24
 + [[https://arxiv.org/abs/2405.19270][Formalising the local compactness of the adele ring]]. ~ Salvatore Mercuri. #ITP #Lean4 #Math
 + [[https://byorgey.github.io/blog/posts/2024/11/18/UnionFind-sols.html][Competitive programming in Haskell: Union-Find, part II]]. ~ Brent Yorgey (@byorgey@mathstodon.xyz). #Haskell #FunctionalProgramming
