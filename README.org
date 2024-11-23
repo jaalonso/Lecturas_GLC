@@ -67,6 +67,21 @@ its content.
 
 ** Noviembre 2024
 
+*** 22-Nov-24
++ [[https://arxiv.org/abs/2411.13723][The elementary theory of free Steiner triple systems]]. ~ Silvia Barbina, Enrique Casanovas. #Logic #Math
++ [[https://arxiv.org/abs/2411.06675][FCA (Formal Concept Analysis) using the Concept Explorer in 2024]]. ~ Edith Vargas-GarcÍa, Andreas Wachtel. #FCA #ConExp
++ [[https://www.youtube.com/live/lC__yt6DJaA][Conferencia Leonardo Torres Quevedo: ¿Puede pensar una máquina? ~ Francisco A]]. González Redondo y Alfonso Hernando González. #AI
+
+*** 21-Nov-24
++ [[https://youtu.be/Sy_4z751YWI][Lean4 and the Curry-Howard isomorphism]]. ~ Luis Wirth. #ITP #Lean4
++ [[https://github.com/riccardobrasca/LFTCM2024][Repository for the conference "Lean For The Curious Mathematician 2024"]]. #ITP #Lean4 #Math
++ [[https://arxiv.org/abs/2411.09347v1][The denotational semantics of SSA]]. ~ Jad Elkhaleq Ghalayini, Neel Krishnaswami. #ITP #Lean4
++ [[https://www.irif.fr/~scherer/doc/tmc-2025.pdf][Tail modulo cons, OCaml, and relational separation logic]]. ~ Clément Allain, Frédéric Bour, Basile Clément, François Pottier, Gabriel Scherer. #ITP #Coq #OCaml #FunctionalProgramming
++ [[https://laurentrdc.xyz/posts/typed-dimensions.html][Scientific computing with confidence using typed dimensions]]. ~ Laurent P. René de Cotret. #Haskell #FunctionalProgramming
++ [[https://www.youtube.com/live/IMrBTx7aYjs][The Haskell Unfolder Episode 36: Concurrency and the FFI]]. ~ Edsko de Vries (@EdskoDeVries), Andres Löh (@kosmikus@functional.cafe). #Haskell #FunctionalProgramming
++ [[https://torbjornlager.github.io/documents/book-extracts.pdf][The Prolog Trinity ecosystem (Extracts from the current manuscripts)]]. ~ Torbjörn Lager. #Prolog #LogicProgramming
++ [[https://burjcdigital.urjc.es/bitstream/handle/10115/41640/PL-Apuntes.pdf][Apuntes de programación lógica (Hasta Prolog y más allá)]]. ~ Joaquín Arias. #Prolog #LogicProgramming
+
 *** 20-Nov-24
 + [[https://arxiv.org/abs/2411.11885][Anatomy of a formal proof]]. ~ Jeremy Avigad, Johan Commelin, Heather Macbeth, Adam Topaz. #ITP #Lean4 #Math
 + [[https://arxiv.org/abs/2411.11873][A course of Algebra (Part I)]]. ~ Aleksandr Aleksandrovich Zykov. #Math
