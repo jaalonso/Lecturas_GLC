@@ -67,6 +67,10 @@ its content.
 
 ** Noviembre 2024
 
+*** 23-Nov-24
++ [[https://www.nature.com/articles/d41586-024-03784-6]['A place of joy': why scientists are joining the rush to Bluesky]]. ~  Smriti Mallapaty. #Bluesky
++ [[https://www.maths.ed.ac.uk/~tl/ast/ast.pdf][Axiomatic set theory (Version of 23 November 2024)]]. ~ Tom Leinster. #Math #SetTheory
+
 *** 22-Nov-24
 + [[https://arxiv.org/abs/2411.13723][The elementary theory of free Steiner triple systems]]. ~ Silvia Barbina, Enrique Casanovas. #Logic #Math
 + [[https://arxiv.org/abs/2411.06675][FCA (Formal Concept Analysis) using the Concept Explorer in 2024]]. ~ Edith Vargas-GarcÍa, Andreas Wachtel. #FCA #ConExp
