@@ -67,6 +67,13 @@ its content.
 
 ** Noviembre 2024
 
+*** 24-Nov-24
++ [[https://leanfirststeps.blogspot.com/2024/11/appendix-b-libraries.html][Lean: First steps (Appendix B - Libraries)]]. ~ Tariq Rashid (@rzeta0@mastodon.social). #ITP #Lean4 #Math
++ [[https://leanfirststeps.blogspot.com/2024/11/17-using-our-own-lemma.html][Lean: First steps (17 - Using our own lemma)]]. ~ Tariq Rashid (@rzeta0@mastodon.social). #ITP #Lean4 #Math
++ [[https://cr.yp.to/papers/pwccp-20240727.pdf][Papers with computer-checked proofs]]. ~ Daniel J. Bernstein (@hashbreaker). #ITP
++ [[https://blog.acthompson.net/2024/11/does-ai-mean-end-of-teaching-programming.html][Does AI mean the end of teaching programming?]] ~ Alfred Thompson (@alfredtwo). #AI #Programming #Education
++ [[https://arxiv.org/abs/2411.13323][Are Large Language Models memorizing bug benchmarks?]] ~ Daniel Ramos, Claudia Mamede, Kush Jain, Paulo Canelas, Catarina Gamboa, Claire Le Goues. #LLMs #Programming
+
 *** 23-Nov-24
 + [[https://www.nature.com/articles/d41586-024-03784-6]['A place of joy': why scientists are joining the rush to Bluesky]]. ~  Smriti Mallapaty. #Bluesky
 + [[https://www.maths.ed.ac.uk/~tl/ast/ast.pdf][Axiomatic set theory (Version of 23 November 2024)]]. ~ Tom Leinster. #Math #SetTheory
