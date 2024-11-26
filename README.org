@@ -67,6 +67,11 @@ its content.
 
 ** Noviembre 2024
 
+*** 25-Nov-24
++ [[https://eprint.iacr.org/2024/1880.pdf][Cryptography experiments in Lean 4: SHA-3 implementation]]. ~ Gérald Doussot. #ITP #Lean4 #FunctionalProgramming
++ [[https://hal.science/hal-04536981/document][Scaling up mechanized proof automation for small-step semantics]]. ~ Sandrine Blazy, Alain Delaët, Denis Merigoux. #ITP #Rocq
++ [[https://kaygun.github.io/clean/2024-11-24-connected-components.html][Counting connected components of a graph]]. ~ Atabey Kaygun (@atabeykaygun.bsky.social). #FunctionalProgramming #CommonLisp
+
 *** 24-Nov-24
 + [[https://leanfirststeps.blogspot.com/2024/11/appendix-b-libraries.html][Lean: First steps (Appendix B - Libraries)]]. ~ Tariq Rashid (@rzeta0@mastodon.social). #ITP #Lean4 #Math
 + [[https://leanfirststeps.blogspot.com/2024/11/17-using-our-own-lemma.html][Lean: First steps (17 - Using our own lemma)]]. ~ Tariq Rashid (@rzeta0@mastodon.social). #ITP #Lean4 #Math
