@@ -67,6 +67,15 @@ its content.
 
 ** Noviembre 2024
 
+*** 26-Nov-24
++ [[https://www.isa-afp.org/entries/Cube_Dissection.html][Impossibility of the dissection of a cube (in Isabelle/HOL)]]. ~ Thomas Holme Surlykke. #ITP #IsabelleHOL #Math
++ [[https://www.isa-afp.org/entries/Two_Hermitian_Results.html][Two theorems on hermitian matrices (in Isabelle/HOL)]]. ~ Sage Binder, Zilin Jiang. #ITP #IsabelleHOL #Math
++ [[https://www.philipzucker.com/ground_lambda_prolog/][Ground lambda Prolog]]. ~ Philip Zucker (@sandmouth.bsky.social). #Prolog #LogicProgramming #Z3 #SMT
++ [[https://arxiv.org/abs/2411.16469][In 1955, Paul Lorenzen clears the sky in foundations of mathematics for Hermann Weyl]]. ~ Stefan Neuwirth, Henri Lombardi, Thierry Coquand. #Logic #Math
++ [[https://picandocodigo.net/2024/grupos-y-capturas-reemplazando-texto-con-expresiones-regulares/][Grupos y capturas reemplazando texto con expresiones regulares]]. ~ Fernando Briano (@picandocodigo@mastodon.online). #Emacs
++ [[https://leanfirststeps.blogspot.com/2024/11/19-our-own-definition.html][Lean: First steps (18 - Our own definition)]]. ~ Tariq Rashid (@rzeta0@mastodon.social). #ITP #Lean4 #Math
++ [[https://pablohaya.com/2024/11/25/ia-generativa-estrategias-de-uso-para-docentes-desde-infantil-a-bachillerato/][IA Generativa: Estrategias de uso para docentes desde infantil a bachillerato]]. ~ Pablo Haya (@pablohaya). #AI #Education
+
 *** 25-Nov-24
 + [[https://eprint.iacr.org/2024/1880.pdf][Cryptography experiments in Lean 4: SHA-3 implementation]]. ~ Gérald Doussot. #ITP #Lean4 #FunctionalProgramming
 + [[https://hal.science/hal-04536981/document][Scaling up mechanized proof automation for small-step semantics]]. ~ Sandrine Blazy, Alain Delaët, Denis Merigoux. #ITP #Rocq
