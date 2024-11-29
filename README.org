@@ -67,6 +67,16 @@ its content.
 
 ** Noviembre 2024
 
+*** 28-Nov-24
++ [[https://arxiv.org/abs/2411.14581][Semantics for linear-time temporal logic with finite observations]]. ~ Rayhana Amjad, Rob van Glabbeek, Liam O'Connor. #ITP #IsabelleHOL #Logic #Math
++ [[https://byorgey.github.io/blog/posts/2024/11/27/stacks-queues.html][Competitive Programming in Haskell: stacks, queues, and monoidal sliding windows]]. ~ Brent Yorgey (@byorgey@mathstodon.xyz). #Haskell #FunctionalProgramming
+
+*** 27-Nov-24
++ [[https://entropicthoughts.com/haskell-procedural-programming][Haskell: A great procedural language]]. ~ kqr. #Haskell #FunctionalProgramming
++ [[https://hasufell.github.io/posts/2024-05-07-ultimate-string-guide.html][The ultimate guide to Haskell Strings]]. ~ Julian Ospald. #Haskell #FunctionalProgramming
++ [[https://linear.axler.net/][Linear algebra done right]]. ~ Sheldon Axler. #eBook #Math
++ [[https://arxiv.org/abs/2408.15332][What makes math problems hard for reinforcement learning: a case study]]. ~ Ali Shehper, Anibal M. Medina-Mardones, Bartłomiej Lewandowski, Angus Gruen, Piotr Kucharski, Sergei Gukov. #AI #MachineLearning #Math
+
 *** 26-Nov-24
 + [[https://www.isa-afp.org/entries/Cube_Dissection.html][Impossibility of the dissection of a cube (in Isabelle/HOL)]]. ~ Thomas Holme Surlykke. #ITP #IsabelleHOL #Math
 + [[https://www.isa-afp.org/entries/Two_Hermitian_Results.html][Two theorems on hermitian matrices (in Isabelle/HOL)]]. ~ Sage Binder, Zilin Jiang. #ITP #IsabelleHOL #Math
