@@ -67,6 +67,13 @@ its content.
 
 ** Noviembre 2024
 
+*** 29-Nov-24
++ [[https://joltml.com/ml-mathematics/][Machine learning and mathematics (The twin catalysts poised to accelerate twenty-first century mathematics: formalisation and machine learning)]]. ~ Harald Carlens. #Math #ITP #Lean4 #MachineLearning #LLMs #AIMO #AlphaProof #AlphaGeometry
++ [[https://www.isa-afp.org/entries/ILL.html][Deep embedding of intuitionistic linear logic]]. ~ Filip Smola, Jacques D. Fleuriot. #ITP #IsabelleHOL #Logic #Math
++ [[https://github.com/ad-si/Brillo][Brillo: Painless 2D vector graphics, animations, and simulations powered by GLFW (Fork of gloss)]]. ~ Adrian Sieber (@AdrianSieber). #Haskell #FunctionalProgramming
++ [[https://www.diva-portal.org/smash/get/diva2:1915138/FULLTEXT02][Effectiveness of Large Language Models to generate formally verified C code]]. ~ Merlijn Sevenhuijsen. #LLMs #Programming #FormalVerification
++ [[https://arxiv.org/abs/2411.15143][dafny-annotator: AI-assisted verification of Dafny programs]]. ~ Gabriel Poesia, Chloe Loughridge, Nada Amin. #LLMs #Dafny #FormalVerification
+
 *** 28-Nov-24
 + [[https://arxiv.org/abs/2411.14581][Semantics for linear-time temporal logic with finite observations]]. ~ Rayhana Amjad, Rob van Glabbeek, Liam O'Connor. #ITP #IsabelleHOL #Logic #Math
 + [[https://byorgey.github.io/blog/posts/2024/11/27/stacks-queues.html][Competitive Programming in Haskell: stacks, queues, and monoidal sliding windows]]. ~ Brent Yorgey (@byorgey@mathstodon.xyz). #Haskell #FunctionalProgramming
