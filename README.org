@@ -11,6 +11,7 @@ its content.
 
 * Content                                                                      :TOC:
 - [[#lecturas-del-año-2024][Lecturas del año 2024]]
+  - [[#diciembre-2024][Diciembre 2024]]
   - [[#noviembre-2024][Noviembre 2024]]
   - [[#octubre-2024][Octubre 2024]]
   - [[#septiembre-2024][Septiembre 2024]]
@@ -64,6 +65,11 @@ its content.
 - [[#lecturas-anteriores][Lecturas anteriores]]
 
 * Lecturas del año 2024
+
+** Diciembre 2024
+
+*** 01-Dic-24
++ [[https://www.isa-afp.org/entries/Sum_Of_Squares_Count.html][The sum-of-squares function and Jacobi's two-square theorem (in Isabelle/HOL)]]. ~ Manuel Eberl. #ITP #IsabelleHOL #Math
 
 ** Noviembre 2024
 
