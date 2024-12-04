@@ -68,6 +68,19 @@ its content.
 
 ** Diciembre 2024
 
+*** 03-Dic-24
++ [[https://youtu.be/qF8gcKh8IFA][Lean: First steps (17 - Using our own lemma)]]. ~ Tariq Rashid (@rzeta0@mastodon.social). #ITP #Lean4 #Math
++ [[https://nantes-universite.hal.science/hal-04801739/file/main.pdf][All your base are belong to U^s (Sort polymorphism for proof assistants)]]. ~ Josselin Poiret, Gaëtan Gilbert, Kenji Maillard, Pierre-Marie Pédrot, Matthieu Sozeau, Nicolas Tabareau, Éric Tanter. #ITP #CoqLang #Rocq
++ [[https://dl.acm.org/doi/pdf/10.1145/3706425][Mechanised safety verification for a distributed autonomous railway control system]]. ~ Robert Sachtleben, Anne Haxthausen, Jan Peleska. #ITP #IsabelleHOL
++ [[https://mathvalues.squarespace.com/masterblog/the-mathematician-whoincidentallyhelped-mathematicians-to-stop-worrying-and-love-the-computer][The mathematician who—incidentally—helped mathematicians to stop worrying and love the computer]]. ~ Keith Devlin (@profkeithdevlin.bsky.social). #Math
++ [[https://www.nature.com/articles/d41586-024-03940-y][ChatGPT turns two: how the AI chatbot has changed scientists’ lives (How many researchers are using the AI tool? Nature gathers data and talks to members of the academic community)]]. ~ Mariana Lenharo. #LLMs #ChatGPT
+
+*** 02-Dic-24
++ [[https://jaalonso.github.io/calculemus/posts/2024/12/02-tendsto_mul/][Proofs of "If uₙ tends to a y vₙ tends to b, then uₙvₙ tends to ab" in Lean4]]. #ITP #Lean4 #Math #Calculemus
++ [[https://youtu.be/k2sGtzGGK6k][Lean: First steps (15 - Zero product)]]. ~ Tariq Rashid (@rzeta0@mastodon.social). #ITP #Lean4 #Math
++ [[https://youtu.be/XrvlSwb0qcY][Lean: First steps (16 - Writing our own lemma)]]. ~ Tariq Rashid (@rzeta0@mastodon.social). #ITP #Lean4 #Math
++ [[https://docs.racket-lang.org/ctp/index.html][Category theory in programming]]. ~ Noah Ma. #CategoryTheory #Math #Racket #FunctionalProgramming
+
 *** 01-Dic-24
 + [[https://www.isa-afp.org/entries/Sum_Of_Squares_Count.html][The sum-of-squares function and Jacobi's two-square theorem (in Isabelle/HOL)]]. ~ Manuel Eberl. #ITP #IsabelleHOL #Math
 
