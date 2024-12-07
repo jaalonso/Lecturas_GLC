@@ -68,6 +68,13 @@ its content.
 
 ** Diciembre 2024
 
+*** 06-Dic-24
++ [[http://ozark.hendrix.edu/~yorgey/pub/Fenwick-ext.pdf][You could have invented Fenwick trees]]. ~ Brent A. Yorgey. #Haskell #FunctionalProgramming
++ [[https://terrytao.wordpress.com/2024/12/05/ai-for-math-fund/][AI for Math fund]]. ~ Terence Tao (@tao@mathstodon.xyz). #AI #ITP #Math
++ [[https://youtu.be/vYCT7cw0ycw][(Re)imagining mathematics in a world of reasoning machines]]. ~ Akshay Venkatesh. #Math #ITP #AI
++ [[https://cacm.acm.org/opinion/on-program-synthesis-and-large-language-models/][On program synthesis and Large Language Models (Why it is unlikely new developments in machine intelligence will eventually make programming obsolete)]]. ~ Hans Hüttel. #AI #LLMs #Programming
++ [[https://arxiv.org/abs/2412.00248][Pourquoi existe-t-il de nombreux paradigmes de programmation?]] ~ Oscar Plaisant, Max Lemoine. #Programming #CompSci
+
 *** 05-Dic-24
 + [[https://youtu.be/ar4ifBiRVoA][Lean: First steps (18 - Our Own Definition)]]. ~ Tariq Rashid (@rzeta0@mastodon.social). #ITP #LeanLang #Lean4 #Math
 + [[https://ltzhou.com/static/POPL25extended.pdf][QuickSub: Efficient iso-recursive subtyping]]. ~ Litao Zhou, Bruno C.D.S. Oliveira. #ITP #Coq #Rocq
