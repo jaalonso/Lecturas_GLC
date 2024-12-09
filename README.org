@@ -68,6 +68,12 @@ its content.
 
 ** Diciembre 2024
 
+*** 08-Dic-24
++ [[https://arxiv.org/abs/2412.03125][Gradual guarantee via step-indexed logical relations in Agda]]. ~ Jeremy G. Siek. #ITP #Agda
++ [[https://arxiv.org/abs/2412.03124][Explicit weakening]]. ~ Philip Wadler. #ITP #Agda
++ [[https://hal.science/hal-04818801/document][Formally verified hardening of C programs against hardware fault injection]]. ~ Basile Pesin, Sylvain Boulmé, David Monniaux, Marie-Laure Potet. #ITP #Coq
++ [[https://arxiv.org/abs/2412.02107][Efficient, portable, census-polymorphic choreographic programming]]. ~ Mako Bates, Shun Kashiwa, Syed Jafri, Gan Shen, Lindsey Kuper, Joseph P. Near. #Haskell #FunctionalProgramming
+
 *** 06-Dic-24
 + [[http://ozark.hendrix.edu/~yorgey/pub/Fenwick-ext.pdf][You could have invented Fenwick trees]]. ~ Brent A. Yorgey. #Haskell #FunctionalProgramming
 + [[https://terrytao.wordpress.com/2024/12/05/ai-for-math-fund/][AI for Math fund]]. ~ Terence Tao (@tao@mathstodon.xyz). #AI #ITP #Math
