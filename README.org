@@ -68,6 +68,11 @@ its content.
 
 ** Diciembre 2024
 
+*** 09-Dic-24
++ [[https://leni.sh/post/information-sign.01-coupling/][Information sign: Search and coupling (Metavariables, coupling, and formal proofs)]]. ~ Leni Aniva (@aniva.bsky.social). #ITP #LeanLang #Lean4
++ [[https://www.well-typed.com/blog/2024/12/debuggable/][Debugging your Haskell application with debuggable]]. ~ Edsko de Vries. #Haskell #FunctionalProgramming
++ [[https://kazu-yamamoto.hatenablog.jp/entry/2024/12/04/180338][Myth and truth in Haskell asynchronous exceptions]]. ~ Kazu Yamamoto. #Haskell #FunctionalProgramming
+
 *** 08-Dic-24
 + [[https://arxiv.org/abs/2412.03125][Gradual guarantee via step-indexed logical relations in Agda]]. ~ Jeremy G. Siek. #ITP #Agda
 + [[https://arxiv.org/abs/2412.03124][Explicit weakening]]. ~ Philip Wadler. #ITP #Agda
