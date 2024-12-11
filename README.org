@@ -68,6 +68,10 @@ its content.
 
 ** Diciembre 2024
 
+*** 10-Dic-24
++ [[https://www.philipzucker.com/ljt/][Dyckhoff intuitionistic propositional prover]]. ~ Philip Zucker (@sandmouth.bsky.social). #Logic #SMT #Z3 #Python
++ [[https://arxiv.org/abs/2412.04110][Enhancing mathematical reasoning in LLMs with background operators]]. ~ Jiajun Chen, Yik-Cheung Tam. #LLMs #Prolog #LogicProgramming
+
 *** 09-Dic-24
 + [[https://leni.sh/post/information-sign.01-coupling/][Information sign: Search and coupling (Metavariables, coupling, and formal proofs)]]. ~ Leni Aniva (@aniva.bsky.social). #ITP #LeanLang #Lean4
 + [[https://www.well-typed.com/blog/2024/12/debuggable/][Debugging your Haskell application with debuggable]]. ~ Edsko de Vries. #Haskell #FunctionalProgramming
