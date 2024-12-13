@@ -68,6 +68,9 @@ its content.
 
 ** Diciembre 2024
 
+*** 12-Dic-24
++ [[https://xenaproject.wordpress.com/2024/12/11/fermats-last-theorem-how-its-going/][Fermat’s Last Theorem — how it’s going]]. ~ Kevin Buzzard (@xenaproject.bsky.social). #ITP #LeanLang #Lean4 #Math
+
 *** 11-Dic-24
 + [[https://ceur-ws.org/Vol-3860/paper_6.pdf][Isomorphic transfer infrastructure for nested types in Isabelle/HOL (Work in progress)]]. ~ Gergely Buday, Andrei Popescu. #ITP #IsabelleHOL
 + [[https://cdsmithus.medium.com/when-is-a-call-stack-not-a-call-stack-f7f12d7aabbe][When is a call stack not a call stack?]] ~ Chris Smith. #Haskell #FunctionalProgramming
