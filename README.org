@@ -68,6 +68,10 @@ its content.
 
 ** Diciembre 2024
 
+*** 15-Dic-24
++ [[https://link.springer.com/book/10.1007/978-3-031-68538-5][Category theory using Haskell (An introduction with Moggi and Yoneda)]]. ~ Shuichi Yukita. #Haskell #FunctionalProgramming #CategoryTheory
++ [[https://youtu.be/Zu2oET6Xjow][The future of Math with o1 reasoning with Terence Tao, Mark Chen, and James Donovan]]. #AI #ITP #LeanProver #Math
+
 *** 13-Dic-24
 + [[https://ssrg.ece.vt.edu/papers/popl25.pdf][On extending incorrectness logic with backwards reasoning]]. ~ Freek Verbeek, Md Syadus Sefat, Zhoulai Fu, Binoy Ravindran. #ITP #IsabelleHOL
 + [[https://arxiv.org/abs/2412.04864][Machine checked proofs and programs in algebraic combinatorics]]. ~ Florent Hivert. #ITP #Coq #Rocq #Math
