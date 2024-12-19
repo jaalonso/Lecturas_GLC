@@ -68,6 +68,12 @@ its content.
 
 ** Diciembre 2024
 
+*** 17-Dic-24
++ [[https://maxsnew.com/docs/lambek.pdf][Intrinsic verification of parsers and formal grammar theory in dependent Lambek calculus]]. ~ Steven Schaefer et als. #ITP #Agda
++ [[https://mikedodds.github.io/files/talks/2024-12-5-proofs-in-the-wild.pdf][Proofs in the Wild]]. ~ Mike Dodds (@m-dodds.bsky.social). #ITP #AI
++ [[https://thmprover.wordpress.com/2024/12/16/loops-in-mizar/][Loops in Mizar]]. ~ Alex Nelson (‪@pqnelson.bsky.social‬). #ITP #Mizar #Math
++ [[https://books.google.es/books?id=9RE1EQAAQBAJ&newbks=1&newbks_redir=0&lpg=PR1&dq=Artificial%20Intelligence%3A%20Principles%20and%20Practice&hl=es&pg=PR][Artificial intelligence: Principles and practice]]. ~ George F. Luger.1#v=onepage&q=Artificial%20Intelligence:%20Principles%20and%20Practice&f=false #AI
+
 *** 16-Dic-24
 + [[https://leanfirststeps.blogspot.com/2024/12/19-reductio-ad-absurdum.html][Lean: First steps (19 - Reductio ad absurdum)]]. ~ Tariq Rashid (@rzeta0@mastodon.social). #ITP #LeanLang #Lean4 #Math
 + [[https://www.cambridge.org/core/journals/journal-of-functional-programming/article/bottomup-computation-using-trees-of-sublists/5FC308F9732880B018C841EA424B09FA][Bottom-up computation using trees of sublists]]. ~ Shin-Cheng Mu. #Haskell #FunctionalProgramming
