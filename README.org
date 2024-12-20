@@ -68,6 +68,12 @@ its content.
 
 ** Diciembre 2024
 
+*** 19-Dic-24
++ [[https://backend.orbit.dtu.dk/ws/portalfiles/portal/383716082/Isabelle_2024_paper_5.pdf][A formalization of sequent calculus for classical implicational logic]]. ~ Frederik Krogsdal Jacobsen, Jørgen Villadsen. #ITP #IsabelleHOL #Logic
++ [[https://repozytorium.uwb.edu.pl/jspui/bitstream/11320/17756/1/Elementary-Number-Theory-Problems-Part-XV-Diophantine-Equations.pdf][Elementary number theory problems (Part XV – Diophantine equations)]]. ~ Karol Pąk, Artur Korniłowicz. #ITP #Mizar #Math
++ [[https://repositorio-aberto.up.pt/bitstream/10216/164137/2/700562.pdf][Linear calculi: A comparison approach]]. ~ Ana Jorge Carvalho de Soares Almeida. #Haskell #FunctionalProgramming
++ [[https://arxiv.org/abs/2412.11936][A survey of mathematical reasoning in the era of multimodal large language model: Benchmark, method & challenges]]. ~ Yibo Yan et als. #LLMs #Math #Reasoning
+
 *** 17-Dic-24
 + [[https://maxsnew.com/docs/lambek.pdf][Intrinsic verification of parsers and formal grammar theory in dependent Lambek calculus]]. ~ Steven Schaefer et als. #ITP #Agda
 + [[https://mikedodds.github.io/files/talks/2024-12-5-proofs-in-the-wild.pdf][Proofs in the Wild]]. ~ Mike Dodds (@m-dodds.bsky.social). #ITP #AI
