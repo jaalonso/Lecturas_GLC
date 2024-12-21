@@ -68,6 +68,11 @@ its content.
 
 ** Diciembre 2024
 
+*** 20-Dic-24
++ [[https://jaalonso.github.io/exercitium/posts/2022/02/02-reiteracion_de_suma_de_consecutivos/][#Exercitium: Reiteración de suma de consecutivos]]. #Haskell #Python #Matemáticas
++ [[https://thmprover.wordpress.com/2024/12/19/formalize-the-octonions/][Formalize the octonions]]. ~ Alex Nelson (‪@pqnelson.bsky.social‬). #ITP #Mizar #Math
++ [[https://philsci-archive.pitt.edu/24406/1/apriori_opacity_ai.pdf][Apriori knowledge in an era of computational opacity: The role of AI in mathematical discovery]]. ~ Eamon Duede, Kevin Davey. #AI #Math
+
 *** 19-Dic-24
 + [[https://backend.orbit.dtu.dk/ws/portalfiles/portal/383716082/Isabelle_2024_paper_5.pdf][A formalization of sequent calculus for classical implicational logic]]. ~ Frederik Krogsdal Jacobsen, Jørgen Villadsen. #ITP #IsabelleHOL #Logic
 + [[https://repozytorium.uwb.edu.pl/jspui/bitstream/11320/17756/1/Elementary-Number-Theory-Problems-Part-XV-Diophantine-Equations.pdf][Elementary number theory problems (Part XV – Diophantine equations)]]. ~ Karol Pąk, Artur Korniłowicz. #ITP #Mizar #Math
