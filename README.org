@@ -68,6 +68,11 @@ its content.
 
 ** Diciembre 2024
 
+*** 21-Dic-24
++ [[https://lawrencecpaulson.github.io//2024/12/20/Quickstart.html][Isabelle quick start guide]]. ~ Lawrence Paulson (@LawrPaulson). #ITP #IsabelleHOL #Math
++ [[https://hatwd.com/p/an-imperative-programmer-tries-to][An imperative programmer tries to learn Haskell]]. ~ Thane Thomson. #Haskell #FunctionalProgramming
++ [[https://gist.github.com/amacgillivray/c37a2a860df5117561ec64604bcb6b7d][Solving perfect numbers quickly with Haskell]]. ~ Andrew MacGillivray. #Haskell #FunctionalProgramming
+
 *** 20-Dic-24
 + [[https://jaalonso.github.io/exercitium/posts/2022/02/02-reiteracion_de_suma_de_consecutivos/][#Exercitium: Reiteración de suma de consecutivos]]. #Haskell #Python #Matemáticas
 + [[https://thmprover.wordpress.com/2024/12/19/formalize-the-octonions/][Formalize the octonions]]. ~ Alex Nelson (‪@pqnelson.bsky.social‬). #ITP #Mizar #Math
