@@ -68,6 +68,17 @@ its content.
 
 ** Diciembre 2024
 
+*** 24-Dic-24
++ [[https://hal.science/hal-04838823v1/file/IMEDIL_COB_14dec2024_HAL.pdf][Teaching and learning proof in mathematics at university: new perspectives in education with proof assistants?]] ~ Cécile Ouvrier-Buffet. #ITP #Math #Education
++ [[https://arxiv.org/abs/2412.15184][Data for mathematical copilots: Better ways of presenting proofs for machine learning]]. ~ Simon Frieder et als. #AI #LLMs #Math
++ [[https://repository.tudelft.nl/file/File_b39e0ab0-422a-48db-8ce4-cef2e783c3cc][Compiling dependent type preconditions to runtime checks with Agda2Hs]]. ~ Jakob Naucke. #ITP #Agda #Haskell #FunctionalProgramming
+
+*** 23-Dic-24
++ [[https://arxiv.org/abs/2412.16075][Formal mathematical reasoning: A new frontier in AI]]. ~ Kaiyu Yang, Gabriel Poesia, Jingxuan He, Wenda Li, Kristin Lauter, Swarat Chaudhuri, Dawn Song. #AI #Math #Reasoning #ITP #Coq #IsabelleHOL #LeanProver #Autoformalization
++ [[https://xenaproject.wordpress.com/2024/12/22/can-ai-do-maths-yet-thoughts-from-a-mathematician/][Can AI do maths yet? Thoughts from a mathematician]]. ~ Kevin Buzzard (@xenaproject.bsky.social). #AI #ITP #Math
++ [[https://arxiv.org/abs/2410.10908][The state of Julia for scientific machine learning]]. ~ Edward Berman, Jacob Ginesin. #Programming #JuliaLang #Python #MachineLearning
++ [[https://arxiv.org/abs/2410.00726][LTLf synthesis on first-order agent programs in nondeterministic environments]]. ~ Till Hofmann, Jens Claßen. #AI #Golog #LogicProgramming
+
 *** 21-Dic-24
 + [[https://lawrencecpaulson.github.io//2024/12/20/Quickstart.html][Isabelle quick start guide]]. ~ Lawrence Paulson (@LawrPaulson). #ITP #IsabelleHOL #Math
 + [[https://hatwd.com/p/an-imperative-programmer-tries-to][An imperative programmer tries to learn Haskell]]. ~ Thane Thomson. #Haskell #FunctionalProgramming
