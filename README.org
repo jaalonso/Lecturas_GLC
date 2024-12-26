@@ -68,6 +68,10 @@ its content.
 
 ** Diciembre 2024
 
+*** 25-Dic-24
++ [[https://leanfirststeps.blogspot.com/2024/12/20-contradictory-cases.html][Lean: First steps (20 - Contradictory cases)]]. ~ Tariq Rashid (@rzeta0@mastodon.social). #ITP #LeanProver #Lean4 #Math
++ [[https://www.marktarver.com/bipolar.html][The bipolar Lisp programmer]]. ~ Mark Tarver. #Lisp #Programming
+
 *** 24-Dic-24
 + [[https://hal.science/hal-04838823v1/file/IMEDIL_COB_14dec2024_HAL.pdf][Teaching and learning proof in mathematics at university: new perspectives in education with proof assistants?]] ~ Cécile Ouvrier-Buffet. #ITP #Math #Education
 + [[https://arxiv.org/abs/2412.15184][Data for mathematical copilots: Better ways of presenting proofs for machine learning]]. ~ Simon Frieder et als. #AI #LLMs #Math
