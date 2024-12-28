@@ -68,6 +68,14 @@ its content.
 
 ** Diciembre 2024
 
+*** 27-Dic-24
++ [[https://www.isa-afp.org/entries/Generalized_Cauchy_Davenport.html][A generalization of the Cauchy–Davenport theorem (in Isabelle/HOL)]]. ~ Mantas Bakšys. #ITP #IsabelleHOL #Math
++ [[https://kclpure.kcl.ac.uk/ws/portalfiles/portal/317088061/verified_fmdps.pdf][Formally verified approximate policy iteration]]. ~ Maximilian Schäffeler, Mohammad Abdulaziz. #ITP #IsabelleHOL
++ [[https://www.ams.org/journals/notices/202411/noti3088/noti3088.html][Myths of mathematics teaching]]. ~ Daniel J. Velleman. #Math #Teaching
++ [[https://arxiv.org/abs/2412.16543][Mathematics and machine creativity: A survey on bridging mathematics with AI]]. ~ Shizhe Liang, Wei Zhang, Tianyang Zhong. #AI #LLMs  #Math
++ [[https://cacm.acm.org/blogcacm/ai-beyond-the-headlines/][AI: Beyond the headlines (The hype surrounding artificial intelligence has created misconceptions that may lead to missed opportunities)]]. ~ Erdin Beshimov. #AI
++ [[https://notxor.nueva-actitud.org/2024/12/26/dibujando-figuras-con-emacs.html][Dibujando figuras con Emacs]]. ~ Notxor. #Emacs
+
 *** 25-Dic-24
 + [[https://leanfirststeps.blogspot.com/2024/12/20-contradictory-cases.html][Lean: First steps (20 - Contradictory cases)]]. ~ Tariq Rashid (@rzeta0@mastodon.social). #ITP #LeanProver #Lean4 #Math
 + [[https://www.marktarver.com/bipolar.html][The bipolar Lisp programmer]]. ~ Mark Tarver. #Lisp #Programming
