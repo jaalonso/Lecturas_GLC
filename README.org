@@ -68,6 +68,10 @@ its content.
 
 ** Diciembre 2024
 
+*** 28-Dic-24
++ [[https://www.ams.org/journals/notices/202501/noti3041/noti3041.html?adat=January%202025&trk=3041&pdfissue=202501&pdffile=rnoti-p6.pdf&cat=none&type=.html][Machine-assisted proof]]. ~ Terence Tao. #Math #AI #ITP
++ [[https://www.ams.org/journals/notices/202501/noti3070/noti3070.html?adat=January%202025&trk=3070&pdfissue=202501&pdffile=rnoti-p62.pdf&cat=none&type=.html][AMS Advisory Group on Artificial Intelligence]]. ~ Akshay Venkatesh, Mark C. Wilson. #Math #AI
+
 *** 27-Dic-24
 + [[https://www.isa-afp.org/entries/Generalized_Cauchy_Davenport.html][A generalization of the Cauchy–Davenport theorem (in Isabelle/HOL)]]. ~ Mantas Bakšys. #ITP #IsabelleHOL #Math
 + [[https://kclpure.kcl.ac.uk/ws/portalfiles/portal/317088061/verified_fmdps.pdf][Formally verified approximate policy iteration]]. ~ Maximilian Schäffeler, Mohammad Abdulaziz. #ITP #IsabelleHOL
