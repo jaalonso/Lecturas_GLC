@@ -68,6 +68,19 @@ its content.
 
 ** Diciembre 2024
 
+*** 30-Dic-24
++ [[https://pcsc.dlsu.edu.ph/proceedings/main-conference/67.pdf][Formal verification of a custom scheduling algorithm and specification of a Round-Robin implementation using Coq]]. ~ Christian Choa et als. #ITP #Coq #Rocq
++ [[https://pcsc.dlsu.edu.ph/proceedings/main-conference/54.pdf][Formal verification of shortest job first scheduling algorithm in Coq]]. ~ Jian Lawrence Luteria et als. #ITP #Coq #Rocq
++ [[https://rocq-prover.org/][Rocq prover: A trustworthy, industrial-strength interactive theorem prover and dependently-typed programming language for mechanised reasoning in mathematics, computer science and more]]. #ITP #Rocq
++ [[https://acatalepsie.fr/posts/haskell-dijkstra.html][Generalized Dijkstra in Haskell]]. ~ Lucas Escot. #Haskell #FunctionalProgramming
++ [[https://courses.cs.northwestern.edu/325/readings/luv-slides.pdf][Tutorial on good Lisp programming style]]. ~ Peter Norvig, Kent Pitman (1993). #CommonLisp #Programming
++ [[https://norvig.github.io/paip-lisp][Paradigms of artificial intelligence programming (Case studies in Common Lisp)]]. ~ Peter Norvig. #eBook #AI #CommonLisp #Programming
++ [[https://github.com/chrisdone-archive/elisp-guide/blob/master/README.org][Emacs Lisp guide]]. ~ Chris Done. #Emacs #Lisp
++ [[https://abuseofnotation.github.io/category-theory-illustrated/00_about/][Category theory illustrated]]. ~ Jencel Panic. #CategoryTheory
++ [[https://www.cs.toronto.edu/~shaharry/csc236/resources/165.pdf][Mathematical expression and reasoning for computer science]]. ~ David Liu, Toniann Pitassi. #eBook #Logic #Math #CompSci
++ [[https://www.maketecheasier.com/use-emacs-as-desktop-environment-linux/][How to use Emacs as a desktop environment in Linux with EXWM]]. ~ Ramces Red. #Emacs
++ [[https://www.madrimasd.org/blogs/matematicas/2024/12/30/150806][Historias de la IA: los autómatas]]. ~ Manuel de León. #IA #Autómatas
+
 *** 28-Dic-24
 + [[https://www.ams.org/journals/notices/202501/noti3041/noti3041.html?adat=January%202025&trk=3041&pdfissue=202501&pdffile=rnoti-p6.pdf&cat=none&type=.html][Machine-assisted proof]]. ~ Terence Tao. #Math #AI #ITP
 + [[https://www.ams.org/journals/notices/202501/noti3070/noti3070.html?adat=January%202025&trk=3070&pdfissue=202501&pdffile=rnoti-p62.pdf&cat=none&type=.html][AMS Advisory Group on Artificial Intelligence]]. ~ Akshay Venkatesh, Mark C. Wilson. #Math #AI
