@@ -68,6 +68,9 @@ its content.
 
 ** Diciembre 2024
 
+*** 31-Dic-24
++ [[https://arxiv.org/abs/2412.20878][A formal correctness proof of Edmonds' blossom shrinking algorithm]]. ~ Mohammad Abdulaziz. #ITP #IsabelleHOL
+
 *** 30-Dic-24
 + [[https://pcsc.dlsu.edu.ph/proceedings/main-conference/67.pdf][Formal verification of a custom scheduling algorithm and specification of a Round-Robin implementation using Coq]]. ~ Christian Choa et als. #ITP #Coq #Rocq
 + [[https://pcsc.dlsu.edu.ph/proceedings/main-conference/54.pdf][Formal verification of shortest job first scheduling algorithm in Coq]]. ~ Jian Lawrence Luteria et als. #ITP #Coq #Rocq
