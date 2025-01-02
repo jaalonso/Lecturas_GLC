@@ -11,6 +11,8 @@ its content.
 
 * Content                                                                      :TOC:
 - [[#lecturas-del-año-2024][Lecturas del año 2024]]
+  - [[#enero-2025][Enero 2025]]
+- [[#lecturas-del-año-2024-1][Lecturas del año 2024]]
   - [[#diciembre-2024][Diciembre 2024]]
   - [[#noviembre-2024][Noviembre 2024]]
   - [[#octubre-2024][Octubre 2024]]
@@ -63,6 +65,17 @@ its content.
   - [[#febrero-2021][Febrero 2021]]
   - [[#enero-2021][Enero 2021]]
 - [[#lecturas-anteriores][Lecturas anteriores]]
+
+* Lecturas del año 2024
+
+** Enero 2025
+
+*** 01-Ene-25
++ [[https://leanfirststeps.blogspot.com/2024/12/21-induction.html][Lean: First steps (21 - Simple induction)]]. ~ Tariq Rashid (@rzeta0@mastodon.social). #ITP #LeanProver #Lean4 #Math
++ [[https://intapi.sciendo.com/pdf/10.2478/forma-2024-0008][Formal proof of transcendence of the number e (Part I)]]. ~ Yasushige Watase. #ITP #Mizar #Math
++ [[https://intapi.sciendo.com/pdf/10.2478/forma-2024-0009][Formal proof of transcendence of the number e (Part II)]]. ~ Yasushige Watase. #ITP #Mizar #Math
+
+
 
 * Lecturas del año 2024
 
