@@ -70,6 +70,22 @@ its content.
 
 ** Enero 2025
 
+*** 06-Ene-25
++ [[https://lawrencecpaulson.github.io//2025/01/06/Code_Generation.html][Computing huge Fibonacci numbers, by proof and by code]]. ~ Lawrence Paulson (@lawrpaulson.bsky.social). #ITP #IsabelleHOL
++ [[https://youtu.be/E55hdgQTcms][Lean: First steps (21 - Simple induction)]]. ~ Tariq Rashid (@rzeta0@mastodon.social). #ITP #LeanProver #Lean4 #Math
++ [[https://archive.is/Ibtv][Mathematicians found – and fixed – an error in a 60-year-old proof]]. ~ Alex Wilkins.L#selection-733.0-733.66 #ITP #LeanProver #Math
++ [[https://arxiv.org/abs/2501.00059][Large language models for mathematical analysis]]. ~ Ziye Chen, Hao Qi. #AI #LLMs #Math
++ [[https://bora.uib.no/bora-xmlui/handle/11250/3170892][On planarity of graphs in homotopy type theory]]. ~ Cubides, Jonathan Steven Prieto; Gylterud, Håkon Robbestad. #ITP #Agda #HoTT
++ [[https://arxiv.org/abs/2412.19463][Laws of quantum programming]]. ~ Mingsheng Ying, Li Zhou, Gilles Barthe. #ITP #Coq #Rocq #QuantumProgramming
++ [[https://www.microsiervos.com/archivo/libros/libro-recursivo-recursividad.html][El libro recursivo de la recursividad]]. ~ @Alvy. #Programación
+
+*** 04-Ene-25
++ [[https://www.cambridge.org/core/journals/journal-of-symbolic-logic/article/categorical-foundations-of-formalized-condensed-mathematics/0A003200BE44C4F78859DFAE19E3FFA8][Categorical foundations of formalized condensed mathematics]]. ~ Dagur Asgeirsson et als.. #ITP #LeanProver #Math
++ [[https://overlay.uniud.it/workshop/2024/papers/paper5.pdf][Growing HOLMS, a HOL Light library for modal systems]]. ~ Antonella Bilotta, Marco Maggesi, Cosimo Perini Brogi, Leonardo Quartini. #ITP #HOL_Light #Logic
++ [[https://intapi.sciendo.com/pdf/10.2478/forma-2024-0011][Ascoli-Arzel`a theorem (Metric space version)]]. ~ Keiichi Miyajima, Hiroshi Yamazaki. #ITP #Mizar #Math
++ [[https://intapi.sciendo.com/pdf/10.2478/forma-2024-0012][Universality of measure space]]. ~ Noboru Endou, Yasunari Shidama. #ITP #Mizar #Math
++ [[https://intapi.sciendo.com/pdf/10.2478/forma-2024-0010][Formalization of orthogonal complements of normed spaces]]. ~ Hiroyuki Okazaki. #ITP #Mizar #Math
+
 *** 03-Ene-25
 + [[https://inria.hal.science/hal-04859512/file/jfla2025-final84.pdf][Décomposition algébrique cylindrique en Coq/Rocq]]. ~ Quentin Vermande. #ITP #Coq #Rocq #Math
 + [[https://inria.hal.science/hal-04859469/document][Formalizing adhesive category theory in Rocq]]. ~ Samuel Arsac, Russell Harmer, Damien Pous. #ITP #Rocq
@@ -86,8 +102,6 @@ its content.
 + [[https://leanfirststeps.blogspot.com/2024/12/21-induction.html][Lean: First steps (21 - Simple induction)]]. ~ Tariq Rashid (@rzeta0@mastodon.social). #ITP #LeanProver #Lean4 #Math
 + [[https://intapi.sciendo.com/pdf/10.2478/forma-2024-0008][Formal proof of transcendence of the number e (Part I)]]. ~ Yasushige Watase. #ITP #Mizar #Math
 + [[https://intapi.sciendo.com/pdf/10.2478/forma-2024-0009][Formal proof of transcendence of the number e (Part II)]]. ~ Yasushige Watase. #ITP #Mizar #Math
-
-
 
 * Lecturas del año 2024
 
