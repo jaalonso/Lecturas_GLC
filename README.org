@@ -70,6 +70,19 @@ its content.
 
 ** Enero 2025
 
+*** 09-Ene-25
++ [[https://arxiv.org/abs/2501.03352][Teaching "Foundations of mathematics" with the LEAN theorem prover]]. ~ Mattia Luciano Bottoni, Alberto S. Cattaneo, Elif Sacikara. #ITP #LeanProver #Math
++ [[https://blog.haskell.org/case-study-foreign-integration-js-browser/][Using a JavaScript component inside a Haskell application]]. ~ Mateusz Goślinowski. #Haskell #FunctionalProgramming #JavaScript
++ [[https://arxiv.org/abs/2403.04807][Mathematics of neural networks (Lecture notes graduate course)]]. ~ Bart M.N. Smets. #NeuralNetwork #Math
++ [[https://math.umd.edu/~dkueker/712.pdf][Notes on mathematical logic (Vol. 1)]]. ~ David W. Kueker. #Logic #Math
++ [[https://math.umd.edu/~dkueker/713.pdf][Notes on mathematical logic (Vol. 2)]]. ~ David W. Kueker. #Logic #Math
++ [[https://www.elladodelmal.com/2025/01/chatgpt-como-hacer-mi-mejorar-mi.html][ChatGPT: Cómo hacer (y mejorar) mi Trabajo de Fin de Carrera de la Universidad en un par de minutos]]. ~ Chema Alonso. #ChatGPT #Python #Programming
+
+*** 08-Ene-25
++ [[https://www.isa-afp.org/entries/Notes_On_Goedels_Ontological_Argument.html][Notes on Gödel’s and Scott’s variants of the ontological argument (Isabelle/HOL dataset)]]. ~ Christoph Benzmüller. #ITP #IsabelleHOL
++ [[https://www.johndcook.com/blog/2025/01/07/can-ai-models-reason-like-a-human/][Can AI models reason like a human?]] ~ Wayne Joubert. #AI #LLMs
++ [[https://cacm.acm.org/opinion/artificial-intelligence-then-and-now/][Artificial intelligence then and now (From engines of logic to engines of bullshit?)]]. ~ Thomas Haigh. #AI #MachineLearning #LLMs
+
 *** 06-Ene-25
 + [[https://lawrencecpaulson.github.io//2025/01/06/Code_Generation.html][Computing huge Fibonacci numbers, by proof and by code]]. ~ Lawrence Paulson. #ITP #IsabelleHOL
 + [[https://youtu.be/E55hdgQTcms][Lean: First steps (21 - Simple induction)]]. ~ Tariq Rashid. #ITP #LeanProver #Lean4 #Math
