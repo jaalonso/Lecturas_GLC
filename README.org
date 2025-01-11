@@ -70,6 +70,12 @@ its content.
 
 ** Enero 2025
 
+*** 10-Ene-25
++ [[https://user.math.uzh.ch/cattaneo/bottoni.pdf][Teaching "Foundations of mathematics" with the LEAN theorem prover (Master's Thesis)]]. #ITP #LeanProver #Logic #Math
++ [[https://aclanthology.org/D15-1118.pdf][Learning to automatically solve logic grid puzzles]]. ~ Arindam Mitra, Chitta Baral (2015). #ASP #LogicProgramming
++ [[https://arxiv.org/abs/2501.05435][Neuro-symbolic AI in 2024: A systematic review]]. ~ Brandon C. Colelough, William Regli. #AI #NeuroSymbolicAI
++ [[https://www.microsiervos.com/archivo/ia/comparador-modelos-inteligencia-artificial.html][Un comparador de modelos de Inteligencia Artificial]]. ~ @Alvy. #AI #LLMs
+
 *** 09-Ene-25
 + [[https://arxiv.org/abs/2501.03352][Teaching "Foundations of mathematics" with the LEAN theorem prover]]. ~ Mattia Luciano Bottoni, Alberto S. Cattaneo, Elif Sacikara. #ITP #LeanProver #Math
 + [[https://blog.haskell.org/case-study-foreign-integration-js-browser/][Using a JavaScript component inside a Haskell application]]. ~ Mateusz Goślinowski. #Haskell #FunctionalProgramming #JavaScript
