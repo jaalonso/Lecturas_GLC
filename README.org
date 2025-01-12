@@ -70,6 +70,17 @@ its content.
 
 ** Enero 2025
 
+*** 11-Ene-25
++ [[https://raw.githubusercontent.com/jwbuurlage/category-theory-programmers/master/doc/categories_for_programmers.pdf][Categories and Haskell (An introduction to the mathematics behind modern functional programming)]]. ~ Jan-Willem Buurlage. #CategoryTheory #Haskell #FunctionalProgramming
++ [[https://github.com/facebookresearch/LeanUniverse][LeanUniverse: A library for consistent and scalable Lean4 dataset management]]. ~ Aram H. Markosyan, Gabriel Synnaeve, Hugh Leather. #ITP #LeanProver
++ [[https://hal.science/hal-04859450v1/file/jfla2025-final36.pdf][Proxy-based small inversions: a case study in MetaCoq programming]]. ~ Pierre Corbineau, Basile Gros, Jean-François Monin. #ITP #Coq #Rocq
++ [[https://trendsfp.github.io/abstracts/paper-006.pdf][On the correctness of Barron and Strachey’s cartesian product function]]. ~ Wouter Swierstra, Jason Hemann. #Haskell #FunctionalProgramming #ITP #Agda
++ [[https://trendsfp.github.io/abstracts/paper-028.pdf][Alpha beta pruning with the selection monad]]. ~ Johannes Hartmann, Jeremy Gibbons. #Haskell #FunctionalProgramming
++ [[https://trendsfp.github.io/abstracts/paper-012.pdf][Using GHC core to normalise student programs]]. ~ Matilda Blomqvist, Alex Gerdes. #Haskell #FunctionalProgramming
++ [[https://trendsfp.github.io/abstracts/paper-007.pdf][Shallowly embedded functions]]. ~ Mart Lubbers, Pieter Koopman, Niek Janssen. #Haskell #FunctionalProgramming
++ [[https://trendsfp.github.io/abstracts/paper-010.pdf][CoScheme: Compositional copatterns in Scheme]]. ~ Paul Downen, Adriano Corbelino II. #FunctionalProgramming
++ [[https://cacm.acm.org/blogcacm/assessment-in-computer-science-education-in-the-genai-era/][Assessment in computer science education in the GenAI era (Prioritizing critical thinking over syntax mastery)]]. ~ Orit Hazzan. #ComputerSci #Education #GenAI
+
 *** 10-Ene-25
 + [[https://user.math.uzh.ch/cattaneo/bottoni.pdf][Teaching "Foundations of mathematics" with the LEAN theorem prover (Master's Thesis)]]. #ITP #LeanProver #Logic #Math
 + [[https://aclanthology.org/D15-1118.pdf][Learning to automatically solve logic grid puzzles]]. ~ Arindam Mitra, Chitta Baral (2015). #ASP #LogicProgramming
