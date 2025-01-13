@@ -70,6 +70,14 @@ its content.
 
 ** Enero 2025
 
+*** 12-Ene-25
++ [[https://hal.science/hal-04859455/document][Prouver que π est irrationnel avec MathComp-Analysis]]. ~ Reynald Affeldt. #ITP #Coq #Rocq #Math
++ [[https://hal.science/hal-04859508v1/file/jfla2025-final76.pdf][Reconciling impredicative axiom and universe]]. ~ Stefan Monnier. #ITP #Coq #Rocq #HoTT
++ [[https://hal.science/hal-04859406/document][Vers une automatisation de la certification des propriétés de clôture pour Prolog]]. ~ Thierry Marianne, Fred Mesnard, Etienne Payet. #Prolog #LogicProgramming #LPTP
++ [[https://blog.djhaskin.com/blog/why-i-chose-common-lisp/][Why I chose Common Lisp]]. ~ Dan's Musings. #CommonLisp
++ [[https://blog.djhaskin.com/blog/common-lisp-community-survey-2024-results/][Common Lisp community survey 2024 results]]. ~ Dan Haskin. #CommonLisp
++ [[https://lisp-lang.org/][Common Lisp]]. #CommonLisp
+
 *** 11-Ene-25
 + [[https://raw.githubusercontent.com/jwbuurlage/category-theory-programmers/master/doc/categories_for_programmers.pdf][Categories and Haskell (An introduction to the mathematics behind modern functional programming)]]. ~ Jan-Willem Buurlage. #CategoryTheory #Haskell #FunctionalProgramming
 + [[https://github.com/facebookresearch/LeanUniverse][LeanUniverse: A library for consistent and scalable Lean4 dataset management]]. ~ Aram H. Markosyan, Gabriel Synnaeve, Hugh Leather. #ITP #LeanProver
