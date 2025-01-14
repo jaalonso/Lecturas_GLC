@@ -70,6 +70,16 @@ its content.
 
 ** Enero 2025
 
+*** 13-Ene-25
++ [[https://www.cambridge.org/core/journals/journal-of-functional-programming/article/practical-formalization-of-monadic-equational-reasoning-in-dependenttype-theory/B59B87DE000F48B9807F24AEDB11452E][A practical formalization of monadic equational reasoning in dependent-type theory]]. ~ Reynald Affeldt, Jacques Garrigue, Takafumi Saikawa. #ITP #Coq #Rocq
++ [[https://dl.acm.org/doi/pdf/10.1145/3704889][Coinductive proofs for temporal hyperliveness]]. ~ Arthur Correnson, Bernd Finkbeiner. #ITP #Coq #Rocq
++ [[https://arxiv.org/abs/2501.05259v1][Reversible computation with stacks and "Reversible management of failures"]]. ~ Matteo Palazzo, Luca Roversi. #ITP #Coq #Rocq
++ [[https://dl.acm.org/doi/pdf/10.1145/3704880][Preservation of speculative constant-time by compilation]]. ~ Santiago Arranz Olmos, Gilles Barthe, Lionel Blatter, Benjamin Grégoire, Vincent Laporte. #ITP #Coq #Rocq
++ [[https://arxiv.org/abs/2501.05463][Proof recommendation system for the HOL4 theorem prover]]. ~ Nour Dekhil, Adnan Rashid, Sofiene Tahar. #ITP #HOL4
++ [[https://funcall.blogspot.com/2024/05/the-way-of-lisp-or-right-way.html ][The way of Lisp or the right thing]]. ~ Joe Marshall. #CommonLisp #Programming
++ [[https://stevelosh.com/blog/2018/08/a-road-to-common-lisp/][A road to Common Lisp]]. ~ Steve Losh (2018). #CommonLisp
++ [[https://docs.stevelosh.com/cl-digraph/][cl-digraph: an implementation of a mutable directed graph data structure for Common Lisp]]. ~ Steve Losh. #CommonLisp #Math
+
 *** 12-Ene-25
 + [[https://hal.science/hal-04859455/document][Prouver que π est irrationnel avec MathComp-Analysis]]. ~ Reynald Affeldt. #ITP #Coq #Rocq #Math
 + [[https://hal.science/hal-04859508v1/file/jfla2025-final76.pdf][Reconciling impredicative axiom and universe]]. ~ Stefan Monnier. #ITP #Coq #Rocq #HoTT
