@@ -70,6 +70,16 @@ its content.
 
 ** Enero 2025
 
+*** 14-Ene-25
++ [[https://dl.acm.org/doi/pdf/10.1145/3703595.3705882][An Isabelle/HOL framework for synthetic completeness proofs]]. ~ Asta Halkjær From. #ITP #IsabelleHOL
++ [[https://dl.acm.org/doi/pdf/10.1145/3703595.3705889][An Isabelle formalization of co-rewrite pairs for non-reachability in term rewriting]]. ~ Dohan Kim, Teppei Saito, René Thiemann, Akihisa Yamada. #ITP #IsabelleHOL
++ [[https://dl.acm.org/doi/pdf/10.1145/3703595.3705881][Formalizing simultaneous critical pairs for confluence of left-linear rewrite systems]]. ~ Christina Kirk, Aart Middeldorp. #ITP #IsabelleHOL
++ [[https://dl.acm.org/doi/pdf/10.1145/3703595.3705883][Formalized Burrows-Wheeler transform]]. ~ Louis Cheung, Alistair Moffat, Christine Rizkallah. #ITP #IsabelleHOL
++ [[https://dl.acm.org/doi/pdf/10.1145/3703595.3705887][Formalizing the one-way to hiding theorem]]. ~ Katharina Heidler, Dominique Unruh. #ITP #IsabelleHOL
++ [[https://dl.acm.org/doi/pdf/10.1145/3703595.3705886][Further tackling Post correspondence problem and proof generation]]. ~ Akihiro Omori, Yasuhiko Minamide. #ITP #IsabelleHOL
++ [[https://arxiv.org/abs/2212.08515][The formal theory of monads, univalently]]. ~ Niels van der Weide. #ITP #Coq #Rocq
++ [[https://chrisdone.com/posts/hell-year-in-review-2025/][Hell (Haskell shell): Year in review]]. ~ Chris Done. #Haskell #FunctionalProgramming
+
 *** 13-Ene-25
 + [[https://www.cambridge.org/core/journals/journal-of-functional-programming/article/practical-formalization-of-monadic-equational-reasoning-in-dependenttype-theory/B59B87DE000F48B9807F24AEDB11452E][A practical formalization of monadic equational reasoning in dependent-type theory]]. ~ Reynald Affeldt, Jacques Garrigue, Takafumi Saikawa. #ITP #Coq #Rocq
 + [[https://dl.acm.org/doi/pdf/10.1145/3704889][Coinductive proofs for temporal hyperliveness]]. ~ Arthur Correnson, Bernd Finkbeiner. #ITP #Coq #Rocq
