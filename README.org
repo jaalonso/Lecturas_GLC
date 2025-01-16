@@ -70,6 +70,14 @@ its content.
 
 ** Enero 2025
 
+*** 15-Ene-25
++ [[https://youtu.be/ZPPDktjL1Lw][Root systems and root data in Mathlib]]. ~ Oliver Nash. #ITP #LeanProver
++ [[https://youtu.be/734jMwgjkkM][An introduction to linters]]. ~ Damiano Testa. #ITP #LeanProver
++ [[https://youtu.be/gRANtwNOZQY][Efficient forward reasoning for Aesop]]. ~ Xavier Généreux, Jannis Limperg. #ITP #LeanProver
++ [[https://youtu.be/pV6BIImkToU][The ∞-cosmos project: formalizing 1-, 2-, V-, and ∞-category theory]]. ~ Emily Riehl. #ITP #LeanProver
++ [[https://youtu.be/67Ea9WbeAPI][Searching for proof improvements with tryAtEachStep]]. ~ David Renshaw. #ITP #LeanProver
++ [[https://youtu.be/wOQuW6QFdos][From Aristotle to the iPhone]]. ~ Moshe Vardi. #Logic #Math #CompSci
+
 *** 14-Ene-25
 + [[https://dl.acm.org/doi/pdf/10.1145/3703595.3705882][An Isabelle/HOL framework for synthetic completeness proofs]]. ~ Asta Halkjær From. #ITP #IsabelleHOL
 + [[https://dl.acm.org/doi/pdf/10.1145/3703595.3705889][An Isabelle formalization of co-rewrite pairs for non-reachability in term rewriting]]. ~ Dohan Kim, Teppei Saito, René Thiemann, Akihisa Yamada. #ITP #IsabelleHOL
