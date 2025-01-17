@@ -70,6 +70,19 @@ its content.
 
 ** Enero 2025
 
+*** 16-Ene-25
++ [[https://adam.math.hhu.de][Game "An introduction to constructive logic"]]. ~ Mark Fischer et als./#/g/trequetrum/lean4game-logic #ITP #LeanProver #Logic
++ [[https://youtu.be/bmqEmc1nkkU][Vertex algebras in Mathlib: coming soon?]] ~ Scott Carnahan. #ITP #LeanProver #Math
++ [[https://youtu.be/bTueWi6OdSg][Real world autoformalization]]. ~ Siddhartha Gadgil. #ITP #LeanProver #Math
++ [[https://youtu.be/1uBhzXy9UqA][Building a formal verification framework for smart contracts]]. ~ Jakob von Raumer. #ITP #LeanProver
++ [[https://youtu.be/JAJCydIRAwA][The last mile: How do we make AI theorem provers which work in the real world for real users and not just on benchmarks?]] ~ Jason Rute. #ITP #LeanProver #AI
++ [[https://youtu.be/7M7Z-iDMM8Y][Information theory in Lean: the DPI]]. ~ Lorenzo Luccioli. #ITP #LeanProver
++ [[https://youtu.be/9eI3eI7YssE][A nimble introduction to nimbers]]. ~ Violeta Hernández Palacios. #ITP #LeanProver #Math
++ [[https://csimmaviktor.web.elte.hu/acorn.pdf][An agda2hs-compatible representation of exact real arithmetic]]. ~ Viktor Csimma. #ITP #Agda #FunctionalProgramming #Haskell
++ [[https://arxiv.org/abs/2501.08569][Evaluating SAT and SMT solvers on large-scale sudoku puzzles]]. ~ Liam Davis, Tairan Ji. #SAT #SMT
++ [[https://www.youtube.com/live/ww4C3jlsesw][The Haskell Unfolder Episode 38: tasting and testing CUDA (map, fold, scan)]]. ~ Edsko de Vries, Andres Löh. #Haskell #FunctionalProgramming
++ [[https://arxiv.org/abs/2412.03205][U-MATH: A university-level benchmark for evaluating mathematical skills in LLMs]]. ~ Konstantin Chernyshev, Vitaliy Polshkov, Ekaterina Artemova, Alex Myasnikov, Vlad Stepanov, Alexei Miasnikov, Sergei Tilga. #LLMs #Math
+
 *** 15-Ene-25
 + [[https://youtu.be/ZPPDktjL1Lw][Root systems and root data in Mathlib]]. ~ Oliver Nash. #ITP #LeanProver
 + [[https://youtu.be/734jMwgjkkM][An introduction to linters]]. ~ Damiano Testa. #ITP #LeanProver
