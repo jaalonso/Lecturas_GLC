@@ -70,6 +70,16 @@ its content.
 
 ** Enero 2025
 
+*** 17-Ene-25
++ [[https://arxiv.org/abs/2501.09418][Verified and optimized implementation of orthologic proof search]]. ~ Simon Guilloud, Clément Pit-Claudel. #ITP #Coq #Rocq #Logic
++ [[https://youtu.be/cabiomTEWe0][Scaling mathlib: tooling and automation for an ever-growing mathematics library]]. ~ Michael Rothgang. #ITP #LeanProver
++ [[https://youtu.be/w29spLdOFrY][Progress report on the Carleson Project]]. ~ Floris van Doorn. #ITP #LeanProver #Math
++ [[https://youtu.be/Nnxp92NGB9c][Egg: An equality saturation tactic in Lean]]. ~ Marcus Rossel et als. #ITP #LeanProver
++ [[https://youtu.be/T9fhMJmJRAw][lean-SMT]]. ~ Abdalrhman Mohamed. #ITP #LeanProver
++ [[https://youtu.be/4yLegqAU6W8][Toward functor quasi-categories in Lean]]. ~ Jack McKoen. #ITP #LeanProver
++ [[https://youtu.be/nEMaiZD3iQk][Verified foundations for differential privacy]]. ~ Jean-Baptiste Tristan. #ITP #LeanProver
++ [[https://www.johndcook.com/blog/2025/01/16/can-ai-models-reason-is-data-all-you-need-2/][Can AI models reason: Is data all you need?]] ~ Wayne Joubert. #AI #LLMs #Reasoning
+
 *** 16-Ene-25
 + [[https://adam.math.hhu.de][Game "An introduction to constructive logic"]]. ~ Mark Fischer et als./#/g/trequetrum/lean4game-logic #ITP #LeanProver #Logic
 + [[https://youtu.be/bmqEmc1nkkU][Vertex algebras in Mathlib: coming soon?]] ~ Scott Carnahan. #ITP #LeanProver #Math
