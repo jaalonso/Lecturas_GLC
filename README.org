@@ -70,6 +70,17 @@ its content.
 
 ** Enero 2025
 
+*** 18-Ene-25
++ [[https://theses.hal.science/tel-04884651/document][Formal proofs in applied mathematics: A Coq formalization of simplicial Lagrange finite elements]]. ~ Houda Mouhcine. #ITP #Coq #Rocq #Math
++ [[https://escholarship.org/uc/item/0b2298fh][Neurosymbolic tools for effective coding and debugging]]. ~ Georgios Sakkas. #AI #MachineLearning #LLMs
++ [[https://funcall.blogspot.com/2025/01/iteration.html][Iteration]]. ~ Joe Marshall. #CommonLisp
++ [[https://lisp-docs.github.io/docs/tutorial][Lisp tutorial]]. ~ Daniel Nussenbaum. #CommonLisp
++ [[https://blog.djhaskin.com/blog/release-common-lisp-on-your-first-day/][Release Common Lisp on your first day]]. ~ Dan's Musings. #CommonLisp
++ [[https://github.com/Dimercel/listopia][Listopia: List manipulation library inspired by Haskell package Data.List]]. ~ Ito Dimercel. #CommonLisp #Haskell
++ [[https://youtu.be/cKK-Y1-jAHM][Lisp programming language (Full course for beginners)]]. ~ Alberto Lerda. #CommonLisp
++ [[https://books.google.nl/books?id=sgfXEAAAQBAJ&newbks=1&newbks_redir=0&lpg=PP1&hl=es&pg=PP1#v=onepage&q&f=false][Neuro symbolic reasoning and learning]]. ~ Paulo Shakarian, Chitta Baral, Gerardo I. Simari, Bowen Xi, Lahari Pokala. #Logic #AI #MachineLearning
++ [[https://arstechnica.com/ai/2025/01/how-i-program-with-llms/][How I program with LLMs]]. ~ David Crawshaw. #LLMs #Programming
+
 *** 17-Ene-25
 + [[https://arxiv.org/abs/2501.09418][Verified and optimized implementation of orthologic proof search]]. ~ Simon Guilloud, Clément Pit-Claudel. #ITP #Coq #Rocq #Logic
 + [[https://youtu.be/cabiomTEWe0][Scaling mathlib: tooling and automation for an ever-growing mathematics library]]. ~ Michael Rothgang. #ITP #LeanProver
