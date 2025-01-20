@@ -70,6 +70,12 @@ its content.
 
 ** Enero 2025
 
+*** 19-Ene-25
++ [[https://github.com/marcusrossel/verified-compiler][A toy example of a verified compiler]]. ~ Marcus Rossel. #ITP #LeanProver
++ [[https://reasonablypolymorphic.com/blog/code-lenses/index.html][A new perspective on lenses]]. ~ Sandy Maguire. #Haskell #FunctionalProgrammingo
++ [[https://arxiv.org/abs/2501.09223][Foundations of Large Language Models]]. ~ Tong Xiao, Jingbo Zhu. #eBook #AI #LLMs
++ [[https://zenodo.org/records/14673347][Language models and structured data]]. ~ Mehwish Alam. #LLMs
+
 *** 18-Ene-25
 + [[https://theses.hal.science/tel-04884651/document][Formal proofs in applied mathematics: A Coq formalization of simplicial Lagrange finite elements]]. ~ Houda Mouhcine. #ITP #Coq #Rocq #Math
 + [[https://escholarship.org/uc/item/0b2298fh][Neurosymbolic tools for effective coding and debugging]]. ~ Georgios Sakkas. #AI #MachineLearning #LLMs
