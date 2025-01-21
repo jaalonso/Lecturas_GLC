@@ -70,6 +70,23 @@ its content.
 
 ** Enero 2025
 
+*** 20-Ene-25
++ [[https://arxiv.org/abs/2501.09769][Classifying the groups of order pq in Lean]]. ~ Scott Harper, Peiran Wu. #ITP #LeanProver #Math
++ [[https://arxiv.org/abs/2409.18030][Certifying rings of integers in number fields]]. ~ Anne Baanen, Alain Chavarri Villarello, Sander R. Dahmen. #ITP #LeanProver #Math
++ [[https://leanfirststeps.blogspot.com/2025/01/22-recursion.html][Lean: First steps (22 - Recursion)]]. ~ Tariq Rashid. #ITP #LeanProver #Lean4 #Math
++ [[https://youtu.be/McHUB7pyj6I][Lean: First steps (22 - Recursion) [Video]]]. ~ Tariq Rashid. #ITP #LeanProver #Lean4 #Math
++ [[https://youtube.com/playlist?list=PLlF-CfQhukNlzXdQvu1SVt9vcD4--fLlg][Lean Together 2025]]. #ITP #LeanProver
++ [[https://arxiv.org/abs/2501.10127][A formally verified IEEE 754 floating-point implementation of interval iteration for MDPs]]. ~ Bram Kohlen, Maximilian Schäffeler, Mohammad Abzulaziz, Arnd Hartmanns, Peter Lammich. #ITP #IsabelleHOL
++ [[https://abhinavsarkar.net/posts/brainfuck-interpreter/][Interpreting Brainfuck in Haskell]]. ~ Abhinav Sarkar. #Haskell #FunctionalProgramming
++ [[https://personal.cis.strath.ac.uk/conor.mcbride/pub/hasochism.pdf][Hasochism: The pleasure and pain of dependently typed Haskell programming]]. ~ Sam Lindley, Conor McBride. #Haskell #FunctionalProgramming
++ [[https://arxiv.org/abs/2501.10102v1][An efficient algorithm for permutation iteration using a singly linked list]]. ~ Thomas Baruchel. #CommonLisp #Algorithms
++ [[https://janet-lang.org/][Janet: a functional and imperative programming language]]. #JanetLang #FunctionalProgramming
++ [[https://janet.guide/][Janet for mortals (a real book)]]. ~ Ian Henry. #JanetLang #FunctionalProgramming
++ [[https://github.com/ianthehenry/bauble][Bauble: A playground for making 3D art with lisp and math]]. ~ Ian Henry et als. #JanetLang #FunctionalProgramming
++ [[https://ianthehenry.com/posts/bauble/building-bauble/][Building Bauble]]. ~ Ian Henry #JanetLang #FunctionalProgramming
++ [[https://github.com/ahungry/awesome-janet][Awesome Janet: Curated list of libraries and tooling for the Janet programming language]]. ~ Matthew Carter. #JanetLang #FunctionalProgramming
++ [[https://arxiv.org/abs/2501.08774][How developers interact with AI: A taxonomy of human-AI collaboration in software engineering]]. ~ Christoph Treude, Marco A. Gerosa. #AI #LLMs #Programming
+
 *** 19-Ene-25
 + [[https://github.com/marcusrossel/verified-compiler][A toy example of a verified compiler]]. ~ Marcus Rossel. #ITP #LeanProver
 + [[https://reasonablypolymorphic.com/blog/code-lenses/index.html][A new perspective on lenses]]. ~ Sandy Maguire. #Haskell #FunctionalProgrammingo
