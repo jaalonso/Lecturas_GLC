@@ -70,6 +70,12 @@ its content.
 
 ** Enero 2025
 
+*** 21-Ene-25
++ [[https://youtu.be/h5Xy4YjCZxM][Describing domino tilings with Prolog]]. ~ Markus Triska. #Prolog #LogicProgramming
++ [[https://xenaproject.wordpress.com/2025/01/20/think-of-a-number/][Think of a number]]. ~ Kevin Buzzard. #AI #LLMs #Math
++ [[https://www.isa-afp.org/entries/Negative_Association.html][Negatively associated random variables (in Isabelle/HOL)]]. ~ Emin Karayel. #ITP #IsabelleHOL #Math
++ [[https://www.gaussianos.com/las-series-de-kempner-o-que-ocurre-cuando-quito-un-digito/][Las series de Kempner, o qué ocurre cuando quito un dígito]]. ~ Miguel Ángel Morales. #Matemáticas
+
 *** 20-Ene-25
 + [[https://arxiv.org/abs/2501.09769][Classifying the groups of order pq in Lean]]. ~ Scott Harper, Peiran Wu. #ITP #LeanProver #Math
 + [[https://arxiv.org/abs/2409.18030][Certifying rings of integers in number fields]]. ~ Anne Baanen, Alain Chavarri Villarello, Sander R. Dahmen. #ITP #LeanProver #Math
