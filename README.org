@@ -70,6 +70,29 @@ its content.
 
 ** Enero 2025
 
+*** 22-Ene-25
++ [[https://arxiv.org/abs/2501.10852][Formalising new mathematics in Isabelle: Diagonal Ramsey]]. ~ Lawrence C Paulson. #ITP #IsabelleHOL #Math
++ [[https://arxiv.org/abs/2501.10802][Logical relations for formally verified authenticated data structures]]. ~ Simon Oddershede Gregersen, Chaitanya Agarwal, Joseph Tassarotti. #ITP #Coq #Rocq
++ [[https://blog.jle.im/entry/advent-of-code-2024.html][Advent of Code 2024: Haskell solution reflections for all 25 days]]. ~ Justin Le. #Haskell #FunctionalProgramming
++ [[https://youtu.be/O12SZqIwYCk][Scientific computing in Lean]]. ~ Tomas Skrivan. #ITP #LeanProver #Math
++ [[https://youtu.be/I7HgWMnlFfM][Alpha-beta pruning explored, extended and verified]]. ~ Tobias Nipkow. #ITP #IsabelleHOL
++ [[https://youtu.be/hrad_luUMC0][Can a computer judge interestingness?]] ~ Michael Douglas. #AI #Math
++ [[https://youtu.be/HBPg-K9ieng][Formalising real algebraic geometry]]. ~ Artie Khovanov, Michael Nedzelsky, Wenda Li. #ITP #IsabelleHOL #Math
++ [[https://youtu.be/i5Y6yskMupI][The Mandelbrot set is connected (and other Lean explorations)]]. ~ Geoffrey Irving. #ITP #LeanProver #Math
++ [[https://youtu.be/zIY93BZItIM][Formalising theory of combinatorial optimisation]]. ~ Mohammad Abdulaziz. #ITP #IsabelleHOL #Math
++ [[https://youtu.be/dJtF4P0XVUM][Condensed type theory]]. ~ Johan Commelin. #ITP #LeanProver #Math
++ [[https://youtu.be/u99bCHubf4w][How to prove Fermat's Last Theorem]]. ~ Kevin Buzzard. #ITP #LeanProver #Math
++ [[https://youtu.be/n1bko_uMseg][Structures in dependent type theory]]. ~ Jeremy Avigad. #ITP #LeanProver
++ [[https://youtu.be/QGBgQtPZTdU][Comparative formalisation of Kneser's theorem]]. ~ Mantas Bakšys, Yaël Dillies. #ITP #IsabelleHOL #LeanProver #Math
++ [[https://youtu.be/24T339nz9ik][Lawvere theories in Lean]]. ~ Adam Topaz. #ITP #LeanProver #Math
++ [[https://youtu.be/0U3qWmIbMns][How to teach Fourier analysis to a large library of formalised mathematics]]. ~ Yaël Dillies. #ITP #LeanProver #Math
++ [[https://youtu.be/HeQKT6OeIX4][Computer algebra and the formalisation of new mathematics]]. ~ Lawrence Paulson. #ITP #IsabelleHOL #Math
++ [[https://youtu.be/QCRLwC5JQw0][Formalizing the divided power envelope in Lean]]. ~ María Inés de Frutos Fernández. #ITP #LeanProver #Math
++ [[https://youtu.be/2MBe6minTfE][New Foundations: the story of a large formalisation project]]. ~ Sky Wilshaw. #ITP #LeanProver #Math
++ [[https://arxiv.org/abs/2501.10465][The mathematics of Artificial Intelligence]]. ~ Gabriel Peyré. #AI #Math
++ [[https://arxiv.org/abs/2412.12361][The Ramanujan Library (Automated discovery on the hypergraph of integer relations)]]. ~ Itay Beit-Halachmi, Ido Kaminer. #Math #CompSci
++ [[https://wikenigma.org.uk][Wikenigma: An encyclopedia of unknowns]]. #Math #CompSci
+
 *** 21-Ene-25
 + [[https://youtu.be/h5Xy4YjCZxM][Describing domino tilings with Prolog]]. ~ Markus Triska. #Prolog #LogicProgramming
 + [[https://xenaproject.wordpress.com/2025/01/20/think-of-a-number/][Think of a number]]. ~ Kevin Buzzard. #AI #LLMs #Math
