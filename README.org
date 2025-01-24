@@ -70,6 +70,12 @@ its content.
 
 ** Enero 2025
 
+*** 23-Ene-25
++ [[https://lawrencecpaulson.github.io//2025/01/22/Dirichlet_Approx.html][Formalising an easy proof: Dirichlet's approximation theorem]]. ~ Lawrence Paulson. #ITP #IsabelleHOL #Math
++ [[https://gasstationmanager.github.io/ai/2025/01/22/hallucination.html][Hallucination detection and recovery: Initial experiment]]. ~ GasStationManager. #LLMs #ITP #LeanProver
++ [[https://agileabstractions.com/advanced-python-course/][Advanced Python course]]. ~ Michael Foord. #Python #Programming
++ [[https://www.microsiervos.com/archivo/ia/eliza-psicoterapeuta-ia-rescatada-arqueologia-informatica.html][ELIZA, la primera psicoterapeuta programada con IA, rescatada del olvido gracias a la arqueología informática]]. ~ @Alvy. #IA
+
 *** 22-Ene-25
 + [[https://arxiv.org/abs/2501.10852][Formalising new mathematics in Isabelle: Diagonal Ramsey]]. ~ Lawrence C Paulson. #ITP #IsabelleHOL #Math
 + [[https://arxiv.org/abs/2501.10802][Logical relations for formally verified authenticated data structures]]. ~ Simon Oddershede Gregersen, Chaitanya Agarwal, Joseph Tassarotti. #ITP #Coq #Rocq
