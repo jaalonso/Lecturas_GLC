@@ -70,6 +70,22 @@ its content.
 
 ** Enero 2025
 
+*** 24-Ene-25
++ [[https://arxiv.org/abs/2501.13712][Formally verified neurosymbolic trajectory learning via tensor-based linear temporal logic on finite traces]]. ~ Mark Chevallier, Filip Smola, Richard Schmoetten, Jacques D. Fleuriot. #ITP #IsabelleHOL #NeuroSymbolicAI
++ [[https://reasonablypolymorphic.com/blog/code-lenses/][A new perspective on lenses]]. ~ Sandy Maguire. #Haskell #FunctionalProgramming
++ [[https://jtobin.io/fast-haskell-redux][Fast Haskell, Redux]]. ~ Jared Tobin. #Haskell #FunctionalProgramming
++ [[https://acatalepsie.fr/posts/making-my-life-easier-with-gadts.html][Making my life easier with GADTs]]. ~ Lucas Escot. #Haskell #FunctionalProgramming
++ [[https://www.parsonsmatt.org/2025/01/21/making_my_life_harder_with_gadts.html][Making my life harder with GADTs]]. Matt Parsons. #Haskell #FunctionalProgramming
++ [[http://systema10.org/posts/making-my-life-easier-with-two-gadts.html][Making my life easier with two GADTs]]. ~ borar. #Haskell #FunctionalProgramming
++ [[https://laurentrdc.xyz/posts/HKTGenerics.html][Modeling dataframes in Haskell using higher-kinded types]]. ~ Laurent P. René de Cotret. #Haskell #FunctionalProgramming
++ [[https://jezenthomas.com/2025/01/style-guide/][Supercede’s house style for Haskell]]. ~ Jezen Thomas. #Haskell #FunctionalProgramming
++ [[https://well-typed.com/blog/2025/01/trace-foreign-calls/][Tracing foreign function invocations]]. ~ Edsko de Vries, Zubin Duggal, Matthew Pickering. #Haskell #FunctionalProgramming
++ [[https://seldo.com/posts/what-ive-learned-about-writing-ai-apps-so-far][What I've learned about writing AI apps so far]]. ~ Laurie Voss. #AI #LLMs
++ [[https://spectrum.ieee.org/ai-mistakes-schneier][AI mistakes are very different than human mistakes]]. ~ Bruce Schneier, Nathan E. Sanders. #AI #LLMs #GenerativeAI
++ [[https://www.microsiervos.com/archivo/ia/como-trabajar-dia-dia-ia-no-morir-intento.html][Cómo trabajar en el día a día con una IA y no morir en el intento]]. ~ @Alvy. #AI #LLMs
++ [[https://www.microsiervos.com/archivo/ia/deepseek-nuevo-modelo-ia-razonamiento-logico-resolucion-problemas-licencia-abierta-mit.html][DeepSeek: un nuevo modelo de IA especializado en razonamiento lógico, resolución de problemas y con licencia abierta MIT]]. No tiene nada que envidiar a los de OpenAI. ~ @Alvy. #AI #LLMs #DeepSeek
++ [[https://www.deepseek.com][DeepSeek: Into the unknown (Free access to DeepSeek-V3)]]. #AI #LLMs #DeepSeek
+
 *** 23-Ene-25
 + [[https://lawrencecpaulson.github.io//2025/01/22/Dirichlet_Approx.html][Formalising an easy proof: Dirichlet's approximation theorem]]. ~ Lawrence Paulson. #ITP #IsabelleHOL #Math
 + [[https://gasstationmanager.github.io/ai/2025/01/22/hallucination.html][Hallucination detection and recovery: Initial experiment]]. ~ GasStationManager. #LLMs #ITP #LeanProver
