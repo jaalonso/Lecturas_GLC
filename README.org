@@ -70,6 +70,16 @@ its content.
 
 ** Enero 2025
 
+*** 25-Ene-25
++ [[https://sarajuhosova.com/assets/files/2025-icpc.pdf][Pinpointing the learning obstacles of an interactive theorem prover]]. ~ Sára Juhošová, Andy Zaidman, Jesper Cockx. #ITP #Agda
++ [[https://arxiv.org/abs/2501.10802][Logical relations for formally verified authenticated data structures]]. ~ Simon Oddershede Gregersen, Chaitanya Agarwal, Joseph Tassarotti. #ITP #Coq #Rocq
++ [[https://www.isa-afp.org/entries/Combinatorial_Q_Analogues.html][Combinatorial q-analogues (in Isabelle/HOL)]]. ~ Manuel Eberl. #ITP #IsabelleHOL #Math
++ [[https://www.isa-afp.org/entries/Theta_Functions.html][Theta functions (in Isabelle/HOL)]]. ~ Manuel Eberl. #ITP #IsabelleHOL #Math
++ [[https://www.isa-afp.org/entries/Rogers_Ramanujan.html][The Rogers–Ramanujan identities (in Isabelle/HOL)]]. ~ Manuel Eberl. #ITP #IsabelleHOL #Math
++ [[https://reasonablypolymorphic.com/blog/use-monoids/index.html][Use monoids for construction]]. ~ Sandy Maguire. #Haskell #FunctionalProgramming
++ [[https://arxiv.org/abs/2501.10406][Calculus for the modern engineer: Putting the joy back in learning advanced mathematics]]. ~ Jessy Grizzle. #Math #JuliaLang
++ [[https://grizzle.robotics.umich.edu/files/ROB_201_Textbook_Calculus16December2024.pdf][Calculus for the modern engineer (Textbook)]]. ~ Jessy Grizzle et als. #Math #JuliaLang #LLMs
+
 *** 24-Ene-25
 + [[https://arxiv.org/abs/2501.13712][Formally verified neurosymbolic trajectory learning via tensor-based linear temporal logic on finite traces]]. ~ Mark Chevallier, Filip Smola, Richard Schmoetten, Jacques D. Fleuriot. #ITP #IsabelleHOL #NeuroSymbolicAI
 + [[https://reasonablypolymorphic.com/blog/code-lenses/][A new perspective on lenses]]. ~ Sandy Maguire. #Haskell #FunctionalProgramming
