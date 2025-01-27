@@ -70,6 +70,11 @@ its content.
 
 ** Enero 2025
 
+*** 26-Ene-25
++ [[https://arxiv.org/abs/2501.12906][Certified knowledge compilation with application to formally verified model counting]]. ~ Randal E. Bryant, Wojciech Nawrocki, Jeremy Avigad, Marijn J. H. Heule. #ITP #LeanProver
++ [[https://hvg.ece.concordia.ca/Publications/Thesis/Elif-PhD-Thesis.pdf][Formalization of partial differential equations using HOL theorem proving]]. ~ Elif Deniz. #ITP #HOL_Light #Math
++ [[https://youtu.be/HT0qJTB_f0s][Math Encounters: "You want proof? I'll give you proof! (Mathematical arguments from Euclid to Lean)"]]. ~ Jeremy Avigad. #ITP #LeanProver #Math
+
 *** 25-Ene-25
 + [[https://sarajuhosova.com/assets/files/2025-icpc.pdf][Pinpointing the learning obstacles of an interactive theorem prover]]. ~ Sára Juhošová, Andy Zaidman, Jesper Cockx. #ITP #Agda
 + [[https://arxiv.org/abs/2501.10802][Logical relations for formally verified authenticated data structures]]. ~ Simon Oddershede Gregersen, Chaitanya Agarwal, Joseph Tassarotti. #ITP #Coq #Rocq
