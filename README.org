@@ -70,6 +70,16 @@ its content.
 
 ** Enero 2025
 
+*** 28-Ene-25
++ [[https://scholarlypublications.universiteitleiden.nl/handle/1887/4176739][The directed Van Kampen Theorem in Lean]]. ~ Henning Basoldm, Peter Bruin, Dominique Lawson. #ITP #LeanProver #Math
++ [[https://bitsandtheorems.com/the-simplicity-of-prolog/][The simplicity of Prolog]]. ~ Ties Westendorp. #Prolog #LogicProgramming
++ [[https://beautifulracket.com/][Beautiful Racket (An introduction to language-oriented programming using Racket)]]. ~ Matthew Butterick. #Racket #FunctionalProgramming
++ [[https://adam.math.hhu.de][New game posted on Lean Game Server: Reasoning]]. ~ Jad Abou Hawili./#/g/jadabouhawili/knightsandknaves-lean4game #ITP #LeanProver
++ [[https://youtube.com/playlist?list=PLX21uJ4UfpF43NExUcPcAEgnzV58x_26l][Lean for scientists and engineers]]. ~ Tyler Josephson. #ITP #LeanProver
++ [[https://github.com/lean-mine][lean-mine: A collection of problems solved in Lean]]. #ITP #LeanProver #Math
++ [[https://github.com/lean-mine/baby-rudin-project][Baby Rudin project: An attempt to formalize every problem in Baby Rudin with natural language description]]. #ITP #LeanProver #Math
++ [[https://youtu.be/SeVb2DPqvx0][Homo ratiocinator (Reckoning human)]]. ~ Moshe Vardi. #Logic #Math
+
 *** 26-Ene-25
 + [[https://arxiv.org/abs/2501.12906][Certified knowledge compilation with application to formally verified model counting]]. ~ Randal E. Bryant, Wojciech Nawrocki, Jeremy Avigad, Marijn J. H. Heule. #ITP #LeanProver
 + [[https://hvg.ece.concordia.ca/Publications/Thesis/Elif-PhD-Thesis.pdf][Formalization of partial differential equations using HOL theorem proving]]. ~ Elif Deniz. #ITP #HOL_Light #Math
