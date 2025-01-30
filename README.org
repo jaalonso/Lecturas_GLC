@@ -70,6 +70,10 @@ its content.
 
 ** Enero 2025
 
+*** 29-Ene-25
++ [[https://www.isa-afp.org/entries/Mission_Time_LTL.html][Mission-time linear temporal logic (in Isabelle/HOL)]]. ~ Katherine Kosaian, Zili Wang, Elizabeth Sloan. #ITP #IsabelleHOL
++ [[https://www.isa-afp.org/entries/Mission_Time_LTL_to_Regular_Expression.html][Mission-time linear temporal logic to regular expressions (in Isabelle/HOL)]]. ~ Zili Wang, Katherine Kosaian. #ITP #IsabelleHOL
+
 *** 28-Ene-25
 + [[https://scholarlypublications.universiteitleiden.nl/handle/1887/4176739][The directed Van Kampen Theorem in Lean]]. ~ Henning Basoldm, Peter Bruin, Dominique Lawson. #ITP #LeanProver #Math
 + [[https://bitsandtheorems.com/the-simplicity-of-prolog/][The simplicity of Prolog]]. ~ Ties Westendorp. #Prolog #LogicProgramming
