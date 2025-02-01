@@ -70,6 +70,10 @@ its content.
 
 ** Enero 2025
 
+*** 31-Ene-25
++ [[https://wintered.github.io/SolidifyingModernSMTSolvers.pdf][Solidifying modern SMT solvers]]. ~ Dominik Winterer. #SMT
++ [[https://github.com/ashok-khanna/lisp-notes][The Common Lisp Cheat Sheet]]. ~ Ashok Khanna. #CommonLisp
+
 *** 30-Ene-25
 + [[https://arxiv.org/abs/2501.10127][A formally verified IEEE 754 floating-point implementation of interval iteration for MDPs]]. ~ Bram Kohlen, Maximilian Schäffeler, Mohammad Abdulaziz, Arnd Hartmanns, Peter Lammich. #ITP #IsabelleHOL
 + [[https://github.com/teorth/expdb][Analytic number theory exponent database]]. ~ Terence Tao et als. #ITP #LeanProver #Math
