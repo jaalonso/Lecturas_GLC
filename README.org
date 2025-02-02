@@ -11,6 +11,7 @@ its content.
 
 * Content                                                                      :TOC:
 - [[#lecturas-del-año-2024][Lecturas del año 2024]]
+  - [[#febrero-2025][Febrero 2025]]
   - [[#enero-2025][Enero 2025]]
 - [[#lecturas-del-año-2024-1][Lecturas del año 2024]]
   - [[#diciembre-2024][Diciembre 2024]]
@@ -67,6 +68,21 @@ its content.
 - [[#lecturas-anteriores][Lecturas anteriores]]
 
 * Lecturas del año 2024
+
+** Febrero 2025
+
+*** 01-Feb-25
++ [[https://arxiv.org/abs/2501.15639][The continuous functional calculus in Lean]]. ~ Anatole Dedecker, Jireh Loreaux. #ITP #LeanProver #Math
++ [[https://arxiv.org/abs/2501.17444][Formally verifying a transformation from MLTL formulas to regular expressions]]. ~ Zili Wang, Katherine Kosaian, Kristin Yvonne Rozier. #ITP #IsabelleHOL
++ [[https://arxiv.org/abs/2501.17766][Formally verified binary-level pointer analysis]]. ~ Freek Verbeek, Ali Shokri, Daniel Engel, Binoy Ravindran. #ITP #IsabelleHOL
++ [[https://www.diva-portal.org/smash/get/diva2:1932311/FULLTEXT01.pdf][A formal semantics of Core Erlang]]. ~ Ibrahim Abdelrahman Mohamedi. #ITP #IsabelleHOL #Erlang
++ [[https://iris-project.org/pdfs/2025-esop-gitrees.pdf][Context-dependent effects in guarded interaction trees]]. ~ Sergei Stepanenko, Emma Nardino, Dan Frumin, Amin Timany, Lars Birkedal. #ITP #Coq
++ [[https://arxiv.org/abs/2501.14421v1][Reasoning about weak isolation levels in separation logic]]. ~ Anders Alnor Mathiasen, Léon Gondelman, Léon Ducruet, Amin Timany, Lars Birkedal. #ITP #Coq
++ [[https://arxiv.org/abs/2501.13959][Assisting mathematical formalization with a learning-based premise retriever]]. ~ Yicheng Tao, Haotian Liu, Shanwen Wang, Hongteng Xu. #AI #LLMs #ITP #LeanProver #Math
++ [[https://link.springer.com/article/10.1007/s11245-025-10164-w][How to recognize artificial mathematical intelligence in theorem proving]]. ~ Markus Pantsar. #AI #Math #ITP
++ [[https://arxiv.org/abs/2501.15797][LemmaHead: RAG assisted proof generation using large language models]]. ~ Tianbo Yang, Mingqi Yang, Hongyi Zhao, Tianshuo Yang. #AI #LLMs #ITP #LeanProver #Math
++ [[https://arxiv.org/abs/2501.16961][Instantiation-based formalization of logical reasoning tasks using language models and logical solvers]]. ~ Mohammad Raza, Natasa Milic-Frayling. #LLMs #Reasoning #SMT #Z3
++ [[https://arxiv.org/abs/2501.16207][From informal to formal (Incorporating and evaluating LLMs on natural language requirements to verifiable formal proofs)]]. ~ Jialun Cao et als. #AI #LLMs #ITP #Coq #LeanProver #Math
 
 ** Enero 2025
 
