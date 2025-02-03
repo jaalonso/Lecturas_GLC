@@ -71,6 +71,13 @@ its content.
 
 ** Febrero 2025
 
+*** 02-Feb-25
++ [[https://www.isa-afp.org/entries/Transitive_Union_Closed_Families.html][Transitive union-closed families (in Isabelle/HOL)]]. ~ Angeliki Koutsoukou-Argyraki, Lawrence C. Paulson. #ITP #IsabelleHOL
++ [[https://www.isa-afp.org/entries/Notes_On_Goedels_Ontological_Argument.html][Notes on Gödel’s and Scott’s variants of the ontological argument (Isabelle/HOL dataset)]]. ~ Christoph Benzmüller, Dana Scott. #ITP #IsabelleHOL
++ [[https://mathscholar.org/2025/02/deepseek-a-breakthrough-in-ai-for-math-and-everything-else/][DeepSeek: A breakthrough in AI for math (and everything else)]]. ~ David H Bailey. #DeepSeek #Math
++ [[https://www.lesswrong.com/posts/8ZgLYwBmB3vLavjKE/some-lessons-from-the-openai-frontiermath-debacle][Some lessons from the OpenAI-FrontierMath debacle]]. ~ 7vik. #AI #Math
++ [[https://culturacientifica.com/2022/02/02/kazimierz-kuratowski-el-talento-y-el-compromiso-de-un-matematico-de-varsovia/][Kazimierz Kuratowski, el talento y el compromiso de un matemático de Varsovia]]. ~ Marta Macho Stadler. #Math
+
 *** 01-Feb-25
 + [[https://arxiv.org/abs/2501.15639][The continuous functional calculus in Lean]]. ~ Anatole Dedecker, Jireh Loreaux. #ITP #LeanProver #Math
 + [[https://arxiv.org/abs/2501.17444][Formally verifying a transformation from MLTL formulas to regular expressions]]. ~ Zili Wang, Katherine Kosaian, Kristin Yvonne Rozier. #ITP #IsabelleHOL
