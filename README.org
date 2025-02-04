@@ -71,6 +71,12 @@ its content.
 
 ** Febrero 2025
 
+*** 03-Feb-25
++ [[https://arxiv.org/abs/2501.18639][A comprehensive survey of the Lean 4 theorem prover: Architecture, applications, and advances]]. ~ Xichen Tang. #ITP #LeanProver
++ [[https://www.isa-afp.org/entries/Differential_Privacy.html][Differential privacy (in Isabelle/HOL)]]. ~ Tetsuya Sato, Yasuhiko Minamide. #ITP #IsabelleHOL
++ [[https://www.isa-afp.org/entries/DP_QBS.html][Differential privacy using quasi-Borel spaces]]. ~ Michikazu Hirata. #ITP #IsabelleHOL
++ [[https://maxima-on-wasm.pages.dev][Maxima in the browser using Embedded Common Lisp on WASM]]. #Maxima #CoomonLisp #Math
+
 *** 02-Feb-25
 + [[https://www.isa-afp.org/entries/Transitive_Union_Closed_Families.html][Transitive union-closed families (in Isabelle/HOL)]]. ~ Angeliki Koutsoukou-Argyraki, Lawrence C. Paulson. #ITP #IsabelleHOL
 + [[https://www.isa-afp.org/entries/Notes_On_Goedels_Ontological_Argument.html][Notes on Gödel’s and Scott’s variants of the ontological argument (Isabelle/HOL dataset)]]. ~ Christoph Benzmüller, Dana Scott. #ITP #IsabelleHOL
