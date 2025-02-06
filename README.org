@@ -71,6 +71,12 @@ its content.
 
 ** Febrero 2025
 
+*** 05-Feb-25
++ [[https://ceur-ws.org/Vol-3909/Paper_37.pdf][On the cofinality property in the context of the hierarchy of decreasing Church-Rosser abstract rewriting systems]]. ~ Ievgen Ivanov. #ITP #IsabelleHOL
++ [[https://arxiv.org/abs/2403.13310][A semantic search engine for Mathlib4]]. ~ Guoxiong Gao, Haocheng Ju, Jiedong Jiang, Zihan Qin, Bin Dong. #ITP #LeanProver #Mathlib
++ [[https://goedel-lm.github.io/][Goedel-Prover: A new frontier in automated theorem proving]]. ~ Yong Lin et als. #LLMs #ITP #LeanProver
++ [[https://www.quantamagazine.org/new-proofs-probe-the-limits-of-mathematical-truth-20250203/][New proofs probe the limits of mathematical truth]]. ~ Joseph Howlett. #Math
+
 *** 03-Feb-25
 + [[https://arxiv.org/abs/2501.18639][A comprehensive survey of the Lean 4 theorem prover: Architecture, applications, and advances]]. ~ Xichen Tang. #ITP #LeanProver
 + [[https://www.isa-afp.org/entries/Differential_Privacy.html][Differential privacy (in Isabelle/HOL)]]. ~ Tetsuya Sato, Yasuhiko Minamide. #ITP #IsabelleHOL
