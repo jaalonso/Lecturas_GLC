@@ -71,6 +71,12 @@ its content.
 
 ** Febrero 2025
 
+*** 06-Feb-25
++ [[https://arxiv.org/abs/2502.03432][A formalization of Borel determinacy in Lean]]. ~ Sven Manthe. #ITP #LeanProver #Math
++ [[https://arxiv.org/abs/2502.03321][Simplifying formal proof-generating models with ChatGPT and basic searching techniques]]. ~ Sangjun Han, Taeil Hur, Youngmi Hur, Kathy Sangkyung Lee, Myungyoon Lee, Hyojae Lim. #LLMs #ChatGPT #ITP #LeanProver
++ [[https://github.com/kickingvegas/elisp-for-python][Elisp cheatsheet for Python programmers]]. ~ Charles Choi. #Python #Emacs #Elisp
++ [[https://youtu.be/wPSP7RoWdBo][La categoría de conjuntos abstractos]]. ~ Luis Turcio. #CategoryTheory
+
 *** 05-Feb-25
 + [[https://ceur-ws.org/Vol-3909/Paper_37.pdf][On the cofinality property in the context of the hierarchy of decreasing Church-Rosser abstract rewriting systems]]. ~ Ievgen Ivanov. #ITP #IsabelleHOL
 + [[https://arxiv.org/abs/2403.13310][A semantic search engine for Mathlib4]]. ~ Guoxiong Gao, Haocheng Ju, Jiedong Jiang, Zihan Qin, Bin Dong. #ITP #LeanProver #Mathlib
