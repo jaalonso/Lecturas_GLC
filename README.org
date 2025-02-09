@@ -71,6 +71,11 @@ its content.
 
 ** Febrero 2025
 
+*** 08-Feb-25
++ [[https://www.isa-afp.org/entries/CVM_Distinct_Elements.html][Verification of the CVM algorithm with a new recursive analysis technique]]. ~ Emin Karayel, Derek Khu, Kuldeep S. Meel, Yong Kiam Tan, Seng Joe Watt. #ITP #IsabelleHOL
++ [[https://www.cambridge.org/core/services/aop-cambridge-core/content/view/E8BE1DB3FD80AB7AD92EE979893A10AC/S0956796825000024a.pdf/review_of_haskell_in_depth_by_vitaly_bragilevsky_manning_publications_2021.pdf][Review of "Haskell in depth" by Vitaly Bragilevsky]]. ~ Brent Yorgey. #Haskell #FunctionalProgramming
++ [[https://youtu.be/J4Dnqz9_HZM][Cervantes, la cuadratura del círculo y la búsqueda del punto fijo]]. ~ Tomás Domínguez Benavides. #Matemáticas
+
 *** 06-Feb-25
 + [[https://arxiv.org/abs/2502.03432][A formalization of Borel determinacy in Lean]]. ~ Sven Manthe. #ITP #LeanProver #Math
 + [[https://arxiv.org/abs/2502.03321][Simplifying formal proof-generating models with ChatGPT and basic searching techniques]]. ~ Sangjun Han, Taeil Hur, Youngmi Hur, Kathy Sangkyung Lee, Myungyoon Lee, Hyojae Lim. #LLMs #ChatGPT #ITP #LeanProver
