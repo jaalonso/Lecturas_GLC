@@ -71,6 +71,10 @@ its content.
 
 ** Febrero 2025
 
+*** 12-Feb-25
++ [[https://arxiv.org/abs/2502.00212][STP: Self-play LLM theorem provers with iterative conjecturing and proving]]. ~ Kefan Dong, Tengyu Ma. #LLMs #ITP #LeanProver #IsabelleHOL
++ [[https://arxiv.org/abs/2502.06807][Competitive programming with large reasoning models]]. ~ OpenAI. #LLMs #Programming
+
 *** 11-Feb-25
 + [[https://irreal.org/blog/?p=3632][Streams in Common Lisp]]. ~ jcs. #CommonLisp
 + [[https://kaygun.tumblr.com/post/106845304649/functional-streams][Functional streams]]. ~ Atabey Kaygun. #CommonLisp
