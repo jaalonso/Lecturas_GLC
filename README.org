@@ -71,6 +71,19 @@ its content.
 
 ** Febrero 2025
 
+*** 13-Feb-25
++ [[https://www.andrew.cmu.edu/user/avigad/Papers/obsolete.pdf][Is mathematics obsolete?]] ~ Jeremy Avigad. #Math #ITP #LeanProver #AI #LLMs
++ [[https://cgi.cse.unsw.edu.au/~eptcs/paper.cgi?ICLP2024.23.pdf][A Coq formalization of unification modulo exclusive-or]]. ~ Yichi Xu, Daniel J. Dougherty, Rose Bohrer. #ITP #Coq
++ [[https://arxiv.org/abs/2501.10802][Logical relations for formally verified authenticated data structures]]. ~ Simon Oddershede Gregersen, Chaitanya Agarwal, Joseph Tassarotti. #ITP #Coq #Rocq
++ [[https://www.isa-afp.org/entries/Hilbert_Basis.html][A proof of Hilbert basis theorem and an extension to formal power series (in Isabelle/HOL)]]. ~ Benjamin Puyobro, Benoît Ballenghien, Burkhart Wolff. #ITP #IsabelleHOL #Math
++ [[https://www.wsj.com/articles/why-amazon-is-betting-on-automated-reasoning-to-reduce-ais-hallucinations-b838849e][Why Amazon is betting on 'automated reasoning' to reduce AI's hallucinations]]. ~ Belle Lin. #AI #LLMs #ITP
++ [[https://cgi.cse.unsw.edu.au/~eptcs/paper.cgi?ICLP2024.1.pdf][On LLM-generated logic programs and their inference execution methods]]. ~ Paul Tarau. #LLMs #LogicProgramming #Prolog
++ [[https://cgi.cse.unsw.edu.au/~eptcs/paper.cgi?ICLP2024.5.pdf][LP-LM: No hallucinations in question answering with logic programming]]. ~ Katherine Wu, Yanhong A. Liu. #LLMs #LogicProgramming #Prolog
++ [[https://arxiv.org/abs/2406.07222][Improving autoformalization using type checking]]. ~ Auguste Poiroux, Gail Weiss, Viktor Kunčak, Antoine Bosselut. #Autoformalization #LLMs #ITP #LeanProver #Math
++ [[https://arxiv.org/abs/2408.15332][What makes math problems hard for reinforcement learning: a case study]]. ~ Ali Shehper et als. #LLMs #Math
++ [[https://www.researchgate.net/publication/388798780_A_Model_for_Learning-Curve_Estimation_in_Efficient_Neural_Architecture_Search_and_Its_Application_in_Predictive_Health_Maintenance][A model for learning-curve estimation in efficient neural architecture search and its application in predictive health maintenance]]. ~ David Solís-Martín, Juan Galán-Páez, Joaquín Borrego-Díaz. #AI
++ [[https://hal.science/hal-04924849/document][50 years of programming language evolution through the software Heritage looking glass]]. ~ Adèle Desmazières, Roberto Di Cosmo, Valentin Lorentz. #Programming
+
 *** 12-Feb-25
 + [[https://arxiv.org/abs/2502.00212][STP: Self-play LLM theorem provers with iterative conjecturing and proving]]. ~ Kefan Dong, Tengyu Ma. #LLMs #ITP #LeanProver #IsabelleHOL
 + [[https://arxiv.org/abs/2502.06807][Competitive programming with large reasoning models]]. ~ OpenAI. #LLMs #Programming
