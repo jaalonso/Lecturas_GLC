@@ -71,6 +71,10 @@ its content.
 
 ** Febrero 2025
 
+*** 14-Feb-25
++ [[https://www.repository.cam.ac.uk/items/6ccd12ea-25c5-4950-9dab-0f8e6fb691fd ][Language models for verifiable mathematical automation (Interaction, integration, and autoformalization)]]. ~ Qiaochu Jiang. #ITP #IsabelleHOL #LLMs #Autoformalization
++ [[https://www.youtube.com/live/NEUbp2CsuNg][The Haskell Unfolder Episode 39: Deriving strategies)]]. ~ Edsko de Vries, Andres Löh. #Haskell #FunctionalProgramming
+
 *** 13-Feb-25
 + [[https://www.andrew.cmu.edu/user/avigad/Papers/obsolete.pdf][Is mathematics obsolete?]] ~ Jeremy Avigad. #Math #ITP #LeanProver #AI #LLMs
 + [[https://cgi.cse.unsw.edu.au/~eptcs/paper.cgi?ICLP2024.23.pdf][A Coq formalization of unification modulo exclusive-or]]. ~ Yichi Xu, Daniel J. Dougherty, Rose Bohrer. #ITP #Coq
