@@ -71,6 +71,9 @@ its content.
 
 ** Febrero 2025
 
+*** 15-Feb-25
++ [[https://youtu.be/ohM1sLOmss8][Prospects for formalizing the theory of weak infinite-dimensional categories]]. ~ Emily Riehl. #ITP #LeanProver #Math
+
 *** 14-Feb-25
 + [[https://www.repository.cam.ac.uk/items/6ccd12ea-25c5-4950-9dab-0f8e6fb691fd ][Language models for verifiable mathematical automation (Interaction, integration, and autoformalization)]]. ~ Qiaochu Jiang. #ITP #IsabelleHOL #LLMs #Autoformalization
 + [[https://www.youtube.com/live/NEUbp2CsuNg][The Haskell Unfolder Episode 39: Deriving strategies)]]. ~ Edsko de Vries, Andres Löh. #Haskell #FunctionalProgramming
