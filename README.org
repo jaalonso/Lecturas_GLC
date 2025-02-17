@@ -71,6 +71,10 @@ its content.
 
 ** Febrero 2025
 
+*** 16-Feb-25
++ [[https://4m4.it/posts/category-theory-functional-programming-compositionality/][The relationship between category theory, lambda calculus, and functional programming in Haskell]]. ~ Antonio Montano. #Haskell #FunctionalProgramming #CategoryTheory #LambdaCalculus
++ [[https://arxiv.org/abs/2502.09100][Logical reasoning in large language models: A survey]]. ~ Hanmeng Liu et als. #LLMs #Logic #Reasoning
+
 *** 15-Feb-25
 + [[https://youtu.be/ohM1sLOmss8][Prospects for formalizing the theory of weak infinite-dimensional categories]]. ~ Emily Riehl. #ITP #LeanProver #Math
 
