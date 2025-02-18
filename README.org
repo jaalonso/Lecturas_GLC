@@ -71,6 +71,14 @@ its content.
 
 ** Febrero 2025
 
+*** 17-Feb-25
++ [[https://muratkasimov.art/Ya/Articles/Natural-transformation-as-a-basis-of-control][Natural transformations as a basis of control]]. ~ Murat Kasimov. #Haskell #FunctionalProgramming
++ [[https://blog.jonathanchun.com/blog/2025/02/16/to-type-or-not-to-type/][To type or not to type?]] ~ Jonathan Chun. #Python #Programming
++ [[https://arxiv.org/abs/2502.09955][Diverse inference and verification for advanced reasoning]]. ~ Iddo Drori et als. #AI #LLMs #ITP #LeanProver
++ [[https://arxiv.org/abs/2502.10197][MathConstruct: Challenging LLM reasoning with constructive proofs]]. ~ Mislav Balunović et als. #AI #LLMs #Math
++ [[https://arxiv.org/abs/2410.13502][MathGAP: Out-of-distribution evaluation on problems with arbitrarily complex proofs]]. ~ Andreas Opedal et als. #AI #LLMs #Math
++ [[https://blog.iagosto.dev/entradas/personalizando-emacs][Personalizando Emacs]]. ~ Ivan Agosto. #Emacs
+
 *** 16-Feb-25
 + [[https://4m4.it/posts/category-theory-functional-programming-compositionality/][The relationship between category theory, lambda calculus, and functional programming in Haskell]]. ~ Antonio Montano. #Haskell #FunctionalProgramming #CategoryTheory #LambdaCalculus
 + [[https://arxiv.org/abs/2502.09100][Logical reasoning in large language models: A survey]]. ~ Hanmeng Liu et als. #LLMs #Logic #Reasoning
