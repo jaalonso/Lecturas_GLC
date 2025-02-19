@@ -71,6 +71,9 @@ its content.
 
 ** Febrero 2025
 
+*** 18-Feb-25
++ [[https://arxiv.org/abs/2502.11574][Large language models and mathematical reasoning failures]]. ~ Johan Boye, Birger Moell. #AI #LLMs #Math
+
 *** 17-Feb-25
 + [[https://muratkasimov.art/Ya/Articles/Natural-transformation-as-a-basis-of-control][Natural transformations as a basis of control]]. ~ Murat Kasimov. #Haskell #FunctionalProgramming
 + [[https://blog.jonathanchun.com/blog/2025/02/16/to-type-or-not-to-type/][To type or not to type?]] ~ Jonathan Chun. #Python #Programming
