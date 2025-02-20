@@ -71,6 +71,18 @@ its content.
 
 ** Febrero 2025
 
+*** 19-Feb-25
++ [[https://asteriskmag.com/issues/09/automating-mat][Automating math (Computers can already help verify proofs]]. One day soon, AI may be able to come up with new ones). ~ Adam Marblestone.h#ai-mathematician #ITP #LeanProver #AI #LLMs #Math
++ [[https://lisp-journey.gitlab.io/blog/these-years-in-common-lisp-2023-2024-in-review/][These years in Common Lisp: 2023-2024 in review]]. ~ Vincent Dardel. #CommonLisp
++ [[https://arxiv.org/abs/2501.16207][From informal to formal - Incorporating and evaluating LLMs on natural language requirements to verifiable formal proofs]]. ~ Jialun Cao et als. #LLMs #Reasoning #Math #ITP #LeanProver #Coq
++ [[https://arxiv.org/abs/2502.04671][ProofWala: Multilingual proof data synthesis and theorem-proving]]. ~ Amitayush Thakur et als. #LLMs #ITP #LeanProver #Coq
++ [[https://arxiv.org/abs/2502.12855][Integrating arithmetic learning improves mathematical reasoning in smaller models]]. ~ Neeraj Gangwar, Suma P Bhat, Nickvash Kani. #ITP #Math #Reasoning
++ [[https://arxiv.org/abs/2502.13137][Theorem prover as a judge for synthetic data generation]]. ~ Joshua Ong Jun Leang et als. #LLMs #ITP
++ [[https://arxiv.org/abs/2408.08590][A mechanistic interpretation of syllogistic reasoning in auto-regressive language models]]. ~ Geonhee Kim, Marco Valentino, André Freitas. #LLMs #Logic #Reasoning
++ [[https://arxiv.org/abs/2502.12022][Teaching LLMs according to their aptitude: Adaptive reasoning for mathematical problem solving]]. ~ Xin Xu et als. #LLMs #Math
++ [[https://arxiv.org/abs/2405.13144][LLMs for mathematical modeling: Towards bridging the gap between natural and mathematical languages]]. ~ Xuhan Huang et als. #LLMs #Math
++ [[https://arxiv.org/abs/2410.19817][Step guided reasoning: Improving mathematical reasoning using guidance generation and step reasoning]]. ~ Lang Cao et als. #LLMs #Reasoning #Math
+
 *** 18-Feb-25
 + [[https://arxiv.org/abs/2502.11574][Large language models and mathematical reasoning failures]]. ~ Johan Boye, Birger Moell. #AI #LLMs #Math
 
