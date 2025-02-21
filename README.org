@@ -71,6 +71,15 @@ its content.
 
 ** Febrero 2025
 
+*** 20-Feb-25
++ [[https://arxiv.org/abs/2502.03321][Simplifying formal proof-generating models with ChatGPT and basic searching techniques]]. ~ Sangjun Han et als. #LLMs #ITP #LeanProver
++ [[https://arxiv.org/abs/2502.13834][Proving olympiad inequalities by synergizing LLMs and symbolic reasoning]]. ~ Zenan Li et als. #LLMs #ITP #LeanProver #Math
++ [[https://arxiv.org/abs/2502.13199][The role of GitHub Copilot on software development: A perspective on productivity, security, best practices and future directions]]. ~ Suresh Babu Nettur et als. #LLMs #Programming
++ [[https://arxiv.org/abs/2502.06807][Competitive programming with large reasoning models]]. ~ OpenAI. #LLMs #Programming
++ [[https://web.evanchen.cc/handouts/Ineq/en.pdf][A brief introduction to olympiad inequalities]]. ~ Evan Chen. #Math
++ [[https://igor-kortchemski.perso.math.cnrs.fr/olympiades/Cours/Inegalites/tin2006.pdf][Topics in inequalities: Theorems and techniques]]. ~ Hojoo Lee. #Math
++ [[https://phamtuankhai.wordpress.com/wp-content/uploads/2012/04/567-bat-dang-thuc-hay.pdf][567 nice and hard inequalities]]. ~ Nguyen Duy Tung. #Math
+
 *** 19-Feb-25
 + [[https://asteriskmag.com/issues/09/automating-mat][Automating math (Computers can already help verify proofs]]. One day soon, AI may be able to come up with new ones). ~ Adam Marblestone.h#ai-mathematician #ITP #LeanProver #AI #LLMs #Math
 + [[https://lisp-journey.gitlab.io/blog/these-years-in-common-lisp-2023-2024-in-review/][These years in Common Lisp: 2023-2024 in review]]. ~ Vincent Dardel. #CommonLisp
