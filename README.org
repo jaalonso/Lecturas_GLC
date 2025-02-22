@@ -71,6 +71,17 @@ its content.
 
 ** Febrero 2025
 
+*** 21-Feb-25
++ [[https://youtu.be/5ZIIGLiQWNM][Machine-assisted proofs (February 19, 2025)]]. ~ Terence Tao. #ITP #LeanProver #AI #Math
++ [[https://youtu.be/8NijQB2oqKg][Formalisation of combinatorial optimisation in Isabelle/HOL: Network flows]]. ~ Thomas Ammer. #ITP #IsabelleHOL #Math
++ [[https://arxiv.org/abs/2502.11344][A Coq implementation of a theory of tagged objects]]. ~ Matthew Gates, Alex Potanin. #ITP #Coq #Rocq
++ [[https://ohasan.seecs.nust.edu.pk/Conferences_25/Conferences/SYSCON_2025.pdf][Formal analysis of electrical circuit network topologies using theorem proving, ~ Kubra Aksoy, Adnan Rashid1, Osman Hasan, Sofiene Tahar]]. #ITP #IsabelleHOL
++ [[https://usr.lmf.cnrs.fr/lpo/lpo.pdf][Learn programming with OCaml (Algorithms and data structures)]]. ~ Sylvain Conchon, Jean-Christophe Filliâtre. #OCaml #FunctionalProgramming
++ [[https://arxiv.org/abs/2502.12065][Formalizing complex mathematical statements with LLMs: A study on mathematical definitions]]. ~ Lan Zhang, Marco Valentino, Andre Freitas. #LLMs #Math #Autoformalization #ITP #IsabelleHOL
++ [[https://arxiv.org/abs/2502.09955][Diverse inference and verification for advanced reasoning]]. ~ Iddo Drori et als. #LLMs #ITP #LeanProver #Autoformalization
++ [[https://web.evanchen.cc/handouts/english/english.pdf][Advice for writing proofs]]. ~ Evan Chen (2023). #Math
++ [[https://web.evanchen.cc/handouts/NaturalProof/NaturalProof.pdf][Intro to proofs for the morbidly curious]]. ~ Evan Chen (2024). #Math
+
 *** 20-Feb-25
 + [[https://arxiv.org/abs/2502.03321][Simplifying formal proof-generating models with ChatGPT and basic searching techniques]]. ~ Sangjun Han et als. #LLMs #ITP #LeanProver
 + [[https://arxiv.org/abs/2502.13834][Proving olympiad inequalities by synergizing LLMs and symbolic reasoning]]. ~ Zenan Li et als. #LLMs #ITP #LeanProver #Math
