@@ -71,6 +71,12 @@ its content.
 
 ** Febrero 2025
 
+*** 23-Feb-25
++ [[https://www.isa-afp.org/entries/List_Power.html][Power operator for lists (in Isabelle/HOL)]]. ~ Štěpán Holub, Martin Raška, Štěpán Starosta, Tobias Nipkow. #ITP #IsabelleHOL
++ [[https://arxiv.org/abs/2502.12848][Strands Rocq: Why is a security protocol correct, mechanically?]] ~ Matteo Busi, Riccardo Focardi, Flaminia L. Luccio. #ITP #Rocq #Coq
++ [[https://arxiv.org/abs/2502.13812][Fracterm calculus for partial meadows]]. ~ Jan A. Bergstra, Alban Ponse. #ATP #Prover9 #Mace4 #Math
++ [[https://thmprover.wordpress.com/2025/02/22/how-to-deepen-your-understanding-of-mizar/][How to deepen your understanding of Mizar]]. ~ Alex Nelson. #ITP #Mizar
+
 *** 22-Feb-25
 + [[https://babbagefiles.xyz/lambda-calculus-and-lisp-01/][Lambda calculus and Lisp, part 1]]. #LambdaCalculus #Lisp
 + [[https://babbagefiles.xyz/lambda-calculus-and-lisp-02-recursion/][Lambda calculus and Lisp, part 2]]. #LambdaCalculus #Emacs #Lisp
