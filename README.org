@@ -71,6 +71,14 @@ its content.
 
 ** Febrero 2025
 
+*** 24-Feb-25
++ [[https://youtu.be/FDZDu0ToXsM][Formalising Brauer group and group cohomology in Lean4]].~ Jujian Zhang. #ITP #LeanProver #Math
++ [[https://fldit-www.cs.tu-dortmund.de/~peter/PS07/HR.pdf][The Haskell road to logic, math and programming]]. ~ Kees Doets, Jan van Eijck (2004). #Haskell #FunctionalProgramming #Loggic #Math
++ [[https://muratkasimov.art/Ya/Articles/Bind-and-traverse-with-Kleisli-morphisms][Bind and traverse with Kleisli morphisms]]. ~ Murat Kasimov. #CategoryTheory #Haskell #FunctionalProgramming
++ [[https://elementsofclojure.com/manuscript/elements_of_clojure.pdf][Elements of Clojure]]. ~ Zachary Tellman. #Clojure #Lisp #FunctionalProgramming
++ [[https://gr.inc][Open Reasoning Data (1,748,344 questions and 300,119 chain-of-thought traces to train open models)]]. #AI #LLMs
++ [[https://www.microsiervos.com/archivo/ia/material-abierto-modelos-razonamiento-general-preguntas-cadenas-pensamiento.html][Material abierto para construir modelos de razonamiento general: 1]].600.000 preguntas y 270.000 trazas de cadenas de pensamiento. ~ Por @Alvy. #AI #LLMs
+
 *** 23-Feb-25
 + [[https://www.isa-afp.org/entries/List_Power.html][Power operator for lists (in Isabelle/HOL)]]. ~ Štěpán Holub, Martin Raška, Štěpán Starosta, Tobias Nipkow. #ITP #IsabelleHOL
 + [[https://arxiv.org/abs/2502.12848][Strands Rocq: Why is a security protocol correct, mechanically?]] ~ Matteo Busi, Riccardo Focardi, Flaminia L. Luccio. #ITP #Rocq #Coq
