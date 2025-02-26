@@ -71,6 +71,11 @@ its content.
 
 ** Febrero 2025
 
+*** 25-Feb-25
++ [[https://noter.math.ku.dk/phd25da.pdf][Towards a formalized theory of solid modules]]. ~ Dagur Asgeirsson. #PhDThesis #ITP #LeanProver #Math
++ [[https://www.nikolai-kosmatov.eu/publications/ferreol_ck_fase_2025.pdf][Prove your colorings: Formal verification of cache coloring of Bao hypervisor]]. ~ Axel Ferréol, Laurent Corbin, Nikolai Kosmatov. #ITP #Coq #Rocq
++ [[https://arxiv.org/abs/2502.15776][Logic.py: Bridging the gap between LLMs and constraint solvers]]. ~ Pascal Kesseli, Peter O'Hearn, Ricardo Silveira Cabral. #LLMs #Logic #SAT #SMT
+
 *** 24-Feb-25
 + [[https://youtu.be/FDZDu0ToXsM][Formalising Brauer group and group cohomology in Lean4]].~ Jujian Zhang. #ITP #LeanProver #Math
 + [[https://fldit-www.cs.tu-dortmund.de/~peter/PS07/HR.pdf][The Haskell road to logic, math and programming]]. ~ Kees Doets, Jan van Eijck (2004). #Haskell #FunctionalProgramming #Loggic #Math
