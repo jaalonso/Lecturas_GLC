@@ -71,6 +71,11 @@ its content.
 
 ** Febrero 2025
 
+*** 26-Feb-25
++ [[https://arxiv.org/abs/2502.17387][Big-Math: A large-scale, high-quality math dataset for reinforcement learning in language models]]. ~ Alon Albalak et als. #LLMs #Math
++ [[https://arxiv.org/abs/2501.13766][UGMathBench: A diverse and dynamic benchmark for undergraduate-level mathematical reasoning with large language models]]. ~ Xin Xu et als. #LLMs #Math
++ [[https://arxiv.org/abs/2502.15652][Empowering LLMs with logical reasoning: A comprehensive survey]]. ~ Fengxiang Cheng et als. #LLMs #Math #Reasoning
+
 *** 25-Feb-25
 + [[https://noter.math.ku.dk/phd25da.pdf][Towards a formalized theory of solid modules]]. ~ Dagur Asgeirsson. #PhDThesis #ITP #LeanProver #Math
 + [[https://www.nikolai-kosmatov.eu/publications/ferreol_ck_fase_2025.pdf][Prove your colorings: Formal verification of cache coloring of Bao hypervisor]]. ~ Axel Ferréol, Laurent Corbin, Nikolai Kosmatov. #ITP #Coq #Rocq
