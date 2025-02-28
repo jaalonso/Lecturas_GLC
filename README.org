@@ -71,6 +71,12 @@ its content.
 
 ** Febrero 2025
 
+*** 27-Feb-25
++ [[https://www.isa-afp.org/entries/FOL_Compactness.html][Compactness theorem for first-order logic (in Isabelle/HOL)]]. ~ Sophie Tourret, Lawrence C. Paulson. #ITP #IsabelleHOL #Logic #Math
++ [[https://arxiv.org/abs/2502.18532][CuDIP: Enhancing theorem proving in LLMs via curriculum learning-based direct preference optimization]]. ~ Shuming Shi et als. #AI #LLMs #ATP #Logic #Math
++ [[https://arxiv.org/abs/2502.19400][TheoremExplainAgent: Towards multimodal explanations for LLM theorem understanding]]. ~ Max Ku et als. #AI #LLMs #ATP #Logic #Math
++ [[https://arxiv.org/abs/2502.18467][ChatGPT vs. DeepSeek: A comparative study on AI-based code generation]]. ~ Md Motaleb Hossen Manik. #AI #LLMs #Programming
+
 *** 26-Feb-25
 + [[https://arxiv.org/abs/2502.17387][Big-Math: A large-scale, high-quality math dataset for reinforcement learning in language models]]. ~ Alon Albalak et als. #LLMs #Math
 + [[https://arxiv.org/abs/2501.13766][UGMathBench: A diverse and dynamic benchmark for undergraduate-level mathematical reasoning with large language models]]. ~ Xin Xu et als. #LLMs #Math
