@@ -71,6 +71,14 @@ its content.
 
 ** Febrero 2025
 
+*** 28-Feb-25
++ [[https://arxiv.org/abs/2502.14874v1][Is mathematics obsolete?]] ~ Jeremy Avigad. #Math #ITP #LeanProver #AI #LLMs
++ [[https://arxiv.org/abs/2502.19311][Faithful logic embeddings in HOL (A recipe to have it all: deep and shallow, automated and interactive, heavy and light, proofs and counterexamples, meta and object level)]]. ~ Christoph Benzmüller. #ITP #IsabelleHOL #Logic
++ [[https://arxiv.org/abs/2310.20360][Mathematical introduction to deep learning: Methods, implementations, and theory]]. ~ Arnulf Jentzen, Benno Kuckuck, Philippe von Wurstemberger. #AI #DeepLearning #Math
++ [[https://arxiv.org/abs/2502.12022][Teaching LLMs according to their aptitude: Adaptive reasoning for mathematical problem solving]]. ~ Xin Xu et als. #AI #LLMs #Math
++ [[https://cacm.acm.org/opinion/homo-ratiocinator-reckoning-human/][Homo ratiocinator (reckoning human)]]. ~ Moshe Y. Vardi. #Logic #CompSci
++ [[https://gestion.dc.uba.ar/media/academic/grade/thesis/tesis-1.0.1.pdf][PPA: Un asistente de demostración para lógica de primer orden con extracción de testigos usando la traducción de Friedman]]. ~ Manuel Panichelli. #Haskell #FunctionalProgramming #Logic
+
 *** 27-Feb-25
 + [[https://www.isa-afp.org/entries/FOL_Compactness.html][Compactness theorem for first-order logic (in Isabelle/HOL)]]. ~ Sophie Tourret, Lawrence C. Paulson. #ITP #IsabelleHOL #Logic #Math
 + [[https://arxiv.org/abs/2502.18532][CuDIP: Enhancing theorem proving in LLMs via curriculum learning-based direct preference optimization]]. ~ Shuming Shi et als. #AI #LLMs #ATP #Logic #Math
