@@ -10,10 +10,11 @@ At the end of each article you will find tags related to the systems it uses or
 its content.
 
 * Content                                                                      :TOC:
-- [[#lecturas-del-año-2024][Lecturas del año 2024]]
+- [[#lecturas-del-año-2025][Lecturas del año 2025]]
+  - [[#marzo-2025][Marzo 2025]]
   - [[#febrero-2025][Febrero 2025]]
   - [[#enero-2025][Enero 2025]]
-- [[#lecturas-del-año-2024-1][Lecturas del año 2024]]
+- [[#lecturas-del-año-2024][Lecturas del año 2024]]
   - [[#diciembre-2024][Diciembre 2024]]
   - [[#noviembre-2024][Noviembre 2024]]
   - [[#octubre-2024][Octubre 2024]]
@@ -67,7 +68,15 @@ its content.
   - [[#enero-2021][Enero 2021]]
 - [[#lecturas-anteriores][Lecturas anteriores]]
 
-* Lecturas del año 2024
+* Lecturas del año 2025
+
+** Marzo 2025
+
+*** 01-Mar-25
++ [[https://www.cambridge.org/core/services/aop-cambridge-core/content/view/F48258008F47DC9F53AA2E61B4E511A7/S0956796825000012a.pdf/how_much_is_in_a_square_calculating_functional_programs_with_squares.pdf][Functional pearl: How much is in a square? Calculating functional programs with squares]]. ~ Jose Nuno Oliveira. #FunctionalProgramming #Haskell
++ [[https://arxiv.org/abs/2502.17840][A combinatorial identities benchmark for theorem proving via automated theorem generation]]. ~ Beibei Xiong et als. #LLMs #ITP #LeanProver #Math
++ [[https://arxiv.org/abs/2410.10878][Herald: A natural language annotated Lean 4 dataset]]. ~ Guoxiong Gao et als. #LLMs #ITP #LeanProver #Math
++ [[https://arxiv.org/abs/2502.17925][LeanProgress: Guiding search for neural theorem proving via proof progress prediction]]. ~ Suozhi Huang et als. #LLMs #ITP #LeanProver
 
 ** Febrero 2025
 
