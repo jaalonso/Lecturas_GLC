@@ -72,6 +72,11 @@ its content.
 
 ** Marzo 2025
 
+*** 02-Mar-25
++ [[https://arxiv.org/abs/2502.19311][Faithful logic embeddings in HOL (A recipe to have it all: deep and shallow, automated and interactive, heavy and light, proofs and counterexamples, meta and object level)]]. ~ Christoph Benzmüller. #ITP #IsabelleHOL
++ [[https://www.dcs.gla.ac.uk/~michele/papers/SAC2025.pdf][BiCoq: Bigraphs formalisation with Coq]]. ~ Cécile Marcon et als. #ITP #Coq #Rocq
++ [[https://kolektiva.media/w/2hjgLbauHCtgdKtKXkbFvb][Fediverso: Una alternativa a las redes sociales comerciales]]. #RRSS #Fediverso
+
 *** 01-Mar-25
 + [[https://www.cambridge.org/core/services/aop-cambridge-core/content/view/F48258008F47DC9F53AA2E61B4E511A7/S0956796825000012a.pdf/how_much_is_in_a_square_calculating_functional_programs_with_squares.pdf][Functional pearl: How much is in a square? Calculating functional programs with squares]]. ~ Jose Nuno Oliveira. #FunctionalProgramming #Haskell
 + [[https://arxiv.org/abs/2502.17840][A combinatorial identities benchmark for theorem proving via automated theorem generation]]. ~ Beibei Xiong et als. #LLMs #ITP #LeanProver #Math
