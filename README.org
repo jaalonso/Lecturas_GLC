@@ -72,6 +72,15 @@ its content.
 
 ** Marzo 2025
 
+*** 03-Mar-25
++ [[https://research.tue.nl/nl/publications/waterproof-transforming-a-proof-assistant-into-an-educational-too][Waterproof: Transforming a proof assistant into an educational tool]]. ~ Aalt Jelle Wemmenhove. #ITP #Coq #Math #Education
++ [[https://cs.ru.nl/H.Geuvers/Huygens_2019.pdf][Computer assisted mathematical proofs: using the computer to verify computers]]. ~ Herman Geuvers. #ITP #Math
++ [[https://pitmonticone.github.io/Talks/2025/CHANGE][An invitation to Blueprint-driven formalisation of mathematical research in Lean]]. ~ Pietro Monticone. #ITP #LeanProver #Math
++ [[https://github.com/pitmonticone/LeanCHANGE][An invitation to Blueprint-driven formalisation of mathematical research in Lean (Codes)]]. ~ Pietro Monticone. #ITP #LeanProver #Math
++ [[https://arxiv.org/abs/2410.03465][Formalizing MLTL formula progression in Isabelle/HOL]]. ~ Katherine Kosaian, Zili Wang, Elizabeth Sloan, Kristin Rozier. #ITP #IsabelleHOL #Logic
++ [[https://jerf.org/iri/post/2025/fp_lessons_purity/][Applying purity to the imperative world]]. ~ Jeremy Bowers. #Haskell #FunctionalProgramming
++ [[https://culturacientifica.com/2017/06/07/teorema-los-cuatro-colores-4-podemos-creer-la-prueba-la-conjetura/][¿Podemos creer la prueba de la conjetura?]] ~ Marta Macho Stadler. #Math #CompSci
+
 *** 02-Mar-25
 + [[https://arxiv.org/abs/2502.19311][Faithful logic embeddings in HOL (A recipe to have it all: deep and shallow, automated and interactive, heavy and light, proofs and counterexamples, meta and object level)]]. ~ Christoph Benzmüller. #ITP #IsabelleHOL
 + [[https://www.dcs.gla.ac.uk/~michele/papers/SAC2025.pdf][BiCoq: Bigraphs formalisation with Coq]]. ~ Cécile Marcon et als. #ITP #Coq #Rocq
