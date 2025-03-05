@@ -72,6 +72,15 @@ its content.
 
 ** Marzo 2025
 
+*** 04-Mar-25
++ [[https://arxiv.org/abs/2503.00959][Formalizing zeta and L-functions in Lean]]. ~ David Loeffler, Michael Stoll. #ITP #LeanProver #Math
++ [[https://arxiv.org/abs/2404.12534][Lean Copilot: Large language models as copilots for theorem proving in Lean]]. ~ Peiyang Song, Kaiyu Yang, Anima Anandkumar. #LLMs #ITP #LeanProver
++ [[https://arxiv.org/abs/2502.03544][Gold-medalist performance in solving olympiad geometry with AlphaGeometry2]]. ~ Yuri Chervonyi et als. #AI #AlphaGeometry #Math
++ [[https://arxiv.org/abs/2405.02318][NL2FOL: Translating natural language to first-order logic for logical fallacy detection]]. ~ Abhinav Lalwani et als. #LLMs #Logig #SMT
++ [[https://arxiv.org/abs/2410.08899][Utilizing ChatGPT in a data structures and algorithms course: A teaching assistant's perspective]]. ~ Pooriya Jamie, Reyhaneh Hajihashemi, Sharareh Alipour. #LLMs #CompSci
++ [[https://arxiv.org/abs/2502.15770][Performance review on LLM for solving Leetcode problems]]. ~ Lun Wang et als. #LLMs #Programming
++ [[https://arxiv.org/abs/2502.15823][InductionBench: LLMs fail in the simplest complexity class]]. ~ Wenyue Hua et als. #LLMs #Reasoning
+
 *** 03-Mar-25
 + [[https://research.tue.nl/nl/publications/waterproof-transforming-a-proof-assistant-into-an-educational-too][Waterproof: Transforming a proof assistant into an educational tool]]. ~ Aalt Jelle Wemmenhove. #ITP #Coq #Math #Education
 + [[https://cs.ru.nl/H.Geuvers/Huygens_2019.pdf][Computer assisted mathematical proofs: using the computer to verify computers]]. ~ Herman Geuvers. #ITP #Math
