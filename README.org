@@ -72,6 +72,10 @@ its content.
 
 ** Marzo 2025
 
+*** 05-Mar-25
++ [[https://www.isa-afp.org/entries/Mission_Time_LTL_Language_Partition.html][Language partitioning for mission-time linear temporal logic (in Isabelle/HOL)]]. ~ Zili Wang, Katherine Kosaian, Alec Rosentrater. #ITP #IsabelleHOL
++ [[https://www.genbeta.com/inteligencia-artificial/unos-profesores-avisan-que-ia-supone-amenaza-para-pensamiento-critico-estudiantes-escribir-tambien-pensar][Unos profesores avisan de que la IA supone una amenaza para el pensamiento crítico de los estudiantes: "escribir también es pensar"]]. ~ Marcos Merino. #AI #Education
+
 *** 04-Mar-25
 + [[https://arxiv.org/abs/2503.00959][Formalizing zeta and L-functions in Lean]]. ~ David Loeffler, Michael Stoll. #ITP #LeanProver #Math
 + [[https://arxiv.org/abs/2404.12534][Lean Copilot: Large language models as copilots for theorem proving in Lean]]. ~ Peiyang Song, Kaiyu Yang, Anima Anandkumar. #LLMs #ITP #LeanProver
