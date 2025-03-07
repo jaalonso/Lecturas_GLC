@@ -72,6 +72,13 @@ its content.
 
 ** Marzo 2025
 
+*** 06-Mar-25
++ [[https://arxiv.org/abs/2502.21156][Cryptis: Cryptographic reasoning in separation logic]]. ~ Arthur Azevedo de Amorim, Amal Ahmed, Marco Gaboardi. #ITP #Coq #Rocq
++ [[https://arxiv.org/abs/2407.10040][Lean-STaR: Learning to interleave thinking and proving]]. ~ Haohan Lin et als. #LLMs #ITP #LeanProver
++ [[https://arxiv.org/abs/2503.03205][MA-LoT: Multi-agent lean-based long chain-of-thought reasoning enhances formal theorem proving]]. ~ Ruida Wang et als. #LLMs #ITP #LeanProver
++ [[https://arxiv.org/abs/2503.03238][FANS: Formal answer selection for natural language math reasoning using Lean4]]. ~ Jiarui Yao, Ruida Wang, Tong Zhang. #LLMs #ITP #LeanProver
++ [[https://arxiv.org/abs/2501.16207][From informal to formal (Incorporating and evaluating LLMs on natural language requirements to verifiable formal proofs)]]. ~ Jialun Cao et als. #LLMs #ITP #LeanProver
+
 *** 05-Mar-25
 + [[https://www.isa-afp.org/entries/Mission_Time_LTL_Language_Partition.html][Language partitioning for mission-time linear temporal logic (in Isabelle/HOL)]]. ~ Zili Wang, Katherine Kosaian, Alec Rosentrater. #ITP #IsabelleHOL
 + [[https://www.genbeta.com/inteligencia-artificial/unos-profesores-avisan-que-ia-supone-amenaza-para-pensamiento-critico-estudiantes-escribir-tambien-pensar][Unos profesores avisan de que la IA supone una amenaza para el pensamiento crítico de los estudiantes: "escribir también es pensar"]]. ~ Marcos Merino. #AI #Education
