@@ -72,6 +72,16 @@ its content.
 
 ** Marzo 2025
 
+*** 07-Mar-25
++ [[https://hal.science/hal-04971933/document][A formalisation of addition chains]]. ~ Laurent Théry. #ITP #Coq #Rocq
++ [[https://jwshii.github.io/OOPSLA25.pdf ][QED in context (An observation study of proof assistant users)]]. ~ Jessica Shi, Cassia Torczon, Harrison Goldstein, Benjamin C. Pierce, Andrew Head #ITP #LeanProver #Coq #Rocq
++ [[https://florisvandoorn.com/theses/KunhongDu.pdf][On the formalization of the simplicial model of HoTT]]. ~ Kunhong Du. #ITP #Agda #HoTT
++ [[https://ericschmid-uchicago.github.io/notes/cl_and_tt_v2.pdf][A gentle introduction to categorical logic and type theory]]. ~ Eric Schmid. #Math #CategoryTheory #TypeTheory
++ [[https://arxiv.org/abs/2503.04291][MathMistake checker: A comprehensive demonstration for step-by-step math problem mistake finding by prompt-guided LLMs]]. ~ Tianyang Zhang et als. #LLMs #Math
++ [[https://arxiv.org/abs/2503.01245][A survey on Large Language Models for code generation]]. ~ Nam Huynh, Beiyu Lin. #LLMs #Programming
++ [[https://arxiv.org/abs/2410.17635][Markov chain of thought for efficient mathematical reasoning]]. ~ Wen Yang, Minpeng Liao, Kai Fan. #LLMs #Math #Reasoning
++ [[https://arxiv.org/abs/2501.13959][Assisting mathematical formalization with a learning-based premise retriever]]. ~ Yicheng Tao et als. #LLMs #ITP #LeanProver
+
 *** 06-Mar-25
 + [[https://arxiv.org/abs/2502.21156][Cryptis: Cryptographic reasoning in separation logic]]. ~ Arthur Azevedo de Amorim, Amal Ahmed, Marco Gaboardi. #ITP #Coq #Rocq
 + [[https://arxiv.org/abs/2407.10040][Lean-STaR: Learning to interleave thinking and proving]]. ~ Haohan Lin et als. #LLMs #ITP #LeanProver
