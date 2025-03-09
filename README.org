@@ -72,6 +72,9 @@ its content.
 
 ** Marzo 2025
 
+*** 08-Mar-25
++ [[https://blog.jle.im/entry/sum-types-and-subtypes-and-unions.html][Sum types and subtypes and unions]]. ~ Justin Le. #Haskell #FunctionalProgramming
+
 *** 07-Mar-25
 + [[https://hal.science/hal-04971933/document][A formalisation of addition chains]]. ~ Laurent Théry. #ITP #Coq #Rocq
 + [[https://jwshii.github.io/OOPSLA25.pdf ][QED in context (An observation study of proof assistant users)]]. ~ Jessica Shi, Cassia Torczon, Harrison Goldstein, Benjamin C. Pierce, Andrew Head #ITP #LeanProver #Coq #Rocq
