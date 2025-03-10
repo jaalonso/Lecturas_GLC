@@ -72,6 +72,11 @@ its content.
 
 ** Marzo 2025
 
+*** 09-Mar-25
++ [[https://josephmckinsey.com/flean.html][Floating point numbers in Lean]]. ~ Joseph McKinsey. #ITP #LeanProver #Math
++ [[https://josephmckinsey.com/flean2.html][Flean: Floating point numbers in Lean, mostly done!]] ~ Joseph McKinsey. #ITP #LeanProver #Math
++ [[https://jaalonso.github.io/cursos/li-03/index.html][Curso "Lógica informática" (2003-04)]]. #Logic #Math #CompSci
+
 *** 08-Mar-25
 + [[https://blog.jle.im/entry/sum-types-and-subtypes-and-unions.html][Sum types and subtypes and unions]]. ~ Justin Le. #Haskell #FunctionalProgramming
 
