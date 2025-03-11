@@ -72,6 +72,14 @@ its content.
 
 ** Marzo 2025
 
+*** 10-Mar-25
++ [[https://www.doc.ic.ac.uk/~afd/papers/2025/FormaliSE.pdf][The burden of proof: Automated tooling for rapid iteration on large mechanised proofs]]. ~ Chengsong Tan, Alastair F. Donaldson, Jonathan Julián Huerta y Munive, John Wickerson. #ITP #IsabelleHOL
++ [[https://arxiv.org/abs/2503.04763][MiniF2F in Rocq: Automatic translation between proof assistants (a case study)]]. ~ Jules Viennot, Guillaume Baudart, Emilio Jesúss Gallego Arias, Marc Lelarge. #LLMs #Rocq #LeanProver #IsabelleHOL #Math
++ [[https://arxiv.org/abs/2503.04772][Generating millions of Lean theorems with proofs by exploring state transition graphs]]. ~ David Yin, Jing Gao. #LLMs #LeanProver #Math
++ [[https://www.wired.com/story/new-proofs-expand-the-limits-of-what-cannot-be-known/][New proofs expand the limits of what cannot be known (By proving a broader version of Hilbert’s famous 10th problem, two groups of mathematicians have expanded the realm of mathematical unknowability)]]. ~ Joseph Howlett. #Math
++ [[https://hal.science/hal-04974699/document][Les sept problèmes mathématiques du prix du millénaire]]. ~ Nicolas Bacaër et als. #Math
++ [[https://medium.com/@sebastiancarlos/common-lisp-in-2055-f3debf4df01c][How to get a Common Lisp job in 2055]]. ~ Sebastian Carlos. #CommonLisp
+
 *** 09-Mar-25
 + [[https://josephmckinsey.com/flean.html][Floating point numbers in Lean]]. ~ Joseph McKinsey. #ITP #LeanProver #Math
 + [[https://josephmckinsey.com/flean2.html][Flean: Floating point numbers in Lean, mostly done!]] ~ Joseph McKinsey. #ITP #LeanProver #Math
