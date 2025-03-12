@@ -72,6 +72,16 @@ its content.
 
 ** Marzo 2025
 
+*** 11-Mar-25
++ [[https://www.joachim-breitner.de/blog/816-Extrinsic_termination_proofs_for_well-founded_recursion_in_Lean][Extrinsic termination proofs for well-founded recursion in Lean]]. ~ Joachim Breitner. #ITP #LeanProver
++ [[https://www.philipzucker.com/knuth_bendix_knuck/][Knuth Bendix solver on Z3 AST]]. ~ Philip Zucker. #SMT #Z3
++ [[https://thonyc.wordpress.com/2025/02/12/books-on-the-history-of-mathematics-some-thoughts/][Books on the history of mathematics, some thoughts]]. ~ Thony Christie. #Math
++ [[https://arxiv.org/abs/2405.06705][LLMs can find mathematical reasoning mistakes by pedagogical chain-of-thought]]. ~ Zhuoxuan Jiang et als. #LLMs #Math
++ [[https://arxiv.org/abs/2503.06812][Can proof assistants verify multi-agent systems? ~ Julian Alfredo Mendez, Timotheus Kampik]]. #MAS #FormalVerification #LeanProver #Scala
++ [[https://arxiv.org/abs/2502.17764][DeepSeek vs. ChatGPT vs. Claude: A comparative study for scientific computing and scientific machine learning tasks]]. ~ Qile Jiang, Zhiwei Gao, George Em Karniadakis. #LLMs #Math
++ [[https://www.quantamagazine.org/why-do-researchers-care-about-small-language-models-20250310/][Why do researchers care about small language models?]] ~ Stephen Ornes. #LLMs #SMLs
++ [[https://www.danliden.com/notes/20250308-registers-1.html][Navigating between points with registers]]. ~ Daniel Liden. #Emacs
+
 *** 10-Mar-25
 + [[https://www.doc.ic.ac.uk/~afd/papers/2025/FormaliSE.pdf][The burden of proof: Automated tooling for rapid iteration on large mechanised proofs]]. ~ Chengsong Tan, Alastair F. Donaldson, Jonathan Julián Huerta y Munive, John Wickerson. #ITP #IsabelleHOL
 + [[https://arxiv.org/abs/2503.04763][MiniF2F in Rocq: Automatic translation between proof assistants (a case study)]]. ~ Jules Viennot, Guillaume Baudart, Emilio Jesúss Gallego Arias, Marc Lelarge. #LLMs #Rocq #LeanProver #IsabelleHOL #Math
