@@ -72,6 +72,9 @@ its content.
 
 ** Marzo 2025
 
+*** 12-Mar-25
++ [[https://arxiv.org/abs/2503.07625][A formal proof of the irrationality of ζ(3) in Lean 4]]. ~ Junqi Liu, Jujian Zhang, Lihong Zhi. #ITP #LeanProver #Math
+
 *** 11-Mar-25
 + [[https://www.joachim-breitner.de/blog/816-Extrinsic_termination_proofs_for_well-founded_recursion_in_Lean][Extrinsic termination proofs for well-founded recursion in Lean]]. ~ Joachim Breitner. #ITP #LeanProver
 + [[https://www.philipzucker.com/knuth_bendix_knuck/][Knuth Bendix solver on Z3 AST]]. ~ Philip Zucker. #SMT #Z3
