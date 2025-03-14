@@ -72,6 +72,11 @@ its content.
 
 ** Marzo 2025
 
+*** 13-Mar-25
++ [[https://github.com/b-mehta/formalising-mathematics-notes][Course notes for "Formalising Mathematics 2025"]]. ~ Bhavik Mehta et als. #ITP #LeanProver #Math
++ [[https://arxiv.org/abs/2410.06209][LeanAgent: Lifelong learning for formal theorem proving]]. ~ Adarsh Kumarappan, Mo Tiwari, Peiyang Song, Robert Joseph George, Chaowei Xiao, Anima Anandkumar. #LLMs #ITP #LeanProver #Math
++ [[https://www.youtube.com/live/0QTt2W7CVnA][The Haskell Unfolder Episode 40: Understanding through a model]]. ~ Edsko de Vries, Andres Löh. #Haskell #FunctionalProgramming
+
 *** 12-Mar-25
 + [[https://arxiv.org/abs/2503.07625][A formal proof of the irrationality of ζ(3) in Lean 4]]. ~ Junqi Liu, Jujian Zhang, Lihong Zhi. #ITP #LeanProver #Math
 
