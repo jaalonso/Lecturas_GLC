@@ -72,6 +72,12 @@ its content.
 
 ** Marzo 2025
 
+*** 14-Mar-25
++ [[https://www.youtube.com/live/78CQ2A5_EvI][La théorie des types, de Russell aux assistans à la demostration]]. ~ Thierry Coquand. #TypeTheory #ITP #Logic #Math
++ [[https://arxiv.org/abs/2503.09730][Local look-ahead guidance via verifier-in-the-loop for automated theorem proving]]. ~ Sara Rajaee, Kumar Pratik, Gabriele Cesa, Arash Behboodi. #LLMs #LeanProver
++ [[https://www.cis.upenn.edu/~jean/math-deep.pdf][Algebra, topology, differential calculus, and optimization theory for computer science and machine learning]]. ~ Jean Gallier, Jocelyn Quaintance. #Math #CompSci #MachineLearning
++ [[https://theconversation.com/las-matematicas-son-sobre-todo-hermosas-251976][Las matemáticas son, sobre todo, hermosas]]. ~ Marta Macho-Stadler. #Matemáticas
+
 *** 13-Mar-25
 + [[https://github.com/b-mehta/formalising-mathematics-notes][Course notes for "Formalising Mathematics 2025"]]. ~ Bhavik Mehta et als. #ITP #LeanProver #Math
 + [[https://arxiv.org/abs/2410.06209][LeanAgent: Lifelong learning for formal theorem proving]]. ~ Adarsh Kumarappan, Mo Tiwari, Peiyang Song, Robert Joseph George, Chaowei Xiao, Anima Anandkumar. #LLMs #ITP #LeanProver #Math
