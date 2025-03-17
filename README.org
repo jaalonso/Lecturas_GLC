@@ -72,6 +72,16 @@ its content.
 
 ** Marzo 2025
 
+*** 16-Mar-25
++ [[https://www.johndcook.com/blog/2025/03/15/permutations-question/][Permutations with no consecutive elements]]. ~ John D. Cook. #Math #Python #Programming
+
+*** 15-Mar-25
++ [[https://lawrencecpaulson.github.io/2025/03/14/revisiting_demillo.html][Revisiting an early critique of formal verification]]. ~ Lawrence Paulson. #ITP #Math #FormalVerification
++ [[https://grantjurgensen.com/posts/schroder-berstein-acl2/][A proof of the Schröder-Bernstein theorem in ACL2]]. ~ Grant Jurgensen. #ITP #ACL2 #Math
++ [[https://books.google.com/books/?id=ciVOEQAAQBAJ][Principles of rule-based programming]]. ~ Thom Frühwirth. #CHR #Constraint #LogicProgramming
++ [[https://www.doc.ic.ac.uk/~dfg/ProbabilisticInference/InferenceAndMachineLearningNotes.pdf][Mathematics for inference and machine learning]]. ~ Marc Deisenroth, Stefanos Zafeiriou. #Math #MachineLearning
++ [[https://notxor.nueva-actitud.org/2019/11/26/introduccion-a-emacs.html][Introducción a la Introducción de Emacs]]. ~ Notxor. #Emacs
+
 *** 14-Mar-25
 + [[https://www.youtube.com/live/78CQ2A5_EvI][La théorie des types, de Russell aux assistans à la demostration]]. ~ Thierry Coquand. #TypeTheory #ITP #Logic #Math
 + [[https://arxiv.org/abs/2503.09730][Local look-ahead guidance via verifier-in-the-loop for automated theorem proving]]. ~ Sara Rajaee, Kumar Pratik, Gabriele Cesa, Arash Behboodi. #LLMs #LeanProver
