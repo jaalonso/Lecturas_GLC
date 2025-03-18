@@ -72,6 +72,9 @@ its content.
 
 ** Marzo 2025
 
+*** 17-Mar-25
++ [[https://bahr.io/pubs/files/calctyper-paper.pdf][The calculated typer]]. ~ Zac Garby, Patrick Bahr, Graham Hutton. #Haskell #FunctionalProgramming
+
 *** 16-Mar-25
 + [[https://www.johndcook.com/blog/2025/03/15/permutations-question/][Permutations with no consecutive elements]]. ~ John D. Cook. #Math #Python #Programming
 
