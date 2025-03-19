@@ -72,6 +72,11 @@ its content.
 
 ** Marzo 2025
 
+*** 18-Mar-25
++ [[https://www.johndcook.com/blog/2025/03/17/lessons-learned-with-the-z3-sat-smt-solver][Lessons learned with the Z3 SAT/SMT solver]]. ~ John D. Cook. #SMT #Z3
++ [[https://acnsci.org/journal/index.php/cte/article/view/838/860][Teaching logic programming: a review]]. ~ Serhiy O. Semerikov, Iryna S. Mintii, Natalia V. Moiseienko. #LogicProgramming #Prolog #ASP #CLP #Datalog
++ [[https://funcall.blogspot.com/2025/03/series-vs-streams.html][Series vs. streams]]. ~ Joe Marshall. #CommonLisp
+
 *** 17-Mar-25
 + [[https://bahr.io/pubs/files/calctyper-paper.pdf][The calculated typer]]. ~ Zac Garby, Patrick Bahr, Graham Hutton. #Haskell #FunctionalProgramming
 
