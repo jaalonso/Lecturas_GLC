@@ -72,6 +72,13 @@ its content.
 
 ** Marzo 2025
 
+*** 19-Mar-25
++ [[https://lawrencecpaulson.github.io/2025/03/19/Trickier_lower_bound.html][A trickier lower bound proof]]. ~ Lawrence Paulson. #ITP #IsabelleHOL #Math
++ [[https://arxiv.org/abs/2503.14183][Can LLMs enable verification in mainstream programming?]] ~ Aleksandr Shefer et als. #LLMs #Programming #FormalVerification
++ [[https://arxiv.org/abs/2503.13771][Towards AI-assisted academic writing]]. ~ Daniel J. Liebling et als. #AI #LLMs
++ [[https://visualgo.net/en][VisuAlgo: Visualising data structures and algorithms through animation]]. #Programming #CompSci
++ [[https://www.microsiervos.com/archivo/ordenadores/visualgo-visualmente-funcionan-algoritmos-estructuras-datos-resolver-problemas.html][VisuAlgo muestra visualmente cómo funcionan los algoritmos, las estructuras de datos y cómo resolver problemas]]. ~ @Alvy. #Programación #Computación
+
 *** 18-Mar-25
 + [[https://www.johndcook.com/blog/2025/03/17/lessons-learned-with-the-z3-sat-smt-solver][Lessons learned with the Z3 SAT/SMT solver]]. ~ John D. Cook. #SMT #Z3
 + [[https://acnsci.org/journal/index.php/cte/article/view/838/860][Teaching logic programming: a review]]. ~ Serhiy O. Semerikov, Iryna S. Mintii, Natalia V. Moiseienko. #LogicProgramming #Prolog #ASP #CLP #Datalog
