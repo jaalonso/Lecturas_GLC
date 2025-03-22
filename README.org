@@ -72,6 +72,11 @@ its content.
 
 ** Marzo 2025
 
+*** 21-Mar-25
++ [[https://arxiv.org/abs/2503.15541v1][Case study: Verified Vampire proofs in the LambdaPi-calculus modulo]]. ~ Anja Petković Komel, Michael Rawson, Martin Suad. #ATP #Vampire #Dedukti
++ [[https://www.tweag.io/blog/2025-03-20-lh-release/][A hundred pull requests for Liquid Haskell]]. ~ Facundo Domínguez. #Liquid #Haskell #FunctionalProgramming #SMT
++ [[https://www.science.org/doi/10.1126/science.adw5211][Artificial intelligence learns to reason]]. ~ Melanie Mitchell. #AI #LLMs #Reasoning
+
 *** 19-Mar-25
 + [[https://lawrencecpaulson.github.io/2025/03/19/Trickier_lower_bound.html][A trickier lower bound proof]]. ~ Lawrence Paulson. #ITP #IsabelleHOL #Math
 + [[https://arxiv.org/abs/2503.14183][Can LLMs enable verification in mainstream programming?]] ~ Aleksandr Shefer et als. #LLMs #Programming #FormalVerification
