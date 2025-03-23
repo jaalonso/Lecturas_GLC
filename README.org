@@ -72,6 +72,10 @@ its content.
 
 ** Marzo 2025
 
+*** 22-Mar-25
++ [[https://entropicthoughts.com/non-obvious-haskell-idiom-guard-sequence][Non-obvious Haskell idiom: Guard-sequence]]. ~ kqr. #Haskell #FunctionalProgramming
++ [[https://books.google.com/books?id=n38pEQAAQBAJ][Learn Haskell by example]]. ~ Phillip Hagenlocher. #Haskell #FunctionalProgramming
+
 *** 21-Mar-25
 + [[https://arxiv.org/abs/2503.15541v1][Case study: Verified Vampire proofs in the LambdaPi-calculus modulo]]. ~ Anja Petković Komel, Michael Rawson, Martin Suad. #ATP #Vampire #Dedukti
 + [[https://www.tweag.io/blog/2025-03-20-lh-release/][A hundred pull requests for Liquid Haskell]]. ~ Facundo Domínguez. #Liquid #Haskell #FunctionalProgramming #SMT
