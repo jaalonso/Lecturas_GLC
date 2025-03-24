@@ -72,6 +72,20 @@ its content.
 
 ** Marzo 2025
 
+*** 23-Mar-25
++ [[https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10930874][A review on mechanical proving and formalization of mathematical theorems]]. ~ Si Chen, Wensheng Yu, Guowei Dou, Qimeng Zhang. #ITP #Coq #IsabelleHOL #HOL_Light #Mizar #LeanProver #Math
++ [[https://arxiv.org/abs/1906.03930v1][Formalization of the axiom of choice and its equivalent theorems]]. ~ Tianyu Sun, Wensheng Yu (2019). #ITP #Coq #SetTheory
++ [[https://www.researchgate.net/publication/339270363_A_Formal_Proof_in_Coq_of_Cantor-Bernstein-Schroeder's_Theorem_without_axiom_of_choice][A formal proof in Coq of Cantor-Bernstein-Schroeder’s theorem without axiom of choice (2019)]]. #ITP #Coq #SetTheory
++ [[https://ieeexplore.ieee.org/document/8970457][A formal system of axiomatic set theory in Coq]]. ~ Tianyu Sun, Wensheng Yu (2020). #ITP #Coq #SetTheory
++ [[https://link.springer.com/content/pdf/10.1007/978-3-030-52200-1_27.pdf][A formalization of properties of continuous functions on closed intervals]]. Yaoshun Fu, Wensheng Yu (2020). #ITP #Coq #Math
++ [[https://www.mdpi.com/2227-7390/9/1/38][Formalization of the equivalence among completeness theorems of real number in Coq]]. ~ Yaoshun Fu, Wensheng Yu (2020). #ITP #Coq #Math
++ [[https://www.mdpi.com/2227-7390/9/12/1377][Formalizing calculus without limit theory in Coq]]. ~ Yaoshun Fu, Wensheng Yu (2021). #ITP #Coq #Math
++ [[https://link.springer.com/content/pdf/10.1007/978-981-19-2456-9_21.pdf][A formalization of topological spaces in Coq]]. ~ Sheng Yan, Yaoshun Fu, Dakai Guo, and Wensheng Yu (2022). #ITP #Coq #Math #SetTheory
++ [[https://arxiv.org/abs/2407.06222][Formalization of the filter extension principle (FEP) in Coq]]. ~ Guowei Dou, Wensheng Yu (2024). #ITP #Coq #Math #SetTheory
++ [[https://www-sop.inria.fr/marelle/gaia/RR-6999-v6.pdf][Implementation of Bourbaki's elements of mathematics in Coq: Part one, theory of sets]]. ~ José Grimm (2009). #ITP #Coq #SetTheory
++ [[https://inria.hal.science/inria-00440786/file/RR-7150-v10.pdf][Implementation of Bourbaki’s elements of mathematics in Coq: Part two, ordered sets, cardinals, integers]]. ~ José Grimm (2018). #ITP #Coq #Math
++ [[https://project-archive.inf.ed.ac.uk/ug4/20244250/ug4_proj.pdf][Concurrent games in Agda]]. ~ Amy Yin. #ITP #Agda
+
 *** 22-Mar-25
 + [[https://entropicthoughts.com/non-obvious-haskell-idiom-guard-sequence][Non-obvious Haskell idiom: Guard-sequence]]. ~ kqr. #Haskell #FunctionalProgramming
 + [[https://books.google.com/books?id=n38pEQAAQBAJ][Learn Haskell by example]]. ~ Phillip Hagenlocher. #Haskell #FunctionalProgramming
