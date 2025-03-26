@@ -72,6 +72,16 @@ its content.
 
 ** Marzo 2025
 
+*** 25-Mar-25
++ [[https://arxiv.org/abs/2501.03352v1][Teaching "Foundations of Mathematics" with the Lean theorem prover]]. ~ Mattia Luciano Bottoni, Alberto Cattaneo, Elif Sacikara. #ITP #LeanProver #Math
++ [[https://www.reddit.com/r/emacs/comments/1jhjgnu/the_book_of_the_church_of_emacs_satirical_ten/][Ten Commandments of the Church of Emacs]]. #Emacs
+
+*** 24-Mar-25
++ [[https://github.com/fraware/leanverifier][Formal verification of machine learning models in Lean]]. ~ Matéo H. Petel. #ITP #LeanProver #MachineLearning
++ [[https://borretti.me/article/why-lisp-syntax-works][Why Lisp syntax works]]. ~ Fernando Borretti. #Lisp #Programming
++ [[https://math-gpt.org/][MathGPT: Your personal math solver (Get instant homework help from your on-demand AI math solver)]]. #AI #LLMs #Math
++ [[https://www.microsiervos.com/archivo/matematicas/mathgpt-resolver-problemas-matematicos-ayudar-deberes.html][MathGPT: una herramienta para resolver problemas matemáticos y ayudar con los deberes]]. ~ @Alvy. #IA #LLMs #Matemáticas
+
 *** 23-Mar-25
 + [[https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10930874][A review on mechanical proving and formalization of mathematical theorems]]. ~ Si Chen, Wensheng Yu, Guowei Dou, Qimeng Zhang. #ITP #Coq #IsabelleHOL #HOL_Light #Mizar #LeanProver #Math
 + [[https://arxiv.org/abs/1906.03930v1][Formalization of the axiom of choice and its equivalent theorems]]. ~ Tianyu Sun, Wensheng Yu (2019). #ITP #Coq #SetTheory
