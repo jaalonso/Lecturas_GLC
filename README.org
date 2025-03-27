@@ -72,6 +72,11 @@ its content.
 
 ** Marzo 2025
 
+*** 26-Mar-25
++ [[https://www.isa-afp.org/entries/Dilworth.html][Formal proof of Dilworth's theorem (in Isabelle/HOL)]]. ~ Vivek Soorya Maadoori et als. #ITP #IsabelleHOL #Math
++ [[https://arxiv.org/abs/2412.16543][Mathematics and machine creativity: A survey on bridging mathematics with AI]]. ~ Shizhe Liang, Wei Zhang, Tianyang Zhong, Tianming Liu. #AI #Math
++ [[https://arxiv.org/abs/2503.19280][LogicLearner: A tool for the guided practice of propositional logic proofs]]. ~ Amogh Inamdar et als. #Logic
+
 *** 25-Mar-25
 + [[https://arxiv.org/abs/2501.03352v1][Teaching "Foundations of Mathematics" with the Lean theorem prover]]. ~ Mattia Luciano Bottoni, Alberto Cattaneo, Elif Sacikara. #ITP #LeanProver #Math
 + [[https://www.reddit.com/r/emacs/comments/1jhjgnu/the_book_of_the_church_of_emacs_satirical_ten/][Ten Commandments of the Church of Emacs]]. #Emacs
