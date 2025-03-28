@@ -72,6 +72,17 @@ its content.
 
 ** Marzo 2025
 
+*** 27-Mar-25
++ [[https://arxiv.org/abs/2503.18821][Formalization of optimality conditions for smooth constrained optimization problems]]. ~ Chenyi Li et als. #ITP #LeanProver
++ [[https://arxiv.org/abs/2503.18806][Formalization of algorithms for optimization with block structures]]. ~ Chenyi Li, Zichen Wang et als. #ITP #LeanProver
++ [[https://arxiv.org/abs/2503.17159][Bi-intuitionistic logics through the abstract algebraic logic lens]]. ~ Jonte Deakin, Ian Shillito. #ITP #Coq #Rocq #Logic
++ [[https://arxiv.org/abs/2503.20461v1][Automated reasoning in blockchain: Foundations, applications, and frontiers]]. ~ Hojer Key. #ITP #Blockchain
++ [[https://youtube.com/playlist?list=PLF1Z-APd9zK7usPMx3LGMZEHrECUGodd3][Functional programming in Haskell]]. ~ Graham Hutton. #Haskell #FunctionalProgramming
++ [[https://www.youtube.com/live/db-KjKOBMeA][The Haskell Unfolder Episode 41: Generic monoids]]. ~ Edsko de Vries, Andres Löh. #Haskell #FunctionalProgramming
++ [[https://terrytao.wordpress.com/2025/03/26/decomposing-a-factorial-into-large-factors/][Decomposing a factorial into large factors]]. ~ Terence Tao. #Math
++ [[https://aperiodical.com/2025/03/5-mathematics-of-the-i-ching/][Mathematics of the “I Ching”]]. ~ Peter Rowlett. #Math #TeXLaTeX
++ [[https://burjcdigital.urjc.es/server/api/core/bitstreams/c5a03eda-4615-4b16-a6ab-650bad265f1e/content][Apuntes de programación lógica (Hasta Prolog y más allá)]]. ~ Joaquín Arias. #LogicProgramming #Prolog #CLP
+
 *** 26-Mar-25
 + [[https://www.isa-afp.org/entries/Dilworth.html][Formal proof of Dilworth's theorem (in Isabelle/HOL)]]. ~ Vivek Soorya Maadoori et als. #ITP #IsabelleHOL #Math
 + [[https://arxiv.org/abs/2412.16543][Mathematics and machine creativity: A survey on bridging mathematics with AI]]. ~ Shizhe Liang, Wei Zhang, Tianyang Zhong, Tianming Liu. #AI #Math
