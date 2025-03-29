@@ -72,6 +72,11 @@ its content.
 
 ** Marzo 2025
 
+*** 28-Mar-25
++ [[https://raw.githubusercontent.com/gteege/gentle-isabelle/refs/heads/main/man-isabelle.pdf][A gentle introduction to Isabelle and Isabelle/HOL]]. ~ Gunnar Teege. #ITP #IsabelleHOL
++ [[https://youtu.be/rmMYFmlUbJ8][Verified collaboration: How Lean is transforming mathematics, programming, and AI]]. ~ Leonardo de Moura. #ITP #LeanProver #Math #Programming #AI
++ [[https://lawrencecpaulson.github.io/2025/03/28/Induction_Fetzer.html][The philosophical problem of induction, and the problem of Fetzer]]. ~ Lawrence Paulson. #Philosophy #Math #CompSci
+
 *** 27-Mar-25
 + [[https://arxiv.org/abs/2503.18821][Formalization of optimality conditions for smooth constrained optimization problems]]. ~ Chenyi Li et als. #ITP #LeanProver
 + [[https://arxiv.org/abs/2503.18806][Formalization of algorithms for optimization with block structures]]. ~ Chenyi Li, Zichen Wang et als. #ITP #LeanProver
