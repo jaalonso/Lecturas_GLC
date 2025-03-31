@@ -72,6 +72,10 @@ its content.
 
 ** Marzo 2025
 
+*** 30-Mar-25
++ [[https://johnwickerson.github.io/papers/vera_LATTE25.pdf][Towards mechanized verification of Verilog equivalence checking]]. ~ Michalis Pardalos, Laura Pozzi, John Wickerson. #ITP #Coq
++ [[https://blog.zksecurity.xyz/posts/clean/][Introducing clean, a formal verification DSL for zk circuits in Lean4]]. ~ Giorgio Dell'Immagine. #ITP #LeanProver
+
 *** 29-Mar-25
 + [[https://arxiv.org/abs/2503.19605][Lean formalization of generalization error bound by Rademacher complexity]]. ~ Sho Sonoda, Kazumi Kasaura, Yuma Mizuno, Kei Tsukamoto, Naoto Onda. #ITP #LeanProver
 
