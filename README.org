@@ -72,6 +72,9 @@ its content.
 
 ** Marzo 2025
 
+*** 31-Mar-25
++ [[https://research.temporallogic.org/papers/WKR25.pdf][Formally verifying a transformation from MLTL formulas to regular expressions]]. ~ Zili Wang, Katherine Kosaian, Kristin Yvonne Rozier. #ITP #IsabelleHOL
+
 *** 30-Mar-25
 + [[https://johnwickerson.github.io/papers/vera_LATTE25.pdf][Towards mechanized verification of Verilog equivalence checking]]. ~ Michalis Pardalos, Laura Pozzi, John Wickerson. #ITP #Coq
 + [[https://blog.zksecurity.xyz/posts/clean/][Introducing clean, a formal verification DSL for zk circuits in Lean4]]. ~ Giorgio Dell'Immagine. #ITP #LeanProver
