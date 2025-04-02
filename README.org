@@ -11,6 +11,7 @@ its content.
 
 * Content                                                                      :TOC:
 - [[#lecturas-del-año-2025][Lecturas del año 2025]]
+  - [[#abril-2025][Abril 2025]]
   - [[#marzo-2025][Marzo 2025]]
   - [[#febrero-2025][Febrero 2025]]
   - [[#enero-2025][Enero 2025]]
@@ -69,6 +70,14 @@ its content.
 - [[#lecturas-anteriores][Lecturas anteriores]]
 
 * Lecturas del año 2025
+
+** Abril 2025
+
+*** 01-Abr-25
++ [[https://www.philipzucker.com/knuck_prolog/][A small Prolog on the Z3 AST]]. ~ Philip Zucker. #Prolog #LogicProgramming #Z3 #SMT
++ [[https://arxiv.org/abs/2502.00212][STP: Self-play LLM theorem provers with iterative conjecturing and proving]]. ~ Kefan Dong, Tengyu Ma. #AI #LLMs #ITP #LeanProver
++ [[https://sugaku.net/content/ai-benchmarks-vs-real-math-research/][The disconnect between AI benchmarks and math research (Evaluating AI systems on their ability to be a mathematical copilot)]]. ~ Ralph Furman. #AI #LLMs #Math
++ [[https://sugaku.net/content/understanding-the-cultural-divide-between-mathematics-and-ai/][The cultural divide between mathematics and AI (A reflection on cultural differences observed at the 2025 Joint Mathematics Meeting)]]. ~ Ralph Furman. #AI #LLMs #Math
 
 ** Marzo 2025
 
