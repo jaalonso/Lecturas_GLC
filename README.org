@@ -73,6 +73,15 @@ its content.
 
 ** Abril 2025
 
+*** 02-Abr-25
++ [[https://leanprover-community.github.io/blog/posts/basic-probability-in-mathlib/][Basic probability in Mathlib]]. ~ Rémy Degenne. #ITP #LeanProver #Mathlib #Math
++ [[https://arxiv.org/abs/2504.00263][GOL in GOL in HOL: Verified circuits in Conway's game of life]]. ~ Magnus O. Myreen, Mario Carneiro. #ITP #HOL4
++ [[https://blog.poisson.chat/posts/2025-03-30-breadth-first-unfolds.html][Unfolding trees breadth-first in Haskell]]. ~ Li-yao Xia. #Haskell #FunctionalProgramming
++ [[https://blog.jle.im/entry/faking-adts-and-gadts.html][Faking ADTs and GADTs in languages that shouldn't have them]]. ~ Justin Lê. #Haskell #FunctionalProgramming
++ [[https://arxiv.org/abs/2503.21934][Proof or bluff? Evaluating LLMs on 2025 USA math olympiad]]. ~ Ivo Petrov et als. #LLMs #Math
++ [[https://www.taut-logic.com][TAUT2 (Here you will find various types of randomly-generated, self-correcting logic excercises)]]. #Logic
++ [[http://logic.stanford.edu/logica][Logica (Tools for thought)]]. #Logic
+
 *** 01-Abr-25
 + [[https://www.philipzucker.com/knuck_prolog/][A small Prolog on the Z3 AST]]. ~ Philip Zucker. #Prolog #LogicProgramming #Z3 #SMT
 + [[https://arxiv.org/abs/2502.00212][STP: Self-play LLM theorem provers with iterative conjecturing and proving]]. ~ Kefan Dong, Tengyu Ma. #AI #LLMs #ITP #LeanProver
