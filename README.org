@@ -73,6 +73,12 @@ its content.
 
 ** Abril 2025
 
+*** 03-Abr-25
++ [[https://www.isa-afp.org/entries/Morley_Theorem.html][Morley's theorem (in Isabelle/HOL)]]. ~ Benjamin Puyobro. #ITP #IsabelleHOL #Math
++ [[https://books.google.com/books?id=4Xc2EQAAQBAJ][Category theory using Haskell (An introduction with Moggi and Yoneda)]]. ~ Shuichi Yukita. #CategoryTheory #Math #Haskell #FunctionalProgramming
++ [[https://repository.tudelft.nl/file/File_a98b6c93-4017-42c5-bb8f-df68da0d7034][LeanSolver: Solving theorems through large language models and search]]. ~ Avi Luciano Halevy  #LLMs #ITP #LeanProver
++ [[https://youtu.be/TFBzP78Jp6A][AlphaProof: when reinforcement learning meets formal mathematics]]. ~ Thomas Hubert. #AlphaProof #AI #Math
+
 *** 02-Abr-25
 + [[https://leanprover-community.github.io/blog/posts/basic-probability-in-mathlib/][Basic probability in Mathlib]]. ~ Rémy Degenne. #ITP #LeanProver #Mathlib #Math
 + [[https://arxiv.org/abs/2504.00263][GOL in GOL in HOL: Verified circuits in Conway's game of life]]. ~ Magnus O. Myreen, Mario Carneiro. #ITP #HOL4
