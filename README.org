@@ -73,6 +73,12 @@ its content.
 
 ** Abril 2025
 
+*** 04-Abr-25
++ [[https://youtu.be/plpPffJOKu8][Learning Lean in the age of Artificial Intelligence]]. ~ Adolfo Neto. #ITP #LeanProver
++ [[https://entropicthoughts.com/guessing-game-haskell-style][Guessing game: Haskell style]]. ~ kqr. #Haskell #FunctionalProgramming
++ [[https://thunderseethe.dev/posts/function-application-grow-a-spine/][Function application needs to grow a spine already]]. ~ Thunderseethe. #Haskell #FunctionalProgramming
++ [[https://blog.ezyang.com/2025/04/why-you-should-maintain-a-personal-llm-coding-benchmark/][Why you should maintain a personal LLM coding benchmark]]. ~ Edward Z. Yang. #LLMs #Programming
+
 *** 03-Abr-25
 + [[https://www.isa-afp.org/entries/Morley_Theorem.html][Morley's theorem (in Isabelle/HOL)]]. ~ Benjamin Puyobro. #ITP #IsabelleHOL #Math
 + [[https://books.google.com/books?id=4Xc2EQAAQBAJ][Category theory using Haskell (An introduction with Moggi and Yoneda)]]. ~ Shuichi Yukita. #CategoryTheory #Math #Haskell #FunctionalProgramming
