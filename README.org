@@ -73,6 +73,9 @@ its content.
 
 ** Abril 2025
 
+*** 05-Abr-25
++ [[https://ai.gopubby.com/building-ai-for-mathematical-reasoning-996a81eb8b72][Building AI for mathematical reasoning]]. ~ Chris Garcia. #Prolog #LogicProgramming #Logic #Math
+
 *** 04-Abr-25
 + [[https://youtu.be/plpPffJOKu8][Learning Lean in the age of Artificial Intelligence]]. ~ Adolfo Neto. #ITP #LeanProver
 + [[https://entropicthoughts.com/guessing-game-haskell-style][Guessing game: Haskell style]]. ~ kqr. #Haskell #FunctionalProgramming
