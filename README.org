@@ -73,6 +73,9 @@ its content.
 
 ** Abril 2025
 
+*** 06-Abr-25
++ [[https://prologsource.wordpress.com/2025/04/05/prolog-vs-llms-a-complementary-approach-to-ai-according-to-deepseek/][Prolog vs LLMs: A complementary approach to AI (according to DeepSeek)]]. #Prolog #LogicProgramming #LLMs #AI
+
 *** 05-Abr-25
 + [[https://ai.gopubby.com/building-ai-for-mathematical-reasoning-996a81eb8b72][Building AI for mathematical reasoning]]. ~ Chris Garcia. #Prolog #LogicProgramming #Logic #Math
 
