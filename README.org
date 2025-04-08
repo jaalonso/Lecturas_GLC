@@ -73,6 +73,20 @@ its content.
 
 ** Abril 2025
 
+*** 07-Abr-25
++ [[https://arxiv.org/abs/2504.03460][Verified program extraction in number theory: The fundamental theorem of arithmetic and relatives]]. ~ Franziskus Wiesnet. #ITP #Minlog #Haskell #FunctionalProgramming #Math
++ [[https://remydegenne.github.io/CLT/blueprint][Central limit theorem in Lean]]. ~ Rémy Degenne. #ITP #LeanProver #Math
++ [[https://alexkontorovich.github.io/PrimeNumberTheoremAnd/web/][Prime number theorem and more in Lean]]. ~ Alex Kontorovich. #ITP #LeanProver #Math
++ [[https://github.com/kebekus/ProjectVD][Formalizing value distribution theory in Lean]]. ~ Stefan Kebekus. #ITP #LeanProver #Math
++ [[https://github.com/rami3l/plfl][Learn Lean 4 with PLFA (Programming Language Foundations in Agda) proofs]]. ~ rami3l. #ITP #LeanProver
++ [[https://yaeldillies.github.io/ChandraFurstLipton/][Chandra-Furst-Lipton (A digitisation of the number on the forehead model in Lean)]]. ~ Yaël Dillies. #ITP #LeanProver #Math
++ [[https://yaeldillies.github.io/Toric/][Toric varieties in Lean (Formalisation of toric varieties in Lean 4)]]. ~ Yaël Dillies, Paul Lezeau, Patrick Luo, Michał Mrugała, Justus Springer, Andrew Yang. #ITP #LeanProver #Math
++ [[https://yaeldillies.github.io/LeanAPAP/][Arithmetic progressions - almost periodicity (A digitisation of the Kelley-Meka bound on Roth numbers in Lean)]]. ~ Thomas Bloom, Yaël Dillies. #ITP #LeanProver #Math
++ [[https://github.com/benjaminselfridge/group-theory-course/tree/main][Lecture notes for an introductory course in group theory]]. ~ Ben Selfridge. #ITP #LeanProver #Math
++ [[https://schurr.io/pubs/phd-thesis.pdf][Stronger SMT solvers for proof assistants (Proofs, quantifier simplification, strategy schedules)]]. ~ Hans-Jörg Schurr. #ATP #SMT #ITP #IsabelleHOL
++ [[https://lexi-lambda.github.io/blog/2021/03/25/an-introduction-to-typeclass-metaprogramming/][An introduction to typeclass metaprogramming]]. ~ Alexis King. #Haskell #FunctionalProgramming
++ [[https://youtu.be/m3cbgebcKng][meta_predicate declarations]]. ~ Markus Triska. #Prolog #LogicProgramming
+
 *** 06-Abr-25
 + [[https://prologsource.wordpress.com/2025/04/05/prolog-vs-llms-a-complementary-approach-to-ai-according-to-deepseek/][Prolog vs LLMs: A complementary approach to AI (according to DeepSeek)]]. #Prolog #LogicProgramming #LLMs #AI
 
