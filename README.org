@@ -73,6 +73,12 @@ its content.
 
 ** Abril 2025
 
+*** 08-Abr-25
++ [[https://github.com/kevinsullivan/dmtl4][DMTL4: Discrete mathematics and theory in Lean 4]]. ~ Kevin Sullivan. #ITP #LeanProver #Math
++ [[https://github.com/kevinsullivan/cs2120f24][Course Cs2120f24: Discrete mathematics and theory in Lean 4]]. ~ Kevin Sullivan. #ITP #LeanProver #Math
++ [[https://github.com/Krillof/Lean4_math_training][Training making math proofs using Lean 4]]. ~ Krillof. #ITP #LeanProver #Math
++ [[https://arxiv.org/abs/2504.04110][PEIRCE: Unifying material and formal reasoning via LLM-driven neuro-symbolic refinement]]. ~ Xin Quan, Marco Valentino, Danilo S. Carvalho, Dhairya Dalal, André Freitas. #AI #LLMs #ITP #IsabelleHOL #Prolog #LogicProgramming
+
 *** 07-Abr-25
 + [[https://arxiv.org/abs/2504.03460][Verified program extraction in number theory: The fundamental theorem of arithmetic and relatives]]. ~ Franziskus Wiesnet. #ITP #Minlog #Haskell #FunctionalProgramming #Math
 + [[https://remydegenne.github.io/CLT/blueprint][Central limit theorem in Lean]]. ~ Rémy Degenne. #ITP #LeanProver #Math
