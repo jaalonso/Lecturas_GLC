@@ -73,6 +73,17 @@ its content.
 
 ** Abril 2025
 
+*** 10-Abr-25
++ [[https://arxiv.org/abs/2504.06239][Canonical for automated theorem proving in Lean]]. ~ Chase Norman, Jeremy Avigad. #ITP #LeanProver #Math
++ [[https://www.isa-afp.org/entries/GyrovectorSpaces.html][Formalization of gyrovector spaces as models of hyperbolic geometry and special relativity (in Isabelle/HOL)]]. ~ Filip Marić, Jelena Markovic. #ITP #IsabelleHOL
++ [[https://arxiv.org/abs/2504.06122][Leanabell-prover: Posttraining scaling in formal reasoning]]. ~ Jingyuan Zhang et als. #LLMs #ITP #LeanProver
++ [[https://arxiv.org/abs/2504.04942][Lemmanaid: Neuro-symbolic lemma conjecturing]]. ~ Yousef Alhessi et als. #LLMs #ITP #IsabelleHOL
++ [[https://www.researchgate.net/publication/390527852_Reasoning_about_AI's_reasoning][Reasoning about AI’s reasoning]]. ~ Höjer Key. #AI #LLMs #ITP #ATP
++ [[https://entropicthoughts.com/search-index-150-lines-haskell][Search index in 150 lines of Haskell]]. ~ kqr. #Haskell #FunctionalProgramming
++ [[https://dl.acm.org/doi/pdf/10.1145/3716640.3716644][Distilling PEP 8 for teaching introductory programming]]. ~ Diana Kirk, Andrew Luxton-Reilly, Ewan Tempero. #Programming
++ [[https://funcall.blogspot.com/2025/04/why-i-program-in-lisp.html][Why I program in Lisp]]. ~ Joe Marshall. #CommonLisp #FunctionalProgramming
++ [[https://arxiv.org/abs/2410.18921][From blind solvers to logical thinkers: Benchmarking LLMs' logical integrity on faulty mathematical problems]]. ~ A M Muntasir Rahman et als. #LLMs #Math #Reasoning
+
 *** 08-Abr-25
 + [[https://github.com/kevinsullivan/dmtl4][DMTL4: Discrete mathematics and theory in Lean 4]]. ~ Kevin Sullivan. #ITP #LeanProver #Math
 + [[https://github.com/kevinsullivan/cs2120f24][Course Cs2120f24: Discrete mathematics and theory in Lean 4]]. ~ Kevin Sullivan. #ITP #LeanProver #Math
