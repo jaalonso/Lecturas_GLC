@@ -73,6 +73,12 @@ its content.
 
 ** Abril 2025
 
+*** 11-Abr-25
++ [[https://hal.science/hal-05024207/document][Code generation via meta-programming in dependently typed proof assistants]]. ~ Mathis Bouverot-Dupuis, Yannick Forster. #ITP #Agda #Rocq #LeanProver
++ [[https://www.preprints.org/manuscript/202504.0684/v1][A comparative review of ZFC, NBG, and MK axiom systems: Theoretical foundations and formalization in Coq]]. ~ Si Chen, Wensheng Yu. #ITP #Coq #Rocq #Math #SetTheory
++ [[https://welltypedwitch.bearblog.dev/a-very-niche-footgun-in-ghcgenerics/][A (very niche) footgun in GHC.Generics]]. ~ welltypedwitch. #Haskell #FunctionalProgramming
++ [[https://brandonchinn178.github.io/posts/2025/04/06/ghc-string-refactor/][Refactoring strings in GHC]]. ~ Brandon Chinn. #Hakell #FunctionalProgramming
+
 *** 10-Abr-25
 + [[https://arxiv.org/abs/2504.06239][Canonical for automated theorem proving in Lean]]. ~ Chase Norman, Jeremy Avigad. #ITP #LeanProver #Math
 + [[https://www.isa-afp.org/entries/GyrovectorSpaces.html][Formalization of gyrovector spaces as models of hyperbolic geometry and special relativity (in Isabelle/HOL)]]. ~ Filip Marić, Jelena Markovic. #ITP #IsabelleHOL
