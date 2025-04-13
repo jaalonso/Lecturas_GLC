@@ -73,6 +73,9 @@ its content.
 
 ** Abril 2025
 
+*** 12-Abr-25
++ [[https://well-typed.com/blog/2025/04/ai-impact-open-source-haskell/][Evaluating AI's impact on Haskell open source development]]. ~ Matthew Pickering, Sam Derbyshire. #LLMs #Haskell #FunctionalProgramming
+
 *** 11-Abr-25
 + [[https://hal.science/hal-05024207/document][Code generation via meta-programming in dependently typed proof assistants]]. ~ Mathis Bouverot-Dupuis, Yannick Forster. #ITP #Agda #Rocq #LeanProver
 + [[https://www.preprints.org/manuscript/202504.0684/v1][A comparative review of ZFC, NBG, and MK axiom systems: Theoretical foundations and formalization in Coq]]. ~ Si Chen, Wensheng Yu. #ITP #Coq #Rocq #Math #SetTheory
