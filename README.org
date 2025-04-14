@@ -73,6 +73,12 @@ its content.
 
 ** Abril 2025
 
+*** 13-Abr-25
++ [[https://www.isa-afp.org/entries/Completeness_Decreasing_Diagrams_for_N1.html][Completeness of decreasing diagrams for the least uncountable cardinality (in Isabelle/HOL)]]. ~ Ievgen Ivanov. #ITP #IsabelleHOL #Math #SetTheory
++ [[https://arxiv.org/abs/2504.07732][Efficient formal verification of quantum error correcting programs]]. ~ Qifan Huang, Li Zhou, Wang Fang, Mengyu Zhao, Mingsheng Ying. #ITP #Coq
++ [[https://web.archive.org/web/20170902092611/https:/www.maths.cam.ac.uk/undergraduate-admissions/reading_list.pdf][Mathematical reading list (University of Cambridge)]]. #Math
++ [[https://www.theregister.com/2025/04/12/ai_code_suggestions_sabotage_supply_chain/][LLMs can't stop making up software dependencies and sabotaging everything]]. ~ Thomas Claburn. #AI #LLMs #Programming
+
 *** 12-Abr-25
 + [[https://well-typed.com/blog/2025/04/ai-impact-open-source-haskell/][Evaluating AI's impact on Haskell open source development]]. ~ Matthew Pickering, Sam Derbyshire. #LLMs #Haskell #FunctionalProgramming
 
