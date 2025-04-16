@@ -73,6 +73,17 @@ its content.
 
 ** Abril 2025
 
+*** 15-Abr-25
++ [[https://arxiv.org/abs/2504.10246][Simplified and verified: A second look at a proof-producing union-find algorithm]]. ~ Lukas Stevens, Rebecca Ghidini. #ITP #IsabelleHOL
++ [[https://www.isa-afp.org/entries/First_Order_Rewriting.html][First-order rewriting (in Isabelle/HOL)]]. ~ René Thiemann et als. #ITP #IsabelleHOL
++ [[https://www.isa-afp.org/entries/Proof_Terms_Term_Rewriting.html][Proof terms for term rewriting (in Isabelle/HOL)]]. ~ Christina Kirk. #ITP #IsabelleHOL
++ [[https://www.isa-afp.org/entries/Kolmogorov_Chentsov.html][The Kolmogorov-Chentsov theorem (in Isabelle/HOL)]]. ~ Christian Pardillo-Laursen, Simon Foster. #ITP #IsabelleHOL #Math
++ [[https://github.com/MoonshotAI/Kimina-Prover-Preview][Kimina-prover preview: Towards large formal reasoning models with reinforcement learning]]. ~ Numina & Kimi Team. #LLMs #LeanProver
++ [[https://alistairsavage.ca/mat1362/notes/MAT1362-Mathematical_reasoning_and_proofs.pdf][Mathematical reasoning & proofs]]. ~ Alistair Savage. #Math
++ [[https://gus-massa.blogspot.com/2025/04/decomposing-factorial-of-300k-as.html][Decomposing factorial of 300K as the product of 300K factors larger than 100K]]. ~ Gustavo. #Programming #RacketLang #FunctionalProgramming #Math
++ [[https://protesilaos.com/emacs/emacs-lisp-elements][Emacs Lisp elements (A big picture view of the Emacs Lisp programming language)]]. ~ Protesilaos Stavrou. #Emacs #Lisp
++ [[https://tomscii.sig7.se/2025/04/The-Barium-Experiment][The Barium experiment]]. ~ Tom Szilagyi. #CommonLisp
+
 *** 13-Abr-25
 + [[https://www.isa-afp.org/entries/Completeness_Decreasing_Diagrams_for_N1.html][Completeness of decreasing diagrams for the least uncountable cardinality (in Isabelle/HOL)]]. ~ Ievgen Ivanov. #ITP #IsabelleHOL #Math #SetTheory
 + [[https://arxiv.org/abs/2504.07732][Efficient formal verification of quantum error correcting programs]]. ~ Qifan Huang, Li Zhou, Wang Fang, Mengyu Zhao, Mingsheng Ying. #ITP #Coq
