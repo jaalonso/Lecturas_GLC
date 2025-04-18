@@ -73,6 +73,11 @@ its content.
 
 ** Abril 2025
 
+*** 17-Abr-25
++ [[https://www.math.uni-bonn.de/people/phierony/Kolly.pdf][Formalization of Fraïssé limits in Lean]]. ~ Gabin Kolly. #ITP #LeanProver #Math
++ [[https://omelkonian.github.io/data/publications/formal-streamlet.pdf][A readable and computable formalization of the Streamlet consensus protocol]]. ~ Mauro Jaskelioff, Orestis Melkonian, James Chapman. #ITP #Agda
++ [[https://www.youtube.com/live/ukk5JDRYQSc][The Haskell Unfolder Episode 42: Logic programming with typedKanren]]. ~ Edsko de Vries, Andres Löh. #Haskell #FunctionalProgramming
+
 *** 15-Abr-25
 + [[https://arxiv.org/abs/2504.10246][Simplified and verified: A second look at a proof-producing union-find algorithm]]. ~ Lukas Stevens, Rebecca Ghidini. #ITP #IsabelleHOL
 + [[https://www.isa-afp.org/entries/First_Order_Rewriting.html][First-order rewriting (in Isabelle/HOL)]]. ~ René Thiemann et als. #ITP #IsabelleHOL
