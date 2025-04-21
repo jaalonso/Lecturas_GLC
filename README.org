@@ -73,6 +73,15 @@ its content.
 
 ** Abril 2025
 
+*** 20-Abr-25
++ [[https://www.microsiervos.com/archivo/matematicas/gridbach-proyecto-comprobar-distribuida-conjetura-goldbach.html][Gridbach: Un proyecto para comprobar de forma distribuida la famosa conjetura de Goldbach]]. ~ @Alvy #Matemáticas
++ [[https://gridbach.com/][Gridbach: The grid-computing system that calculates verification of the mathematical problem "Goldbach conjecture"]]. #Math
+
+*** 19-Abr-25
++ [[https://github.com/philzook58/knuckledragger][Knuckledragger: A low barrier proof assistant]]. ~ Philip Zucker. #ITP #SMT #Z3 #Python
++ [[https://github.com/wellecks/ntptutorial][Neural theorem proving tutorial]]. ~ Sean Welleck. #MachineLearning #ITP #LeanProver
++ [[https://www.scirp.org/journal/paperinformation?paperid=141958][Listing prime numbers periodically]]. ~ Han-Lin Li, Shu-Cherng Fang, Way Kuo, Nianrui Lin. #Math #Algorithms
+
 *** 17-Abr-25
 + [[https://www.math.uni-bonn.de/people/phierony/Kolly.pdf][Formalization of Fraïssé limits in Lean]]. ~ Gabin Kolly. #ITP #LeanProver #Math
 + [[https://omelkonian.github.io/data/publications/formal-streamlet.pdf][A readable and computable formalization of the Streamlet consensus protocol]]. ~ Mauro Jaskelioff, Orestis Melkonian, James Chapman. #ITP #Agda
