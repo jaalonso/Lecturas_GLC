@@ -73,6 +73,9 @@ its content.
 
 ** Abril 2025
 
+*** 24-Abr-25
++ [[https://arxiv.org/abs/2504.13454][On the averaging problem of ideal families related to Frankl's conjecture with formal proof by Lean 4]]. ~ Masahiro Hachimori, Kenji Kashiwabara. #ITP #LeanProver #Math
+
 *** 23-Abr-25
 + [[https://link.springer.com/article/10.1007/s00146-025-02340-8][Bullshit universities: the future of automated education]]. ~ Robert Sparrow, Gene Flenady. #GenerativeAI #Education
 
