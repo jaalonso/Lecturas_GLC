@@ -73,6 +73,15 @@ its content.
 
 ** Abril 2025
 
+*** 25-Abr-25
++ [[https://github.com/a2435191/lean-logic-formalization][Lean 4 formalization of the logic textbook "Logic Notes" by Lou van den Dries]]. ~ Will Bradley. #ITP #LeanProver #Logic #Math
++ [[https://arxiv.org/abs/2504.17017][Neural theorem proving: Generating and structuring proofs for formal verification]]. ~ Balaji Rao, William Eiers, Carlo Lipizzi. #LLMs #ITP #IsabelleHOL
++ [[https://www.karlin.mff.cuni.cz/~krajicek/vddries.pdf][Mathematical Logic (Math 570) Lecture Notes]]. ~ Lou van den Drie. #Logic #Math
++ [[https://alt-romes.github.io/posts/2025-04-25-unsure-calculator-in-100-lines-of-haskell.html][Implementing Unsure Calculator in 100 lines of Haskell]]. ~ Rodrigo Mesquita. #Haskell #FunctionalProgramming
++ [[https://exploring-better-ways.bellroy.com/integrating-effectful-and-persistent.html][Integrating effectful and persistent]]. ~ Jack Kelly. #Haskell #FunctionalProgramming
++ [[https://blog.ploeh.dk/2025/04/21/porting-song-recommendations-to-haskell/][Porting song recommendations to Haskell]]. ~ Mark Seemann. #Haskell #FunctionalProgramming
++ [[https://books.google.com/books?id=aLBWEQAAQBAJ][Magical Haskell: A friendly approach to modern functional programming, type theory, and artificial intelligence]]. ~ Anton Antich. #Haskell #FunctionalProgramming #AI
+
 *** 24-Abr-25
 + [[https://arxiv.org/abs/2504.13454][On the averaging problem of ideal families related to Frankl's conjecture with formal proof by Lean 4]]. ~ Masahiro Hachimori, Kenji Kashiwabara. #ITP #LeanProver #Math
 
