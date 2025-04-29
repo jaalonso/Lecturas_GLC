@@ -73,6 +73,19 @@ its content.
 
 ** Abril 2025
 
+*** 28-Abr-25
++ [[https://arxiv.org/abs/2504.18146][Tutte's theorem as an educational formalization project]]. ~ Pim Otte. #ITP #LeanProver #Math
++ [[https://unnamed.website/posts/haskelling-my-python/][Haskelling my Python (Reimplementing Haskell lazy infinite lists using Python generators)]]. ~ Unnamed Website. #Python #Haskell #FunctionalProgramming #Math
++ [[https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=4666d43d39c890cfe88630eb93e39afe3110f930][Power series, power serious]]. ~ M. Douglas McIlroy (1998). #Haskell #FunctionalProgramming #Math
++ [[https://arxiv.org/abs/2504.18240][Tree rewriting calculi for strictly positive logics]]. ~ Sofía Santiago-Fernández, David Fernández-Duque, Joost J. Joosten. #Logic
+
+*** 27-Abr-25
++ [[https://youtu.be/bpCMklQeJKQ][Bitcoinolog: Reason about Bitcoin addresses with Prolog]]. ~ Markus Triska. #Prolog #LogicProgramming
++ [[https://www.n16f.net/blog/working-with-common-lisp-pathnames/][Working with Common Lisp pathnames]]. ~ Nicolas Martyanoff. #CommonLisp
++ [[https://openreview.net/pdf?id=5t9HFssPla][AI for program verification]]. ~ Cristian Cadar, Abhik Roychoudhury. #AI #FormalVerification
++ [[https://www.logicmatters.net/resources/pdfs/SmithCat.pdf][Introducing category theory (Version 26 Apr 2025)]]. ~ Peter Smith. #CategoryTheory
++ [[https://www.vivekhaldar.com/articles/the-levels-of-emacs-proficiency/][The levels of Emacs proficiency]]. ~ Vivek Haldar (2011). #Emacs
+
 *** 25-Abr-25
 + [[https://github.com/a2435191/lean-logic-formalization][Lean 4 formalization of the logic textbook "Logic Notes" by Lou van den Dries]]. ~ Will Bradley. #ITP #LeanProver #Logic #Math
 + [[https://arxiv.org/abs/2504.17017][Neural theorem proving: Generating and structuring proofs for formal verification]]. ~ Balaji Rao, William Eiers, Carlo Lipizzi. #LLMs #ITP #IsabelleHOL
