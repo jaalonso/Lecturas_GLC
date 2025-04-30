@@ -73,6 +73,10 @@ its content.
 
 ** Abril 2025
 
+*** 29-Abr-25
++ [[https://www.researchgate.net/publication/387899402_Improving_mathematical_proving_skills_through_interactive_theorem_proving?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InByb2ZpbGUiLCJwYWdlIjoicHJvZmlsZSJ9fQ ][Improving mathematical proving skills through interactive theorem proving]]. ~ Sana Stojanović Đurđević, Andrija Urošević, Filip Marić (2024). #ITP #IsabelleHOL #Math
++ [[https://arxiv.org/abs/2405.19270][Formalising the local compactness of the adele ring]]. ~ Salvatore Mercuri. #ITP #LeanProver #Math
+
 *** 28-Abr-25
 + [[https://arxiv.org/abs/2504.18146][Tutte's theorem as an educational formalization project]]. ~ Pim Otte. #ITP #LeanProver #Math
 + [[https://unnamed.website/posts/haskelling-my-python/][Haskelling my Python (Reimplementing Haskell lazy infinite lists using Python generators)]]. ~ Unnamed Website. #Python #Haskell #FunctionalProgramming #Math
