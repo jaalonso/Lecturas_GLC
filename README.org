@@ -73,6 +73,10 @@ its content.
 
 ** Abril 2025
 
+*** 30-Abr-25
++ [[https://infoscience.epfl.ch/server/api/core/bitstreams/c88d5882-a045-476a-935d-7e3216e2d097/content][Verified and optimized implementation of orthologic proof search]]. ~ Simon Guilloud, Clément Pit-Claudel. #ITP #Coq #Rocq
++ [[https://github.com/TwoFX/human-eval-lean][Verified hand-written Lean solutions to HumanEval]]. ~ Markus Himmel. #ITP #LeanProver
+
 *** 29-Abr-25
 + [[https://www.researchgate.net/publication/387899402_Improving_mathematical_proving_skills_through_interactive_theorem_proving?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InByb2ZpbGUiLCJwYWdlIjoicHJvZmlsZSJ9fQ ][Improving mathematical proving skills through interactive theorem proving]]. ~ Sana Stojanović Đurđević, Andrija Urošević, Filip Marić (2024). #ITP #IsabelleHOL #Math
 + [[https://arxiv.org/abs/2405.19270][Formalising the local compactness of the adele ring]]. ~ Salvatore Mercuri. #ITP #LeanProver #Math
