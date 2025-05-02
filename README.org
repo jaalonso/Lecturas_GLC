@@ -11,6 +11,7 @@ its content.
 
 * Content                                                                      :TOC:
 - [[#lecturas-del-año-2025][Lecturas del año 2025]]
+  - [[#mayo-2025][Mayo 2025]]
   - [[#abril-2025][Abril 2025]]
   - [[#marzo-2025][Marzo 2025]]
   - [[#febrero-2025][Febrero 2025]]
@@ -70,6 +71,18 @@ its content.
 - [[#lecturas-anteriores][Lecturas anteriores]]
 
 * Lecturas del año 2025
+
+** Mayo 2025
+
+*** 01-May-25
++ [[https://arxiv.org/abs/2504.21801 ][DeepSeek-Prover-V2: Advancing formal mathematical reasoning via reinforcement learning for subgoal decomposition]]. ~ Z.Z. Ren et als. #LLMs #ITP #LeanProver
++ [[https://www.quantamagazine.org/mathematical-beauty-truth-and-proof-in-the-age-of-ai-20250430/][Mathematical beauty, truth and proof in the age of AI]]. ~ Jordana Cepelewicz. #Math #AI #ITP
++ [[https://arxiv.org/abs/2504.21384][Logical modelling in CS education: Bridging the natural language gap]]. ~ Tristan Kneisel, Fabian Vehlken, Thomas Zeume. #Logic #Education
++ [[https://iltis.rub.de/][Iltis: An interactive, web-based system for teaching formal foundations of computer science]]. #Logic #Education
++ [[https://arxiv.org/abs/1804.03579][Introduction to Iltis: An interactive, web-based system for teaching logic]]. ~ Gaetano Geck et als. (2018). #Logic #Teaching
++ [[https://arxiv.org/abs/2105.05763v3][Iltis: Learning Logic in the Web]]. ~ Gaetano Geck et als. (2022). #Logic #Teaching
++ [[https://youtu.be/3i6dZgUm7JU][Clear: A formal verification framework for smart contracts in Lean]]. ~ Julian Sutherland. #ITP #LeanProver
+
 
 ** Abril 2025
 
