@@ -74,6 +74,14 @@ its content.
 
 ** Mayo 2025
 
+*** 02-May-25
++ [[https://terrytao.wordpress.com/2025/05/01/a-proof-of-concept-tool-to-verify-estimates/][A proof of concept tool to verify estimates]]. ~ Terence Tao. #Math #AI #LLMs #ChatGPT #Python
++ [[https://www.nature.com/articles/s41586-021-04086-x][Advancing mathematics by guiding human intuition with AI]]. ~ Alex Davies et als. (2021). #Math #AI
++ [[https://dl.acm.org/doi/pdf/10.1145/3732291][Semantics of probabilistic programs using s-finite kernels in dependent type theory]]. ~ Reynald Affeldt, Cyril Cohen, Ayumu Saito. #ITP #Rocq
++ [[https://europroofnet.github.io/_pages/WG5/Edinburgh25/abstracts/8.pdf][DeepIsaHOL progress report: current machine learning for the Isabelle proof assistant]]. ~ Jonathan Julián Huerta y Munive. #ITP #IsabelleHOL #LLMs
++ [[https://europroofnet.github.io/_pages/WG5/Edinburgh25/abstracts/6.pdf][Frontier of formal theorem proving with large language models: Insights from the DeepSeek-Prover]]. ~ Huajian Xin. #ITP #LeanProver #LLMs #DeepSeek
++ [[https://europroofnet.github.io/_pages/WG5/Edinburgh25/abstracts/25.pdf][Automated theorem provers as the hub of the AI math ecosystem]]. ~ Stephan Schulz. #Math #AI #ITP
+
 *** 01-May-25
 + [[https://arxiv.org/abs/2504.21801 ][DeepSeek-Prover-V2: Advancing formal mathematical reasoning via reinforcement learning for subgoal decomposition]]. ~ Z.Z. Ren et als. #LLMs #ITP #LeanProver
 + [[https://www.quantamagazine.org/mathematical-beauty-truth-and-proof-in-the-age-of-ai-20250430/][Mathematical beauty, truth and proof in the age of AI]]. ~ Jordana Cepelewicz. #Math #AI #ITP
