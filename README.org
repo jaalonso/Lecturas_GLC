@@ -74,6 +74,15 @@ its content.
 
 ** Mayo 2025
 
+*** 04-May-25
++ [[https://www.atlantis-press.com/article/126010274.pdf][Formalizing resource ownership semantics of spinlocks with the Coq proof assistant]]. ~ Sebastian Luis S. Ortiz et als. #ITP #Coq #Rocq
++ [[https://www.atlantis-press.com/article/126010278.pdf][Formalizing reversible computations for synchronous dataflow languages with infinite lists]]. ~ Sosuke Moriguchi et als. #ITP #Coq #Rocq
++ [[https://alessandrocoglio.info/techrep-2025-aleobft.pdf][Formal verification of blockchain nonforking in DAG-based BFT consensus with dynamic stake]]. ~ Alessandro Coglio, Eric McCarthy. #ITP #ACL2
++ [[https://www.tweag.io/blog/2025-04-24-minimal-megaparsec-tutorial/][The minimal megaparsec tutorial]]. ~ Clément Hurlin. #Haskell #FunctionalProgramming
++ [[https://phys.org/news/2025-05-mathematician-algebra-oldest-problem-intriguing.html][Mathematician solves algebra's oldest problem using intriguing new number sequences]]. ~ University of New South Wales. #Math
++ [[https://www.tandfonline.com/doi/pdf/10.1080/00029890.2025.2460966][A hyper-Catalan series solution to polynomial equations, and the Geode]]. ~ N.J. Wildberger, Dean Rubine. #Math
++ [[https://camilocs.substack.com/p/entrevista-a-jeffrey-ullman-acm-turing][Entrevista a Jeffrey Ullman (ACM Turing Award)]]. ~ Camilo Chacón Sartori. #Computación
+
 *** 02-May-25
 + [[https://terrytao.wordpress.com/2025/05/01/a-proof-of-concept-tool-to-verify-estimates/][A proof of concept tool to verify estimates]]. ~ Terence Tao. #Math #AI #LLMs #ChatGPT #Python
 + [[https://www.nature.com/articles/s41586-021-04086-x][Advancing mathematics by guiding human intuition with AI]]. ~ Alex Davies et als. (2021). #Math #AI
