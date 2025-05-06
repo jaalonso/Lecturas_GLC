@@ -74,6 +74,11 @@ its content.
 
 ** Mayo 2025
 
+*** 05-May-25
++ [[https://digitalcommons.chapman.edu/eecs_theses/3/][Compiling Haskell into Lean: A common abstract syntax for Haskell and interactive theorem provers]]. ~ Talitha Holcombe. #Haskell #FunctionalProgramming #ITP #LeanProver
++ [[https://journals-sol.sbc.org.br/index.php/rbie/article/download/4500/3206][Avaliando a habilidade do ChatGPT de realizar provas de dedução natural em lógica proposicional e lógica de predicados]]. ~ Francisco Leonardo Batista Martins et als. #LLLms #ChatGPT #Logic
++ [[https://alhassy.com/TypedLisp.html][Typed Lisp, a primer]]. ~ Musa Al-hassy (2019). #CommonLisp #Haskell
+
 *** 04-May-25
 + [[https://www.atlantis-press.com/article/126010274.pdf][Formalizing resource ownership semantics of spinlocks with the Coq proof assistant]]. ~ Sebastian Luis S. Ortiz et als. #ITP #Coq #Rocq
 + [[https://www.atlantis-press.com/article/126010278.pdf][Formalizing reversible computations for synchronous dataflow languages with infinite lists]]. ~ Sosuke Moriguchi et als. #ITP #Coq #Rocq
