@@ -74,6 +74,13 @@ its content.
 
 ** Mayo 2025
 
+*** 08-May-25
++ [[https://arxiv.org/abs/2505.04013][SAT-solving the poset cover problem]]. ~ Chih-Cheng Rex Yuan, Bow-Yaw Wang. #ATP #SAT_solvers #Z3
++ [[https://arxiv.org/abs/2505.02735][FormalMATH: Benchmarking formal mathematical reasoning of large language models]]. ~ Zhouliang Yu et als. #LLMs #Autoformalization #Math #ITP #LeanProver
++ [[https://arxiv.org/abs/2505.04528][Beyond theorem proving: Formulation, framework and benchmark for formal problem-solving]]. ~ Qi Liu et als. #LLMs #ITP #LeanProver
++ [[https://www.youtube.com/live/nD93M2qlwMk][The Haskell Unfolder Episode 43: Monomorphism restriction and defaulting]]. ~ Edsko de Vries, Andres Löh. #Haskell #FunctionalProgramming
++ [[https://cacm.acm.org/opinion/what-is-programming/][What is programming?... and what is programming in the age of artificial intelligence?]] ~ Sebastian Nicolajsen, Claus Brabrand. #Programming
+
 *** 06-May-25
 + [[https://www.isa-afp.org/entries/Sophie_Germain.html][Sophie Germain’s theorem (in Isabelle/HOL)]]. ~ Benoît Ballenghien. #ITP #IsabelleHOL #Math
 + [[https://www.johndcook.com/blog/2025/05/05/recamans-sequence/][Recamán’s sequence]]. ~ John D. Cook. #Math #Python
