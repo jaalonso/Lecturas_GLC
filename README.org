@@ -74,6 +74,23 @@ its content.
 
 ** Mayo 2025
 
+*** 09-May-25
++ [[https://cgi.cse.unsw.edu.au/~eptcs/paper.cgi?ThEdu24.1.pdf][Proof assistants for teaching: A survey]]. ~ Frédéric Tran Minh, Laure Gonnord and Julien Narboux. #ATP #ITP #IsabelleHOL #LeanProver #Coq #Rocq #Education
++ [[https://cgi.cse.unsw.edu.au/~eptcs/paper.cgi?ThEdu24.7.pdf][Maths with Coq in L1, a pedagogical experiment]]. ~ Marie Kerjean, Micaela Mayero and Pierre Rousselin. #ITP #Coq #Rocq #Logic #Math #Teaching
++ [[https://cgi.cse.unsw.edu.au/~eptcs/paper.cgi?ThEdu24.8.pdf][Teaching divisibility and binomials with Coq]]. ~ Sylvie Boldo, François Clément, David Hamelin, Micaela Mayero and Pierre Rousselin. #ITP #Coq #Rocq #Math #Teaching
++ [[https://cgi.cse.unsw.edu.au/~eptcs/paper.cgi?ThEdu24.2.pdf][A graphical interface for category theory proofs in Coq]]. ~ Luc Chabassier. #ITP #Coq #Rocq #CategoryTheory
++ [[https://cgi.cse.unsw.edu.au/~eptcs/paper.cgi?ThEdu24.4.pdf][OnlineProver: Experience with a visualisation tool for teaching formal proofs]]. ~ Ján Perháč et als. #ITP #Logic #Teaching
++ [[https://cgi.cse.unsw.edu.au/~eptcs/paper.cgi?ThEdu24.5.pdf][Minimal sequent calculus for teaching first-order logic: Lessons learned]]. ~ Jørgen Villadsen. #ITP #IsabelleHOL #Logic #Teaching
++ [[https://cgi.cse.unsw.edu.au/~eptcs/paper.cgi?ThEdu24.6.pdf][ProofBuddy (How it started, how it's going)]]. ~ Nadine Karsten, Kim Jana Eiken, Uwe Nestmann. #ITP #IsabelleHOL #Logic #Teaching
++ [[https://dhyeymavani.com/publication/math-thesis-lean/math-thesis-lean.pdf][Lean4 machine assisted proof framework for chip firing game & graphical Riemann-Roch]]. ~ Dhyey Dharmendrakumar Mavani. #ITP #LeanProver
++ [[https://arxiv.org/abs/2505.05362][Modelling and verifying neuronal archetypes in Coq]]. ~ Abdorrahim Bahrami, Rébecca Zucchini, Elisabetta De Maria, Amy Felty. #ITP #Coq #Rocq
++ [[https://reasonablypolymorphic.com/blog/api-analysis][Analyzing API design via algebraic laws]]. ~ Sandy Maguire. #Haskell #FunctionalProgramming
++ [[https://vitez.me/haskell-game-engine-beginnings][Beginnings of a Haskell game engine]]. ~ Mitchell Vitez. #Haskell #FunctionalProgramming
++ [[https://h2.jaguarpaw.co.uk/posts/scrap-your-iteration-combinators/][Scrap your iteration combinators]]. ~ Tom Ellis. #Haskell #FunctionalProgramming
++ [[https://pure.hw.ac.uk/ws/portalfiles/portal/149643713/TFP-2025-Author-Submitted-Manuscript.pdf][From Haskell to a new structured combinator processor]]. ~ Yukang Xie et als. #Haskell #FunctionalProgramming
++ [[https://youtu.be/9uTD7BMvbjw][Lógicas de orden superior y verificación formal]]. ~ Lourdes del Carmen González Huesca. #Logic #Math #Haskell #FunctionalProgramming #ITP #Coq #Rocq
++ [[https://drive.google.com/drive/folders/1cE1a0N-2ZMrVx8i58W0KG8s3KMVHawZn][Lógicas de orden superior y verificación formal [Slides]]]. ~ Lourdes del Carmen González Huesca. #Logic #Math #Haskell #FunctionalProgramming #ITP #Coq #Rocq
+
 *** 08-May-25
 + [[https://arxiv.org/abs/2505.04013][SAT-solving the poset cover problem]]. ~ Chih-Cheng Rex Yuan, Bow-Yaw Wang. #ATP #SAT_solvers #Z3
 + [[https://arxiv.org/abs/2505.02735][FormalMATH: Benchmarking formal mathematical reasoning of large language models]]. ~ Zhouliang Yu et als. #LLMs #Autoformalization #Math #ITP #LeanProver
