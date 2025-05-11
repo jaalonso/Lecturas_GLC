@@ -74,6 +74,12 @@ its content.
 
 ** Mayo 2025
 
+*** 10-May-25
++ [[https://terrytao.wordpress.com/2025/05/09/a-tool-to-verify-estimates-ii-a-flexible-proof-assistant/][A tool to verify estimates, II: a flexible proof assistant]]. ~Terence Tao. #ITP #Python #Math
++ [[https://kirancodes.me/posts/log-how-to-prove-it-maths.html][How to (actually) prove it - New frontiers of mathematics & computing in Lean]]. ~ Kiran. #ITP #LeanProver #Math
++ [[https://www.leanexplore.com/][LeanExplore: a new Mathlib search engine that combines semantic search embeddings, AI-generated translations, and PageRank to give optimized search results]]. #ITP #LeanProver #Mathlib
++ [[https://www.maths.ox.ac.uk/system/files/attachments/study_public_0.pdf][How do undergraduates do mathematics? (A guide to studying mathematics at Oxford University)]]. #Math
+
 *** 09-May-25
 + [[https://cgi.cse.unsw.edu.au/~eptcs/paper.cgi?ThEdu24.1.pdf][Proof assistants for teaching: A survey]]. ~ Frédéric Tran Minh, Laure Gonnord and Julien Narboux. #ATP #ITP #IsabelleHOL #LeanProver #Coq #Rocq #Education
 + [[https://cgi.cse.unsw.edu.au/~eptcs/paper.cgi?ThEdu24.7.pdf][Maths with Coq in L1, a pedagogical experiment]]. ~ Marie Kerjean, Micaela Mayero and Pierre Rousselin. #ITP #Coq #Rocq #Logic #Math #Teaching
