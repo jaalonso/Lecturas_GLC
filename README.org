@@ -74,6 +74,12 @@ its content.
 
 ** Mayo 2025
 
+*** 13-May-25
++ [[https://web.stanford.edu/class/cs99/][Course: Functional programming and theorem proving in Lean 4]]. ~ Leni Aniva, Abdalrhman Mohamed. #ITP #LeanProver #FunctionalProgramming
++ [[https://youtu.be/cyyR7j2ChCI][Formalizing a proof in Lean using Github copilot and canonical]]. ~ Terence Tao. #ITP #LeanProver #Math
++ [[https://arxiv.org/abs/2505.05758][APOLLO: Automated LLM and Lean collaboration for advanced formal reasoning]]. ~ Azim Ospanov, Farzan Farnia, Roozbeh Yousefzadeh. #LLMs #ITP #LeanProver
++ [[https://www.lavanguardia.com/ciencia/20250511/10661031/gran-ilusion-ia-piensa-siente-habla-hiciera.html][La gran ilusión de la IA: no piensa, no siente, pero habla como si lo hiciera]]. ~ Ramón López de Mántaras. #IA
+
 *** 10-May-25
 + [[https://terrytao.wordpress.com/2025/05/09/a-tool-to-verify-estimates-ii-a-flexible-proof-assistant/][A tool to verify estimates, II: a flexible proof assistant]]. ~Terence Tao. #ITP #Python #Math
 + [[https://kirancodes.me/posts/log-how-to-prove-it-maths.html][How to (actually) prove it - New frontiers of mathematics & computing in Lean]]. ~ Kiran. #ITP #LeanProver #Math
