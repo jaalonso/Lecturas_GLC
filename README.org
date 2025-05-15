@@ -74,6 +74,12 @@ its content.
 
 ** Mayo 2025
 
+*** 14-May-25
++ [[https://arxiv.org/abs/2505.07780][Formal P-category theory and normalization by evaluation in Rocq]]. ~ David G. Berry, Marcelo P. Fiore. #ITP #Rocq #CategoryTheory
++ [[https://arxiv.org/abs/2505.07681][Verified purely functional catenable real-time deques]]. ~ Jules Viennot, Arthur Wendling, Armaël Guéneau, François Pottier. #ITP #Rocq #OCaml
++ [[https://arend-lang.github.io/assets/lang-paper.pdf][Theorem prover Arend]]. ~ Fedor Part, Valery Isaev, and Sergey Sinchuk. #ITP #Arend
++ [[https://arxiv.org/abs/2404.12534][Lean Copilot: Large language models as copilots for theorem proving in Lean]]. ~ Peiyang Song, Kaiyu Yang, Anima Anandkumar. #LLMs #ITP #LeanProver
+
 *** 13-May-25
 + [[https://web.stanford.edu/class/cs99/][Course: Functional programming and theorem proving in Lean 4]]. ~ Leni Aniva, Abdalrhman Mohamed. #ITP #LeanProver #FunctionalProgramming
 + [[https://youtu.be/cyyR7j2ChCI][Formalizing a proof in Lean using Github copilot and canonical]]. ~ Terence Tao. #ITP #LeanProver #Math
