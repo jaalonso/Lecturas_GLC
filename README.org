@@ -74,6 +74,10 @@ its content.
 
 ** Mayo 2025
 
+*** 15-May-25
++ [[https://sayo-hs.github.io/blog/heftia/heftia-part-1-1][Heftia: The final word in Haskell effect system libraries (Part 1.1)]]. ~ Riyo. #Haskell #FunctionalProgramming
++ [[https://www.mlabs.city/blog/quasiquoting-for-fun-and-profit][Quasiquoting for fun, profit, expressions and patterns]]. ~ MLabs. #Haskell #FunctionalProgramming
+
 *** 14-May-25
 + [[https://arxiv.org/abs/2505.07780][Formal P-category theory and normalization by evaluation in Rocq]]. ~ David G. Berry, Marcelo P. Fiore. #ITP #Rocq #CategoryTheory
 + [[https://arxiv.org/abs/2505.07681][Verified purely functional catenable real-time deques]]. ~ Jules Viennot, Arthur Wendling, Armaël Guéneau, François Pottier. #ITP #Rocq #OCaml
