@@ -74,6 +74,12 @@ its content.
 
 ** Mayo 2025
 
+*** 16-May-25
++ [[https://deepmind.google/discover/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/][AlphaEvolve: A Gemini-powered coding agent for designing advanced algorithms]]. ~ AlphaEvolve team. #AI #LLMs #AlphaEvolve #Math
++ [[https://storage.googleapis.com/deepmind-media/DeepMind.com/Blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/AlphaEvolve.pdf][AlphaEvolve: A coding agent for scientific and algorithmic discovery]]. ~ AlphaEvolve team. #AI #LLMs #AlphaEvolve #Math
++ [[https://cacm.acm.org/news/the-collapse-of-gpt/][The collapse of GPT (Will future artificial intelligence systems perform increasingly poorly due to AI-generated material in their training data?)]]. ~ Neil Savage. #AI #GPT
++ [[https://www.genbeta.com/inteligencia-artificial/google-presenta-ia-capaz-mejorarse-a-esta-batiendo-a-grandes-matematicos-humanos][La última IA de Google promete ser capaz de mejorarse a sí misma]]. De momento, ya está superando a los matemáticos humanos. ~ Marcos Merino. #AI #LLMs #AlphaEvolve #Math
+
 *** 15-May-25
 + [[https://sayo-hs.github.io/blog/heftia/heftia-part-1-1][Heftia: The final word in Haskell effect system libraries (Part 1.1)]]. ~ Riyo. #Haskell #FunctionalProgramming
 + [[https://www.mlabs.city/blog/quasiquoting-for-fun-and-profit][Quasiquoting for fun, profit, expressions and patterns]]. ~ MLabs. #Haskell #FunctionalProgramming
