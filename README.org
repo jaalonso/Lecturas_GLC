@@ -74,6 +74,13 @@ its content.
 
 ** Mayo 2025
 
+*** 17-May-25
++ [[https://podcasts.ox.ac.uk/formalizing-future-leans-impact-mathematics-programming-and-ai][Formalizing the future: Lean’s impact on mathematics, programming, and AI]]. ~ Leo De Moura. #ITP #LeanProver #Math #CompSci #AI
++ [[https://podcasts.ox.ac.uk/will-computers-prove-theorems][Will computers prove theorems?]] ~ Kevin Buzzard. #ITP #LeanProver #Math
++ [[https://bobkonf.de/2025/breitner.html][Recursive definitions in Lean]]. ~ Joachim Breitner. #ITP #LeanProver #FunctionalProgramming
++ [[https://arxiv.org/abs/2505.07939][Digitalizing Wick's theorem]]. ~ Joseph Tooby-Smith. #ITP #LeanProver
++ [[https://www.youtube.com/live/RPQVsaZ46Dk][The Haskell Unfolder Episode 44: State-based testing with quickcheck-lockstep]]. ~ Edsko de Vries, Andres Löh. #Haskell #FunctionalProgramming
+
 *** 16-May-25
 + [[https://deepmind.google/discover/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/][AlphaEvolve: A Gemini-powered coding agent for designing advanced algorithms]]. ~ AlphaEvolve team. #AI #LLMs #AlphaEvolve #Math
 + [[https://storage.googleapis.com/deepmind-media/DeepMind.com/Blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/AlphaEvolve.pdf][AlphaEvolve: A coding agent for scientific and algorithmic discovery]]. ~ AlphaEvolve team. #AI #LLMs #AlphaEvolve #Math
