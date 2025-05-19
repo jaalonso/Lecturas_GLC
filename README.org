@@ -74,6 +74,15 @@ its content.
 
 ** Mayo 2025
 
+*** 18-May-25
++ [[https://youtu.be/zZr54G7ec7A][Formalizing a proof in Lean using Claude and o4]]. ~ Terence Tao. #ITP #LeanProver #Math
++ [[https://youtu.be/c1ixXMtmfS8][Formalizing a proof in Lean using Github Copilot only]]. ~ Terence Tao. #ITP #LeanProver #Math
++ [[https://devel.isa-afp.org/browser_info/current/AFP/Dilworth/document.pdf][Formal proof of Dilworth’s theorem (in Isabelle/HOL)]]. ~ Vivek Soorya Maadoori et als. #ITP #IsabelleHOL #Math
++ [[https://arxiv.org/abs/2505.09095v1][Benchmarking energy calculations using formal proofs]]. ~ Ejike D. Ugwuanyi, Colin T. Jones, John Velkey, Tyler R. Josephson. #ITP #LeanProver
++ [[https://lastland.github.io/pdfs/freer-arrow.pdf][Freer arrows and why you need them]]. ~ Grant Vandomelen, Yao Li. #Haskell #FunctionalProgramming
++ [[https://www.preprints.org/manuscript/202505.0993/v1][Computer science and mathematics: A powerful synergy]]. ~ Khaled M.M. Alrantisi, Mohammad Imtiyaz Gulbarga. #Math #CompSci
++ [[https://emanuelpeg.blogspot.com/2025/05/tipos-abstractos-y-polimorfismo-en.html][Tipos abstractos y polimorfismo en programación funcional]]. ~ Emanuel Goette. #Haskell #FunctionalProgramming
+
 *** 17-May-25
 + [[https://podcasts.ox.ac.uk/formalizing-future-leans-impact-mathematics-programming-and-ai][Formalizing the future: Lean’s impact on mathematics, programming, and AI]]. ~ Leo De Moura. #ITP #LeanProver #Math #CompSci #AI
 + [[https://podcasts.ox.ac.uk/will-computers-prove-theorems][Will computers prove theorems?]] ~ Kevin Buzzard. #ITP #LeanProver #Math
