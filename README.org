@@ -74,6 +74,16 @@ its content.
 
 ** Mayo 2025
 
+*** 19-May-25
++ [[https://imperialcollegelondon.github.io/FLT/blueprint.pdf][A Lean proof of Fermat’s Last Theorem]]. ~ Kevin Buzzard, Richard Taylor. #ITP #LeanProver #Math
++ [[https://drops.dagstuhl.de/storage/01oasics/oasics-vol129-fmbc2025/OASIcs.FMBC.2025.5/OASIcs.FMBC.2025.5.pdf][Towards a mechanization of fraud proof games in Lean]]. ~ Martín Ceresa, César Sánchez. #ITP #LeanProver
++ [[https://www.isa-afp.org/entries/Farey_Sequences.html][Farey sequences and Ford circles (in Isabelle/HOL)]]. ~ Lawrence C. Paulson. #ITP #IsabelleHOL #Math
++ [[https://drops.dagstuhl.de/storage/01oasics/oasics-vol129-fmbc2025/OASIcs.FMBC.2025.8/OASIcs.FMBC.2025.8.pdf][Formal verification of a fail-safe cross-chain bridge]]. ~ Filip Marić, Bernhard Scholz, Pavle Subotić. #ITP #IsabelleHOL
++ [[https://drops.dagstuhl.de/storage/01oasics/oasics-vol129-fmbc2025/OASIcs.FMBC.2025.9/OASIcs.FMBC.2025.9.pdf][Verifying smart contract transformations using bisimulations]]. ~ Kegan McIlwaine, James Caldwell. #ITP #IsabelleHOL
++ [[https://drops.dagstuhl.de/storage/01oasics/oasics-vol129-fmbc2025/OASIcs.FMBC.2025.11/OASIcs.FMBC.2025.11.pdf][Formally specifying contract optimizations with bisimulations in Coq]]. ~ Derek Sorensen. #ITP #Coq #Rocq
++ [[https://books.google.com/books?id=umDTEAAAQBAJ][Math for programming (Learn the math, write better code)]]. ~ Ronald T. Kneusel. #Math #Python #Programming
++ [[https://youtu.be/guEbzVuYzPc][Lisp. But why?]] ~ Raj. #CommonLisp #Programming
+
 *** 18-May-25
 + [[https://youtu.be/zZr54G7ec7A][Formalizing a proof in Lean using Claude and o4]]. ~ Terence Tao. #ITP #LeanProver #Math
 + [[https://youtu.be/c1ixXMtmfS8][Formalizing a proof in Lean using Github Copilot only]]. ~ Terence Tao. #ITP #LeanProver #Math
