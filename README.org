@@ -74,6 +74,14 @@ its content.
 
 ** Mayo 2025
 
+*** 20-May-25
++ [[https://arxiv.org/abs/2505.12933][Formalising the Bruhat-Tits tree]]. ~ Judith Ludwig, Christian Merten. #ITP #LeanProver
++ [[https://arxiv.org/abs/2501.14542][Ordinal exponentiation in homotopy type theory]]. ~ Tom de Jong, Nicolai Kraus, Fredrik Nordvall Forsberg, Chuangjie Xu. #ITP #Agda #HoTT
++ [[https://philipzucker.com/frozenset_dtt/][A Python frozenset interpretation of Dependent Type Theory]]. ~ Philip Zucker. #TypeTheory #Python #Logic
++ [[https://mmhaskell.com/blog/2025/5/19/comparing-code-leetcode-problems-in-rust-vs-haskell][Comparing code: LeetCode problems in Rust vs]]. Haskell. ~ James Bowen. #Haskell #FunctionalProgramming #Rust
++ [[https://arxiv.org/abs/2505.1208][Symbolic sets for proving bounds on Rado numbers]]. ~ Tanbir Ahmed, Lamina Zaman, Curtis Bright.5# #SAT_solvers #Python #Math
++ [[https://roosnaflak.com/tech-and-research/academic-formatting-org-mode/][Formatting academic papers in Emacs Orgmode]]. ~ Kenneth Flak. #Emacs #OrgMode
+
 *** 19-May-25
 + [[https://imperialcollegelondon.github.io/FLT/blueprint.pdf][A Lean proof of Fermat’s Last Theorem]]. ~ Kevin Buzzard, Richard Taylor. #ITP #LeanProver #Math
 + [[https://drops.dagstuhl.de/storage/01oasics/oasics-vol129-fmbc2025/OASIcs.FMBC.2025.5/OASIcs.FMBC.2025.5.pdf][Towards a mechanization of fraud proof games in Lean]]. ~ Martín Ceresa, César Sánchez. #ITP #LeanProver
