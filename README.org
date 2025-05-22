@@ -74,6 +74,17 @@ its content.
 
 ** Mayo 2025
 
+*** 21-May-25
++ [[https://youtu.be/LylJBfvVzyw][Will computers prove theorems?]] ~ Kevin Buzzard. #ITP #LeanProver #Math
++ [[https://youtu.be/aF7IIWfXh3A][Formalizing the future: Lean’s impact on mathematics, programming, and AI]]. ~ Leo De Moura. #ITP #LeanProver #Math #CompSci #AI
++ [[https://ankitku.github.io/stuff/floodsub-acl2ws.pdf][A formalization of the correctness of the Floodsub protocol]]. ~ Ankit Kumar, Panagiotis Manolios. #ITP #ACL2
++ [[https://github.com/codelion/openevolve][OpenEvolve: Open-source implementation of AlphaEvolve]]. ~ Asankhaya Sharma. #AI #LLMs #AlphaEvolve #Math
++ [[https://github.com/PhialsBasement/AlphaEvolve-MatrixMul-Verification][AlphaEvolveVerify: Verification of Google DeepMind's AlphaEvolve 48-multiplication matrix algorithm]]. ~ Deming Xu. #Python #Programming #Math
++ [[https://youtu.be/of92m4XNgrM][Toward safe, flexible, and efficient software in Common Lisp]]. ~ Robert Smith. #CommonLisp
++ [[https://www.researchgate.net/publication/391802524_Theorems_and_Conjectures_with_Python][Theorems and conjectures with Python]]. ~ Alessio Drivet. #Math #Python #Programming
++ [[https://www.researchgate.net/publication/391837654_Analysis_of_selection_noise_in_genetic_algorithms][Analysis of selection noise in genetic algorithms]]. Nataliya M. Gulayeva, Joaquín Borrego-Díaz, Fernando Sancho-Caparrini. #GeneticAlgoritm
++ [[https://gitlab.com/purlupar/org-expex][org-expex: Expex glosses in Org-mode (Emacs org-mode extension to auto-create linguistic glosses)]]. ~ David Diem. #Emacs #OrgMode
+
 *** 20-May-25
 + [[https://arxiv.org/abs/2505.12933][Formalising the Bruhat-Tits tree]]. ~ Judith Ludwig, Christian Merten. #ITP #LeanProver
 + [[https://arxiv.org/abs/2501.14542][Ordinal exponentiation in homotopy type theory]]. ~ Tom de Jong, Nicolai Kraus, Fredrik Nordvall Forsberg, Chuangjie Xu. #ITP #Agda #HoTT
