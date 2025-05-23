@@ -74,6 +74,14 @@ its content.
 
 ** Mayo 2025
 
+*** 22-May-25
++ [[https://www.russinoff.com/papers/linear1.pdf][A formalization of elementary linear algebra: Part I]]. ~ David M. Russinoff. #ITP #ACL2 #Math
++ [[https://arxiv.org/abs/2505.14929][Lean-auto: An interface between Lean 4 and automated theorem provers]]. ~ Yicheng Qian, Joshua Clune, Clark Barrett, Jeremy Avigad. #ITP #LeanProver
++ [[https://arxiv.org/abs/2505.15796][Lean-SMT: An SMT tactic for discharging proof goals in Lean]]. ~ Abdalrhman Mohamed, Tomaz Mascarenhas, Harun Khan, Haniel Barbosa, Andrew Reynolds, Yicheng Qian, Cesare Tinelli, Clark Barrett. #ITP #LeanProver
++ [[https://languagelog.ldc.upenn.edu/myl/llog/jmc.pdf][The roots of Lisp]]. ~ Paul Graham (2002). #Lisp #Programming
++ [[https://codigomaldito.blogspot.com/2008/02/las-rases-de-lisp.html][Las raíces de Lisp]]. ~ Paul Graham (2002). #Lisp #Programming
++ [[https://youtu.be/-QHTPXOHvIo][LISP, el "lenguaje de DIOS"]]. ~ LinuxChad. #Lisp #Programming
+
 *** 21-May-25
 + [[https://youtu.be/LylJBfvVzyw][Will computers prove theorems?]] ~ Kevin Buzzard. #ITP #LeanProver #Math
 + [[https://youtu.be/aF7IIWfXh3A][Formalizing the future: Lean’s impact on mathematics, programming, and AI]]. ~ Leo De Moura. #ITP #LeanProver #Math #CompSci #AI
