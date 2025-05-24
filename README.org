@@ -74,6 +74,13 @@ its content.
 
 ** Mayo 2025
 
+*** 23-May-25
++ [[https://arxiv.org/abs/2505.16963][A formal proof of complexity bounds on diophantine equations]]. ~ Jonas Bayer, Marco David. #ITP #IsabelleHOL #Math
++ [[https://tildeweb.au.dk/au571806/publications/files/2025-fscd-guarded-dom.pdf][Solving guarded domain equations in presheaves over ordinals and mechanizing it]]. ~ Sergei Stepanenko, Amin Timany. #ITP #RocqProver #CategoryTheory
++ [[https://arxiv.org/abs/2505.12680][Ineq-Comp: Benchmarking human-intuitive compositional reasoning in automated theorem proving on inequalities]]. ~ Haoyu Zhao et als. #LLMs #ITP #LeanProver #Math
++ [[https://arxiv.org/abs/2505.13938v2][CLEVER: A curated benchmark for formally verified code generation]]. ~ Amitayush Thakur et als. #LLMs #ITP #LeanProver #AIforCode
++ [[https://people.eng.unimelb.edu.au/rizkallahc/theses/minh-do-undergrad-project-report.pdf][Formalisation of fairness notions in assignment problem]]. ~ Duc Minh Do. #ITP #IsabelleHOL
+
 *** 22-May-25
 + [[https://www.russinoff.com/papers/linear1.pdf][A formalization of elementary linear algebra: Part I]]. ~ David M. Russinoff. #ITP #ACL2 #Math
 + [[https://arxiv.org/abs/2505.14929][Lean-auto: An interface between Lean 4 and automated theorem provers]]. ~ Yicheng Qian, Joshua Clune, Clark Barrett, Jeremy Avigad. #ITP #LeanProver
