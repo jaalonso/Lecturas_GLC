@@ -74,6 +74,12 @@ its content.
 
 ** Mayo 2025
 
+*** 24-May-25
++ [[https://arxiv.org/abs/2505.16963][A formal proof of complexity bounds on diophantine equations]]. ~ Jonas Bayer, Marco David. #ITP #IsabelleHOL #Math
++ [[https://www.isa-afp.org/entries/Munta_Model_Checker.html][Munta: A verified model checker for timed automata (in Isabelle/HOL)]]. ~ Simon Wimmer. #ITP #IsabelleHOL
++ [[https://dev.to/estebanmarin/learning-physics-with-functional-programming-and-haskell-l1h][Learning Physics with functional programming and Haskell]]. ~ Esteban Marín. #Haskell #FunctionalProgramming #Physics
++ [[https://cacm.acm.org/news/is-ai-making-coders-obsolete/][Is AI making coders obsolete? (Are there problems with having AI tools take over coding from humans?)]]. ~ Jennifer Goforth Gregory. #AIforCode
+
 *** 23-May-25
 + [[https://arxiv.org/abs/2505.16963][A formal proof of complexity bounds on diophantine equations]]. ~ Jonas Bayer, Marco David. #ITP #IsabelleHOL #Math
 + [[https://tildeweb.au.dk/au571806/publications/files/2025-fscd-guarded-dom.pdf][Solving guarded domain equations in presheaves over ordinals and mechanizing it]]. ~ Sergei Stepanenko, Amin Timany. #ITP #RocqProver #CategoryTheory
