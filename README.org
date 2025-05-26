@@ -74,6 +74,10 @@ its content.
 
 ** Mayo 2025
 
+*** 25-May-25
++ [[https://www.isa-afp.org/entries/Shallow_Expressions.html][Shallow expressions (in Isabelle/HOL)]]. ~ Simon Foster. #ITP #IsabelleHOL
++ [[https://orgro.org][Orgro: A mobile Org Mode file editor and viewer]]. #OrgMode
+
 *** 24-May-25
 + [[https://arxiv.org/abs/2505.16963][A formal proof of complexity bounds on diophantine equations]]. ~ Jonas Bayer, Marco David. #ITP #IsabelleHOL #Math
 + [[https://www.isa-afp.org/entries/Munta_Model_Checker.html][Munta: A verified model checker for timed automata (in Isabelle/HOL)]]. ~ Simon Wimmer. #ITP #IsabelleHOL
