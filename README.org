@@ -74,6 +74,13 @@ its content.
 
 ** Mayo 2025
 
+*** 27-May-25
++ [[https://arxiv.org/abs/2505.19975][Formalizing a classification theorem for low-dimensional solvable Lie algebras in Lean]]. ~ Viviana del Barco, Gustavo Infanti, Exequiel Rivas, Paul Schwahn. #ITP #LeanProver #Math
++ [[https://leanprover-community.github.io/blog/posts/simprocs-for-the-working-mathematician/][Simprocs for the working mathematician]]. ~ Yaël Dillies Paul Lezeau. #ITP #LeanProver
++ [[https://www.math.unm.edu/sites/default/files/images/Judah_Towery_Honors_Thesis_corrected.pdf][Proof assistants and type theory]]. ~ Judah Towery. #ITP #LeanProver #Math
++ [[https://www.cs.princeton.edu/~jmc16/docs/thesis.pdf][A foundationally verified intermediate verification language]]. ~ Joshua M. Cohen. #ITP #CoqProver #Wyh3
++ [[https://www.thewayofcode.com/][The way of code (The timeless art of Vibe Coding)]]. ~ Rick Rubin. #Programming #Tao
+
 *** 25-May-25
 + [[https://www.isa-afp.org/entries/Shallow_Expressions.html][Shallow expressions (in Isabelle/HOL)]]. ~ Simon Foster. #ITP #IsabelleHOL
 + [[https://orgro.org][Orgro: A mobile Org Mode file editor and viewer]]. #OrgMode
