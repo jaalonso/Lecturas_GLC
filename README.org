@@ -74,6 +74,12 @@ its content.
 
 ** Mayo 2025
 
+*** 28-May-25
++ [[https://youtu.be/-o29xda8O3g][Formalizing Fermat: an update]]. ~ Kevin Buzzard. #ITP #LeanProver #Math
++ [[https://youtu.be/fzMPusl30-k][Algebraic geometry in Mathlib]]. ~ Andrew Yang. #ITP #LeanProver #Math
++ [[https://arxiv.org/abs/2505.20613][REAL-Prover: Retrieval augmented Lean prover for mathematical reasoning]]. ~ Ziju Shen et als. #AI #TheoremProving #LeanProver #Math
++ [[https://arxiv.org/abs/2502.19311][Faithful logic embeddings in HOL (Deep and shallow)]]. ~ Christoph Benzmüller. #ITP #TheoremProving #IsabelleHOL #Logic #Math
+
 *** 27-May-25
 + [[https://arxiv.org/abs/2505.19975][Formalizing a classification theorem for low-dimensional solvable Lie algebras in Lean]]. ~ Viviana del Barco, Gustavo Infanti, Exequiel Rivas, Paul Schwahn. #ITP #LeanProver #Math
 + [[https://leanprover-community.github.io/blog/posts/simprocs-for-the-working-mathematician/][Simprocs for the working mathematician]]. ~ Yaël Dillies Paul Lezeau. #ITP #LeanProver
