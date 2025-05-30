@@ -74,6 +74,18 @@ its content.
 
 ** Mayo 2025
 
+*** 29-May-25
++ [[https://msp.cis.strath.ac.uk/types2025/abstracts/TYPES2025_paper49.pdf][Geometric reasoning in Lean: from algebraic structures to presheaves]]. ~ Kenji Maillard, Yiming Xu. #ITP #LeanProver #Math
++ [[https://interstices.info/construire-des-preuves-mathematiques/][Construire des preuves mathématiques]]. ~  Thierry Coquand, William Rowe-Pirra. #ITP #Coq
++ [[https://arxiv.org/abs/2503.20704][Formalizing colimits in Cat]]. ~ Mario Carneiro, Emily Riehl. #ITP #LeanProver
++ [[https://github.com/google-deepmind/formal-conjectures][A collection of formalized statements of conjectures in Lean, using Mathlib]]. #ITP #LeanProver #Math
++ [[https://arxiv.org/abs/2505.19816][A formal analysis of algorithms for matroids and greedoids]]. ~ Mohammad Abdulaziz, Thomas Ammer, Shriya Meenakshisundaram, Adem Rimpapa. #ITP #IsabelleHOL
++ [[https://demo.projectnumina.ai/][Kimina: Interactive mathematical proof assistant]]. #AI #ITP #LeanProver #Math
++ [[https://www.isa-afp.org/entries/Context_Free_Grammar.html][Context-free grammars and languages (in Isabelle/HOL)]]. ~ Tobias Nipkow et als. #ITP #IsabelleHOL
++ [[https://arxiv.org/abs/2409.02603][Formalising inductive and coinductive containers]]. ~ Stefania Damato, Thorsten Altenkirch, Axel Ljungström. #ITP #Agda
++ [[https://msp.cis.strath.ac.uk/types2025/abstracts/TYPES2025_paper79.pdf][Mechanized safety of Jolteon consensus in Agda]]. ~ Orestis Melkonian, Mauro Jaskelioff, and James Chapman. #ITP #Agda
++ [[https://newartisans.com/2025/05/implementing-loeb-emacs-lisp/][Implementing Löb’s theorem in Emacs Lisp]]. ~ John Wiegley. #Emacs #Lisp #Logic #Math
+
 *** 28-May-25
 + [[https://youtu.be/-o29xda8O3g][Formalizing Fermat: an update]]. ~ Kevin Buzzard. #ITP #LeanProver #Math
 + [[https://youtu.be/fzMPusl30-k][Algebraic geometry in Mathlib]]. ~ Andrew Yang. #ITP #LeanProver #Math
