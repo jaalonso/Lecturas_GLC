@@ -74,6 +74,12 @@ its content.
 
 ** Mayo 2025
 
+*** 30-May-25
++ [[https://arxiv.org/abs/2505.23205][Certified algorithms for numerical semigroups in Rocq]]. ~ Massimo Bartoletti, Stefano Bonzio, Marco Ferrara. #ITP #Rocq #Math
++ [[https://colmbaston.uk/files/thesis.pdf][Agent-based logics in dependent type theory]]. ~ Colm Baston. #ITP #Agda
++ [[https://arxiv.org/abs/2505.22846][RocqStar: Leveraging similarity-driven retrieval and agentic systems for Rocq generation]]. ~ Nikita Khramov, Andrei Kozyrev, Gleb Solovev, Anton Podkopaev. #ITP #Rocq #GenerativeAI
++ [[https://arxiv.org/abs/2505.23135][VERINA: Benchmarking verifiable code generation]]. ~ Zhe Ye, Zhengxu Yan, Jingxuan He, Timothe Kasriel, Kaiyu Yang, Dawn Song. #AIforCode #ITP #LeanProver
+
 *** 29-May-25
 + [[https://msp.cis.strath.ac.uk/types2025/abstracts/TYPES2025_paper49.pdf][Geometric reasoning in Lean: from algebraic structures to presheaves]]. ~ Kenji Maillard, Yiming Xu. #ITP #LeanProver #Math
 + [[https://interstices.info/construire-des-preuves-mathematiques/][Construire des preuves mathématiques]]. ~  Thierry Coquand, William Rowe-Pirra. #ITP #Coq
