@@ -11,6 +11,7 @@ its content.
 
 * Content                                                                      :TOC:
 - [[#lecturas-del-año-2025][Lecturas del año 2025]]
+  - [[#junio-2025][Junio 2025]]
   - [[#mayo-2025][Mayo 2025]]
   - [[#abril-2025][Abril 2025]]
   - [[#marzo-2025][Marzo 2025]]
@@ -71,6 +72,13 @@ its content.
 - [[#lecturas-anteriores][Lecturas anteriores]]
 
 * Lecturas del año 2025
+
+** Junio 2025
+
+*** 01-Jun-25
++ [[https://terrytao.wordpress.com/2025/05/31/a-lean-companion-to-analysis-i/][A Lean companion to "Analysis I"]]. ~ Terence Tao. #ITP #LeanProver #Math
++ [[https://arxiv.org/abs/2505.23381][AutoGPS: Automated geometry problem solving via multimodal formalization and deductive reasoning]]. ~ Bowen Ping et als. #MathAI
++ [[https://venhance.github.io/napkin/Napkin.pdf][An infinitely large napkin]]. ~ Evan Chen. #Math
 
 ** Mayo 2025
 
