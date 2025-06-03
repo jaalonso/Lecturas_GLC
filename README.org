@@ -75,6 +75,10 @@ its content.
 
 ** Junio 2025
 
+*** 02-Jun-25
++ [[https://ezhuchko.com/pdfs/resolver.pdf][Regex decision procedures in extended RE#]]. ~ Ian Erik Varatalu et als. #ITP #LeanProver
++ [[https://youtu.be/Zp5D_wMi97Q][Learn physics with functional programming]]. ~ Esteban Marin. #Haskell #FunctionalProgramming #Physics
+
 *** 01-Jun-25
 + [[https://terrytao.wordpress.com/2025/05/31/a-lean-companion-to-analysis-i/][A Lean companion to "Analysis I"]]. ~ Terence Tao. #ITP #LeanProver #Math
 + [[https://arxiv.org/abs/2505.23381][AutoGPS: Automated geometry problem solving via multimodal formalization and deductive reasoning]]. ~ Bowen Ping et als. #MathAI
