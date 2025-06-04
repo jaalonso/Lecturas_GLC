@@ -75,6 +75,14 @@ its content.
 
 ** Junio 2025
 
+*** 03-Jun-25
++ [[https://youtu.be/mSbf7IoI0ak ][Project Numina and AI for Theorem Proving]]. ~ Yann Fleureau. #AI #Math #ITP #LeanProver
++ [[https://www.isa-afp.org/entries/Restriction_Spaces.html][Restriction spaces: a fixed-point theory (in Isabelle/HOL)]]. ~ Benoît Ballenghienm, Benjamin Puyobro, Burkhart Wolff. #ITP #IsabelleHOL
++ [[https://arxiv.org/abs/2506.00224][Automated symmetric constructions in discrete geometry]]. ~ Bernardo Subercaseaux, Ethan Mackey, Long Qian, Marijn J. H. Heule. #ATP #SAT_Solvers #Math
++ [[https://arxiv.org/abs/2506.01711][Coalgebraic proof translations for non-wellfounded proofs]]. ~ Borja Sierra Miranda, Thomas Studer, Lukas Zenger. #Logic #Math
++ [[https://gnarledgrip.gitlab.io/25-emacs-tips.html][25 Useful tips for Emacs (for beginners and advanced users)]]. ~ Raoul Comninos. #Emacs
++ [[https://jaalonso.github.io/vestigium/posts/2025/06/03-debate-sobre-ia-y-ensenanza-de-las-matematicas/][Debate sobre IA y enseñanza de las matemáticas]]. #IA #Matemáticas
+
 *** 02-Jun-25
 + [[https://ezhuchko.com/pdfs/resolver.pdf][Regex decision procedures in extended RE#]]. ~ Ian Erik Varatalu et als. #ITP #LeanProver
 + [[https://youtu.be/Zp5D_wMi97Q][Learn physics with functional programming]]. ~ Esteban Marin. #Haskell #FunctionalProgramming #Physics
