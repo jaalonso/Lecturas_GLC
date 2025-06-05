@@ -75,6 +75,11 @@ its content.
 
 ** Junio 2025
 
+*** 04-Jun-25
++ [[https://raw.githubusercontent.com/leanprover-community/mathematics_in_lean/master/mathematics_in_lean.pdf][Mathematics in Lean (Release v4]].19.0). ~ Jeremy Avigad, Patrick Massot. #ITP #LeanProver #Math
++ [[https://lean-lang.org/functional_programming_in_lean/][Functional programming in Lean]]. ~ David Thrane Christiansen. #ITP #LeanProver #FunctionalProgramming
++ [[https://lawrencecpaulson.github.io//2025/06/04/Definitions.html][The concept of definition: in mathematics, and in computational logic]]. ~ Lawrence Paulson. #Logic #Math #ITP
+
 *** 03-Jun-25
 + [[https://youtu.be/mSbf7IoI0ak ][Project Numina and AI for Theorem Proving]]. ~ Yann Fleureau. #AI #Math #ITP #LeanProver
 + [[https://www.isa-afp.org/entries/Restriction_Spaces.html][Restriction spaces: a fixed-point theory (in Isabelle/HOL)]]. ~ Benoît Ballenghienm, Benjamin Puyobro, Burkhart Wolff. #ITP #IsabelleHOL
