@@ -75,6 +75,9 @@ its content.
 
 ** Junio 2025
 
+*** 06-Jun-25
++ [[https://arxiv.org/abs/2506.01076][Big steps in higher-order mathematical operational semantics]]. ~ Sergey Goncharov, Pouya Partow, Stelios Tsampas. #Haskell #FunctionalProgramming
+
 *** 05-Jun-25
 + [[https://b-mehta.github.io/ABC-Exceptions/][Exceptional set in the abc conjecture (in Lean)]]. ~ Jared Duker Lichtman, Bhavik Mehta. #ITP #LeanProver #Math
 + [[https://blog.atlascomputing.org/p/ide-for-validating-specifications][IDE for validating specifications]]. ~ Evan Miyazono, Daniel Windham, Alexandre Rademaker. #ITP #LeanProver
