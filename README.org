@@ -75,6 +75,9 @@ its content.
 
 ** Junio 2025
 
+*** 07-Jun-25
++ [[https://www.newscientist.com/article/2482461-the-bizarre-story-of-a-maths-proof-that-is-only-true-in-japan/][The bizarre story of a maths proof that is only true in Japan]]. ~ Jacob Aron. #Math
+
 *** 06-Jun-25
 + [[https://arxiv.org/abs/2506.01076][Big steps in higher-order mathematical operational semantics]]. ~ Sergey Goncharov, Pouya Partow, Stelios Tsampas. #Haskell #FunctionalProgramming
 
