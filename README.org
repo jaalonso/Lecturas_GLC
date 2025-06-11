@@ -75,6 +75,26 @@ its content.
 
 ** Junio 2025
 
+*** 10-Jun-25
++ [[https://lawrencecpaulson.github.io//2025/06/09/Inductive_Definitions.html][Inductive definitions]]. ~ Lawrence Paulson. #ITP #IsabelleHOL #Math
++ [[https://terrytao.wordpress.com/wp-content/uploads/2025/06/math-experiments.pdf][The equational theories project: advancing collaborative mathematical research at scale]]. ~ Terence Tao et als. #ITP #LeanProver #Math #AIforMath
++ [[https://mathscholar.org/2025/06/new-ai-stuns-mathematicians-with-its-problem-solving-skill/][New AI stuns mathematicians with its problem-solving skill]]. ~ David H Bailey. #AI #LLMs #Math #AIforMath #ITP #LeanProver
++ [[https://arxiv.org/abs/2506.07477][Premise selection for a Lean hammer]]. ~ Thomas Zhu, Joshua Clune, Jeremy Avigad, Albert Qiaochu Jiang, Sean Welleck. #ITP #LeanProver #AI
++ [[https://arxiv.org/abs/2506.04592v1][Safe: Enhancing mathematical reasoning in large language models via retrospective step-aware formal verification]]. ~ Chengwu Liu et als. #LLMs #Math #ITP #LeanProver
++ [[https://www.youtube.com/live/xZIqn4V6O0A][AlphaProof: When RL meets formal maths]]. ~ Thomas Hubert. #AI #Math #AIforMath #ITP #LeanProver #AlphaProof
++ [[https://www.youtube.com/live/WdXnMrT1X_k][AI for Math: The future of collaborative discovery]]. ~ Mateja Jamnik. #AIforMath
++ [[https://arxiv.org/abs/2506.04575v1][Are LLMs reliable translators of logical reasoning across lexically diversified contexts?]] ~ Qingchuan Li et als. #LLMs #Math #ATP #Prover9
++ [[https://coyotetracks.org/blog/dr-neckbeard-emacs/][Dr. Neckbeard, or how I learned to stop worrying and love Emacs]]. ~ Watts Martin. #Emacs
++ [[https://bib.us.es/sites/bib3.us.es/files/investiga52.pdf][Revistas, editoriales y congresos depredadores]]. #Investigación
+
+*** 09-Jun-25
++ [[https://emilyriehl.github.io/files/invisible.pdf][Formalizing invisible mathematics: case studies from higher category theory]]. ~ Emily Riehl. #ITP #LeanProver #Math #CategoryTheory
++ [[https://provables.github.io/sequencelib/][Sequencelib: A platform for formalizing in Lean 4 sequences from "The On-Line Encyclopedia of Integer Sequences" (OEIS)]]. ~ Walter Moreira, Joe Stubbs. #ITP #LeanProver #Math
++ [[https://www.scientificamerican.com/article/inside-the-secret-meeting-where-mathematicians-struggled-to-outsmart-ai/][At secret math meeting, researchers struggle to outsmart AI]]. ~ Lyndie Chiou. #AIforMath #AI #LLMs #Math
++ [[https://mmhaskell.com/blog/2025/6/9/spatial-reasoning-with-zigzag-patterns][Comparing code: Spatial reasoning with zigzag patterns! ~ James Bowen]]. #Haskell #FunctionalProgramming #Rust
++ [[https://medium.com/@kenichisasagawa/exploring-topological-spaces-with-prolog-a-practical-approach-using-mathematics-with-prolog-b5806bb8b98f][Exploring topological spaces with Prolog: A practical approach using "Mathematics with Prolog"]]. ~ Kenichi Sasagawa. #Prolog #LogicProgramming #Math
++ [[https://arxiv.org/abs/2108.09893][Teaching and learning mathematics with Prolog]]. ~ Tom Bensky (2021). #Prolog #LogicProgramming #Math
+
 *** 08-Jun-25
 + [[https://ml-site.cdn-apple.com/papers/the-illusion-of-thinking.pdf][The illusion of thinking: Understanding the strengths and limitations of reasoning models via the lens of problem complexity]]. ~ Parshin Shojaee et als. #LLMs #Reasoning
 
