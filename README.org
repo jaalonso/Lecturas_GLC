@@ -75,6 +75,13 @@ its content.
 
 ** Junio 2025
 
+*** 11-Jun-25
++ [[https://arxiv.org/abs/2506.08321][LeanTutor: A formally-verified AI tutor for mathematical proofs]]. ~ Manooshree Patel et als. #ITP #LeanProver #Math #AIforMath #Teaching
++ [[https://github.com/nielsvoss/lean-pitfalls][Common Lean pitfalls]]. ~ Niels Voss. #ITP #LeanProver
++ [[https://www.microsoft.com/en-us/research/blog/rewriting-symcrypt-in-rust-to-modernize-microsofts-cryptographic-library/][Rewriting SymCrypt in Rust to modernize Microsoft’s cryptographic library]]. ~ Brenda Potts. #ITP #LeanProver #RustLang
++ [[https://arxiv.org/abs/2506.08294v1][Z3Guide: A scalable, student-centered, and extensible educational environment for logic modeling]]. ~ Ruanqianqian Huang, Ayana Monroe, Peli de Halleux, Sorin Lerner, Nikolaj Bjørner. #Logic #SMT #Z3 #Teaching
++ [[https://hal.univ-lille.fr/hal-05061202v1/file/main.pdf][Martin Davis: An overview of his work in logic, computer science, and philosophy]]. ~ Liesbeth De Mol, Yuri V. Matiyasevich, Eugenio G. Omodeo, Alberto Policriti, Wilfried Sieg, Elaine J. Weyuker. #Logic #Math #CompSci
+
 *** 10-Jun-25
 + [[https://lawrencecpaulson.github.io//2025/06/09/Inductive_Definitions.html][Inductive definitions]]. ~ Lawrence Paulson. #ITP #IsabelleHOL #Math
 + [[https://terrytao.wordpress.com/wp-content/uploads/2025/06/math-experiments.pdf][The equational theories project: advancing collaborative mathematical research at scale]]. ~ Terence Tao et als. #ITP #LeanProver #Math #AIforMath
