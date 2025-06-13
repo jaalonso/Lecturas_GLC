@@ -75,6 +75,14 @@ its content.
 
 ** Junio 2025
 
+*** 12-Jun-25
++ [[https://www.youtube.com/live/R2t9ZRWiWEk][Formalizing the divided power envelope in Lean]]. ~ María Inés de Frutos Fernández. #ITP #LeanProver #Math
++ [[https://www.youtube.com/live/YtbfIjgzNDI][Lean meta-theory: The proofs behind the proofs]]. ~ Mario Carneiro. #ITP #LeanProver
++ [[https://github.com/litexlang/golitex][Litex: Scale formal reasoning in AI age]]. ~ Jiachen Shen. #Logic #ATP #LitexLang
++ [[https://neus-2025.github.io/files/papers/paper_33.pdf][Lean Copilot: Large language models as copilots for theorem proving in Lean]]. ~ Peiyang Song, Kaiyu Yang, Anima Anandkumar. #ITP #LeanProver #LLMs
++ [[https://dl.acm.org/doi/pdf/10.1145/3713082.3730382][Can large language models verify system software? A case study using FSCQ as a benchmark]]. ~ Jianxing Qin et als. #LLMs #ITP #CoqProver #Rocq
++ [[https://muratkasimov.art/Ya/Articles/Reinventing-records-and-variants][Reinventing records and variants]]. ~ Murat Kasimov. #Haskell #FunctionalProgramming
+
 *** 11-Jun-25
 + [[https://arxiv.org/abs/2506.08321][LeanTutor: A formally-verified AI tutor for mathematical proofs]]. ~ Manooshree Patel et als. #ITP #LeanProver #Math #AIforMath #Teaching
 + [[https://github.com/nielsvoss/lean-pitfalls][Common Lean pitfalls]]. ~ Niels Voss. #ITP #LeanProver
