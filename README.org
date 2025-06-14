@@ -75,6 +75,16 @@ its content.
 
 ** Junio 2025
 
+*** 13-Jun-25
++ [[https://arxiv.org/abs/2503.00959][Formalizing zeta and L-functions in Lean]]. ~ David Loeffler, Michael Stoll. #ITP #LeanProver #Math
++ [[http://adam.chlipala.net/theses/teshome.pdf][Formal verification of relational algebra transformations in Fiat2 using Coq]]. ~ Christian Teshome. #ITP #CoqProver #Rocq
++ [[https://arxiv.org/abs/2506.10048][Growing a modular framework for modal systems - HOLMS: a HOL Light library]]. ~ Antonella Bilotta. #ITP #HOL_Light #Logic #Math
++ [[https://www.morph.so/blog/trinity][Trinity: an autoformalization system for verified superintelligence]]. #Autoformalization #AIforMath #ITP #LeanProver
++ [[https://github.com/morph-labs/lean-abc-true-almost-always][The abc conjecture almost always — autoformalized]]. ~ Jesse Michael Han et als. #Autoformalization #AIforMath #ITP #LeanProver
++ [[https://arxiv.org/abs/2506.06034][MATP-BENCH: Can MLLM be a good automated theorem prover for multimodal problems?]] ~ Zhitao He et als. #AI #MLLMs #Math #ITP #IsabelleHOL #LeanProver #CoqProver #AIforMath
++ [[https://arxiv.org/abs/2506.07047][Mathesis: Towards formal theorem proving from natural languages]]. ~ Yu Xuejun et als. #AI #LLMs #Math #ITP #LeanProver #AIforMath
++ [[https://arxiv.org/abs/2506.10558][StepProof: Step-by-step verification of natural language mathematical proofs]]. ~ Xiaolin Hu, Qinghua Zhou, Bogdan Grechuk, Ivan Y. Tyukin. #LLMs #ITP #IsabelleHOL #Math #AIforMath
+
 *** 12-Jun-25
 + [[https://www.youtube.com/live/R2t9ZRWiWEk][Formalizing the divided power envelope in Lean]]. ~ María Inés de Frutos Fernández. #ITP #LeanProver #Math
 + [[https://www.youtube.com/live/YtbfIjgzNDI][Lean meta-theory: The proofs behind the proofs]]. ~ Mario Carneiro. #ITP #LeanProver
