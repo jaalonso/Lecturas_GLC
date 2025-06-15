@@ -75,6 +75,11 @@ its content.
 
 ** Junio 2025
 
+*** 14-Jun-25
++ [[https://amslaurea.unibo.it/id/eprint/32676/1/MasterThesis.pdf][Formalizing information theory in Lean 4: divergences, hypothesis testing and the data processing inequality]]. ~ Lorenzo Luccioli. #ITP #LeanProver #Math
++ [[https://amslaurea.unibo.it/id/eprint/35220/1/TESI_MAGISTRALE_MARCO_PETRACCI-finale.pdf][Collaboration and innovation in the Equational Theories Project: Formalizing mathematics with Lean 4]]. ~ Marco Petracci. #ITP #LeanProver #Math
++ [[https://irreal.org/blog/?p=13051][Is Emacs an operating system?]] #Emacs
+
 *** 13-Jun-25
 + [[https://arxiv.org/abs/2503.00959][Formalizing zeta and L-functions in Lean]]. ~ David Loeffler, Michael Stoll. #ITP #LeanProver #Math
 + [[http://adam.chlipala.net/theses/teshome.pdf][Formal verification of relational algebra transformations in Fiat2 using Coq]]. ~ Christian Teshome. #ITP #CoqProver #Rocq
