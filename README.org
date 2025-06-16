@@ -75,6 +75,13 @@ its content.
 
 ** Junio 2025
 
+*** 15-Jun-25
++ [[https://www.dcs.gla.ac.uk/~michele/papers/SAC2025.pdf][BiCoq: Bigraphs formalisation with Coq]]. ~ Cécile Marcon et als. #ITP #CoqProver #Rocq #Math
++ [[https://byorgey.github.io/blog/posts/2025/06/10/comprog-hs-intro.html][Introduction to competitive programming in Haskell]]. ~ Brent Yorgey. #Haskell #FunctionalProgramming
++ [[https://github.com/meooow25/haccepted][Data structures and algorithms for competitive programming in Haskell]]. ~ Soumik Sarkar. #Haskell #FunctionalProgramming
++ [[https://youtu.be/HUkBz-cdB-k][Hardest problems in mathematics, physics & the future of AI]]. ~ Terence Tao, Lex Fridman. #ITP #LeanProver #AI #Math #AIforMath
++ [[https://youtu.be/qtVjx9mKVoE][Hablemos de LISP]]. ~ Manuel Rubio, Antonio Rubio. #Lisp #Programming
+
 *** 14-Jun-25
 + [[https://amslaurea.unibo.it/id/eprint/32676/1/MasterThesis.pdf][Formalizing information theory in Lean 4: divergences, hypothesis testing and the data processing inequality]]. ~ Lorenzo Luccioli. #ITP #LeanProver #Math
 + [[https://amslaurea.unibo.it/id/eprint/35220/1/TESI_MAGISTRALE_MARCO_PETRACCI-finale.pdf][Collaboration and innovation in the Equational Theories Project: Formalizing mathematics with Lean 4]]. ~ Marco Petracci. #ITP #LeanProver #Math
