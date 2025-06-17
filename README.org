@@ -75,6 +75,12 @@ its content.
 
 ** Junio 2025
 
+*** 16-Jun-25
++ [[https://arxiv.org/abs/2410.01466][A complete formalization of Fermat's Last Theorem for regular primes in Lean]]. ~ Alex Best, Christopher Birkbeck, Riccardo Brasca, Eric Rodriguez Boidi, Ruben van De Velde, Andrew Yang. #ITP #LeanProver #Math
++ [[https://arxiv.org/abs/2506.11085][LeanExplore: A search engine for Lean 4 declarations]]. ~ Justin Asher. #ITP #LeanProver
++ [[https://www.math.nagoya-u.ac.jp/~garrigue/papers/weng-forte2025.pdf][An approach to formalize information-theoretic security of multiparty computation protocols]]. ~ Cheng-Hui Weng, Reynald Affeldt, Jacques Garrigue, Takafumi Saikawa. #ITP #Rocq
++ [[https://www.math.nagoya-u.ac.jp/~garrigue/papers/weng-ppl2025.pdf][Toward a formalization of secure multiparty computation stack]]. ~ Cheng-Hui Weng, Reynald Affeldt, Jacques Garrigue, Takafumi Saikaaw. #ITP #CoqProver #Rocq
+
 *** 15-Jun-25
 + [[https://www.dcs.gla.ac.uk/~michele/papers/SAC2025.pdf][BiCoq: Bigraphs formalisation with Coq]]. ~ Cécile Marcon et als. #ITP #CoqProver #Rocq #Math
 + [[https://byorgey.github.io/blog/posts/2025/06/10/comprog-hs-intro.html][Introduction to competitive programming in Haskell]]. ~ Brent Yorgey. #Haskell #FunctionalProgramming
