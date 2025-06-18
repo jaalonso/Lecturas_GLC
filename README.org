@@ -75,6 +75,12 @@ its content.
 
 ** Junio 2025
 
+*** 17-Jun-25
++ [[https://github.com/JOSHCLUNE/LeanHammer][LeanHammer: an automated reasoning tool for Lean which combines multiple techniques for proof search and formal reconstruction]]. ~ Joshua Clune et als. #ITP #LeanProver
++ [[https://byorgey.github.io/blog/posts/2025/06/16/monads-are-not-burritos.html][Monads are not like burritos]]. ~ Brent Yorgey. #Haskell #FunctionalProgramming
++ [[https://mmhaskell.com/blog/2025/6/16/two-pointer-algorithms][Comparing codes: Two pointer algorithms]]. ~ James Bowen. #Haskell #FunctionalProgramming #Rust
++ [[https://well-typed.com/blog/2025/06/ghci-multiple-home-units/][Making GHCi compatible with multiple home units]]. ~ Hannes Siebenhandl, Matthew Pickering. #Haskell #FunctionalProgramming
+
 *** 16-Jun-25
 + [[https://arxiv.org/abs/2410.01466][A complete formalization of Fermat's Last Theorem for regular primes in Lean]]. ~ Alex Best, Christopher Birkbeck, Riccardo Brasca, Eric Rodriguez Boidi, Ruben van De Velde, Andrew Yang. #ITP #LeanProver #Math
 + [[https://arxiv.org/abs/2506.11085][LeanExplore: A search engine for Lean 4 declarations]]. ~ Justin Asher. #ITP #LeanProver
