@@ -75,6 +75,19 @@ its content.
 
 ** Junio 2025
 
+*** 20-Jun-25
++ [[https://dev.to/adolfont/lean-won-the-sigplan-programming-languages-software-award-2025-3gf][Lean won the SIGPLAN Programming Languages Software Award 2025]]. ~ Adolfo Neto. #ITP #LeanProver
++ [[https://leanprover-community.github.io/blog/posts/abelian-categories/][Theorems about abelian categories (in Lean)]]. ~ Markus Himmel, Joël Riou. #ITP #LeanProver #Math
++ [[https://jaalonso.github.io/vestigium/posts/2025/06/20-lean-ha-ganado-el-sigplan-programming-languages-software-award-2025/][Lean obtiene el prestigioso «SIGPLAN Programming Languages Software Award 2025»]]. #ITP #LeanProver
+
+*** 19-Jun-25
++ [[https://www.isa-afp.org/entries/Galois_Energy_Games.html][Galois energy games (in Isabelle/HOL)]]. ~ Caroline Lemke. #ITP #IsabelleHOL
++ [[https://www.isa-afp.org/entries/Chomsky_Schuetzenberger.html][Chomsky-Schützenberger representation theorem (in Isabelle/HOL)]]. ~ Moritz Roos. #ITP #IsabelleHOL
++ [[https://www.isa-afp.org/entries/Dyck_Language.html][Dyck language (in Isabelle/HOL)]]. ~ Tobias Nipkow, Moritz Roos. #ITP #IsabelleHOL
++ [[https://dl.acm.org/doi/pdf/10.1145/3729331][Making concurrent hardware verification sequential]]. ~ Thomas Bourgeat, Jiazheng Liu, Adam Chlipala, Arvind. #ITP #CoqProver #Rocq
++ [[https://arxiv.org/abs/2506.11487v1][Reviving DSP for advanced theorem proving in the era of reasoning models]]. ~ Chenrui Cao, Liangcheng Song, Zenan Li, Xinyi Le, Xian Zhang, Hui Xue, Fan Yang. #AI #Math #AIforMath #LLMs #ITP #LeanProver
++ [[https://jaalonso.github.io/vestigium/posts/2025/06/19-can-ai-quicken-the-pace-of-math-discovery/][Reseña de «Can A.I. quicken the pace of math discovery?»]]. #AI #Math #AIforMath #ITP #LeanProver
+
 *** 17-Jun-25
 + [[https://github.com/JOSHCLUNE/LeanHammer][LeanHammer: an automated reasoning tool for Lean which combines multiple techniques for proof search and formal reconstruction]]. ~ Joshua Clune et als. #ITP #LeanProver
 + [[https://byorgey.github.io/blog/posts/2025/06/16/monads-are-not-burritos.html][Monads are not like burritos]]. ~ Brent Yorgey. #Haskell #FunctionalProgramming
