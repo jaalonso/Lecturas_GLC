@@ -75,6 +75,12 @@ its content.
 
 ** Junio 2025
 
+*** 21-Jun-25
++ [[https://lean-lang.org/theorem_proving_in_lean4/][Theorem proving in Lean 4]]. ~ Jeremy Avigad, Leonardo de Moura, Soonho Kong, Sebastian Ullrich et als. #ITP #LeanProver
++ [[https://www.cs.cmu.edu/~mheule/publications/scpog-SAT25.pdf][Certifying projected knowledge compilation]]. ~ Randal E. Bryant, Yong Kiam Tan, Marijn J. H. Heule. #ITP #HOL4
++ [[https://arxiv.org/abs/2506.12212v1][Freer arrows and why you need them in Haskell]]. ~ Grant VanDomelen, Gan Shen, Lindsey Kuper, Yao Li. #Haskell #FunctionalProgramming
++ [[https://dl.acm.org/doi/pdf/10.1145/3732771.3742710][Property-based testing of attribute grammars]]. ~ José Nuno Macedo, Marcos Viera, João Saraiva. #Haskell #FunctionalProgramming
+
 *** 20-Jun-25
 + [[https://dev.to/adolfont/lean-won-the-sigplan-programming-languages-software-award-2025-3gf][Lean won the SIGPLAN Programming Languages Software Award 2025]]. ~ Adolfo Neto. #ITP #LeanProver
 + [[https://leanprover-community.github.io/blog/posts/abelian-categories/][Theorems about abelian categories (in Lean)]]. ~ Markus Himmel, Joël Riou. #ITP #LeanProver #Math
