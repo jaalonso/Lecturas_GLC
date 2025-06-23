@@ -75,6 +75,13 @@ its content.
 
 ** Junio 2025
 
+*** 22-Jun-25
++ [[https://mizar.uwb.edu.pl/fm/fm33/surrealc.pdf][Conway’s normal form in the Mizar system]]. ~ Karol Pąk. #ITP #Mizar #Math
++ [[https://mizar.uwb.edu.pl/fm/fm33/newton06.pdf][Application of complex classes to number theory (in Mizar)]]. ~ Rafał Ziobro. #ITP #Mizar #Math
++ [[https://mizar.uwb.edu.pl/fm/fm33/gr_free0.pdf][Free product of groups (in Mizar)]]. ~ Sebastian Koch. #ITP #Mizar #Math
++ [[https://mizar.uwb.edu.pl/fm/fm33/surreals.pdf][Surreal numbers: A study of square roots (in Mizar)]]. ~ Karol Pąk. #ITP #Mizar #Math
++ [[https://mizar.uwb.edu.pl/fm/fm33/surrealn.pdf][Surreal dyadic and real numbers: A formal construction (in Mizar)]]. ~ Karol Pąk. #ITP #Mizar #Math
+
 *** 21-Jun-25
 + [[https://lean-lang.org/theorem_proving_in_lean4/][Theorem proving in Lean 4]]. ~ Jeremy Avigad, Leonardo de Moura, Soonho Kong, Sebastian Ullrich et als. #ITP #LeanProver
 + [[https://www.cs.cmu.edu/~mheule/publications/scpog-SAT25.pdf][Certifying projected knowledge compilation]]. ~ Randal E. Bryant, Yong Kiam Tan, Marijn J. H. Heule. #ITP #HOL4
