@@ -75,6 +75,12 @@ its content.
 
 ** Junio 2025
 
+*** 23-Jun-25
++ [[https://studenttheses.uu.nl/bitstream/handle/20.500.12932/49043/MSc.%20Thesis,%20Sam%20Lindauer,%20Mathematical%20Sciences.pdf][Formalising differential geometry and topology in Lean: Differential forms and the Whitney–Graustein theorem]]. ~ Sam J. L. Lindauer. #ITP #LeanProver #Math
++ [[https://philarchive.org/archive/SHKAVA][A verified algebra of cognition: A Coq formalization of the distinction field]]. ~ Andrey Shkursky. #ITP #CoqProver
++ [[https://arxiv.org/abs/2412.20878][A formal correctness proof of Edmonds' blossom shrinking algorithm]]. ~ Mohammad Abdulaziz. #ITP #IsabelleHOL
++ [[https://arxiv.org/abs/2506.17104][Towards advanced mathematical reasoning for LLMs via first-order logic theorem proving]]. ~ Chuxue Cao et als. #LLMs #ITP #LeanProver #Math
+
 *** 22-Jun-25
 + [[https://mizar.uwb.edu.pl/fm/fm33/surrealc.pdf][Conway’s normal form in the Mizar system]]. ~ Karol Pąk. #ITP #Mizar #Math
 + [[https://mizar.uwb.edu.pl/fm/fm33/newton06.pdf][Application of complex classes to number theory (in Mizar)]]. ~ Rafał Ziobro. #ITP #Mizar #Math
