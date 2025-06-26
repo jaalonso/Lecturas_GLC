@@ -12,6 +12,7 @@ its content.
 * Content                                                                      :TOC:
 - [[#lecturas-del-año-2025][Lecturas del año 2025]]
   - [[#junio-2025][Junio 2025]]
+- [[#24-jun-25][24-Jun-25]]
   - [[#mayo-2025][Mayo 2025]]
   - [[#abril-2025][Abril 2025]]
   - [[#marzo-2025][Marzo 2025]]
@@ -74,6 +75,10 @@ its content.
 * Lecturas del año 2025
 
 ** Junio 2025
+
+* 24-Jun-25
++ [[https://byorgey.github.io/blog/posts/2025/06/23/range-queries-classified.html][Competitive programming in Haskell: range queries, classified]]. ~ Brent Yorgey. #Haskell #FunctionalProgramming
++ [[https://mmhaskell.com/blog/2025/6/23/the-sliding-window-in-haskell-amp-rust][Comparing codes: The sliding window in Haskell & Rust]]. ~ James Bowen. #Haskell #FunctionalProgramming #Rust
 
 *** 23-Jun-25
 + [[https://studenttheses.uu.nl/bitstream/handle/20.500.12932/49043/MSc.%20Thesis,%20Sam%20Lindauer,%20Mathematical%20Sciences.pdf][Formalising differential geometry and topology in Lean: Differential forms and the Whitney–Graustein theorem]]. ~ Sam J. L. Lindauer. #ITP #LeanProver #Math
