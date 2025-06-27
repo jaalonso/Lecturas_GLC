@@ -12,7 +12,6 @@ its content.
 * Content                                                                      :TOC:
 - [[#lecturas-del-año-2025][Lecturas del año 2025]]
   - [[#junio-2025][Junio 2025]]
-- [[#24-jun-25][24-Jun-25]]
   - [[#mayo-2025][Mayo 2025]]
   - [[#abril-2025][Abril 2025]]
   - [[#marzo-2025][Marzo 2025]]
@@ -76,7 +75,16 @@ its content.
 
 ** Junio 2025
 
-* 24-Jun-25
+*** 26-Jun-25
++ [[https://leanprover-community.github.io/blog/posts/affine-group-schemes-hopf-algebra/][The correspondence between affine group schemes and Hopf algebras (in Lean)]]. ~ Yaël Dillies, Michał Mrugała, Andrew Yang. #ITP #LeanProver #Math
++ [[https://leanprover-community.github.io/blog/posts/searching-for-theorems-in-mathlib/][Searching for theorems in Mathlib]]. ~ Bolton Bailey. #ITP #LeanProver #Math
++ [[https://www.isa-afp.org/entries/Hidden_Number_Problem.html][The hidden number problem (in Isabelle/HOL)]]. ~ Sage Binder, Eric Ren, Katherine Kosaian. #ITP #IsabelleHOL
++ [[https://www.isa-afp.org/entries/Splitting_Framework.html][A modular splitting framework for saturation theorem proving (in Isabelle/HOL)]]. ~ Ghilain Bergeron, Florent Krasnopol, Sophie Tourret. #ITP #IsabelleHOL
++ [[https://www.isa-afp.org/entries/Sigmoid_Universal_Approximation.html][The sigmoid function and the universal approximation theorem (in Isabelle/HOL)]]. ~ Dustin Bryant, Jim Woodcock, Simon Foster. #ITP #IsabelleHOL
++ [[https://imiron.io/post/linkedin-queens/][Solving LinkedIn queens with Haskell]]. ~ Agnishom Chattopadhyay. #Haskell #FunctionalProgramming
++ [[https://www.youtube.com/live/9hrDm7xDpig][The Haskell Unfolder Episode 45: Haskell records in 2025]]. ~ Edsko de Vries, Andres Löh. #Haskell #FunctionalProgramming
+
+*** 24-Jun-25
 + [[https://byorgey.github.io/blog/posts/2025/06/23/range-queries-classified.html][Competitive programming in Haskell: range queries, classified]]. ~ Brent Yorgey. #Haskell #FunctionalProgramming
 + [[https://mmhaskell.com/blog/2025/6/23/the-sliding-window-in-haskell-amp-rust][Comparing codes: The sliding window in Haskell & Rust]]. ~ James Bowen. #Haskell #FunctionalProgramming #Rust
 
