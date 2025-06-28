@@ -75,6 +75,14 @@ its content.
 
 ** Junio 2025
 
+*** 27-Jun-25
++ [[https://youtu.be/6uLXA9KROBg][Formalizing a proof in Lean by hand]]. ~ Terence Tao. #ITP #LeanProver #Math
++ [[https://arxiv.org/abs/2506.18616v2][A formalization of the Ionescu-Tulcea theorem in Mathlib]]. ~ Etienne Marion. #ITP #LeanProver #Math
++ [[https://arxiv.org/abs/2503.00959][Formalizing zeta and L-functions in Lean]]. ~ David Loeffler, Michael Stoll. #ITP #LeanProver #Math
++ [[https://thmprover.wordpress.com/2025/06/24/redefinitions-in-mizar/][Redefinitions in Mizar]]. ~ Alex Nelson. #ITP #Mizar #Math
++ [[https://openreview.net/pdf?id=HuvAM5x2xG][Position: Formal mathematical reasoning (a new frontier in AI)]]. ~ Kaiyu Yang et als. #AI #LLMs #Math #AI4Math #ITP
++ [[https://arxiv.org/abs/2506.18383v1][LOGICPO: Efficient translation of NL-based logical problems to FOL using LLMs and preference optimization]]. ~ Koushik Viswanadha, Deepanway Ghosal, Somak Aditay. #LLMs #Math #Autoformalization
+
 *** 26-Jun-25
 + [[https://leanprover-community.github.io/blog/posts/affine-group-schemes-hopf-algebra/][The correspondence between affine group schemes and Hopf algebras (in Lean)]]. ~ Yaël Dillies, Michał Mrugała, Andrew Yang. #ITP #LeanProver #Math
 + [[https://leanprover-community.github.io/blog/posts/searching-for-theorems-in-mathlib/][Searching for theorems in Mathlib]]. ~ Bolton Bailey. #ITP #LeanProver #Math
