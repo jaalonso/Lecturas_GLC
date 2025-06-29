@@ -75,6 +75,12 @@ its content.
 
 ** Junio 2025
 
+*** 28-Jun-25
++ [[https://drops.dagstuhl.de/storage/00lipics/lipics-vol333-ecoop2025/LIPIcs.ECOOP.2025.14/LIPIcs.ECOOP.2025.14.pdf][IsaBIL: A framework for verifying (in)correctness of binaries in Isabelle/HOL]]. ~ Matt Griffin, Brijesh Dongol, Azalea Raad. #ITP #IsabelleHOL
++ [[https://drops.dagstuhl.de/storage/00lipics/lipics-vol333-ecoop2025/LIPIcs.ECOOP.2025.31/LIPIcs.ECOOP.2025.31.pdf][Multiparty asynchronous session types: A mechanised proof of subject reduction]]. ~ Authors Dawit Tirore, Jesper Bengtson, Marco Carbone. #ITP #CoqProver
++ [[https://byorgey.github.io/blog/posts/2025/06/27/prefix-sums.html][Competitive programming in Haskell: prefix sums]]. ~ Brent Yorgey. #Haskell #FunctionalProgramming
++ [[https://openreview.net/pdf?id=GCjsjnl8yA][ProofAug: Efficient neural theorem proving via fine-grained proof structure analysis]]. ~ Haoxiong Liu et als. #LLMs #ITP #IsabelleHOL #LeanProver
+
 *** 27-Jun-25
 + [[https://youtu.be/6uLXA9KROBg][Formalizing a proof in Lean by hand]]. ~ Terence Tao. #ITP #LeanProver #Math
 + [[https://arxiv.org/abs/2506.18616v2][A formalization of the Ionescu-Tulcea theorem in Mathlib]]. ~ Etienne Marion. #ITP #LeanProver #Math
