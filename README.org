@@ -75,6 +75,14 @@ its content.
 
 ** Junio 2025
 
+*** 29-Jun-25
++ [[https://link.springer.com/article/10.1007/s10817-025-09724-x][Constructing the Lie algebra of smooth vector fields on a Lie group in Isabelle/HOL]]. ~ Richard Schmoetten, Jacques D. Fleuriot. #ITP #IsabelleHOL #Math
++ [[https://inria.hal.science/hal-05128954/document][A Rocq formalization of simplicial Lagrange finite elements]]. ~ Sylvie Boldo, François Clément, Vincent Martin, Micaela Mayero, Houda Mouhcine. #ITP #Rocq #Math
++ [[https://aaltodoc.aalto.fi/server/api/core/bitstreams/e401c1e1-3dcb-4a31-b832-5ace8081dee9/content][Formal correctness proof of a mapping from a software specification language to the relational algebra]]. ~ Stan Dargent. #ITP #IsabelleHOL
++ [[https://eprintspublications.npl.co.uk/10181/1/MS60.pdf][Functional programming (with some type theory) for metrology]]. ~ André Videla, Keith Lines. #Haskell #Idris #FunctionalProgramming
++ [[https://arxiv.org/abs/2506.19923v1][Prover Agent: An agent-based framework for formal mathematical proofs]]. ~ Kaito Baba, Chaoran Liu, Shuhei Kurita, Akiyoshi Sannai. #LLMs #ITP #LeanProver
++ [[https://link.springer.com/article/10.1007/s12065-025-01062-6][Pearclustering: a novel clustering algorithm with an application to bike mobility]]. ~ Francisco Marquez-Saldaña, Gonzalo A. Aranda-Corral, Joaquín Borrego-Díaz. #AI
+
 *** 28-Jun-25
 + [[https://drops.dagstuhl.de/storage/00lipics/lipics-vol333-ecoop2025/LIPIcs.ECOOP.2025.14/LIPIcs.ECOOP.2025.14.pdf][IsaBIL: A framework for verifying (in)correctness of binaries in Isabelle/HOL]]. ~ Matt Griffin, Brijesh Dongol, Azalea Raad. #ITP #IsabelleHOL
 + [[https://drops.dagstuhl.de/storage/00lipics/lipics-vol333-ecoop2025/LIPIcs.ECOOP.2025.31/LIPIcs.ECOOP.2025.31.pdf][Multiparty asynchronous session types: A mechanised proof of subject reduction]]. ~ Authors Dawit Tirore, Jesper Bengtson, Marco Carbone. #ITP #CoqProver
