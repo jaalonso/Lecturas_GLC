@@ -75,6 +75,9 @@ its content.
 
 ** Junio 2025
 
+*** 30-Jun-25
++ [[https://citejournal.org/volume-5/issue-3-05/seminal-articles/teaching-children-thinking/][Teaching children thinking]]. ~ Seymour A. Papert (1971). #CompSci #Teaching
+
 *** 29-Jun-25
 + [[https://link.springer.com/article/10.1007/s10817-025-09724-x][Constructing the Lie algebra of smooth vector fields on a Lie group in Isabelle/HOL]]. ~ Richard Schmoetten, Jacques D. Fleuriot. #ITP #IsabelleHOL #Math
 + [[https://inria.hal.science/hal-05128954/document][A Rocq formalization of simplicial Lagrange finite elements]]. ~ Sylvie Boldo, François Clément, Vincent Martin, Micaela Mayero, Houda Mouhcine. #ITP #Rocq #Math
