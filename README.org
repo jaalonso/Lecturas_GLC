@@ -11,6 +11,7 @@ its content.
 
 * Content                                                                      :TOC:
 - [[#lecturas-del-año-2025][Lecturas del año 2025]]
+  - [[#julio-2025][Julio 2025]]
   - [[#junio-2025][Junio 2025]]
   - [[#mayo-2025][Mayo 2025]]
   - [[#abril-2025][Abril 2025]]
@@ -72,6 +73,13 @@ its content.
 - [[#lecturas-anteriores][Lecturas anteriores]]
 
 * Lecturas del año 2025
+
+** Julio 2025
+
+*** 01-Jul-25
++ [[https://arxiv.org/abs/2506.20909v2][Diophantine equations over Z: Universal bounds and parallel formalization]]. ~ Jonas Bayer, Marco David, Malte Hassler, Yuri Matiyasevich, Dierk Schleicher. #ITP #IsabelleHOL #Math
++ [[https://github.com/gaearon/analysis-solutions][Solutions to Tao's "Analysis I"]]. ~ Dan Abramov. #ITP #LeanProver #Math
++ [[https://youtu.be/c5LOYzZx-0c][The best new programming language is a proof assistant]]. ~ Harry Goldstein. #ITP #LeanProver
 
 ** Junio 2025
 
