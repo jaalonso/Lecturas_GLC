@@ -76,6 +76,11 @@ its content.
 
 ** Julio 2025
 
+*** 03-Jul-25
++ [[https://arxiv.org/abs/2507.01780][LeanLTL: A unifying framework for linear temporal logics in Lean]]. ~ Eric Vin, Kyle A. Miller, Daniel J. Fremont. #ITP #LeanProver
++ [[https://iccl.inf.tu-dresden.de/w/images/d/dc/ITP-2025-Paper-116-Camera-Ready.pdf][Verifying Datalog reasoning with Lean]]. ~ Johannes Tantow, Lukas Gerlach, Stephan Mennicke, Markus Krötzsch. #ITP #LeanProver
++ [[https://arxiv.org/abs/2409.02603][Formalising inductive and coinductive containers]]. ~ Stefania Damato, Thorsten Altenkirch, Axel Ljungström. #ITP #Agda
+
 *** 01-Jul-25
 + [[https://arxiv.org/abs/2506.20909v2][Diophantine equations over Z: Universal bounds and parallel formalization]]. ~ Jonas Bayer, Marco David, Malte Hassler, Yuri Matiyasevich, Dierk Schleicher. #ITP #IsabelleHOL #Math
 + [[https://github.com/gaearon/analysis-solutions][Solutions to Tao's "Analysis I"]]. ~ Dan Abramov. #ITP #LeanProver #Math
