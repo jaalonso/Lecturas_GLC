@@ -76,6 +76,16 @@ its content.
 
 ** Julio 2025
 
+*** 05-Jul-25
++ [[https://adam.math.hhu.de/#/g/kbuzzard/FilterGame][The filter game (in Lean 4)]]. ~ Kevin Buzzard. #ITP #LeanProver #Math
++ [[https://people.eng.unimelb.edu.au/rizkallahc/theses/chew-yi-feng-masters-thesis.pdf][Formal verification of quantum stabiliser codes by stabiliser formalism]]. ~ Qiuyi Feng. #ITP #CoqProver
++ [[https://ntrs.nasa.gov/api/citations/20250006044/downloads/NFM_Keynote_STRIVES-psm.pdf][Formal methods at NASA: Past, present, and future]]. ~ Paul Miner, Natasha Neogi. #FormalMethods #ITP #PVS
++ [[https://hal.science/hal-05133722/document][A proof-assisted conversion of signal temporal logic formulas into negative normal form]]. ~ Danil Berrah, François Pessaux, Alexandre Chapoutot. #ITP #Rocq
++ [[https://kairose-master.github.io/mu_eq_pi/pdf/mu_eq_pi.pdf][Functorial flattening of the state monad via vector‐space projection (A formally verified collapse model in Lean 4)]]. ~ Jinu Jang. #ITP #LeanProver
++ [[https://arxiv.org/abs/2507.00782v1][A diagrammatic calculus for a functional model of natural language semantics]]. ~ Matthieu Pierre Boyer. #Haskell #FunctionalProgramming
++ [[https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.TYPES.2024.5][Implementing a type theory with observational equality, using normalisation by evaluation]]. ~ Matthew Sirman, Meven Lennon-Bertrand, Neel Krishnaswami. #Haskell #FunctionalProgramming
++ [[https://arxiv.org/abs/2507.01903v1][AI4Research: A survey of artificial intelligence for scientific research]]. ~ Qiguang Chen et als. #AI
+
 *** 03-Jul-25
 + [[https://arxiv.org/abs/2507.01780][LeanLTL: A unifying framework for linear temporal logics in Lean]]. ~ Eric Vin, Kyle A. Miller, Daniel J. Fremont. #ITP #LeanProver
 + [[https://iccl.inf.tu-dresden.de/w/images/d/dc/ITP-2025-Paper-116-Camera-Ready.pdf][Verifying Datalog reasoning with Lean]]. ~ Johannes Tantow, Lukas Gerlach, Stephan Mennicke, Markus Krötzsch. #ITP #LeanProver
