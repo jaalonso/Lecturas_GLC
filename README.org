@@ -76,6 +76,9 @@ its content.
 
 ** Julio 2025
 
+*** 07-Jul-25
++ [[https://lean-lang.org][Lean: a theorem prover and programming language that enables correct, maintainable, and formally verified code]]. #ITP #LeanProver #FunctionalProgramming
+
 *** 05-Jul-25
 + [[https://adam.math.hhu.de/#/g/kbuzzard/FilterGame][The filter game (in Lean 4)]]. ~ Kevin Buzzard. #ITP #LeanProver #Math
 + [[https://people.eng.unimelb.edu.au/rizkallahc/theses/chew-yi-feng-masters-thesis.pdf][Formal verification of quantum stabiliser codes by stabiliser formalism]]. ~ Qiuyi Feng. #ITP #CoqProver
