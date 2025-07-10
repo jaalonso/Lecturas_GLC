@@ -76,6 +76,21 @@ its content.
 
 ** Julio 2025
 
+*** 08-Jul-25
++ [[https://arxiv.org/abs/2405.19270][Formalising the local compactness of the adele ring]]. ~ Salvatore Mercuri. #ITP #LeanProver #Math
++ [[https://www.philipzucker.com/dirty_lean/][Doing Lean dirty: Lean as a Jupyter notebook replacement]]. ~ Philip Zucker. #ITP #LeanProver
++ [[https://www.arith2025.org/proceedings/215900a149.pdf][Robust, end-to-end correctness proofs of industrial divide and square root RTL designs]]. ~ Sol Swords, Cuong Chau. #ITP #ACL2
++ [[https://www.researchgate.net/publication/393400892_The_ph-Weighted_Recognition_Hamiltonian_A_Self-Adjoint_Operator_Unifying_Automorphic_L-Functions_E_8_Symmetry_and_Cosmic_Dynamics][The φ-weighted recognition hamiltonian: A self-adjoint operator unifying automorphic L-functions, E 8 symmetry, and cosmic dynamics]]. #ITP #LeanProver
++ [[https://www.isa-afp.org/entries/Computational_pAdics.html][Computational p-adics (in Isabelle/HOL)]]. ~ Jeremy Sylvestre. #ITP #IsabelleHOL #Math
++ [[https://www.isa-afp.org/entries/Oneway2Hiding.html][The oneway to hiding theorem (in Isabelle/HOL)]]. ~ Katharina Kreuzer, Dominique Unruh. #ITP #IsabelleHOL
++ [[https://www.isa-afp.org/entries/Kraus_Maps.html][Kraus maps (in Isabelle/HOL)]]. ~ Dominique Unruh. #ITP #IsabelleHOL
++ [[https://www.isa-afp.org/entries/Parikh.html][Parikh's theorem (in Isabelle/HOL)]]. ~ Fabian Lehr. #ITP #IsabelleHOL
++ [[https://hal.science/tel-05142432/document][Computer-assisted proofs for differential equations and dynamical systems]]. ~ Maxime Breden. #ITP #Math
++ [[https://mmhaskell.com/blog/2025/7/7/binary-search-in-haskell-and-rust][Comparing codes: Binary search in Haskell and Rust]]. ~ James Bowen. #Haskell #FunctionalProgramming #Rust
++ [[https://arxiv.org/abs/2502.06055][Verified certificates via SAT and computer algebra systems for the Ramsey R(3,8) and R(3,9) problems]]. ~ Zhengyu Li et als. #SAT #CAS
++ [[https://arxiv.org/abs/2507.02726v1][Bourbaki: Self-generated and goal-conditioned MDPs for theorem proving]]. ~ Matthieu Zimmer et als. #LLMs #ITP #LeanProver
++ [[https://arxiv.org/abs/2507.02541v1][Clarifying before reasoning: A Coq prover with structural context]]. ~ Yanzhen Lu et als. #LLMs #ITP #CoqProver
+
 *** 07-Jul-25
 + [[https://lean-lang.org][Lean: a theorem prover and programming language that enables correct, maintainable, and formally verified code]]. #ITP #LeanProver #FunctionalProgramming
 
