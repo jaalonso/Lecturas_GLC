@@ -76,6 +76,9 @@ its content.
 
 ** Julio 2025
 
+*** 10-Jul-25
++ [[https://www.youtube.com/live/5W0ZUY_l1dU][The Haskell Unfolder Episode 46: Developing an application from scratch]]. ~ Edsko de Vries, Andres Löh. #Haskell #FunctionalProgramming
+
 *** 08-Jul-25
 + [[https://arxiv.org/abs/2405.19270][Formalising the local compactness of the adele ring]]. ~ Salvatore Mercuri. #ITP #LeanProver #Math
 + [[https://www.philipzucker.com/dirty_lean/][Doing Lean dirty: Lean as a Jupyter notebook replacement]]. ~ Philip Zucker. #ITP #LeanProver
