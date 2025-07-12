@@ -76,6 +76,10 @@ its content.
 
 ** Julio 2025
 
+*** 11-Jul-25
++ [[https://huggingface.co/blog/AI-MO/kimina-prover][Kimina-Prover: Applying test-time RL search on large formal reasoning models]]. ~ Haiming Wang et als. #LLMs #ITP #LeanProver
++ [[https://youtu.be/rLr6VCLlq64][AI for mathematical discovery (symbolic, neural and neuro-symbolic methods)]]. ~ Moa Johansson. #AI #Math
+
 *** 10-Jul-25
 + [[https://www.youtube.com/live/5W0ZUY_l1dU][The Haskell Unfolder Episode 46: Developing an application from scratch]]. ~ Edsko de Vries, Andres Löh. #Haskell #FunctionalProgramming
 
