@@ -76,6 +76,18 @@ its content.
 
 ** Julio 2025
 
+*** 12-Jul-25
++ [[https://arxiv.org/abs/2507.05327v1][A formalization of divided powers in Lean]]. ~ Antoine Chambert-Loir, María Inés de Frutos-Fernández. #ITP #LeanProver #Math
++ [[https://drops.dagstuhl.de/storage/00lipics/lipics-vol337-fscd2025/LIPIcs.FSCD.2025.25/LIPIcs.FSCD.2025.25.pdf][Completeness of the decreasing diagrams method for proving confluence of rewriting systems of the least uncountable cardinality]]. ~ Ievgen Ivanov. #ITP #IsabelleHOL
++ [[https://drops.dagstuhl.de/storage/00lipics/lipics-vol337-fscd2025/LIPIcs.FSCD.2025.17/LIPIcs.FSCD.2025.17.pdf][Mechanized undecidability of higher-order beta-matching]]. ~ Andrej Dudenhefner. #ITP #CoqProver
++ [[https://link.springer.com/article/10.1007/s00233-025-10548-9][Marginal subsemigroups and commutators in inverse semigroups]]. ~ Gonçalo Araújo, João Araújo, Michael Kinyon #ATP #Prover9 #Math
++ [[https://www.lix.polytechnique.fr/Labo/Dale.Miller/ptlp/ptlp-2025-06-27.pdf][Proof theory and logic programming: Computation as proof search]]. ~ Dale Miller. #Logic #ProofTheory #LogicProgramming
++ [[https://elibrary.kdpu.edu.ua/bitstream/123456789/12019/1/CTE_838_Semerikov_et_al.pdf][Teaching logic programming: a review]]. ~ Serhiy O. Semerikov et als. #LogicProgramming #Prolog #ASP #CLP
++ [[https://kondylidou.github.io/assets/pdf/BA-mohamed.pdf][Categorical semantics in Haskell]]. ~ Mohamed Amine Ayari. #Haskell #FunctionalProgramming #CategoryTheory
++ [[https://hal.science/hal-05148806/document][Generic second-order matching, higher-order preunification and pattern unification - Implementations in Haskell]]. ~ Nikolai Kudasov et als. #Haskell #FunctionalProgramming
++ [[https://arxiv.org/abs/2507.06181v1][CriticLean: Critic-guided reinforcement learning for mathematical formalization]]. ~ Zhongyuan Peng et als. #LLMs #ITP #LeanProver #Math
++ [[https://andros.dev/blog/ab508c53/por-que-los-usuarios-de-emacs-lo-usan-para-todo/][¿Por qué los usuarios de Emacs lo usan para todo?]] ~ Andros Fenollosa (2023). #Emacs
+
 *** 11-Jul-25
 + [[https://huggingface.co/blog/AI-MO/kimina-prover][Kimina-Prover: Applying test-time RL search on large formal reasoning models]]. ~ Haiming Wang et als. #LLMs #ITP #LeanProver
 + [[https://youtu.be/rLr6VCLlq64][AI for mathematical discovery (symbolic, neural and neuro-symbolic methods)]]. ~ Moa Johansson. #AI #Math
