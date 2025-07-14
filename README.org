@@ -76,6 +76,10 @@ its content.
 
 ** Julio 2025
 
+*** 13-Jul-25
++ [[https://github.com/mckoen/quasicategory][Formalizing quasi-categories in Lean]]. ~ Jack McKoen. #ITP #LeanProver
++ [[https://github.com/tusharad/ai-chatbot-hs][A simple AI chatbot (ChatGPT clone) built entirely in Haskell]]. ~ Tushar Adhatrao. #Haskell #FunctionalProgramming #LLMs
+
 *** 12-Jul-25
 + [[https://arxiv.org/abs/2507.05327v1][A formalization of divided powers in Lean]]. ~ Antoine Chambert-Loir, María Inés de Frutos-Fernández. #ITP #LeanProver #Math
 + [[https://drops.dagstuhl.de/storage/00lipics/lipics-vol337-fscd2025/LIPIcs.FSCD.2025.25/LIPIcs.FSCD.2025.25.pdf][Completeness of the decreasing diagrams method for proving confluence of rewriting systems of the least uncountable cardinality]]. ~ Ievgen Ivanov. #ITP #IsabelleHOL
