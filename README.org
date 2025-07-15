@@ -76,6 +76,13 @@ its content.
 
 ** Julio 2025
 
+*** 14-Jul-25
++ [[https://www.tcs.ifi.lmu.de/mitarbeiter/jasmin-blanchette/inst.pdf][Exploiting instantiations from paramodulation proofs in Isabelle/HOL]]. ~ Lukas Bartl, Jasmin Blanchette, Tobias Nipkow. #ITP #IsabelleHOL
++ [[https://arxiv.org/abs/2507.07052v1][Quantifying bounded rationality: Formal verification of Simon's satisficing through flexible stochastic dominance]]. ~ Jingyuan Li, Zhou Lin. #ITP #LeanProver
++ [[https://emilyriehl.github.io/files/hardy-lecture.pdf][Could we teach ∞-category theory to undergraduates or to a computer?]] ~ Emily Riehl. #ITP #LeanProver #Math
++ [[https://arxiv.org/abs/2507.06360v1][Pyrosome: Verified compilation for modular metatheory]]. ~ Dustin Jamner, Gabriel Kammer, Ritam Nag, Adam Chlipala. #ITP #Coq
++ [[https://arxiv.org/abs/2507.06804v1][Towards solving more challenging IMO problems via decoupled reasoning and proving]]. ~ Zhenwen Liang et als. #LLMs #ITP #LeanProver #Math
+
 *** 13-Jul-25
 + [[https://github.com/mckoen/quasicategory][Formalizing quasi-categories in Lean]]. ~ Jack McKoen. #ITP #LeanProver
 + [[https://github.com/tusharad/ai-chatbot-hs][A simple AI chatbot (ChatGPT clone) built entirely in Haskell]]. ~ Tushar Adhatrao. #Haskell #FunctionalProgramming #LLMs
