@@ -76,6 +76,10 @@ its content.
 
 ** Julio 2025
 
+*** 15-Jul-25
++ [[https://www.philipzucker.com/lean_smt/][Using Lean like an External SMT Solver from Python]]. ~ Philip Zucker. #ITP #LeanProver
++ [[https://youtu.be/5NbYtDfXfR4][IMO 1996 P3: Lean 4 formalization]]. ~ David Renshaw. #ITP #LeanProver #Math
+
 *** 14-Jul-25
 + [[https://www.tcs.ifi.lmu.de/mitarbeiter/jasmin-blanchette/inst.pdf][Exploiting instantiations from paramodulation proofs in Isabelle/HOL]]. ~ Lukas Bartl, Jasmin Blanchette, Tobias Nipkow. #ITP #IsabelleHOL
 + [[https://arxiv.org/abs/2507.07052v1][Quantifying bounded rationality: Formal verification of Simon's satisficing through flexible stochastic dominance]]. ~ Jingyuan Li, Zhou Lin. #ITP #LeanProver
