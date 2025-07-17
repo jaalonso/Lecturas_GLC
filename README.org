@@ -76,6 +76,15 @@ its content.
 
 ** Julio 2025
 
+*** 16-Jul-25
++ [[https://afm.episciences.org/15978/pdf][Formalization of derived categories in Lean/Mathlib]]. ~ Joël Riou. #ITP #LeanProver #Math
++ [[https://afm.episciences.org/15954/pdf][Formalizing zeta and L-functions in Lean]]. ~ David Loeffler, Michael Stoll. #ITP #LeanProver #Math
++ [[https://afm.episciences.org/16046/pdf][A complete formalization of Fermat’s Last Theorem for regular primes in Lean]]. ~ Alex J. Best et als. #ITP #LeanProver #Math
++ [[https://afm.episciences.org/16007/pdf][Formalising the local compactness of the adele ring]]. ~ Salvatore Mercuri. #ITP #LeanProver #Math
++ [[https://arxiv.org/abs/2507.10181][A simple formalization of alpha-equivalence]]. ~ Kalmer Apinis, Danel Ahman. #ITP #Rocq
++ [[https://arxiv.org/abs/2502.21156][Cryptis: Cryptographic reasoning in separation logic]]. ~ Arthur Azevedo de Amorim, Amal Ahmed, Marco Gaboardi. #ITP #CoqProver
++ [[https://arxiv.org/abs/2507.11167][LISA: A modern proof system]]. ~ Simon Guilloud, Sankalp Gambhir, Viktor Kunčak. #ITP #Lisa #Math
+
 *** 15-Jul-25
 + [[https://www.philipzucker.com/lean_smt/][Using Lean like an External SMT Solver from Python]]. ~ Philip Zucker. #ITP #LeanProver
 + [[https://youtu.be/5NbYtDfXfR4][IMO 1996 P3: Lean 4 formalization]]. ~ David Renshaw. #ITP #LeanProver #Math
