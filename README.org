@@ -76,6 +76,11 @@ its content.
 
 ** Julio 2025
 
+*** 17-Jul-25
++ [[https://www.ams.org/journals/notices/202507/rnoti-p740.pdf][Teaching mathematics with Lean: Interactive theorem provers in the classroom]]. ~ Paola Iannone, Gihan Marasingha, Athina Thoma. #ITP #LeanProver #Math
++ [[https://arxiv.org/abs/2409.08119][Duality theory in linear optimization and its extensions (formally verified)]]. ~ Martin Dvorak, Vladimir Kolmogorov. #ITP #LeanProver #Math
++ [[https://arxiv.org/abs/2506.22196][Scott's representation theorem and the univalent Karoubi envelope]]. ~ Arnoud van der Leer, Kobe Wullaert, Benedikt Ahrens. #ITP #Rocq
+
 *** 16-Jul-25
 + [[https://afm.episciences.org/15978/pdf][Formalization of derived categories in Lean/Mathlib]]. ~ Joël Riou. #ITP #LeanProver #Math
 + [[https://afm.episciences.org/15954/pdf][Formalizing zeta and L-functions in Lean]]. ~ David Loeffler, Michael Stoll. #ITP #LeanProver #Math
