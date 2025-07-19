@@ -76,6 +76,13 @@ its content.
 
 ** Julio 2025
 
+*** 18-Jul-25
++ [[https://ccs.neu.edu/~camoy/pub/lsl.pdf][Teaching software specification (Experience report)]]. ~ Cameron Moy, Daniel Patterson. #CompSci #Teaching #ITP #LeanProver #ACL2
++ [[https://docs.google.com/presentation/d/1aJFM3EaI4LcppHR_2YFQHiBjUfMMhMKxCeM3BfINi48][CSLib: An open-source Lean 4 library formalizing a significant subsetof undergraduate-level computer science]]. ~ Clark Barrett et als. #ITP #LeanProver #CompSci
++ [[https://openreview.net/pdf?id=VbQNQ9hjJE][Quantifiers for differentiable logics in Rocq (Extended abstract)]]. ~ Jairo Miguel Marulanda-Giraldo et als. #ITP #Rocq
++ [[https://mmhaskell.com/blog/2025/7/14/binary-search-in-a-2d-matrix][Comparing codes: Binary search in a 2D matrix]]. ~ James Bowen. #Haskell #FunctionalProgramming #Rust
++ [[https://arxiv.org/abs/2507.08649v1][Leanabell-Prover-V2: Verifier-integrated reasoning for formal theorem proving via reinforcement learning]]. ~ Xingguang Ji et als. #LLMs #ITP #LeanProver
+
 *** 17-Jul-25
 + [[https://www.ams.org/journals/notices/202507/rnoti-p740.pdf][Teaching mathematics with Lean: Interactive theorem provers in the classroom]]. ~ Paola Iannone, Gihan Marasingha, Athina Thoma. #ITP #LeanProver #Math
 + [[https://arxiv.org/abs/2409.08119][Duality theory in linear optimization and its extensions (formally verified)]]. ~ Martin Dvorak, Vladimir Kolmogorov. #ITP #LeanProver #Math
