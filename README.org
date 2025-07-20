@@ -76,6 +76,24 @@ its content.
 
 ** Julio 2025
 
+*** 19-Jul-25
++ [[https://afm.episciences.org/15978/pdf][Formalization of derived categories in Lean/Mathlib]]. ~ Joël Riou. #ITP #LeanProver #Math
++ [[https://era.ed.ac.uk/bitstream/handle/1842/43681/Smola2025.pdf][A formalised approach to the composition of processes over linear resources]]. ~ Filip Smola. #ITP #IsabelleHOL
++ [[https://www.isa-afp.org/entries/Incompleteness.html][Gödel's incompleteness theorems (in Isabelle/HOL)]]. ~ Lawrence C. Paulson, with Janis Bailitis. #ITP #IsabelleHOL #Logic #Math
++ [[https://inria.hal.science/hal-05162302/document][Robust dynamic embedding for gradual typing]]. ~ Koen Jacobs et als. #ITP #Rocq
++ [[https://openreview.net/forum?id=snoHekTbpd][Lean meets theoretical computer science: Scalable synthesis of theorem proving challenges in formal-informal pairs]]. ~ Terry Jingchen Zhang et als. #LLMs #ITP #LeanProver
++ [[https://openreview.net/forum?id=pROVJwTb6w][LeanTree: Accelerating white-box proof search with factorized states in Lean 4]]. ~ Matěj Kripner, Michal Sustr, Milan Straka. #LLMs #ITP #LeanProver
++ [[https://openreview.net/forum?id=sPdQfGQccH][Prover Agent: An agent-based framework for formal mathematical proofs]]. ~ Kaito Baba et als. #LLMs #ITP #LeanProver
++ [[https://openreview.net/forum?id=OM7ZN0PmSS][Scaling mathematical reasoning through data, tools, and generative selection]]. ~ Ivan Moshkov et als. #LLMs #ITP #LeanProver #Math
++ [[https://openreview.net/forum?id=gBsfqLW5IQ][ProofWala: Multilingual proof data synthesis and theorem-proving]]. ~ Amitayush Thakur et als. #ITP #LeanProver #CoqProver
++ [[https://openreview.net/forum?id=pqNFDA2TFm][CLEVER: A curated benchmark for formally verified code generation]]. ~ Amitayush Thakur et als. #LLMs #ITP #LeanProver
++ [[https://openreview.net/forum?id=5SF4fFRw7u][Lean Finder: Semantic search for Mathlib that understands user intents]]. ~ Jialin Lu et als. #ITP #LeanProver #Mathlib
++ [[https://openreview.net/pdf?id=rWkGFmnSNl][VeriBench: End-to-end formal verification benchmark for AI code generation in Lean 4]]. ~ Brando Miranda et als. #LLMs #ITP #LeanProver
++ [[https://openreview.net/forum?id=UP96fbOiqb][The Open Proof Corpus: A large-scale study of LLM-generated mathematical proofs]]. ~ Jasper Dekoninck et als. #LLMs #Math #Reasoning
++ [[https://openreview.net/forum?id=3v650rMO5U][Proof or bluff? Evaluating LLMs on 2025 USA Math Olympiad]]. ~ Ivo Petrov et als. #LLMs #Math #Reasoning
++ [[https://openreview.net/forum?id=jcSXt3Qv1I][RealMath: A continuous benchmark for evaluating language models on research-level mathematics]]. ~ Jie Zhang et als. #LLMs #Math #Reasoning
++ [[https://people.cs.nott.ac.uk/pszgmh/typer.pdf][The calculated typer (Functional Pearl)]]. ~ Zac Garby, Patrick Bahr, Graham Hutton. #Haskell #FunctionalProgramming
+
 *** 18-Jul-25
 + [[https://ccs.neu.edu/~camoy/pub/lsl.pdf][Teaching software specification (Experience report)]]. ~ Cameron Moy, Daniel Patterson. #CompSci #Teaching #ITP #LeanProver #ACL2
 + [[https://docs.google.com/presentation/d/1aJFM3EaI4LcppHR_2YFQHiBjUfMMhMKxCeM3BfINi48][CSLib: An open-source Lean 4 library formalizing a significant subsetof undergraduate-level computer science]]. ~ Clark Barrett et als. #ITP #LeanProver #CompSci
