@@ -76,6 +76,9 @@ its content.
 
 ** Julio 2025
 
+*** 21-Jul-25
++ [[https://iphils.uj.edu.pl/clock/2025/slides/jipsen.pdf][Representability and formalization of (distributive quasi) relation algebras]]. ~ Peter Jipsen. #ITP #LeanProver #IsabelleHOL #Rocq #Math
+
 *** 19-Jul-25
 + [[https://afm.episciences.org/15978/pdf][Formalization of derived categories in Lean/Mathlib]]. ~ Joël Riou. #ITP #LeanProver #Math
 + [[https://era.ed.ac.uk/bitstream/handle/1842/43681/Smola2025.pdf][A formalised approach to the composition of processes over linear resources]]. ~ Filip Smola. #ITP #IsabelleHOL
