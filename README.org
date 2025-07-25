@@ -76,6 +76,24 @@ its content.
 
 ** Julio 2025
 
+*** 24-Jul-25
++ [[https://www.andrew.cmu.edu/user/avigad/Students/sheng_ms.pdf][Formally verifying automata for trusted decision procedures]]. ~ Zhaobo (Aeacus) Sheng. #ITP #LeanProver
++ [[https://byorgey.github.io/blog/posts/2025/07/18/sparse-table.html][Competitive programming in Haskell: sparse tables]]. ~ Brent Yorgey. #Haskell #FunctionalProgramming
++ [[https://marcosh.github.io/post/2025/07/22/four-ways-of-declaring-interfaces-in-haskell.html][Four ways of declaring interfaces in Haskell]]. ~ Marco Perone. #FunctionalProgramming #haskell
++ [[https://era.ed.ac.uk/bitstream/handle/1842/43690/Hollenbeck2025.pdf][Inlining in the Glasgow Haskell Compiler: empirical investigation and improvement]]. ~ Celeste Hollenbeck. #Haskell #FunctionalProgramming
++ [[https://frasertweedale.github.io/blog-fp/posts/2025-07-19-type-nats-and-constraints.html][Type-level programming for safer resource management]]. ~ Fraser Tweedale. #Haskell #FunctionalProgramming
++ [[https://www.youtube.com/live/trDqqZldxQA][The Haskell Unfolder Episode 47: Pure parallelism]]. ~ Edsko de Vries, Andres Löh. #Haskell #FunctionalProgramming
++ [[https://garymarcus.substack.com/p/deepmind-and-openai-achieve-imo-gold][DeepMind and OpenAI achieve IMO Gold]]. What does it all mean? (What we know, what we would like to know, and what it may take years to know). ~ Ernest Davis, Gary Marcus. #AI #Math #LLMs
+
+*** 23-Jul-25
++ [[https://github.com/ByteDance-Seed/Seed-Prover/tree/main/SeedProver][Seed-Prover: Reasoning wide and deep for automated math theorem proving]]. #AI #Math #LLMs #ITP #LeanProver
++ [[https://mp.weixin.qq.com/s/MWo8dIg4bqQXzB_W9UZ7Ow][Seed-Prover achieves IMO 2025 silver score]]. #AI #Math #LLMs #ITP #LeanProver
+
+*** 22-Jul-25
++ [[https://arxiv.org/abs/2401.00512][A parametricity-based formalization of semi-simplicial and semi-cubical sets]]. ~ Hugo Herbelin, Ramkumar Ramachandra. #ITP #Rocq
++ [[https://mmhaskell.com/blog/2025/7/21/image-rotation-mutable-arrays-in-haskell][Comparing codes: Image rotation (Mutable arrays in Haskell)]]. ~ James Bowen. #Haskell #FunctionalProgramming #Rust
++ [[https://deepmind.google/discover/blog/advanced-version-of-gemini-with-deep-think-officially-achieves-gold-medal-standard-at-the-international-mathematical-olympiad/][Advanced version of Gemini with Deep Think officially achieves gold-medal standard at the International Mathematical Olympiad]]. #LLMs #Math #IMO
+
 *** 21-Jul-25
 + [[https://iphils.uj.edu.pl/clock/2025/slides/jipsen.pdf][Representability and formalization of (distributive quasi) relation algebras]]. ~ Peter Jipsen. #ITP #LeanProver #IsabelleHOL #Rocq #Math
 
