@@ -76,6 +76,15 @@ its content.
 
 ** Julio 2025
 
+*** 25-Jul-25
++ [[https://cgi.cse.unsw.edu.au/~eptcs/paper.cgi?ACL2in2025.1.pdf][A formalization of elementary linear algebra: Part I]]. ~ David Russinoff. #ITP #ACL2 #Math
++ [[https://cgi.cse.unsw.edu.au/~eptcs/paper.cgi?ACL2in2025.2.pdf][A formalization of elementary linear algebra: Part II]]. ~ David Russinoff. #ITP #ACL2 #Math
++ [[https://cgi.cse.unsw.edu.au/~eptcs/paper.cgi?ACL2in2025.3][A proof of the Schröder-Bernstein theorem in ACL2]]. ~ Grant Jurgensen. #ITP #ACL2 #Math
++ [[https://cgi.cse.unsw.edu.au/~eptcs/paper.cgi?ACL2in2025.4][RV32I in ACL2]]. ~ Carl Kwan. #ITP #ACL2
++ [[https://cgi.cse.unsw.edu.au/~eptcs/paper.cgi?ACL2in2025.6][Extended abstract: Partial-encapsulate and its support for floating-point operations in ACL2]]. ~ Matt Kaufmann, J Strother Moore. #ITP #ACL2
++ [[https://www.renaissancephilanthropy.org/news-and-insights/lean-fro-and-mathlib-receive-10m-from-xtx-markets-founder-alex-gerko-to-further-advance-the-use-of-ai-for-mathematical-research][Lean FRO and Mathlib receive $10M from XTX Markets founder Alex Gerko to further advance the use of AI for mathematical research]]. #AI4Math #ITP #LeanProver #Math
++ [[https://ninioartillero.github.io/2025/04/15/lh-kickstart.html][A Liquid Haskell kick-start]]. ~ Xavier Góngora. #Haskell #FunctionalProgramming
+
 *** 24-Jul-25
 + [[https://www.andrew.cmu.edu/user/avigad/Students/sheng_ms.pdf][Formally verifying automata for trusted decision procedures]]. ~ Zhaobo (Aeacus) Sheng. #ITP #LeanProver
 + [[https://byorgey.github.io/blog/posts/2025/07/18/sparse-table.html][Competitive programming in Haskell: sparse tables]]. ~ Brent Yorgey. #Haskell #FunctionalProgramming
