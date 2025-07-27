@@ -76,6 +76,12 @@ its content.
 
 ** Julio 2025
 
+*** 26-Jul-25
++ [[https://youtu.be/fvfzSjNoN9E][Higher order Logic]]. ~ Mark Jago. #Logic
++ [[https://sachachua.com/blog/2025/07/my-emacs-writing-experience][My Emacs writing experience]]. ~ Sacha Chua. #Emacs #Org
++ [[https://sachachua.com/blog/2025/07/finding-the-shape-of-my-thoughts/][Finding the shape of my thoughts]]. ~ Sacha Chua. #Emacs #Org
++ [[https://xenodium.com/writing-experience-my-decade-with-org][Writing experience: My decade with Org]]. ~ Álvaro Ramírez. #Emacs #OrgMode
+
 *** 25-Jul-25
 + [[https://cgi.cse.unsw.edu.au/~eptcs/paper.cgi?ACL2in2025.1.pdf][A formalization of elementary linear algebra: Part I]]. ~ David Russinoff. #ITP #ACL2 #Math
 + [[https://cgi.cse.unsw.edu.au/~eptcs/paper.cgi?ACL2in2025.2.pdf][A formalization of elementary linear algebra: Part II]]. ~ David Russinoff. #ITP #ACL2 #Math
