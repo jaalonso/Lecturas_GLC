@@ -76,6 +76,14 @@ its content.
 
 ** Julio 2025
 
+*** 27-Jul-25
++ [[https://link.springer.com/article/10.1007/s10817-025-09735-8][Formally verified suffix array construction (in Isabelle/HOL)]]. ~ Louis Cheung, Alistair Moffat, Christine Rizkallah. #FormalVerification #ProofAssistants #IsabelleHOL #Haskell #FunctionalProgramming
++ [[https://hustmphrrr.github.io/asset/papers/icfp25-mctt.pdf][McTT: A verified kernel for a proof assistant]]. ~ Junyoung Jang et als. #ProofAssistants #Rocq
++ [[https://repository.tudelft.nl/file/File_6466eb89-91b7-4561-9933-236ae3f9e15b][Modelling cyclic structures in Agda (Evaluating Agda’s coinduction through modelling graphs)]]. ~ Faizel Mangroe. #ProofAssistant #Agda
++ [[https://repository.tudelft.nl/file/File_56e70e9e-4f41-429c-a383-20c1bf61c16a][Encoding finite state automata in Agda using coinduction (Evaluating the support for coinduction in Agda)]]. ~ Noky Soekarman. #FormalVerification #ProofAssistant #Agda
++ [[https://www.isa-afp.org/entries/Bisimulation_Logic.html][A meta-modal logic for bisimulations (in Isabelle/HOL)]]. ~ Alfredo Burrieza, Fernando Soler-Toscano, Antonio Yuste-Ginel. #ITP #IsabelleHOL
++ [[https://arxiv.org/abs/2507.15225v1][Solving formal math problems by decomposition and iterative reflection]]. ~ Yichi Zhou et als. #AI4Math #LLMs #ProofAssistants #LeanProver #Math
+
 *** 26-Jul-25
 + [[https://youtu.be/fvfzSjNoN9E][Higher order Logic]]. ~ Mark Jago. #Logic
 + [[https://sachachua.com/blog/2025/07/my-emacs-writing-experience][My Emacs writing experience]]. ~ Sacha Chua. #Emacs #Org
