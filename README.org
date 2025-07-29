@@ -76,6 +76,10 @@ its content.
 
 ** Julio 2025
 
+*** 28-Jul-25
++ [[https://formalizedformallogic.github.io/Book/first_order/goedel1.html][Gödel's first incompleteness theorem (in Lean4)]]. #FormalVerification #ProofAssistant #LeanProver #Logic #Math
++ [[https://formalizedformallogic.github.io/Book/][Formalized formal logic (in Lean4)]]. #FormalVerification #ProofAssistant #LeanProver #Logic #Math
+
 *** 27-Jul-25
 + [[https://link.springer.com/article/10.1007/s10817-025-09735-8][Formally verified suffix array construction (in Isabelle/HOL)]]. ~ Louis Cheung, Alistair Moffat, Christine Rizkallah. #FormalVerification #ProofAssistants #IsabelleHOL #Haskell #FunctionalProgramming
 + [[https://hustmphrrr.github.io/asset/papers/icfp25-mctt.pdf][McTT: A verified kernel for a proof assistant]]. ~ Junyoung Jang et als. #ProofAssistants #Rocq
