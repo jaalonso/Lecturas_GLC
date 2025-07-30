@@ -76,6 +76,16 @@ its content.
 
 ** Julio 2025
 
+*** 29-Jul-25
++ [[https://electriclam.com/papers/conf.pdf][Algorithmic conversion with surjective pairing: A syntactic and untyped approach]]. ~ Yiyun Liu, Stephanie Weirich. #FormalVerification #ProofAssistants #CoqProver
++ [[https://openreview.net/forum?id=CBFAMnax09][Symbolic world models in Lean 4 for reinforcement learning]]. ~ Matěj Kripner. #ITP #LeanProver #MachineLearning
++ [[https://arxiv.org/abs/2507.17956][Formal verification of the safegcd implementation]]. ~ Russell O'Connor, Andrew Poelstra. #FormalVerification #ProofAssistants #CoqProver
++ [[https://fse.studenttheses.ub.rug.nl/36504/1/bCS2025VisanCI.pdf][Formal verification of pairing heaps in Rocq]]. ~ Cosmin-Ionut Visan. #FormalVerification #ProofAssistants #Rocq
++ [[https://fse.studenttheses.ub.rug.nl/36509/1/Bachelors-Thesis-Leopold-Frieberger-Repository.pdf][Verified functional graph algorithms using the Rocq prover (Coq)]]. ~ Leopold Frieberger. #FormalVerification #ProofAssistants #Rocq
++ [[https://fse.studenttheses.ub.rug.nl/36519/1/bCS2025DumitracheEM.pdf][Formal verification of leftist and skew heaps in Rocq]]. ~ Elena Marcela Dumitrache. #FormalVerification #ProofAssistants #Rocq
++ [[https://mmhaskell.com/blog/2025/7/28/spiral-matrix-another-matrix-layer-problem][Comparing codes: Spiral matrix (another matrix layer problem)]]. ~ James Bowen. #Haskell #FunctionalProgramming #Rust
++ [[https://github.com/harmonic-ai/IMO2025/][Harmonic's IMO 2025 results (Harmonic's model Aristotle achieved gold medal performance, solving 5 problems)]]. #FormalVerification #ProofAssistant #LeanProver #LLMs #Math #IMO
+
 *** 28-Jul-25
 + [[https://formalizedformallogic.github.io/Book/first_order/goedel1.html][Gödel's first incompleteness theorem (in Lean4)]]. #FormalVerification #ProofAssistant #LeanProver #Logic #Math
 + [[https://formalizedformallogic.github.io/Book/][Formalized formal logic (in Lean4)]]. #FormalVerification #ProofAssistant #LeanProver #Logic #Math
