@@ -76,6 +76,9 @@ its content.
 
 ** Julio 2025
 
+*** 31-Jul-25
++ [[https://overreacted.io/the-math-is-haunted/][The math is haunted]]. ~ Dan Abramov. #ProofAssistant #LeanProver #Math
+
 *** 30-Jul-25
 + [[https://www.isa-afp.org/entries/Diophantine_Universal_Pairs.html][Universal pairs for diophantine equations (in Isabelle/HOL)]]. ~ Marco David et als. #ITP #ProofAssistant #IsabelleHOL #Math
 
