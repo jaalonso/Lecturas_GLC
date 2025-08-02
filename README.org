@@ -11,6 +11,7 @@ its content.
 
 * Content                                                                      :TOC:
 - [[#lecturas-del-año-2025][Lecturas del año 2025]]
+  - [[#agosto-2025][Agosto 2025]]
   - [[#julio-2025][Julio 2025]]
   - [[#junio-2025][Junio 2025]]
   - [[#mayo-2025][Mayo 2025]]
@@ -73,6 +74,13 @@ its content.
 - [[#lecturas-anteriores][Lecturas anteriores]]
 
 * Lecturas del año 2025
+
+** Agosto 2025
+
+*** 01-Ago-25
++ [[https://www.isa-afp.org/entries/Unconstrained_Optimization.html][Unconstrained optimization (in Isabelle/HOL)]]. ~ Dustin Bryant. #ITP #IsabelleHOL #Math
++ [[https://arxiv.org/abs/2507.23726v1][Seed-Prover: Deep and broad reasoning for automated theorem proving]]. ~ Luoxin Chen et als. #ITP #LeanProver #LLMs #Math
++ [[https://huggingface.co/datasets/AI-MO/NuminaMath-LEAN][NuminaMath-LEAN is a large-scale dataset of 100K mathematical competition problems formalized in Lean 4]]. #ITP #LeanProver #Math
 
 ** Julio 2025
 
