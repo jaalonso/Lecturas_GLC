@@ -77,6 +77,11 @@ its content.
 
 ** Agosto 2025
 
+*** 02-Ago-25
++ [[https://youtu.be/QoXRfTb7ves][Solving years-old math problems with Gemini 2]].5 Deep Think. ~ Michel van Garrel. #LLMs #Math
++ [[https://lipn.univ-paris13.fr/TLLA/2025/abstracts/01-diguardia-laurent.pdf][A formalization of multiplicative proof-nets in Rocq]]. ~ Rémi Di Guardia, Olivier Laurent. #ITP #Rocq
++ [[https://arxiv.org/abs/2507.21439v1][Fixed-point-oriented programming: A concise and elegant paradigm]]. ~ Yong Qi Foo, Brian Sze-Kai Cheong, Michael D. Adams. #Haskell #FunctionalProgramming
+
 *** 01-Ago-25
 + [[https://www.isa-afp.org/entries/Unconstrained_Optimization.html][Unconstrained optimization (in Isabelle/HOL)]]. ~ Dustin Bryant. #ITP #IsabelleHOL #Math
 + [[https://arxiv.org/abs/2507.23726v1][Seed-Prover: Deep and broad reasoning for automated theorem proving]]. ~ Luoxin Chen et als. #ITP #LeanProver #LLMs #Math
