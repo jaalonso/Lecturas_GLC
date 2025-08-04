@@ -77,6 +77,10 @@ its content.
 
 ** Agosto 2025
 
+*** 03-Ago-25
++ [[https://xenaproject.wordpress.com/2025/08/03/ai-at-imo-2025-a-round-up/][AI at IMO 2025: a round-up]]. ~ Kevin Buzzard. #AI #LLMs #ITP #LeanProver #Math #IMO
++ [[https://repository.tudelft.nl/file/File_7eb75eb6-5c77-483c-bb2f-a0a722bdecfa][Formalization of harmonic analysis in Lean]]. ~ Wouter Bosse. #ITP #LeanProver #Math
+
 *** 02-Ago-25
 + [[https://youtu.be/QoXRfTb7ves][Solving years-old math problems with Gemini 2]].5 Deep Think. ~ Michel van Garrel. #LLMs #Math
 + [[https://lipn.univ-paris13.fr/TLLA/2025/abstracts/01-diguardia-laurent.pdf][A formalization of multiplicative proof-nets in Rocq]]. ~ Rémi Di Guardia, Olivier Laurent. #ITP #Rocq
