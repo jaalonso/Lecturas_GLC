@@ -77,6 +77,10 @@ its content.
 
 ** Agosto 2025
 
+*** 04-Ago-25
++ [[https://arxiv.org/abs/2410.19940][Cobblestone: Iterative automation for formal verification]]. ~ Saketh Ram Kasibatla, Arpan Agarwal, Yuriy Brun, Sorin Lerner, Talia Ringer, Emily First. #ITP #CoqProver #AI #LLMs
++ [[https://youtu.be/gEWBHP0PvRw][Reflections on Haskell@Meta]]. ~ Simon Marlow. #Haskell #FunctionalProgramming
+
 *** 03-Ago-25
 + [[https://xenaproject.wordpress.com/2025/08/03/ai-at-imo-2025-a-round-up/][AI at IMO 2025: a round-up]]. ~ Kevin Buzzard. #AI #LLMs #ITP #LeanProver #Math #IMO
 + [[https://repository.tudelft.nl/file/File_7eb75eb6-5c77-483c-bb2f-a0a722bdecfa][Formalization of harmonic analysis in Lean]]. ~ Wouter Bosse. #ITP #LeanProver #Math
