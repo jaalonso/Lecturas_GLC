@@ -77,6 +77,26 @@ its content.
 
 ** Agosto 2025
 
+*** 05-Ago-25
++ [[https://leanprover-community.github.io/blog/posts/simons-lean-workshop/][Simons Foundation Lean Workshop]]. ~ Antoine Chambert-Loir Alex Kontorovich, Heather MacBeth. #ITP #LeanProver #Math
++ [[https://youtu.be/VY0WEUJMaXE][First analysis lecture (June 16, 2025) ~ Alex Kontorovich]]. #ITP #LeanProver #Math
++ [[https://webusers.imj-prg.fr/~antoine.chambert-loir/exposes/dentil.pdf][Doing elementary number theory in Lean]]. ~ Antoine Chambert-Loir #ITP #LeanProver #Math
++ [[https://youtu.be/sB7TDlK5SxQ][Doing elementary number theory in Lean (Video 1)]]. ~ Antoine Chambert-Loir #ITP #LeanProver #Math
++ [[https://youtu.be/2w-PX3GhYXg][Doing elementary number theory in Lean (Video 2)]]. ~ Antoine Chambert-Loir #ITP #LeanProver #Math
++ [[https://youtu.be/LjhVJffwdus][First geometry lecture (June 17, 2025)]]. ~ Heather Macbeth. #ITP #LeanProver #Math
++ [[https://youtu.be/vWeM8vKWpvk][Second geometry lecture (June 18, 2025)]]. ~ Heather Macbeth. #ITP #LeanProver #Math
++ [[https://youtu.be/KUJUalCyoZI][Second analysis lecture "Filter" (June 17, 2025) ~ Alex Kontorovich]]. #ITP #LeanProver #Math
++ [[https://webusers.imj-prg.fr/~antoine.chambert-loir/exposes/accitt.pdf][A crash course on type theory]]. ~ Antoine Chambert-Loir. #ITP #LeanProver #TypeTheory
++ [[https://youtu.be/7Uux3Vuwnhg][A crash course on type theory (Video)]]. ~ Antoine Chambert-Loir. #ITP #LeanProver #TypeTheory
++ [[https://youtu.be/HnFExsrdnHQ][Structures in Lean4 (June 20, 2025)]]. ~ Filippo Nuccio. #ITP #LeanProver
++ [[https://youtu.be/c4BWq891OEc][Blueprints and PNT (June 23, 2025)]]. ~ Alex Kontorovich. #ITP #LeanProver
++ [[https://webusers.imj-prg.fr/~antoine.chambert-loir/exposes/sg.pdf][Simple groups in Lean]]. ~ Antoine Chambert-Loir. #ITP #LeanProver #Math
++ [[https://youtu.be/yy66Dgod2gE][Simple groups in Lean (Video)]]. ~ Antoine Chambert-Loir. #ITP #LeanProver #Math
++ [[https://youtu.be/cKvgMjuLiuQ][Metaprogramming in Lean, Talk 1 (June 23, 2025)]]. ~ Heather Macbeth. #ITP #LeanProver
++ [[https://youtu.be/5er4yLRd-ps][Metaprogramming in Lean, Talk 2 (June 24, 2025)]]. ~ Heather Macbeth. #ITP #LeanProver
++ [[https://youtu.be/TJ8Tqv6A0Nc][Metaprogramming in Lean, Talk 3 (June 25, 2025)]]. ~ Heather Macbeth. #ITP #LeanProver
++ [[https://lean-lang.org/fro/roadmap/1900-1-1-the-lean-fro-year-3-roadmap/][The Lean FRO year 3 roadmap]]. #ITP #LeanProver
+
 *** 04-Ago-25
 + [[https://arxiv.org/abs/2410.19940][Cobblestone: Iterative automation for formal verification]]. ~ Saketh Ram Kasibatla, Arpan Agarwal, Yuriy Brun, Sorin Lerner, Talia Ringer, Emily First. #ITP #CoqProver #AI #LLMs
 + [[https://youtu.be/gEWBHP0PvRw][Reflections on Haskell@Meta]]. ~ Simon Marlow. #Haskell #FunctionalProgramming
