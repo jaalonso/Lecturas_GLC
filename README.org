@@ -77,6 +77,16 @@ its content.
 
 ** Agosto 2025
 
+*** 08-Ago-25
++ [[https://adam.math.hhu.de][Discrete mathematics with Lean 4]]. ~ Shrey Vivek./#/g/shreyvivek/gamemaker #ITP #LeanProver #Math
++ [[https://youtu.be/IuX8QMgy4qE][Gödel's incompleteness theorem]]. ~ Thorsten Altenkirch. #ITP #LeanProver #Logic #Math
++ [[https://cacm.acm.org/news/scrutinizing-llm-reasoning-models/][Scrutinizing LLM reasoning models (Researchers are seeking to learn the steps behind an LLM's inference process)]]. ~ Emma Stamm. #LLMs #Reasoning
++ [[http://www.toomates.net/biblioteca/Calculo.pdf][Cálculo infinitesimal]]. ~ Gerard Romo Garrido. #eBook #Matemáticas
+
+*** 07-Ago-25
++ [[https://arxiv.org/abs/2508.00459v1][Thinking machines: Mathematical reasoning in the age of LLMs]]. ~ Andrea Asperti, Alberto Naibo, Claudio Sacerdoti Coen. #AI #LLMs #Math #ITP #LeanProver
++ [[https://arxiv.org/abs/2508.03613][Goedel-Prover-V2: Scaling formal theorem proving with scaffolded data synthesis and self-correction]]. ~ Yong Lin et als. #LLMs #AI #ITP #LeanProver #Math
+
 *** 06-Ago-25
 + [[https://arxiv.org/abs/2508.03366][A comparative study of neurosymbolic AI approaches to interpretable logical reasoning]]. ~ Michael K. Chen. #Neurosymbolic #AI
 
