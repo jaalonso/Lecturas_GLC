@@ -77,6 +77,15 @@ its content.
 
 ** Agosto 2025
 
+*** 09-Ago-25
++ [[https://www.isa-afp.org/entries/Mission_Time_LTL_Formula_Progression.html][Mission-time Linear Temporal Logic Formula Progression (in Isabelle/HOL)]]. ~ Katherine Kosaian, Zili Wang. #ITP #IsabelleHOL
++ [[https://www.isa-afp.org/entries/Two_Way_DFA_HF.html][Two-way deterministic finite automata (in Isabelle/HOL)]]. ~ Felipe Escallón, Tobias Nipkow. #ITP #IsabelleHOL
++ [[https://dl.acm.org/doi/pdf/10.1145/3747520][Truly functional solutions to the longest uptrend problem (Functional pearl)]]. ~ Alexander Dinges, Ralf Hinze. #Haskell #FunctionalProgramming
++ [[https://arxiv.org/abs/2508.03640][Teaching introductory functional programming using Haskelite]]. ~ Pedro Vasconcelos. #Haskell #FunctionalProgramming
++ [[https://youtu.be/E8byql4RaUY][Macros in Prolog: Term and goal expansion]]. ~ Markus Triska. #Prolog #LogicProgramming
++ [[https://www.scientificamerican.com/article/mathematicians-question-ai-performance-at-international-math-olympiad/][Mathematicians question AI performance at International Math Olympiad]]. ~ Emily Riehl. #AI #Math #IMO
++ [[https://arxiv.org/abs/2508.03173v1][Geoint-R1: Formalizing multimodal geometric reasoning with dynamic auxiliary constructions]]. ~ Jingxuan Wei et als. #ITP #LeanProver #LLMs
+
 *** 08-Ago-25
 + [[https://adam.math.hhu.de][Discrete mathematics with Lean 4]]. ~ Shrey Vivek./#/g/shreyvivek/gamemaker #ITP #LeanProver #Math
 + [[https://youtu.be/IuX8QMgy4qE][Gödel's incompleteness theorem]]. ~ Thorsten Altenkirch. #ITP #LeanProver #Logic #Math
