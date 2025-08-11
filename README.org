@@ -77,6 +77,15 @@ its content.
 
 ** Agosto 2025
 
+*** 10-Ago-25
++ [[https://www.cambridge.org/core/journals/journal-of-functional-programming/article/practical-formalization-of-monadic-equational-reasoning-in-dependenttype-theory/B59B87DE000F48B9807F24AEDB11452E][A practical formalization of monadic equational reasoning in dependent-type theory]]. ~ Reynald Affeldt, Jacques Garrigue, Takafumi Saikawa,  #ITP #CoqProver
++ [[https://www.cambridge.org/core/journals/journal-of-functional-programming/article/domainspecific-tensor-languages/19B95794B66C66E117DFCFC7A21E22D5][Domain-specific tensor languages]]. ~ Jean-Philippe Bernardy, Patrik Jansson. #Haskell #FunctionalProgramming
++ [[https://www.cambridge.org/core/journals/journal-of-functional-programming/article/binary-searchthink-positive/1F974DF9C6475D19B32E18C93A2DCC1C][Binary search—think positive]]. ~ Alexander Dinges, Ralf Hinze. #ITP #Agda #FunctionalProgramming
++ [[https://arxiv.org/abs/2508.04438v1][GradSTL: Comprehensive signal temporal logic for neurosymbolic reasoning and learning]]. ~ Mark Chevallier, Filip Smola, Richard Schmoetten, Jacques D. Fleuriot. #ITP #IsabelleHOL
++ [[https://www.cambridge.org/core/journals/journal-of-functional-programming/article/contextual-formalization-of-structural-coinduction/FB2EFC7777D2AFA8662245C80C246315][A contextual formalization of structural coinduction]]. ~ Paul Downen, Zena M. Ariol. #FunctionalProgramming
++ [[https://www.cambridge.org/core/journals/journal-of-functional-programming/article/ocaml-blockly/319CA9FF99C5274C3D3B8BEE205459FF][OCaml Blockly]]. ~ Kenichi Asai. #OCaml #FunctionalProgramming
++ [[https://www.cambridge.org/core/journals/journal-of-functional-programming/article/graphical-theory-of-monads/15AD68F2BC02195A7A2F16075BF0A44D][The graphical theory of monads]]. ~ Ralf Hinze, Dan Marsden. #CategoryTheory
+
 *** 09-Ago-25
 + [[https://www.isa-afp.org/entries/Mission_Time_LTL_Formula_Progression.html][Mission-time Linear Temporal Logic Formula Progression (in Isabelle/HOL)]]. ~ Katherine Kosaian, Zili Wang. #ITP #IsabelleHOL
 + [[https://www.isa-afp.org/entries/Two_Way_DFA_HF.html][Two-way deterministic finite automata (in Isabelle/HOL)]]. ~ Felipe Escallón, Tobias Nipkow. #ITP #IsabelleHOL
