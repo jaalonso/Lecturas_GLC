@@ -77,6 +77,15 @@ its content.
 
 ** Agosto 2025
 
+*** 13-Ago-25
++ [[https://mmhaskell.com/blog/2025/8/11/in-order-traversal-in-haskell-and-rust][In-order traversal in Haskell and Rust]]. ~ James Bowen. #Haskell #FunctionalProgramming #RustLang
++ [[https://alexkontorovich.github.io/2025SimonsFoundationWorkshop/SimonsLeanWorkshopAnalysis1.pdf][First analysis lecture (June 16, 2025)]]. ~ Alex Kontorovich. #ITP #LeanProver #Math
++ [[https://alexkontorovich.github.io/2025SimonsFoundationWorkshop/SimonsLeanWorkshopAnalysis2.pdf][Second analysis lecture "Filter" (June 17, 2025)]]. ~ Alex Kontorovich. #ITP #LeanProver #Math
++ [[https://alexkontorovich.github.io/2025SimonsFoundationWorkshop/simons_filippo.pdf][Structures in Lean4 (June 20, 2025)]]. ~ Filippo Nuccio. #ITP #LeanProver
++ [[https://alexkontorovich.github.io/2025SimonsFoundationWorkshop/SimonsLeanWorkshopPNT.pdf][Blueprints and PNT (June 23, 2025)]]. ~ Alex Kontorovich. #ITP #LeanProver
++ [[https://ifp.org/the-infinity-project][The Infinity Project (How to use AI and mathematics to prove and improve science and security)]]. ~ Patrick Shafto. #AI #Math #ITP #LeanProver
++ [[https://www.educacion.gob.es/teseo/imprimirFicheroTesis.do?idFichero=LiV3M7i%2FrIg%3D][Verificación formal en ACL2 de polinomios de múltiples variables y su aplicación al problema de la decisión en la lógica proposicional clásica]]. ~ Francisco Palomo Lozano. #ITP #ACL2 #Logic #Math
+
 *** 10-Ago-25
 + [[https://www.cambridge.org/core/journals/journal-of-functional-programming/article/practical-formalization-of-monadic-equational-reasoning-in-dependenttype-theory/B59B87DE000F48B9807F24AEDB11452E][A practical formalization of monadic equational reasoning in dependent-type theory]]. ~ Reynald Affeldt, Jacques Garrigue, Takafumi Saikawa,  #ITP #CoqProver
 + [[https://www.cambridge.org/core/journals/journal-of-functional-programming/article/domainspecific-tensor-languages/19B95794B66C66E117DFCFC7A21E22D5][Domain-specific tensor languages]]. ~ Jean-Philippe Bernardy, Patrik Jansson. #Haskell #FunctionalProgramming
