@@ -77,6 +77,13 @@ its content.
 
 ** Agosto 2025
 
+*** 15-Ago-25
++ [[https://lawrencecpaulson.github.io/2025/08/14/Integrals_I.html][Definite integrals, I: easy cases over finite intervals]]. ~ Lawrence Paulson. #ITP #IsabelleHOL #Math
++ [[https://arxiv.org/abs/2210.05225][Revisiting the Fast Fourier Transform in Rocq]]. ~ Laurent Théry. #ITP #Rocq #Math
++ [[https://arxiv.org/abs/2506.03030][The Vampire diary]]. ~ Filip Bártek et als. #ATP #Vampire
++ [[https://hallmos.com/][HaLLMos: Expert-guided AI for learning to write mathematical proofs]]. #Math #AI
++ [[https://jaalonso.github.io/vestigium/posts/2025/08/15-hallmos/][HaLLMos (IA para aprender a escribir demostraciones matemáticas)]]. #Math #AI
+
 *** 13-Ago-25
 + [[https://mmhaskell.com/blog/2025/8/11/in-order-traversal-in-haskell-and-rust][In-order traversal in Haskell and Rust]]. ~ James Bowen. #Haskell #FunctionalProgramming #RustLang
 + [[https://alexkontorovich.github.io/2025SimonsFoundationWorkshop/SimonsLeanWorkshopAnalysis1.pdf][First analysis lecture (June 16, 2025)]]. ~ Alex Kontorovich. #ITP #LeanProver #Math
