@@ -77,6 +77,13 @@ its content.
 
 ** Agosto 2025
 
+*** 17-Ago-25
++ [[https://overreacted.io/beyond-booleans][Beyond booleans]]. ~ Dan Abramov. #ITP #LeanProver
++ [[https://www.sciencedirect.com/science/article/abs/pii/S2352220825000483][Counterpart-based quantified temporal logics]]. ~ Fabio Gadducci, Andrea Laretto, Davide Trotta. #ITP #Agda
++ [[https://www.sciencedirect.com/science/article/abs/pii/S0167642325001194][Type soundness of functional languages with subtyping in Lang-n-Prove]]. ~ Matteo Cimini, Joan Montas. #ITP #Abella
++ [[https://arxiv.org/abs/2508.09856v1][Invertible syntax without the tuples (Functional Pearl)]]. ~ Mathieu Boespflug, Arnaud Spiwack. #Haskell #FunctionalProgramming
++ [[https://arxiv.org/abs/2508.10362][Understanding Fermat's Last Theorem's proofs]]. ~ Alex Qiu et als. #Math
+
 *** 15-Ago-25
 + [[https://lawrencecpaulson.github.io/2025/08/14/Integrals_I.html][Definite integrals, I: easy cases over finite intervals]]. ~ Lawrence Paulson. #ITP #IsabelleHOL #Math
 + [[https://arxiv.org/abs/2210.05225][Revisiting the Fast Fourier Transform in Rocq]]. ~ Laurent Théry. #ITP #Rocq #Math
