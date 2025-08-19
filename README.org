@@ -77,6 +77,11 @@ its content.
 
 ** Agosto 2025
 
+*** 18-Ago-25
++ [[https://cca.informatik.uni-freiburg.de/weidenbach60/Villadsen-Lund-Schlichtkrull-Formalizing-FOL.pdf][Formalizing axiomatics for first-order logic]]. ~ Jørgen Villadsen, Simon Tobias Lund, Anders Schlichtkrull. #ITP #IsabelleHOL #Logic
++ [[https://studenttheses.uu.nl/bitstream/handle/20.500.12932/49742/ThesisBenjamin.pdf][Formal correctness proofs for efficient CHAD]]. ~ Benjamin Meijs. #ITP #Agda
++ [[https://mmhaskell.com/blog/2025/8/18/binary-tree-bfs-zigzag-order][Binary tree BFS: Zigzag order]]. ~ James Bowen. #Haskell #FunctionalProgramming #RustLang
+
 *** 17-Ago-25
 + [[https://overreacted.io/beyond-booleans][Beyond booleans]]. ~ Dan Abramov. #ITP #LeanProver
 + [[https://www.sciencedirect.com/science/article/abs/pii/S2352220825000483][Counterpart-based quantified temporal logics]]. ~ Fabio Gadducci, Andrea Laretto, Davide Trotta. #ITP #Agda
