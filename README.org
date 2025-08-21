@@ -77,6 +77,10 @@ its content.
 
 ** Agosto 2025
 
+*** 20-Ago-25
++ [[https://arxiv.org/abs/2508.11945][Queen domination by SAT solving]]. ~ Taha Rostami, Curtis Bright. #ATP #SAT_Solving
++ [[https://cacm.acm.org/practice/the-price-of-intelligence/][The price of intelligence (Three risks inherent in LLMs)]]. ~ Mark Russinovich, Ahmed Salem, Santiago Zanella-Béguelin, Yonatan Zunger. #AI #LLMs
+
 *** 19-Ago-25
 + [[https://github.com/mchav/granite][Granite: A library for producing terminal plots]]. It depends only on Haskell's base package so it should be easy to use and install. ~ Michael Chavinda. #Haskell #FunctionalProgramming
 
