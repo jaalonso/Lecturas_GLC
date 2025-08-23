@@ -77,6 +77,13 @@ its content.
 
 ** Agosto 2025
 
+*** 22-Ago-25
++ [[https://lawrencecpaulson.github.io//2025/08/21/Integrals_II.html][Definite integrals, II: improper integrals]]. ~ Lawrence Paulson. #ITP #IsabelleHOL #Math
++ [[https://arxiv.org/abs/2407.06956][Continuous and algebraic domains in univalent foundations]]. ~ Tom de Jong, Martín Hötzel Escardó. #ITP #Agda #Math
++ [[https://arxiv.org/abs/2501.14421][Reasoning about weak isolation levels in separation logic]]. ~ Anders Alnor Mathiasen et als. #ITP #Rocq
++ [[https://blog.jle.im/entry/the-baby-paradox-in-haskell.html][The Baby paradox in Haskell]]. ~ Justin Le. #Haskell #FunctionalProgramming #Logic
++ [[https://chrisdone.com/posts/applicative-wired-monad][Applicative-wired monad pattern]]. ~ Chris Done. #Haskell #FunctionalProgramming
+
 *** 20-Ago-25
 + [[https://arxiv.org/abs/2508.11945][Queen domination by SAT solving]]. ~ Taha Rostami, Curtis Bright. #ATP #SAT_Solving
 + [[https://cacm.acm.org/practice/the-price-of-intelligence/][The price of intelligence (Three risks inherent in LLMs)]]. ~ Mark Russinovich, Ahmed Salem, Santiago Zanella-Béguelin, Yonatan Zunger. #AI #LLMs
