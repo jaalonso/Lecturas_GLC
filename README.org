@@ -77,6 +77,10 @@ its content.
 
 ** Agosto 2025
 
+*** 23-Ago-25
++ [[https://leanprover-community.github.io/blog/posts/cmi-class-field-theory-workshop/][Formalizing class field theory]]. ~ Georgia Harbor-Collins, Mohit Hulse. #ITP #LeanProver #Math
++ [[https://byorgey.github.io/blog/posts/2025/08/22/OneLevelTypesIndexed2.lagda.html][Decidable equality for indexed data types, take 2]]. ~ Brent Yorgey. #Agda #FunctionalProgramming #ITP
+
 *** 22-Ago-25
 + [[https://lawrencecpaulson.github.io//2025/08/21/Integrals_II.html][Definite integrals, II: improper integrals]]. ~ Lawrence Paulson. #ITP #IsabelleHOL #Math
 + [[https://arxiv.org/abs/2407.06956][Continuous and algebraic domains in univalent foundations]]. ~ Tom de Jong, Martín Hötzel Escardó. #ITP #Agda #Math
