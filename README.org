@@ -77,6 +77,10 @@ its content.
 
 ** Agosto 2025
 
+*** 24-Ago-25
++ [[https://arxiv.org/abs/2508.14644][LeanGeo: Formalizing competitional geometry problems in Lean]]. ~ Chendong Song et als. #ITP #LeanProver #Math #LLMs
++ [[https://arxiv.org/abs/2508.14249v1][To zip through the cost analysis of probabilistic programs]]. ~ Matthias Hetzenberger, Georg Moser, Florian Zuleger. #Haskell #FunctionalProgramming
+
 *** 23-Ago-25
 + [[https://leanprover-community.github.io/blog/posts/cmi-class-field-theory-workshop/][Formalizing class field theory]]. ~ Georgia Harbor-Collins, Mohit Hulse. #ITP #LeanProver #Math
 + [[https://byorgey.github.io/blog/posts/2025/08/22/OneLevelTypesIndexed2.lagda.html][Decidable equality for indexed data types, take 2]]. ~ Brent Yorgey. #Agda #FunctionalProgramming #ITP
