@@ -77,6 +77,14 @@ its content.
 
 ** Agosto 2025
 
+*** 25-Ago-25
++ [[https://placidex.github.io/posts/lean-regex-nfa-visualization/][Visualizing regular expression NFAs in Lean]]. ~ Krishna Padmasola. #ITP #LeanProver
++ [[https://lastland.github.io/pdfs/LLMVerify.pdf][A case study on the effectiveness of LLMs in verification with proof assistants]]. ~ Barış Bayazıt, Yao Li, Xujie Si. #ITP #Rocq #LLMs
++ [[https://arxiv.org/abs/2508.15157v1][Big-stop semantics: A simple way to get the benefits of small-step semantics in a big-step judgment]]. ~ David M Kahn, Jan Hoffmann, Runming Li. #ITP #Agda
++ [[https://studenttheses.uu.nl/bitstream/handle/20.500.12932/49881/master-thesis.pdf][Formalizing axiomatic theories of truth]]. ~ Bram Swaanen. #ITP #LeanProver #Logic
++ [[https://studenttheses.uu.nl/bitstream/handle/20.500.12932/49918/thesis_alex_van_tilburg.pdf][Introduction to proofs using Waterproof]]. ~ Alex van Tilburg. #ITP #Rocq #Waterproof
++ [[https://mmhaskell.com/blog/2025/8/25/sets-amp-heaps-in-haskell-and-rust][Sets & heaps in Haskell and Rust]]. ~ James Bowen. #Haskell #FunctionalProgramming #RustLang
+
 *** 24-Ago-25
 + [[https://arxiv.org/abs/2508.14644][LeanGeo: Formalizing competitional geometry problems in Lean]]. ~ Chendong Song et als. #ITP #LeanProver #Math #LLMs
 + [[https://arxiv.org/abs/2508.14249v1][To zip through the cost analysis of probabilistic programs]]. ~ Matthias Hetzenberger, Georg Moser, Florian Zuleger. #Haskell #FunctionalProgramming
