@@ -77,6 +77,11 @@ its content.
 
 ** Agosto 2025
 
+*** 26-Ago-25
++ [[https://arxiv.org/abs/2508.15856][Experimental results for Vampire on the equational theories project]]. ~ Mikoláš Janota. #ATP #Vampire
++ [[https://arxiv.org/abs/2508.15878][Lean meets theoretical computer science: Scalable synthesis of theorem proving challenges in formal-informal pairs]]. ~ Terry Jingchen Zhang et als. #ITP #LeanProver #LLMs
++ [[https://arxiv.org/abs/2508.10265][Why cannot large language models ever make true correct reasoning? ~ Jingde Cheng]]. #LLMs #Reasoning
+
 *** 25-Ago-25
 + [[https://placidex.github.io/posts/lean-regex-nfa-visualization/][Visualizing regular expression NFAs in Lean]]. ~ Krishna Padmasola. #ITP #LeanProver
 + [[https://lastland.github.io/pdfs/LLMVerify.pdf][A case study on the effectiveness of LLMs in verification with proof assistants]]. ~ Barış Bayazıt, Yao Li, Xujie Si. #ITP #Rocq #LLMs
