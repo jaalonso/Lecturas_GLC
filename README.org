@@ -77,6 +77,9 @@ its content.
 
 ** Agosto 2025
 
+*** 27-Ago-25
++ [[https://arxiv.org/abs/1612.09375][Basic category theory]]. ~ Tom Leinster. #eBook #CategoryTheory
+
 *** 26-Ago-25
 + [[https://arxiv.org/abs/2508.15856][Experimental results for Vampire on the equational theories project]]. ~ Mikoláš Janota. #ATP #Vampire
 + [[https://arxiv.org/abs/2508.15878][Lean meets theoretical computer science: Scalable synthesis of theorem proving challenges in formal-informal pairs]]. ~ Terry Jingchen Zhang et als. #ITP #LeanProver #LLMs
