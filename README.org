@@ -77,6 +77,9 @@ its content.
 
 ** Agosto 2025
 
+*** 28-Ago-25
++ [[https://youtu.be/RN9Fr7YRt5c][Haskell Course: Lesson 21: Reader, Writer, and State Monads]]. ~ Robertino Martinez. #Haskell #FunctionalProgramming
+
 *** 27-Ago-25
 + [[https://arxiv.org/abs/1612.09375][Basic category theory]]. ~ Tom Leinster. #eBook #CategoryTheory
 
