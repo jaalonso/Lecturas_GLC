@@ -77,6 +77,11 @@ its content.
 
 ** Agosto 2025
 
+*** 29-Ago-25
++ [[https://ochagavia.nl/blog/tic-tac-toe-meets-lean-4/][Tic-tac-toe meets Lean 4]]. ~ Adolfo Ochagavía. #ITP #LeanProver
++ [[https://www.sciencedirect.com/science/article/pii/S0022404925002117][Continuous and algebraic domains in univalent foundations]]. ~ Tom de Jong, Martín Hötzel Escardó. #ITP #Agda
++ [[https://www.erdosproblems.com][Erdös problems]]. ~ Thomas Bloom. #Math
+
 *** 28-Ago-25
 + [[https://youtu.be/RN9Fr7YRt5c][Haskell Course: Lesson 21: Reader, Writer, and State Monads]]. ~ Robertino Martinez. #Haskell #FunctionalProgramming
 
