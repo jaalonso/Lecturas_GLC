@@ -77,6 +77,10 @@ its content.
 
 ** Agosto 2025
 
+*** 30-Ago-25
++ [[https://arxiv.org/abs/2508.20738][Exploiting instantiations from paramodulation proofs in Isabelle/HOL]]. ~ Lukas Bartl, Jasmin Blanchette, Tobias Nipkow. #ITP #IsabelleHOL
++ [[https://francis.naukas.com/2025/08/29/demostracion-incorrecta-de-p-%e2%89%a0-np-publicada-en-la-revista-frontiers-of-computer-science/][Demostración incorrecta de P ≠ NP publicada en la revista "Frontiers of Computer Science"]]. ~ Francisco R. Villatoro. #Math
+
 *** 29-Ago-25
 + [[https://ochagavia.nl/blog/tic-tac-toe-meets-lean-4/][Tic-tac-toe meets Lean 4]]. ~ Adolfo Ochagavía. #ITP #LeanProver
 + [[https://www.sciencedirect.com/science/article/pii/S0022404925002117][Continuous and algebraic domains in univalent foundations]]. ~ Tom de Jong, Martín Hötzel Escardó. #ITP #Agda
