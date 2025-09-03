@@ -78,6 +78,10 @@ its content.
 
 ** Septiembre 2025
 
+*** 02-Sep-25
++ [[https://theses.hal.science/tel-05229403v1][Aspects of category theory in proof assistants]]. ~ Luc Chabassier. #ITP #CoqProver #CategoryTheory
++ [[https://www.isa-afp.org/entries/No_Free_Lunch_ML.html][No-free-lunch theorem for machine learning]]. ~ Michikazu Hirata. #ITP #IsabelleHOL
+
 *** 01-Sep-25
 + [[https://arxiv.org/abs/2508.21593][Growing Mathlib: maintenance of a large scale mathematical library]]. ~ Anne Baanen et als. #ITP #LeanProver #Mathlib
 + [[https://mmhaskell.com/blog/2025/9/1/starting-out-with-graph-algorithms-basic-dfs][Starting out with graph algorithms: Basic DFS]]. ~ James Bowen. #Haskell #FunctionalProgramming #RustLang
