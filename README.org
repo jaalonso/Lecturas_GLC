@@ -78,6 +78,14 @@ its content.
 
 ** Septiembre 2025
 
+*** 03-Sep-25
++ [[https://books.google.com/books?id=MEqCEQAAQBAJ][Thinking programs (Logical modeling and reasoning about languages, data, computations, and executions)]]. ~ Wolfgang Schreiner. #ITP #IsabelleHOL #Logic #CompSci
++ [[https://arxiv.org/abs/2405.06423][A blueprint for the formalization of Carleson's theorem on convergence of Fourier series]]. ~ Lars Becker et als. #ITP #LeanProver #Math
++ [[https://overreacted.io/lean-for-javascript-developers/][Lean for JavaScript developers]]. ~ Dan Abramov. #ITP #LeanProver
++ [[https://ouss122.github.io/Ou12Blog/blog/contradiction-contraposition-and-lean/][Contradiction, contraposition and Lean]]. ~ Oussama. #ITP #LeanProver
++ [[https://www.preprints.org/frontend/manuscript/13352f039262c05f24b9ca6a3f26a267/download_pub][The meta-principle: A type-theoretic theorem and its interpretation]]. ~ Jonathan Washburn. #ITP #LeanProver
++ [[http://injoit.org/index.php/j1/article/view/2259][Introduction to formal methods using interactive proof assistant Rocq]]. ~ Evgeny Makarov. #ITP #Rocq
+
 *** 02-Sep-25
 + [[https://theses.hal.science/tel-05229403v1][Aspects of category theory in proof assistants]]. ~ Luc Chabassier. #ITP #CoqProver #CategoryTheory
 + [[https://www.isa-afp.org/entries/No_Free_Lunch_ML.html][No-free-lunch theorem for machine learning]]. ~ Michikazu Hirata. #ITP #IsabelleHOL
