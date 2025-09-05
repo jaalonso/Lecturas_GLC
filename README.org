@@ -78,6 +78,14 @@ its content.
 
 ** Septiembre 2025
 
+*** 04-Sep-25
++ [[https://www.joachim-breitner.de/blog/817-F91_in_Lean][F91 in Lean]]. ~ Joachim Breitner. #ITP #LeanProver
++ [[https://leanfirststeps.blogspot.com/p/contents.html][Lean: First steps]]. ~ Tariq Rashid. #ITP #LeanProver
++ [[https://lmao.bearblog.dev/acorn-ai-proving/][Acorn and the future of (AI?) theorem proving]]. ~ Guillermo Angeris.  #ITP #LeanProver
++ [[https://arxiv.org/abs/2504.04942][Lemmanaid: Neuro-symbolic lemma conjecturing]]. ~ Yousef Alhessi et als. #ITP #IsabelleHOL #LLMs
++ [[https://github.com/morphismtech/distributors/blob/main/blog.md][Distributors (Unifying parsers, printers & grammars)]]. ~ Eitan Chatav. #Haskell #FunctionalProgramming
++ [[https://notxor.nueva-actitud.org/2025/08/31/la-red-social-de-org-mode.html][La red social de org-mode]]. ~ Notxor. #Emacs #OrgMode
+
 *** 03-Sep-25
 + [[https://books.google.com/books?id=MEqCEQAAQBAJ][Thinking programs (Logical modeling and reasoning about languages, data, computations, and executions)]]. ~ Wolfgang Schreiner. #ITP #IsabelleHOL #Logic #CompSci
 + [[https://arxiv.org/abs/2405.06423][A blueprint for the formalization of Carleson's theorem on convergence of Fourier series]]. ~ Lars Becker et als. #ITP #LeanProver #Math
