@@ -78,6 +78,13 @@ its content.
 
 ** Septiembre 2025
 
+*** 05-Sep-25
++ [[https://lawrencecpaulson.github.io/2025/09/05/All_or_nothing.html][Program verification is not all-or-nothing]]. ~ Lawrence Paulson. #FormalVerification
++ [[https://youtu.be/QXQNet2yTdk][The future of math is programming]]. ~ Ank Yog. #ITP #LeanProver #Math
++ [[https://leandojo.org/][AI-driven formal theorem proving]]. #ITP #LeanProver #AI #LLMs
++ [[https://well-typed.com/blog/2025/09/better-haskell-stack-traces/][Better Haskell stack traces via user annotations]]. ~ Hannes Siebenhandl, Matthew Pickering. #Haskell #FunctionalProgramming
++ [[https://www.quantamagazine.org/what-is-the-fourier-transform-20250903/][What is the Fourier transform?]]. ~ Shalma Wegsman. #Math
+
 *** 04-Sep-25
 + [[https://www.joachim-breitner.de/blog/817-F91_in_Lean][F91 in Lean]]. ~ Joachim Breitner. #ITP #LeanProver
 + [[https://leanfirststeps.blogspot.com/p/contents.html][Lean: First steps]]. ~ Tariq Rashid. #ITP #LeanProver
