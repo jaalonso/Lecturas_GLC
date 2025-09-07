@@ -78,6 +78,10 @@ its content.
 
 ** Septiembre 2025
 
+*** 06-Sep-25
++ [[https://www.uv.es/coslloen/Arxiu/Fitxers/An-introduction-to-Lean-4.pdf][An introduction to Lean 4]]. ~ E. Cosme Llópez, L. Gong. #ITP #LeanProver #FunctionalProgramming
++ [[https://aimoprize.com/updates/2025-09-05-the-gap-is-shrinking][The gap between commercial and open-source LLMs for Olympiad-level math is shrinking]]. #AI #LLMs #Math
+
 *** 05-Sep-25
 + [[https://lawrencecpaulson.github.io/2025/09/05/All_or_nothing.html][Program verification is not all-or-nothing]]. ~ Lawrence Paulson. #FormalVerification
 + [[https://youtu.be/QXQNet2yTdk][The future of math is programming]]. ~ Ank Yog. #ITP #LeanProver #Math
