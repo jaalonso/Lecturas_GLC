@@ -78,6 +78,9 @@ its content.
 
 ** Septiembre 2025
 
+*** 08-Sep-25
++ [[https://mmhaskell.com/blog/2025/9/8/graph-algorithms-in-board-games][Graph algorithms in board games!]] ~ James Bowen. #Haskell #FunctionalProgramming #RustLang
+
 *** 07-Sep-25
 + [[https://alexkontorovich.github.io/2025F311H/][Course: Introduction to real analysis]]. ~ Alex Kontorovich. #Math #ITP #LeanProver
 + [[https://youtu.be/TN51-1RRenY][Introduction to formal real analysis (Lecture 1)]]. ~ Alex Kontorovich. #Math #ITP #LeanProver
