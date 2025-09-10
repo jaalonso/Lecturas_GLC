@@ -78,6 +78,12 @@ its content.
 
 ** Septiembre 2025
 
+*** 09-Sep-25
++ [[https://arxiv.org/abs/2509.04922][Higher order differential calculus in Mathlib]]. ~ Sébastien Gouëzel. #ITP #LeanProver #Math
++ [[https://arxiv.org/abs/2501.14542][Ordinal exponentiation in homotopy type theory]]. ~ Tom de Jong et als. #ITP #Agda #HoTT #Math
++ [[https://www.storyofmathematics.com][The story of mathematics]]. #Math
++ [[https://www.microsiervos.com/archivo/matematicas/historia-matematicas-35000-anos-numeros.html][La historia de las matemáticas: 35.000 años de números, año arriba, año abajo]]. ~ @Alvy. #Matemáticas
+
 *** 08-Sep-25
 + [[https://mmhaskell.com/blog/2025/9/8/graph-algorithms-in-board-games][Graph algorithms in board games!]] ~ James Bowen. #Haskell #FunctionalProgramming #RustLang
 
