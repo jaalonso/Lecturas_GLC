@@ -78,6 +78,12 @@ its content.
 
 ** Septiembre 2025
 
+*** 10-Sep-25
++ [[https://alexkontorovich.github.io/2025F311H/Lecture1.pdf][An introduction to formal real analysis (Lecture 1: The story of real analysis. Lean tactics (exact, rfl, rewrite, ring_nf, use, intro, specialize, choose))]]. ~ Alex Kontorovich. #ITP #LeanProver #Math
++ [[https://alexkontorovich.github.io/2025F311H/Lecture2.pdf][An introduction to formal real analysis (Lecture 2: Newton's computation of π. Formal definition of the limit of a sequence)]]. ~ Alex Kontorovich. #ITP #LeanProver #Math
++ [[https://adam.math.hhu.de/#/g/AlexKontorovich/RealAnalysisGame][Real analysis, the game!]] ~ Alex Kontorovich. #ITP #LeanProver #Math
++ [[https://agentultra.com/blog/using-haskell-in-production/][Using Haskell in production]]. ~ Agentultra. #Haskell #FunctionalProgramming
+
 *** 09-Sep-25
 + [[https://arxiv.org/abs/2509.04922][Higher order differential calculus in Mathlib]]. ~ Sébastien Gouëzel. #ITP #LeanProver #Math
 + [[https://arxiv.org/abs/2501.14542][Ordinal exponentiation in homotopy type theory]]. ~ Tom de Jong et als. #ITP #Agda #HoTT #Math
