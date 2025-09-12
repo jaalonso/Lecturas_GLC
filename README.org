@@ -78,6 +78,17 @@ its content.
 
 ** Septiembre 2025
 
+*** 11-Sep-25
++ [[https://www.uv.es/coslloen/Lean4/][An introduction to Lean 4 (An introduction to formal verification)]]. ~ Enric Cosme Llópez, Lü Gong. #ITP #LeanProver #Math
++ [[https://filip.lajszczak.dev/lean-4-with-a-math-textbook---part-0---introduction.html][Lean 4 with a Math Textbook (Part 0: Introduction)]]. ~ Filip Łajszczak. #ITP #LeanProver #Math
++ [[https://filip.lajszczak.dev/lean-4-with-a-math-textbook---part-1---defining-sets-and-membership.html][Lean 4 with a Math Textbook (Part 1: Defining sets and membership)]]. ~ Filip Łajszczak. #ITP #LeanProver #Math
++ [[https://filip.lajszczak.dev/lean-4-with-a-math-textbook---part-2---subsets.html][Lean 4 with a Math Textbook (Part 2: Subsets)]]. ~ Filip Łajszczak. #ITP #LeanProver #Math
++ [[https://filip.lajszczak.dev/lean-4-with-a-math-textbook---part-3---properties-of-subsets.html][Lean 4 with a Math Textbook (Part 3: Properties of subsets)]]. ~ Filip Łajszczak. #ITP #LeanProver #Math
++ [[https://github.com/Luka-O/polya-enumeration-theorem][A Lean 4 formalization of Pólya enumeration theorem]]. ~ Luka Opravš. #ITP #LeanProver #Math
++ [[https://wadler.blogspot.com/2025/09/haskell-equations-thirty-eight-years.html][Haskell equations, thirty-eight years later]]. ~ Philip Wadler. #Haskell #FunctionalProgramming
++ [[https://www.well-typed.com/blog/2025/09/better-haskell-stack-traces/][Better Haskell stack traces via user annotations]]. ~ Hannes Siebenhandl, Matthew Pickering. #Haskell #FunctionalProgramming
++ [[https://arxiv.org/abs/2509.07257][Fraudulent publishing in the mathematical sciences]]. ~ Ilka Agricola, Lynn Heller, Wil Schilders, Moritz Schubotz, Peter Taylor, Luis Vega. #Math
+
 *** 10-Sep-25
 + [[https://alexkontorovich.github.io/2025F311H/Lecture1.pdf][An introduction to formal real analysis (Lecture 1: The story of real analysis. Lean tactics (exact, rfl, rewrite, ring_nf, use, intro, specialize, choose))]]. ~ Alex Kontorovich. #ITP #LeanProver #Math
 + [[https://alexkontorovich.github.io/2025F311H/Lecture2.pdf][An introduction to formal real analysis (Lecture 2: Newton's computation of π. Formal definition of the limit of a sequence)]]. ~ Alex Kontorovich. #ITP #LeanProver #Math
