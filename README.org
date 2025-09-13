@@ -78,6 +78,12 @@ its content.
 
 ** Septiembre 2025
 
+*** 12-Sep-25
++ [[https://ezhuchko.com/pdfs/fin.pdf][Finiteness of symbolic derivatives in Lean]]. ~ Ekaterina Zhuchko, Hendrik Maarand, Margus Veanes, Gabriel Ebner. #ITP #LeanProver #Math
++ [[https://www.ps.uni-saarland.de/~smolka/drafts/mpctt.pdf][Modeling and proving in computational type theory using the Rocq prover]]. ~ Gert Smolka. #ITP #Rocq
++ [[https://github.com/uds-psl/MPCTT][MPCTT textbook project (Modeling and proving in computational type theory using the Rocq prover)]]. ~ Gert Smolka. #ITP #Rocq
++ [[https://www.math.inc/gauss][Introducing Gauss, an agent for autoformalization]]. #AI #Autoformalization #ITP #LeanProver #Math
+
 *** 11-Sep-25
 + [[https://www.uv.es/coslloen/Lean4/][An introduction to Lean 4 (An introduction to formal verification)]]. ~ Enric Cosme Llópez, Lü Gong. #ITP #LeanProver #Math
 + [[https://filip.lajszczak.dev/lean-4-with-a-math-textbook---part-0---introduction.html][Lean 4 with a Math Textbook (Part 0: Introduction)]]. ~ Filip Łajszczak. #ITP #LeanProver #Math
