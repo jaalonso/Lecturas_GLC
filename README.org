@@ -78,6 +78,10 @@ its content.
 
 ** Septiembre 2025
 
+*** 13-Sep-25
++ [[https://www.isa-afp.org/entries/Greibach_Normal_Form.html][Greibach normal form (in Isabelle/HOL)]]. ~ Alexander Haberl, Tobias Nipkow, Akihisa Yamada. #ITP #IsabelleHOL
++ [[https://www.isa-afp.org/entries/Stratified_Datalog.html][Stratified datalog and program analysis (in Isabelle/HOL)]]. ~ Anders Schlichtkrull, René Rydhof Hansen, Flemming Nielson. #ITP #IsabelleHOL
+
 *** 12-Sep-25
 + [[https://ezhuchko.com/pdfs/fin.pdf][Finiteness of symbolic derivatives in Lean]]. ~ Ekaterina Zhuchko, Hendrik Maarand, Margus Veanes, Gabriel Ebner. #ITP #LeanProver #Math
 + [[https://www.ps.uni-saarland.de/~smolka/drafts/mpctt.pdf][Modeling and proving in computational type theory using the Rocq prover]]. ~ Gert Smolka. #ITP #Rocq
