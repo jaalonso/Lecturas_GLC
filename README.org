@@ -78,6 +78,9 @@ its content.
 
 ** Septiembre 2025
 
+*** 14-Sep-25
++ [[https://youtu.be/FXkzQzQZmnw][An introduction to formal real analysis (Lecture 3: More fun with sequences)]]. ~ Alex Kontorovich. #ITP #LeanProver #Math
+
 *** 13-Sep-25
 + [[https://www.isa-afp.org/entries/Greibach_Normal_Form.html][Greibach normal form (in Isabelle/HOL)]]. ~ Alexander Haberl, Tobias Nipkow, Akihisa Yamada. #ITP #IsabelleHOL
 + [[https://www.isa-afp.org/entries/Stratified_Datalog.html][Stratified datalog and program analysis (in Isabelle/HOL)]]. ~ Anders Schlichtkrull, René Rydhof Hansen, Flemming Nielson. #ITP #IsabelleHOL
