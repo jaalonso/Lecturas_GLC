@@ -78,6 +78,9 @@ its content.
 
 ** Septiembre 2025
 
+*** 15-Sep-25
++ [[https://mmhaskell.com/blog/2025/9/15/topological-sort-managing-mutable-structures-in-haskell][Topological sort: Managing mutable structures in Haskell]]. ~ James Bowen. #Haskell #FunctionalProgramming #RustLang
+
 *** 14-Sep-25
 + [[https://youtu.be/FXkzQzQZmnw][An introduction to formal real analysis (Lecture 3: More fun with sequences)]]. ~ Alex Kontorovich. #ITP #LeanProver #Math
 
