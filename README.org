@@ -78,6 +78,10 @@ its content.
 
 ** Septiembre 2025
 
+*** 18-Sep-25
++ [[https://arxiv.org/abs/2503.15541][Case study: Verified Vampire proofs in the lambdapi-calculus modulo]]. ~ Anja Petković Komel, Michael Rawson, Martin Suda. #ATP #Vampire #ITP #Dedukti
++ [[https://arstechnica.com/google/2025/09/google-gemini-earns-gold-medal-in-icpc-world-finals-coding-competition/][Gemini AI solves coding problem that stumped 139 human teams at ICPC World Finals (Gemini shows off at another high-level academic competition)]]. ~ Ryan Whitwam. #AI #LLMs #Gemini #Programming
+
 *** 17-Sep-25
 + [[https://arxiv.org/abs/2509.13142][Formalizing dimensional analysis using the Lean theorem prover]]. ~ Maxwell P. Bobbin, Colin Jones, John Velkey, Tyler R. Josephson. #ITP #LeanProver
 + [[https://www.galois.com/articles/claude-can-sometimes-prove-it][Claude can (sometimes) prove it]]. ~ Mike Dodds. #ITP #LeanProver #Math #AI #LLMs #Claude
