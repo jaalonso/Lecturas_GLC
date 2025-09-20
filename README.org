@@ -78,6 +78,14 @@ its content.
 
 ** Septiembre 2025
 
+*** 19-Sep-25
++ [[https://leanprover-community.github.io/blog/posts/simons-lean-workshop/][Simons Foundation Lean Workshop]]. ~ Antoine Chambert-Loir. Alex Kontorovich, Heather MacBeth. #ITP #LeanProver
++ [[https://arxiv.org/abs/2509.15116][The mechanization of science illustrated by the Lean formalization of the multi-graded Proj construction]]. ~ Arnaud Mayeux, Jujian Zhang. #ITP #LeanProver
++ [[https://arxiv.org/abs/2509.14988][The groupoid-syntax of type theory is a set]]. ~ Thorsten Altenkirch, Ambrus Kaposi, Szumi Xie. #ITP #Agda
++ [[https://momigliano.di.unimi.it/papers/stutorial.pdf][Mechanizing the meta-theory of session types in Rocq: A tutorial]]. ~ Marco Carbone, Alberto Momigliano. #ITP #Rocq
++ [[https://arxiv.org/abs/2509.15015][Theorem provers: One size fits all?]] ~ Harrison Oates, Hyeonggeun Yun, Nikhila Gurusinghe. #ITP #CoqProver #Idris2
++ [[https://szumixie.github.io/docs/papers/the-conatural-numbers-form-an-exponential-commutative-semiring.pdf][The conatural numbers form an exponential commutative semiring]]. ~ Szumi Xie, Viktor Bense. #ITP #Agda
+
 *** 18-Sep-25
 + [[https://arxiv.org/abs/2503.15541][Case study: Verified Vampire proofs in the lambdapi-calculus modulo]]. ~ Anja Petković Komel, Michael Rawson, Martin Suda. #ATP #Vampire #ITP #Dedukti
 + [[https://arstechnica.com/google/2025/09/google-gemini-earns-gold-medal-in-icpc-world-finals-coding-competition/][Gemini AI solves coding problem that stumped 139 human teams at ICPC World Finals (Gemini shows off at another high-level academic competition)]]. ~ Ryan Whitwam. #AI #LLMs #Gemini #Programming
