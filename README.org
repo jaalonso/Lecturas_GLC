@@ -78,6 +78,11 @@ its content.
 
 ** Septiembre 2025
 
+*** 20-Sep-25
++ [[https://lawrencecpaulson.github.io/2025/09/20/Wrong.html][Everything you know is wrong]]. ~ Lawrence Paulson. #AI #Logic #ATP #ITP #FunctionalProgramming #LogicProgramming #FormalVerification
++ [[https://youtu.be/p2Q4Vgn0QB0][An introduction to formal real analysis (Lecture 4: Non-convergence of (-1)^n, triangle inequality)]]. ~ Alex Kontorovich. #ITP #LeanProver #Math
++ [[https://youtu.be/MSp48lKUOGY][An introduction to formal real analysis (Lecture 5: Doubling a convergent sequence)]]. ~ Alex Kontorovich. #ITP #LeanProver #Math
+
 *** 19-Sep-25
 + [[https://leanprover-community.github.io/blog/posts/simons-lean-workshop/][Simons Foundation Lean Workshop]]. ~ Antoine Chambert-Loir. Alex Kontorovich, Heather MacBeth. #ITP #LeanProver
 + [[https://arxiv.org/abs/2509.15116][The mechanization of science illustrated by the Lean formalization of the multi-graded Proj construction]]. ~ Arnaud Mayeux, Jujian Zhang. #ITP #LeanProver
