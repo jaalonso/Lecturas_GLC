@@ -78,6 +78,17 @@ its content.
 
 ** Septiembre 2025
 
+*** 22-Sep-25
++ [[https://arxiv.org/abs/2509.13142v1][Formalizing dimensional analysis using the Lean theorem prover]]. ~ Maxwell P. Bobbin et als. #ITP #LeanProver
++ [[https://eprint.iacr.org/2025/1700.pdf][Computationally-sound symbolic cryptography in Lean]]. ~ Stefan Dziembowski et als. #ITP #LeanProver
++ [[https://pimr.pitt.edu/pimr/article/download/58/45][Formal verification of the Euler Sieve via Lean]]. ~ Isaac (Rucheng) Li. #ITP #LeanProver #Math
++ [[https://youtu.be/_ExTLAXDTSQ][Lean-auto: An interface between Lean 4 and automated theorem provers (video)]]. ~ Yicheng Qian, Joshua Clune, Clark Barrett, Jeremy Avigad. #ITP #LeanProver #ATP #SMT
++ [[https://arxiv.org/abs/2509.12337v1][Determination of the fifth Busy Beaver value]]. ~ Justin Blanchard et als. #ITP #CoqProver #Rocq
++ [[https://arxiv.org/abs/2509.14274v1][Discovering new theorems via LLMs with in-context proof learning in Lean]]. ~ Kazumi Kasaura et als. #ITP #LeanProver #Math #LLMs
++ [[https://arxiv.org/abs/2509.15005v1][Refinement-types driven development: A study]]. ~ Facundo Domínguez, Arnaud Spiwack. #FunctionalProgramming #Liquid #Haskell #SMT
++ [[https://cacm.acm.org/blogcacm/feeling-cranky-about-ai-and-cs-education/][Feeling cranky about AI and CS education]]. ~ Valerie Barr. #AI #CompSci #Education
++ [[https://fortune.com/2025/09/20/aws-scientist-why-hallucinations-are-ai-llm-greatest-asset/][AWS scientist: Your AI strategy needs mathematical logic]]. ~ Byron Cook. #AI #LLMs #Logic #Math #ATP #ITP
+
 *** 20-Sep-25
 + [[https://lawrencecpaulson.github.io/2025/09/20/Wrong.html][Everything you know is wrong]]. ~ Lawrence Paulson. #AI #Logic #ATP #ITP #FunctionalProgramming #LogicProgramming #FormalVerification
 + [[https://youtu.be/p2Q4Vgn0QB0][An introduction to formal real analysis (Lecture 4: Non-convergence of (-1)^n, triangle inequality)]]. ~ Alex Kontorovich. #ITP #LeanProver #Math
