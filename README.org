@@ -78,6 +78,42 @@ its content.
 
 ** Septiembre 2025
 
+*** 23-Sep-25
++ [[https://drops.dagstuhl.de/storage/00lipics/lipics-vol352-itp2025/LIPIcs.ITP.2025.18/LIPIcs.ITP.2025.18.pdf][Formalising new mathematics in Isabelle: Diagonal Ramsey]]. ~ Lawrence C. Paulson. #ITP #IsabelleHOL #Math
++ [[https://drops.dagstuhl.de/storage/00lipics/lipics-vol352-itp2025/LIPIcs.ITP.2025.2/LIPIcs.ITP.2025.2.pdf][A formal analysis of algorithms for matroids and greedoids]]. ~ Mohammad Abdulaziz et als. #ITP #IsabelleHOL #Math
++ [[https://drops.dagstuhl.de/storage/00lipics/lipics-vol352-itp2025/LIPIcs.ITP.2025.3/LIPIcs.ITP.2025.3.pdf][A formal proof of complexity bounds on diophantine equations]]. ~ Jonas Bayer, Marco David. #ITP #IsabelleHOL #Math
++ [[https://drops.dagstuhl.de/storage/00lipics/lipics-vol352-itp2025/LIPIcs.ITP.2025.22/LIPIcs.ITP.2025.22.pdf][Formalizing splitting in Isabelle/HOL]]. ~ Ghilain Bergeron, Florent Krasnopol, and Sophie Tourret. #ITP #IsabelleHOL
++ [[https://drops.dagstuhl.de/storage/00lipics/lipics-vol352-itp2025/LIPIcs.ITP.2025.23/LIPIcs.ITP.2025.23.pdf][Formalizing the hidden number problem in Isabelle/HOL]]. ~ Sage Binder, Eric Ren, and Katherine Kosaian. #ITP #IsabelleHOL #Math
++ [[https://drops.dagstuhl.de/storage/00lipics/lipics-vol352-itp2025/LIPIcs.ITP.2025.8/LIPIcs.ITP.2025.8.pdf][Abstract, compositional consistency: Isabelle/HOL locales for completeness à la Fitting]]. ~ Asta Halkjær From, Anders Schlichtkrull. #ITP #IsabelleHOL #Logic
++ [[https://drops.dagstuhl.de/storage/00lipics/lipics-vol352-itp2025/LIPIcs.ITP.2025.10/LIPIcs.ITP.2025.10.pdf][An Isabelle/HOL formalization of semi-Thue and conditional semi-Thue systems]]. ~ Dohan Kim. #ITP #IsabelleHOL
++ [[https://drops.dagstuhl.de/storage/00lipics/lipics-vol352-itp2025/LIPIcs.ITP.2025.11/LIPIcs.ITP.2025.11.pdf][Animating MRBNFs: Truly modular binding-aware datatypes in Isabelle/HOL]]. ~ Jan van Brügge, Andrei Popescu, Dmitriy Traytel. #ITP #IsabelleHOL
++ [[https://drops.dagstuhl.de/storage/00lipics/lipics-vol352-itp2025/LIPIcs.ITP.2025.26/LIPIcs.ITP.2025.26.pdf][Improving the SMT proof reconstruction pipeline in Isabelle/HOL]]. ~ Hanna Lachnitt, Mathias Fleury, Haniel Barbosa, Jibiana Jakpor, Bruno Andreotti, Andrew Reynolds, Hans-Jörg Schurr, Clark Barrett, and Cesare Tinelli. #ITP #IsabelleHOL
++ [[https://drops.dagstuhl.de/storage/00lipics/lipics-vol352-itp2025/LIPIcs.ITP.2025.30/LIPIcs.ITP.2025.30.pdf][Nondeterministic asynchronous dataflow in Isabelle/HOL]]. ~ Rafael Castro Gonçalves Silva, Laouen Fernet, and Dmitriy Traytel. #ITP #IsabelleHOL
++ [[https://drops.dagstuhl.de/storage/00lipics/lipics-vol352-itp2025/LIPIcs.ITP.2025.35/LIPIcs.ITP.2025.35.pdf][Verifying an efficient algorithm for computing Bernoulli numbers]]. ~ Manuel Eberl and Peter Lammich. #ITP #IsabelleHOL #Math
++ [[https://drops.dagstuhl.de/storage/00lipics/lipics-vol352-itp2025/LIPIcs.ITP.2025.34/LIPIcs.ITP.2025.34.pdf][Verification of the CVM algorithm with a functional probabilistic invariant]]. ~ Emin Karayel, Seng Joe Watt, Derek Khu, Kuldeep S. Meel, and Yong Kiam Tan. #ITP #IsabelleHOL
++ [[https://drops.dagstuhl.de/storage/00lipics/lipics-vol352-itp2025/LIPIcs.ITP.2025.4/LIPIcs.ITP.2025.4.pdf][A formalization of divided powers in Lean]]. ~ Antoine Chambert-Loir, María Inés de Frutos-Fernández. #ITP #LeanProver #Math
++ [[https://drops.dagstuhl.de/storage/00lipics/lipics-vol352-itp2025/LIPIcs.ITP.2025.16/LIPIcs.ITP.2025.16.pdf][Finiteness of symbolic derivatives in Lean]]. ~ Ekaterina Zhuchko, Hendrik Maarand, Margus Veanes, and Gabriel Ebner. #ITP #LeanProver #Math
++ [[https://drops.dagstuhl.de/storage/00lipics/lipics-vol352-itp2025/LIPIcs.ITP.2025.20/LIPIcs.ITP.2025.20.pdf][Formalizing colimits in Cat]]. ~ Mario Carneiro and Emily Riehl. #ITP #LeanProver #CategoryTheory
++ [[https://drops.dagstuhl.de/storage/00lipics/lipics-vol352-itp2025/LIPIcs.ITP.2025.14/LIPIcs.ITP.2025.14.pdf][Canonical for automated theorem proving in Lean]]. ~ Chase Norman and Jeremy Avigad. #ITP #LeanProver
++ [[https://drops.dagstuhl.de/storage/00lipics/lipics-vol352-itp2025/LIPIcs.ITP.2025.9/LIPIcs.ITP.2025.9.pdf][Algebra is half the battle: Verifying presentations of graded unipotent Chevalley groups]]. ~ Eric Wang et als. #ITP #LeanProver #Math
++ [[https://drops.dagstuhl.de/storage/00lipics/lipics-vol352-itp2025/LIPIcs.ITP.2025.12/LIPIcs.ITP.2025.12.pdf][Automatically generalizing proofs and statements]]. ~ Anshula Gandhi, Anand Rao Tadipatri, Timothy Gowers. #ITP #LeanProver
++ [[https://drops.dagstuhl.de/storage/00lipics/lipics-vol352-itp2025/LIPIcs.ITP.2025.36/LIPIcs.ITP.2025.36.pdf][Verifying datalog reasoning with Lean]]. ~ Johannes Tantow, Lukas Gerlach, Stephan Mennicke, and Markus Krötzsch. #ITP #LeanProver
++ [[https://drops.dagstuhl.de/storage/00lipics/lipics-vol352-itp2025/LIPIcs.ITP.2025.37/LIPIcs.ITP.2025.37.pdf][LeanLTL: A unifying framework for linear temporal logics in lean]]. ~ Eric Vin, Kyle A. Miller, and Daniel J. Fremont. #ITP #LeanProver
++ [[https://drops.dagstuhl.de/storage/00lipics/lipics-vol352-itp2025/LIPIcs.ITP.2025.15/LIPIcs.ITP.2025.15.pdf][Certified implementability of global multiparty protocols]]. ~ Elaine Li and Thomas Wies. #ITP #Rocq
++ [[https://drops.dagstuhl.de/storage/00lipics/lipics-vol352-itp2025/LIPIcs.ITP.2025.21/LIPIcs.ITP.2025.21.pdf][Formalizing concentration inequalities in Rocq: Infrastructure and automation]]. ~ Reynald Affeldt, Alessandro Bruni, Cyril Cohen, Pierre Roux, and Takafumi Saikawa. #ITP #Rocq
++ [[https://drops.dagstuhl.de/storage/00lipics/lipics-vol352-itp2025/LIPIcs.ITP.2025.24/LIPIcs.ITP.2025.24.pdf][Formally verifying a vertical cell decomposition algorithm]]. ~ Yves Bertot and Thomas Portet. #ITP #Rocq
++ [[https://drops.dagstuhl.de/storage/00lipics/lipics-vol352-itp2025/LIPIcs.ITP.2025.29/LIPIcs.ITP.2025.29.pdf][Nanopass back-translation of call-return trees for mechanized secure compilation proofs]]. #ITP #Rocq
++ [[https://drops.dagstuhl.de/storage/00lipics/lipics-vol352-itp2025/LIPIcs.ITP.2025.39/LIPIcs.ITP.2025.39.pdf][Towards automating permutation proofs in Rocq: A reflexive approach with iterative deepening search]]. ~ Nadeem Abdul Hamid. #ITP #Rocq
++ [[https://drops.dagstuhl.de/storage/00lipics/lipics-vol352-itp2025/LIPIcs.ITP.2025.19/LIPIcs.ITP.2025.19.pdf][Formalising subject reduction and progress for multiparty session processes]]. ~ Burak Ekici, Tadayoshi Kamegai, and Nobuko Yoshida. #ITP #CoqProver
++ [[https://drops.dagstuhl.de/storage/00lipics/lipics-vol352-itp2025/LIPIcs.ITP.2025.17/LIPIcs.ITP.2025.17.pdf][Formalising inductive and coinductive containers]]. ~ Stefania Damato, Thorsten Altenkirch, and Axel Ljungström. #ITP #Agda
++ [[https://drops.dagstuhl.de/storage/00lipics/lipics-vol352-itp2025/LIPIcs.ITP.2025.7/LIPIcs.ITP.2025.7.pdf][A verified cost model for call-by-push-value]]. ~ Zhuo Zoey Chen, Johannes Åman Pohjola, Christine Rizkallah. #ITP #HOL4
++ [[https://drops.dagstuhl.de/storage/00lipics/lipics-vol352-itp2025/LIPIcs.ITP.2025.25/LIPIcs.ITP.2025.25.pdf][GOL in GOL in HOL: Verified circuits in Conway’s game of life]]. ~ Magnus O. Myreen and Mario Carneiro. #ITP #HOL4
++ [[https://drops.dagstuhl.de/storage/00lipics/lipics-vol352-itp2025/LIPIcs.ITP.2025.28/LIPIcs.ITP.2025.28.pdf][Mechanising Böhm trees and λη-completeness]]. ~ Chun Tian and Michael Norrish. #ITP #HOL4
++ [[https://drops.dagstuhl.de/storage/00lipics/lipics-vol352-itp2025/LIPIcs.ITP.2025.13/LIPIcs.ITP.2025.13.pdf][Barendregt’s theory of the λ-calculus, refreshed and formalized]]. ~ Adrienne Lancelot, Beniamino Accattoli, and Maxime Vemclefs. #ITP #Abella
++ [[https://drops.dagstuhl.de/storage/00lipics/lipics-vol352-itp2025/LIPIcs.ITP.2025.6/LIPIcs.ITP.2025.6.pdf][A natural language formalization of perfectoid rings in ℕaproche]]. ~ Peter Koepke. #ITP #Naproche #Math
++ [[https://arxiv.org/abs/2509.17392][Adhesive category theory for graph rewriting in Rocq]]. ~ Samuel Arsac, Russ Harmer, Damien Pous. #ITP #Rocq
++ [[https://mmhaskell.com/blog/2025/9/22/writing-our-own-structure-tries-in-haskell-amp-rust][Writing our own structure: Tries in Haskell & Rust]]. ~ James Bowen. #Haskell #FunctionalProgramming #RustLang
+
 *** 22-Sep-25
 + [[https://arxiv.org/abs/2509.13142v1][Formalizing dimensional analysis using the Lean theorem prover]]. ~ Maxwell P. Bobbin et als. #ITP #LeanProver
 + [[https://eprint.iacr.org/2025/1700.pdf][Computationally-sound symbolic cryptography in Lean]]. ~ Stefan Dziembowski et als. #ITP #LeanProver
