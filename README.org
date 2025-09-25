@@ -78,6 +78,10 @@ its content.
 
 ** Septiembre 2025
 
+*** 24-Sep-25
++ [[https://mathoverflow.net/questions/500720/list-of-crowdsourced-math-projects-actively-seeking-participants][List of crowdsourced math projects actively seeking participants]]. ~ Terence Tao et als. #Math
++ [[https://readerunner.wordpress.com/2024/04/08/penrosekitedart-user-guides/][PenroseKiteDart user guide]]. ~ Chris Reade. #Haskell #FunctionalProgramming
+
 *** 23-Sep-25
 + [[https://drops.dagstuhl.de/storage/00lipics/lipics-vol352-itp2025/LIPIcs.ITP.2025.18/LIPIcs.ITP.2025.18.pdf][Formalising new mathematics in Isabelle: Diagonal Ramsey]]. ~ Lawrence C. Paulson. #ITP #IsabelleHOL #Math
 + [[https://drops.dagstuhl.de/storage/00lipics/lipics-vol352-itp2025/LIPIcs.ITP.2025.2/LIPIcs.ITP.2025.2.pdf][A formal analysis of algorithms for matroids and greedoids]]. ~ Mohammad Abdulaziz et als. #ITP #IsabelleHOL #Math
