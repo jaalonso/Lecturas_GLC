@@ -78,6 +78,10 @@ its content.
 
 ** Septiembre 2025
 
+*** 26-Sep-25
++ [[https://arxiv.org/abs/2509.20539][Composition direction of Seymour's theorem for regular matroids formally verified]]. ~ Martin Dvorak et als. #ITP #LeanProver #Math
++ [[https://www.imperial.ac.uk/news/268473/generous-donation-advance-ai-mathematics/][Generous donation to advance AI for mathematics]]. ~ Christiana Jasutan. #AI #Math #ITP #LeanProver
+
 *** 24-Sep-25
 + [[https://mathoverflow.net/questions/500720/list-of-crowdsourced-math-projects-actively-seeking-participants][List of crowdsourced math projects actively seeking participants]]. ~ Terence Tao et als. #Math
 + [[https://readerunner.wordpress.com/2024/04/08/penrosekitedart-user-guides/][PenroseKiteDart user guide]]. ~ Chris Reade. #Haskell #FunctionalProgramming
