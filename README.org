@@ -78,6 +78,18 @@ its content.
 
 ** Septiembre 2025
 
+*** 28-Sep-25
++ [[https://drops.dagstuhl.de/storage/00lipics/lipics-vol352-itp2025/LIPIcs.ITP.2025.30/LIPIcs.ITP.2025.30.pdf][Nondeterministic asynchronous dataflow in Isabelle/HOL]]. ~ Rafael Castro Gonçalves Silva, Laouen Fernet, Dmitriy Traytel. #ITP #IsabelleHOL
++ [[https://drops.dagstuhl.de/storage/00lipics/lipics-vol352-itp2025/LIPIcs.ITP.2025.22/LIPIcs.ITP.2025.22.pdf][Formalizing splitting in Isabelle/HOL]]. ~ Ghilain Bergeron, Florent Krasnopol, Sophie Tourret. #ITP #IsabelleHOL
++ [[https://arxiv.org/abs/2509.19854v1][L-mosaics and bounded join-semilattices in Isabelle/HOL]]. ~ Alessandro Linzi. #ITP #IsabelleHOL
++ [[https://aitp-conference.org/2025/abstract/AITP_2025_paper_6.pdf][Reaping the first fruits of the Isabelle/RL project]]. ~ Jonathan Julián Huerta y Munive. #ITP #IsabelleHOL
++ [[https://philarchive.org/archive/GRAPOT-20#page=30][Formalizing the Dershowitz-Manna ordering theorem in Lean 4]]. ~ Haitian Wang. #ITP #LeanProver
++ [[https://youtu.be/LLyLvNCPRZ8][An introduction to formal real analysis (Lecture 6: Advanced proof techniques and the squeeze theorem)]]. ~ Alex Kontorovich. #ITP #LeanProver #Math
++ [[https://drops.dagstuhl.de/storage/00lipics/lipics-vol352-itp2025/LIPIcs.ITP.2025.24/LIPIcs.ITP.2025.24.pdf][Formally verifying a vertical cell decomposition algorithm]]. ~ Yves Bertot, Thomas Portet. #ITP #Rocq
++ [[https://openreview.net/pdf?id=VbQNQ9hjJE][Quantifiers for differentiable logics in Rocq]]. ~ Jairo Miguel Marulanda-Giraldo et als. #ITP #Rocq
++ [[https://aitp-conference.org/2025/abstract/AITP_2025_paper_36.pdf][Theorem provers and the future AI math ecosystem]]. ~ Stephan Schulz. #AI #Math #LLMs #ATP
++ [[https://chrispenner.ca/posts/expressiveness-spectrum][Monads are too powerful: The expressiveness spectrum]]. ~ Chris Penner. #Haskell #FunctionalProgramming
+
 *** 26-Sep-25
 + [[https://arxiv.org/abs/2509.20539][Composition direction of Seymour's theorem for regular matroids formally verified]]. ~ Martin Dvorak et als. #ITP #LeanProver #Math
 + [[https://www.imperial.ac.uk/news/268473/generous-donation-advance-ai-mathematics/][Generous donation to advance AI for mathematics]]. ~ Christiana Jasutan. #AI #Math #ITP #LeanProver
