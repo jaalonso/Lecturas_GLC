@@ -78,6 +78,14 @@ its content.
 
 ** Septiembre 2025
 
+*** 29-Sep-25
++ [[https://www.imn.htwk-leipzig.de/~waldmann/WST2025/proceedings/WST2025_paper_10.pdf][A new proof for soundness of right-forward closures for termination analysis]]. ~ René Thiemann. #ITP #IsabelleHOL
++ [[https://www.imn.htwk-leipzig.de/~waldmann/WST2025/proceedings/WST2025_paper_1.pdf][Core matrix interpretations for proving termination of term rewrite systems]]. ~ Ulysse Le Huitouze, René Thiemann. #ITP #IsabelleHOL
++ [[https://arxiv.org/abs/2509.20539][Composition direction of Seymour’s theorem for regular matroids — formally verified]]. ~ Martin Dvorak et als. #ITP #LeanProver
++ [[https://www.michaelhanus.de/publications/papers/PPDP25.pdf][Determinism types for functional logic programming]]. ~ Michael Hanus, Kai-Oliver Prott. #ITP #Rocq
++ [[https://www.imn.htwk-leipzig.de/~waldmann/WST2025/proceedings/WST2025_paper_12.pdf][Cetera: Certified termination with Agda]]. ~ Dieter Hofbauer, Johannes Waldmann. #ITP #Agda
++ [[https://mmhaskell.com/blog/2025/9/29/apply-the-trie-word-search][Apply the trie: Word search]]. ~ James Bowen. #Haskell #FunctionalProgramming #RustLang
+
 *** 28-Sep-25
 + [[https://drops.dagstuhl.de/storage/00lipics/lipics-vol352-itp2025/LIPIcs.ITP.2025.30/LIPIcs.ITP.2025.30.pdf][Nondeterministic asynchronous dataflow in Isabelle/HOL]]. ~ Rafael Castro Gonçalves Silva, Laouen Fernet, Dmitriy Traytel. #ITP #IsabelleHOL
 + [[https://drops.dagstuhl.de/storage/00lipics/lipics-vol352-itp2025/LIPIcs.ITP.2025.22/LIPIcs.ITP.2025.22.pdf][Formalizing splitting in Isabelle/HOL]]. ~ Ghilain Bergeron, Florent Krasnopol, Sophie Tourret. #ITP #IsabelleHOL
