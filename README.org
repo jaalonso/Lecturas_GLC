@@ -78,6 +78,9 @@ its content.
 
 ** Septiembre 2025
 
+*** 30-Sep-25
++ [[https://getnews.me/lean-4-formalizes-mason-stothers-theorem-and-polynomial-corollaries/][Lean 4 formalizes Mason‑Stothers theorem and polynomial corollaries]]. #ITP #LeanProver #Math
+
 *** 29-Sep-25
 + [[https://www.imn.htwk-leipzig.de/~waldmann/WST2025/proceedings/WST2025_paper_10.pdf][A new proof for soundness of right-forward closures for termination analysis]]. ~ René Thiemann. #ITP #IsabelleHOL
 + [[https://www.imn.htwk-leipzig.de/~waldmann/WST2025/proceedings/WST2025_paper_1.pdf][Core matrix interpretations for proving termination of term rewrite systems]]. ~ Ulysse Le Huitouze, René Thiemann. #ITP #IsabelleHOL
