@@ -11,6 +11,7 @@ its content.
 
 * Content                                                                      :TOC:
 - [[#lecturas-del-año-2025][Lecturas del año 2025]]
+  - [[#octubre-2025][Octubre 2025]]
   - [[#septiembre-2025][Septiembre 2025]]
   - [[#agosto-2025][Agosto 2025]]
   - [[#julio-2025][Julio 2025]]
@@ -75,6 +76,17 @@ its content.
 - [[#lecturas-anteriores][Lecturas anteriores]]
 
 * Lecturas del año 2025
+
+** Octubre 2025
+
+*** 01-Oct-25
++ [[https://mayalarincon.github.io/InfinitudePrimes_Extended.pdf][A PVS library on the infinitude of primes]]. ~ Bruno Berto de Oliveira Ribeiro, Mariano M. Moscato, Thaynara Arielly de Lima, Mauricio Ayala-Rincón. #ITP #PVS #Math
++ [[https://youtu.be/4xPcdESnsEE][An introduction to formal real analysis (Lecture 7: Uniqueness and advanced limit theorems)]]. ~ Alex Kontorovich. #ITP #LeanProver #Math
++ [[https://openreview.net/forum?id=DNunBkhEUx][Agentic Lean Auformalization (ALA): An LLM collaborative approach to autoformalization in LEAN]]. ~ Patricio Gallardo, Maziar Raissi, Ke Zhang, Sudhir Murthy. #Autoformalization #ITP #LeanProver #LLMs
++ [[https://arxiv.org/abs/2509.22819][Hilbert: Recursively building formal proofs with informal reasoning]]. ~ Sumanth Varambally, Thomas Voice, Yanchao Sun, Zhifeng Chen, Rose Yu, Ke Ye. #AI #Math #LLMs #ITP #LeanProver
++ [[https://arxiv.org/abs/2408.15180][Formalizing Mason-Stothers theorem and its corollaries in Lean 4]]. ~ Jineon Baek, Seewoo Lee. #ITP #LeanProver #Math
++ [[https://arxiv.org/abs/2509.25883][Nominal sets in Rocq]]. ~ Fabrício Sanches Paranhos, Daniel Ventura. #ITP #Rocq #Math
++ [[https://abuseofnotation.github.io/category-theory-illustrated/11_natural_transformations/][Category theory illustrated: Natural transformations]]. ~ Jencel Panic. #CategoryTheory
 
 ** Septiembre 2025
 
