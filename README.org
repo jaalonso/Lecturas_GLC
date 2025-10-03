@@ -79,6 +79,11 @@ its content.
 
 ** Octubre 2025
 
+*** 02-Oct-25
++ [[https://josephtoobysmith.com/Slides/Orsay2025.html][Digitalizing physics into Lean 4]]. ~ Joseph Tooby-Smith. #ITP #LeanProver #Physics #Math
++ [[https://www.hillelwayne.com/post/algdt-history/][A very early history of algebraic data types]]. ~ Hillel Wayne. #FunctionalProgramming
++ [[https://www.youtube.com/live/NC0wkFsVPDU][The Haskell Unfolder Episode 48: Safe coercions]]. ~ Edsko de Vries, Andres Löh. #Haskell #FunctionalProgramming
+
 *** 01-Oct-25
 + [[https://mayalarincon.github.io/InfinitudePrimes_Extended.pdf][A PVS library on the infinitude of primes]]. ~ Bruno Berto de Oliveira Ribeiro, Mariano M. Moscato, Thaynara Arielly de Lima, Mauricio Ayala-Rincón. #ITP #PVS #Math
 + [[https://youtu.be/4xPcdESnsEE][An introduction to formal real analysis (Lecture 7: Uniqueness and advanced limit theorems)]]. ~ Alex Kontorovich. #ITP #LeanProver #Math
