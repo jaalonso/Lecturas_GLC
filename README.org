@@ -79,6 +79,13 @@ its content.
 
 ** Octubre 2025
 
+*** 03-Oct-25
++ [[https://www.renaissancephilanthropy.org/news-and-insights/kevin-buzzard-and-alex-kontorovich-on-the-future-of-formal-mathematics-a-mathlib-initiative-interview][Kevin Buzzard and Alex Kontorovich on the future of formal mathematics: A Mathlib initiative interview]]. ~ Oliver Nash. #ITP #LeanProver #Mathlib #Math
++ [[https://mathlib-initiative.org/][The Mathlib initiative (Building the digital foundation of mathematics)]]. #ITP #LeanProver #Mathlib #Math
++ [[https://youtu.be/STTvEmBM3rg][Mathematics in the age of automated proofs: What do we tell our students about AI? ~ Akshay Venkatesh]]. #Math #AI
++ [[https://youtu.be/uhwfTOUIeiw][Mathematics in the age of automated proofs: AlphaProof (From the lab into your hands)]]. ~ Thomas Hubert. #AI #Math #ITP #LeanProver #AlphaProof
++ [[https://youtu.be/p-Quz60JMKg][Mathematics in the age of automated proofs: After Math (historical perspectives on automated intelligence)]]. ~ Stephanie Dick. #AI #Math #ATP
+
 *** 02-Oct-25
 + [[https://josephtoobysmith.com/Slides/Orsay2025.html][Digitalizing physics into Lean 4]]. ~ Joseph Tooby-Smith. #ITP #LeanProver #Physics #Math
 + [[https://www.hillelwayne.com/post/algdt-history/][A very early history of algebraic data types]]. ~ Hillel Wayne. #FunctionalProgramming
