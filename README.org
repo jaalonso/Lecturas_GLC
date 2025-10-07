@@ -79,6 +79,14 @@ its content.
 
 ** Octubre 2025
 
+*** 06-Oct-25
++ [[https://youtu.be/TMM2QnX5BG8][An introduction to formal real analysis (Lecture 8: Advanced limit theorems and induction)]]. ~ Alex Kontorovich. #ITP #LeanProver #Math
++ [[https://www.cs.princeton.edu/~appel/papers/coo-csr.pdf][Formal verification of COO to CSR sparse matrix conversion]]. ~ Andrew W. Appel. #ITP #CoqProver #Math
++ [[https://arxiv.org/abs/2510.01346v1][Aristotle: IMO-level automated theorem proving]]. ~ Tudor Achim et als. #AI #Math #LLMs #ITP #LeanProver
++ [[https://dl.acm.org/doi/pdf/10.1145/369733][Waitfree linearization of an arbitrary data object]]. ~ Wim Hendrik Hesselink.2#page=135 #ITP #PVS
++ [[https://philsci-archive.pitt.edu/24324/1/Epistemic_Value_of_Proof.pdf][Correctness, artificial intelligence, and the epistemic value of mathematical proof]]. ~ James Owen Weatherall, Jesse Wolfson. #Math #AI #ITP
++ [[https://mmhaskell.com/blog/2025/10/6/dynamic-programming-primer][Dynamic programming primer]]. ~ James Bowen. #Haskell #FunctionalProgramming #RustLang
+
 *** 03-Oct-25
 + [[https://www.renaissancephilanthropy.org/news-and-insights/kevin-buzzard-and-alex-kontorovich-on-the-future-of-formal-mathematics-a-mathlib-initiative-interview][Kevin Buzzard and Alex Kontorovich on the future of formal mathematics: A Mathlib initiative interview]]. ~ Oliver Nash. #ITP #LeanProver #Mathlib #Math
 + [[https://mathlib-initiative.org/][The Mathlib initiative (Building the digital foundation of mathematics)]]. #ITP #LeanProver #Mathlib #Math
