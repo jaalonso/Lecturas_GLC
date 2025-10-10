@@ -79,6 +79,11 @@ its content.
 
 ** Octubre 2025
 
+*** 09-Oct-25
++ [[https://grewal.dev/posts/haskell-state][State management in Haskell]]. ~ Ajeet Grewal. #Haskell #FunctionalProgramming
++ [[https://mrcjkb.dev/posts/2025-10-08-haskell-for-renewables.html][Haskell is the perfect fit for renewable energy tech]]. ~ Marc Jakobi. #Haskell #FunctionalProgramming
++ [[https://youtu.be/oOYcPkBaotg][Mathematics: The rise of the machines]]. ~ Yang-Hui He. #AI #Math #LLMs #ITP #LeanProver
+
 *** 07-Oct-25
 + [[https://arxiv.org/abs/2501.10127][A formally verified IEEE 754 floating-point implementation of interval iteration for MDPs]]. ~ Bram Kohlen, Maximilian Schäffeler, Mohammad Abdulaziz, Arnd Hartmanns, Peter Lammich. #ITP #IsabelleHOL
 + [[https://marcosh.github.io/post/2025/10/07/the-mondrian-introduction-to-functional-optics.html][The Mondrian introduction to functional optics]]. ~ Marco Perone. #Haskell #FunctionalProgramming
