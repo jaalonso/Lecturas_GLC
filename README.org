@@ -79,6 +79,16 @@ its content.
 
 ** Octubre 2025
 
+*** 10-Oct-25
++ [[https://arxiv.org/abs/2510.04070v1][Markov kernels in Mathlib's probability library]]. ~ Rémy Degenne. #ITP #LeanProver #Maht
++ [[https://www.isa-afp.org/entries/Relational_Divisibility.html][Relational divisibility (in Isabelle/HOL)]]. ~ Walter Guttmann. #ITP #IsabelleHOL #Math
++ [[https://edu.info.uaic.ro/principii-ale-limbajelor-de-programare/2025/week2/2_preliminaries.pdf][ADTs, functions and induction]]. ~ Andrei Arusoaie. #ITP #LeanProver #FunctionalProgramming
++ [[https://edu.info.uaic.ro/principii-ale-limbajelor-de-programare/notes.pdf][Principles of programming languages (lecture notes for CS2105O2)]]. ~ Andrei Arusoaie. #ITP #CoqProver
++ [[https://edu.info.uaic.ro/principii-ale-limbajelor-de-programare/2025/week1/1_intro.pdf][Principles of programming languages: A little bit of history]]. ~ Andrei Arusoaie. #Programming
++ [[https://edu.info.uaic.ro/metode-formale-inginerie-software/2025/week1/1_intro.pdf][Formal methods in software engineering]]. ~ Andrei Arusoaie. #FormalMethods
++ [[https://edu.info.uaic.ro/metode-formale-inginerie-software/2025/week2/2_formal_systems.pdf][Languages. Formal Systems. Inference rules. Proofs]]. ~ Andrei Arusoaie. #FormalMethods #Logic #Dafny
++ [[https://scilogs.spektrum.de/hlf/mathematicians-new-best-friend/][Mathematicians’ new best friend?]] ~  Benjamin Skuse. #AI #Math
+
 *** 09-Oct-25
 + [[https://grewal.dev/posts/haskell-state][State management in Haskell]]. ~ Ajeet Grewal. #Haskell #FunctionalProgramming
 + [[https://mrcjkb.dev/posts/2025-10-08-haskell-for-renewables.html][Haskell is the perfect fit for renewable energy tech]]. ~ Marc Jakobi. #Haskell #FunctionalProgramming
