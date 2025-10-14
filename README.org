@@ -79,6 +79,35 @@ its content.
 
 ** Octubre 2025
 
+*** 13-Oct-25
++ [[https://bdm.unb.br/bitstream/10483/41607/1/2025_BrunoBertoDeOliveiraRibeiro_tcc.pdf][PVS formalization of proofs of the infinitude of primes]]. ~ Bruno Berto de Oliveira Ribeiro. #ITP #PVS #Math
++ [[https://dl.acm.org/doi/abs/10.1145/3763148][Certified decision procedures for width-independent bitvector predicates]]. ~ Siddharth Bhat, Léo Stefanesco, Chris Hughes, Tobias Grosser. #ITP #LeanProver
++ [[https://dl.acm.org/doi/abs/10.1145/3758317.3759679][Interactive theorem provers for proof education]]. ~ Romina Mahinpei, Manoel Horta Ribeiro, Mae Milano. #ITP #CoqProver #Teaching
++ [[https://dl.acm.org/doi/10.1145/3763052][Pyrosome: Verified compilation for modular metatheory]]. ~ Dustin Jamner, Gabriel Kammer, Ritam Nag, Adam Chlipala. #ITP #CoqProver
++ [[https://dl.acm.org/doi/10.1145/3763068][Incremental certified programming]]. ~ Tomás Díaz, Kenji Maillard, Nicolas Tabareau, Éric Tanter. #ITP #Rocq
++ [[https://dl.acm.org/doi/10.1145/3763164][Proof repair across quotient type equivalences]]. ~ Cosmo Viola, Max Fan, Talia Ringer. #ITP #Rocq
++ [[https://tomasp.net/academic/papers/mixed-initiative-proofs/paper.pdf][Don’t call us, we’ll call you (Towards mixed-initiative interactive proof assistants for programming language theory)]]. ~ Jan Liam Verter, Tomas Petricek. #ITP #Teaching
++ [[https://dl.acm.org/doi/abs/10.1145/3763131][Synthesizing implication lemmas for interactive theorem proving]]. ~ Ana Brendel, Aishwarya Sivaraman, Todd Millstein. #ITP #Rocq
++ [[https://dl.acm.org/doi/abs/10.1145/3759161.3763046][Deriving an Erlang interpreter from a mechanised formal semantics of core Erlang]]. ~ Gergő Lajos Turán, Arsenii Fomin, Péter Bereczky, Dániel Horpácsi, Simon Thompson. #ITP #Agda #FunctionalProgramming #Erlang
++ [[https://dl.acm.org/doi/abs/10.1145/3759537.3762694][Checking a denotational semantics of Scheme in Agda]]. ~ Peter D. Mosses. #ITP #Agda
++ [[https://dl.acm.org/doi/pdf/10.1145/3759161.3763045][Mechanised proofs of atom exhaustion in Erlang]]. ~ Arsenii Fomin, Péter Bereczky, Dániel Horpácsi, Gergő Lajos Turán. #ITP #Rocq
++ [[https://arxiv.org/abs/2510.08452v1][Formalizing the zigzag construction of path spaces of pushouts]]. ~ Vojtěch Štěpančík. #ITP #Agda
++ [[https://dl.acm.org/doi/10.1145/3759538.3759651][Unification modulo isomorphisms between dependent types for type-based library search]]. ~ Satoshi Takimoto, Sosuke Moriguchi, Takuo Watanabe. #Haskell #FunctionalProgramming
++ [[https://dl.acm.org/doi/abs/10.1145/3759538.3759652][Representing data structures with invariants in Haskell: The cases of BST and AVL]]. ~ Nicolas Rodriguez, Alberto Pardo, Marcos Viera. #Haskell #FunctionalProgramming
++ [[https://dl.acm.org/doi/10.1145/3759538.3759653][A formalization of opaque definitions for a dependent type theory]]. ~ Nils Anders Danielsson, Eve Geng. #ITP #Agda #FunctionalProgramming
++ [[https://dl.acm.org/doi/10.1145/3759538.3759654][The conatural numbers form an exponential commutative semiring]]. ~ Szumi Xie, Viktor Bense. #ITP #Agda #FunctionalProgramming
++ [[https://dl.acm.org/doi/10.1145/3759164.3771264][A tale of two lambdas: A haskeller’s journey into OCaml]]. ~ Richard A. Eisenberg. #Haskell #OCaml #FunctionalProgramming
++ [[https://dl.acm.org/doi/10.1145/3759164.3759345][A Clash course in solving Sudoku (Functional pearl)]]. ~ Gergő Érdi. #Haskell #FunctionalProgramming
++ [[https://dl.acm.org/doi/10.1145/3759164.3759346][The calculated typer (Functional pearl)]]. ~ Zac Garby, Patrick Bahr, Graham Hutton. #Haskell #FunctionalProgramming
++ [[https://dl.acm.org/doi/10.1145/3759164.3759347][Plinth: A plugin-powered language built on Haskell]]. ~ Ziyang Liu, Kenneth MacKenzie, Roman Kireev, Michael Peyton Jones, Philip Wadler, Manuel Chakravarty. #Haskell #FunctionalProgramming
++ [[https://dl.acm.org/doi/10.1145/3759164.3759348][Rebound: Efficient, expressive, and well-scoped binding]]. ~ Noé De Santo, Stephanie Weirich. #Haskell #FunctionalProgramming
++ [[https://dl.acm.org/doi/10.1145/3759164.3759349][Total type classes]]. ~ Robert Weingart, Nicolas Wu. #Haskell #FunctionalProgramming
++ [[https://dl.acm.org/doi/10.1145/3759164.3759350][Automatic C bindings generation for Haskell]]. ~ Travis Cardwell, Sam Derbyshire, Edsko de Vries, Dominik Schrempf. #Haskell #FunctionalProgramming
++ [[https://dl.acm.org/doi/10.1145/3759164.3759351][Lightweight testing of persistent amortized time complexity in the credit monad]]. ~ Anton Lorenzen. #Haskell #FunctionalProgramming
++ [[https://dl.acm.org/doi/10.1145/3759164.3759352][Freer arrows and why you need them in Haskell]]. ~ Grant VanDomelen, Gan Shen, Lindsey Kuper, Yao Li. #Haskell #FunctionalProgramming
++ [[https://dl.acm.org/doi/abs/10.1145/3759164.3759353][Staging automatic differentiation with fusion]]. ~ Samuel Klumpers, Tom Schrijvers. #Haskell #FunctionalProgramming
++ [[https://dl.acm.org/doi/10.1145/3764068][An empirical evaluation of property-based testing in Python]]. ~ Savitha Ravi, Michael Coblenz. #Python #Programming
+
 *** 11-Oct-25
 + [[https://youtu.be/oXTSs3GtkB0][An introduction to formal real analysis (Lecture 9: Finite sums and boundedness of convergent sequences)]]. ~ Alex Kontorovich. #ITP #LeanProver #Math
 + [[https://youtu.be/eX3Z8wzuINM][An introduction to formal real analysis (Lecture 10: Algebraic limit theorem and order properties)]]. ~ Alex Kontorovich. #ITP #LeanProver #Math
