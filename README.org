@@ -79,6 +79,13 @@ its content.
 
 ** Octubre 2025
 
+*** 14-Oct-25
++ [[https://arxiv.org/abs/2510.10189][Formally verified certification of unsolvability of temporal planning problems]]. ~ David Wang, Mohammad Abdulaziz. #ITP #IsabelleHOL
++ [[https://arxiv.org/abs/2510.08672][A formalization of the generalized quantum Stein's lemma in Lean]]. ~ Alex Meiburg, Leonardo A. Lessa, Rodolfo R. Soldati. #ITP #LeanProver
++ [[https://www.philipzucker.com/zf_knuckle1/][ZF style set theory in Knuckledragger I]]. ~ Philip Zucker. #Python #Logic #SetTheory
++ [[https://mmhaskell.com/blog/2025/10/13/making-change-array-based-dp][Making change: Array-based dynamic programming]]. ~ James Bowen. #Haskell #FunctionalProgramming #RustLang
++ [[https://arxiv.org/abs/2509.01830][A gentle introduction to the axiom of choice]]. ~ Andreas Blass, Dhruv Kulshreshtha. #Math #SetTheory
+
 *** 13-Oct-25
 + [[https://bdm.unb.br/bitstream/10483/41607/1/2025_BrunoBertoDeOliveiraRibeiro_tcc.pdf][PVS formalization of proofs of the infinitude of primes]]. ~ Bruno Berto de Oliveira Ribeiro. #ITP #PVS #Math
 + [[https://dl.acm.org/doi/abs/10.1145/3763148][Certified decision procedures for width-independent bitvector predicates]]. ~ Siddharth Bhat, Léo Stefanesco, Chris Hughes, Tobias Grosser. #ITP #LeanProver
