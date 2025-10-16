@@ -79,6 +79,20 @@ its content.
 
 ** Octubre 2025
 
+*** 15-Oct-25
++ [[https://systemf.epfl.ch/etc/vstte2025/preprints/Rely-Guarantee%20Verification%20of%20Queue%20Locks%20with%20Proof%20Support%20in%20Isabelle%20HOL.pdf][Rely-guarantee verification of queue locks with proof support in Isabelle/HOL]]. ~ Robert J. Colvin, Scott Heiner, Peter Höfner, Roger C. Su. #ITP #IsabelleHOL
++ [[https://cgi.cse.unsw.edu.au/~eptcs/paper.cgi?VSS2025.3.pdf][Formal verification of COO to CSR sparse matrix conversion]]. ~ Andrew W. Appel. #ITP #CoqProver
++ [[https://doi.org/10.4204/EPTCS.432.6][Mechanizing Olver's error arithmetic]]. ~ Max Fan, Ariel E. Kellison and Samuel D. Pollard. #ITP #Rocq
++ [[https://dl.acm.org/doi/abs/10.1145/3758316.3763250][Formal verification of Graham’s scan algorithm]]. ~ Yingjun Lan, Yuxuan Sun. #ITP #Rocq
++ [[https://dl.acm.org/doi/abs/10.1145/3758316.3762818][Separation logics for probability, concurrency, and security]]. ~ Kwing Hei Li. #ITP #Rocq
++ [[https://dl.acm.org/doi/10.1145/3747511][McTT: A verified kernel for a proof assistant]]. ~ Junyoung Jang, Antoine Gaulin, Jason Z. S. Hu, Brigitte Pientka. #ITP #Rocq #OCaml #FunctionalProgramming
++ [[https://prp.unicamp.br/inscricao-congresso/resumos/2025P25712A41738O6176.pdf][Formalizando um teorema de classificação para álgebras de Lie solúveis de baixa dimensão em Lean]]. ~ Gustavo Infanti, Viviana del Barco, Exequiel Rivas, Paul Schwahn. #ITP #LeanProver #Math
++ [[https://systemf.epfl.ch/etc/vstte2025/preprints/Verifying%20the%20Functional%20Correctness%20of%20Braun%20Trees%20with%20LiquidHaskell.pdf][Verifying the functional correctness of Braun trees with LiquidHaskell]]. ~ Felipe de León, Alberto Pardo, Marcos Viera. #Haskell #FunctionalProgramming #LiquidHaskell
++ [[https://lmf.di.uminho.pt/Ibex/oliveira25.pdf][How much is in a square? Calculating functional programs with squares]]. ~ Jose Nuno Oliveira. #Haskell #FunctionalProgramming
++ [[https://reasonablypolymorphic.com/blog/arrows-to-arrows/index.html][Arrows to arrows, categories to queries]]. ~ Sandy Maguire. #Haskell #FunctionalProgramming
++ [[https://arxiv.org/abs/2510.10815][DRIFT: Decompose, retrieve, illustrate, then formalize theorems]]. ~ Meiru Zhang, Philipp Borchert, Milan Gritta, Gerasimos Lampouras. #AI #Math #LLMs #ITP #LeanProver
++ [[https://aperiodical.com/2025/10/books-to-recommend-to-maths-students/][Books to recommend to maths students]]. ~ Katie Steckles. #Math
+
 *** 14-Oct-25
 + [[https://arxiv.org/abs/2510.10189][Formally verified certification of unsolvability of temporal planning problems]]. ~ David Wang, Mohammad Abdulaziz. #ITP #IsabelleHOL
 + [[https://arxiv.org/abs/2510.08672][A formalization of the generalized quantum Stein's lemma in Lean]]. ~ Alex Meiburg, Leonardo A. Lessa, Rodolfo R. Soldati. #ITP #LeanProver
