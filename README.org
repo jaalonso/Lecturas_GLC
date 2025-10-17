@@ -79,6 +79,14 @@ its content.
 
 ** Octubre 2025
 
+*** 16-Oct-25
++ [[https://lawrencecpaulson.github.io/2025/10/15/Proofs-trivial.html][Most proofs are trivial]]. ~ Lawrence Paulson. #Math #ITP #IsabelleHOL
++ [[https://youtu.be/Zm7ZRBCKL0c][An introduction to formal real analysis (Lecture 11: The real numbers I)]]. ~ Alex Kontorovich. #ITP #LeanProver #Math
++ [[https://www.galois.com/articles/automated-lean-proofs-for-every-type][Automated Lean proofs for every type]]. ~ Elizaveta Pertseva. #ITP #LeanProver
++ [[https://arxiv.org/abs/2510.12829][Mathematics with large language models as provers and verifiers]]. ~ Hieu Le Duc, Leo Liberti. #AI #Math #LLMs #ITP #LeanProver
++ [[https://gowers.wordpress.com/2025/09/22/creating-a-database-of-motivated-proofs/][Creating a database of motivated proofs]]. ~ Timothy Gowers. #AI #Math
++ [[https://www.bakerinstitute.org/research/computing-indeed-discipline-crisis][Computing is indeed a discipline in crisis]]. ~ Moshe Vardi. #CompSci
+
 *** 15-Oct-25
 + [[https://systemf.epfl.ch/etc/vstte2025/preprints/Rely-Guarantee%20Verification%20of%20Queue%20Locks%20with%20Proof%20Support%20in%20Isabelle%20HOL.pdf][Rely-guarantee verification of queue locks with proof support in Isabelle/HOL]]. ~ Robert J. Colvin, Scott Heiner, Peter Höfner, Roger C. Su. #ITP #IsabelleHOL
 + [[https://cgi.cse.unsw.edu.au/~eptcs/paper.cgi?VSS2025.3.pdf][Formal verification of COO to CSR sparse matrix conversion]]. ~ Andrew W. Appel. #ITP #CoqProver
