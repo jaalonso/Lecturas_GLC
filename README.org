@@ -79,6 +79,21 @@ its content.
 
 ** Octubre 2025
 
+*** 17-Oct-25
++ [[https://arxiv.org/abs/2502.03432][A formalization of Borel determinacy in Lean]]. ~ Sven Manthe. #ITP #LeanProver #Math
++ [[https://europroofnet.github.io/_pages/WG3/Sept2025/MCLP-2025-tran-minh-gonnord-narboux-yalep.pdf][Yalep: An environment for learning proof in high-school]]. ~ Frédéric Tran-Minh, Laure Gonnord, Julien Narboux. #ITP #LeanProver #Logic #Math #Teaching
++ [[https://gricad-gitlab.univ-grenoble-alpes.fr/yalep/Yalep][Yalep (Yet Another Learning Environment for Proof) is a micro language based on Lean for teaching mathematical high-school proofs]]. ~ Frédéric Tran Minh. #ITP #LeanProver #Logic #Math #Teaching
++ [[https://cgi.cse.unsw.edu.au/~eptcs/paper.cgi?ThEdu24.1][Proof assistants for teaching: A survey]]. ~ Frédéric Tran Minh, Laure Gonnord, Julien Narboux. #ITP #Logic #Math #Teaching
++ [[https://rish987.github.io/files/lean4less.pdf][Lean4Less: Eliminating definitional equalities from Lean via an extensional-to-intensional translation]]. ~ Rishikesh Vaishna. #ITP #LeanProver
++ [[https://arxiv.org/abs/2510.10131v1][Proof strategy extraction from LLMs for enhancing symbolic provers]]. ~ Jian Fang, Yican Sun, Yingfei Xiong. #ITP #Rocq #LLM
++ [[https://www.isa-afp.org//entries/Z_Toolkit.html][Z mathematical toolkit in Isabelle/HOL]]. ~ Simon Foster, Pedro Ribeiro, Frank Zeyda, Jim Woodcock. #ITP #IsabelleHOL
++ [[https://arxiv.org/abs/2510.08988v1][MASA: LLM-driven multi-agent systems for autoformalization]]. ~ Lan Zhang, Marco Valentino, André Freitas. #Autoformalization #LLM #ITP #LeanProver #Math
++ [[https://arxiv.org/abs/2510.09853][Great expectations: Unifying statistical theory and programming]]. ~ Bradley Saul. #ITP #Agda #FunctionalProgramming #Math
++ [[https://hackaday.com/2025/10/08/where-is-mathematics-going-large-language-models-and-lean-proof-assistant/][Where is mathematics going? Large language models and Lean proof assistant]]. ~ John Elliot V. #Math #LLMs #ITP #LeanProver
++ [[https://www.mecs-press.org/ijmsc/ijmsc-v11-n3/IJMSC-V11-N3-1.pdf][Bridging category theory and functional programming for enhanced learning]]. ~ Fethi Kadhi. #Haskell #FunctionalProgramming #CategoryTheory
++ [[https://chrispenner.ca/posts/arrow-effects][Exploring Arrows for sequencing effects]]. ~ Chris Penner. #Haskell #FunctionalProgramming
++ [[https://entropicthoughts.com/non-obvious-haskell-idiom-bind-to-lambda-case][Non-obvious Haskell idiom: Bind to lambda case]]. ~ kqr. #Haskell #FunctionalProgramming
+
 *** 16-Oct-25
 + [[https://lawrencecpaulson.github.io/2025/10/15/Proofs-trivial.html][Most proofs are trivial]]. ~ Lawrence Paulson. #Math #ITP #IsabelleHOL
 + [[https://youtu.be/Zm7ZRBCKL0c][An introduction to formal real analysis (Lecture 11: The real numbers I)]]. ~ Alex Kontorovich. #ITP #LeanProver #Math
