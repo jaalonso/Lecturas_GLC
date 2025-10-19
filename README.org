@@ -79,6 +79,15 @@ its content.
 
 ** Octubre 2025
 
+*** 18-Oct-25
++ [[https://youtu.be/dyHUPr3EIMI][An introduction to formal real analysis (Lecture 12: Cauchy sequences II)]]. ~ Alex Kontorovich. #ITP #LeanProver #Math
++ [[https://www.isa-afp.org/entries/Pushdown_Automata.html][Pushdown automata (in Isabelle/HOL)]]. ~ Kaan Taskin, Tobias Nipkow. #ITP #IsabelleHOL
++ [[https://arxiv.org/abs/2510.11753v1][An effective method for solving a class of transcendental diophantine equations]]. ~ Zeyu Cai. #ITP #LeanProver #Math
++ [[https://arxiv.org/abs/2510.12131v1][Functional reasoning for distributed systems with failures]]. ~ Haobin Ni, Robbert van Renesse, Greg Morrisett. #ITP #Rocq
++ [[https://arxiv.org/abs/2510.12787v2][Ax-Prover: A deep reasoning agentic framework for theorem proving in mathematics and quantum physics]]. ~ Marco Del Tredici et als. #AI #Math #LLMs #ITP #LeanProver
++ [[https://arxiv.org/abs/2510.11769v1][GAR: Generative adversarial reinforcement learning for formal theorem proving]]. Ruida Wang, Jiarui Yao, Rui Pan, Shizhe Diao, Tong Zhang. #AI #Math #LLMs #ITP #LeanProver
++ [[https://hal.science/hal-05310161v1/file/gpt4math.pdf][Mathematics with large language models as provers and verifiers]]. ~ Hieu Le Duc, Leo Liberti. #AI #Math #LLMs #ITP #LeanProver
+
 *** 17-Oct-25
 + [[https://arxiv.org/abs/2502.03432][A formalization of Borel determinacy in Lean]]. ~ Sven Manthe. #ITP #LeanProver #Math
 + [[https://europroofnet.github.io/_pages/WG3/Sept2025/MCLP-2025-tran-minh-gonnord-narboux-yalep.pdf][Yalep: An environment for learning proof in high-school]]. ~ Frédéric Tran-Minh, Laure Gonnord, Julien Narboux. #ITP #LeanProver #Logic #Math #Teaching
