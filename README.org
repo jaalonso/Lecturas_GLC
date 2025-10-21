@@ -79,6 +79,13 @@ its content.
 
 ** Octubre 2025
 
+*** 20-Oct-25
++ [[https://surim.stanford.edu/sites/g/files/sbiybj26191/files/media/file/freds_group_surim_2025_final_report_0.pdf][Formalizing Wigner’s semicircle law in Lean]]. ~ Haoyan Jiang et als. #ITP #LeanProver #Math
++ [[https://repositories.lib.utexas.edu/server/api/core/bitstreams/aaa69649-caa2-4c06-bd35-3b585e008c56/content][Towards verifying the "Three amigos"]]. ~ Carl Kwan. #ITP #ACL2 #Math
++ [[https://thmprover.wordpress.com/2025/10/19/pelletiers-problem-24-in-mizar/][Pelletier’s problem 24 in Mizar]]. ~ Alex Nelson. #ITP #Mizar #Logic #Math
++ [[https://arxiv.org/abs/2510.15681][ProofBridge: Auto-formalization of natural language proofs in Lean via joint embeddings]]. ~ Prithwish Jana et als. #ITP #LeanProver #Autoformalization #LLMs #Math
++ [[https://mmhaskell.com/blog/2025/10/20/spatial-dp-finding-the-largest-square][Spatial DP: Finding the largest square]]. ~ James Bowen. #Haskell #FunctionalProgramming #RustLang
+
 *** 18-Oct-25
 + [[https://youtu.be/dyHUPr3EIMI][An introduction to formal real analysis (Lecture 12: Cauchy sequences II)]]. ~ Alex Kontorovich. #ITP #LeanProver #Math
 + [[https://www.isa-afp.org/entries/Pushdown_Automata.html][Pushdown automata (in Isabelle/HOL)]]. ~ Kaan Taskin, Tobias Nipkow. #ITP #IsabelleHOL
