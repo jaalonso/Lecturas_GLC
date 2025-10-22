@@ -79,6 +79,13 @@ its content.
 
 ** Octubre 2025
 
+*** 21-Oct-25
++ [[https://arxiv.org/abs/2510.14558v1][HITrees: Higher-order interaction trees]]. ~ Amir Mohammad Fadaei Ayyam, Michael Sammler. #ITP #LeanProver
++ [[https://arxiv.org/abs/2510.14480v1][Certifying optimal MEV strategies with Lean]]. ~ Massimo Bartoletti, Riccardo Marchesin, Roberto Zunino. #ITP #LeanProver
++ [[https://arxiv.org/abs/2510.10189][Formally verified certification of unsolvability of temporal planning problems]]. ~ David Wang, Mohammad Abdulaziz. #ITP #IsabelleHOL
++ [[https://www.isa-afp.org/entries/Munta_Certificate_Checker.html][Muntac: A verified certificate checker for timed automata (in Isabelle/HOL)]]. ~ Simon Wimmer. #ITP #IsabelleHOL
++ [[https://arxiv.org/abs/2505.22846][RocqStar: Leveraging similarity-driven retrieval and agentic systems for Rocq generation]]. ~ Andrei Kozyrev, Nikita Khramov, Gleb Solovev, Anton Podkopaev. #ITP #Rocq #LLMs
+
 *** 20-Oct-25
 + [[https://surim.stanford.edu/sites/g/files/sbiybj26191/files/media/file/freds_group_surim_2025_final_report_0.pdf][Formalizing Wigner’s semicircle law in Lean]]. ~ Haoyan Jiang et als. #ITP #LeanProver #Math
 + [[https://repositories.lib.utexas.edu/server/api/core/bitstreams/aaa69649-caa2-4c06-bd35-3b585e008c56/content][Towards verifying the "Three amigos"]]. ~ Carl Kwan. #ITP #ACL2 #Math
