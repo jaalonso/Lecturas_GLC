@@ -79,6 +79,11 @@ its content.
 
 ** Octubre 2025
 
+*** 23-Oct-25
++ [[https://arxiv.org/abs/2501.14542][Constructive ordinal exponentiation]]. ~ Tom de Jong, Nicolai Kraus, Fredrik Nordvall Forsberg, Chuangjie Xu. #ITP #Agda #SetTheory
++ [[https://arxiv.org/abs/2510.12829][Mathematics with large language models as provers and verifiers]]. ~ Hieu Le Duc, Leo Liberti. #AI #Math #LLM #ITP #LeanProver
++ [[https://www.jotdown.es/2025/10/las-mejores-peliculas-sobre-matematicas/][Las mejores películas sobre matemáticas]]. ~ Eduardo Sastre. #Matemáticas
+
 *** 22-Oct-25
 + [[https://xenaproject.wordpress.com/2025/10/22/formal-or-not-formal-that-is-the-question-in-ai-for-theorem-proving/][Formal or not formal? That is the question in AI for theorem proving]]. ~ Kevin Buzzard. #AI #Math #LLM #ITP #LeanProver
 + [[https://florisvandoorn.com/theses/FelixPernegger.pdf][Formalisation of the Calderón transference principle in ergodic theory]]. ~ Felix Pernegger. #ITP #LeanProver #Math
