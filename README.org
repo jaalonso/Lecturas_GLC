@@ -79,6 +79,10 @@ its content.
 
 ** Octubre 2025
 
+*** 24-Oct-25
++ [[https://people.math.carleton.ca/~kcheung/research/polygonal.pdf][Revisiting a short proof of Cauchy’s polygonal number theorem and formalizing it in Lean 4]]. ~ Kevin K. H. Cheung, Tomas McNamer. #ITP #LeanProver #Math
++ [[https://thefundamentaltheor3m.github.io/Sphere-Packing-Lean/blueprint.pdf][Sphere packing in Lean]]. ~ Christopher Birkbeck, Sidharth Hariharan, Seewoo Lee, Gareth Ma, Bhavik Mehta, Maryna Viazovska. #ITP #LeanProver #Math
+
 *** 23-Oct-25
 + [[https://arxiv.org/abs/2501.14542][Constructive ordinal exponentiation]]. ~ Tom de Jong, Nicolai Kraus, Fredrik Nordvall Forsberg, Chuangjie Xu. #ITP #Agda #SetTheory
 + [[https://arxiv.org/abs/2510.12829][Mathematics with large language models as provers and verifiers]]. ~ Hieu Le Duc, Leo Liberti. #AI #Math #LLM #ITP #LeanProver
