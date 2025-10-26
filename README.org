@@ -79,6 +79,20 @@ its content.
 
 ** Octubre 2025
 
+*** 25-Oct-25
++ [[https://youtu.be/Ko-PzGlzYrc][Gauss: towards autoformalization for the working mathematician]]. ~ Jared Duker Lichtman, Jesse Han. #AI #Math #Autoformalization #LLM #ITP #LeanProver
++ [[https://cs.brynmawr.edu/Courses/cs373/Fall2025/Slides/01-Introduction.pdf][Course "Artificial Intelligence": 1. Introduction to AI]]. ~ Deepak Kumar. #AI #History
++ [[https://cs.brynmawr.edu/Courses/cs373/Fall2025/Slides/02-Introduction.pdf][Course "Artificial Intelligence": 2. Introduction to AI]]. ~ Deepak Kumar. #AI #History
++ [[https://cs.brynmawr.edu/Courses/cs373/Fall2025/Slides/03-SHRDLU-SHAKEY.pdf][Course "Artificial Intelligence": 3. Two early examples of AI systems: SHRDLU and SHAKEY]]. ~ Deepak Kumar. #AI #History
++ [[https://cs.brynmawr.edu/Courses/cs373/Fall2025/Slides/04-ProblemSolvingSearch.pdf][Course "Artificial Intelligence": 4. Problem solving as search]]. ~ Deepak Kumar. #AI #History
++ [[https://cs.brynmawr.edu/Courses/cs373/Fall2025/Slides/05-GamePlaying.pdf][Course "Artificial Intelligence": 5. Game playing]]. ~ Deepak Kumar. #AI
++ [[https://cs.brynmawr.edu/Courses/cs373/Fall2025/Slides/06-ExpertSystems.pdf][Course "Artificial Intelligence": 6. Expert systems]]. ~ Deepak Kumar. #AI
++ [[https://cs.brynmawr.edu/Courses/cs373/Fall2025/Slides/07-Logic.pdf][Course "Artificial Intelligence": 7. Representing knowledge using logic]]. ~ Deepak Kumar. #AI #Logic #KRR
++ [[https://cs.brynmawr.edu/Courses/cs373/Fall2025/Slides/08-LogicInPROLOG.pdf][Course "Artificial Intelligence": 8. Logic in Prolog]]. ~ Deepak Kumar. #AI #Logic #KRR
++ [[https://cs.brynmawr.edu/Courses/cs373/Fall2025/Slides/09-KowledgeRepresentations.pdf][Course "Artificial Intelligence": 9. Other knowledge representation formalisms: frames, conceptual dependency, semantic networks]]. ~ Deepak Kumar. #AI #KRR
++ [[https://cs.brynmawr.edu/Courses/cs373/Fall2025/Slides/10-RobotsAndRationality.pdf][Course "Artificial Intelligence": 10. Robots and rationality. Subsumption architectures. Agent-based AI. IBM's Watson. Second AI winter]]. ~ Deepak Kumar. #AI
++ [[https://cs.brynmawr.edu/Courses/cs373/Fall2025/Slides/11-SubsymbolicAI.pdf][Course "Artificial Intelligence": 11. Subsymbolic AI. McCulloch-Pitts neuron. The Perceptron. Example implementation]]. ~ Deepak Kumar. #AI
+
 *** 24-Oct-25
 + [[https://people.math.carleton.ca/~kcheung/research/polygonal.pdf][Revisiting a short proof of Cauchy’s polygonal number theorem and formalizing it in Lean 4]]. ~ Kevin K. H. Cheung, Tomas McNamer. #ITP #LeanProver #Math
 + [[https://thefundamentaltheor3m.github.io/Sphere-Packing-Lean/blueprint.pdf][Sphere packing in Lean]]. ~ Christopher Birkbeck, Sidharth Hariharan, Seewoo Lee, Gareth Ma, Bhavik Mehta, Maryna Viazovska. #ITP #LeanProver #Math
