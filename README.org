@@ -79,6 +79,12 @@ its content.
 
 ** Octubre 2025
 
+*** 26-Oct-25
++ [[https://rkirov.github.io/posts/why_lean/][Why formalize mathematics - more than catching errors]]. ~ Rado Kirov. #ITP #LeanProver #Math
++ [[https://www.isa-afp.org/entries/Path_Automation.html][Path equivalence and automation for integration contours (in Isabelle/HOL)]]. ~ Manuel Eberl. #ITP #IsabelleHOL #Math
++ [[https://youtu.be/Iumho39XdfY][An introduction to formal real analysis (Lecture 13: Monotone subsequence)]]. ~ Alex Kontorovich. #ITP #LeanProver #Math
++ [[https://youtu.be/5NwzZSBA6T0][An introduction to formal real analysis (Lecture 14: The Bolzano-Weierstrass theorem)]]. ~ Alex Kontorovich. #ITP #LeanProver #Math
+
 *** 25-Oct-25
 + [[https://youtu.be/Ko-PzGlzYrc][Gauss: towards autoformalization for the working mathematician]]. ~ Jared Duker Lichtman, Jesse Han. #AI #Math #Autoformalization #LLM #ITP #LeanProver
 + [[https://cs.brynmawr.edu/Courses/cs373/Fall2025/Slides/01-Introduction.pdf][Course "Artificial Intelligence": 1. Introduction to AI]]. ~ Deepak Kumar. #AI #History
