@@ -79,6 +79,10 @@ its content.
 
 ** Octubre 2025
 
+*** 27-Oct-25
++ [[https://mmhaskell.com/blog/2025/10/27/stock-market-shark-more-multidimensional-dp][Stock market shark: More multidimensional DP]]. ~ James Bowen. #Haskell #FunctionalProgramming #RustLang
++ [[https://arxiv.org/abs/2505.05758][APOLLO: Automated LLM and Lean collaboration for advanced formal reasoning]]. ~ Azim Ospanov, Farzan Farnia, Roozbeh Yousefzadeh. #ITP #LeanProver #LLM
+
 *** 26-Oct-25
 + [[https://rkirov.github.io/posts/why_lean/][Why formalize mathematics - more than catching errors]]. ~ Rado Kirov. #ITP #LeanProver #Math
 + [[https://www.isa-afp.org/entries/Path_Automation.html][Path equivalence and automation for integration contours (in Isabelle/HOL)]]. ~ Manuel Eberl. #ITP #IsabelleHOL #Math
