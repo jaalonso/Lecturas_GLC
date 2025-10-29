@@ -79,6 +79,13 @@ its content.
 
 ** Octubre 2025
 
+*** 28-Oct-25
++ [[https://florisvandoorn.com/theses/IzabelaMandla.pdf][Formalization of Walsh-Fourier series]]. ~ Izabela Maria Mandla. #ITP #LeanProver #Math
++ [[https://hal.science/hal-05329156/document][Towards a verified compiler for Distributed PlusCal]]. ~ Ghilain Bergeron, Horatiu Cirstea, Stephan Merz. #ITP #LeanProver
++ [[https://www.researchgate.net/profile/Uenver-Ciftci/publication/396870736_A_Deterministic_Descent_Framework_for_the_Collatz_Conjecture/links/68fbb9207d9a4d4e870c5a6c/A-Deterministic-Descent-Framework-for-the-Collatz-Conjecture.pdf][A deterministic descent framework for the Collatz conjecture]]. ~ Ünver Çiftçi. #ITP #LeanProver #Math
++ [[https://ceur-ws.org/Vol-4076/paper9.pdf][How important are formal methods and formal logic for software engineering education? ~ Antti Valmari, Veikko Halttunen]]. #FormalMethods #Logic
++ [[https://cacm.acm.org/blogcacm/the-art-and-discipline-of-prompt-engineering/][The art and discipline of prompt engineering]]. ~ Shilpa Shastri. #AI
+
 *** 27-Oct-25
 + [[https://mmhaskell.com/blog/2025/10/27/stock-market-shark-more-multidimensional-dp][Stock market shark: More multidimensional DP]]. ~ James Bowen. #Haskell #FunctionalProgramming #RustLang
 + [[https://arxiv.org/abs/2505.05758][APOLLO: Automated LLM and Lean collaboration for advanced formal reasoning]]. ~ Azim Ospanov, Farzan Farnia, Roozbeh Yousefzadeh. #ITP #LeanProver #LLM
