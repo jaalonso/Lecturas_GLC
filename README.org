@@ -79,6 +79,15 @@ its content.
 
 ** Octubre 2025
 
+*** 29-Oct-25
++ [[https://arxiv.org/abs/2510.24060][Formalizing Schwartz functions and tempered distributions]]. ~ Moritz Doll. #ITP #LeanProver #Math
++ [[https://1000-plus.github.io/all][1000+ theorems (The spiritual successor of Freek’s list of 100 theorems]]. Now with more than 1000 theorems!). ~ Katja Berčič et als. #Math #ITP #IsabelleHOL #HOL_Light #Rocq #LeanProver #Metamath #Mizar
++ [[https://arxiv.org/abs/2510.23637][Combining textual and structural information for premise selection in Lean]]. ~ Job Petrovčič, David Eliecer Narvaez Denis, Ljupčo Todorovski. #AI #Math #ITP #LeanProver
++ [[https://arxiv.org/abs/2506.08588][Martin Davis: An overview of his work in logic, computer science, and philosophy]]. ~ Liesbeth De Mol, Yuri V. Matiyasevich, Eugenio G. Omodeo, Alberto Policriti, Wilfried Sieg, Elaine J. Weyuker. #Logic #Math #CompSci
++ [[https://www.johndcook.com/blog/2025/10/28/freshmans-dream/][Freshman’s dream]]. ~ John D. Cook. #Math #Python #Programming
++ [[https://cacm.acm.org/news/the-reasons-ai-may-act-secretive][The reasons AI may act secretive (Trained to reflect human behavior, AI models may share half-truths or purposely omit information)]]. ~ Jennifer Goforth Gregory. #AI
++ [[https://cacm.acm.org/news/in-search-of-better-search/][In search of better search (Does AI improve, or misdirect, search engines and their results?)]]. ~ Samuel Greengard. #GenAI
+
 *** 28-Oct-25
 + [[https://florisvandoorn.com/theses/IzabelaMandla.pdf][Formalization of Walsh-Fourier series]]. ~ Izabela Maria Mandla. #ITP #LeanProver #Math
 + [[https://hal.science/hal-05329156/document][Towards a verified compiler for Distributed PlusCal]]. ~ Ghilain Bergeron, Horatiu Cirstea, Stephan Merz. #ITP #LeanProver
