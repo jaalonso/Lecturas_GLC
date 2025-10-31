@@ -79,6 +79,10 @@ its content.
 
 ** Octubre 2025
 
+*** 30-Oct-25
++ [[https://arxiv.org/abs/2510.24818][Formalization of Auslander--Buchsbaum--Serre criterion in Lean4]]. ~ Naillin Guan, Yongle Hu. #ITP #LeanProver #Math
++ [[https://iacgm.com/articles/adts/][Lists are geometric series]]. ~ iacgm. #Haskell #FunctionalProgramming
+
 *** 29-Oct-25
 + [[https://arxiv.org/abs/2510.24060][Formalizing Schwartz functions and tempered distributions]]. ~ Moritz Doll. #ITP #LeanProver #Math
 + [[https://1000-plus.github.io/all][1000+ theorems (The spiritual successor of Freek’s list of 100 theorems]]. Now with more than 1000 theorems!). ~ Katja Berčič et als. #Math #ITP #IsabelleHOL #HOL_Light #Rocq #LeanProver #Metamath #Mizar
