@@ -79,6 +79,13 @@ its content.
 
 ** Octubre 2025
 
+*** 31-Oct-25
++ [[https://arxiv.org/abs/2510.21741][Virasoro algebra and Sugawara constructions formally in Lean]]. ~ Kalle Kytölä. #ITP #LeanProver #Math
++ [[https://philpapers.org/archive/SCHDOF-8.pdf][Derivation of fundamental physical constants from substrate ontology]]. ~ Matthew Scherf. #ITP #LeanProver #Physics
++ [[https://www.researchgate.net/profile/Soumya_Banerjee/publication/396932859_Conjecture_extraction_for_proof_autoformalization/links/68ff6c60a404d657099f1f89/Conjecture-extraction-for-proof-autoformalization.pdf][Conjecture extraction for proof autoformalization]]. ~ Simon Sorg, Wenda Li, Soumya Banerjee. #AI #Math #ITP #LeanProver #Autoformalization
++ [[https://blog.google/technology/google-deepmind/ai-for-math][Accelerating discovery with the AI for Math Initiative (The initiative brings together some of the world's most prestigious research institutions to pioneer the use of AI in mathematical research)]]. ~ Pushmeet Kohli, Eugénie Rives. #AI #Math
++ [[https://cacm.acm.org/blogcacm/genai-for-computing-careers-a-sunny-take/][GenAI for computing careers: A sunny take (Positive outcomes for computer science graduates will take some determined action from both educators and learners)]]. ~ Saurabh Bagchi. #GenAI #CompSci #Education
+
 *** 30-Oct-25
 + [[https://arxiv.org/abs/2510.24818][Formalization of Auslander--Buchsbaum--Serre criterion in Lean4]]. ~ Naillin Guan, Yongle Hu. #ITP #LeanProver #Math
 + [[https://iacgm.com/articles/adts/][Lists are geometric series]]. ~ iacgm. #Haskell #FunctionalProgramming
