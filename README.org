@@ -80,6 +80,12 @@ its content.
 
 ** Noviembre 2025
 
+*** 02-Nov-25
++ [[https://lawrencecpaulson.github.io//2025/11/02/Why-not-dependent.html]["Why don't you use dependent types?"]] ~ Lawrence Paulson. #ITP #Automath #LCF #IsabelleHOL #LeanProver #TypeTheory
++ [[https://arxiv.org/abs/2510.26094v1][Lean4Physics: Comprehensive reasoning framework for college-level Physics in Lean4]]. ~ Yuxin Li et als. #ITP #LeanProver #Physics #AI #LLM
++ [[https://granule-project.github.io/papers/security-coeffects-mycroftfest.pdf][On graded coeffect types for information-flow control]]. ~ Vilem-Benjamin Liepelt et als. #ITP #Agda
++ [[https://bahr.io/pubs/files/propratt-paper.pdf][Property-based testing for asynchronous functional reactive programming using linear temporal logic]]. ~ Christian Emil Nielsen, Mathias Faber Kristiansen, Patrick Bahr. #Haskell #FunctionalProgramming
+
 *** 01-Nov-25
 + [[https://youtu.be/U-xG56YHCiE][An introduction to formal real analysis (Lecture 15: The real numbers)]]. ~ Alex Kontorovich. #ITP #LeanProver #Math
 + [[https://wasabi315.github.io/files/wctp2025a.pdf][Formalization of coverage checking in Agda]]. ~ Satoshi Takimoto, Sosuke Moriguchi, Takuo Watanabe. #ITP #Agda #FunctionalProgramming
