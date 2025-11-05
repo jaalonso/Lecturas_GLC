@@ -80,6 +80,10 @@ its content.
 
 ** Noviembre 2025
 
+*** 03-Nov-25
++ [[https://youtu.be/0QZI_m8WZ0Q][Is this the end of handwritten math? Introducing Lean]]. ~ Ank Yog. #ITP #LeanProver #Math
++ [[https://youtu.be/bcTWVUueai4][Quel sera l’impact de l’IA sur les mathématiques dans les prochaines années?]] - Timothy Gowers. #AI #Math #ITP #LeanProver
+
 *** 02-Nov-25
 + [[https://lawrencecpaulson.github.io//2025/11/02/Why-not-dependent.html]["Why don't you use dependent types?"]] ~ Lawrence Paulson. #ITP #Automath #LCF #IsabelleHOL #LeanProver #TypeTheory
 + [[https://arxiv.org/abs/2510.26094v1][Lean4Physics: Comprehensive reasoning framework for college-level Physics in Lean4]]. ~ Yuxin Li et als. #ITP #LeanProver #Physics #AI #LLM
