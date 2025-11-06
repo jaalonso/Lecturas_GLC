@@ -80,6 +80,10 @@ its content.
 
 ** Noviembre 2025
 
+*** 05-Nov-25
++ [[https://arxiv.org/abs/2510.24060v1][Formalizing Schwartz functions and tempered distributions]]. ~ Moritz Doll. #ITP #LeanProver #Math
++ [[https://openreview.net/pdf?id=omyNP89YW6][Tree-based premise selection for Lean4]]. ~ Zichen Wang, Anjie Dong, Zaiwen Wen. #ITP #LeanProver #AI
+
 *** 03-Nov-25
 + [[https://youtu.be/0QZI_m8WZ0Q][Is this the end of handwritten math? Introducing Lean]]. ~ Ank Yog. #ITP #LeanProver #Math
 + [[https://youtu.be/bcTWVUueai4][Quel sera l’impact de l’IA sur les mathématiques dans les prochaines années?]] - Timothy Gowers. #AI #Math #ITP #LeanProver
