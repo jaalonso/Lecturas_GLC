@@ -80,6 +80,17 @@ its content.
 
 ** Noviembre 2025
 
+*** 07-Nov-25
++ [[https://youtu.be/omfZbs2v_dQ][An introduction to formal real analysis (Lecture 16: Completeness of the real numbers)]]. ~ Alex Kontorovich. #ITP #LeanProver #Math
++ [[https://cacm.acm.org/news/the-path-to-a-superhuman-ai-mathematician/][The path to a superhuman AI mathematician]]. ~ Lawrence Fisher. #AI #Math #ITP #LeanProver
++ [[https://home.zcu.cz/~danek/DATA/WWW_STRANKY/soubory/materialy/poster-lean-2025-09-22-EUPeace-Plzen.pdf][Math reasoning in times of AI: Lean way of theorem proving]]. ~ Jan Cepika et als. #ITP #LeanProver #Math #AI #LLM
++ [[https://hal.science/hal-05342510/document][Babel-formal: Translation of proofs between Lean and Rocq]]. ~ Théo Stoskopf, Cyril Cohen, Nicolas Tabarea. #ITP #LeanProver #Rocq
++ [[https://arxiv.org/abs/2511.02164v1][ScenicProver: A framework for compositional probabilistic verification of learning-enabled systems]]. ~ Eric Vin et als. #ITP #LeanProver
++ [[https://arxiv.org/abs/2409.19176][Polynomial universes in Homotopy Type Theory]]. ~ C.B. Aberlé, David I. Spivak. #ITP #Agda #HoTT
++ [[https://arxiv.org/abs/2511.02864v1][Mathematical exploration and discovery at scale]]. ~ Bogdan Georgiev, Javier Gómez-Serrano, Terence Tao, Adam Zsolt Wagner. #AI #Math #AlphaEvolve #ITP #LeanProver
++ [[https://dl.acm.org/doi/full/10.1145/3736710][It’s the specification, stupid! (Seeking a significant shift in the traditional software development and verification paradigm)]]. ~ Manfred Broy, Harald Ruess, Natarajan Shankar. #FormalVerification
++ [[https://www.gaussianos.com/cual-es-el-siguiente-termino/][¿Cuál es el siguiente término?]] ~ Miguel Ángel Morales. #Matemáticas
+
 *** 05-Nov-25
 + [[https://arxiv.org/abs/2510.24060v1][Formalizing Schwartz functions and tempered distributions]]. ~ Moritz Doll. #ITP #LeanProver #Math
 + [[https://openreview.net/pdf?id=omyNP89YW6][Tree-based premise selection for Lean4]]. ~ Zichen Wang, Anjie Dong, Zaiwen Wen. #ITP #LeanProver #AI
