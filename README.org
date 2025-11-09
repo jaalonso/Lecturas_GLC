@@ -80,6 +80,10 @@ its content.
 
 ** Noviembre 2025
 
+*** 08-Nov-25
++ [[https://youtu.be/fzxW2XJS6SE][A new paradigm for mathematical proof?]] ~ Emily Riehl. #AI #Math #ITP #Agda #LeanProver
++ [[https://youtu.be/cTbVEisk0rI][An introduction to formal real analysis (Lecture 17: Series and convergence)]]. ~ Alex Kontorovich. #ITP #LeanProver #Math
+
 *** 07-Nov-25
 + [[https://youtu.be/omfZbs2v_dQ][An introduction to formal real analysis (Lecture 16: Completeness of the real numbers)]]. ~ Alex Kontorovich. #ITP #LeanProver #Math
 + [[https://cacm.acm.org/news/the-path-to-a-superhuman-ai-mathematician/][The path to a superhuman AI mathematician]]. ~ Lawrence Fisher. #AI #Math #ITP #LeanProver
