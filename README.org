@@ -80,6 +80,10 @@ its content.
 
 ** Noviembre 2025
 
+*** 09-Nov-25
++ [[https://arxiv.org/abs/2511.03618v1][Towards formalizing reinforcement learning theory]]. ~ Shangtong Zhang. #ITP #LeanProver
++ [[https://philsci-archive.pitt.edu/27017/1/The%20Philosophical%20Prospects%20of%20Large%20Language%20Models%20in%20the%20Future%20of%20Mathematics%2019.08.2025.pdf][The philosophical prospects of Large Language Models in the future of mathematics]]. ~ Fenner Stanley Tanswell, Ásgeir Berg. #AI #Math
+
 *** 08-Nov-25
 + [[https://youtu.be/fzxW2XJS6SE][A new paradigm for mathematical proof?]] ~ Emily Riehl. #AI #Math #ITP #Agda #LeanProver
 + [[https://youtu.be/cTbVEisk0rI][An introduction to formal real analysis (Lecture 17: Series and convergence)]]. ~ Alex Kontorovich. #ITP #LeanProver #Math
