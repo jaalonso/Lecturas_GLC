@@ -80,6 +80,9 @@ its content.
 
 ** Noviembre 2025
 
+*** 10-Nov-25
++ [[https://www.cambridge.org/core/journals/philosophy-of-science/article/apriori-knowledge-in-an-era-of-computational-opacity-the-role-of-ai-in-mathematical-discovery/0192BDB2814A219D9435A912786FE4CA][Apriori knowledge in an era of computational opacity: The Role of AI in mathematical discovery]]. ~ Eamon Duede, Kevin Davey. #AI #Math
+
 *** 09-Nov-25
 + [[https://arxiv.org/abs/2511.03618v1][Towards formalizing reinforcement learning theory]]. ~ Shangtong Zhang. #ITP #LeanProver
 + [[https://philsci-archive.pitt.edu/27017/1/The%20Philosophical%20Prospects%20of%20Large%20Language%20Models%20in%20the%20Future%20of%20Mathematics%2019.08.2025.pdf][The philosophical prospects of Large Language Models in the future of mathematics]]. ~ Fenner Stanley Tanswell, Ásgeir Berg. #AI #Math
