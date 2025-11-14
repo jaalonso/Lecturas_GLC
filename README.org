@@ -80,6 +80,10 @@ its content.
 
 ** Noviembre 2025
 
+*** 11-Nov-25
++ [[https://fse.studenttheses.ub.rug.nl/37126/1/bMATH2025NijholtJ.pdf][Computer-assisted proofs in Lean4]]. ~  J. Nijholt. #ITP #LeanProver #Math
++ [[https://www.universidadsi.es/de-la-disputatio-a-la-ia-regreso-a-los-origenes/][De la disputatio a la IA: regreso a los orígenes (La universidad como lugar de diálogo)]]. ~ Neila Campos. #AI #Education
+
 *** 10-Nov-25
 + [[https://www.cambridge.org/core/journals/philosophy-of-science/article/apriori-knowledge-in-an-era-of-computational-opacity-the-role-of-ai-in-mathematical-discovery/0192BDB2814A219D9435A912786FE4CA][Apriori knowledge in an era of computational opacity: The Role of AI in mathematical discovery]]. ~ Eamon Duede, Kevin Davey. #AI #Math
 
