@@ -80,6 +80,28 @@ its content.
 
 ** Noviembre 2025
 
+*** 14-Nov-25
++ [[https://youtu.be/VI63OwWMxJM][An introduction to formal real analysis (Lecture 18: Rearrangements)]]. ~ Alex Kontorovich. #ITP #LeanProver #Math
++ [[https://www.cambridge.org/core/journals/journal-of-functional-programming/article/choice-trees-representing-and-reasoning-about-nondeterministic-recursive-and-impure-programs-in-rocq/797B95A45813CAE54CFFFA3D7B163BA4][Choice trees: Representing and reasoning about nondeterministic, recursive, and impure programs in Rocq]]. ~ Nicolas Chappe et als. #ITP #Rocq
++ [[https://www.cambridge.org/core/journals/journal-of-functional-programming/article/practical-formalization-of-monadic-equational-reasoning-in-dependenttype-theory/B59B87DE000F48B9807F24AEDB11452E][A practical formalization of monadic equational reasoning in dependent-type theory]]. ~ Reynald Affeldt, Jacques Garrigue, Takafumi Saikawa. #ITP #CoqProver
++ [[https://www.cambridge.org/core/journals/journal-of-functional-programming/article/towards-typedirected-compiler-calculation/247DC1BC3BB40F8AA99DF685861CDF8A][Towards type-directed compiler calculation]]. ~ Wouter Swierstra. #ITP #Agda
++ [[https://www.cambridge.org/core/journals/journal-of-functional-programming/article/binary-searchthink-positive/1F974DF9C6475D19B32E18C93A2DCC1C][Binary search—think positive]]. ~ Alexander Dinges, Ralf Hinze. #ITP #Agda
++ [[https://www.cambridge.org/core/journals/journal-of-functional-programming/article/checking-equivalence-in-a-nonstrict-language/82D1E4CE7541BDDF5B954B471549C44][Checking equivalence in a non-strict language]]. ~ John Charles Kolesar, Ruzica Piskac, William Triest Hallahan.7#supplementary-materials #Haskell #FunctionalProgramming
++ [[https://www.cambridge.org/core/journals/journal-of-functional-programming/article/automatically-testing-console-io-behavior-of-student-submissions-in-haskell/20BF7DCA6330A2115C2C2B9BA47AB2E0][Automatically testing console I/O behavior of student submissions in Haskell]]. ~ Oliver Westphal, Janis Voigtländer. #Haskell #FunctionalProgramming
++ [[https://www.cambridge.org/core/journals/journal-of-functional-programming/article/parallel-dualnumbers-reverse-ad/ECFEF5DE72D5CB7C5BBA0AD7C203BF38][Parallel dual-numbers reverse AD]]. ~ Tom J. Smeding, Matthijs I.L. Vákár. #Haskell #FunctionalProgramming
++ [[https://www.cambridge.org/core/journals/journal-of-functional-programming/article/domainspecific-tensor-languages/19B95794B66C66E117DFCFC7A21E22D5][Domain-specific tensor languages]]. ~ Jean-Philippe Bernardy, Patrik Jansson. #Haskell #FunctionalProgramming
++ [[https://www.cambridge.org/core/journals/journal-of-functional-programming/article/turner-bird-eratosthenes-an-eternal-burning-thread/32E2EDF5D5EAEC95F13D313BC97B86F0][Turner, Bird, Eratosthenes: An eternal burning thread]]. ~ Jeremy Gibbons. #Haskell #FunctionalProgramming
++ [[https://www.cambridge.org/core/journals/journal-of-functional-programming/article/how-much-is-in-a-square-calculating-functional-programs-with-squares/F48258008F47DC9F53AA2E61B4E511A7][How much is in a square? Calculating functional programs with squares]]. ~ Jose Nuno Oliveira. #Haskell #FunctionalProgramming
++ [[https://www.cambridge.org/core/journals/journal-of-functional-programming/article/experiences-of-early-assessment-to-teach-functional-programming/667F18D3611D4A3A7C7C6A2A2FA4FB3C][Experiences of early assessment to teach functional programming]]. ~ Peter Chapman. #Haskell #FunctionalProgramming
++ [[https://www.cambridge.org/core/journals/journal-of-functional-programming/article/you-could-have-invented-fenwick-trees/B4628279D4E54229CED97249E96F721D][You could have invented Fenwick trees]]. ~ Brent Yorgey. #Haskell #FunctionalProgramming
++ [[https://www.mlabs.city/blog/patterns-and-paradoxes][Patterns and paradoxes: The logic of pattern synonyms]]. ~ Koz Ross. #Haskell #FunctionalProgramming
++ [[https://www.youtube.com/live/EcV4rb-Czfg][The Haskell Unfolder Episode 49: Shrinking]]. ~ Edsko de Vries, Andres Löh. #Haskell #FunctionalProgramming
++ [[https://www.youtube.com/live/-zxxl-WuwuE][The Haskell Unfolder Episode 50: Singletons]]. ~ Edsko de Vries, Andres Löh. #Haskell #FunctionalProgramming
++ [[https://www.youtube.com/live/3XeIoA0aVLQ][The Haskell Unfolder Episode 51: Typed servers using sop-core]]. ~ Edsko de Vries, Andres Löh. #Haskell #FunctionalProgramming
++ [[https://www.cambridge.org/core/journals/journal-of-functional-programming/article/tail-recursion-modulo-context-an-equational-approach-extended-version/CCFFA4B8583A4924F002B0C377394303][Tail recursion modulo context: An equational approach]]. ~ Daan Leijen, Anton Felix Lorenzen. #OCaml #FunctionalProgramming
++ [[https://www.tomzahavy.com/post/how-we-achieved-an-imo-medal-one-year-before-everyone-else][How we achieved an IMO medal, one year before any other AI system]]. ~ Tom Zahavy. #AI #Math #ITP #LeanProver #AlphaProof
++ [[https://www.nature.com/articles/s41586-025-09833-y][Olympiad-level formal mathematical reasoning with reinforcement learning]]. ~ Thomas Hubert et als. #AI #Math
+
 *** 11-Nov-25
 + [[https://fse.studenttheses.ub.rug.nl/37126/1/bMATH2025NijholtJ.pdf][Computer-assisted proofs in Lean4]]. ~  J. Nijholt. #ITP #LeanProver #Math
 + [[https://www.universidadsi.es/de-la-disputatio-a-la-ia-regreso-a-los-origenes/][De la disputatio a la IA: regreso a los orígenes (La universidad como lugar de diálogo)]]. ~ Neila Campos. #AI #Education
