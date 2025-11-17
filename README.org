@@ -80,6 +80,10 @@ its content.
 
 ** Noviembre 2025
 
+*** 16-Nov-25
++ [[https://www.quantamagazine.org/to-have-machines-make-math-proofs-turn-them-into-a-puzzle-20251110/][To have machines make math proofs, turn them into a puzzle]]. ~ John Pavlus. #AI #Math #ATP #SatSolvers
++ [[https://arxiv.org/abs/2511.10356][SITA: A framework for structure-to-instance theorem autoformalization]]. ~ Chenyi Li, Wanli Ma, Zichen Wang, Zaiwen Wen. #AI #Math #Autoformalization #LLMs #ITP #LeanProver
+
 *** 14-Nov-25
 + [[https://youtu.be/VI63OwWMxJM][An introduction to formal real analysis (Lecture 18: Rearrangements)]]. ~ Alex Kontorovich. #ITP #LeanProver #Math
 + [[https://www.cambridge.org/core/journals/journal-of-functional-programming/article/choice-trees-representing-and-reasoning-about-nondeterministic-recursive-and-impure-programs-in-rocq/797B95A45813CAE54CFFFA3D7B163BA4][Choice trees: Representing and reasoning about nondeterministic, recursive, and impure programs in Rocq]]. ~ Nicolas Chappe et als. #ITP #Rocq
