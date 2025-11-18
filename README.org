@@ -80,6 +80,11 @@ its content.
 
 ** Noviembre 2025
 
+*** 17-Nov-25
++ [[https://youtu.be/eFGkcUoImWw][An introduction to formal real analysis (Lecture 19: The rearrangement theorems)]]. ~ Alex Kontorovich. #ITP #LeanProver #Math
++ [[https://www.isa-afp.org/entries/Neural_Networks.html][Formalizing neural networks (in Isabelle/HOL)]]. ~ Achim D. Brucker, Amy Stell. #ITP #IsabelleHOL #NeuralNetwork
++ [[https://github.com/tani/xeus-haskell][xeus-haskell: a Jupyter kernel for Haskell based on the native implementation of the Jupyter protocol xeus]]. ~ Masaya Taniguchi. #Haskell #FunctionalProgramming
+
 *** 16-Nov-25
 + [[https://www.quantamagazine.org/to-have-machines-make-math-proofs-turn-them-into-a-puzzle-20251110/][To have machines make math proofs, turn them into a puzzle]]. ~ John Pavlus. #AI #Math #ATP #SatSolvers
 + [[https://arxiv.org/abs/2511.10356][SITA: A framework for structure-to-instance theorem autoformalization]]. ~ Chenyi Li, Wanli Ma, Zichen Wang, Zaiwen Wen. #AI #Math #Autoformalization #LLMs #ITP #LeanProver
