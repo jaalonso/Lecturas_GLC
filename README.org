@@ -80,6 +80,14 @@ its content.
 
 ** Noviembre 2025
 
+*** 18-Nov-25
++ [[https://youtu.be/6J_LCQUFX-s][Teaching real analysis as a game]]. ~ Alex Kontorovich. #ITP #LeanProver #Math
++ [[https://arxiv.org/abs/2511.13304][Are automated proof assistants ready for semigroup research? Orientation-preserving mappings and proof assistant Lean]]. ~ Alastair Litterick, Alexei Vernitski, Billy Woods. #ITP #LeanProver #Math
++ [[https://pagedout.institute/download/PagedOut_007.pd][Lispy sets in CHICKEN Scheme]]. ~ Peter Bex.f#page=36 #Scheme #FunctionalProgramming
++ [[https://arxiv.org/abs/2511.12784][Evaluating autoformalization robustness via semantically similar paraphrasing]]. ~ Hayden Moore, Asfahan Shah. #AI #Math #Autoformalization #ITP #LeanProver
++ [[https://www.microsiervos.com/archivo/ordenadores/paged-out-revista-programacion-pdf.html][«Paged Out!»: una revista en PDF sobre programación, donde con un artículo por página sobra]]. ~ @Alvy #Programming
++ [[https://www.universidadsi.es/universidad-e-inteligencia-artificial-realidad-retos-y-expectativas-de-la-aplicacion-de-la-ia-en-las-universidades-espanolas/][Universidad e Inteligencia Artificial: realidad, retos y expectativas de la aplicación de la IA en las universidades españolas]]. ~  Teodoro Luque, Lucia Porcu, Isamel García Varea y Iñaki Fuertes Tudanca. #IA #Universidad
+
 *** 17-Nov-25
 + [[https://youtu.be/eFGkcUoImWw][An introduction to formal real analysis (Lecture 19: The rearrangement theorems)]]. ~ Alex Kontorovich. #ITP #LeanProver #Math
 + [[https://www.isa-afp.org/entries/Neural_Networks.html][Formalizing neural networks (in Isabelle/HOL)]]. ~ Achim D. Brucker, Amy Stell. #ITP #IsabelleHOL #NeuralNetwork
