@@ -80,6 +80,12 @@ its content.
 
 ** Noviembre 2025
 
+*** 19-Nov-25
++ [[https://youtu.be/0gnLLN4EtEc][An introduction to formal real analysis (Lecture 20: Limits and continuity of functions)]]. ~ Alex Kontorovich. #ITP #LeanProver #Math
++ [[https://arxiv.org/abs/2509.10828][Structuring definitions in mathematical libraries]]. ~ Alena Gusakov, Peter Nelson, Stephen Watt. #ITP #LeanProver #Math
++ [[https://www.isa-afp.org/entries/Pre_Star_CFG.html][Pre*: The predecessors of a regular language w]].r.t. a context-free grammar, with applications (in Isabelle/HOL). ~ Tassilo Lemke, Tobias Nipkow. #ITP #IsabelleHOL
++ [[https://dev.to/thebitforge/10-developer-habits-that-separate-good-programmers-from-great-ones-293n][10 developer habits that separate good programmers from great ones]]. ~ TheBitForge. #Programming
+
 *** 18-Nov-25
 + [[https://youtu.be/6J_LCQUFX-s][Teaching real analysis as a game]]. ~ Alex Kontorovich. #ITP #LeanProver #Math
 + [[https://arxiv.org/abs/2511.13304][Are automated proof assistants ready for semigroup research? Orientation-preserving mappings and proof assistant Lean]]. ~ Alastair Litterick, Alexei Vernitski, Billy Woods. #ITP #LeanProver #Math
