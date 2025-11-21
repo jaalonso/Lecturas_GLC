@@ -80,6 +80,11 @@ its content.
 
 ** Noviembre 2025
 
+*** 20-Nov-25
++ [[https://arxiv.org/abs/2510.24818][Formalization of Auslander-Buchsbaum-Serre criterion in Lean4]]. ~ Naillin Guan, Yongle Hu. #ITP #LeanProver #Math
++ [[https://xlii.space/eng/small-functions/][On small functions (and Haskell)]]. ~ Alexander Przemysław Kamiński. #Haskell #FunctionalProgramming
++ [[https://doisinkidney.com/pdfs/hyperfunctions.pdf][Hyperfunctions: Communicating continuations]]. ~ Donnacha Oisín Kidney, Nicolas Wu. #Haskell #FunctionalProgramming
+
 *** 19-Nov-25
 + [[https://youtu.be/0gnLLN4EtEc][An introduction to formal real analysis (Lecture 20: Limits and continuity of functions)]]. ~ Alex Kontorovich. #ITP #LeanProver #Math
 + [[https://arxiv.org/abs/2509.10828][Structuring definitions in mathematical libraries]]. ~ Alena Gusakov, Peter Nelson, Stephen Watt. #ITP #LeanProver #Math
