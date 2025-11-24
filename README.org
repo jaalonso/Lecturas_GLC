@@ -80,6 +80,16 @@ its content.
 
 ** Noviembre 2025
 
+*** 21-Nov-25
++ [[https://arstechnica.com/ai/2025/11/deepminds-latest-an-ai-for-handling-mathematical-proofs/][DeepMind’s latest: An AI for handling mathematical proofs]]. ~ Jacek Krywko. #AI #Math #LLMs #ITP #LeanProver #AlphaProof
++ [[https://icaps25.icaps-conference.org/program/workshops/krplan-papers/wang-abdulaziz-krplan25.pdf][Verified certification of unsolvability of temporal planning problems]]. ~ David Wang, Mohammad Abdulaziz. #ITP #IsabelleHOL
++ [[https://www.insmi.cnrs.fr/fr/cnrsinfo/annals-formalized-mathematics-nouvel-epijournal-formalisation][Annals of Formalized Mathematics: un nouvel épi-journal dédié à la formalisation]]. #ITP #Math #LeanProver #IsabelleHOL #Rocq #Agda
++ [[https://afm.episciences.org/15978][Formalization of derived categories in Lean/mathlib]]. ~ Joël Riou. #ITP #LeanProver
++ [[https://afm.episciences.org/15954][Formalizing zeta and L-functions in Lean]]. ~ David Loeffler, Michael Stoll. #ITP #LeanProver
++ [[https://afm.episciences.org/16046][A complete formalization of Fermat's Last Theorem for regular primes in Lean]]. ~ Alex Best, Christopher Birkbeck, Riccardo Brasca, Eric Rodriguez Boidi, Ruben van De Velde, Andrew Yang. #ITP #LeanProver #Math
++ [[https://afm.episciences.org/16007][Formalising the local compactness of the adele ring]]. ~ Salvatore Mercuri. #ITP #LeanProver #Math
++ [[https://cambium.inria.fr/blog/testing-a-priority-queue-with-Monolith/][Testing a priority queue with Monolith]]. ~ François Pottier. #OCaml #FunctionalProgramming
+
 *** 20-Nov-25
 + [[https://arxiv.org/abs/2510.24818][Formalization of Auslander-Buchsbaum-Serre criterion in Lean4]]. ~ Naillin Guan, Yongle Hu. #ITP #LeanProver #Math
 + [[https://xlii.space/eng/small-functions/][On small functions (and Haskell)]]. ~ Alexander Przemysław Kamiński. #Haskell #FunctionalProgramming
