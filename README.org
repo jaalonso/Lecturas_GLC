@@ -80,6 +80,18 @@ its content.
 
 ** Noviembre 2025
 
+*** 24-Nov-25
++ [[https://youtu.be/ofB8uRHGu-c][An introduction to formal real analysis (Lecture 21: Functions and derivatives)]]. ~ Alex Kontorovich. #ITP #LeanProver #Math
++ [[https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.202517294][A perspective on interactive theorem provers in Physics]]. ~ Joseph Tooby-Smith. #ITP #LeanProver #Physics
++ [[https://youtube.com/playlist?list=PL0oY24ee23INkDNXVoUMBZZ-q_EzE6gwx&si=vxrHKoHjH58UuKt-][ITP 2025 Lean workshop]]. #ITP #LeanProver
++ [[https://youtu.be/6WXyGRZ2uU0][Gödel mirror: A paraconsistent calculus mechanized in Lean 4]]. ~ Jhet Chan. #ITP #LeanProver #Logic #Math
++ [[https://youtu.be/1FjQzA8S7Z4][Automatic geometry theorem proving using polynomial elaboration]]. ~ Mauricio Barba da Costa et als. #ITP #LeanProver #Math
++ [[https://arxiv.org/abs/2511.12727v1][A topological rewriting of Tarski's mereogeometry]]. ~ Patrick Barlatier, Richard Dapoigny. #ITP #CoqProver
++ [[https://arxiv.org/abs/2511.16705][A Coq-based axiomatization of Tarski's mereogeometry]]. ~ Patrick Barlatier, Richard Dapoigny. #ITP #CoqProver
++ [[https://lawrencecpaulson.github.io//2025/11/21/Typed_Set_Theory.html][Set theory with types]]. ~ Lawrence Paulson. #Logic #Math #CompSci #SetTheory #TypeTheory
++ [[https://www.quantamagazine.org/a-new-bridge-links-the-strange-math-of-infinity-to-computer-science-20251121/][A new bridge links the strange math of infinity to computer science]]. ~ Joseph Howlett. #Math #CompSci
++ [[https://arxiv.org/abs/2511.16781v1][Tableau methodology for propositional logics]]. ~ T. Jarmuzek, R. Gore. #Logic
+
 *** 21-Nov-25
 + [[https://arstechnica.com/ai/2025/11/deepminds-latest-an-ai-for-handling-mathematical-proofs/][DeepMind’s latest: An AI for handling mathematical proofs]]. ~ Jacek Krywko. #AI #Math #LLMs #ITP #LeanProver #AlphaProof
 + [[https://icaps25.icaps-conference.org/program/workshops/krplan-papers/wang-abdulaziz-krplan25.pdf][Verified certification of unsolvability of temporal planning problems]]. ~ David Wang, Mohammad Abdulaziz. #ITP #IsabelleHOL
