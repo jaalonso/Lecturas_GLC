@@ -80,6 +80,12 @@ its content.
 
 ** Noviembre 2025
 
+*** 25-Nov-25
++ [[https://arxiv.org/abs/2511.19142][Formalizing computational paths and fundamental groups in Lean]]. ~ Arthur F. Ramos, Anjolina G. de Oliveira, Ruy J. G. B. de Queiroz, Tiago M. L. de Veras. #ITP #LeanProver
++ [[https://arxiv.org/abs/2505.20613][REAL-Prover: Retrieval augmented lean prover for mathematical reasoning]]. ~ Ziju Shen et als. #ITP #LeanProver #LLMs #Math
++ [[https://arxiv.org/abs/2503.04763][MiniF2F in Rocq: Automatic translation between proof assistants (A case study)]]. ~ Jules Viennot, Guillaume Baudart, Emilio Jesùs Gallego Arias, Marc Lelarge. #AI #Math #ITP #Rocq #LeanProver #IsabelleHOL #LLMs
++ [[https://entropicthoughts.com/software-never-fails][Software never fails]]. ~ kqr. #Programming
+
 *** 24-Nov-25
 + [[https://youtu.be/ofB8uRHGu-c][An introduction to formal real analysis (Lecture 21: Functions and derivatives)]]. ~ Alex Kontorovich. #ITP #LeanProver #Math
 + [[https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.202517294][A perspective on interactive theorem provers in Physics]]. ~ Joseph Tooby-Smith. #ITP #LeanProver #Physics
