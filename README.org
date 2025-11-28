@@ -80,6 +80,10 @@ its content.
 
 ** Noviembre 2025
 
+*** 27-Nov-25
++ [[https://youtu.be/VcYzMRJsA4Y][An introduction to formal real analysis (Lecture 22: Uniformity)]]. ~ Alex Kontorovich. #ITP #LeanProver #Math
++ [[https://arxiv.org/abs/2511.17203v1][Mathematics: the rise of the machines]]. ~ Yang-Hui He. #AI #ITP #Math
+
 *** 26-Nov-25
 + [[https://arxiv.org/abs/2511.20550][Verifying numerical methods with Isabelle/HOL]]. ~ Dustin Bryant, Jonathan Julian Huerta y Munive, Simon Foster. #ITP #IsabelleHOL #Math
 + [[https://noamz.org/teaching/CSE301/2025/Notes/IntroNotes.pdf][Introduction to functional programming]]. ~ Noam Zeilberger. #Haskell #FunctionalProgramming
