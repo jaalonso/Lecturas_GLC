@@ -80,6 +80,10 @@ its content.
 
 ** Noviembre 2025
 
+*** 28-Nov-25
++ [[https://www.quantamagazine.org/mathematical-thinking-isnt-what-you-think-it-is-20241118/][Mathematical thinking isn’t what you think it is (The mathematician David Bessis claims that everyone is capable of, and can benefit greatly from, mathematical thinking)]]. ~ Kelsey Houston-Edwards. #Math
++ [[https://davidbessis.substack.com/p/the-curious-case-of-broken-theorems][The curious case of broken theorems (Mathematics shouldn't survive logical errors—yet it does)]]. ~ David Bessis. #Math #ITP #LeanProver
+
 *** 27-Nov-25
 + [[https://youtu.be/VcYzMRJsA4Y][An introduction to formal real analysis (Lecture 22: Uniformity)]]. ~ Alex Kontorovich. #ITP #LeanProver #Math
 + [[https://arxiv.org/abs/2511.17203v1][Mathematics: the rise of the machines]]. ~ Yang-Hui He. #AI #ITP #Math
