@@ -81,6 +81,12 @@ its content.
 
 ** Diciembre 2025
 
+*** 03-Dic-25
++ [[https://leanprover-community.github.io/blog/posts/simp-made-simple/][Simp, made simple]]. ~ Yaël Dillies Paul Lezeau. #ITP #LeanProver
++ [[https://youtu.be/V3P1an4g4fQ][An introduction to formal real analysis (Lecture 23: Uniformity II: continuity)]]. ~ Alex Kontorovich. #ITP #LeanProver #Math
++ [[https://www.quantamagazine.org/reverse-mathematics-illuminates-why-hard-problems-are-hard-20251201/ ][‘Reverse mathematics’ illuminates why hard problems are  (Researchers have used metamathematical techniques to show that certain theorems that look superficially distinct are in fact logically equivalent)]]. ~ Ben Brubaker. #Math #CompSci
++ [[https://www.science.org/doi/10.1126/science.aec9014][Mathematics is hard for mathematicians to understand too]]. ~ Emily Riehl. #Math
+
 *** 02-Dic-25
 + [[https://mckoen.ca/files/Jack_McKoen_MSc_Thesis_final.pdf][A formalization of functor quasi-categories in Lean 4]]. ~ Jack McKoen. #ITP #LeanProver #Math
 
