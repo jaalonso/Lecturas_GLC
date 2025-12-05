@@ -81,6 +81,10 @@ its content.
 
 ** Diciembre 2025
 
+*** 04-Dic-25
++ [[https://arxiv.org/abs/2512.03635][Formal analysis of the sigmoid function and formal proof of the universal approximation theorem]]. ~ Dustin Bryant, Jim Woodcock, Simon Foster. #ITP #IsabelleHOL
++ [[https://inria.hal.science/hal-05310102v1/preview/lean4less.pdf][Lean4Less: Eliminating definitional equalities from Lean via an extensional-to-intensional translation]]. ~ Rishikesh Vaishnav. #ITP #LeanProver
+
 *** 03-Dic-25
 + [[https://leanprover-community.github.io/blog/posts/simp-made-simple/][Simp, made simple]]. ~ Yaël Dillies Paul Lezeau. #ITP #LeanProver
 + [[https://youtu.be/V3P1an4g4fQ][An introduction to formal real analysis (Lecture 23: Uniformity II: continuity)]]. ~ Alex Kontorovich. #ITP #LeanProver #Math
