@@ -81,6 +81,13 @@ its content.
 
 ** Diciembre 2025
 
+*** 05-Dic-25
++ [[https://xenaproject.wordpress.com/2025/12/05/formalization-of-erdos-problems/][Formalization of Erdős problems]]. ~ Boris Alexeev. #ITP #LeanProver #Math #Autoformalization
++ [[https://arxiv.org/abs/2512.04573][A Rocq formalization of monomial and graded orders]]. ~ Sylvie Boldo, François Clément, Vincent Martin, Micaela Mayero. #ITP #Rocq #Math
++ [[https://www.researchgate.net/publication/398154092_Certified_G2_Manifold_Construction_From_Physics-Informed_Neural_Networks_to_Lean_4_Formal_Proof][Certified G2 manifold construction]]. ~ Brieuc de La Fournière. #ITP #LeanProver
++ [[https://utoronto.scholaris.ca/server/api/core/bitstreams/e3196e4a-69ca-4e3d-9932-66ea3cb35232/content][Automated reasoning for uncertain Markov processes]]. ~ Muhammad Maaz. #ATP #SMT #Z3
++ [[https://jcarroll.com.au/2025/12/05/haskell-is-a-great-language-for-data-science/][Haskell is a great language for data science]]. ~ Jonathan Carroll. #Haskell #FunctionalProgramming #DataScience #Rstats
+
 *** 04-Dic-25
 + [[https://arxiv.org/abs/2512.03635][Formal analysis of the sigmoid function and formal proof of the universal approximation theorem]]. ~ Dustin Bryant, Jim Woodcock, Simon Foster. #ITP #IsabelleHOL
 + [[https://inria.hal.science/hal-05310102v1/preview/lean4less.pdf][Lean4Less: Eliminating definitional equalities from Lean via an extensional-to-intensional translation]]. ~ Rishikesh Vaishnav. #ITP #LeanProver
