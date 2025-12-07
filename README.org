@@ -81,6 +81,9 @@ its content.
 
 ** Diciembre 2025
 
+*** 06-Dic-25
++ [[https://youtu.be/xdbGdrVTGn0][An introduction to formal real analysis (Lecture 24: Topology)]]. ~ Alex Kontorovich. #ITP #LeanProver #Math
+
 *** 05-Dic-25
 + [[https://xenaproject.wordpress.com/2025/12/05/formalization-of-erdos-problems/][Formalization of Erdős problems]]. ~ Boris Alexeev. #ITP #LeanProver #Math #Autoformalization
 + [[https://arxiv.org/abs/2512.04573][A Rocq formalization of monomial and graded orders]]. ~ Sylvie Boldo, François Clément, Vincent Martin, Micaela Mayero. #ITP #Rocq #Math
