@@ -81,6 +81,9 @@ its content.
 
 ** Diciembre 2025
 
+*** 08-Dic-25
++ [[https://arxiv.org/abs/2512.05750][Formalizing polynomial laws and the universal divided power algebra]]. ~ Antoine Chambert-Loir, María Inés de Frutos-Fernández. #ITP #LeanProver #Math
+
 *** 07-Dic-25
 + [[https://lawrencecpaulson.github.io//2025/12/05/History_of_Proof_Assistants.html][50 years of proof assistants]]. ~ Lawrence Paulson. #ITP #IsabelleHOL #CoqProver #HOL
 + [[https://deepwiki.com/leanprover-community/mathlib4][DeepWiki leanprover-community/mathlib4: A comprehensive database of formalized theorems in Lean 4]]. #ITP #LeanProver #Math
