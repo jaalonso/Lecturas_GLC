@@ -81,6 +81,13 @@ its content.
 
 ** Diciembre 2025
 
+*** 09-Dic-25
++ [[https://arxiv.org/abs/2512.07087][The equational theories project: Advancing collaborative mathematical research at scale]]. ~ Terence Tao et als. #ITP #LeanProver #Math
++ [[https://arxiv.org/abs/2512.07766][Formalized Hopfield networks and Boltzmann machines]]. ~ Matteo Cipollina, Michail Karatarakis, Freek Wiedijk. #ITP #LeanProver
++ [[https://terrytao.wordpress.com/2025/12/08/the-story-of-erdos-problem-126/][The story of Erdős problem #1026]]. ~ Terence Tao. #AI #Math #ITP #LeanProver #Aristotle #AlphaEvolve
++ [[https://arxiv.org/abs/2512.06467][Formalisation of security for federated learning with DP and attacker advantage in IIIf for satellite swarms]]. ~ Florian Kammüller. #ITP #IsabelleHOL
++ [[https://link.springer.com/article/10.1007/s10817-025-09743-8][Candle: A verified implementation of HOL Light]]. ~ Oskar Abrahamsson et als. #ITP #HOL4 #HOL_Light
+
 *** 08-Dic-25
 + [[https://arxiv.org/abs/2512.05750][Formalizing polynomial laws and the universal divided power algebra]]. ~ Antoine Chambert-Loir, María Inés de Frutos-Fernández. #ITP #LeanProver #Math
 
