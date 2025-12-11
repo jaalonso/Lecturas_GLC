@@ -81,6 +81,12 @@ its content.
 
 ** Diciembre 2025
 
+*** 10-Dic-25
++ [[https://arxiv.org/abs/2512.05878][Complex bounded operators in Isabelle/HOL]]. ~ Dominique Unruh, José Manuel Rodríguez Caballero. #ITP #IsabelleHOL #Math
++ [[https://arxiv.org/abs/2510.24818][Formalization of Auslander-Buchsbaum-Serre criterion in Lean4]]. ~ Naillin Guan, Yongle Hu. #ITP #LeanProver #Math
++ [[https://voidma.in/assets/papers/2025nawrocki_certifying_proof_assistant_synthetic_mathematics_lean.pdf][A certifying proof assistant for synthetic mathematics in Lean]]. ~ Wojciech Nawrocki et als. #ITP #LeanProver
++ [[https://youtu.be/zqmUXpcj8S4][An introduction to formal real analysis (Lecture 25: Swapping limits and integrals)]]. ~ Alex Kontorovich. #ITP #LeanProver #Math
+
 *** 09-Dic-25
 + [[https://arxiv.org/abs/2512.07087][The equational theories project: Advancing collaborative mathematical research at scale]]. ~ Terence Tao et als. #ITP #LeanProver #Math
 + [[https://arxiv.org/abs/2512.07766][Formalized Hopfield networks and Boltzmann machines]]. ~ Matteo Cipollina, Michail Karatarakis, Freek Wiedijk. #ITP #LeanProver
