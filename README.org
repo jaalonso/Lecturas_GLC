@@ -81,6 +81,20 @@ its content.
 
 ** Diciembre 2025
 
+*** 14-Dic-25
++ [[https://joomy.korkutblech.com/papers/game-trees-cpp26.pdf][A rose tree is blooming (Proof Pearl)]]. ~ Joomy Korkut. #ITP #Rocq
++ [[https://arxiv.org/abs/2512.09280v1][A modular Lean 4 framework for confluence and strong normalization of lambda calculi with products and sums]]. ~ Arthur Ramos, Anjolina Oliveira, Ruy de Queiroz, Tiago de Veras. #ITP #LeanProver
++ [[https://link.springer.com/article/10.1007/s40753-021-00140-1][Learning about proof with the theorem prover Lean: the abundant numbers task]]. ~ Athina Thoma, Paola Iannone. #ITP #LeanProver #Math
++ [[https://github.com/pitmonticone/ItaLean2025/raw/main/presentations/AlexBest.pdf][So, computers can prove theorems (in Lean), what’s next?]] ~ Alex J. Best. #AI #Math #ITP #LeanProver
++ [[https://github.com/pitmonticone/ItaLean2025/raw/main/presentations/AlexKontorovich.pdf][Lessons from the PrimeNumberTheorem+ project and real analysis game]]. ~ Alex Kontorovich. #ITP #LeanProver #Math
++ [[https://github.com/pitmonticone/ItaLean2025/raw/main/presentations/EmilyRiehl.pdf][Challenges in (auto)formalizing category theory]]. ~ Emily Riehl. #ITP #LeanProver #Math
++ [[https://github.com/pitmonticone/ItaLean2025/raw/main/presentations/LeonardoDeMoura.pdf][The making of Lean]]. ~ Leo de Moura. #ITP #LeanProver
++ [[https://github.com/pitmonticone/ItaLean2025/raw/main/presentations/MichaelRothgang_Carleson.pdf][The Carleson project: formalization and collaboration]]. ~ Michael B. Rothgang. #ITP #LeanProver
++ [[https://github.com/pitmonticone/ItaLean2025/raw/main/presentations/MichaelRothgang_DifferentialGeometry.pdf][Differential geometry in Mathlib]]. ~ Michael B. Rothgang. #ITP #LeanProver
++ [[https://github.com/pitmonticone/ItaLean2025/raw/main/presentations/RemyDegenne_BrownianMotion.pdf][Brownian motion and stochastic integrals]]. ~ Rémy Degenne et als. #ITP #LeanProver #Math
++ [[https://github.com/pitmonticone/ItaLean2025/raw/main/presentations/RemyDegenne_Probability.pdf][Probability theory in Mathlib]]. ~ Rémy Degenne. #ITP #LeanProver #Math
++ [[https://www.youtube.com/live/z9V59Y0VDcg][The Haskell Unfolder Episode 52: Bidirectional parsing and printing (of JSON)]]. ~ Edsko de Vries, Andres Löh. #Haskell #FunctionalProgramming
+
 *** 10-Dic-25
 + [[https://arxiv.org/abs/2512.05878][Complex bounded operators in Isabelle/HOL]]. ~ Dominique Unruh, José Manuel Rodríguez Caballero. #ITP #IsabelleHOL #Math
 + [[https://arxiv.org/abs/2510.24818][Formalization of Auslander-Buchsbaum-Serre criterion in Lean4]]. ~ Naillin Guan, Yongle Hu. #ITP #LeanProver #Math
