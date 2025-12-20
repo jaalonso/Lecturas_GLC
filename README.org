@@ -81,6 +81,14 @@ its content.
 
 ** Diciembre 2025
 
+*** 19-Dic-25
++ [[https://cledmonds.github.io/anulss2025/][Proof engineering for program logics in Isabelle/HOL]]. ~ Chelsea L. Edmonds. #ITP #IsabelleHOL
++ [[https://cledmonds.github.io/mgs2025/][Modular proofs in Isabelle/HOL]]. ~ Chelsea L. Edmonds. #ITP #IsabelleHOL
++ [[https://martin.kleppmann.com/2025/12/08/ai-formal-verification.html][Prediction: AI will make formal verification go mainstream]]. ~ Martin Kleppmann. #AI #LLMs #ITP #LeanProver #IsabelleHOL #Rocq
++ [[https://www.ulam.ai/research/deepalgebra2.pdf][Mathematics in the age of Large Language Models]]. ~ Przemyslaw Chojecki. #AI #Math
++ [[https://arxiv.org/abs/2511.07420][Advancing mathematics research with generative AI]]. ~ Lisa Carbone. #AI #Math #ITP #LeanProver
++ [[https://www.gaussianos.com/el-triangulo-de-pascal-y-las-ternas-pitagoricas/][El triángulo de Pascal y las ternas pitagóricas]]. ~ Miguel Ángel Morales. #Matemáticas
+
 *** 14-Dic-25
 + [[https://joomy.korkutblech.com/papers/game-trees-cpp26.pdf][A rose tree is blooming (Proof Pearl)]]. ~ Joomy Korkut. #ITP #Rocq
 + [[https://arxiv.org/abs/2512.09280v1][A modular Lean 4 framework for confluence and strong normalization of lambda calculi with products and sums]]. ~ Arthur Ramos, Anjolina Oliveira, Ruy de Queiroz, Tiago de Veras. #ITP #LeanProver
