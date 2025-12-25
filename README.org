@@ -81,6 +81,13 @@ its content.
 
 ** Diciembre 2025
 
+*** 24-Dic-25
++ [[https://sdiehl.github.io/zero-to-qed][From zero to QED: An informal introduction to formality with Lean 4]]. ~ Stephen Diehl. #ITP #LeanProver
++ [[https://arxiv.org/abs/2512.13999v1][A verified implementation of the Misra and Gries edge coloring algorithm]]. ~ Arohee Bhoja. #ITP #LeanProver
++ [[https://www.math.uni-bonn.de/people/rothgang/slides_Potsdam2025.pdf][Formalising differential geometry in Lean]]. ~ Michael B. Rothgang. #ITP #LeanProver #Math
++ [[https://youtu.be/ObbUXDg7g-I][Metaprogramming your IDE in Lean 4]]. ~ Harry Goldstein, Richard Feldman. #ITP #LeanProver
++ [[https://arxiv.org/abs/2512.14252v1][Gödel's Poetry]]. ~ Kelly J. Davis. #ITP #LeanProver #AI #LLMs
+
 *** 19-Dic-25
 + [[https://cledmonds.github.io/anulss2025/][Proof engineering for program logics in Isabelle/HOL]]. ~ Chelsea L. Edmonds. #ITP #IsabelleHOL
 + [[https://cledmonds.github.io/mgs2025/][Modular proofs in Isabelle/HOL]]. ~ Chelsea L. Edmonds. #ITP #IsabelleHOL
