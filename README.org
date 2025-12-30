@@ -81,6 +81,29 @@ its content.
 
 ** Diciembre 2025
 
+*** 29-Dic-25
++ [[https://joshclune.github.io/pdfs/QuerySMT.pdf][Hint-based SMT proof reconstruction]]. ~ Joshua Clune, Haniel Barbosa, Jeremy Avigad. #ITP #LeanProver #SMT
++ [[https://www.newscientist.com/article/2503500-the-biggest-controversy-in-maths-could-be-settled-by-a-computer/][The biggest controversy in maths could be settled by a computer]]. Alex Wilkins. #ITP #LeanProver #Math
++ [[https://www.kurims.kyoto-u.ac.jp/~motizuki/IUT-report-2025-10.pdf][Report on the current situation surrounding inter-universal Teichmüller theory (IUT)]]. ~ Shinichi Mochizuki. #Math #ITP #LeanProver
++ [[https://www.mdpi.com/2227-7390/14/1/61][The machine-checked complete formalization of Landau’s foundations of analysis in Rocq]]. ~ Yue Guan, Yaoshun Fu, Xiangtao Meng. #ITP #Rocq #Math
++ [[https://hal.science/hal-05428143/][Formal verification of Borrow-Checking by local commutation diagrams]]. ~ Alban Reynaud Michez. #ITP #Rocq
++ [[https://philarchive.org/archive/MEITUL][The unnegatable loop: Tetralemma's performative geometry (with Coq-verification)]]. ~ Siegfried Meister. #ITP #CoqLang
++ [[https://hal.science/hal-05428166/document#page=17][Une sémantique de Kahn mécanisée pour les machines à états]]. ~ Timothy Bourke, Paul Jeanmaire, Marc Pouzet. #ITP #Rocq
++ [[https://hal.science/hal-05428166/document#page=35][Algebraizing higher-order effects]]. ~ Martin Andrieux, Alan Schmitt. #ITP #Agda
++ [[https://ceur-ws.org/Vol-4142/paper4.pdf][NAMOR: a new Agda library for modal extended sequents]]. ~ Riccardo Borsetto, Margherita Zorzi. #ITP #Agda
++ [[https://hal.science/hal-05428166/document#page=194][Formalisation de la stabilité de l’erreur d’estimation de l’inclinaison d’un robot]]. ~ Lynda Bentoucha, Reynald Affeldt. #ITP #Rocq
++ [[https://hal.science/hal-05428166/document#page=205][Tacq: Context aware tactic recommendation for Rocq]]. ~ Jules Viennot, Guillaume Baudart, Emilio Jesús Gallego Arias, Marc Lelarge, Theo Stoskopf. #ITP #Rocq
++ [[https://hal.science/hal-05428166/document#page=219][Assignments and strategies in democratic forking analysed with Isabelle/HOL]]. ~ Jan-Georg Smaus. #ITP #IsabelleHOL
++ [[https://www.isa-afp.org/entries/Dynamic_Pushdown_Networks.html][Dynamic pushdown networks (in Isabelle/HOL)]]. ~ Peter Lammich. #ITP #IsabelleHOL
++ [[https://www.isa-afp.org/entries/Set_Reconciliation.html][Set reconciliation (in Isabelle/HOL)]]. ~ Paul Hofmeier, Emin Karayel. #ITP #IsabelleHOL
++ [[https://hal.science/hal-05428166/document#page=48][On the design and implementation of Modular Explicits]]. ~ Samuel Vivien, Didier Rémy, Gabriel Scherer. #OCaml #FunctionalProgramming
++ [[https://hal.science/hal-05428166/document#page=68][Mapping and explaining syntax errors with LRgrep]]. ~ Frédéric Bour, François Pottier. #OCaml #FunctionalProgramming
++ [[https://hal.science/hal-05428166/document#page=89][Cairn : Trouver son chemin dans Menhir]]. ~ Vincent Penelle. #OCaml #FunctionalProgramming
++ [[https://blog.jle.im/entry/advent-of-code-2025.html][Advent of Code 2025: Haskell solution reflections for all 12 days]]. ~ Justin Le. #Haskell #FunctionalProgramming
++ [[https://carnap.io/][Carnap: a free and open software framework written in Haskell for teaching and studying formal logic]]. #Haskell #FunctionalProgramming #Logic
++ [[https://arxiv.org/abs/2512.19287v1][Vibe reasoning: Eliciting frontier AI mathematical capabilities (A case study on IMO 2025 Problem 6)]]. ~ Jiaao Wu, Xian Zhang, Fan Yang, Yinpeng Dong. #AI #Math
++ [[https://cohn.mit.edu/advice/][Advice for amateur mathematicians on writing and publishing papers]]. ~ Henry Cohn. #Math
+
 *** 24-Dic-25
 + [[https://sdiehl.github.io/zero-to-qed][From zero to QED: An informal introduction to formality with Lean 4]]. ~ Stephen Diehl. #ITP #LeanProver
 + [[https://arxiv.org/abs/2512.13999v1][A verified implementation of the Misra and Gries edge coloring algorithm]]. ~ Arohee Bhoja. #ITP #LeanProver
