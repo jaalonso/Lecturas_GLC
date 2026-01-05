@@ -10,6 +10,8 @@ At the end of each article you will find tags related to the systems it uses or
 its content.
 
 * Content                                                                      :TOC:
+- [[#lecturas-del-año-2026][Lecturas del año 2026]]
+  - [[#enero-2026][Enero 2026]]
 - [[#lecturas-del-año-2025][Lecturas del año 2025]]
   - [[#diciembre-2025][Diciembre 2025]]
   - [[#noviembre-2025][Noviembre 2025]]
@@ -76,6 +78,23 @@ its content.
   - [[#febrero-2021][Febrero 2021]]
   - [[#enero-2021][Enero 2021]]
 - [[#lecturas-anteriores][Lecturas anteriores]]
+
+* Lecturas del año 2026
+
+** Enero 2026
+
+*** 04-Ene-26
++ [[https://youtu.be/4ykbHwZQ8iU][Terry Tao on the future of mathematics]]. #AI #Math #ITP #LeanProver
++ [[https://www.joachim-breitner.de/blog/818-Seemingly_impossible_programs_in_Lean][Seemingly impossible programs in Lean]]. ~ Joachim Breitner. #ITP #LeanProver
++ [[https://madvorak.github.io/2026_Dvorak_Martin_Thesis_draft.pdf][Pursuit of truth and beauty in Lean 4 (Formally verified theory of grammars, optimization, matroids)]]. ~ Martin Dvořák. #ITP #LeanProver
++ [[https://jipsen.github.io/slides/JipsenLATD2025.pdf][Computing and formalizing residuated lattices and relation algebras]]. ~ Peter Jipsen. #ITP #LeanProver
++ [[https://riyazahuja.com/assets/clean_writeup.pdf][cLean: A verified domain-specific language for GPU kernel programming in Lean 4]]. ~ Riyaz Ahuja. #ITP #LeanProver
++ [[https://www.cbmsweb.org/wp-content/uploads/2025/12/Ruthotto-CompMathAICourse.pdf][Lecture Notes: Computational mathematics and AI (A ten-lecture workshop series)]]. ~ Lars Ruthotto. #AI #Math
++ [[https://personal.math.vt.edu/day/ProofsBook/][An introduction to proofs and the mathematical vernacular]]. ~ Martin Day. #Math
++ [[https://textbooks.aimath.org/][Open textbook initiative (The American Institute of Mathematics (AIM))]]. #Math
++ [[https://open.umn.edu/opentextbooks/subjects/mathematics][Open textbook library: Mathematics textbooks]]. #Math
++ [[https://protesilaos.com/codelog/2025-12-27-emacs-lisp-elements-epub-pdf/][Emacs Lisp Elements: EPUB and PDF versions now available]]. ~ Protesilaos Stavrou. #Emacs #Lisp
+
 
 * Lecturas del año 2025
 
