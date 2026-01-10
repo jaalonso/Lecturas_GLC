@@ -83,6 +83,9 @@ its content.
 
 ** Enero 2026
 
+*** 09-Ene-26
++ [[https://www.andrew.cmu.edu/user/avigad/Papers/mathematical_understanding.pdf][Mathematical understanding]]. ~ Jeremy Avigad. #Math #AI
+
 *** 04-Ene-26
 + [[https://youtu.be/4ykbHwZQ8iU][Terry Tao on the future of mathematics]]. #AI #Math #ITP #LeanProver
 + [[https://www.joachim-breitner.de/blog/818-Seemingly_impossible_programs_in_Lean][Seemingly impossible programs in Lean]]. ~ Joachim Breitner. #ITP #LeanProver
