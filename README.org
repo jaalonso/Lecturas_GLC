@@ -83,6 +83,17 @@ its content.
 
 ** Enero 2026
 
+*** 14-Ene-26
++ [[https://dl.acm.org/doi/pdf/10.1145/3779031.3779093][A lambda-superposition tactic for Isabelle/HOL]]. ~ Massin Guerdi. #ITP #IsabelleHOL
++ [[https://dl.acm.org/doi/pdf/10.1145/3779031.3779099][Adding sorts to an Isabelle formalization of superposition]]. ~ Balazs Toth, Martin Desharnais-Schäfer, Jasmin Blanchette. #ITP #IsabelleHOL
++ [[https://web.stanford.edu/class/cs99/][Functional programming and theorem proving in Lean 4]]. ~ Leni Aniva, Abdalrhman Mohamed. #LeanProver #FunctionalProgramming #ITP
++ [[https://dl.acm.org/doi/pdf/10.1145/3779031.3779100][Cylindrical algebraic decomposition in Coq/Rocq]]. ~ Quentin Vermande. #ITP #RocqProver
++ [[https://dl.acm.org/doi/pdf/10.1145/3779031.3779097][Computing solutions for systems of multivariate ordinary differential equations in Rocq]]. ~ Holger Thies- #ITP #RocqProver
++ [[https://dl.acm.org/doi/pdf/10.1145/3779209.3779534][Computation-tree semantics: An algorithmic approach to structurally defined relations]]. ~ Sean Kristian Remond Harbo, Hans Hüttel. #ITP #RocqProver
++ [[https://dl.acm.org/doi/pdf/10.1145/3776710][Formal verification for JavaScript regular expressions: A proven mechanized semantics and its applications]]. ~ Aurèle Barrière, Victor Deng, Clément Pit-Claudel. #ITP #RocqProver
++ [[https://arxiv.org/abs/2601.03298v1][130k lines of formal topology in two weeks: Simple and cheap autoformalization for everyone?]] ~ Josef Urban. #ITP #Mizar #LLMs #Math #Autoformalization
++ [[https://www.quantamagazine.org/using-ai-mathematicians-find-hidden-glitches-in-fluid-equations-20260109/][Using AI, mathematicians find hidden glitches in fluid equations]]. ~ Charlie Wood. #AI #Math
+
 *** 09-Ene-26
 + [[https://www.andrew.cmu.edu/user/avigad/Papers/mathematical_understanding.pdf][Mathematical understanding]]. ~ Jeremy Avigad. #Math #AI
 
