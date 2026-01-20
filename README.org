@@ -83,6 +83,17 @@ its content.
 
 ** Enero 2026
 
+*** 19-Ene-26
++ [[https://lawrencecpaulson.github.io/2026/01/15/Broken_proofs.html][Broken proofs and broken provers]]. ~ Lawrence Paulson. #ITP #IsabelleHOL #RocqProver #LeanProver
++ [[https://arxiv.org/abs/2502.03432][A formalization of Borel determinacy in Lean]]. ~ Sven Manthe. #ITP #LeanProver #Math
++ [[https://arxiv.org/abs/2601.07444v1][Formalization of amicable numbers theory]]. ~ Zhipeng Chen, Haolun Tang, Jingyi Zhan. #ITP #LeanProver
++ [[https://arxiv.org/abs/2601.07421v3][Resolution of Erdős problem #728: a writeup of Aristotle's Lean proof]]. ~ Nat Sothanaphan. #AI #Math #LLMs #ITP #LeanProver
++ [[https://mehmetmars7.github.io/Erdosproblems-llm-hunter][Erdos Problems LLM Hunter (A collection of attempts by advanced Large Language Models (LLMs) to solve open mathematical problems from the Erdős Problems collection and MathOverflow)]]. ~ Paata Ivanisvili. #AI #Math
++ [[https://arxiv.org/abs/2601.03836v1][Logic programming with extensible types]]. ~ Ivan Perez, Angel Herranz. #Haskell #FunctionalProgramming #Prolog #LogicProgramming
++ [[https://exploring-better-ways.bellroy.com/some-haskell-idioms-we-like.html][Some Haskell idioms we like]]. ~ Jack Kelly. #Haskell #FunctionalProgramming
++ [[https://medium.com/@kenichisasagawa/playing-with-g%C3%B6dels-incompleteness-theorem-in-prolog-2c549f1e8762][Playing with Gödel’s incompleteness theorem in Prolog]]. ~ Kenichi Sasagawa. #Prolog #LogicProgramming #Logic
++ [[https://siddhartha-gadgil.github.io/automating-mathematics/posts/mathematics-as-natural-science-in-ai-era/][Mathematics as natural science in the era of AI]]. ~ Siddhartha Gadgil. #Math #AI
+
 *** 14-Ene-26
 + [[https://dl.acm.org/doi/pdf/10.1145/3779031.3779093][A lambda-superposition tactic for Isabelle/HOL]]. ~ Massin Guerdi. #ITP #IsabelleHOL
 + [[https://dl.acm.org/doi/pdf/10.1145/3779031.3779099][Adding sorts to an Isabelle formalization of superposition]]. ~ Balazs Toth, Martin Desharnais-Schäfer, Jasmin Blanchette. #ITP #IsabelleHOL
