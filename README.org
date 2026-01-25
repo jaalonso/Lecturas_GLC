@@ -83,6 +83,21 @@ its content.
 
 ** Enero 2026
 
+*** 24-Ene-26
++ [[https://www.isa-afp.org/entries/Abel_Limit_Theorem.html][Abel's limit theorem (in Isabelle/HOL)]]. ~ Kangfeng Ye. #ITP #IsabelleHOL #Math
++ [[https://inria.hal.science/hal-05467238/file/thesis.pdf][A formalization of the downward Löwenheim-Skolem theorem in Coq]]. ~ Timothée Huneau. #ITP #CoqProver #Logic #Math
++ [[https://cic.iacr.org/p/2/4/1][Formally verified number-theoretic transform]]. ~ Alix Trieu. #ITP #RocqProver
++ [[https://inria.hal.science/hal-05464922/file/Reusing_HOLLight_library_in_Rocq-7.pdf][The HOL-Light library of multivariate real analysis in Rocq]]. ~ Claudio Sacerdoti Coen, Abdelghani Alidra, Frédéric Blanqui. #ITP #RocqProver #HOL_Light #Math
++ [[https://arxiv.org/abs/2601.12592v1][Blurred drinker paradoxes and blurred choice axioms: Constructive reverse mathematics of the downward Löwenheim-Skolem theorem]]. ~ Dominik Kirst, Haoyi Zeng. #ITP #CoqProver #Logic #Math
++ [[https://arxiv.org/abs/2601.12599v1][Elementary proofs of ring commutativity theorems]]. ~ Michael Kinyon, Desmond MacHale. #ATP #Prover9 #Math
++ [[https://arxiv.org/abs/2601.15571][Verified polynomial-time reductions in Lean 4: formalizing the complexity of decision-relevant information]]. ~ Tristan Simas. #ITP #LeanProver
++ [[https://arxiv.org/abs/2601.11757v1][Sequencelib: A computational platform for formalizing the OEIS in Lean]]. ~ Walter Moreira, Joe Stubbs. #ITP #LeanProver #Math
++ [[https://provables.org/sequencelib/][Sequencelib: A platform for formalizing OEIS sequences in Lean 4]]. ~ Walter Moreira, Joe Stubbs. #ITP #LeanProver #Math
++ [[https://arxiv.org/abs/2601.14027v1][Numina-Lean-agent: An open and general agentic reasoning system for formal mathematics]]. ~ Junqi Liu et als. #ITP #LeanProver #Math
++ [[https://atcm.mathandtech.org/EP2025/invited/22361.pdf][ChatGPT and AI enhancing undergrad math]]. ~ Matthias Kawski. #AI #Math
++ [[https://arxiv.org/abs/2601.13209v2][AI for mathematics: Progress, challenges, and prospects]]. ~ Haocheng Ju, Bin Dong. #AI #Math #AI4Math #ITP #IsabelleHOL #CoqProver #LeanProver
++ [[https://francis.naukas.com/2026/01/23/sobre-la-resolucion-de-problemas-de-erdos-usando-inteligencia-artificial-generativa/][Sobre la resolución de problemas de Erdős usando inteligencia artificial generativa]]. ~ Francisco R. Villatoro. #AI #Math #ITP #LeanProver
+
 *** 19-Ene-26
 + [[https://lawrencecpaulson.github.io/2026/01/15/Broken_proofs.html][Broken proofs and broken provers]]. ~ Lawrence Paulson. #ITP #IsabelleHOL #RocqProver #LeanProver
 + [[https://arxiv.org/abs/2502.03432][A formalization of Borel determinacy in Lean]]. ~ Sven Manthe. #ITP #LeanProver #Math
