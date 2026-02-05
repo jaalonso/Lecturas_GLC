@@ -11,6 +11,7 @@ its content.
 
 * Content                                                                      :TOC:
 - [[#lecturas-del-año-2026][Lecturas del año 2026]]
+  - [[#febrero-2026][Febrero 2026]]
   - [[#enero-2026][Enero 2026]]
 - [[#lecturas-del-año-2025][Lecturas del año 2025]]
   - [[#diciembre-2025][Diciembre 2025]]
@@ -80,6 +81,28 @@ its content.
 - [[#lecturas-anteriores][Lecturas anteriores]]
 
 * Lecturas del año 2026
+
+** Febrero 2026
+
+*** 04-Feb-26
++ [[https://blog.jle.im/entry/five-point-haskell-part-1-total-depravity.html]["Five-Point Haskell": Total depravity (and defensive typing)]]. ~ Justin Le. #Haskell #FunctionalProgramming
++ [[https://www.isa-afp.org/entries/Sets_Revisited.html]['Sets' revisited: Working with a large category in Isabelle/HOL]]. ~ Eugene W. Stark. #ITP #IsabelleHOL
++ [[https://youtu.be/AJfoqKDenpw][A conversation on the future of mathematics]]. ~ Emily Riehl, Jesse Han, Jared Duker Lichtman. #ITP #LeanProver #Math
++ [[https://www.philipzucker.com/leancall/][Calling Lean functions as Python functions]]. ~ Philip Zucker. #ITP #LeanProver #Python
++ [[https://arxiv.org/abs/2601.19809v1][Commutative algebras of series]]. ~ Lorenzo Clemente. #ITP #Agda #Math
++ [[https://arxiv.org/abs/2602.01291v1][Construction-verification: A benchmark for applied mathematics in Lean 4]]. ~ Bowen Yang et als. #AI4Math #ITP #LeanProver
++ [[https://arxiv.org/abs/2601.18005v1][Flow-based extremal mathematical structure discovery]]. ~ Gergely Bérczi, Baran Hashemi, Jonas Klüver. #AI4Math
++ [[https://arxiv.org/abs/2601.21734v1][Formalization of non-Archimedean functional analysis 1: spherically complete spaces]]. ~ Yijun Yuan. #ITP #LeanProver #Math
++ [[https://lukastymo.com/posts/025-hello-haskell-a-hands-on-lab-for-2026/][Hello, Haskell: Getting started in 2026]]. ~ Lukasz Tymoszczuk. #Haskell #FunctionalProgramming
++ [[https://arxiv.org/abs/2601.21442][Irrationality of rapidly converging series: a problem of Erdős and Graham]]. ~ Kevin Barreto, Jiwon Kang, Sang-hyun Kim, Vjekoslav Kovač, Shengtong Zhang. #AI4Math
++ [[https://arxiv.org/abs/2601.22554v1][LeanArchitect: Automating blueprint generation for humans and AI]]. ~ Thomas Zhu, Pietro Monticone, Jeremy Avigad, Sean Welleck. #AI4Math #ITP #LeanProver
++ [[https://arxiv.org/abs/2602.02091][Mechanized undecidability of higher-order beta-matching]]. ~ Andrej Dudenhefner. #ITP #CoqProver
++ [[https://kmicinski.com//cis352-s26/#schedule][Principles of programming languages]]. ~ Kristopher Micinski. #Programming #RacketLang
++ [[https://kaue.me/wealth/career/propositional-logic-proofs-using-lean-4/][Propositional logic proofs using Lean 4]]. ~ Kaue Silveira. #ITP #LeanProver #Logic #Math
++ [[https://youtu.be/MH3lG7V7SuU][Recent advances in LLMs for mathematics]]. ~ Sebastien Bubeck. #AI4Math
++ [[https://arxiv.org/abs/2601.22401v1][Semi-autonomous mathematics discovery with Gemini: A case study on the Erdős problems]]. ~ Tony Feng et als. #AI4Math #ITP #LeanProver
++ [[https://arxiv.org/abs/2601.21843v1][The Leibniz adjunction in homotopy type theory, with an application to simplicial type theory]]. ~ Tom de Jong, Nicolai Kraus, Axel Ljungström. #ITP #Agda
++ [[https://unnamed.website/posts/evolution-lean-programmer/][The evolution of a Lean programmer]]. #ITP #LeanProver #FunctionalProgramming
 
 ** Enero 2026
 
