@@ -84,6 +84,18 @@ its content.
 
 ** Febrero 2026
 
+*** 09-Feb-26
++ [[https://github.com/mrdouglasny/OSforGFF][A Lean 4 formalization of the gaussian free field in d=4 and proof of the Osterwalder-Schrader axioms]]. ~ Michael R. Douglas, Sarah Hoback, Anna Mei, Ron Nissim. #ITP #LeanProver
++ [[https://xenaproject.wordpress.com/2026/02/09/accelerating-mathematics/][Accelerating mathematics]]. ~ Kevin Buzzard. #AI4Math #ITP #LeanProver
++ [[https://arxiv.org/abs/2602.04846v1][CSLib: The Lean computer science library]]. ~ Clark Barrett, Swarat Chaudhuri, Fabrizio Montesi, Jim Grundy, Pushmeet Kohli, Leonardo de Moura, Alexandre Rademaker, Sorrachai Yingchareonthawornchai. #ITP #LeanProver #CompSci
++ [[https://arxiv.org/abs/2602.03716v1][Fel's conjecture on syzygies of numerical semigroups]]. ~ Evan Chen et als. #ITP #LeanProver #Math
++ [[https://escholarship.org/content/qt7d89k0th/qt7d89k0th.pdf][Formalization of Weyl’s law and its implementation into Lean code]]. ~ Zhibin Huang. #ITP #LeanProver #Math
++ [[https://www.preprints.org/frontend/manuscript/a320788ea980ba7065547e61ebc49208/download_pub][Inequalities for octad weights in M24 a computational framework formalized in Lean 4]]. ~ Yoshihiro Hasegawa. #ITP #LeanProver
++ [[https://arxiv.org/abs/2602.02285v1][Statistical learning theory in Lean 4: Empirical processes from scratch]]. ~ Yuanhe Zhang, Jason D. Lee, Fanghui Liu. #ITP #LeanProver
++ [[https://ceur-ws.org/Vol-4157/paper6.pdf][Towards trustworthy AI results using evidence structures: From certificates to argumentation frameworks]]. ~ Shawn Bowers1, Bertram Ludäscher. #ITP #LeanProver
++ [[https://www.repository.cam.ac.uk/bitstreams/eaa64944-8cd5-4cc3-8ff1-028e9b5a1cac/download][Formal P‑category theory and normalisation for simple type theory]]. ~ David George Berry. #ITP #RocqProver
++ [[https://arxiv.org/abs/2602.05059v1][Evaluating Large Language Models on solved and unsolved problems in graph theory: Implications for computing education]]. ~ Adithya Kulkarni, Mohna Chakraborty, Jay Bagga. #AI4Math
+
 *** 04-Feb-26
 + [[https://blog.jle.im/entry/five-point-haskell-part-1-total-depravity.html]["Five-Point Haskell": Total depravity (and defensive typing)]]. ~ Justin Le. #Haskell #FunctionalProgramming
 + [[https://www.isa-afp.org/entries/Sets_Revisited.html]['Sets' revisited: Working with a large category in Isabelle/HOL]]. ~ Eugene W. Stark. #ITP #IsabelleHOL
