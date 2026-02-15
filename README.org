@@ -84,6 +84,27 @@ its content.
 
 ** Febrero 2026
 
+*** 14-Feb-26
++ [[https://www.preprints.org/manuscript/202602.0408][Formalization of the Golay-Hopf machine: A unified algebraic framework for Hida, Iwasawa, and Yang-Baxter structures]]. ~ Yoshihiro Hasegawa. #ITP #LeanProver
++ [[https://rkirov.github.io/posts/lean1][Learning Lean (part 1)]]. ~ Rado Kirov. #ITP #LeanProver #Math
++ [[https://rkirov.github.io/posts/lean5/][Leaning on AI]]. ~ Rado Kirov. #LeanProver #ITP #AI4Math
++ [[https://rkirov.github.io/posts/lean2][Learning Lean (part 2)]]. ~ Rado Kirov. #ITP #LeanProver #Math
++ [[https://rkirov.github.io/posts/lean3][Learning Lean (part 3)]]. ~ Rado Kirov. #ITP #LeanProver #Math
++ [[https://rkirov.github.io/posts/lean4][Learning Lean (part 4)]]. ~ Rado Kirov. #ITP #LeanProver #Math
++ [[https://youtu.be/SuTxpKggY30][Machine assistance and the future of research mathematics]]. ~ Terence Tao. #AI4Math #ITP #LeanProver
++ [[https://arxiv.org/abs/2602.08692][PBLean: Pseudo-boolean proof certificates for Lean 4]]. ~ Stefan Szeider. #ITP #LeanProver
++ [[https://rkirov.github.io/posts/why_lean/][Why formalize mathematics - more than catching errors]]. ~ Rado Kirov. #ITP #LeanProver #Math
++ [[https://arxiv.org/abs/2602.07455v1][RustCompCert: A verified and verifying compiler for a sequential subset of Rust]]. ~ Jinhua Wu, Yuting Wang, Liukun Yu, Linglong Meng. #ITP #CoqProver #RustLang
++ [[https://arxiv.org/abs/2602.10844v1][Generalized decidability via Brouwer trees]]. ~ Tom de Jong, Nicolai Kraus, Aref Mohammadzadeh, Fredrik Nordvall Forsberg. #Agda #ITP
++ [[https://arxiv.org/abs/2504.03460v1][Verified program extraction in number theory: The fundamental theorem of arithmetic and relatives]]. ~ Franziskus Wiesnet. #Minlog #Haskell #FunctionalProgramming
++ [[https://blog.samibadawi.com/2013/05/lisp-prolog-and-evolution.html][LISP, Prolog and evolution]]. ~ Sami Badawi. #FunctionalProgramming #Lisp #Prolog #Haskell #Clojure
++ [[https://arxiv.org/abs/2602.12131v1][Hilbert's program and infinity]]. ~ Richard Zach. #Logic #Math
++ [[https://deepmind.google/blog/accelerating-mathematical-and-scientific-discovery-with-gemini-deep-think/][Accelerating mathematical and scientific discovery with Gemini Deep Think]]. ~ Thang Luong and Vahab Mirrokni. #AI4Math
++ [[https://arxiv.org/abs/2602.03837][Accelerating scientific research with Gemini: Case studies and common techniques]]. ~ David P. Woodruff et als. #AI4Math
++ [[https://drive.google.com/drive/folders/10XYZPoSsPjYfXkqI7xshcDl70rPKIMh1][LLMs for math research]]. ~ Dmitry Rybin. #AI4Math #ITP #LeanProver
++ [[https://drive.google.com/file/d/1VQk1_Se74ffYrTs1u5dUXq9gnxuzkMFv/view][To be a frog with wings, should you choose (Recent progress on AI for mathematics and how to get involved)]]. ~ Kevin Barreto. #AI4Math #ITP #LeanProver
++ [[https://arxiv.org/abs/2602.10177v1][Towards autonomous mathematics research]]. ~ Tony Feng et als. #AI4Math
+
 *** 09-Feb-26
 + [[https://github.com/mrdouglasny/OSforGFF][A Lean 4 formalization of the gaussian free field in d=4 and proof of the Osterwalder-Schrader axioms]]. ~ Michael R. Douglas, Sarah Hoback, Anna Mei, Ron Nissim. #ITP #LeanProver
 + [[https://xenaproject.wordpress.com/2026/02/09/accelerating-mathematics/][Accelerating mathematics]]. ~ Kevin Buzzard. #AI4Math #ITP #LeanProver
