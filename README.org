@@ -84,6 +84,21 @@ its content.
 
 ** Febrero 2026
 
+*** 19-Feb-26
++ [[https://arxiv.org/abs/2602.15409v1][Hennessy-Milner logic in CSLib, the Lean computer science library]]. ~ Fabrizio Montesi, Marco Peressotti, Alexandre Rademaker. #LeanProver #ITP #CSLib #CompSci
++ [[https://arxiv.org/abs/2602.15078v1][Computer science as infrastructure: the spine of the Lean computer science library (CSLib)]]. ~ Christopher Henson, Fabrizio Montesi. #LeanProver #ITP #CSLib #CompSci
++ [[https://arxiv.org/abs/2602.12891][Pursuit of truth and beauty in Lean 4: Formally verified theory of grammars, optimization, matroids]]. ~ Martin Dvorak. #LeanProver #ITP #Math #CompSci
++ [[https://rish987.github.io/files/thesis.pdf][Translating proofs from Lean to Dedukti]]. ~ Rishikesh Vaishnav. #LeanProver #Dedukti #ITP
++ [[https://rkirov.github.io/posts/sets-vs-types/][From sets in math to types in Lean: Subtype, Fin, Set, Finset, and Fintype]]. ~ Rado Kirov. #LeanProver #ITP
++ [[https://arxiv.org/abs/2602.08384v1 ][Towards real-world industrial-scale verification: LLM-driven theorem proving on seL4]]. ~ Jianyu Zhang et als. #IsabelleHOL #ITP #LLMs
++ [[https://arxiv.org/abs/2602.11035v1][Towards term-based verification of diagrammatic equivalence]]. ~ Julie Cailler, Noé Delorme, Simon Perdrix, Sophie Tourret. #IsabelleHOL #ITP
++ [[https://www.mdpi.com/2297-8747/31/1/25][A Rocq-based formalization of Hilbert’s geometry: Building a reusable foundation for 3D perpendicularity theory and verification]]. ~ Qimeng Zhang, Wensheng Yu. #RocqProver #ITP #Math
++ [[https://reference-global.com/download/article/10.2478/forma-2025-0008.pdf][A formal proof of Stirling’s formula]]. ~ Yasushige Watase. #Mizar #ITP #Math
++ [[https://arxiv.org/abs/2602.16324v1][Case study: Saturations as explicit models in equational theories]]. ~ Mikoláš Janota, Michael Rawson, Stephan Schulz. #ATP #Vampire
++ [[https://leodemoura.github.io/blog/2026/02/18/proof-assistants-in-the-age-of-ai.html][Proof assistants in the age of AI]]. ~ Leonardo de Moura. #AI4Math #ITP
++ [[https://arxiv.org/abs/2412.16543v1][Mathematics and machine creativity: A Survey on bridging mathematics with AI]]. ~ Shizhe Liang, Wei Zhang, Tianyang Zhong. #AI4Math #ITP
++ [[http://jaalonso.github.io/exercitium/posts/2015/02/24-matriz_zigzagueante/][#Exercitium: Matriz zigzagueante]]. #Haskell #FunctionalProgramming #Math
+
 *** 14-Feb-26
 + [[https://www.preprints.org/manuscript/202602.0408][Formalization of the Golay-Hopf machine: A unified algebraic framework for Hida, Iwasawa, and Yang-Baxter structures]]. ~ Yoshihiro Hasegawa. #ITP #LeanProver
 + [[https://rkirov.github.io/posts/lean1][Learning Lean (part 1)]]. ~ Rado Kirov. #ITP #LeanProver #Math
