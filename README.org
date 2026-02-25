@@ -84,6 +84,23 @@ its content.
 
 ** Febrero 2026
 
+*** 24-Feb-26
++ [[https://arxiv.org/abs/2602.12772v1][Formalizing Gröbner basis theory in Lean]]. ~ Junyu Guo, Hao Shen, Junqi Liu, Lihong Zhi. #LeanProver #ITP #Math
++ [[https://arxiv.org/abs/2602.13247v1][Integral curves and flows on Banach manifolds in Lean]]. ~ Weichen Winston Yin, Yury Kudryashov. #LeanProver #ITP #Math
++ [[https://arxiv.org/abs/2602.17064v1][Formalization of two fixed-point algorithms in Hilbert spaces]]. ~ Yifan Bai, Yantao Li, Jian Yu, Jingwei Liang. #LeanProver #ITP
++ [[https://arxiv.org/abs/2602.18767v1][Nazrin: Atomic tactics for graph neural networks for theorem proving in Lean 4]]. ~ Leni Aniva, Iori Oikawa, David Dill, Clark Barrett. #LeanProver #ITP
++ [[https://arxiv.org/abs/2503.19605v1][Lean formalization of generalization error bound by Rademacher complexity]]. ~ Sho Sonoda, Kazumi Kasaura, Yuma Mizuno, Kei Tsukamoto, Naoto Onda. #LeanProver #ITP
++ [[https://arxiv.org/abs/2602.18657][DSLean: A framework for type-correct interoperability between Lean 4 and external DSLs]]. ~ Tate Rowney, Riyaz Ahuja, Jeremy Avigad, Sean Welleck. #LeanProver #ITP
++ [[https://link.springer.com/content/pdf/10.1007/s10817-026-09747-y.pdf][A formal correctness proof of Edmonds’ blossom shrinking algorithm]]. ~ Mohammad Abdulaziz, Kurt Mehlhorn. #IsabelleHOL #ITP
++ [[https://arxiv.org/abs/2102.01167v1][Verifying the hashgraph consensus algorithm]]. ~ Karl Crary. #CoqProver #ITP
++ [[https://phart3.github.io/2-groups-preprint.pdf][Classifying 2-groups in Homotopy Type Theory]]. ~ Perry Hart, Owen Milner. #Agda #ITP
++ [[https://arxiv.org/abs/2602.16427][Formalized run-time analysis of active learning - coalgebraically in Agda]]. ~ Thorsten Wißmann. #Agda #ITP
++ [[https://arxiv.org/abs/2602.18844v1][When Agda met Vampire]]. ~ Artjoms Šinkarovs, Michael Rawson. #Agda #ITP #Vampire #ATP
++ [[https://arxiv.org/abs/2602.16809v1][Haskell meets Evariste]]. ~ Paulo R. Pereira, Jose N. Oliveira. #Haskell #FunctionalProgramming
++ [[https://dl.acm.org/doi/full/10.1145/3788649][Math in the age of AI]]. ~ Allyn Jackson. #AI4Math
++ [[https://arxiv.org/abs/2602.17016v1][M2F: Automated formalization of mathematical literature at scale]]. ~ Zichen Wang et als. #AI4Math #ITP #LeanProver
++ [[https://www.arxiv.org/abs/2602.06176][Large language model reasoning failures]]. ~ Peiyang Song, Pengrui Han, Noah Goodman. #LLMs #Reasoning
+
 *** 19-Feb-26
 + [[https://arxiv.org/abs/2602.15409v1][Hennessy-Milner logic in CSLib, the Lean computer science library]]. ~ Fabrizio Montesi, Marco Peressotti, Alexandre Rademaker. #LeanProver #ITP #CSLib #CompSci
 + [[https://arxiv.org/abs/2602.15078v1][Computer science as infrastructure: the spine of the Lean computer science library (CSLib)]]. ~ Christopher Henson, Fabrizio Montesi. #LeanProver #ITP #CSLib #CompSci
