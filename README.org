@@ -11,6 +11,7 @@ its content.
 
 * Content                                                                      :TOC:
 - [[#lecturas-del-año-2026][Lecturas del año 2026]]
+  - [[#marzo-2026][Marzo 2026]]
   - [[#febrero-2026][Febrero 2026]]
   - [[#enero-2026][Enero 2026]]
 - [[#lecturas-del-año-2025][Lecturas del año 2025]]
@@ -81,6 +82,14 @@ its content.
 - [[#lecturas-anteriores][Lecturas anteriores]]
 
 * Lecturas del año 2026
+
+** Marzo 2026
+
+*** 01-Mar-26
++ [[https://www.ulam.ai/research/lean-science.pdf][Lean for science formalization]]. ~ Przemyslaw Chojecki. #LeanProver #ITP
++ [[https://www.joachim-breitner.de/blog/819-Vibe-coding_a_debugger_for_a_DSL][Vibe-coding a debugger for a DSL]]. ~ Joachim Breitner. #LeanProver
++ [[https://hal.science/hal-05526634v1/file/main.pdf][Bidirectional interpolation for the lambda-calculus – Revisiting and formalising Craig-Čubrić interpolation]]. ~ Meven Lennon-Bertrand, Alexis Saurin. #RocqProver #ITP
++ [[https://arxiv.org/abs/2602.20082][Machine-generated, machine-checked proofs for a verified compiler (Experience report)]]. ~ Zoe Paraskevopoulou. #RocqProver #ITP
 
 ** Febrero 2026
 
