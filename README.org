@@ -85,6 +85,18 @@ its content.
 
 ** Marzo 2026
 
+*** 04-Mar-26
++ [[https://leodemoura.github.io/blog/2026/02/28/when-ai-writes-the-worlds-software.html][When AI writes the world’s software, who verifies it?]] ~ Leonardo de Moura. #AI #LeanProver #ITP
++ [[https://thefundamentaltheor3m.github.io/Sphere-Packing-Lean/][Formalising sphere packing in Lean]]. ~ Chris Birkbeck, Sidharth Hariharan, Gareth Ma, Bhavik Mehta, Seewoo Lee, Maryna Viazovska. #LeanProver #ITP #Math
++ [[https://leanprover-community.github.io/blog/posts/SpherePacking-1][The sphere packing project (Post 1: The story)]]. ~ Chris Birkbeck Sidharth Hariharan Seewoo Lee. #LeanProver #ITP #Math
++ [[https://www.math.inc/sphere-packing][Completing the formal proof of higher-dimensional sphere packing]]. #LeanProver #ITP #AI4Math
++ [[https://blog.computationalcomplexity.org/2026/03/the-purpose-of-proofs.html][The purpose of proofs]]. ~ Lance Fortnow. #LeanProver #ITP #AI4Math
++ [[https://arxiv.org/abs/2603.02668v1][SorryDB: Can AI provers complete real-world Lean theorems?]] ~ Austin Letson et als. #LeanProver #ITP #AI
++ [[https://github.com/optpku/ReasBook][ReasBook is a Lean 4 project for formalizing mathematics from textbooks and research papers]]. #LeanProver #ITP #Math
++ [[https://arxiv.org/abs/2603.00487v1][A formally verified constructive proof of the consistency of Peano arithmetic using ordinal assignments]]. ~ Aaron Bryce, Rajeev Goré. #CoqProver #ITP #Math
++ [[https://hal.science/hal-05527340v1/file/article.pdf][Mechanizing the proof of a borrow calculus]]. ~ Alban Reynaud Michez. #RocqProver #ITP
++ [[https://doisinkidney.com/posts/2026-03-03-monus-heaps.html][Monuses and heaps]]. ~ Donnacha Oisín Kidney. #Haskell #FunctionalProgramming
+
 *** 01-Mar-26
 + [[https://www.ulam.ai/research/lean-science.pdf][Lean for science formalization]]. ~ Przemyslaw Chojecki. #LeanProver #ITP
 + [[https://www.joachim-breitner.de/blog/819-Vibe-coding_a_debugger_for_a_DSL][Vibe-coding a debugger for a DSL]]. ~ Joachim Breitner. #LeanProver
