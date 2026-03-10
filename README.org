@@ -85,6 +85,27 @@ its content.
 
 ** Marzo 2026
 
+*** 09-Mar-26
++ [[https://leanprover-community.github.io/blog/posts/simprocs-tutorial/][Fantastic simprocs and how to write them]]. ~ Yaël Dillies, Paul Lezeau. #LeanProver #ITP
++ [[https://arxiv.org/abs/2603.04376][Formalization in Lean of faithfully flat descent of projectivity]]. ~ Liran Shaul. #LeanProver #ITP
++ [[https://youtu.be/JHEO7cplfk8][Formalizing a proof in Lean using Claude Code]]. ~ Terence Tao. #LeanProver #ITP #AI4Math
++ [[https://arxiv.org/abs/2603.08139v1][Formalizing the stability of the two Higgs doublet model potential into Lean: identifying an error in the literature]]. ~ Joseph Tooby-Smith. #LeanProver #ITP #Physics
++ [[https://naokitakata.com/quantum_superradiance_formalization.pdf][Formalizing unstable quasinormal modes and the quantum black hole bomb in Lean 4]]. ~ Naoki Takata. #ITP #LeanProver
++ [[https://arxiv.org/abs/2603.01463][Implementing dependent type theory inhabitation and unification]]. ~ Chase Norman, Jeremy Avigad. #LeanProver #ITP
++ [[https://arxiv.org/abs/2506.08321v1][LeanTutor: A formally-verified AI tutor for mathematical proofs]]. ~ Manooshree Patel, Rayna Bhattacharyya, Thomas Lu, Arnav Mehta, Niels Voss, Narges Norouzi, Gireeja Ranade. #LeanProver #ITP #Math #AI4Math
++ [[https://arxiv.org/abs/2603.03684][Mathematicians in the age of AI]]. ~ Jeremy Avigad. #AI4Math #LeanProver #ITP
++ [[https://www.math.ias.edu/~akshay/mnotices.pdf][Shaping the future of mathematics in the age of AI]]. ~ Johan Commelin, Mateja Jamnik, Rodrigo Ochigame, Lenny Taelman, Akshay Venkatesh. #AI4Math #LeanProver #ITP
++ [[https://arxiv.org/abs/2603.00896][Unbiasing symmetric monoidal categories in Lean]]. ~ Robin Carlier. #LeanProver #ITP
++ [[https://arxiv.org/abs/2603.07771v1][Apply2Isar: Automatically converting Isabelle/HOL apply-style proofs to structured Isar]]. ~ Sage Binder, Hanna Lachnitt, Katherine Kosaian. #IsabelleHOL #ITP
++ [[https://hal.science/hal-05532641v1/file/RD_paper20381.pdf][A topological rewriting of Tarski’s mereogeometry]]. ~ Richard Dapoigny. #CoqProver #ITP
++ [[https://arxiv.org/abs/2603.04006][Proving and computing: The infinite pigeonhole principle and countable choice]]. ~ Zena M. Ariola, Paul Downen, Hugo Herbelin. #RocqProver #ITP
++ [[https://github.com/alexfmpe/semantic-satiation/blob/main/posts/003-the-floor-is-magma.md][The floor is magma]]. ~ Alexandre Esteves. #Haskell #FunctionalProgramming
++ [[https://www.quantamagazine.org/can-the-most-abstract-math-make-the-world-a-better-place-20260304/][Can the most abstract math make the world a better place?]] ~ Natalie Wolchover. #CategoryTheory #Math
++ [[https://arxiv.org/abs/2209.01259v1][Category theory for programming]]. ~ Benedikt Ahrens, Kobe Wullaert. #CategoryTheory #Haskell #LeanProver #FunctionalProgramming
++ [[https://youtu.be/CL1LAKMsyKg][Lambda calculus for dummies: The Church encoding]]. #LambdaCalculus #FunctionalProgramming
++ [[https://batsov.com/articles/2026/03/09/emacs-and-vim-in-the-age-of-ai/][Emacs and Vim in the age of AI]]. ~ Bozhidar Batsov. #Emacs #AI
++ [[https://elpa.gnu.org/packages/doc/emacs-lisp-intro-es/emacs-lisp-intro-es.pdf][Una introducción a la programación en Emacs Lisp]]. ~ Robert J. Chassell, David Arroyo Menéndez. #Emacs #Lisp
+
 *** 04-Mar-26
 + [[https://leodemoura.github.io/blog/2026/02/28/when-ai-writes-the-worlds-software.html][When AI writes the world’s software, who verifies it?]] ~ Leonardo de Moura. #AI #LeanProver #ITP
 + [[https://thefundamentaltheor3m.github.io/Sphere-Packing-Lean/][Formalising sphere packing in Lean]]. ~ Chris Birkbeck, Sidharth Hariharan, Gareth Ma, Bhavik Mehta, Seewoo Lee, Maryna Viazovska. #LeanProver #ITP #Math
