@@ -85,6 +85,16 @@ its content.
 
 ** Marzo 2026
 
+*** 14-Mar-26
++ [[https://etaps.org/blog/043-leo-de-moura/][From SMT solvers to Lean and the future of automated reasoning]]. ~ Leo de Moura, Nicola Gigante. #LeanProver #ITP
++ [[https://afm.episciences.org/17712][A formalization of Borel determinacy in Lean]]. ~ Sven Manthe. #LeanProver #ITP #Math
++ [[https://afm.episciences.org/17678][Duality theory in linear optimization and its extensions - formally verified]]. ~ Martin Dvorak, Vladimir Kolmogorov. #LeanProver #ITP #Math
++ [[https://www.stephendiehl.com/posts/caverna/][Optimal Caverna gameplay via formal methods]]. ~ Stephen Diehl. #LeanProver #ITP
++ [[https://arxiv.org/abs/2603.10936v1][A formalization of abstract rewriting in Agda]]. ~ Sam Arkle, Andrew Polonsky. #Agda
++ [[https://reference-global.com/download/article/10.2478/forma-2025-0007.pdf][Formalization of Wallis infinite product formula for π and the Wallis integral]]. ~ Yasushige Watase. #Mizar #ITP #Math
++ [[https://reference-global.com/download/article/10.2478/forma-2025-0018.pdf][Formalization of separable version of Banach–Alaoglu theorem]]. ~ Hiroyuki Okazaki, Takehiko Mieno. #Mizar #ITP #Math
++ [[https://www.preprints.org/manuscript/202603.1058][The evolution and societal impact of artificial intelligence in the 21st century]]. ~ Monica Khadgi. #AI
+
 *** 09-Mar-26
 + [[https://leanprover-community.github.io/blog/posts/simprocs-tutorial/][Fantastic simprocs and how to write them]]. ~ Yaël Dillies, Paul Lezeau. #LeanProver #ITP
 + [[https://arxiv.org/abs/2603.04376][Formalization in Lean of faithfully flat descent of projectivity]]. ~ Liran Shaul. #LeanProver #ITP
