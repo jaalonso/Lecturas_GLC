@@ -85,6 +85,15 @@ its content.
 
 ** Marzo 2026
 
+*** 19-Mar-26
++ [[https://aristotle.harmonic.fun/][Aristotle: The World's most advanced formal reasoning agent]]. #LeanProver #ITP #Math
++ [[https://arxiv.org/abs/2603.15770v1][Formalization of QFT (quantum field theory)]]. ~ Michael R. Douglas, Sarah Hoback, Anna Mei, Ron Nissim. #LeanProver #ITP #Physics
++ [[https://arxiv.org/abs/2603.14663v1][Formalizing the classical isoperimetric inequality in the two-dimensional case]]. ~ Miraj Samarakkody. #LeanProver #ITP #Math
++ [[https://arxiv.org/abs/2603.17457][Synthetic differential geometry in Lean]]. ~ Riccardo Brasca, Gabriella Clemente. #LeanProver #ITP #Math
++ [[https://www.isa-afp.org/entries/Axiom_Free_Ontological_Trinity.html][Formal verification of axiom-free gödelian ontological argument and trinity necessity proof in Isabelle HOL]]. ~ Yong-Dock Kim. #IsabelleHOL #ITP
++ [[https://scholarlypublications.universiteitleiden.nl/access/item%3A4294827/download][In the mood for inference: Logic-based natural language inference with large language models]]. ~ Bill Noble, Rasmus Blanck, Gijs Wijnholds. #Prover9 #ATP #LLMs
++ [[https://acertijodeldia.com][Acertijo del día: Un reto diario de lógica]]. #Logic
+
 *** 14-Mar-26
 + [[https://etaps.org/blog/043-leo-de-moura/][From SMT solvers to Lean and the future of automated reasoning]]. ~ Leo de Moura, Nicola Gigante. #LeanProver #ITP
 + [[https://afm.episciences.org/17712][A formalization of Borel determinacy in Lean]]. ~ Sven Manthe. #LeanProver #ITP #Math
