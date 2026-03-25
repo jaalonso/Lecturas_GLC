@@ -85,6 +85,19 @@ its content.
 
 ** Marzo 2026
 
+*** 24-Mar-26
++ [[https://hal.science/hal-05555752/document][Synthetic differential geometry in Lean]]. ~ Riccardo Brasca, Gabriella Clemente. #LeanProver #ITP #Math
++ [[https://kleis.io/docs/papers/spectral_comb_proof.pdf][The spectral comb and the Riemann hypothesis: A proof via fixed-point theory]]. ~ Engin Atik. #LeanProver #ITP #Math
++ [[https://arxiv.org/abs/2603.14663v1][Formalizing the classical isoperimetric inequality in the two-dimensional case]]. ~ Miraj Samarakkody. #LeanProver #ITP #Math
++ [[https://arxiv.org/abs/2603.15929v1][Semi-autonomous formalization of the Vlasov-Maxwell-Landau equilibrium]]. ~ Vasily Ilin. #LeanProver #ITP
++ [[https://rkirov.github.io/posts/code-proof/][Rado's radical reflections]]. ~ Rado Kirov. #LeanProver #ITP #FunctionalProgramming
++ [[https://www.math.inc/opengauss][OpenGauss: an open source, state of the art autoformalization harness]]. #AI4Math #LeanProver #ITP #Autoformalization
++ [[https://verso.lean-lang.org][Verso: a platform for writing documents, books, course materials, and websites with Lean]]. #LeanProver
++ [[https://www.isa-afp.org/entries/Lebesgue_Stieltjes_Integral.html][Lebesgue-Stieltjes integral (in Isabelle/HOL)]]. ~ Yosuke Ito. #IsabelleHOL #ITP #Math
++ [[https://www.isa-afp.org/entries/Sorted_Rewriting.html][Sorted rewriting, conditional rewriting, and logically constrained rewriting (in Isabelle/HOL)]]. ~ Akihisa Yamada. #IsabelleHOL #ITP
++ [[https://assets-eu.researchsquare.com/files/rs-8978072/v1_covered_99de7da6-f305-417a-b332-cbc078feeab3.pdf][A formal embedding for assessing the complexity of model consistency]]. ~ Romain Pascual et als. #IsabelleHOL #ITP
++ [[https://github.com/milesberry/liberator][Liberator: A drag-and-drop visual programming environment for Haskell]]. ~ Miles Berry. #Haskell #FunctionalProgramming
+
 *** 19-Mar-26
 + [[https://aristotle.harmonic.fun/][Aristotle: The World's most advanced formal reasoning agent]]. #LeanProver #ITP #Math
 + [[https://arxiv.org/abs/2603.15770v1][Formalization of QFT (quantum field theory)]]. ~ Michael R. Douglas, Sarah Hoback, Anna Mei, Ron Nissim. #LeanProver #ITP #Physics
