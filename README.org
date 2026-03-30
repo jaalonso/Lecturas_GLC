@@ -85,6 +85,22 @@ its content.
 
 ** Marzo 2026
 
+*** 29-Mar-26
++ [[https://pubs.ams.org/BULL/0000-000-00/S0273-0979-2025-01879-0][Embracing AI and formalization: Experimenting with tomorrow’s mathematical tools]]. ~ Jarod Alper. #AI4Math #LeanProver #ITP #Math
++ [[https://arxiv.org/abs/2603.23928v1][On the paucity of lattice triangles]]. ~ David Kurniadi Angdinata, Evan Chen, Ken Ono, Jiaxin Zhang, Jujian Zhang. #LeanProver #ITP #Math
++ [[https://aadsystems.com/papers/godel_runtime_paper.pdf][Executable Gödel encodings: A verified runtime for logical syntax]]. ~ Adrian Diamond. #LeanProver #ITP #Logic #Math
++ [[https://tube.switch.ch/videos/AftiL6jZ5M][Lean: Collaboration using formalization]]. ~ Floris van Doorn. #LeanProver #ITP #Math
++ [[https://tube.switch.ch/videos/ggmRt4c3Bo][Formalizing the sphere packing problem]]. ~ Maryna Viazovska. #LeanProver #ITP #Math
++ [[https://tube.switch.ch/videos/NHXRCA3MdB][A Lean formalisation of sphere packing in dimension 8]]. ~ Siddharth Hariharan. #LeanProver #ITP #Math
++ [[https://tube.switch.ch/videos/NVLp5Xoa2Z][Autoformalization: A year of progress]]. ~ Auguste Poiroux. #AI4Math #LeanProver
++ [[https://tube.switch.ch/collections/66CerlbmQD][Videos of talks at Swiss Mathematical Society Spring Meeting "Formalization and Proof Assistants" at UniDistance Suisse, 27/03/2026]]. #LeanProver
++ [[https://matt.hunzinger.me/2026/03/28/circuits.html][Formally verifying digital circuits with category theory in Lean]]. ~ Matt Hunzinger. #LeanProver #ITP #CategoryTheory
++ [[https://www.math.ias.edu/~akshay/mnotices.pdf][Shaping the future of mathematics in the age of AI]]. ~ Johan Commelin, Mateja Jamnik, Rodrigo Ochigame, Lenny Taelman, Akshay Venkatesh. #AI4Math #LeanProver #ITP
++ [[https://www.scientificamerican.com/article/what-happens-when-ai-starts-checking-mathematicians-work/][What happens when AI starts checking mathematicians’ work]]. ~ Manon Bischoff. #AI4Math #LeanProver
++ [[https://www.scientificamerican.com/article/as-ai-keeps-improving-mathematicians-struggle-to-foretell-their-own-future/][As AI keeps improving, mathematicians struggle to foretell their own future]]. ~ Joseph Howlett. #AI4Math #LeanProver
++ [[https://www.daniellitt.com/blog/2026/2/20/mathematics-in-the-library-of-babel][Mathematics in the library of Babel]]. ~ Daniel Litt. #AI4Math
++ [[https://martinburckhardt.substack.com/p/claude-mon-ami][Claude, mon ami (Eine intellektuelle romanze)]]. ~ Martin Burckhardt. #AI #Programming
+
 *** 24-Mar-26
 + [[https://hal.science/hal-05555752/document][Synthetic differential geometry in Lean]]. ~ Riccardo Brasca, Gabriella Clemente. #LeanProver #ITP #Math
 + [[https://kleis.io/docs/papers/spectral_comb_proof.pdf][The spectral comb and the Riemann hypothesis: A proof via fixed-point theory]]. ~ Engin Atik. #LeanProver #ITP #Math
