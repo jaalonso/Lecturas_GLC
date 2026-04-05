@@ -11,6 +11,7 @@ its content.
 
 * Content                                                                      :TOC:
 - [[#lecturas-del-año-2026][Lecturas del año 2026]]
+  - [[#abril-2026][Abril 2026]]
   - [[#marzo-2026][Marzo 2026]]
   - [[#febrero-2026][Febrero 2026]]
   - [[#enero-2026][Enero 2026]]
@@ -82,6 +83,34 @@ its content.
 - [[#lecturas-anteriores][Lecturas anteriores]]
 
 * Lecturas del año 2026
+
+** Abril 2026
+
+*** 04-Abr-26
++ [[https://leodemoura.github.io/blog/2026-4-2-why-lean/][Why Lean?]]. ~ Leonardo de Moura. #LeanProver #ITP
++ [[https://arxiv.org/abs/2603.24823v1][A formalization of the Gelfond-Schneider theorem]]. ~ Michail Karatarakis, Freek Wiedijk. #LeanProver #ITP #Math
++ [[https://arxiv.org/abs/2603.23095v1][Formalizing Pick's theorem, efficiently]]. ~ Michael Eisermann. #LeanProver #ITP #Math
++ [[https://arxiv.org/abs/2603.26342v1][Lean on Vampire proofs (short paper)]]. ~ Jonas Bodingbauer, Márton Hajdu, Laura Kovács, Axel Polaczek, Michael Rawson. #LeanProver #ITP #Vampire #ATP
++ [[https://es.gizmodo.com/la-ia-acaba-de-hacerle-una-pregunta-incomoda-a-la-fisica-teorica-que-pasa-si-algunos-de-sus-resultados-mas-citados-nunca-fueron-tan-solidos-como-parecian-2000229508][La IA acaba de hacerle una pregunta incómoda a la física teórica]]. Qué pasa si algunos de sus resultados más citados nunca fueron tan sólidos como parecían. ~ Martín Nicolás Parolari. #LeanProver
++ [[https://arxiv.org/abs/2604.01483v1][Type-checked compliance: Deterministic guardrails for agentic financial systems using Lean 4 theorem proving]]. ~ Devakh Rashie, Veda Rashi. #LeanProver #ITP #LLMs
++ [[https://arxiv.org/abs/2603.28406v1][Physics as code: From scans to theorems with ITP APIs in SU(5) model building]]. ~ Sven Krippendorf, Joseph Tooby-Smith. #LeanProver #ITP #Physics
++ [[https://arxiv.org/abs/2603.27007v1][Pairwise independence of representation, classification, and composition in finite extensional magmas]]. ~ Stefano Palmieri. #ITP #LeanProver
++ [[https://arxiv.org/abs/2603.28636v1][Optimal bounds for an Erdős problem on matching integers to distinct multiples]]. ~ Wouter van Doorn, Yanyang Li, Quanyu Tang. #AI4Math #LeanProver #ITP #LLMs
++ [[https://hxrts.com/telltale/papers/paper1.pdf][Coherence for asynchronous buffered MPST: A mechanized metatheory]]. ~ Sam Hart Berman. #LeanProver #ITP #Physics
++ [[https://hxrts.com/telltale/papers/paper2.pdf][Computable dynamics for asynchronous MPST: Lyapunov descent, critical capacity, and decision procedures]]. ~ Sam Hart Berman. #LeanProver #ITP #Physics
++ [[https://hxrts.com/telltale/papers/paper3.pdf][Harmony from coherence in asynchronous MPST: A minimal erasure invariant for classical dynamics]]. ~ Sam Hart Berman. #LeanProver #ITP #Physics
++ [[https://arxiv.org/abs/2603.25682v1][On the formalization of network topology matrices in HOL]]. ~ Kubra Aksoy, Adnan Rashid, Osman Hasan, Sofiene Tahar. #ISabelleHOL #ITP #Math
++ [[https://arxiv.org/abs/2603.20405v1][Putnam 2025 problems in Rocq using Opus 4]].6 and Rocq-MCP. ~ Guillaume Baudart, Marc Lelarge, Tristan Stérin, Jules Viennot. #RocqProver #AI4Math
++ [[https://youtu.be/5fAWYqM9v8k][Representing graphs in Prolog]]. ~ Markus Triska. #Prolog #LogicProgramming
++ [[https://youtu.be/EjNalq6EihU][Encodings into the λ-calculus]]. ~ Kristopher Micinski. #LambdaCalculus #Racket #FunctionalProgramming
++ [[https://stopa.io/post/269][What Gödel discovered]]. ~ Stepan Parunashvili. #Logic #Math #Lisp #Programming
++ [[https://www.technologyreview.com/2026/03/25/1134642/this-startup-wants-to-change-how-mathematicians-do-math/][This startup wants to change how mathematicians do math]]. ~ Will Douglas Heaven. #AI4Math
++ [[https://arxiv.org/abs/2603.29961v1][Short proofs in combinatorics and number theory]]. ~ Boris Alexeev, Moe Putterman, Mehtaab Sawhney, Mark Sellke, Gregory Valiant. #AI4Math
++ [[https://mathscholar.org/2026/04/how-effective-are-current-ai-models-on-mathematical-research-problems/][How effective are current AI models on mathematical research problems?]]. ~ David H Bailey. #AI4Math
++ [[https://arxiv.org/abs/2603.26524v1][Mathematical methods and human thought in the age of AI]]. ~ Tanya Klowden, Terence Tao. #AI #Math
++ [[https://abuseofnotation.github.io/category-theory-illustrated/06_type/][Category theory illustrated: Types]]. ~ Jencel Panic. #CategoryTheory #Math
+
+
 
 ** Marzo 2026
 
