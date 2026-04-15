@@ -86,6 +86,46 @@ its content.
 
 ** Abril 2026
 
+*** 14-Abr-26
++ [[https://arxiv.org/abs/2604.09808v1][A formal proof of the Ramanujan-Nagell theorem in Lean 4]]. ~ Barinder S. Banwait. #LeanProver #ITP #AI4Math
++ [[https://arxiv.org/abs/2604.05984v1][Formalization of De Giorgi-Nash-Moser theory in Lean]]. ~Scott Armstrong, Julia Kempe. #LeanProver #ITP #Math
++ [[https://arxiv.org/abs/2604.08485][Formalizing building-up constructions of self-dual codes through isotropic lines in Lean]]. ~ Jae-Hyun Baek, Jon-Lark Kim. #LeanProver #ITP #Math
++ [[https://rkirov.github.io/posts/lean-implicits/][From painfully explicit to implicit in Lean]]. ~ Rado Kirov. #LeanProver #ITP #FunctionalProgramming
++ [[https://boarders.github.io/posts/beth.html][Kripke And Beth semantics in Lean]]. ~ Callan McGill. #LeanProver #ITP #Logic
++ [[https://leodemoura.github.io/static/etaps2026][The Lean programming language and theorem prover]]. ~ Leo de Moura. #LeanProver #ITP #FunctionalProgramming
++ [[https://www.researchgate.net/profile/Peter-Junglas-2/publication/403643010_Using_the_Lean_4_Proof_Assistant_to_Teach_Mathematics_for_Engineers/links/69d740345970dd1b05f7241b/Using-the-Lean-4-Proof-Assistant-to-Teach-Mathematics-for-Engineers.pdf][Using the Lean 4 proof assistant to teach mathematics for engineers]]. ~ Peter Junglas. #LeanProver #ITP #Math #AI4Math
++ [[https://arxiv.org/abs/2602.18307][VeriSoftBench: Repository-scale formal verification benchmarks for Lean]]. ~ Yutong Xin, Qiaochu Chen, Greg Durrett, Işil Dillig. #LeanProver #AI4Math
++ [[https://leanprover-cookbook.github.io/lean-metaprogramming-recipes/][Lean 4 (meta)programming cookbook]]. ~ Anirudh Gupta et als. #LeanProver #ITP #FunctionalProgramming
++ [[https://youtu.be/-Eewz-DJovU][AI and Isabelle: Experiences and perspectives]]. ~ Lawrence Paulson. #IsabelleHOL #ITP #AI4Math
++ [[https://arxiv.org/abs/2604.07455v1][Munkres' general topology autoformalized in Isabelle/HOL]]. ~ Dustin Bryant, Jonathan Julián Huerta y Munive, Cezary Kaliszyk, Josef Urban. #IsabelleHOL #ITP #AI4Math #Autoformalization
++ [[https://momigliano.di.unimi.it/papers/itp26.pdf][CARVe in Rocq: A library for substructural meta-theory]]. ~ Daniel Zackon et als. #RocqProver #ITP
++ [[https://arxiv.org/abs/2604.11504v1][Lectures on AI for mathematics]]. ~ Xiaoyang Chen, Xiaoyang Chen. #AI4Math
++ [[https://www.quantamagazine.org/the-ai-revolution-in-math-has-arrived-20260413/][The AI revolution in math has arrived]]. ~ Konstantin Kakaes. #AI4Math
++ [[https://arxiv.org/abs/2603.15914v1][The agentic researcher: A practical guide to AI-assisted research in mathematics and machine learning]]. ~ Max Zimmer, Nico Pelleriti, Christophe Roux, Sebastian Pokutta. #AI4Math
++ [[https://blog.sigfpe.com/2026/04/a-simple-switch-makes-code.html][A simple switch makes code differentiable]]. ~ Dan Piponi (sigfpe). #Haskell #FunctionalProgramming
++ [[https://github.com/davidsd/howl][Howl (Haskell Open Wolfram Language interpreter); an implementation of a microscopic subset of the Wolfram Language (which powers Mathematica), in Haskell]]. ~ David Simmons-Duffin. #Haskell #FunctionalProgramming
++ [[https://mchav.github.io/type-level-programming-is-still-programming/][Type-level programming is still programming]]. ~ Michael Chavinda. #Haskell #FunctionalProgramming
++ [[https://www.researchgate.net/profile/Robert-Kowalski-2/publication/403579100_Education_for_Logical_Thinking_in_the_Age_of_AI/links/69d4fe3760c0371a60f6834a/Education-for-Logical-Thinking-in-the-Age-of-AI.pdf][Education for logical thinking in the age of AI]]. ~ Robert Kowalski. #Logic #LogicProgramming
+
+*** 09-Abr-26
++ [[https://arxiv.org/abs/2603.29970v1][ABC implies that Ramanujan's tau function misses almost all primes]]. ~ David Kurniadi Angdinata et als. #LeanProver #ITP #Math
++ [[https://arxiv.org/abs/2604.02450v1][Do we need frontier models to verify mathematical proofs?]]. ~ Aaditya Naik, Guruprerana Shabadi, Rajeev Alur, Mayur Naik. #AI4Math #LeanProver #ITP
++ [[https://arxiv.org/abs/2604.03071v1][Automatic textbook formalization]]. ~ Fabian Gloeckle, Ahmad Rammal, Charles Arnal, Remi Munos, Vivien Cabannes, Gabriel Synnaeve, Amaury Hayat. #AI4Math #LeanProver #ITP
++ [[https://arxiv.org/abs/2604.02598v1][Making written theorems explorable by grounding them in formal representations]]. ~ Hita Kambhamettu, Will Crichton, Sean Welleck, Harrison Goldstein, Andrew Head. #AI4Math #LeanProver #ITP
++ [[https://arxiv.org/abs/2604.03789v1][Automated conjecture resolution with formal verification]]. ~ Haocheng Ju et als. #AI4Math #ITP #LeanProver
++ [[https://arxiv.org/abs/2604.03884v1][Formalizing CHSH rigidity in Lean 4]]. ~ Tianrun Zhao, Nengkun Yu. #LeanProver #ITP
++ [[https://arxiv.org/abs/2604.05238v1][A prime-generated formalization of Nagata's factoriality theorem in Lean 4]]. ~ Arthur F. Ramos, Ruy J. G. B. de Queiroz, Anjolina G. de Oliveira. #LeanProver #ITP #Math
++ [[https://youtu.be/uLGpTy6OoYI][A taste of LeanLang]]. ~ Siddhartha Gadgil. #LeanProver #ITP #FunctionalProgramming
++ [[https://www.isa-afp.org/entries/SAT_Not_Const_Time.html][SAT is not solvable in constant time (in Isabelle/HOL)]]. ~ Daniel Shea. #IsabelleHOL #Math
++ [[https://philpapers.org/archive/VOITXC.pdf][Theory X cannot exist: Machine-verified impossibility theorems in population ethics]]. ~ Julian L. Voigt. #IsabelleHOL #ITP
++ [[https://www.isa-afp.org/entries/Abstract_Consistency_Property.html][Abstract consistency properties (in Isabelle/HOL)]]. ~ Asta Halkjær From, Anders Schlichtkrull. #IsabelleHOL #ITP
++ [[https://arxiv.org/abs/2603.29716v1][A graded modal dependent type theory with erasure, formalized]]. ~ Andreas Abel, Nils Anders Danielsson, Oskar Eriksson. #Agda #ITP
++ [[https://arxiv.org/abs/2603.29137v1][An optimal 14-symbol hybrid basis for BCH-algebras]]. ~ Mahesh Ramani, Shlok Kumar. #Prover9 #ATP #Math
++ [[https://arxiv.org/abs/2604.04898v1][QED-Nano: Teaching a tiny model to prove hard theorems]]. ~ LM-Provers, Yuxiao Qu, Amrith Setlur, Jasper Dekoninck, Edward Beeching, Jia Li, Ian Wu, Lewis Tunstall, Aviral Kumar. #AI4Math
++ [[https://arxiv.org/abs/2604.06107v1][Artificial intelligence and the structure of mathematics]]. ~ Maissam Barkeshli, Michael R. Douglas, Michael H. Freedman. #AI4Math
++ [[https://arxiv.org/abs/2604.06609][Short proofs in combinatorics, probability and number theory II]]. ~ Boris Alexeev, Moe Putterman, Mehtaab Sawhney, Mark Sellke, Gregory Valiant. #AI4Math
++ [[https://youtu.be/9Kicf4rzCHA][Mathematical methods and human thought in the age of AI]]. ~ Terence Tao, Tanya Klowden. #AI #Math
+
 *** 04-Abr-26
 + [[https://leodemoura.github.io/blog/2026-4-2-why-lean/][Why Lean?]]. ~ Leonardo de Moura. #LeanProver #ITP
 + [[https://arxiv.org/abs/2603.24823v1][A formalization of the Gelfond-Schneider theorem]]. ~ Michail Karatarakis, Freek Wiedijk. #LeanProver #ITP #Math
@@ -109,8 +149,6 @@ its content.
 + [[https://mathscholar.org/2026/04/how-effective-are-current-ai-models-on-mathematical-research-problems/][How effective are current AI models on mathematical research problems?]]. ~ David H Bailey. #AI4Math
 + [[https://arxiv.org/abs/2603.26524v1][Mathematical methods and human thought in the age of AI]]. ~ Tanya Klowden, Terence Tao. #AI #Math
 + [[https://abuseofnotation.github.io/category-theory-illustrated/06_type/][Category theory illustrated: Types]]. ~ Jencel Panic. #CategoryTheory #Math
-
-
 
 ** Marzo 2026
 
