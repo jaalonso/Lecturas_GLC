@@ -86,6 +86,32 @@ its content.
 
 ** Abril 2026
 
+*** 24-Abr-26
++ [[https://arxiv.org/abs/2604.16507v1][Deep Vision: A formal proof of Wolstenholmes theorem in Lean 4]]. ~ Alexandre Linhares. #LeanProver #ITP #AI4Math
++ [[https://arxiv.org/abs/2604.15839v1][Discover and prove: An open-source agentic framework for hard mode automated theorem proving in Lean 4]]. ~ Chengwu Liu et als. #LeanProver #ITP #AI4Math
++ [[https://afm.episciences.org/18061][Formalising the Bruhat–Tits tree]]. ~ Judith Ludwig and Christian Merten. #LeanProver #ITP
++ [[https://arxiv.org/abs/2604.18882v1][Formally verified patent analysis via dependent type theory: Machine-checkable certificates from a hybrid AI + Lean 4 pipeline]]. ~ George Koomullil. #LeanProver #ITP #AI4Math
++ [[https://leanfirststeps.blogspot.com/p/contents.html][Lean: First steps]]. ~ Tariq Rashid. #LeanProver #ITP #Math
++ [[https://alexkontorovich.wordpress.com/2026/04/05/lecture-interactions-of-ai-with-research-math-and-formalization-at-newton-insitute-cambridge/][Lecture «Interactions of AI with research math and formalization» at Newton Insitute (Cambridge)]]. ~ Alex Kontorovich. #AI4Math #LeanProver #ITP
++ [[https://www.irif.fr/~lahaye/logique_propositionnelle/][Logique propositionnelle (dans Lean)]]. ~ Sebastien Lahaye. #LeanProver #ITP #Logic
++ [[https://arxiv.org/abs/2604.16538v1][Understanding tool-augmented agents for Lean formalization: A factorial analysis]]. ~ Ke Zhang, Patricio Gallardo, Maziar Raissi, Sudhir Murthy. #LeanProver #ITP #AI4Math
++ [[https://github.com/chenson2018/leanprover-community.github.io/blob/grind-style/templates/contribute/grind.md][grind best practices]]. ~ Chris Henson. #LeanProver
++ [[https://arxiv.org/abs/2604.20807v1][Formal primal-dual algorithm analysis]]. ~ Mohammad Abdulaziz, Thomas Ammer. #IsabelleHOL #ITP
++ [[https://arxiv.org/abs/2604.15713v1][Just type it in Isabelle! AI agents drafting, mechanizing, and generalizing from human hints]]. ~ Kevin Kappelmann, Maximilian Schäffeler, Lukas Stevens, Mohammad Abdulaziz, Andrei Popescu, Dmitriy Traytel. #IsabelleHOL #ITP #AI4Math
++ [[https://arxiv.org/abs/2604.20345v1][A Rocq formalization of simplicial Lagrange finite elements]]. ~ Sylvie Boldo, François Clément, Vincent Martin, Micaela Mayero, Houda Mouhcine. #RocqProver #ITP #Math
++ [[https://arxiv.org/abs/2604.16477v1][A constructive proof of Rice's theorem and the halting problem via Hilbert's tenth problem]]. ~ Jonathan Brossard. #RocqProver #ITP #Math
++ [[https://arxiv.org/abs/2604.21376][A formal proof of the Sands-Sauer-Woodrow theorem using the Rocq prover and mathcomp/ssreflect]]. ~ Jean-Philippe Chancelier. #RocqProver #ITP #Math
++ [[https://arxiv.org/abs/2604.19558v1][On reasoning-centric LLM-based automated theorem proving]]. ~ Yican Sun, Chengwei Shi, Hangzhou Lyu, Yingfei Xiong. #RocqProver #AI4Math
++ [[https://arxiv.org/abs/2604.19459v1][Do LLMs game formalization? Evaluating faithfulness in logical reasoning]]. ~ Kyuhee Kim, Auguste Poiroux, Antoine Bosselut. #AI4Math #LeanProver #ITP #Autoformalization
++ [[https://davidbessis.substack.com/p/the-fall-of-the-theorem-economy][The fall of the theorem economy (How AI could destroy mathematics and barely touch it)]]. ~ David Bessis. #AI4Math #LeanProver #ITP
++ [[https://lawrencecpaulson.github.io//2026/04/23/Why_not_Lean.html][Why not just use Lean?]]. ~ Lawrence Paulson. #ITP #Nqthm #HOL #CoqProver #IsabelleHOL #LeanProver #AI4Math
++ [[https://www.youtube.com/live/Yt2E1vrgP_E ~ Edsko de Vries, Andres Löh.][The Haskell  Unfolder Episode 54: Not quite monads]]. #Haskell #FunctionalProgramming
++ [[https://inf9340.pages.info.uqam.ca/notes/notes.pdf][Introduction to computational logic]]. ~ Ryan Kavanagh. #Logic #Math #CompSci
++ [[https://arxiv.org/abs/2603.21852][All elementary functions from a single binary operator]]. ~ Andrzej Odrzywołek. #Math
++ [[https://www.gaussianos.com/eml-una-funcion-para-generarlas-a-todas/][EML: una función para generarlas a todas]]. ~ Miguel Ángel Morales. #Math
++ [[https://jaalonso.github.io/vestigium/posts/2026/04/23-matematicas-en-la-era-de-la-ia-demostraciones-rapidas-comprension-lenta/][Matemáticas en la era de la IA: demostraciones rápidas, comprensión lenta]]. #AI4Math
++ [[https://jaalonso.github.io/vestigium/posts/2026/04/22-the-fall-of-the-theorem-economy-how-ai-could-destroy-mathematics-and-barely-touch-it/][Reseña de «The fall of the theorem economy (How AI could destroy mathematics and barely touch it)»]]. #AI4Math #LeanProver #ITP
+
 *** 14-Abr-26
 + [[https://arxiv.org/abs/2604.09808v1][A formal proof of the Ramanujan-Nagell theorem in Lean 4]]. ~ Barinder S. Banwait. #LeanProver #ITP #AI4Math
 + [[https://arxiv.org/abs/2604.05984v1][Formalization of De Giorgi-Nash-Moser theory in Lean]]. ~Scott Armstrong, Julia Kempe. #LeanProver #ITP #Math
