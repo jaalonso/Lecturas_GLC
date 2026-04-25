@@ -112,6 +112,24 @@ its content.
 + [[https://jaalonso.github.io/vestigium/posts/2026/04/23-matematicas-en-la-era-de-la-ia-demostraciones-rapidas-comprension-lenta/][Matemáticas en la era de la IA: demostraciones rápidas, comprensión lenta]]. #AI4Math
 + [[https://jaalonso.github.io/vestigium/posts/2026/04/22-the-fall-of-the-theorem-economy-how-ai-could-destroy-mathematics-and-barely-touch-it/][Reseña de «The fall of the theorem economy (How AI could destroy mathematics and barely touch it)»]]. #AI4Math #LeanProver #ITP
 
+*** 19-Abr-26
++ [[https://arxiv.org/abs/2604.13238][A quadratic form generalization of rational dinv]]. ~ Yifeng Huang. #LeanProver #ITP #AI4Math
++ [[https://arxiv.org/abs/2604.13514v1][Automated tactics for polynomial reasoning in Lean 4]]. ~ Hao Shen, Junyu Guo, Junqi Liu, Lihong Zhi. #LeanProver #ITP #Math
++ [[https://arxiv.org/abs/2604.13514v1][Automated tactics for polynomial reasoning in Lean 4]]. ~ Hao Shen, Junyu Guo, Junqi Liu, Lihong Zhi. #LeanProver #ITP #Math
++ [[https://arxiv.org/abs/2604.14912][Formalizing Wu-Ritt method in Lean 4]]. ~ Yuxuan Xiao, Hao Shen, Junyu Guo, Dingkang Wang, Lihong Zhi. #LeanProver #ITP #AI4Math
++ [[https://youtu.be/_DLtAulZaXw][Lean: How AI and proof automation are changing mathematics]]. ~ Leonardo de Moura. #LeanProver #ITP #AI4Math
++ [[https://youtu.be/H4n1XIa2flI][On the formalization of IUT (inter-universal Teichmüller theory): a preliminary progress report]]. ~ Shinichi Mochizuki. #LeanProver #ITP #Maht
++ [[https://youtu.be/WWaasetygqU][Teaching mathematics using Verbose Lean]]. ~ Patrick Massot. #LeanProver #ITP #Math
++ [[https://youtu.be/VqxsOmUnfyI][Teaching with Lean for supporting the transition to university mathematics]]. ~ Paola Iannone. #LeanProver #ITP #Math
++ [[https://youtu.be/H2O3d7KNy-A][What goes into formalizing Fermat?]]. ~ Kevin Buzzard. #LeanProver #ITP #Math
++ [[https://youtu.be/rsv_ozyo-yI][A proof engineering perspective on formalising combinatorics in Isabelle/HOL]]. ~ Chelsea Edmonds. #IsabelleHOL #ITP #AI4Math
++ [[https://arxiv.org/abs/2604.03789v1][Automated conjecture resolution with formal verification]]. ~ Haocheng Ju et als. #AI4Math #LeanProver #ITP
++ [[https://youtu.be/5O2c1u7j-iM][Beyond QED: AI, theorem proving, and the quest for beautiful proofs]]. ~ Natarajan Shankar. #AI4Math #ITP
++ [[https://www.academicjobs.com/research-publication-news/pku-ai-solves-anderson-conjecture-or-academicjobs-12100][PKU AI disproves Anderson conjecture: China's first autonomous math breakthrough]]. ~ Sophia Langford. #AI4Math #LeanProver
++ [[https://www.lavanguardia.com/neo/ia/20260416/11514161/ia-china-resuelve-80-horas-problema-matematico-atascado-doce-anos.amp.html][Una IA china resuelve en 80 horas un problema matemático atascado hace doce años]]. ~ Pau Roldan. #AI4Math #LeanProver #ITP
++ [[https://arxiv.org/abs/2604.14718v1][The agentification of scientific research: A physicist's perspective]]. ~ Xiao-Liang Qi. #AI4Science
++ [[https://jaalonso.github.io/vestigium/posts/2026/04/16-automated-conjecture-resolution-with-formal-verification/ ][Reseña de «Automated conjecture resolution with formal verification»]]. #AI4Math #LeanProver #ITP
+
 *** 14-Abr-26
 + [[https://arxiv.org/abs/2604.09808v1][A formal proof of the Ramanujan-Nagell theorem in Lean 4]]. ~ Barinder S. Banwait. #LeanProver #ITP #AI4Math
 + [[https://arxiv.org/abs/2604.05984v1][Formalization of De Giorgi-Nash-Moser theory in Lean]]. ~Scott Armstrong, Julia Kempe. #LeanProver #ITP #Math
