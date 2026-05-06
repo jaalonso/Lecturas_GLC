@@ -11,6 +11,7 @@ its content.
 
 * Content                                                                      :TOC:
 - [[#lecturas-del-año-2026][Lecturas del año 2026]]
+  - [[#mayo-2026][Mayo 2026]]
   - [[#abril-2026][Abril 2026]]
   - [[#marzo-2026][Marzo 2026]]
   - [[#febrero-2026][Febrero 2026]]
@@ -83,6 +84,23 @@ its content.
 - [[#lecturas-anteriores][Lecturas anteriores]]
 
 * Lecturas del año 2026
+
+** Mayo 2026
+
+*** 06-May-26
++ [[https://dwrensha.github.io/compfiles/imo.html][Compfiles: Catalog of math problems formalized in Lean]]. ~ David Renshaw et als. #LeanProver #ITP #Math
++ [[https://scholarworks.uark.edu/cgi/viewcontent.cgi?article=1010&context=mascuht][Primitive pythagorean triples in lean and reduction modulo odd prime powers]]. ~ Luke Biddle. #LeanProver #Math
++ [[https://francis.naukas.com/2026/05/01/sobre-la-demostracion-del-problema-1196-de-erdos-por-gpt-5-4-pro/][Sobre la demostración del Problema #1196 de Erdős por GPT-5]].4 Pro. ~ Francisco R. Villatoro. #LeanProver #AI4Math
++ [[https://www.isa-afp.org/entries/Nagata-Factoriality.html][Nagata factoriality (in Isabelle/HOL)]]. ~ Arthur Freitas Ramos, David Barros Hulak, Ruy Jose Guerra Barretto de Queiroz. #IsabelleHOL #ITP #Math
++ [[https://www.isa-afp.org/entries/Iteration_Algebra.html][The algebra of iterative constructions (in Isabelle/HOL)]]. ~ Kevin Batz, Benjamin Lucien Kaminski, Lucas Kehrer, Gerwin Klein, Henning Urbat, Todd Schmid. #IsabelleHOL #ITP
++ [[https://arxiv.org/abs/2405.03264v1][Delooping generated groups in homotopy type theory]]. ~ Camil Champin, Samuel Mimram, Emile Oleon. #Agda #ITP #HoTT
++ [[https://arxiv.org/abs/2604.27863v1][A monadic implementation of functional logic programs]]. ~ Michael Hanus, Kai-Oliver Prott, Finn Teegen. #Haskell #FunctionalProgramming
++ [[https://arxiv.org/abs/2604.25879v1][Arboretum.hs: Symbolic manipulation for algebras of graphs]]. ~ Eugen Bronasco, Jean-Luc Falcone, Gilles Vilmart. #Haskell #FunctionalProgramming
++ [[https://jointhefreeworld.org/blog/articles/lisps/why-i-still-reach-for-scheme-instead-of-haskell][Why I still reach for Scheme and Lisp instead of Haskell]]. ~ Josep Bigorra. #Haskell #Scheme #Lisp #FunctionalProgramming
++ [[https://youtu.be/t1MQqDhYLyA][Collatz conjecture in Prolog]]. ~ Markus Triska. #Prolog #LogicProgramming
++ [[https://www.jeremykun.com/2026/04/29/ckks-polynomials-the-canonical-embedding-and-encoding/][CKKS — Polynomials, the canonical embedding, and encoding]]. ~ Jeremy Kun. #Python #Programming #Math
++ [[https://www.rabdos.ai/research/introducing-mathduels-ai][MathDuels: a self-play benchmark for mathematical reasoning]]. ~ Rabdos. #AI4Math
++ [[https://arxiv.org/abs/2604.21916][MathDuels: Evaluating LLMs as problem posers and solvers]]. ~ Zhiqiu Xu, Shibo Jin, Shreya Arya, Mayur Naik. #AI4Math
 
 ** Abril 2026
 
