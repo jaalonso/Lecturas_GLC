@@ -87,6 +87,16 @@ its content.
 
 ** Mayo 2026
 
+*** 08-May-26
++ [[https://isa-afp.org/entries/Banach_Tarski.html][The Banach–Tarski paradox in Isabelle/HOL]]. ~ Arthur Freitas Ramos, David Barros Hulak, Ruy Jose Guerra Barretto de Queiroz. #IsabelleHOL #ITP #Math
++ [[https://lawrencecpaulson.github.io//2026/05/07/Mizar.html][Mizar: the first usable proof assistant for mathematics]]. ~ Lawrence Paulson. #Mizar #ATP #Math
++ [[https://arxiv.org/abs/2605.06651v1][AI co-mathematician: Accelerating mathematicians with agentic AI]]. ~ Daniel Zheng et als. #AI4Math
++ [[https://arxiv.org/abs/2605.06660v1][Verifier-backed hard problem generation for mathematical reasoning]]. ~ Yuhang Lai, Jiazhan Feng, Yee Whye Teh, Ning Miao. #AI4Math
++ [[https://marcosh.github.io/post/2026/05/08/categorical-transformers.html][Categorical transformers]]. ~ Marco Perone. #Haskell #FunctionalProgramming
++ [[https://brewminate.com/counting-beyond-mind-abacus-early-calculation/][Counting beyond the mind: The abacus and the origins of calculation]]. ~ Matthew A. McIntosh. #Math #CompSci
++ [[https://brewminate.com/logarithms-slide-rules-human-reasoning/][Logarithms and slide rules: How calculation accelerated human reasoning]]. ~ Matthew A. McIntosh. #Math #History
++ [[https://jaalonso.github.io/vestigium/posts/2026/05/08-ai-co-mathematician-accelerating-mathematicians-with-agentic-ai/][Reseña de «AI co-mathematician: Accelerating mathematicians with agentic AI»]]. #AI4Math
+
 *** 07-May-26
 + [[https://arxiv.org/abs/2604.18869][Global product intersection sets in semigroups]]. ~ Wouter van Doorn, Pietro Monticone, Quanyu Tang. #LeanProver #ITP #Math
 + [[https://gist.github.com/kim-em/20212c66bd144c5d3fa3b044402e2092][Mel Nathanson — How Harmonic's Aristotle solved some of my problems]]. #LeanProver #ITP #Aristotle #AI4Math
