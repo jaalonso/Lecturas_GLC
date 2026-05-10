@@ -87,6 +87,15 @@ its content.
 
 ** Mayo 2026
 
+*** 09-May-26
++ [[https://github.com/nileshtrivedi/lean-detective][LeanDetective: a Lean Library that can assist with deductive reasoning in crime investigations such as murder mysteries]]. ~ Nilesh #LeanProver #ITP
++ [[https://isa-afp.org/entries/Nash_Equilibrium.html][Nash equilibria for finite games in Isabelle/HOL]]. ~ Arthur Freitas Ramos, David Barros Hulak, Ruy Jose Guerra Barretto de Queiroz. #IsabelleHOL #ITP
++ [[https://link.springer.com/article/10.1007/s11225-026-10239-8][A general formalised framework for reasoning about display calculi]]. ~ Rajeev Goré, Anthony Peigné. #RocqProver #ITP #Logic
++ [[https://augustss.github.io/MicroHs/web-mhs/][MicroHs in the browser]]. ~ Lennart Augustsson. #Haskell #FunctionalProgramming
++ [[https://well-typed.com/blog/2026/05/lay-annotation-land/][Exception annotations: Lay of the Land]]. ~ Edsko de Vries. #Haskell #FunctionalProgramming
++ [[https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/][A recent experience with ChatGPT 5.5 Pro]]. ~ Timothy Gowers. #AI4Math
++ [[https://jaalonso.github.io/vestigium/posts/2026/05/09-una-experiencia-reciente-con-chatgpt-55-pro/][Reseña de «Timothy Gowers: A recent experience with ChatGPT 5.5 Pro»]]. #AI4Math
+
 *** 08-May-26
 + [[https://isa-afp.org/entries/Banach_Tarski.html][The Banach–Tarski paradox in Isabelle/HOL]]. ~ Arthur Freitas Ramos, David Barros Hulak, Ruy Jose Guerra Barretto de Queiroz. #IsabelleHOL #ITP #Math
 + [[https://lawrencecpaulson.github.io//2026/05/07/Mizar.html][Mizar: the first usable proof assistant for mathematics]]. ~ Lawrence Paulson. #Mizar #ATP #Math
