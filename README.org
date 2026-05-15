@@ -87,6 +87,27 @@ its content.
 
 ** Mayo 2026
 
+*** 14-May-26
++ [[https://youtu.be/Uc2zt198U_U][New mathematical workflows]]. ~ Terence Tao. #AI4Math
++ [[https://arxiv.org/abs/2605.13171v1][Formal conjectures: An open and evolving benchmark for verified discovery in mathematics]]. ~ Moritz Firsching et als. #AI4Math #LeanProver
++ [[https://arxiv.org/abs/2605.13137v1][LeanSearch v2: Global premise retrieval for Lean 4 theorem proving]]. ~ Guoxiong Gao et als. #AI4Math #LeanProver
++ [[https://isa-afp.org/entries/Mostowski_Collapse.html][The Mostowski collapse theorem (in Isabelle/HOL)]]. ~ Arthur Freitas Ramos, David Barros Hulak, Ruy Jose Guerra Barretto de Queiroz. #IsabelleHOL #ITP #Math
++ [[https://krystalguo.com/blog/ai-math.html][What does AI do for the working mathematician?]] ~ Krystal Guo. #AI4Math
++ [[https://arxiv.org/abs/2409.19379v1][Automated conjecturing in mathematics with TxGraffiti]]. ~ Randy Davila. #AI4Math
+
+*** 11-May-26
++ [[https://t.me/Retos_Matematicos/109557/139685][Retos matemáticos con Lean 4]]. #LeanProver #Math
++ [[https://t.me/Retos_Matematicos/109557/139686][La sucesión aₙ = 1/n converge a 0]]. #LeanProver #Math
++ [[https://arxiv.org/abs/2605.03274v1][Formalizing the prime-field Singer construction and Sidon set infrastructure in Lean 4]]. ~ David B. Hulak, Arthur F. Ramos, Ruy J. G. B. de Queiroz. #LeanProver #ITP #Math
++ [[https://www.researchgate.net/profile/Arjun-Trivedi-5/publication/404396065_An_Arrow-Theoretic_Impossibility_Theorem_for_the_Ordinal_MVP_Aggregation_Problem][An Arrow-theoretic impossibility theorem for the ordinal MVP aggregation problem]]. ~ Arjun Trivedi. #LeanProver #ITP
++ [[https://wrla2026.github.io/preproceedings/preproceedings.pdf#page=7][Generalization of Church-Rosser strategies for confluent abstract rewriting systems of the smallest uncountable cardinality]]. ~ Ievgen Ivanov. #IsabelleHOL #ITP
++ [[https://isa-afp.org/entries/Combinatorial_Nullstellensatz.html][Alon’s Combinatorial Nullstellensatz (in Isabelle/HOL)]]. ~ Arthur Freitas Ramos, Ruy Jose Guerra Barretto de Queiroz, David Barros Hulak. #IsabelleHOL #ITP #Math
++ [[https://eshelyaron.com/sweep.html][Sweep: SWI-Prolog embedded in Emacs]]. #Prolog #LogicProgramming #Emacs
+
+*** 10-May-26
++ [[https://rkirov.github.io/posts/three-cultures-of-math/][Three cultures of math]]. ~ Rado Kirov. #Math #AI #AI4Math
++ [[https://jaalonso.github.io/vestigium/posts/2026/05/10-three-cultures-of-math/][Tres culturas matemáticas ante el avance de la IA]]. #Math #AI #AI4Math
+
 *** 09-May-26
 + [[https://github.com/nileshtrivedi/lean-detective][LeanDetective: a Lean Library that can assist with deductive reasoning in crime investigations such as murder mysteries]]. ~ Nilesh #LeanProver #ITP
 + [[https://isa-afp.org/entries/Nash_Equilibrium.html][Nash equilibria for finite games in Isabelle/HOL]]. ~ Arthur Freitas Ramos, David Barros Hulak, Ruy Jose Guerra Barretto de Queiroz. #IsabelleHOL #ITP
