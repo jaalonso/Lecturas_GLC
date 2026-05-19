@@ -87,6 +87,10 @@ its content.
 
 ** Mayo 2026
 
+*** 18-May-26
++ [[https://arxiv.org/abs/2605.16169v1][LeanBET: Formally-verified surface area calculations in Lean]]. ~ Ejike D. Ugwuanyi, Colin T. Jones, John Velkey, Tyler R. Josephson. #LeanProver #ITP #Math
++ [[https://arxiv.org/abs/2605.15445v1][From LLM-generated conjectures to Lean formalizations: automated polynomial inequality proving via sum-of-squares certificates]]. ~ Ruobing Zuo, Hanrui Zhao, Gaolei He, Zhengfeng Yang, Jianlin Wang. #AI4Math #LeanProver #ITP
+
 *** 14-May-26
 + [[https://youtu.be/Uc2zt198U_U][New mathematical workflows]]. ~ Terence Tao. #AI4Math
 + [[https://arxiv.org/abs/2605.13171v1][Formal conjectures: An open and evolving benchmark for verified discovery in mathematics]]. ~ Moritz Firsching et als. #AI4Math #LeanProver
