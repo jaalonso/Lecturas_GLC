@@ -87,6 +87,11 @@ its content.
 
 ** Mayo 2026
 
+*** 19-May-26
++ [[https://vitalik.eth.limo/general/2026/05/18/fv.html][A shallow dive into formal verification]]. ~ Vitalik Buterin. #LeanProver #ITP
++ [[https://arxiv.org/abs/2605.16952v1][TableauxRocq: A deep embedding of free-variable tableaux in Rocq]]. ~ Johann Rosain, Julie Cailler. #RocqProver #ITP
++ [[https://arxiv.org/abs/2508.15878v1][Lean meets theoretical computer science: scalable synthesis of theorem proving challenges in formal-informal pairs]]. ~ Terry Jingchen Zhang et als. #AI4Math #LeanProver #ITP
+
 *** 18-May-26
 + [[https://arxiv.org/abs/2605.16169v1][LeanBET: Formally-verified surface area calculations in Lean]]. ~ Ejike D. Ugwuanyi, Colin T. Jones, John Velkey, Tyler R. Josephson. #LeanProver #ITP #Math
 + [[https://arxiv.org/abs/2605.15445v1][From LLM-generated conjectures to Lean formalizations: automated polynomial inequality proving via sum-of-squares certificates]]. ~ Ruobing Zuo, Hanrui Zhao, Gaolei He, Zhengfeng Yang, Jianlin Wang. #AI4Math #LeanProver #ITP
