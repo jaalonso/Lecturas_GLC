@@ -87,6 +87,10 @@ its content.
 
 ** Mayo 2026
 
+*** 21-May-26
++ [[https://openai.com/index/model-disproves-discrete-geometry-conjecture/][An OpenAI model has disproved a central conjecture in discrete geometry]]. #AI4Math
++ [[https://arxiv.org/abs/2605.21200v1][Tao's equational proof challenge accepted (technical report)]]. ~ Lydia Kondylidou, Jasmin Blanchette, Marijn J. H. Heule. #ATP #AI4Math
+
 *** 20-May-26
 + [[https://arxiv.org/abs/2605.20120v1][Using Aristotle API for AI-assisted theorem proving in Lean 4: A formalisation case study of the Grasshopper problem]]. ~ Gabriel Rongyang Lau. #AI4Math #LeanProver #ITP
 
