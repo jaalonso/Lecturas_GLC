@@ -87,6 +87,11 @@ its content.
 
 ** Mayo 2026
 
+*** 22-May-26
++ [[https://inria.hal.science/hal-05625464/document][Four–in-a-row in Rocq]]. ~ Laurent Théry. #RocqProver #ITP
++ [[https://arxiv.org/abs/2603.20405][Putnam 2025 problems in Rocq using Opus 4]].6 and Rocq-MCP. ~ Guillaume Baudart, Marc Lelarge, Tristan Stérin, Jules Viennot. #AI4Math #RocqProver
++ [[https://arxiv.org/abs/2605.22763v1][Advancing mathematics research with AI-driven formal proof search]]. ~ George Tsoukalas et als. #AI4Math #LeanProver
+
 *** 21-May-26
 + [[https://openai.com/index/model-disproves-discrete-geometry-conjecture/][An OpenAI model has disproved a central conjecture in discrete geometry]]. #AI4Math
 + [[https://arxiv.org/abs/2605.21200v1][Tao's equational proof challenge accepted (technical report)]]. ~ Lydia Kondylidou, Jasmin Blanchette, Marijn J. H. Heule. #ATP #AI4Math
