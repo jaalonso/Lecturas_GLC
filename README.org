@@ -87,6 +87,12 @@ its content.
 
 ** Mayo 2026
 
+*** 24-May-26
++ [[https://korbonits.com/blog/2026-05-23-the-verification-problem/][The verification problem]]. ~ Alexander R. Korbonits. #AI4Math
++ [[https://live.lean-lang.org/#url=https://github.com/jaalonso/Retos/blob/main/src/Reto_2.lean][#RetoLean4: Soluciones del reto 2 (Demostrar con Lean 4 que la sucesión 1, -1, 1, -1,]]... no es convergente). #LeanProver #ITP #Math
++ [[https://t.me/Retos_Matematicos/109557/140007][#RetoLean4: Demostrar con Lean 4 que si aₙ converge a L, entonces 2aₙ converge a 2L]]. #LeanProver #ITP #Math
++ [[https://jaalonso.github.io/vestigium/posts/2026/05/24-advancing-mathematics-research-with-ai-driven-formal-proof-search/][Reseña de «Advancing mathematics research with AI-driven formal proof search»]]. #AI4Math #LeanProver
+
 *** 22-May-26
 + [[https://inria.hal.science/hal-05625464/document][Four–in-a-row in Rocq]]. ~ Laurent Théry. #RocqProver #ITP
 + [[https://arxiv.org/abs/2603.20405][Putnam 2025 problems in Rocq using Opus 4]].6 and Rocq-MCP. ~ Guillaume Baudart, Marc Lelarge, Tristan Stérin, Jules Viennot. #AI4Math #RocqProver
