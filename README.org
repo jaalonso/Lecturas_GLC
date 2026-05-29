@@ -87,6 +87,18 @@ its content.
 
 ** Mayo 2026
 
+*** 27-May-26
++ [[https://github.com/rkirov/linear-algebra-done-right-lean][Lean companion to Axler's "Linear algebra done right"]]. ~ Rado Kirov. #LeanProver #ITP #Math
++ [[https://arxiv.org/abs/2604.17703][Classification and deontic explosion for contrary-to-duty obligations]]. ~ Bjørn Kjos-Hanssen. #LeanProver #Logic
++ [[https://arxiv.org/abs/2605.05801][Self-correcting gossip protocols]]. ~ Giorgio Cignarale, Hans van Ditmarsch, Stephan Felber, Malvin Gattinger, Hugo Rincon Galeana, Vaishnavi Sundararajan. #LeanProver
++ [[https://arxiv.org/abs/2506.20909][Diophantine equations over Z: Universal bounds and parallel formalization]]. ~ Jonas Bayer, Marco David, Malte Hassler, Yuri Matiyasevich, Dierk Schleicher. #IsabelleHOL #ITP #Math
+
+*** 26-May-26
++ [[https://arxiv.org/abs/2605.23772][Agentic proving for program verification]]. ~ Alessandro Sosso, Akhil Arora, Bas Spitters. #LeanProver #ProgramVerification
++ [[https://www.proquest.com/openview/98e50cad68d44a56e5749b0292dfcd8f/][Formalization of commutative algebra and algebraic number theory]]. ~ Madison Crim. #LeanProver #Math
++ [[https://arxiv.org/abs/2605.25556 ~ Austin Shen, Yunong Shi.][Keep the proof state live: Snapshotting for efficient tactic search in Lean 4]]. #AI4Math #LeanProver
++ [[https://mathgames.es][MathGames: una plataforma de juegos y laboratorios matemáticos donde el aprendizaje se convierte en una experiencia divertida y retadora]]. #Math
+
 *** 24-May-26
 + [[https://korbonits.com/blog/2026-05-23-the-verification-problem/][The verification problem]]. ~ Alexander R. Korbonits. #AI4Math
 + [[https://live.lean-lang.org/#url=https://github.com/jaalonso/Retos/blob/main/src/Reto_2.lean][#RetoLean4: Soluciones del reto 2 (Demostrar con Lean 4 que la sucesión 1, -1, 1, -1,]]... no es convergente). #LeanProver #ITP #Math
