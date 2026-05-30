@@ -87,6 +87,13 @@ its content.
 
 ** Mayo 2026
 
+*** 29-May-26
++ [[https://arxiv.org/abs/2605.30106v1][A Rust-to-Lean verification pipeline with AI provers: an experience report]]. ~ Natalia Klaus, Palina Tolmach, Juan Conejero. #LeanProver #ITP
++ [[https://isa-afp.org/entries/Seifert-Van-Kampen.html][The classical Seifert–van Kampen theorem (in Isabelle/HOL)]]. ~ Arthur Freitas Ramos , David Barros Hulak and Ruy Jose Guerra Barretto de Queiroz. #IsabelleHOL #ITP #Math
++ [[https://arxiv.org/abs/2605.27633v1][Four paradoxes and a proof assistant: Burali-Forti, Diaconescu, Reynolds, and Hurkens in the coq-paradoxes library]]. ~ Bernardo Alonso. #CoqProver #ITP #Math
++ [[https://arxiv.org/abs/2605.29955v1][Formalizing mathematics at scale]]. ~ Ahmad Rammal, Niket Patel, Fabian Gloeckle, Amaury Hayat, Julia Kempe, Remi Munos, Charles Arnal, Vivien Cabannes. #AI4Math #LeanProver #ITP
++ [[https://github.com/facebookresearch/atlas-lean/][ATLAS - Autoformalized Textbook Library At Scale]]. #AI4Math #LeanProver #ITP
+
 *** 27-May-26
 + [[https://github.com/rkirov/linear-algebra-done-right-lean][Lean companion to Axler's "Linear algebra done right"]]. ~ Rado Kirov. #LeanProver #ITP #Math
 + [[https://arxiv.org/abs/2604.17703][Classification and deontic explosion for contrary-to-duty obligations]]. ~ Bjørn Kjos-Hanssen. #LeanProver #Logic
