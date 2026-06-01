@@ -87,6 +87,9 @@ its content.
 
 ** Mayo 2026
 
+*** 31-May-26
++ [[https://arxiv.org/abs/2605.25556v2][Keep the proof state live: snapshotting for efficient tactic search in Lean 4]]. ~ Austin Shen, Yunong Shi. #LeanProver #ITP
+
 *** 29-May-26
 + [[https://arxiv.org/abs/2605.30106v1][A Rust-to-Lean verification pipeline with AI provers: an experience report]]. ~ Natalia Klaus, Palina Tolmach, Juan Conejero. #LeanProver #ITP
 + [[https://isa-afp.org/entries/Seifert-Van-Kampen.html][The classical Seifert–van Kampen theorem (in Isabelle/HOL)]]. ~ Arthur Freitas Ramos , David Barros Hulak and Ruy Jose Guerra Barretto de Queiroz. #IsabelleHOL #ITP #Math
