@@ -11,6 +11,7 @@ its content.
 
 * Content                                                                      :TOC:
 - [[#lecturas-del-año-2026][Lecturas del año 2026]]
+  - [[#junio-2026][Junio 2026]]
   - [[#mayo-2026][Mayo 2026]]
   - [[#abril-2026][Abril 2026]]
   - [[#marzo-2026][Marzo 2026]]
@@ -84,6 +85,13 @@ its content.
 - [[#lecturas-anteriores][Lecturas anteriores]]
 
 * Lecturas del año 2026
+
+** Junio 2026
+
+*** 01-Jun-26
++ [[https://recognitionphysics.org/Paperss/Machine_Verified_Physics_Paper_JAR_template-22.pdf][Certificate-based verification of derivation-graph structural properties in Lean 4/Mathlib]]. ~ Megan Simons, Jonathan Washburn. #LeanProver #ITP
++ [[https://isa-afp.org/entries/Busy_Beaver.html][The Busy Beaver function (in Isabelle/HOL)]]. ~ Arthur Freitas Ramos, David Barros Hulak, Ruy Jose Guerra Barretto de Queiroz. #IsabelleHOL #ITP
++ [[https://www.researchgate.net/profile/James-Squires-2/publication/405332039_A_Brief_GuideComment_to_Autoformalization_in_Mathematical_Physics/links/6a16ed7f6fa5b75e31598a83/A-Brief-Guide-Comment-to-Autoformalization-in-Mathematical-Physics.pdf][A brief guide to autoformalization in mathematical physics]]. ~ James Squires. #AI4Math #LeanProver #Autoformalization
 
 ** Mayo 2026
 
