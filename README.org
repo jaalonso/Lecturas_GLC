@@ -88,6 +88,17 @@ its content.
 
 ** Junio 2026
 
+*** 02-Jun-26
++ [[https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6837298][We can't agree to disagree, formally: Aumann's theorem and assumption accounting in Lean]]. ~ Ruize Chen, Ben Eltschig, Scott Duke Kominers, Ken Ono, Jujian Zhang. #LeanProver #ITP
++ [[https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6336503 Tamas Nagy.][From Itô to Black-scholes: A machine-verified derivation in Lean 4]]. ~ #LeanProver #ITP
++ [[https://arxiv.org/abs/2604.09808][A formal proof of the Ramanujan-Nagell theorem in Lean 4]]. ~ Barinder S. Banwait. #LeanProver #ITP #AI4Math
++ [[https://github.com/Arthur742Ramos/isa-blueprint][IsabelleBlueprint: a new project-layer tool for Isabelle/HOL formalizations, inspired by Lean Blueprint but built specifically for Isabelle]]. ~ Arthur. #IsabelleHOL #ITP
++ [[https://isa-afp.org/entries/Gelfand_Naimark_Segal.html][The Gelfand–Naimark–Segal construction (in Isabelle/HOL)]]. ~ Richard Schmoetten, Jacques D. Fleuriot. #IsabelleHOL #ITP #Math
++ [[https://arxiv.org/abs/2505.05362v1][Modelling and verifying neuronal archetypes in Coq]]. ~ Abdorrahim Bahrami, Rébecca Zucchini, Elisabetta De Maria, Amy Felty. #CoqProver #ITP
++ [[https://leidendeclaration.ai/][Leiden declaration on artificial intelligence and mathematics]]. #AI4Math
++ [[https://arxiv.org/abs/2606.01898v1][Auto formalisation of Goedel's second incompleteness theorem in binary recursive arithmetic]]. ~ Thierry Coquand. #AI4Math #Agda #ITP #Logic #Math
++ [[https://arxiv.org/abs/2606.02367v1][A computational toolkit for engagement and scalable assessment in a large Logic course]]. ~ Stephen M. Watt. #Logic #RacketLang
+
 *** 01-Jun-26
 + [[https://recognitionphysics.org/Paperss/Machine_Verified_Physics_Paper_JAR_template-22.pdf][Certificate-based verification of derivation-graph structural properties in Lean 4/Mathlib]]. ~ Megan Simons, Jonathan Washburn. #LeanProver #ITP
 + [[https://isa-afp.org/entries/Busy_Beaver.html][The Busy Beaver function (in Isabelle/HOL)]]. ~ Arthur Freitas Ramos, David Barros Hulak, Ruy Jose Guerra Barretto de Queiroz. #IsabelleHOL #ITP
