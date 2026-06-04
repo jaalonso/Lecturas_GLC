@@ -88,6 +88,16 @@ its content.
 
 ** Junio 2026
 
+*** 03-Jun-26
++ [[https://seewoo5.github.io/assets/thesis.pdf][Positive quasimodular forms and linear programming bounds]]. ~ Seewoo Lee. #LeanProver #ITP #Math
++ [[https://arxiv.org/abs/2603.07771][Apply2Isar: Automatically converting Isabelle/HOL apply-style proofs to structured Isar]]. ~ Sage Binder, Hanna Lachnitt, Katherine Kosaian. #IsabelleHOL #ITP
++ [[https://arxiv.org/abs/2604.15713][Just type it in Isabelle! AI agents drafting, mechanizing, and generalizing from human hints]]. ~ Kevin Kappelmann, Maximilian Schäffeler, Lukas Stevens, Mohammad Abdulaziz, Andrei Popescu, Dmitriy Traytel. #AI4Math #IsabelleHOL #ITP
++ [[https://arstechnica.com/tech-policy/2026/06/mathematicians-warn-of-ai-threats-to-profession-as-industry-encroaches/][Mathematicians warn of AI threats to profession as industry encroaches]]. ~ Jeremy Hsu. #AI4Math
++ [[https://gizmodo.com/a-new-declaration-warns-ai-could-threaten-the-foundations-of-mathematics-2000766375][A new declaration warns AI could threaten the foundations of mathematics]]. ~ Gayoung Lee. #AI4Math
++ [[https://www.implicator.ai/mathematicians-issue-leiden-declaration-on-ai-proof-rules/][Mathematicians issue Leiden Declaration on AI proof rules]]. ~ Marcus Schuler. #AI4Math
++ [[https://phys.org/news/2026-06-mathematicians-dont-hype-ai-capabilities.html][Mathematicians say 'don't believe hype' on AI capabilities]]. ~ Andrew Zinin. #AI4Math
++ [[https://arxiv.org/abs/2606.02588][Lean-GAP: A dataset of formalized graduate algebra problems]]. ~ Seewoo Lee et als. #AI4Math #Autoformalization #LeanProver #ITP
+
 *** 02-Jun-26
 + [[https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6837298][We can't agree to disagree, formally: Aumann's theorem and assumption accounting in Lean]]. ~ Ruize Chen, Ben Eltschig, Scott Duke Kominers, Ken Ono, Jujian Zhang. #LeanProver #ITP
 + [[https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6336503 Tamas Nagy.][From Itô to Black-scholes: A machine-verified derivation in Lean 4]]. ~ #LeanProver #ITP
