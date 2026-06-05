@@ -88,6 +88,15 @@ its content.
 
 ** Junio 2026
 
+*** 04-Jun-26
++ [[https://arxiv.org/abs/2606.04311][Formal verification of the S-two AIR]]. ~ Jeremy Avigad, Anat Ganor, Lior Goldberg, David Levit, Ohad Nir, Yoav Seginer, Alon Titelman. #LeanProver #ITP
++ [[https://github.com/Vilin97/lean-pool][Lean Pool: a repo for preserving substantial sorry-free formalizations that are valuable but do not fit naturally into mathlib’s scope]]. ~ Vasily Ilin et als.  #LeanProver
++ [[https://arxiv.org/abs/2606.04877][Abduction prover in Isabelle/HOL]]. ~ Yutaka Nagashima, Daniel Sebastian Goc. #IsabelleHOL #ITP
++ [[https://youtu.be/WMo-RmSJQpE][Frontiers of AI for mathematical research]]. ~ Carina Hong. #AI4Math #LeanProver #ITP
++ [[https://arxiv.org/abs/2606.03743][Proof-Refactor: Refactoring generated formal proofs into modular artifacts]]. ~ Yiming Fu, Peixuan Liu, Zichen Wang, Kun Yuan. #AI4Math #LeanProver #ITP
++ [[https://nauths.fr/en/2026/05/28/practical-use-of-monads.html][Practical uses of monads in Haskell]]. ~ Antoine Leblanc. #Haskell #FunctionalProgramming
++ [[https://logicalintelligence.com/blog/automatic-formal-verification-for-code-generation][Automatic formal verification for code generation]]. ~ Patrick Hillmann, Boris Hanin. #FormalVerification
+
 *** 03-Jun-26
 + [[https://seewoo5.github.io/assets/thesis.pdf][Positive quasimodular forms and linear programming bounds]]. ~ Seewoo Lee. #LeanProver #ITP #Math
 + [[https://arxiv.org/abs/2603.07771][Apply2Isar: Automatically converting Isabelle/HOL apply-style proofs to structured Isar]]. ~ Sage Binder, Hanna Lachnitt, Katherine Kosaian. #IsabelleHOL #ITP
