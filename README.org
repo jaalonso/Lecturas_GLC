@@ -88,6 +88,14 @@ its content.
 
 ** Junio 2026
 
+*** 05-Jun-26
++ [[https://arxiv.org/abs/2606.01356v1][A formally verified library of mathematical finance in Lean 4]]. ~ Raphael Coelho. #LeanProver #ITP
++ [[https://arxiv.org/abs/2606.01438v1][Formalizing multi-graded Brenner-Schröer Proj schemes and dilatations of rings in Lean4]]. ~ Arnaud Mayeux, Jujian Zhang. #LeanProver #ITP #Math
++ [[https://arxiv.org/abs/1202.4831v1][Formalization and implementation of algebraic methods in geometry]]. ~ Filip Marić, Ivan Petrović, Danijela Petrović, Predrag Janičić. #IsabelleHOL #ITP #Math
++ [[https://arxiv.org/abs/1202.4835v1][Isabelle/PIDE as platform for educational tools]]. ~ Makarius Wenzel, Burkhart Wolff. #IsabelleHOL #ITP
++ [[https://isa-afp.org/entries/Mechanized_Metasemantics.html][Mechanized metasemantics of modal necessity: Valuation factorization and modal non-collapse]]. ~ Yong-Dock Kim. #IsabelleHOL #ITP
++ [[https://arxiv.org/abs/2606.05953v1][A proof in Coq that core logic is not paraconsistent]]. ~ Joseph Vidal-Rosset. #CoqProver #ITP
+
 *** 04-Jun-26
 + [[https://arxiv.org/abs/2606.04311][Formal verification of the S-two AIR]]. ~ Jeremy Avigad, Anat Ganor, Lior Goldberg, David Levit, Ohad Nir, Yoav Seginer, Alon Titelman. #LeanProver #ITP
 + [[https://github.com/Vilin97/lean-pool][Lean Pool: a repo for preserving substantial sorry-free formalizations that are valuable but do not fit naturally into mathlib’s scope]]. ~ Vasily Ilin et als.  #LeanProver
