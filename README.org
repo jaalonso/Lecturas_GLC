@@ -88,6 +88,11 @@ its content.
 
 ** Junio 2026
 
+*** 06-Jun-26
++ [[https://icerm.brown.edu/video_archive/4645][Complex analysis in PNT+ and real analysis as a game]]. ~ Alex Kontorovich. #LeanProver #ITP #Math
++ [[https://isa-afp.org/entries/Gabbay_Labelled_Natural_Deduction.html][A reusable Isabelle/HOL framework for propositional labelled natural deduction]]. ~ Arthur Freitas Ramos 📧, David Barros Hulak, Ruy Jose Guerra Barretto de Queiroz. #IsabelleHOL #ITP
++ [[https://youtu.be/Dkqzqw8rxXI][DeepMind’s new AI found a strange new way to think]]. ~ Károly Zsolnai-Fehér. #AI4Math #LeanProver #ITP
+
 *** 05-Jun-26
 + [[https://arxiv.org/abs/2606.01356v1][A formally verified library of mathematical finance in Lean 4]]. ~ Raphael Coelho. #LeanProver #ITP
 + [[https://arxiv.org/abs/2606.01438v1][Formalizing multi-graded Brenner-Schröer Proj schemes and dilatations of rings in Lean4]]. ~ Arnaud Mayeux, Jujian Zhang. #LeanProver #ITP #Math
