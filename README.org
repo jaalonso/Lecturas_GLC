@@ -88,6 +88,23 @@ its content.
 
 ** Junio 2026
 
+*** 10-Jun-26
++ [[https://arxiv.org/abs/2501.15639v1][The continuous functional calculus in Lean]]. ~ Anatole Dedecker, Jireh Loreaux. #LeanProver #ITP #Math
++ [[https://arxiv.org/abs/2606.09600][Formal foundations and proof-carrying certificates for q-ary covering codes in Lean 4]]. ~ Andreas Florath. #LeanProver #ITP
++ [[https://arxiv.org/abs/2606.08902v1][A kernel-clean lean mechanization of Classical Lottery in Action and the Wakker-Debreu-Koopmans representation layer]]. ~ Jingyuan Li, Ilia Tsetlin, Fan Wang. #LeanProver #ITP
++ [[https://arxiv.org/abs/2606.05629v1][An automated proof that R(B₈, B₁₀) = 37]]. ~ Jeremy Kalfus, Bernard Lidický. #LeanProver #ITP #Math
++ [[https://arxiv.org/abs/2510.24060][Formalizing Schwartz functions and tempered distributions]]. ~ Moritz Doll. #LeanProver #ITP #Math
++ [[https://isa-afp.org/entries/Euler_Exponential.html][Euler's exponential series as an infinite polynomial (in Isabelle/HOL)]]. ~ Jacques D. Fleuriot. #IsabelleHOL #ITP #Math
++ [[https://www.quantamagazine.org/how-terry-tao-became-an-evangelist-for-ai-in-math-20260608/][How Terry Tao became an evangelist for AI in math]]. ~ Kevin Hartnett. #AI4Math #LeanProver #ITP
++ [[https://www.pourlascience.fr/sd/mathematiques/les-mathematiciens-se-positionnent-face-a-l-ia-29277.php][Les mathématiciens se positionnent face à l’IA]]. ~ François Lassagne. #AI4Math
++ [[https://www.newscientist.com/article/2526650-a-golden-age-of-maths-is-dawning-and-mathematicians-are-freaking-out/][A golden age of maths is dawning and mathematicians are freaking out]]. ~ Alex Wilkins. #AI4Math
++ [[https://arxiv.org/abs/2606.08728v1][Artificial intelligence for mathematical reasoning: an integrated survey of language models, neuro-symbolic systems, and verified discovery]]. ~ Syed Rifat Raiyan, Mohsinul Kabir, Hasan Mahmud, Md Kamrul Hasan. #AI4Math
+
+*** 07-Jun-26
++ [[https://hott-uf.github.io/2026/abstracts/HoTTUF_2026_paper_4.pdf][HoTTLean: Formalizing the groupoid model of MLTT]]. ~ Steve Awodey, Mario Carneiro, Sina Hazratpour, Joseph Hua, Wojciech Nawrocki, Spencer Woolfson, Yiming Xu. #LeanProver #ITP
++ [[https://arxiv.org/abs/2606.04704v1][Extraction and search in Rocq: Theorems, definitions and their dependencies]]. ~ Jian Fang, Yingfei Xiong. #RocqProver #ITP
++ [[https://arxiv.org/abs/2606.05117v1][A problem of Andrews and Dhar on partitions]]. ~ Simon Mahns, Ken Ono, Jujian Zhang. #AI4Math #AxiomProver #LeanProver #ITP
+
 *** 06-Jun-26
 + [[https://icerm.brown.edu/video_archive/4645][Complex analysis in PNT+ and real analysis as a game]]. ~ Alex Kontorovich. #LeanProver #ITP #Math
 + [[https://isa-afp.org/entries/Gabbay_Labelled_Natural_Deduction.html][A reusable Isabelle/HOL framework for propositional labelled natural deduction]]. ~ Arthur Freitas Ramos 📧, David Barros Hulak, Ruy Jose Guerra Barretto de Queiroz. #IsabelleHOL #ITP
