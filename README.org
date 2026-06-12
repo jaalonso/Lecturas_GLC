@@ -88,6 +88,10 @@ its content.
 
 ** Junio 2026
 
+*** 11-Jun-26
++ [[https://www.amazon.science/blog/ec2s-formally-verified-isolation-engine-provides-mathematical-assurance-of-virtual-machine-isolation][EC2’s formally verified “isolation engine” provides mathematical assurance of virtual-machine isolation]]. ~ Dominic Mulligan, Nathan Chong. #IsabelleHOL #ITP
++ [[https://www.scientificamerican.com/article/ai-gets-a-c-on-its-hardest-math-test-yet/][AI scores a ‘C–’ on its hardest math test yet]]. ~ Joseph Howlett. #AI4Math
+
 *** 10-Jun-26
 + [[https://arxiv.org/abs/2501.15639v1][The continuous functional calculus in Lean]]. ~ Anatole Dedecker, Jireh Loreaux. #LeanProver #ITP #Math
 + [[https://arxiv.org/abs/2606.09600][Formal foundations and proof-carrying certificates for q-ary covering codes in Lean 4]]. ~ Andreas Florath. #LeanProver #ITP
