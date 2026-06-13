@@ -88,6 +88,15 @@ its content.
 
 ** Junio 2026
 
+*** 12-Jun-26
++ [[https://isa-afp.org/entries/Feuerbach.html][Feuerbach's theorem (in Isabelle/HOL)]]. ~ Lawrence C. Paulson. #IsabelleHOL #ITP #Math
++ [[https://isa-afp.org/entries/Fair_Games_Theorem.html][Fair games theorem (in Isabelle/HOL)]]. ~ Lawrence C. Paulson. #IsabelleHOL #ITP #Math
++ [[https://isa-afp.org/entries/Cauchy_Davenport_Vosper.html][Vosper's theorem and the Cauchy–Davenport theorem via the polynomial method]]. ~ Arthur Freitas Ramos , David Barros Hulak, Ruy Jose Guerra Barretto de Queiroz. #IsabelleHOL #ITP #Math
++ [[https://arxiv.org/abs/2606.12462v1][Auto formalisation of Chaitin and of the surprise incompleteness theorem]]. ~ Thierry Coquand. #Agda #ITP #AI4Math
++ [[https://arxiv.org/abs/2606.12594v1][Pythagoras-Prover: Advancing efficient formal proving via augmented Lean formalisation]]. ~ Joshua Ong Jun Leang, Zheng Zhao, Mihaela Cătălina Stoian, Qiyuan Xu, Haonan Li, Wenda Li, Shay B. Cohen, Eleonora Giunchiglia. #AI4Math #LeanProver #ITP
++ [[https://eyereasoner.github.io/eyelang/][eyelang: a small rule engine for Prolog-style Horn clauses over ordinary terms, lists, arithmetic, strings, and finite search]]. ~ Jos De Roo. #LogicProgramming
++ [[https://www.johndcook.com/blog/2026/06/11/prolog-claude/][Solving a chess puzzle with Claude and Prolog]]. ~ John D. Cook. #Prolog #LogicProgramming #LLMs
+
 *** 11-Jun-26
 + [[https://www.amazon.science/blog/ec2s-formally-verified-isolation-engine-provides-mathematical-assurance-of-virtual-machine-isolation][EC2’s formally verified “isolation engine” provides mathematical assurance of virtual-machine isolation]]. ~ Dominic Mulligan, Nathan Chong. #IsabelleHOL #ITP
 + [[https://www.scientificamerican.com/article/ai-gets-a-c-on-its-hardest-math-test-yet/][AI scores a ‘C–’ on its hardest math test yet]]. ~ Joseph Howlett. #AI4Math
