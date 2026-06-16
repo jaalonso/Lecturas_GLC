@@ -88,6 +88,10 @@ its content.
 
 ** Junio 2026
 
+*** 15-Jun-26
++ [[https://isa-afp.org/entries/Countable_Multiset.html][Formalization of countable multisets (in Isabelle/HOL)]]. ~ Mathias Schack Rabing, Dmitriy Traytel. #IsabelleHOL #ITP
++ [[https://arxiv.org/abs/2606.14000v1][Formalizing numerical analysis: an agent pipeline and quality audit beyond kernel acceptance]]. ~ Theodore Meek, Siyuan Ge, Di Qiu Xiang, Simon Chess, Vasily Ilin. #AI4Math #LeanProver #ITP
+
 *** 12-Jun-26
 + [[https://isa-afp.org/entries/Feuerbach.html][Feuerbach's theorem (in Isabelle/HOL)]]. ~ Lawrence C. Paulson. #IsabelleHOL #ITP #Math
 + [[https://isa-afp.org/entries/Fair_Games_Theorem.html][Fair games theorem (in Isabelle/HOL)]]. ~ Lawrence C. Paulson. #IsabelleHOL #ITP #Math
