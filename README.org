@@ -88,6 +88,25 @@ its content.
 
 ** Junio 2026
 
+*** 19-Jun-26
++ [[https://arxiv.org/abs/2606.15520v1][A Lean 4 formalization of euclidean domain algorithms from a 1986 icon experimentation package]]. ~ Lars Warren Ericson. #LeanProver #ITP #Math
++ [[https://arxiv.org/abs/2606.16679v1][Formalizing chip-firing and Riemann-Roch for graphs in Lean 4]]. ~ Dhyey Dharmendrakumar Mavani, Nathan Pflueger. #LeanProver #ITP
++ [[https://arxiv.org/abs/2606.16688v1][A Lean-certified proof of K₈(4, 2) = 23]]. ~ Andreas Florath. #LeanProver #ITP #Math
++ [[https://arxiv.org/abs/2606.16144v1][EconCSLib: A Lean library for computational economics and AI-Assisted research]]. ~ Xiaohui Bei, Jiajun Ma, Zhan Jing, Hongfei Fu, Zhihao Gavin Tang. #LeanProver #ITP
++ [[https://arxiv.org/abs/2606.20358][Formalizing extended complex numbers, Mobius transformations, and cross ratio in Lean 4]]. ~ Fubin Yan, Kenneth W. Shum. #LeanProver #ITP #Math
++ [[https://arxiv.org/abs/2606.19936][Prismriver: Formalization of music theory and algorithmic composition in Lean 4]]. ~ Leni Aniva, Claire Wang. #LeanProver #ITP
++ [[https://arxiv.org/abs/2606.19761][Finishing Oltean's completeness proof in Lean 4 for hybrid logic L(∀)]]. ~ Lars Warren Ericson. #LeanProver #ITP #Logic
++ [[https://isa-afp.org/entries/Detour_Calculus.html][The detour calculus: Rigorous local deformation of integration contours]]. ~ Manuel Eberl. #IsabelleHOL #ITP #Math
++ [[https://isa-afp.org/entries/Weighted_Set.html][Formalization of weighted sets (in Isabelle/HOL)]]. ~ Mathias Schack Rabing, Dmitriy Traytel. #IsabelleHOL #ITP
++ [[https://isa-afp.org/entries/CNF_DNF_Exp_Blowup.html][A formalization of the exponential blowup in the transformations between CNF and DNF (in Isabelle/HOL)]]. ~ Leon Raffael Schulz, Martin Desharnais-Schäfer, Jan Johannsen. #IsabelleHOL #ITP
++ [[https://isa-afp.org/entries/Dottie_Number.html][The Dottie number (in Isabelle/HOL)]]. ~ Lawrence C. Paulson. #IsabelleHOL #ITP #Math
++ [[https://www.researchgate.net/profile/Daniel-Busing/publication/406962966_LLMemma_An_LLM-Guided_Isabelle_Proof_Synthesis_System/links/6a2b502d8ab2ac2a709716b1/LLMemma-An-LLM-Guided-Isabelle-Proof-Synthesis-System.pdf][LLMemma: An LLM-guided Isabelle proof synthesis system]]. ~ Daniel Busing, Hyunkyung Lee, Isaac Mangano, Timothy Stanbrough, Tommy Tran. #IsabelleHOL #IYP #LLMs
++ [[https://arxiv.org/abs/2606.20351][A cubical formalisation of conditional independence, Bayesian conditioning, and Pearl's d-separation soundness]]. ~ Karen Sargsyan. #Agda #ITP
++ [[https://www.johndcook.com/blog/2026/06/15/writing-prolog-with-chatgpt/][Writing Prolog with ChatGPT]]. ~ John D. Cook. #Prolog #LogicProgramming #ChatGPT
++ [[https://recurial.com/gpce26main-p2.pdf][Programmable record types in Haskell]]. ~ Arthur Jamet, Michael Vollmer. #Haskell #FunctionalProgramming
++ [[https://www.tweag.io/blog/2026-06-18-sheaves-in-haskell/][Sheaves in Haskell]]. ~ Arnaud Spiwack. #Haskell #FunctionalProgramming
++ [[https://www.tweag.io/blog/2026-06-11-diff-package-static-checks/][Writing static checks to an unsuspecting library with Liquid Haskell]]. ~ Xavier Góngora. #Haskell #FunctionalProgramming
+
 *** 15-Jun-26
 + [[https://isa-afp.org/entries/Countable_Multiset.html][Formalization of countable multisets (in Isabelle/HOL)]]. ~ Mathias Schack Rabing, Dmitriy Traytel. #IsabelleHOL #ITP
 + [[https://arxiv.org/abs/2606.14000v1][Formalizing numerical analysis: an agent pipeline and quality audit beyond kernel acceptance]]. ~ Theodore Meek, Siyuan Ge, Di Qiu Xiang, Simon Chess, Vasily Ilin. #AI4Math #LeanProver #ITP
