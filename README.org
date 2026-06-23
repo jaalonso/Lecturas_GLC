@@ -88,6 +88,9 @@ its content.
 
 ** Junio 2026
 
+*** 22-Jun-26
++ [[https://sabela.datahaskell.com/c/1ea40000][Learn you a Haskell for great good! (Miran Lipovaca's classic introduction to Haskell, ported to runnable Sabela notebooks)]]. #Haskell #FunctionalProgramming
+
 *** 19-Jun-26
 + [[https://arxiv.org/abs/2606.15520v1][A Lean 4 formalization of euclidean domain algorithms from a 1986 icon experimentation package]]. ~ Lars Warren Ericson. #LeanProver #ITP #Math
 + [[https://arxiv.org/abs/2606.16679v1][Formalizing chip-firing and Riemann-Roch for graphs in Lean 4]]. ~ Dhyey Dharmendrakumar Mavani, Nathan Pflueger. #LeanProver #ITP
