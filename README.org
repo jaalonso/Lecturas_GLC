@@ -88,6 +88,11 @@ its content.
 
 ** Junio 2026
 
+*** 24-Jun-26
++ [[https://pure.tue.nl/ws/portalfiles/portal/390531427/Arendsen_L.pdf][Formalization of template formulas in the modal μ-calculus in Isabelle/HOL]]. ~ Lise Arendsen. #IsabelleHOL #ITP #Logic
++ [[https://haskellforall.com/2026/06/record-type-inference-for-dummies][Record type inference for dummies]]. ~ Gabriella Gonzalez. #Haskell #FunctionalProgramming
++ [[https://entropicthoughts.com/sicp-2-4-tagged-data-in-haskell][Tagged data in Haskell (SICP 2]].4.2). ~ kqr. #Haskell #FunctionalProgramming
+
 *** 22-Jun-26
 + [[https://sabela.datahaskell.com/c/1ea40000][Learn you a Haskell for great good! (Miran Lipovaca's classic introduction to Haskell, ported to runnable Sabela notebooks)]]. #Haskell #FunctionalProgramming
 
