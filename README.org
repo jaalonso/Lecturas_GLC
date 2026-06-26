@@ -88,6 +88,11 @@ its content.
 
 ** Junio 2026
 
+*** 25-Jun-26
++ [[https://arxiv.org/abs/2606.25412][Formalization of line search methods by Lean]]. ~ Yiyang Zhang, Kenneth W. Shum. #LeanProver #ITP #Math
++ [[https://projectdiderot.com/papers/3bcc794d-824c-40ee-9cd7-e84d5d86cd63][A weighted Turán sieve for twin primes via the Krafft geometry]]. ~ Fernando Portela. #LeanProver #ITP #Math
++ [[https://arxiv.org/abs/2509.14274][Discovering new theorems via LLMs with in-context proof learning in Lean]]. ~ Kazumi Kasaura, Naoto Onda, Yuta Oriike, Masaya Taniguchi, Akiyoshi Sannai, Sho Sonoda. #AI4Math #LeanProver #ITP
+
 *** 24-Jun-26
 + [[https://pure.tue.nl/ws/portalfiles/portal/390531427/Arendsen_L.pdf][Formalization of template formulas in the modal μ-calculus in Isabelle/HOL]]. ~ Lise Arendsen. #IsabelleHOL #ITP #Logic
 + [[https://haskellforall.com/2026/06/record-type-inference-for-dummies][Record type inference for dummies]]. ~ Gabriella Gonzalez. #Haskell #FunctionalProgramming
