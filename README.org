@@ -88,6 +88,17 @@ its content.
 
 ** Junio 2026
 
+*** 28-Jun-26
++ [[https://spectrum.ieee.org/ai-in-mathematics][AI in mathematics is forcing big questions (What it means to be a mathematician when AI does the math?)]]. ~ Benjamin Skuse. #AI4Math #LeanProver #ITP
++ [[https://cacm.acm.org/blogcacm/the-leiden-declaration-mathematics-ai-and-making-our-values-explicit/][The Leiden Declaration: Mathematics, AI, and making our values explicit]]. ~ Mateja Jamnik. #AI4Math
++ [[https://lawrencecpaulson.github.io/2026/06/26/Dottie_Number.html][The Dottie number]]. ~ Lawrence Paulson. #IsabelleHOL #ITP #Math #AI4Math
++ [[https://byorgey.github.io/blog/posts/2026/06/26/FTA.lagda.html][Proving the fundamental theorem of arithmetic in Agda]]. ~ Brent Yorgey. #Agda #ITP #Math
+
+*** 26-Jun-26
++ [[https://arxiv.org/abs/2606.26442v1][AXLE: A cloud infrastructure for Lean 4 theorem proving utilities]]. ~ Jimmy Xin, Alex Schneidman, Chris Cummins, Karun Ram, Srihari Ganesh, Jannis Limperg. #LeanProver #ITP #AI4Math
++ [[https://arxiv.org/abs/2606.27041][Formalizing a many-sorted hybrid polyadic modal logic in Lean]]. ~ Andrei-Alexandru Oltean, Bogdan Macovei, Ioana Leuştean. #LeanProver #ITP #Logic
++ [[https://isa-afp.org/entries/Perrons_Formula.html][Perron's formula (in Isabelle/HOL)]]. ~ Manuel Eberl. #IsabelleHOL #ITP #Math
+
 *** 25-Jun-26
 + [[https://arxiv.org/abs/2606.25412][Formalization of line search methods by Lean]]. ~ Yiyang Zhang, Kenneth W. Shum. #LeanProver #ITP #Math
 + [[https://projectdiderot.com/papers/3bcc794d-824c-40ee-9cd7-e84d5d86cd63][A weighted Turán sieve for twin primes via the Krafft geometry]]. ~ Fernando Portela. #LeanProver #ITP #Math
