@@ -88,6 +88,15 @@ its content.
 
 ** Junio 2026
 
+*** 29-Jun-26
++ [[https://openreview.net/pdf?id=jhbkIZOn5a][Reformalization of the Jordan curve theorem]]. ~ Simon Guilloud, Sankalp Gambhir, Samuel Chassot. #Mizar #LeanProver #HOL_Light #Agda #ITP
++ [[https://florisvandoorn.com/theses/WenrongZou.pdf][Formalization of formal group laws]]. ~ Wenrong Zou. #LeanProver #ITP #Math
++ [[https://openreview.net/pdf?id=I8t5C1vYMR][Formalizing Scarf, Brouwer, and Nash in Lean]]. ~ Yuwei Lyu, Kai Li. #LeanProver #ITP #Math
++ [[https://openreview.net/pdf?id=EsEqPLc0ef][From agents to axioms: Verifier-gated Lean formalization for statistical learning theory]]. ~ Robert Sneiderman. #LeanProver #ITP
++ [[https://openreview.net/pdf?id=adCv2IV5V3][Axiom-audited trustworthy formalization of game-theoretic commitment in Lean]]. ~ Jan Ondras. #LeanProver #ITP
++ [[https://isa-afp.org/entries/Lower_Bound_Certificates_Planning.html][Formalization of lower-bound certificates for optimal classical planning]]. ~ Dmitriy Traytel. #IsabelleHOL #ITP
++ [[https://openreview.net/pdf?id=t9iBTo1zBG][Lean2Isabelle: Factorized cross-assistant proof translation]]. ~ Guanyu Liu, Jingkun Ma, Derek F. Wong. #AI4Math #LeanProver #IsabelleHOL #ITP
+
 *** 28-Jun-26
 + [[https://spectrum.ieee.org/ai-in-mathematics][AI in mathematics is forcing big questions (What it means to be a mathematician when AI does the math?)]]. ~ Benjamin Skuse. #AI4Math #LeanProver #ITP
 + [[https://cacm.acm.org/blogcacm/the-leiden-declaration-mathematics-ai-and-making-our-values-explicit/][The Leiden Declaration: Mathematics, AI, and making our values explicit]]. ~ Mateja Jamnik. #AI4Math
