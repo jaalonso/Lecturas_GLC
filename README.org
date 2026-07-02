@@ -11,6 +11,7 @@ its content.
 
 * Content                                                                      :TOC:
 - [[#lecturas-del-año-2026][Lecturas del año 2026]]
+  - [[#julio-2026][Julio 2026]]
   - [[#junio-2026][Junio 2026]]
   - [[#mayo-2026][Mayo 2026]]
   - [[#abril-2026][Abril 2026]]
@@ -85,6 +86,13 @@ its content.
 - [[#lecturas-anteriores][Lecturas anteriores]]
 
 * Lecturas del año 2026
+
+** Julio 2026
+*** 01-Jul-26
++ [[https://arxiv.org/abs/2606.26141v1][Classifying the groups of order p³ in Lean]]. ~ Li Xiang. #LeanProver #ITP #Math
++ [[https://era.ed.ac.uk/server/api/core/bitstreams/0abbb6de-2234-4219-91f5-6eb9853f9263/content][On the formalisation of Haag-Kastler nets in higher-order logic]]. ~ Richard H. J. Schmoetten. #IsabelleHOL #ITP
++ [[https://isa-afp.org/entries/Submodular_Greedy.html][Greedy algorithms for cardinality-constrained submodular maximization]]. ~ Feier Lyu. #IsabelleHOL #ITP
++ [[https://arxiv.org/abs/2606.26809v1][The educational proof assistant Waterproof in an introductory proof course: Proof construction and learning processes]]. ~ Pim Otte, Rogier Bos, Johan Commelin, Jim Portegies. #Waterproof #ITP #Teaching #Math
 
 ** Junio 2026
 
