@@ -88,6 +88,12 @@ its content.
 * Lecturas del año 2026
 
 ** Julio 2026
+
+*** 02-Jul-26
++ [[https://www.researchgate.net/profile/Pawel-Przybylowicz-2/publication/408133759_Local_Reasoning_Models_for_Mathematics_-From_installation_through_concepts_to_workflows_with_Ollama/links/6a3ec9a668552924bb0257e5/Local-Reasoning-Models-for-Mathematics-From-installation-through-concepts-to-workflows-with-Ollama.pdf][Local reasoning models for mathematics (From installation, through concepts, to workflows with Ollama)]]. ~ Paweł Przybyłowicz. #AI4Math
++ [[https://rkirov.github.io/posts/jacobian/][The jacobian challenge retro]]. ~ Rado Kirov. #AI4Math #LeanProver #ITP
++ [[https://exploring-better-ways.bellroy.com/haskell-koan-type-checked-non-empty-strings.html][Haskell koan: Type-checked non-empty strings]]. ~ Mike Ledger. #Haskell #FunctionalProgramming
+
 *** 01-Jul-26
 + [[https://arxiv.org/abs/2606.26141v1][Classifying the groups of order p³ in Lean]]. ~ Li Xiang. #LeanProver #ITP #Math
 + [[https://era.ed.ac.uk/server/api/core/bitstreams/0abbb6de-2234-4219-91f5-6eb9853f9263/content][On the formalisation of Haag-Kastler nets in higher-order logic]]. ~ Richard H. J. Schmoetten. #IsabelleHOL #ITP
