@@ -89,6 +89,12 @@ its content.
 
 ** Julio 2026
 
+*** 03-Jul-26
++ [[https://arxiv.org/abs/2607.01544v1][Formalized q-series: The Rogers-Ramanujan identities and beyond]]. ~ Kenny Lau, Seewoo Lee, Ken Ono. #LeanProver #ITP #Math
++ [[https://arxiv.org/abs/2510.08452][Formalization of the zigzag construction of path spaces of pushouts in homotopy type theory]]. ~ Vojtěch Štěpančík. #Agda #ITP #Math
++ [[https://gilkalai.wordpress.com/2026/07/02/the-ramanujan-challenge-for-ai/][The Ramanujan challenge for AI]]. ~ Gil Kalai. #AI4Math
++ [[https://arxiv.org/abs/2605.21221v2][Binomial coefficients with divisors avoiding an interval]]. ~ Hung M. Bui, Slava Naprienko, Kyle Pratt, Alexandru Zaharescu. #AI4Math
+
 *** 02-Jul-26
 + [[https://www.researchgate.net/profile/Pawel-Przybylowicz-2/publication/408133759_Local_Reasoning_Models_for_Mathematics_-From_installation_through_concepts_to_workflows_with_Ollama/links/6a3ec9a668552924bb0257e5/Local-Reasoning-Models-for-Mathematics-From-installation-through-concepts-to-workflows-with-Ollama.pdf][Local reasoning models for mathematics (From installation, through concepts, to workflows with Ollama)]]. ~ Paweł Przybyłowicz. #AI4Math
 + [[https://rkirov.github.io/posts/jacobian/][The jacobian challenge retro]]. ~ Rado Kirov. #AI4Math #LeanProver #ITP
