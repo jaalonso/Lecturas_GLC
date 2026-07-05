@@ -89,6 +89,11 @@ its content.
 
 ** Julio 2026
 
+*** 04-Jul-26
++ [[https://arxiv.org/abs/2606.28990v1][The fundamental theorem of Asset Pricing, formalized in Lean 4]]. ~ Raphael Coelho. #LeanProver #ITP
++ [[https://www.diva-portal.org/smash/get/diva2:2080968/FULLTEXT01.pdf][Mechanizing proofs from a course on programming language semantics in Lean]]. ~ Hampus Toft. #LeanProver #ITP
++ [[https://lfmtp.github.io/lfmtp-page/workshops/2026/papers/lfmtp26_paper9.pdf][Anti-unification completeness analysis in PVS]]. ~ Mauricio Ayala-Rincón et als. #PVS #ITP
+
 *** 03-Jul-26
 + [[https://arxiv.org/abs/2607.01544v1][Formalized q-series: The Rogers-Ramanujan identities and beyond]]. ~ Kenny Lau, Seewoo Lee, Ken Ono. #LeanProver #ITP #Math
 + [[https://arxiv.org/abs/2510.08452][Formalization of the zigzag construction of path spaces of pushouts in homotopy type theory]]. ~ Vojtěch Štěpančík. #Agda #ITP #Math
