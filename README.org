@@ -89,6 +89,15 @@ its content.
 
 ** Julio 2026
 
+*** 06-Jul-26
++ [[https://isa-afp.org/entries/Infinite_Descent_Criteria.html][Certified infinite descent criteria (in Isabelle/HOL)]]. ~ Jamie Wright, Liron Cohen, Reuben Rowe, Andrei Popescu. #IsabelleHOL #ITP
++ [[https://isa-afp.org/entries/ZF_finite.html][Axiomatic theory of hereditarily finite sets and its fragments (in Isabelle/HOL)]]. ~ Štěpán Holub, Zuzana Haniková. #IsabelleHOL #ITP #Math
++ [[https://aclanthology.org/2026.bigpicture-main.2.pdf][Open problems solved by LLMs? A survey of verifiable mathematical discovery]]. ~ Ioannis Tzachristas, Georgios Tzachristas, Aifen Sui. #AI4Math
+
+*** 05-Jul-26
++ [[https://www.preprints.org/manuscript/202607.0075][An explicit eventual p⁴-divisibility theorem for an Apery-type numerator family]]. ~ Zhipeng Chen, Qisheng Wang, Yan Feng. #LeanProver #ITP #Math
++ [[https://isa-afp.org/entries/Tabulation_Hashing.html][Formalization of 3-independence of simple tabulation hashing (in Isabelle/HOL)]]. ~ Wei De Leong, Yong Kiam Tan, Seng Joe Watt. #IsabelleHOL #ITP
+
 *** 04-Jul-26
 + [[https://arxiv.org/abs/2606.28990v1][The fundamental theorem of Asset Pricing, formalized in Lean 4]]. ~ Raphael Coelho. #LeanProver #ITP
 + [[https://www.diva-portal.org/smash/get/diva2:2080968/FULLTEXT01.pdf][Mechanizing proofs from a course on programming language semantics in Lean]]. ~ Hampus Toft. #LeanProver #ITP
