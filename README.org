@@ -89,6 +89,10 @@ its content.
 
 ** Julio 2026
 
+*** 07-Jul-26
++ [[https://arxiv.org/abs/2505.07681][Verified purely functional catenable real-time deques]]. ~ Jules Viennot, Arthur Wendling, Armaël Guéneau, François Pottier. #RocqProver #ITP #FunctionalProgramming
++ [[https://arxiv.org/abs/2607.04394][MechMath agent team: LLM driven agents for mathematical research]]. ~ Yichuan Cao, Ruichen Qiu, Junqi Liu, Jiaqi Wang, Dakai Guo, Ruyong Feng, Lihong Zhi, Xiao-Shan Gao. #AI4Math
+
 *** 06-Jul-26
 + [[https://isa-afp.org/entries/Infinite_Descent_Criteria.html][Certified infinite descent criteria (in Isabelle/HOL)]]. ~ Jamie Wright, Liron Cohen, Reuben Rowe, Andrei Popescu. #IsabelleHOL #ITP
 + [[https://isa-afp.org/entries/ZF_finite.html][Axiomatic theory of hereditarily finite sets and its fragments (in Isabelle/HOL)]]. ~ Štěpán Holub, Zuzana Haniková. #IsabelleHOL #ITP #Math
