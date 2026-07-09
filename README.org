@@ -89,6 +89,13 @@ its content.
 
 ** Julio 2026
 
+*** 08-Jul-26
++ [[https://openreview.net/pdf?id=OUtgFOscnh][Euclean: Automated geometry problem formalization with unified verification in Lean]]. ~ Linbin Tang et als. #LeanProver #ITP #AI4Math
++ [[https://arxiv.org/abs/2602.05090][Almost all primes are partially regular]]. ~ Evan Chen et als. #LeanProver #ITP #AI4Math
++ [[https://isa-afp.org/entries/Height_Balanced_Tree_Bounds.html][Height bounds for height-balanced trees (in Isabelle/HOL)]]. ~ Manuel Eberl. #IsabelleHOL #ITP
++ [[https://isa-afp.org/entries/Freiman_3k_4.html][Freiman's 3k - 4 theorem (in Isabelle/HOL)]]. ~ Arthur Freitas Ramos, David Barros Hulak, Ruy Jose Guerra Barretto de Queiroz. #IsabelleHOL #ITP #Math
++ [[https://isa-afp.org/entries/BMSSP_Correctness.html][Correctness and complexity of BMSSP in Isabelle/HOL]]. ~ Arthur Freitas Ramos, David Barros Hulak, Ruy Jose Guerra Barretto de Queiroz. #IsabelleHOL #ITP
+
 *** 07-Jul-26
 + [[https://arxiv.org/abs/2505.07681][Verified purely functional catenable real-time deques]]. ~ Jules Viennot, Arthur Wendling, Armaël Guéneau, François Pottier. #RocqProver #ITP #FunctionalProgramming
 + [[https://arxiv.org/abs/2607.04394][MechMath agent team: LLM driven agents for mathematical research]]. ~ Yichuan Cao, Ruichen Qiu, Junqi Liu, Jiaqi Wang, Dakai Guo, Ruyong Feng, Lihong Zhi, Xiao-Shan Gao. #AI4Math
