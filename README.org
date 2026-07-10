@@ -89,6 +89,17 @@ its content.
 
 ** Julio 2026
 
+*** 09-Jul-26
++ [[https://cfreer.org/papers/ITP-definetti-2026.pdf][Three roads to de Finetti’s theorem in Lean 4]]. ~ Cameron Freer. #LeanProver #ITP #AI4Math
++ [[https://arxiv.org/abs/2606.01438][Formalizing multi-graded Brenner-Schröer Proj schemes and dilatations of rings in Lean4]]. ~ Arnaud Mayeux, Jujian Zhang. #LeanProver #ITP #Math
++ [[https://isa-afp.org/entries/Incomplete_Gamma.html][The incomplete gamma function (in Isabelle/HOL)]]. ~ Manuel Eberl. #IsabelleHOL #ITP #Math
++ [[https://isa-afp.org/entries/Rademacher_Series.html][Rademacher's series for the partition function (in Isabelle/HOL)]]. ~ Manuel Eberl, Lawrence C. Paulson. #IsabelleHOL #ITP #Math
++ [[https://isa-afp.org/entries/Exp_Log_Integral.html][The exponential and logarithmic integral (in Isabelle/HOL)]]. ~ Manuel Eberl. #IsabelleHOL #ITP #Math
++ [[https://isa-afp.org/entries/Bessel.html][Bessel functions of the first kind (in Isabelle/HOL)]]. ~ Manuel Eberl. #IsabelleHOL #ITP #Math
++ [[https://isa-afp.org/entries/Arithmetic_Geometric_Mean.html][Complete elliptic integrals and the arithmetic–geometric mean (in Isabelle/HOL)]]. ~ Manuel Eberl. #IsabelleHOL #ITP #Math
++ [[https://www.gaussianos.com/lva2-vol-3-num-2-nuevo-numero-de-la-revista-de-retos-matematicos/][Lva² (vol. 3, núm. 2), nuevo número de la revista de «Retos matemáticos»]]. ~ Miguel Ángel Morales. #Matemáticas
++ [[https://drive.google.com/file/d/1FOMPmXmUPuczilnADPfekJeuCXruxuPo/edit][Demostrando lo indemostrable]]. ~ Esteban Martínez Vañó. #Lógica #Matemática
+
 *** 08-Jul-26
 + [[https://openreview.net/pdf?id=OUtgFOscnh][Euclean: Automated geometry problem formalization with unified verification in Lean]]. ~ Linbin Tang et als. #LeanProver #ITP #AI4Math
 + [[https://arxiv.org/abs/2602.05090][Almost all primes are partially regular]]. ~ Evan Chen et als. #LeanProver #ITP #AI4Math
