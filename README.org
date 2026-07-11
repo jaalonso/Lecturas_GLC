@@ -89,6 +89,10 @@ its content.
 
 ** Julio 2026
 
+*** 10-Jul-26
++ [[https://entropicthoughts.com/sicp-2-4-data-directed-programming-in-haskell][Data-directed programming in Haskell (SICP 2.4.3)]]. ~ kqr. #Haskell #FunctionalProgramming
++ [[https://entropicthoughts.com/sicp-2-4-tagged-data-in-haskell][Tagged data in Haskell (SICP 2.4.2)]]. ~ kqr. #Haskell #FunctionalProgramming
+
 *** 09-Jul-26
 + [[https://cfreer.org/papers/ITP-definetti-2026.pdf][Three roads to de Finetti’s theorem in Lean 4]]. ~ Cameron Freer. #LeanProver #ITP #AI4Math
 + [[https://arxiv.org/abs/2606.01438][Formalizing multi-graded Brenner-Schröer Proj schemes and dilatations of rings in Lean4]]. ~ Arnaud Mayeux, Jujian Zhang. #LeanProver #ITP #Math
