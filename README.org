@@ -89,6 +89,12 @@ its content.
 
 ** Julio 2026
 
+*** 12-Jul-26
++ [[https://arxiv.org/abs/2607.07898][A (24₄, 32₃)-configuration on the Schur quartic with logarithmic Chern slope 14/5]]. ~ Bartosz Naskręcki, Piotr Pokora. #AI4Math
+
+*** 11-Jul-26
++ [[https://arxiv.org/abs/2607.06379v1][Axioms for physical reasoning: codifying the Seiberg-Witten solution in Lean]]. ~ Michael R. Douglas. #LeanProver #ITP
+
 *** 10-Jul-26
 + [[https://entropicthoughts.com/sicp-2-4-data-directed-programming-in-haskell][Data-directed programming in Haskell (SICP 2.4.3)]]. ~ kqr. #Haskell #FunctionalProgramming
 + [[https://entropicthoughts.com/sicp-2-4-tagged-data-in-haskell][Tagged data in Haskell (SICP 2.4.2)]]. ~ kqr. #Haskell #FunctionalProgramming
