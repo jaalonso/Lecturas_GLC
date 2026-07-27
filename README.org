@@ -193,6 +193,49 @@ its content.
 + [[https://arxiv.org/abs/2607.13165v1][Interchange graphs of (0,1)-matrices are maximally Hamiltonian]]. ~ Jeffrey S. Baggett, Huiya Yan. #LeanProver #ITP
 + [[https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.FSCD.2026.32][New and formalized proofs for right-forward closures and core matrix interpretations]]. ~ René Thiemann, Dieter Hofbauer, Ulysse Le Huitouze, Johannes Waldmann. #IsabelleHOL #ITP
 
+*** 20-Jul-26
++ [[https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/][Human mathematicians are being outcounterexampled]]. ~ Kevin Buzzard. #AI4Math
++ [[https://www.gaussianos.com/encontrado-un-contraejemplo-de-la-conjetura-jacobiana-con-claude-fable-5/][Encontrado un contraejemplo de la conjetura jacobiana con Claude Fable 5]]. ~ Miguel Ángel Morales. #AI4Math
++ [[https://jaalonso.github.io/vestigium/posts/2026/07/20-readings_shared_07-20-26][Readings shared July 20, 2026]]. #AI4Math #CoqProver #FunctionalProgramming #Haskell #ITP #IsabelleHOL #LeanProver #Logic #Math #PVS #RocqProver
++ [[https://1pt.co/Lean4Reto10][#RetoLean4: Soluciones del reto 10 (Si una sucesión converge a un límite no nulo, entonces sus términos están eventualmente acotados inferiormente por la mitad del valor absoluto del límite)]]. #LeanProver #ITP #Math
++ [[https://youtu.be/cSrTBV0jiDA][#Retolean4: Vídeo tutorial sobre cómo resolver el reto 10]]. #LeanProver #ITP #Math
++ [[https://1pt.co/Lean4Reto11Enunciado][#RetoLean4: Enunciado del reto 11 (Si la sucesión aₙ converge a L, entonces |aₙ| converge a |L|)]]. #LeanProver #ITP #Math
+
+*** 21-Jul-26
++ [[https://drops.dagstuhl.de/storage/00lipics/lipics-vol382-itp2026/LIPIcs.ITP.2026.19/LIPIcs.ITP.2026.19.pdf][Formalizing the Bruck–Ryser–Chowla theorem: Combinatorial design theory in Lean]]. ~ Eric Jonathan Wang, Elif Uskuplu. #LeanProver #ITP
+
+*** 22-Jul-26
++ [[https://drops.dagstuhl.de/storage/00lipics/lipics-vol382-itp2026/LIPIcs.ITP.2026.26/LIPIcs.ITP.2026.26.pdf][An end-to-end verification of Keller’s conjecture]]. ~ James Gallicchio, Cayden Codel, Jeremy Avigad, Marijn J. H. Heule. #LeanProver #ITP #Math
++ [[https://drops.dagstuhl.de/storage/00lipics/lipics-vol382-itp2026/LIPIcs.ITP.2026.35/LIPIcs.ITP.2026.35.pdf][A Lean tactic for normalizing expressions in an algebra over a ring]]. ~ Arend Mellendijk. #LeanProver #ITP
++ [[https://isa-afp.org/entries/Jacobian_Counterexample.html][Formal verification of an explicit counterexample to the jacobian conjecture]]. ~ Arthur Freitas Ramos, David Barros Hulak, Ruy Jose Guerra Barretto de Queiroz. #IsabelleHOL #ITP #Math
++ [[https://arxiv.org/abs/2607.17292v1][Topology in synthetic domain theory and its formalisation in Agda]]. ~ Runze Xue. #Agda #ITP #Math
++ [[https://arxiv.org/abs/2607.17477][On some problems from the Kourovka notebook]]. ~ Wouter van Doorn, Elias Judin, Pietro Monticone, Daniel Morrison. #AI4Math #LeanProver #ITP #Aristotle
++ [[https://arxiv.org/abs/2607.17388v1][Mathematical discovery in the wild: AI-guided proofs in Banach space theory]]. ~ Antonio Acuaviva, Pablo Acuaviva. #AI4Math
++ [[https://github.com/TauCetiProject/TauCeti][Tau Ceti: a repository of formal mathematics, directed by human-written roadmaps, implemented and maintained by AI contributors, subject to adversarial review]]. ~ Kim Morrison et als. #AI4Math #LeanProver #ITP
+
+*** 24-Jul-26
++ [[https://www.cs.ru.nl/bachelors-theses/2026/Sophie_Krijgsman___1072493___Formalising_Standard_Deontic_Logic_and_Dyadic_Deontic_Logic_in_Rocq.pdf][Formalising standard deontic logic and dyadic deontic logic in Rocq]]. ~ Sophie Krijgsman. #RocqProver #ITP #Logic
++ [[https://qiqt.org/QIQT_AI_Methodology.pdf][An audited human-AI loop for trustworthy Lean formalization: axiom-budget auditing, a goal-directed state report, and a conditional general-relativity case study]]. ~ Paweł Kapłański. #AI4Math #LeanProver #ITP
++ [[https://arxiv.org/abs/2607.20503v1][LeanFlow: A case study in workflow-driven Lean autoformalization]]. ~ Lazar Milikic, Simon Guilloud, Khanh Nguyen, Viktor Kuncak. #AI4Math #LeanProver #ITP
++ [[https://arxiv.org/abs/2607.21187v1][Case study: proving sqrt(2) irrational with LPTP and an LLM]]. ~ Fred Mesnard, Étienne Payet, Wim Vanhoof. #AI4Math #LPTP #Prolog
++ [[https://arxiv.org/abs/2607.21196v1][Case study: solving P-99 with LPTP and an LLM]]. ~ Fred Mesnard, Thierry Marianne, Étienne Payet, Wim Vanhoof. #AI4Math #LPTP #Prolog
++ [[https://images.nvidia.com/pdf/Open-Weights-and-American-AI-Leadership.pdf][Open weights and american AI leadership]]. #AI
+
+*** 25-Jul-26
++ [[https://teorth.github.io/tao-web/slides/age-of-ai-icm-2026.pdf][Mathematics in the age of AI]]. ~ Terence Tao. #AI4Math
++ [[https://teorth.github.io/tao-web/ai-views.html][Terence Tao on AI in mathematics (and beyond)]]. #AI4Math
++ [[https://teorth.github.io/tao-web/ai-views-interview.html][Interview: Terence Tao on AI]]. #AI4Math
++ [[https://web.mathi.uni-heidelberg.de/media/How_To_Read_Math_88bf1d2d47.pdf][How to read mathematics? (A study guide)]]. ~ Petra Schwer. #Math
+
+*** 26-Jul-26
++ [[https://link.springer.com/content/pdf/10.1007/978-3-032-32589-1_7.pdf][grind: An SMT-inspired tactic for Lean 4]]. ~ Kim Morrison, Leonardo de Moura. #LeanProver #ITP
++ [[https://icms-conference.org/2026/papers/paper10/main.pdf][Formalizing the Wu-Ritt characteristic set method in Lean 4]]. ~ Yuxuan Xiao, Hao Shen, Junyu Guo, Dingkang Wang, Lihong Zhi. #LeanProver #ITP #Math
++ [[https://arxiv.org/abs/2607.20186][From Dag-Like proofs to boolean circuits in Lean]]. ~ Lorenzo Saraiva, Edward Hermann Haeusler. #LeanProver #ITP
++ [[https://arxiv.org/abs/2607.20816v1][Cofinite zeros of high derivatives]]. ~ Eric Hou. #LeanProver #ITP #Math
++ [[https://eprint.iacr.org/2026/1490.pdf][On the formal verification of polynomial commitments: two KZG constructions and the algebraic group model]]. ~ Tobias Rothmann. #IsabelleHOL #ITP
++ [[https://people.cs.nott.ac.uk/pszgmh/pickard-thesis.pdf][Dependent types for compiler calculation]]. ~ Mitchell Pickard. #Agda #ITP
++ [[https://mathoverflow.net/questions/513540/should-we-trust-ai-generated-formal-proofs-in-lean-4][Should we trust AI-generated formal proofs in Lean 4? ~ MathOverflow]]. #AI4Math
+
 ** Junio 2026
 
 *** 29-Jun-26
