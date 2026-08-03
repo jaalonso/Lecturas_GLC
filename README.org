@@ -11,6 +11,7 @@ its content.
 
 * Content                                                                      :TOC:
 - [[#lecturas-del-año-2026][Lecturas del año 2026]]
+  - [[#agosto-2026][Agosto 2026]]
   - [[#julio-2026][Julio 2026]]
   - [[#junio-2026][Junio 2026]]
   - [[#mayo-2026][Mayo 2026]]
@@ -87,49 +88,129 @@ its content.
 
 * Lecturas del año 2026
 
+** Agosto 2026
+
+*** 02-Ago-26
++ [[https://borretti.me/article/mathematics-without-mathematicians][Mathematics without mathematicians]]. ~ Fernando Borretti. #AI4Math
++ [[https://ml4sp.github.io/papers/2026/paper7.pdf][An LLM-based recommendation system for PVS]]. ~ Nikson Bernardes Fernandes Ferreira, Mariano M. Moscato, Mauricio Ayala-Rincón. #PVS #ITP #LLMs
+
+*** 01-Ago-26
++ [[https://arxiv.org/abs/2607.27197][The Maxwell conjecture is false]]. ~ Philip Arathoon, Gavin Ball, Matthew D. Kvalheim. #AI4Math
++ [[https://cdn.openai.com/pdf/ten-proofs-oai.pdf][Ten advances in mathematics and theoretical computer science]]. #AI4Math
++ [[https://ubunlog.com/el-correcto-uso-de-los-parametros-en-un-modelo-de-inteligencia-artificial/][El correcto uso de los parámetros en un modelo de Inteligencia Artificial]]. ~ Diego Germán González. #AI
+
 ** Julio 2026
 
-*** 01-Jul-26
-+ [[https://arxiv.org/abs/2606.26141v1][Classifying the groups of order p³ in Lean]]. ~ Li Xiang. #LeanProver #ITP #Math
-+ [[https://era.ed.ac.uk/server/api/core/bitstreams/0abbb6de-2234-4219-91f5-6eb9853f9263/content][On the formalisation of Haag-Kastler nets in higher-order logic]]. ~ Richard H. J. Schmoetten. #IsabelleHOL #ITP
-+ [[https://isa-afp.org/entries/Submodular_Greedy.html][Greedy algorithms for cardinality-constrained submodular maximization]]. ~ Feier Lyu. #IsabelleHOL #ITP
-+ [[https://arxiv.org/abs/2606.26809v1][The educational proof assistant Waterproof in an introductory proof course: Proof construction and learning processes]]. ~ Pim Otte, Rogier Bos, Johan Commelin, Jim Portegies. #Waterproof #ITP #Teaching #Math
+*** 31-Jul-26
++ [[https://arxiv.org/abs/2607.27298v1][From lecture notes to Lean: Formalizing a textbook on probability theory]]. ~ Shuo Deng, Kenneth W. Shum. #AI4Math #LeanProver #ITP
++ [[https://pramaanalabs.ai/blog/pramaana-solves-imo-2026-in-lean-4-in-under-7-hours][Pramaana solves IMO 2026 in Lean 4 in under 7 hours (Pramaana’s Panini and Hardy systems formalized and proved all six IMO 2026 problems in Lean 4 in under seven hours and for less than $150)]]. ~ Arnav Mehta. #AI4Math #LeanProver #ITP
++ [[https://lawrencecpaulson.github.io/2026/07/30/Collatz.html][Why is it all in the kernel? ~ Lawrence Paulson]]. #ITP #LeanProver #IsabelleHOL #RocqProver
 
-*** 02-Jul-26
-+ [[https://www.researchgate.net/profile/Pawel-Przybylowicz-2/publication/408133759_Local_Reasoning_Models_for_Mathematics_-From_installation_through_concepts_to_workflows_with_Ollama/links/6a3ec9a668552924bb0257e5/Local-Reasoning-Models-for-Mathematics-From-installation-through-concepts-to-workflows-with-Ollama.pdf][Local reasoning models for mathematics (From installation, through concepts, to workflows with Ollama)]]. ~ Paweł Przybyłowicz. #AI4Math
-+ [[https://rkirov.github.io/posts/jacobian/][The jacobian challenge retro]]. ~ Rado Kirov. #AI4Math #LeanProver #ITP
-+ [[https://exploring-better-ways.bellroy.com/haskell-koan-type-checked-non-empty-strings.html][Haskell koan: Type-checked non-empty strings]]. ~ Mike Ledger. #Haskell #FunctionalProgramming
+*** 30-Jul-26
++ [[https://arxiv.org/abs/2607.26230v1][Formally certifying number field invariants]]. ~ Alain Chavarri Villarello, Sander R. Dahmen. #LeanProver #ITP #Math
 
-*** 03-Jul-26
-+ [[https://arxiv.org/abs/2607.01544v1][Formalized q-series: The Rogers-Ramanujan identities and beyond]]. ~ Kenny Lau, Seewoo Lee, Ken Ono. #LeanProver #ITP #Math
-+ [[https://arxiv.org/abs/2510.08452][Formalization of the zigzag construction of path spaces of pushouts in homotopy type theory]]. ~ Vojtěch Štěpančík. #Agda #ITP #Math
-+ [[https://gilkalai.wordpress.com/2026/07/02/the-ramanujan-challenge-for-ai/][The Ramanujan challenge for AI]]. ~ Gil Kalai. #AI4Math
-+ [[https://arxiv.org/abs/2605.21221v2][Binomial coefficients with divisors avoiding an interval]]. ~ Hung M. Bui, Slava Naprienko, Kyle Pratt, Alexandru Zaharescu. #AI4Math
+*** 29-Jul-26
++ [[https://link.springer.com/chapter/10.1007/978-3-032-32589-1_25][Growing HOLMS: A verified automated prover for Grzegorczyk logic in HOL Light]]. ~ Antonella Bilotta, Marco Maggesi, Cosimo Perini Brogi. #HOL_Light #ITP
++ [[https://blog.haskell.org/quick-tips-for-fast-iteration-in-haskell/ ][Quick tips for fast iteration in Haskell]]. ~ Tom Ellis, Laurent P. René de Cotret. #Haskell #FunctionalProgramming
 
-*** 04-Jul-26
-+ [[https://arxiv.org/abs/2606.28990v1][The fundamental theorem of Asset Pricing, formalized in Lean 4]]. ~ Raphael Coelho. #LeanProver #ITP
-+ [[https://www.diva-portal.org/smash/get/diva2:2080968/FULLTEXT01.pdf][Mechanizing proofs from a course on programming language semantics in Lean]]. ~ Hampus Toft. #LeanProver #ITP
-+ [[https://lfmtp.github.io/lfmtp-page/workshops/2026/papers/lfmtp26_paper9.pdf][Anti-unification completeness analysis in PVS]]. ~ Mauricio Ayala-Rincón et als. #PVS #ITP
+*** 27-Jul-26
++ [[https://arxiv.org/abs/2607.22524v1][Machine-checked arithmetic bit complexity of the Kannan-Bachem Smith normal form in Lean 4]]. ~ Junye Ji. #AI4Math #LeanProver #ITP
++ [[https://vibemathed.com/][VibeMathed: A website tracking mathematical problems solved by AI models - proved or disproved with a model in the loop]]. #AI4Math
++ [[https://arxiv.org/abs/2508.11136v1][Automating the derivation of unification algorithms (A case study in deductive program synthesis)]]. ~ Richard Waldinger. #DeductiveProgramSynthesis
 
-*** 05-Jul-26
-+ [[https://www.preprints.org/manuscript/202607.0075][An explicit eventual p⁴-divisibility theorem for an Apery-type numerator family]]. ~ Zhipeng Chen, Qisheng Wang, Yan Feng. #LeanProver #ITP #Math
-+ [[https://isa-afp.org/entries/Tabulation_Hashing.html][Formalization of 3-independence of simple tabulation hashing (in Isabelle/HOL)]]. ~ Wei De Leong, Yong Kiam Tan, Seng Joe Watt. #IsabelleHOL #ITP
+*** 26-Jul-26
++ [[https://link.springer.com/content/pdf/10.1007/978-3-032-32589-1_7.pdf][grind: An SMT-inspired tactic for Lean 4]]. ~ Kim Morrison, Leonardo de Moura. #LeanProver #ITP
++ [[https://icms-conference.org/2026/papers/paper10/main.pdf][Formalizing the Wu-Ritt characteristic set method in Lean 4]]. ~ Yuxuan Xiao, Hao Shen, Junyu Guo, Dingkang Wang, Lihong Zhi. #LeanProver #ITP #Math
++ [[https://arxiv.org/abs/2607.20186][From Dag-Like proofs to boolean circuits in Lean]]. ~ Lorenzo Saraiva, Edward Hermann Haeusler. #LeanProver #ITP
++ [[https://arxiv.org/abs/2607.20816v1][Cofinite zeros of high derivatives]]. ~ Eric Hou. #LeanProver #ITP #Math
++ [[https://eprint.iacr.org/2026/1490.pdf][On the formal verification of polynomial commitments: two KZG constructions and the algebraic group model]]. ~ Tobias Rothmann. #IsabelleHOL #ITP
++ [[https://people.cs.nott.ac.uk/pszgmh/pickard-thesis.pdf][Dependent types for compiler calculation]]. ~ Mitchell Pickard. #Agda #ITP
++ [[https://mathoverflow.net/questions/513540/should-we-trust-ai-generated-formal-proofs-in-lean-4][Should we trust AI-generated formal proofs in Lean 4? ~ MathOverflow]]. #AI4Math
 
-*** 06-Jul-26
-+ [[https://isa-afp.org/entries/Infinite_Descent_Criteria.html][Certified infinite descent criteria (in Isabelle/HOL)]]. ~ Jamie Wright, Liron Cohen, Reuben Rowe, Andrei Popescu. #IsabelleHOL #ITP
-+ [[https://isa-afp.org/entries/ZF_finite.html][Axiomatic theory of hereditarily finite sets and its fragments (in Isabelle/HOL)]]. ~ Štěpán Holub, Zuzana Haniková. #IsabelleHOL #ITP #Math
-+ [[https://aclanthology.org/2026.bigpicture-main.2.pdf][Open problems solved by LLMs? A survey of verifiable mathematical discovery]]. ~ Ioannis Tzachristas, Georgios Tzachristas, Aifen Sui. #AI4Math
+*** 25-Jul-26
++ [[https://teorth.github.io/tao-web/slides/age-of-ai-icm-2026.pdf][Mathematics in the age of AI]]. ~ Terence Tao. #AI4Math
++ [[https://teorth.github.io/tao-web/ai-views.html][Terence Tao on AI in mathematics (and beyond)]]. #AI4Math
++ [[https://teorth.github.io/tao-web/ai-views-interview.html][Interview: Terence Tao on AI]]. #AI4Math
++ [[https://web.mathi.uni-heidelberg.de/media/How_To_Read_Math_88bf1d2d47.pdf][How to read mathematics? (A study guide)]]. ~ Petra Schwer. #Math
 
-*** 07-Jul-26
-+ [[https://arxiv.org/abs/2505.07681][Verified purely functional catenable real-time deques]]. ~ Jules Viennot, Arthur Wendling, Armaël Guéneau, François Pottier. #RocqProver #ITP #FunctionalProgramming
-+ [[https://arxiv.org/abs/2607.04394][MechMath agent team: LLM driven agents for mathematical research]]. ~ Yichuan Cao, Ruichen Qiu, Junqi Liu, Jiaqi Wang, Dakai Guo, Ruyong Feng, Lihong Zhi, Xiao-Shan Gao. #AI4Math
+*** 24-Jul-26
++ [[https://www.cs.ru.nl/bachelors-theses/2026/Sophie_Krijgsman___1072493___Formalising_Standard_Deontic_Logic_and_Dyadic_Deontic_Logic_in_Rocq.pdf][Formalising standard deontic logic and dyadic deontic logic in Rocq]]. ~ Sophie Krijgsman. #RocqProver #ITP #Logic
++ [[https://qiqt.org/QIQT_AI_Methodology.pdf][An audited human-AI loop for trustworthy Lean formalization: axiom-budget auditing, a goal-directed state report, and a conditional general-relativity case study]]. ~ Paweł Kapłański. #AI4Math #LeanProver #ITP
++ [[https://arxiv.org/abs/2607.20503v1][LeanFlow: A case study in workflow-driven Lean autoformalization]]. ~ Lazar Milikic, Simon Guilloud, Khanh Nguyen, Viktor Kuncak. #AI4Math #LeanProver #ITP
++ [[https://arxiv.org/abs/2607.21187v1][Case study: proving sqrt(2) irrational with LPTP and an LLM]]. ~ Fred Mesnard, Étienne Payet, Wim Vanhoof. #AI4Math #LPTP #Prolog
++ [[https://arxiv.org/abs/2607.21196v1][Case study: solving P-99 with LPTP and an LLM]]. ~ Fred Mesnard, Thierry Marianne, Étienne Payet, Wim Vanhoof. #AI4Math #LPTP #Prolog
++ [[https://images.nvidia.com/pdf/Open-Weights-and-American-AI-Leadership.pdf][Open weights and american AI leadership]]. #AI
 
-*** 08-Jul-26
-+ [[https://openreview.net/pdf?id=OUtgFOscnh][Euclean: Automated geometry problem formalization with unified verification in Lean]]. ~ Linbin Tang et als. #LeanProver #ITP #AI4Math
-+ [[https://arxiv.org/abs/2602.05090][Almost all primes are partially regular]]. ~ Evan Chen et als. #LeanProver #ITP #AI4Math
-+ [[https://isa-afp.org/entries/Height_Balanced_Tree_Bounds.html][Height bounds for height-balanced trees (in Isabelle/HOL)]]. ~ Manuel Eberl. #IsabelleHOL #ITP
-+ [[https://isa-afp.org/entries/Freiman_3k_4.html][Freiman's 3k - 4 theorem (in Isabelle/HOL)]]. ~ Arthur Freitas Ramos, David Barros Hulak, Ruy Jose Guerra Barretto de Queiroz. #IsabelleHOL #ITP #Math
-+ [[https://isa-afp.org/entries/BMSSP_Correctness.html][Correctness and complexity of BMSSP in Isabelle/HOL]]. ~ Arthur Freitas Ramos, David Barros Hulak, Ruy Jose Guerra Barretto de Queiroz. #IsabelleHOL #ITP
+*** 22-Jul-26
++ [[https://drops.dagstuhl.de/storage/00lipics/lipics-vol382-itp2026/LIPIcs.ITP.2026.26/LIPIcs.ITP.2026.26.pdf][An end-to-end verification of Keller’s conjecture]]. ~ James Gallicchio, Cayden Codel, Jeremy Avigad, Marijn J. H. Heule. #LeanProver #ITP #Math
++ [[https://drops.dagstuhl.de/storage/00lipics/lipics-vol382-itp2026/LIPIcs.ITP.2026.35/LIPIcs.ITP.2026.35.pdf][A Lean tactic for normalizing expressions in an algebra over a ring]]. ~ Arend Mellendijk. #LeanProver #ITP
++ [[https://isa-afp.org/entries/Jacobian_Counterexample.html][Formal verification of an explicit counterexample to the jacobian conjecture]]. ~ Arthur Freitas Ramos, David Barros Hulak, Ruy Jose Guerra Barretto de Queiroz. #IsabelleHOL #ITP #Math
++ [[https://arxiv.org/abs/2607.17292v1][Topology in synthetic domain theory and its formalisation in Agda]]. ~ Runze Xue. #Agda #ITP #Math
++ [[https://arxiv.org/abs/2607.17477][On some problems from the Kourovka notebook]]. ~ Wouter van Doorn, Elias Judin, Pietro Monticone, Daniel Morrison. #AI4Math #LeanProver #ITP #Aristotle
++ [[https://arxiv.org/abs/2607.17388v1][Mathematical discovery in the wild: AI-guided proofs in Banach space theory]]. ~ Antonio Acuaviva, Pablo Acuaviva. #AI4Math
++ [[https://github.com/TauCetiProject/TauCeti][Tau Ceti: a repository of formal mathematics, directed by human-written roadmaps, implemented and maintained by AI contributors, subject to adversarial review]]. ~ Kim Morrison et als. #AI4Math #LeanProver #ITP
+
+*** 21-Jul-26
++ [[https://drops.dagstuhl.de/storage/00lipics/lipics-vol382-itp2026/LIPIcs.ITP.2026.19/LIPIcs.ITP.2026.19.pdf][Formalizing the Bruck–Ryser–Chowla theorem: Combinatorial design theory in Lean]]. ~ Eric Jonathan Wang, Elif Uskuplu. #LeanProver #ITP
+
+*** 20-Jul-26
++ [[https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/][Human mathematicians are being outcounterexampled]]. ~ Kevin Buzzard. #AI4Math
++ [[https://www.gaussianos.com/encontrado-un-contraejemplo-de-la-conjetura-jacobiana-con-claude-fable-5/][Encontrado un contraejemplo de la conjetura jacobiana con Claude Fable 5]]. ~ Miguel Ángel Morales. #AI4Math
++ [[https://jaalonso.github.io/vestigium/posts/2026/07/20-readings_shared_07-20-26][Readings shared July 20, 2026]]. #AI4Math #CoqProver #FunctionalProgramming #Haskell #ITP #IsabelleHOL #LeanProver #Logic #Math #PVS #RocqProver
++ [[https://1pt.co/Lean4Reto10][#RetoLean4: Soluciones del reto 10 (Si una sucesión converge a un límite no nulo, entonces sus términos están eventualmente acotados inferiormente por la mitad del valor absoluto del límite)]]. #LeanProver #ITP #Math
++ [[https://youtu.be/cSrTBV0jiDA][#Retolean4: Vídeo tutorial sobre cómo resolver el reto 10]]. #LeanProver #ITP #Math
++ [[https://1pt.co/Lean4Reto11Enunciado][#RetoLean4: Enunciado del reto 11 (Si la sucesión aₙ converge a L, entonces |aₙ| converge a |L|)]]. #LeanProver #ITP #Math
+
+*** 19-Jul-26
++ [[https://arxiv.org/abs/2607.14082v1][Building Shor's algorithm in Lean: An agentic formalization of quantum attacks on RSA-2048 and P-256]]. ~ Lei Zhang, Yusheng Zhao, Hongshun Yao, Xin Wang. #LeanProver #ITP
++ [[https://arxiv.org/abs/2607.13165v1][Interchange graphs of (0,1)-matrices are maximally Hamiltonian]]. ~ Jeffrey S. Baggett, Huiya Yan. #LeanProver #ITP
++ [[https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.FSCD.2026.32][New and formalized proofs for right-forward closures and core matrix interpretations]]. ~ René Thiemann, Dieter Hofbauer, Ulysse Le Huitouze, Johannes Waldmann. #IsabelleHOL #ITP
+
+*** 18-Jul-26
++ [[https://isa-afp.org/entries/Right_Forward_Closures.html][Termination restricted to right-forward closures (in Isabelle/HOL)]]. ~ René Thiemann, Dieter Hofbauer, Ulysse Le Huitouze, Johannes Waldmann. #IsabelleHOL #ITP
+
+*** 17-Jul-26
++ [[https://arxiv.org/abs/2607.14999v1][Verification of a DPLL transition system in Rocq]]. ~ Julia Dijkstra, Benedikt Ahrens. #RocqProver #ITP
++ [[https://arxiv.org/abs/2410.13508v1][Formalizing hyperspaces and operations on subsets of polish spaces over abstract exact real numbers]]. ~ Michal Konečný, Sewon Park, Holger Thies. #CoqProver #ITP #Math
++ [[https://blog.haskell.org/enterprise-haskell-at-h-e-b/][Enterprise Haskell at H-E-B]]. ~ Joshua Miller. #Haskell #FunctionalProgramming
+
+*** 16-Jul-26
++ [[https://isa-afp.org/entries/Conway_Circle.html][Conway's circle theorem in Isabelle/HOL]]. ~ Arthur Freitas Ramos, David Barros Hulak, Ruy Jose Guerra Barretto de Queiroz. #IsabelleHOL #ITP #Math
++ [[https://arxiv.org/abs/2607.13899v1][AIMO interpretability challenge]]. ~ Michal Štefánik et als. #AI4Math
++ [[https://youtu.be/o3Q4RnP2u1I][GHC String interpolation]]. ~ Brandon Chinn. #Haskell #FunctionalProgramming
++ [[https://youtu.be/BtTaT90OvPE][Stable Haskell]]. ~ Julian Ospald. #Haskell #FunctionalProgramming
++ [[https://youtu.be/qk_P8piUclI][Is there a future for a formally specified Haskell report?]]. ~ David Binder. #Haskell #FunctionalProgramming #LeanProver #ITP
+
+*** 15-Jul-26
++ [[https://isa-afp.org/entries/MSOinHOL.html][Monadic second-order logic in HOL: Deep and shallow embeddings with automated faithfulness (Isabelle/HOL dataset)]]. ~ Christoph Benzmüller, Daniel Kirchner. #IsabelleHOL #ITP #Logic
++ [[https://isa-afp.org/entries/Polynomial_Commitment_Schemes.html][Polynomial commitment schemes (in Isabelle/HOL)]]. ~ Tobias Rothmann. #IsabelleHOL #ITP
++ [[https://arxiv.org/abs/2607.12655][Anti-unification completeness analysis in PVS]]. ~ Mauricio Ayala-Rincón, Thaynara Arielly de Lima, Maria Júlia Dias Lima, Temur Kutsia, Marcos Mercandeli-Rodrigues. #PVS #ITP
++ [[https://arxiv.org/abs/2607.09721v1][The Ramanujan challenge for AI]]. ~ Michael Shalyt, Rotem Kalisch, Carsten Schneider, Hila Barkan, Elyasheev Leibtag, John Campbell, Shachar Weinbaum, Tali Monderer, Ashvni Narayanan, Ido Kaminer. #AI4Math
+
+*** 14-Jul-26
++ [[https://arxiv.org/abs/2607.08656v1][Cantor measures with odd base do not admit Fourier frames]]. ~ Jaume de Dios Pont, Lukas Liehr, Mitchell A. Taylor. #LeanProver #ITP #Math
++ [[https://arxiv.org/abs/2607.08366v1][Minimum modulus for the unique multiset-sum problem]]. ~ José A. R. Fonollosa. #LeanProver #ITP
++ [[https://arxiv.org/abs/2607.10216][Formalizing abstract simplicial complexes & stellar subdivisions in Lean]]. ~ Garett Cunningham, Daniel Zach, Stefan Friedl. #LeanProver #ITP #Math
++ [[https://archive.is/qJLGP#selection-663.0-667.0 ][Mathematicians put AI to work on Fermat's last theorem]]. ~ Matthew Sparkes. #LeanProver #AI4Math
++ [[https://arxiv.org/abs/2607.10880][First-order modal logic in HOL: Deep and shallow embeddings with automated faithfulness]]. ~ Christoph Benzmüller, Daniel Kirchner. #IsabelleHOL #ITP #Logic
++ [[https://isa-afp.org/entries/Chevalley_Warning.html][The Chevalley-Warning theorem (in Isabelle/HOL)]]. ~ Arthur Freitas Ramos, David Barros Hulak, Ruy Jose Guerra Barretto de Queiroz. #IsabelleHOL #ITP #Math
++ [[https://arxiv.org/abs/2607.07779v1][From solvers to research: Large language model-driven formal mathematics at the research frontier]]. ~ Eric Jiang, Xiao Liang, Yikai Zhang, Yingjia Wan, Mengting Li, Haikang Deng, Alexander K. Taylor, Justin Baker, Rushil Raghavan, Junyi Zhang, Ying Nian Wu, Andrea L. Bertozzi, Kai-Wei Chang, Raghu Meka, Matthew Sottile, Nanyun Peng, Amit Sahai, Terence Tao, Wei Wang. #AI4Math
+
+*** 13-Jul-26
++ [[https://digitalcommons.dartmouth.edu/cgi/viewcontent.cgi?article=1080&context=cs_senior_theses][Representing Lean proofs: Tactics, trajectories, search]]. ~ Elisaveta Samoylov. #LeanProver #ITP
++ [[https://bford.info/pub/lang/paradox/paradox.pdf][Formalizing paradoxes in grounded arithmetic using Isabelle/HOL]]. ~ Ananthajit Srikanth, Bryan Ford. #IsabelleHOL #ITP #Math
++ [[https://arxiv.org/abs/2607.09217v1][OpenProver: Agentic and interactive theorem proving with Lean 4]]. ~ Matěj Kripner, Milan Straka. #AI4Math #LeanProver
++ [[https://arxiv.org/abs/2607.08986v1][A formalization of the mean-field derivation of the Vlasov equation: AI-assisted Lean formalization as a strategy game]]. ~ Joseph K. Miller. #AI4Math #LeanProver
+
+*** 12-Jul-26
++ [[https://arxiv.org/abs/2607.07898][A (24₄, 32₃)-configuration on the Schur quartic with logarithmic Chern slope 14/5]]. ~ Bartosz Naskręcki, Piotr Pokora. #AI4Math
+
+*** 11-Jul-26
++ [[https://arxiv.org/abs/2607.06379v1][Axioms for physical reasoning: codifying the Seiberg-Witten solution in Lean]]. ~ Michael R. Douglas. #LeanProver #ITP
+
+*** 10-Jul-26
++ [[https://entropicthoughts.com/sicp-2-4-data-directed-programming-in-haskell][Data-directed programming in Haskell (SICP 2.4.3)]]. ~ kqr. #Haskell #FunctionalProgramming
++ [[https://entropicthoughts.com/sicp-2-4-tagged-data-in-haskell][Tagged data in Haskell (SICP 2.4.2)]]. ~ kqr. #Haskell #FunctionalProgramming
 
 *** 09-Jul-26
 + [[https://cfreer.org/papers/ITP-definetti-2026.pdf][Three roads to de Finetti’s theorem in Lean 4]]. ~ Cameron Freer. #LeanProver #ITP #AI4Math
@@ -142,99 +223,47 @@ its content.
 + [[https://www.gaussianos.com/lva2-vol-3-num-2-nuevo-numero-de-la-revista-de-retos-matematicos/][Lva² (vol. 3, núm. 2), nuevo número de la revista de «Retos matemáticos»]]. ~ Miguel Ángel Morales. #Matemáticas
 + [[https://drive.google.com/file/d/1FOMPmXmUPuczilnADPfekJeuCXruxuPo/edit][Demostrando lo indemostrable]]. ~ Esteban Martínez Vañó. #Lógica #Matemática
 
-*** 10-Jul-26
-+ [[https://entropicthoughts.com/sicp-2-4-data-directed-programming-in-haskell][Data-directed programming in Haskell (SICP 2.4.3)]]. ~ kqr. #Haskell #FunctionalProgramming
-+ [[https://entropicthoughts.com/sicp-2-4-tagged-data-in-haskell][Tagged data in Haskell (SICP 2.4.2)]]. ~ kqr. #Haskell #FunctionalProgramming
+*** 08-Jul-26
++ [[https://openreview.net/pdf?id=OUtgFOscnh][Euclean: Automated geometry problem formalization with unified verification in Lean]]. ~ Linbin Tang et als. #LeanProver #ITP #AI4Math
++ [[https://arxiv.org/abs/2602.05090][Almost all primes are partially regular]]. ~ Evan Chen et als. #LeanProver #ITP #AI4Math
++ [[https://isa-afp.org/entries/Height_Balanced_Tree_Bounds.html][Height bounds for height-balanced trees (in Isabelle/HOL)]]. ~ Manuel Eberl. #IsabelleHOL #ITP
++ [[https://isa-afp.org/entries/Freiman_3k_4.html][Freiman's 3k - 4 theorem (in Isabelle/HOL)]]. ~ Arthur Freitas Ramos, David Barros Hulak, Ruy Jose Guerra Barretto de Queiroz. #IsabelleHOL #ITP #Math
++ [[https://isa-afp.org/entries/BMSSP_Correctness.html][Correctness and complexity of BMSSP in Isabelle/HOL]]. ~ Arthur Freitas Ramos, David Barros Hulak, Ruy Jose Guerra Barretto de Queiroz. #IsabelleHOL #ITP
 
-*** 11-Jul-26
-+ [[https://arxiv.org/abs/2607.06379v1][Axioms for physical reasoning: codifying the Seiberg-Witten solution in Lean]]. ~ Michael R. Douglas. #LeanProver #ITP
+*** 07-Jul-26
++ [[https://arxiv.org/abs/2505.07681][Verified purely functional catenable real-time deques]]. ~ Jules Viennot, Arthur Wendling, Armaël Guéneau, François Pottier. #RocqProver #ITP #FunctionalProgramming
++ [[https://arxiv.org/abs/2607.04394][MechMath agent team: LLM driven agents for mathematical research]]. ~ Yichuan Cao, Ruichen Qiu, Junqi Liu, Jiaqi Wang, Dakai Guo, Ruyong Feng, Lihong Zhi, Xiao-Shan Gao. #AI4Math
 
-*** 12-Jul-26
-+ [[https://arxiv.org/abs/2607.07898][A (24₄, 32₃)-configuration on the Schur quartic with logarithmic Chern slope 14/5]]. ~ Bartosz Naskręcki, Piotr Pokora. #AI4Math
+*** 06-Jul-26
++ [[https://isa-afp.org/entries/Infinite_Descent_Criteria.html][Certified infinite descent criteria (in Isabelle/HOL)]]. ~ Jamie Wright, Liron Cohen, Reuben Rowe, Andrei Popescu. #IsabelleHOL #ITP
++ [[https://isa-afp.org/entries/ZF_finite.html][Axiomatic theory of hereditarily finite sets and its fragments (in Isabelle/HOL)]]. ~ Štěpán Holub, Zuzana Haniková. #IsabelleHOL #ITP #Math
++ [[https://aclanthology.org/2026.bigpicture-main.2.pdf][Open problems solved by LLMs? A survey of verifiable mathematical discovery]]. ~ Ioannis Tzachristas, Georgios Tzachristas, Aifen Sui. #AI4Math
 
-*** 13-Jul-26
-+ [[https://digitalcommons.dartmouth.edu/cgi/viewcontent.cgi?article=1080&context=cs_senior_theses][Representing Lean proofs: Tactics, trajectories, search]]. ~ Elisaveta Samoylov. #LeanProver #ITP
-+ [[https://bford.info/pub/lang/paradox/paradox.pdf][Formalizing paradoxes in grounded arithmetic using Isabelle/HOL]]. ~ Ananthajit Srikanth, Bryan Ford. #IsabelleHOL #ITP #Math
-+ [[https://arxiv.org/abs/2607.09217v1][OpenProver: Agentic and interactive theorem proving with Lean 4]]. ~ Matěj Kripner, Milan Straka. #AI4Math #LeanProver
-+ [[https://arxiv.org/abs/2607.08986v1][A formalization of the mean-field derivation of the Vlasov equation: AI-assisted Lean formalization as a strategy game]]. ~ Joseph K. Miller. #AI4Math #LeanProver
+*** 05-Jul-26
++ [[https://www.preprints.org/manuscript/202607.0075][An explicit eventual p⁴-divisibility theorem for an Apery-type numerator family]]. ~ Zhipeng Chen, Qisheng Wang, Yan Feng. #LeanProver #ITP #Math
++ [[https://isa-afp.org/entries/Tabulation_Hashing.html][Formalization of 3-independence of simple tabulation hashing (in Isabelle/HOL)]]. ~ Wei De Leong, Yong Kiam Tan, Seng Joe Watt. #IsabelleHOL #ITP
 
-*** 14-Jul-26
-+ [[https://arxiv.org/abs/2607.08656v1][Cantor measures with odd base do not admit Fourier frames]]. ~ Jaume de Dios Pont, Lukas Liehr, Mitchell A. Taylor. #LeanProver #ITP #Math
-+ [[https://arxiv.org/abs/2607.08366v1][Minimum modulus for the unique multiset-sum problem]]. ~ José A. R. Fonollosa. #LeanProver #ITP
-+ [[https://arxiv.org/abs/2607.10216][Formalizing abstract simplicial complexes & stellar subdivisions in Lean]]. ~ Garett Cunningham, Daniel Zach, Stefan Friedl. #LeanProver #ITP #Math
-+ [[https://archive.is/qJLGP#selection-663.0-667.0 ][Mathematicians put AI to work on Fermat's last theorem]]. ~ Matthew Sparkes. #LeanProver #AI4Math
-+ [[https://arxiv.org/abs/2607.10880][First-order modal logic in HOL: Deep and shallow embeddings with automated faithfulness]]. ~ Christoph Benzmüller, Daniel Kirchner. #IsabelleHOL #ITP #Logic
-+ [[https://isa-afp.org/entries/Chevalley_Warning.html][The Chevalley-Warning theorem (in Isabelle/HOL)]]. ~ Arthur Freitas Ramos, David Barros Hulak, Ruy Jose Guerra Barretto de Queiroz. #IsabelleHOL #ITP #Math
-+ [[https://arxiv.org/abs/2607.07779v1][From solvers to research: Large language model-driven formal mathematics at the research frontier]]. ~ Eric Jiang, Xiao Liang, Yikai Zhang, Yingjia Wan, Mengting Li, Haikang Deng, Alexander K. Taylor, Justin Baker, Rushil Raghavan, Junyi Zhang, Ying Nian Wu, Andrea L. Bertozzi, Kai-Wei Chang, Raghu Meka, Matthew Sottile, Nanyun Peng, Amit Sahai, Terence Tao, Wei Wang. #AI4Math
+*** 04-Jul-26
++ [[https://arxiv.org/abs/2606.28990v1][The fundamental theorem of Asset Pricing, formalized in Lean 4]]. ~ Raphael Coelho. #LeanProver #ITP
++ [[https://www.diva-portal.org/smash/get/diva2:2080968/FULLTEXT01.pdf][Mechanizing proofs from a course on programming language semantics in Lean]]. ~ Hampus Toft. #LeanProver #ITP
++ [[https://lfmtp.github.io/lfmtp-page/workshops/2026/papers/lfmtp26_paper9.pdf][Anti-unification completeness analysis in PVS]]. ~ Mauricio Ayala-Rincón et als. #PVS #ITP
 
-*** 15-Jul-26
-+ [[https://isa-afp.org/entries/MSOinHOL.html][Monadic second-order logic in HOL: Deep and shallow embeddings with automated faithfulness (Isabelle/HOL dataset)]]. ~ Christoph Benzmüller, Daniel Kirchner. #IsabelleHOL #ITP #Logic
-+ [[https://isa-afp.org/entries/Polynomial_Commitment_Schemes.html][Polynomial commitment schemes (in Isabelle/HOL)]]. ~ Tobias Rothmann. #IsabelleHOL #ITP
-+ [[https://arxiv.org/abs/2607.12655][Anti-unification completeness analysis in PVS]]. ~ Mauricio Ayala-Rincón, Thaynara Arielly de Lima, Maria Júlia Dias Lima, Temur Kutsia, Marcos Mercandeli-Rodrigues. #PVS #ITP
-+ [[https://arxiv.org/abs/2607.09721v1][The Ramanujan challenge for AI]]. ~ Michael Shalyt, Rotem Kalisch, Carsten Schneider, Hila Barkan, Elyasheev Leibtag, John Campbell, Shachar Weinbaum, Tali Monderer, Ashvni Narayanan, Ido Kaminer. #AI4Math
+*** 03-Jul-26
++ [[https://arxiv.org/abs/2607.01544v1][Formalized q-series: The Rogers-Ramanujan identities and beyond]]. ~ Kenny Lau, Seewoo Lee, Ken Ono. #LeanProver #ITP #Math
++ [[https://arxiv.org/abs/2510.08452][Formalization of the zigzag construction of path spaces of pushouts in homotopy type theory]]. ~ Vojtěch Štěpančík. #Agda #ITP #Math
++ [[https://gilkalai.wordpress.com/2026/07/02/the-ramanujan-challenge-for-ai/][The Ramanujan challenge for AI]]. ~ Gil Kalai. #AI4Math
++ [[https://arxiv.org/abs/2605.21221v2][Binomial coefficients with divisors avoiding an interval]]. ~ Hung M. Bui, Slava Naprienko, Kyle Pratt, Alexandru Zaharescu. #AI4Math
 
-*** 16-Jul-26
-+ [[https://isa-afp.org/entries/Conway_Circle.html][Conway's circle theorem in Isabelle/HOL]]. ~ Arthur Freitas Ramos, David Barros Hulak, Ruy Jose Guerra Barretto de Queiroz. #IsabelleHOL #ITP #Math
-+ [[https://arxiv.org/abs/2607.13899v1][AIMO interpretability challenge]]. ~ Michal Štefánik et als. #AI4Math
-+ [[https://youtu.be/o3Q4RnP2u1I][GHC String interpolation]]. ~ Brandon Chinn. #Haskell #FunctionalProgramming
-+ [[https://youtu.be/BtTaT90OvPE][Stable Haskell]]. ~ Julian Ospald. #Haskell #FunctionalProgramming
-+ [[https://youtu.be/qk_P8piUclI][Is there a future for a formally specified Haskell report?]]. ~ David Binder. #Haskell #FunctionalProgramming #LeanProver #ITP
+*** 02-Jul-26
++ [[https://www.researchgate.net/profile/Pawel-Przybylowicz-2/publication/408133759_Local_Reasoning_Models_for_Mathematics_-From_installation_through_concepts_to_workflows_with_Ollama/links/6a3ec9a668552924bb0257e5/Local-Reasoning-Models-for-Mathematics-From-installation-through-concepts-to-workflows-with-Ollama.pdf][Local reasoning models for mathematics (From installation, through concepts, to workflows with Ollama)]]. ~ Paweł Przybyłowicz. #AI4Math
++ [[https://rkirov.github.io/posts/jacobian/][The jacobian challenge retro]]. ~ Rado Kirov. #AI4Math #LeanProver #ITP
++ [[https://exploring-better-ways.bellroy.com/haskell-koan-type-checked-non-empty-strings.html][Haskell koan: Type-checked non-empty strings]]. ~ Mike Ledger. #Haskell #FunctionalProgramming
 
-*** 17-Jul-26
-+ [[https://arxiv.org/abs/2607.14999v1][Verification of a DPLL transition system in Rocq]]. ~ Julia Dijkstra, Benedikt Ahrens. #RocqProver #ITP
-+ [[https://arxiv.org/abs/2410.13508v1][Formalizing hyperspaces and operations on subsets of polish spaces over abstract exact real numbers]]. ~ Michal Konečný, Sewon Park, Holger Thies. #CoqProver #ITP #Math
-+ [[https://blog.haskell.org/enterprise-haskell-at-h-e-b/][Enterprise Haskell at H-E-B]]. ~ Joshua Miller. #Haskell #FunctionalProgramming
-
-*** 18-Jul-26
-+ [[https://isa-afp.org/entries/Right_Forward_Closures.html][Termination restricted to right-forward closures (in Isabelle/HOL)]]. ~ René Thiemann, Dieter Hofbauer, Ulysse Le Huitouze, Johannes Waldmann. #IsabelleHOL #ITP
-
-*** 19-Jul-26
-+ [[https://arxiv.org/abs/2607.14082v1][Building Shor's algorithm in Lean: An agentic formalization of quantum attacks on RSA-2048 and P-256]]. ~ Lei Zhang, Yusheng Zhao, Hongshun Yao, Xin Wang. #LeanProver #ITP
-+ [[https://arxiv.org/abs/2607.13165v1][Interchange graphs of (0,1)-matrices are maximally Hamiltonian]]. ~ Jeffrey S. Baggett, Huiya Yan. #LeanProver #ITP
-+ [[https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.FSCD.2026.32][New and formalized proofs for right-forward closures and core matrix interpretations]]. ~ René Thiemann, Dieter Hofbauer, Ulysse Le Huitouze, Johannes Waldmann. #IsabelleHOL #ITP
-
-*** 20-Jul-26
-+ [[https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/][Human mathematicians are being outcounterexampled]]. ~ Kevin Buzzard. #AI4Math
-+ [[https://www.gaussianos.com/encontrado-un-contraejemplo-de-la-conjetura-jacobiana-con-claude-fable-5/][Encontrado un contraejemplo de la conjetura jacobiana con Claude Fable 5]]. ~ Miguel Ángel Morales. #AI4Math
-+ [[https://jaalonso.github.io/vestigium/posts/2026/07/20-readings_shared_07-20-26][Readings shared July 20, 2026]]. #AI4Math #CoqProver #FunctionalProgramming #Haskell #ITP #IsabelleHOL #LeanProver #Logic #Math #PVS #RocqProver
-+ [[https://1pt.co/Lean4Reto10][#RetoLean4: Soluciones del reto 10 (Si una sucesión converge a un límite no nulo, entonces sus términos están eventualmente acotados inferiormente por la mitad del valor absoluto del límite)]]. #LeanProver #ITP #Math
-+ [[https://youtu.be/cSrTBV0jiDA][#Retolean4: Vídeo tutorial sobre cómo resolver el reto 10]]. #LeanProver #ITP #Math
-+ [[https://1pt.co/Lean4Reto11Enunciado][#RetoLean4: Enunciado del reto 11 (Si la sucesión aₙ converge a L, entonces |aₙ| converge a |L|)]]. #LeanProver #ITP #Math
-
-*** 21-Jul-26
-+ [[https://drops.dagstuhl.de/storage/00lipics/lipics-vol382-itp2026/LIPIcs.ITP.2026.19/LIPIcs.ITP.2026.19.pdf][Formalizing the Bruck–Ryser–Chowla theorem: Combinatorial design theory in Lean]]. ~ Eric Jonathan Wang, Elif Uskuplu. #LeanProver #ITP
-
-*** 22-Jul-26
-+ [[https://drops.dagstuhl.de/storage/00lipics/lipics-vol382-itp2026/LIPIcs.ITP.2026.26/LIPIcs.ITP.2026.26.pdf][An end-to-end verification of Keller’s conjecture]]. ~ James Gallicchio, Cayden Codel, Jeremy Avigad, Marijn J. H. Heule. #LeanProver #ITP #Math
-+ [[https://drops.dagstuhl.de/storage/00lipics/lipics-vol382-itp2026/LIPIcs.ITP.2026.35/LIPIcs.ITP.2026.35.pdf][A Lean tactic for normalizing expressions in an algebra over a ring]]. ~ Arend Mellendijk. #LeanProver #ITP
-+ [[https://isa-afp.org/entries/Jacobian_Counterexample.html][Formal verification of an explicit counterexample to the jacobian conjecture]]. ~ Arthur Freitas Ramos, David Barros Hulak, Ruy Jose Guerra Barretto de Queiroz. #IsabelleHOL #ITP #Math
-+ [[https://arxiv.org/abs/2607.17292v1][Topology in synthetic domain theory and its formalisation in Agda]]. ~ Runze Xue. #Agda #ITP #Math
-+ [[https://arxiv.org/abs/2607.17477][On some problems from the Kourovka notebook]]. ~ Wouter van Doorn, Elias Judin, Pietro Monticone, Daniel Morrison. #AI4Math #LeanProver #ITP #Aristotle
-+ [[https://arxiv.org/abs/2607.17388v1][Mathematical discovery in the wild: AI-guided proofs in Banach space theory]]. ~ Antonio Acuaviva, Pablo Acuaviva. #AI4Math
-+ [[https://github.com/TauCetiProject/TauCeti][Tau Ceti: a repository of formal mathematics, directed by human-written roadmaps, implemented and maintained by AI contributors, subject to adversarial review]]. ~ Kim Morrison et als. #AI4Math #LeanProver #ITP
-
-*** 24-Jul-26
-+ [[https://www.cs.ru.nl/bachelors-theses/2026/Sophie_Krijgsman___1072493___Formalising_Standard_Deontic_Logic_and_Dyadic_Deontic_Logic_in_Rocq.pdf][Formalising standard deontic logic and dyadic deontic logic in Rocq]]. ~ Sophie Krijgsman. #RocqProver #ITP #Logic
-+ [[https://qiqt.org/QIQT_AI_Methodology.pdf][An audited human-AI loop for trustworthy Lean formalization: axiom-budget auditing, a goal-directed state report, and a conditional general-relativity case study]]. ~ Paweł Kapłański. #AI4Math #LeanProver #ITP
-+ [[https://arxiv.org/abs/2607.20503v1][LeanFlow: A case study in workflow-driven Lean autoformalization]]. ~ Lazar Milikic, Simon Guilloud, Khanh Nguyen, Viktor Kuncak. #AI4Math #LeanProver #ITP
-+ [[https://arxiv.org/abs/2607.21187v1][Case study: proving sqrt(2) irrational with LPTP and an LLM]]. ~ Fred Mesnard, Étienne Payet, Wim Vanhoof. #AI4Math #LPTP #Prolog
-+ [[https://arxiv.org/abs/2607.21196v1][Case study: solving P-99 with LPTP and an LLM]]. ~ Fred Mesnard, Thierry Marianne, Étienne Payet, Wim Vanhoof. #AI4Math #LPTP #Prolog
-+ [[https://images.nvidia.com/pdf/Open-Weights-and-American-AI-Leadership.pdf][Open weights and american AI leadership]]. #AI
-
-*** 25-Jul-26
-+ [[https://teorth.github.io/tao-web/slides/age-of-ai-icm-2026.pdf][Mathematics in the age of AI]]. ~ Terence Tao. #AI4Math
-+ [[https://teorth.github.io/tao-web/ai-views.html][Terence Tao on AI in mathematics (and beyond)]]. #AI4Math
-+ [[https://teorth.github.io/tao-web/ai-views-interview.html][Interview: Terence Tao on AI]]. #AI4Math
-+ [[https://web.mathi.uni-heidelberg.de/media/How_To_Read_Math_88bf1d2d47.pdf][How to read mathematics? (A study guide)]]. ~ Petra Schwer. #Math
-
-*** 26-Jul-26
-+ [[https://link.springer.com/content/pdf/10.1007/978-3-032-32589-1_7.pdf][grind: An SMT-inspired tactic for Lean 4]]. ~ Kim Morrison, Leonardo de Moura. #LeanProver #ITP
-+ [[https://icms-conference.org/2026/papers/paper10/main.pdf][Formalizing the Wu-Ritt characteristic set method in Lean 4]]. ~ Yuxuan Xiao, Hao Shen, Junyu Guo, Dingkang Wang, Lihong Zhi. #LeanProver #ITP #Math
-+ [[https://arxiv.org/abs/2607.20186][From Dag-Like proofs to boolean circuits in Lean]]. ~ Lorenzo Saraiva, Edward Hermann Haeusler. #LeanProver #ITP
-+ [[https://arxiv.org/abs/2607.20816v1][Cofinite zeros of high derivatives]]. ~ Eric Hou. #LeanProver #ITP #Math
-+ [[https://eprint.iacr.org/2026/1490.pdf][On the formal verification of polynomial commitments: two KZG constructions and the algebraic group model]]. ~ Tobias Rothmann. #IsabelleHOL #ITP
-+ [[https://people.cs.nott.ac.uk/pszgmh/pickard-thesis.pdf][Dependent types for compiler calculation]]. ~ Mitchell Pickard. #Agda #ITP
-+ [[https://mathoverflow.net/questions/513540/should-we-trust-ai-generated-formal-proofs-in-lean-4][Should we trust AI-generated formal proofs in Lean 4? ~ MathOverflow]]. #AI4Math
+*** 01-Jul-26
++ [[https://arxiv.org/abs/2606.26141v1][Classifying the groups of order p³ in Lean]]. ~ Li Xiang. #LeanProver #ITP #Math
++ [[https://era.ed.ac.uk/server/api/core/bitstreams/0abbb6de-2234-4219-91f5-6eb9853f9263/content][On the formalisation of Haag-Kastler nets in higher-order logic]]. ~ Richard H. J. Schmoetten. #IsabelleHOL #ITP
++ [[https://isa-afp.org/entries/Submodular_Greedy.html][Greedy algorithms for cardinality-constrained submodular maximization]]. ~ Feier Lyu. #IsabelleHOL #ITP
++ [[https://arxiv.org/abs/2606.26809v1][The educational proof assistant Waterproof in an introductory proof course: Proof construction and learning processes]]. ~ Pim Otte, Rogier Bos, Johan Commelin, Jim Portegies. #Waterproof #ITP #Teaching #Math
 
 ** Junio 2026
 
