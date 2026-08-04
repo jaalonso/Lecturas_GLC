@@ -1,10 +1,10 @@
 #+OPTIONS: ^:nil
 #+TITLE: Readings on computational logic, interactive theorem proving and functional programming
 
-This repository is a collection of readings shared on [[https://twitter.com/Jose_A_Alonso][Twitter]] about
+This repository is a collection of readings shared on [[https://mathstodon.xyz/@Jose_A_Alonso][Mastodon]] about
 computational logic, interactive theorem proving and functional programming.
 
-The collection is sorted by the date of its publication on [[https://twitter.com/Jose_A_Alonso][Twitter]].
+The collection is sorted by the date of its publication on [[https://mathstodon.xyz/@Jose_A_Alonso][Mastodon]].
 
 At the end of each article you will find tags related to the systems it uses or
 its content.
@@ -89,6 +89,10 @@ its content.
 * Lecturas del año 2026
 
 ** Agosto 2026
+
+*** 03-Ago-26
++ [[https://francis.naukas.com/2026/08/02/un-error-en-el-nucleo-de-lean-aprovechado-por-una-ia-para-refutar-la-conjetura-de-collatz/][Un error en el núcleo de Lean aprovechado por una IA para refutar la conjetura de Collatz]]. ~ Francisco R. Villatoro. #LeanProver #ITP #Math
++ [[https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/][Postmortem for kernel soundness bug #14576]]. ~ Leonardo de Moura. #LeanProver #ITP
 
 *** 02-Ago-26
 + [[https://borretti.me/article/mathematics-without-mathematicians][Mathematics without mathematicians]]. ~ Fernando Borretti. #AI4Math
