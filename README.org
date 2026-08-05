@@ -90,6 +90,20 @@ its content.
 
 ** Agosto 2026
 
+*** 04-Ago-26
++ [[https://francis.naukas.com/2026/08/02/un-error-en-el-nucleo-de-lean-aprovechado-por-una-ia-para-refutar-la-conjetura-de-collatz/][Un error en el núcleo de Lean aprovechado por una IA para refutar la conjetura de Collatz]]. ~ Francisco R. Villatoro. #LeanProver #ITP #Math
++ [[https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/][Postmortem for kernel soundness bug #14576]]. ~ Leonardo de Moura. #LeanProver #ITP
++ [[https://arxiv.org/abs/2608.02295][MechGeo: Autoformalizing and proving euclidean geometry in Lean 4]]. ~ Hao Shen, Junyu Guo, Tian Cui, Yuxuan Xiao, Lihong Zhi. #AI4Math #LeanProver #ITP
++ [[https://leodemoura.github.io/static/floc26/][The Lean theorem prover: design, evolution, and impact]]. ~ Leo de Moura. #LeanProver #ITP
++ [[https://arxiv.org/abs/2607.26230v1][Formally certifying number field invariants]]. ~ Alain Chavarri Villarello, Sander R. Dahmen. #LeanProver #ITP #Math
++ [[https://arxiv.org/abs/2607.28459v1][LeanCSP: A framework for certifying constraint reformulation and solving in Lean]]. ~ Pablo Manrique, Stefan Szeider. #LeanProver #ITP
++ [[https://verse-lab.org/papers/leetproof-ase26.pdf][Certified program synthesis with a multi-modal verifier]]. ~ Yueyang Feng et als. #LeanProver #FormalVerification
++ [[https://iwc2026.github.io/documents/iwc2026_proceedings.pdf#page=13][Verifying and generalizing simultaneous critical pairs]]. ~ René Thiemann. #IsabelleHOL #ITP #Math
++ [[https://www.quantamagazine.org/why-the-legendary-erdos-problems-are-falling-to-ai-20260803/][Why the legendary Erdős problems are falling to AI]]. ~ Konstantin Kakaes. #AI4Math
++ [[https://live.lean-lang.org/#url=https://github.com/jaalonso/Retos/blob/main/src/Reto_12.lean][#RetoLean4: Soluciones del reto 12 (Si aₙ → L, bₙ → M y L < M, entonces eventualmente aₙ < bₙ)]]. #LeanProver #ITP #Math
++ [[https://youtu.be/hodYneYNEWw][#Retolean4: Vídeo tutorial sobre cómo resolver el reto 12]]. #LeanProver #ITP #Math
++ [[https://t.me/Retos_Matematicos/109557/142397][#RetoLean4: Enunciado del reto 13 (Desigualdad triangular inversa: ||x| - |y|| ≤ |x - y|)]]. #LeanProver #ITP #Math
+
 *** 03-Ago-26
 + [[https://francis.naukas.com/2026/08/02/un-error-en-el-nucleo-de-lean-aprovechado-por-una-ia-para-refutar-la-conjetura-de-collatz/][Un error en el núcleo de Lean aprovechado por una IA para refutar la conjetura de Collatz]]. ~ Francisco R. Villatoro. #LeanProver #ITP #Math
 + [[https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/][Postmortem for kernel soundness bug #14576]]. ~ Leonardo de Moura. #LeanProver #ITP
