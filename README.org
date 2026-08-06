@@ -90,6 +90,12 @@ its content.
 
 ** Agosto 2026
 
+*** 05-Ago-26
++ [[https://arxiv.org/abs/2605.20244][Lean refactor: Multi-objective controllable proof optimization via agentic strategy search]]. ~ Jialin Lu, Soonho Kong, Rodrigo Stehling, Kaiyu Yang, Zhangyang Wang. #LeanProver #ITP #AI4Math
++ [[https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.TYPES.2025.2][Lean4Lean: Verifying a typechecker for Lean, in Lean]]. ~ Mario Carneiro. #LeanProver #ITP
++ [[https://www.understandingai.org/p/mathematicians-are-grappling-with][Mathematicians are grappling with the possibility that AI might eclipse them]]. ~ Kai Williams. #AI4Math
++ [[https://pandoc.org/twenty-years-of-pandoc.html][Twenty years of Pandoc]]. #Haskell #FunctionalProgramming
+
 *** 04-Ago-26
 + [[https://francis.naukas.com/2026/08/02/un-error-en-el-nucleo-de-lean-aprovechado-por-una-ia-para-refutar-la-conjetura-de-collatz/][Un error en el núcleo de Lean aprovechado por una IA para refutar la conjetura de Collatz]]. ~ Francisco R. Villatoro. #LeanProver #ITP #Math
 + [[https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/][Postmortem for kernel soundness bug #14576]]. ~ Leonardo de Moura. #LeanProver #ITP
