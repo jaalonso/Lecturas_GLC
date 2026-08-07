@@ -90,6 +90,14 @@ its content.
 
 ** Agosto 2026
 
+*** 06-Ago-26
++ [[https://arxiv.org/abs/2607.28557][Completeness of the model space does not force regularity for infinite-dimensional Lie groups]]. ~ Zongjian Han1, Fungo Liu. #AI4Math
++ [[https://trishullab.github.io/PutnamBench/][PutnamBench: A Multilingual competition-mathematics benchmark for formal theorem-proving]]. ~ George Tsoukalas et als. #AI4Math
++ [[https://trishullab.github.io/PutnamBench/leaderboard][PutnamBench Leaderboard (Benchmarking formal mathematical reasoning on the Putnam Mathematical Competition)]]. #AI4Math #LeanProver #IsabelleHOL #Coq
++ [[https://varto.ai/news/putnambench/][How we solved PutnamBench (A look at formally proving undergraduate competition mathematics)]]. #AI4Math #IsabelleHOL
++ [[https://arxiv.org/abs/2608.01870][0/1-Polytopes with exponentially small edge expansion]]. ~ Xiongxin Yang. #AI4Math
++ [[https://isa-afp.org/entries/Simson.html][The Wallace-Simson line theorem in Isabelle/HOL]]. ~ Arthur Freitas Ramos, David Barros Hulak, Ruy Jose Guerra Barretto de Queiroz. #IsabelleHOL #ITP #Math
+
 *** 05-Ago-26
 + [[https://arxiv.org/abs/2605.20244][Lean refactor: Multi-objective controllable proof optimization via agentic strategy search]]. ~ Jialin Lu, Soonho Kong, Rodrigo Stehling, Kaiyu Yang, Zhangyang Wang. #LeanProver #ITP #AI4Math
 + [[https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.TYPES.2025.2][Lean4Lean: Verifying a typechecker for Lean, in Lean]]. ~ Mario Carneiro. #LeanProver #ITP
