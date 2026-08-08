@@ -90,6 +90,10 @@ its content.
 
 ** Agosto 2026
 
+*** 07-Ago-26
++ [[https://isa-afp.org/entries/Q0_Completeness.html][Completeness of the Q₀ higher-order logic (in Isabelle/HOL)]]. ~ Asta Halkjær From, Jonathan Julian Huerta Munive, Anders Schlichtkrull. #IsabelleHOL #ITP #Logic
++ [[https://youtu.be/nEf-WVtpEek][Isabelle: the last 40 years (and the next)]]. ~ Lawrence Paulson. #IsabelleHOL #ITP
+
 *** 06-Ago-26
 + [[https://arxiv.org/abs/2607.28557][Completeness of the model space does not force regularity for infinite-dimensional Lie groups]]. ~ Zongjian Han1, Fungo Liu. #AI4Math
 + [[https://trishullab.github.io/PutnamBench/][PutnamBench: A Multilingual competition-mathematics benchmark for formal theorem-proving]]. ~ George Tsoukalas et als. #AI4Math
