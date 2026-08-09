@@ -90,6 +90,20 @@ its content.
 
 ** Agosto 2026
 
+*** 08-Ago-26
++ [[https://arxiv.org/abs/2607.29111v1][Fitting’s theorem and semirings of normal subgroups]]. ~ Damiano Testa. #LeanProver #ITP #AI4Math
++ [[https://www.andrew.cmu.edu/user/avigad/Students/rong_ms_thesis.pdf][Verifying Verus: A Lean 4 formalization of the SST-to-AIR expression translation]]. ~ Shuge Rong. #LeanProver #ITP
++ [[https://arxiv.org/abs/2608.02066v1][Every quasiperfect number has at least eight distinct prime factors]]. ~ Akira Toyohara, Ye Tao, Siqiong Yao. #LeanProver #ITP #AI4Math
++ [[https://arxiv.org/abs/2608.04228v1][Topological semantics for scoped computational paths]]. ~ Arthur Freitas Ramos, Ruy J. G. B. de Queiroz, Anjolina Grisi de Oliveira, Tiago M. L. de Veras. #LeanProver #ITP #Math
++ [[https://arxiv.org/abs/2607.08986v2][A formalization of the mean-field derivation of the Vlasov equation (Mathematician in the loop: AI-assisted Lean formalization as a strategy game)]]. ~ Joseph K. Miller. #LeanProver #ITP #AI4Math
++ [[https://arxiv.org/abs/2608.06261][Game hopping in Lean]]. ~ Stefan Dziembowski, Grzegorz Fabiański, Daniele Micciancio, Rafał Stefański. #LeanProver #ITP
++ [[https://isa-afp.org/entries/HOL_in_HOL_Deep.html][A deep embedding of HOL in HOL: soundness, completeness, consistency]]. ~ Christoph Benzmüller, Daniel Kirchner. #IsabelleHOL #ITP
++ [[https://isa-afp.org/entries/Dinitz_Garg_Goemans_Counterexample.html][A formal counterexample to the cost-preserving single-source unsplittable flow conjecture (in Isabelle/HOL)]]. ~ Arthur Freitas Ramos, David Barros Hulak, Ruy Jose Guerra Barretto de Queiroz. #IsabelleHOL #ITP
++ [[https://arxiv.org/abs/2608.05142v1][A bijective proof of a partition theorem of Berkovich and Uncu]]. ~ Michal Mogielnicki, Ken Ono, Niels Voss, Jujian Zhang. #AI4Math #LeanProver #ITP
++ [[https://assets-eu.researchsquare.com/files/rs-10387804/v1_covered_6fa9d06e-b7c7-404f-b3e2-1d1493471102.pdf][Mathematical scientific discovery using large language models: a systematic literature review]]. ~ Vinita Gangaram Jansari et als. #AI4Math
++ [[https://artificialanalysis.ai/][Independent analysis of AI (Understand the AI landscape to choose the best model and provider for your use case)]]. #AI
++ [[https://www.microsiervos.com/archivo/ia/inteligencia-artificial-chatgpt-tareas-creatividad-imagenes.html][La lista de los más listos de la clase: el análisis de la «inteligencia» de las IA (y sus precios) en una sola página]]. ~ @Alvy. #AI
+
 *** 07-Ago-26
 + [[https://isa-afp.org/entries/Q0_Completeness.html][Completeness of the Q₀ higher-order logic (in Isabelle/HOL)]]. ~ Asta Halkjær From, Jonathan Julian Huerta Munive, Anders Schlichtkrull. #IsabelleHOL #ITP #Logic
 + [[https://youtu.be/nEf-WVtpEek][Isabelle: the last 40 years (and the next)]]. ~ Lawrence Paulson. #IsabelleHOL #ITP
