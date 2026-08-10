@@ -90,6 +90,13 @@ its content.
 
 ** Agosto 2026
 
+*** 09-Ago-26
++ [[https://mathscholar.org/2026/08/mathematicians-address-artificial-intelligence/][Mathematicians address artificial intelligence]]. ~ David H Bailey. #AI4Math
++ [[https://github.com/anadim/anadim.github.io/raw/master/MIMO_Detection.pdf][Polynomial-time MIMO detection at the maximum-likelihood threshold]]. ~ Dimitris Papailiopoulos. #AI4Math
++ [[https://live.lean-lang.org/#url=https://github.com/jaalonso/Retos/blob/main/src/Reto_13.lean][#RetoLean4: Soluciones del reto 13 (Desigualdad triangular inversa: ||x| - |y|| ≤ |x - y|)]]. #LeanProver #ITP #Math
++ [[https://youtu.be/EcNgDxgNya8][#Retolean4: Vídeo tutorial sobre cómo resolver el reto 13]]. #LeanProver #ITP #Math
++ [[https://t.me/Retos_Matematicos/109557/142663][#RetoLean4: Enunciado del reto 14 (para todo n ∈ ℕ, 2n + 9 ≤ 2ⁿ⁺⁴)]]. #LeanProver #ITP #Math
+
 *** 08-Ago-26
 + [[https://arxiv.org/abs/2607.29111v1][Fitting’s theorem and semirings of normal subgroups]]. ~ Damiano Testa. #LeanProver #ITP #AI4Math
 + [[https://www.andrew.cmu.edu/user/avigad/Students/rong_ms_thesis.pdf][Verifying Verus: A Lean 4 formalization of the SST-to-AIR expression translation]]. ~ Shuge Rong. #LeanProver #ITP
