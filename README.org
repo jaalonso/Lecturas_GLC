@@ -90,6 +90,10 @@ its content.
 
 ** Agosto 2026
 
+*** 10-Ago-26
++ [[https://arxiv.org/abs/2608.07384][A formalization of the Laplace transform and its inversion in Lean 4]]. ~ Daniel Goldberg, Antoine Vinciguerra. #LeanProver #ITP #Math
++ [[https://arxiv.org/abs/2608.07366v1][From the Dirichlet integral to Lobachevsky's formula: a formalization in Lean 4]]. ~ Daniel Goldberg, Antoine Vinciguerra. #LeanProver #ITP #Math
+
 *** 09-Ago-26
 + [[https://mathscholar.org/2026/08/mathematicians-address-artificial-intelligence/][Mathematicians address artificial intelligence]]. ~ David H Bailey. #AI4Math
 + [[https://github.com/anadim/anadim.github.io/raw/master/MIMO_Detection.pdf][Polynomial-time MIMO detection at the maximum-likelihood threshold]]. ~ Dimitris Papailiopoulos. #AI4Math
