@@ -90,6 +90,22 @@ its content.
 
 ** Agosto 2026
 
+*** 13-Ago-26
++ [[https://isa-afp.org/entries/Projected_Gradient_Descent.html][First-order methods for smooth convex optimization in Isabelle/HOL]]. ~ Feier Lyu. #IsabelleHOL #ITP #Math
++ [[https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/][What sort of maths are LLMs good at?]] ~ Timothy Gowers. #AI4Math
++ [[https://www.daniellitt.com/blog/2026/8/11/the-end-of-mathematics][The end of mathematics]]. ~ Daniel Litt. #AI4Math
+
+*** 11-Ago-26
++ [[https://arxiv.org/abs/2607.29191v2][A proof of the Dittert conjecture in dimension 4 via an exact constrained sum-of-squares certificate]]. ~ Jinhui Li, Beibei Xiong, Zhengfeng Yang. #LeanProver #ITP #Math
++ [[https://arxiv.org/abs/2604.16507v2][Deep Vision: A formal proof of Wolstenholmes theorem in Lean 4]]. ~ Alexandre Linhares. #LeanProver #ITP #AI4Math
++ [[https://arxiv.org/abs/2608.00501][Machine-checked dual-write recovery from a committed log]]. ~ Andreas Andreakis. #IsabelleHOL #ITP
++ [[https://arxiv.org/abs/2608.08421v1][A SAT attack on Tarski's high school algebra problem]]. ~ Bernardo Subercaseaux, Benjamin Przybocki. #ATP #SATsolvers #Math
++ [[https://proofsandprompts.com/][Proofs and prompts (a communal blog about mathematics in the age of AI)]]. #AI4Math
++ [[https://proofsandprompts.com/2026/08/11/what-i-feel-like-when-i-work-with-an-ai/][What I feel like when I work with an AI]]. ~ Shmuel Weinberger. #AI4Math
++ [[https://theoremdb.org/][TheoremDB: A public workspace for machine mathematics]]. #AI4Math #LeanProver
++ [[https://azizovich.uz/posts/advent-of-code-solving.html][Solving AoC with Haskell]]. ~ Asliddin Abdivasiyev. #Haskell #FunctionalProgramming
++ [[https://www.chiply.dev/post-elisp-macros-are-beautiful][Gödel, Escher, Elisp: The beauty of macros]]. ~ Charlie Holland. #Elisp #Emacs #Lisp
+
 *** 10-Ago-26
 + [[https://arxiv.org/abs/2608.07384][A formalization of the Laplace transform and its inversion in Lean 4]]. ~ Daniel Goldberg, Antoine Vinciguerra. #LeanProver #ITP #Math
 + [[https://arxiv.org/abs/2608.07366v1][From the Dirichlet integral to Lobachevsky's formula: a formalization in Lean 4]]. ~ Daniel Goldberg, Antoine Vinciguerra. #LeanProver #ITP #Math
