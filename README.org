@@ -90,6 +90,21 @@ its content.
 
 ** Agosto 2026
 
+*** 14-Ago-26
++ [[https://arxiv.org/abs/2608.09305v1][Dilatations of categories, via their lean formalization]]. ~ Arnaud Mayeux. #LeanProver #ITP
++ [[https://arxiv.org/abs/2608.08643v1][The set of primes is supernatural: a Lean formalization of the statement of the conjecture]]. ~ A. Mayeux. #LeanProver #ITP #Math
++ [[https://arxiv.org/abs/2608.07388v1][The Banach lattice Lean library]]. ~ David Muñoz-Lahoz. #LeanProver #ITP #Math
++ [[https://arxiv.org/abs/2608.07396v1][Banach lattices and phase retrieval: A case study for the use of AI in mathematics]]. ~ Jaume de Dios Pont, Lukas Liehr, David Muñoz-Lahoz, Mitchell A. Taylor, Pedro Tradacete. #LeanProver #ITP #AI4Math
++ [[https://www.fixpoint-theory.com/papers/note_e8_gaussian_code.pdf][The Gaussian code bridge: E8 over Z[i], the extended Hamming code, and a four-bit information layer]]. ~ Stefan Hamann. #LeanProver #ITP
++ [[https://arxiv.org/abs/2608.13522][Vero: Can AI agents build formally verified software repositories?]] ~ Zhe Ye et als. #LeanProver #ITP #FormalVerification
++ [[https://arena.lean-lang.org/][The Lean Kernel Arena presents, tests and benchmarks proof checkers for the Lean Theorem Prover]]. #LeanProver #ITP
++ [[https://xenaproject.wordpress.com/2026/08/13/the-annals-challenge/][The Annals Challenge]]. ~ Kevin Buzzard. #LeanProver #ITP #Math
++ [[https://github.com/ImperialCollegeLondon/AnnalsChallenge][AnnalsChallenge is a collection of formalised statements of recent important theorems]]. These theorems are the main results of papers published in the Annals of Mathematics in the 2020s. The statements are written in Lean 4, using Mathlib. #LeanProver #ITP #Math
++ [[https://youtu.be/HSxytYCWVow][The path to mathematical superintelligence]]. ~ Tudor Achim. #AI4Math
++ [[https://proofsandprompts.com/2026/08/12/the-end-of-an-era-in-mathematical-research/][The end of an era in mathematical research]]. ~ Alonso Castillo-Ramirez. #AI4Math
++ [[https://proofsandprompts.com/2026/08/11/the-question-of-reasoning-traces/][The question of reasoning traces]]. ~ Segev Gonen Cohen. #AI4Math
++ [[https://proofsandprompts.com/2026/08/07/writing-mathematics-in-the-age-of-ai/][Writing mathematics in the age of AI]]. ~ Main Hairer. #AI4Math
+
 *** 13-Ago-26
 + [[https://isa-afp.org/entries/Projected_Gradient_Descent.html][First-order methods for smooth convex optimization in Isabelle/HOL]]. ~ Feier Lyu. #IsabelleHOL #ITP #Math
 + [[https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/][What sort of maths are LLMs good at?]] ~ Timothy Gowers. #AI4Math
