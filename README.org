@@ -90,6 +90,12 @@ its content.
 
 ** Agosto 2026
 
+*** 15-Ago-26
++ [[https://lean.commutator.io/][Les mathématiques du secondaire français, démontrées en Lean]]. ~ Michel Hua. #LeanProver #ITP #Math #AI4Math
++ [[https://youtu.be/0QZI_m8WZ0Q][Is this the end of handwritten math? Introducing Lean]]. ~ Ank Yog. #LeanProver #ITP #Math
++ [[https://arxiv.org/abs/2608.10894v1][FormaTheoria: Constructing large-scale lean theories from mathematical literature (Toward the formalization of the classification of finite simple groups)]]. ~ Tianjiao Nie, Ao Zhang, Yusen Tang, Damiano Testa, Shing-Tung Yau, Peng Li, Yuan Zhou. #LeanProver #ITP #AI4Math
++ [[https://jaalonso.github.io/calculemus/posts/2026/05/10-la_sucesion_1_div_n_converge_a_0/][#Calculemus: Demostraciones con Lean 4 de "La sucesión 1/n converge a 0"]]. #LeanProver #Math
+
 *** 14-Ago-26
 + [[https://arxiv.org/abs/2608.09305v1][Dilatations of categories, via their lean formalization]]. ~ Arnaud Mayeux. #LeanProver #ITP
 + [[https://arxiv.org/abs/2608.08643v1][The set of primes is supernatural: a Lean formalization of the statement of the conjecture]]. ~ A. Mayeux. #LeanProver #ITP #Math
