@@ -90,6 +90,12 @@ its content.
 
 ** Agosto 2026
 
+*** 16-Ago-26
++ [[https://arxiv.org/abs/2608.12280v1][Grothendieck's theorem for Bessel sequences]]. ~ Lukas Liehr, Mitchell A. Taylor, Peiyang Yu. #LeanProver #ITP #Math
++ [[https://www.proofatlas.ai/papers/sendov-conjecture/SENDOV_CONJECTURE_PROOF_AUGUST_5_2026.pdf][A computer-assisted proof of Sendov’s conjecture]]. ~ Lech Mazur. #LeanProver #ITP #AI4Math
++ [[https://arxiv.org/abs/2608.13459v1][CAPRI: Contract-aware proof repair for Isabelle]]. ~ Jim Woodcock, Gabriel Leite, Augusto Sampaio, Ran Wei. #IsabelleHOL #ITP #LLMs
++ [[https://jaalonso.github.io/calculemus/posts/2026/05/09-retos_de_demostracion_en_lean_4/][#RetoLean4: Retos de demostración en Lean 4]]. #LeanProver #ITP #Math
+
 *** 15-Ago-26
 + [[https://lean.commutator.io/][Les mathématiques du secondaire français, démontrées en Lean]]. ~ Michel Hua. #LeanProver #ITP #Math #AI4Math
 + [[https://youtu.be/0QZI_m8WZ0Q][Is this the end of handwritten math? Introducing Lean]]. ~ Ank Yog. #LeanProver #ITP #Math
