@@ -90,6 +90,11 @@ its content.
 
 ** Agosto 2026
 
+*** 18-Ago-26
++ [[https://arxiv.org/abs/2608.09191][A proof of the imbalance conjecture]]. ~ James Alexander Schreib, Yousof Yavari. #AI4Math #LeanProver
++ [[https://youtu.be/ZKF6dWzOiPA][The shape of math to come]]. ~ Alex Kontorovich. #AI4Math #LeanProver
++ [[https://www.bardman.dev/technology/switching-to-emacs/][My advice for users wanting to switch to Emacs]]. ~ Daniel Pinkston. #Emacs
+
 *** 17-Ago-26
 + [[https://github.com/aimmerwahr/lean-math-exercises][Math exercises in Lean]]. ~ Anna Immerwahr. #LeanProver #ITP #Math
 + [[https://youtu.be/wtMmw0HlXTg][ediprolog: Emacs does interactive Prolog]]. ~ Markus Triska. #Prolog #LogicProgramming #Emacs
