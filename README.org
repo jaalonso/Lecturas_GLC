@@ -90,6 +90,25 @@ its content.
 
 ** Agosto 2026
 
+*** 19-Ago-26
++ [[https://terrytao.wordpress.com/2026/08/18/palomar-a-registry-of-lean-verified-mathematics/][Palomar: a registry of Lean verified mathematics]]. ~Terence Tao. #LeanProver #ITP #AI4Math
++ [[https://palomar-registry.org/][Palomar: A public registry of Lean-verified mathematics]]. #LeanProver #ITP #AI4Math
++ [[https://github.com/rkirov/jordan_pick][A Lean 4 formalization of Pick's theorem, the polygonal Jordan curve theorem, the full Jordan curve theorem, and Radó's theorem]]. ~ Rado Kirov. #LeanProver #ITP #AI4Math
++ [[https://github.com/xinjiegit/ben_27_formalization][NUSLean: Lean 4 formalization of "A near-quadratic lower bound for sets with no unique sums"]]. ~ Xinjie He. #LeanProver #ITP #Math
++ [[https://primegaps.axiommath.ai/][Lean formalization of bounded gaps between primes]]. ~ Evan Chen, Sidharth Hariharan, Kenny Lau, Bhavik Mehta, Ken Ono, Ashvin Swaminathan, Jesse Thorner, Yunzhou Xie. #LeanProver #ITP #AI4Math
++ [[https://github.com/gexahedron/sabidussi-lean][Lean formalization of the Sabidussi compatibility conjecture]]. ~ Nikolay Ulyanov. #LeanProver #ITP #Math
++ [[https://github.com/teorth/sendov][Sendov's conjecture in Lean]]. ~ Terence Tao. #LeanProver #ITP #Math
++ [[https://arxiv.org/abs/2607.08656][Cantor measures with odd base do not admit Fourier frames]]. ~ Jaume de Dios Pont, Lukas Liehr, Mitchell A. Taylor. #LeanProver #ITP #Math
++ [[https://arxiv.org/abs/2607.06693][Stable phase retrieval for spans of independent random variables]]. ~ Pedro Abdalla, Jaume de Dios Pont, João P. G. Ramos, Mitchell A. Taylor. #LeanProver #ITP #AI4Math
++ [[https://arxiv.org/abs/2606.26052][On the existence problem of regular Gabor frames]]. ~ Jaume de Dios Pont, Lukas Liehr, Mitchell A. Taylor. #LeanProver #ITP #AI4Math
++ [[https://arxiv.org/abs/2606.20358][Formalizing extended complex numbers, Möbius transformations, and cross ratio in Lean 4]]. ~ Fubin Yan, Kenneth W. Shum. #LeanProver #ITP #Math
++ [[https://github.com/fubinyan/ComplexVariables][Lean formalization of complex analysis]]. ~ Fubin Yan et als. #LeanProver #ITP #Math
++ [[https://www.math.ias.edu/~akshay/research/ReimaginingDetails.pdf][Human mathematics in the age of reasoning machines]]. ~ Akshay Venkatesh. #AI4Math
++ [[https://proofsandprompts.com/2026/08/18/on-protecting-mathematics-from-llm-companies-monopoly/][On protecting mathematics from LLM companies’ monopoly]]. ~ Tian Lan. #AI4Math
++ [[https://live.lean-lang.org/#url=https://github.com/jaalonso/Retos/blob/main/src/Reto_14.lean][#RetoLean4: Soluciones del reto (para todo n ∈ ℕ, 2n + 9 ≤ 2ⁿ⁺⁴)]]. #LeanProver #ITP #Math
++ [[https://youtu.be/ZWtaXZSXLko][#Retolean4: Vídeo tutorial sobre cómo resolver el reto 14]]. #LeanProver #ITP #Math
++ [[https://t.me/Retos_Matematicos/109557/143055][#RetoLean4: Enunciado del reto 15 ((∃ k ∈ ℕ)(∀ n ∈ N)[(n + k)² ≤ 2ⁿ⁺ᵏ])]]. #LeanProver #ITP #Math
+
 *** 18-Ago-26
 + [[https://arxiv.org/abs/2608.09191][A proof of the imbalance conjecture]]. ~ James Alexander Schreib, Yousof Yavari. #AI4Math #LeanProver
 + [[https://youtu.be/ZKF6dWzOiPA][The shape of math to come]]. ~ Alex Kontorovich. #AI4Math #LeanProver
