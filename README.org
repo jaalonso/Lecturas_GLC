@@ -90,6 +90,20 @@ its content.
 
 ** Agosto 2026
 
+*** 20-Ago-26
++ [[https://arxiv.org/abs/2608.13757v1][A barrier-free synchronization algorithm for multi-engine AI accelerators]]. ~ Chungha Sung, Nikil V. Shyamsunder, Hanliang Zhang, Daniel Kroening, Joonwon Choi. #LeanProver #ITP
++ [[https://github.com/catskillsresearch/cardb][Cardinality of topological bases of a finite set]]. ~ Lars Warren Ericson. #LeanProver #ITP #Math
++ [[https://github.com/elliotglazer/erdos501][Erdős problem #501 in Lean 4]]. ~ Elliot Glazer. #LeanProver #ITP #Math #AI4Math
++ [[https://github.com/yuanchenyang/lean_low_rank_univariate_sos][A Lean formalization of the main theorem of the paper "Low-rank univariate sum of squares has no spurious local minima"]]. ~ Chenyang Yuan. #LeanProver #ITP #AI4Math
++ [[https://github.com/WillWhistler/Regts-Sevenster][A proof of the Regts–Sevenster conjecture, formalized]]. ~ William Whistler. #LeanProver #ITP #AI4Math
++ [[https://ceur-ws.org/Vol-4239/paper-Farjami-14.pdf][Constrained input/output logic in HOL: An algebraic embedding]]. ~ Ali Farjami, Luca Pasetto. #IsabelleHOL #ITP
++ [[https://arxiv.org/abs/2608.18445v1][Formal verification of Romanov's triplet logic: A verified filter for sliding-window 3-CNF with application to structured formulas]]. ~ Dmitry V. Alexandrov. #RocqProver #ITP #AI4Math
++ [[https://arxiv.org/abs/2601.00811][A naive encoding of Russell's paradox in type theory]]. ~ Zhuoyuan Qu. #CoqProver #Agda #ITP #Math
++ [[https://proofsandprompts.com/2026/08/20/response-to-the-ai-dissenter-viewpoint/][Response to "The AI dissenter viewpoint"]]. ~ Anatoly Vitold Stankyavichyus. #AI4Math
++ [[https://proofsandprompts.com/2026/08/19/changes-in-the-classroom-in-the-ai-era/][Changes in the classroom in the AI Era]]. ~ Benjamin Jaye, Galyna V. Livshyts. #AI4Math
++ [[https://www.cs.ox.ac.uk/people/samuel.staton/papers/icfp2026-imp.pdf][Imprecise probabilistic programming, precisely (Credal sets via graded monads, BDDs, and semiring-parametric inference)]]. ~ Jack Liell-Cock, Sam Staton. #Haskell #FunctionalProgramming
++ [[https://jaalonso.github.io/calculemus/posts/2026/05/17-no_convergencia_-1n/][#Calculemus: Demostraciones con Lean 4 del Reto 2 (La sucesión 1, -1, 1, -1,]]... no es convergente). #LeanProver #Math
+
 *** 19-Ago-26
 + [[https://terrytao.wordpress.com/2026/08/18/palomar-a-registry-of-lean-verified-mathematics/][Palomar: a registry of Lean verified mathematics]]. ~Terence Tao. #LeanProver #ITP #AI4Math
 + [[https://palomar-registry.org/][Palomar: A public registry of Lean-verified mathematics]]. #LeanProver #ITP #AI4Math
