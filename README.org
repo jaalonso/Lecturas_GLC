@@ -90,6 +90,9 @@ its content.
 
 ** Agosto 2026
 
+*** 21-Ago-26
++ [[https://jaalonso.github.io/calculemus/posts/2026/05/24-si_a_converge_a_l_entonces_2a_converge_a_2l/][#Calculemus: Demostraciones con Lean 4 del Reto 3 (Si aₙ converge a L, entonces 2aₙ converge a 2L)]]. #LeanProver #Math
+
 *** 20-Ago-26
 + [[https://arxiv.org/abs/2608.13757v1][A barrier-free synchronization algorithm for multi-engine AI accelerators]]. ~ Chungha Sung, Nikil V. Shyamsunder, Hanliang Zhang, Daniel Kroening, Joonwon Choi. #LeanProver #ITP
 + [[https://github.com/catskillsresearch/cardb][Cardinality of topological bases of a finite set]]. ~ Lars Warren Ericson. #LeanProver #ITP #Math
