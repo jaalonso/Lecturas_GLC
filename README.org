@@ -90,6 +90,10 @@ its content.
 
 ** Agosto 2026
 
+*** 22-Ago-26
++ [[https://cacm.acm.org/blogcacm/llms-make-mathematics-easier-now-raise-the-bar/][LLMs make mathematics easier]]. Now raise the bar. ~ Marijn J. H. Heule. #AI4Math
++ [[https://youtu.be/xHEnWvKmSKM][stdin | LLM | stdout]]. ~ karthink. #Emacs #LLMs
+
 *** 21-Ago-26
 + [[https://jaalonso.github.io/calculemus/posts/2026/05/24-si_a_converge_a_l_entonces_2a_converge_a_2l/][#Calculemus: Demostraciones con Lean 4 del Reto 3 (Si aₙ converge a L, entonces 2aₙ converge a 2L)]]. #LeanProver #Math
 
