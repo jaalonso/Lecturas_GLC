@@ -90,6 +90,9 @@ its content.
 
 ** Agosto 2026
 
+*** 25-Ago-26
++ [[https://arxiv.org/abs/2608.23218v1][What is mathematics now, and what should it be? ~ Jeremy Avigad]]. #AI4Math
+
 *** 24-Ago-26
 + [[https://arxiv.org/abs/2608.20793][A Lean 4 verification report for subregular affine cells and the level −1 vertex algebra of type D, ~ Sihai Jin]]. #LeanProver #ITP #Math
 + [[https://arxiv.org/abs/2608.20432v1][ProofJudge: Tool-grounded LLM evaluation of formal proof quality in Mathlib]]. ~ Shane Caldwell. #LeanProver #ITP #AI4Math
