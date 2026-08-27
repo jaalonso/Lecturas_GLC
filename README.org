@@ -90,6 +90,17 @@ its content.
 
 ** Agosto 2026
 
+*** 26-Ago-26
++ [[https://isa-afp.org/entries/Trace_Based_Rely_Guarantee.html][Trace based semantics for rely guarantee (in Isabelle/HOL)]]. ~ Marialena Hadjikosti, Andrei Popescu, Jamie Wright. #IsabelleHOL #ITP
++ [[https://isa-afp.org/entries/Multitape_TM_Substrate.html][Multitape Turing machine substrate (in Isabelle/HOL)]]. ~ András Z. Salamon, Michael Wehar. #IsabelleHOL #ITP
++ [[https://isa-afp.org/entries/Multitape_Alphabet_Reduction.html][Multitape alphabet reduction (in Isabelle/HOL)]]. ~ András Z. Salamon, Michael Wehar. #IsabelleHOL #ITP
++ [[https://isa-afp.org/entries/Multitape_Alphabet_Enlargement.html][Multitape alphabet enlargement (in Isabelle/HOL)]]. ~ András Z. Salamon, Michael Wehar. #IsabelleHOL #ITP
++ [[https://isa-afp.org/entries/Multitape_Alphabet_Roundtrip.html][Multitape alphabet roundtrip (in Isabelle/HOL)]]. ~ András Z. Salamon, Michael Wehar. #IsabelleHOL #ITP
++ [[https://arxiv.org/abs/2507.10181][A simple formalization of alpha-equivalence]]. ~ Kalmer Apinis, Danel Ahman. #RocqProver #ITP
++ [[https://arxiv.org/abs/2608.23691v1][Autonomous mathematical discovery in an open-world multi-agent environment]]. ~ Stephen Chung, Wenyu Du, William J. Wesley. #AI4Math
++ [[https://www.math.toronto.edu/mgualt/math-blog/posts/math-and-llm-2026/][Mathematics and the LLM: 2026 (A letter to the mathematical community, to be published in the Notices of the AMS)]]. ~ Marco Gualtieri. #AI4Math
++ [[https://proofsandprompts.com/2026/08/26/statement-on-ai-usage-for-phd-students/][Statement on AI usage for PhD students]]. ~ Manuel Rivera. #AI4Math
+
 *** 25-Ago-26
 + [[https://arxiv.org/abs/2608.23218v1][What is mathematics now, and what should it be? ~ Jeremy Avigad]]. #AI4Math
 
