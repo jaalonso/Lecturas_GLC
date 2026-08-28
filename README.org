@@ -90,6 +90,10 @@ its content.
 
 ** Agosto 2026
 
+*** 27-Ago-26
++ [[https://arxiv.org/abs/2608.25449v1][MathAdv: What theorem provers know, reason, formalize, and generalize]]. ~ Jiaxin Yuan et als. #LeanProver #ITP #AI4Math
++ [[https://jaalonso.github.io/calculemus/posts/2026/05/31-infinitud_de_primos_v2/][#Calculemus: Demostraciones en Lean 4 del Reto 4 (Existen infinitos números primos)]]. #LeanProver #Math
+
 *** 26-Ago-26
 + [[https://isa-afp.org/entries/Trace_Based_Rely_Guarantee.html][Trace based semantics for rely guarantee (in Isabelle/HOL)]]. ~ Marialena Hadjikosti, Andrei Popescu, Jamie Wright. #IsabelleHOL #ITP
 + [[https://isa-afp.org/entries/Multitape_TM_Substrate.html][Multitape Turing machine substrate (in Isabelle/HOL)]]. ~ András Z. Salamon, Michael Wehar. #IsabelleHOL #ITP
