@@ -90,6 +90,18 @@ its content.
 
 ** Agosto 2026
 
+*** 28-Ago-26
++ [[https://www.proofatlas.ai/papers/bondy-longest-cycle-proof/Bondy_Longest_Cycle_Formalized_Proof_2026-08-16.pdf][A formalized proof of Bondy’s minimum-degree longest-cycle conjecture]]. ~ Lech Mazur. #LeanProver #ITP #AI4Math
++ [[https://www.researchgate.net/profile/Ralf-Stephan/publication/413520035_Even_integral_parts_of_powers_of_square_roots/links/6a8aaf312cf67a11560ce505/Even-integral-parts-of-powers-of-square-roots.pdf][Even integral parts of powers of square roots]]. ~ Ralf Stephan. #LeanProver #ITP #AI4Math
++ [[https://arxiv.org/abs/2509.19632][Formalization of Harder-Narasimhan theory]]. ~ Yijun Yuan. #LeanProver #ITP #AI4Math
++ [[https://adam.math.hhu.de/#/g/k88-b/NumberTheoryGame][Number theory game (An introduction to integer arithmetic and formal proofs)]]. ~ kostya88. #LeanProver #ITP #Math
++ [[https://link.springer.com/article/10.1007/s10817-026-09756-x][Proving total correctness of top-down solvers with widening and narrowing]]. ~ Sarah Tilscher, Alexandra Graß, Helmut Seidl, Yannick Stade. #IsabelleHOL #ITP
++ [[https://proofsandprompts.com/2026/08/27/the-future-mathematical-system-ai-tools-human-contribution-and-mathematical-evaluation/][Evaluating mathematical merit (AI-reproducible work, human mathematical contribution, and a residual evaluation framework)]]. ~ Qi Guo. #AI4Math
++ [[https://entropicthoughts.com/curmudgeon-tries-language-server][A curmudgeon tries a language server]]. ~ kqr. #Haskell #FunctionalProgramming #Emacs #Lisp
++ [[https://mgarletmilani.com/blog/2026-06-03-tessellations/][Haskell diagrams: Tessellations]]. ~ Marcelo Garlet Milani. #Haskell #FunctionalProgramming
++ [[https://www.gaussianos.com/un-cuerno-finito-infinito/][Un cuerno finito-infinito]]. ~ Miguel Ángel Morales. #Math
++ [[https://jaalonso.github.io/calculemus/posts/2026/06/07-52n_-_23n_es_divisible_por_17/][#Calculemus: Demostraciones con Lean 4 del Reto 5 (5²ⁿ - 2³ⁿ es divisible por 17)]]. #LeanProver #Math
+
 *** 27-Ago-26
 + [[https://arxiv.org/abs/2608.25449v1][MathAdv: What theorem provers know, reason, formalize, and generalize]]. ~ Jiaxin Yuan et als. #LeanProver #ITP #AI4Math
 + [[https://jaalonso.github.io/calculemus/posts/2026/05/31-infinitud_de_primos_v2/][#Calculemus: Demostraciones en Lean 4 del Reto 4 (Existen infinitos números primos)]]. #LeanProver #Math
