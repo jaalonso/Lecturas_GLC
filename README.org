@@ -90,6 +90,10 @@ its content.
 
 ** Agosto 2026
 
+*** 29-Ago-26
++ [[https://www.preprints.org/frontend/manuscript/e5c2b75afc9edc91e0c7c3164cbd210b/download_pub][Prove2Me: An open collaborative platform for scaling math formalization]]. ~ Shuze Chen, Xiaoyang Lu, Kunal Marwaha, Tianyi Peng, Henry Yuen. #LeanProver #ITP #AI4Math
++ [[https://arxiv.org/abs/2608.23652v1][Improved bounds for the smallest 4-chromatic graph of girth six]]. ~ Glauco Rampone. #LeanProver #ITP #AI4Math
+
 *** 28-Ago-26
 + [[https://www.proofatlas.ai/papers/bondy-longest-cycle-proof/Bondy_Longest_Cycle_Formalized_Proof_2026-08-16.pdf][A formalized proof of Bondy’s minimum-degree longest-cycle conjecture]]. ~ Lech Mazur. #LeanProver #ITP #AI4Math
 + [[https://www.researchgate.net/profile/Ralf-Stephan/publication/413520035_Even_integral_parts_of_powers_of_square_roots/links/6a8aaf312cf67a11560ce505/Even-integral-parts-of-powers-of-square-roots.pdf][Even integral parts of powers of square roots]]. ~ Ralf Stephan. #LeanProver #ITP #AI4Math
