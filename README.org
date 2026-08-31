@@ -90,6 +90,12 @@ its content.
 
 ** Agosto 2026
 
+*** 30-Ago-26
++ [[https://arxiv.org/abs/2608.23721v1][Autoformalizing the calculation of π₃(S²)]]. ~ Daniel Carranza, Chunyi Liu, Emily Riehl, Egbert Rijke. #Agda #ITP #AI4Math
++ [[https://www.quantamagazine.org/does-computer-science-need-computers-20260828][Does computer science need computers? ~ Ben Brubaker]]. #CompSci
++ [[https://live.lean-lang.org/#url=https://github.com/jaalonso/Retos/blob/main/src/Reto_16.lean][#RetoLean4: Soluciones del reto 16 (para todo n ∈ N, n(n+1)(2n+1) es divisible por 6)]]. #LeanProver #ITP #Math
++ [[https://t.me/Retos_Matematicos/109557/143443][#RetoLean4: Enunciado del reto 17 (las sucesiones convergentes están acotadas)]]. #LeanProver #ITP #Math
+
 *** 29-Ago-26
 + [[https://www.preprints.org/frontend/manuscript/e5c2b75afc9edc91e0c7c3164cbd210b/download_pub][Prove2Me: An open collaborative platform for scaling math formalization]]. ~ Shuze Chen, Xiaoyang Lu, Kunal Marwaha, Tianyi Peng, Henry Yuen. #LeanProver #ITP #AI4Math
 + [[https://arxiv.org/abs/2608.23652v1][Improved bounds for the smallest 4-chromatic graph of girth six]]. ~ Glauco Rampone. #LeanProver #ITP #AI4Math
