@@ -90,6 +90,9 @@ its content.
 
 ** Agosto 2026
 
+*** 31-Ago-26
++ [[https://proofsandprompts.com/2026/08/30/care-for-a-little-more-ai/][#AI4Math Care for a little more AI? ~ Hugo Duminil-Copin]]. #AI4Math
+
 *** 30-Ago-26
 + [[https://arxiv.org/abs/2608.23721v1][Autoformalizing the calculation of π₃(S²)]]. ~ Daniel Carranza, Chunyi Liu, Emily Riehl, Egbert Rijke. #Agda #ITP #AI4Math
 + [[https://www.quantamagazine.org/does-computer-science-need-computers-20260828][Does computer science need computers? ~ Ben Brubaker]]. #CompSci
