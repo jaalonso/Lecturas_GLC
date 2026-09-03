@@ -11,6 +11,7 @@ its content.
 
 * Content                                                                      :TOC:
 - [[#lecturas-del-año-2026][Lecturas del año 2026]]
+  - [[#septiembre-2026][Septiembre 2026]]
   - [[#agosto-2026][Agosto 2026]]
   - [[#julio-2026][Julio 2026]]
   - [[#junio-2026][Junio 2026]]
@@ -87,6 +88,14 @@ its content.
 - [[#lecturas-anteriores][Lecturas anteriores]]
 
 * Lecturas del año 2026
+
+** Septiembre 2026
+
+*** 02-Sep-26
++ [[https://arxiv.org/abs/2608.21502v1][A Lean formalization of Hamilton's three-manifold theorem]]. ~ Bennett Chow, Yuan Liao, Ziyang Qin. #LeanProver #ITP #Math
++ [[https://lemonidas.github.io/pdf/TestingTheorems.pdf][Testing theorems, fully automatically]]. ~ Segev Elazar Mittelman, Harrison Goldstein, Leonidas Lampropoulos. #RocqProver #ITP
++ [[https://arxiv.org/abs/2608.28997][Verification abundance, adjudication scarcity: what happens to mathematical knowledge when proof checking becomes free]]. ~ Maher Kallel, Mohamed El Louadi. #AI4Math
++ [[https://proofsandprompts.com/2026/09/02/rethinking-maths-education-a-perspective-from-olympiad-and-higher-education/][Rethinking Maths education: A perspective from Olympiad and higher education]]. ~ Baptiste Serraille. #AI4Math
 
 ** Agosto 2026
 
