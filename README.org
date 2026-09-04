@@ -91,6 +91,12 @@ its content.
 
 ** Septiembre 2026
 
+*** 03-Sep-26
++ [[https://github.com/gaearon/conway-refinement][A proof of Conway's refinement conjecture in Lean]]. ~ Dan Abramov. #LeanProver #ITP #AI4Math
++ [[https://arxiv.org/abs/2505.22451v1][AI mathematician: Towards fully automated frontier mathematical research]]. ~ Yuanhang Liu, Yanxing Huang, Yanqiao Wang, Peng Li, Yang Liu. #AI4Math
++ [[https://proofsandprompts.com/2026/09/03/ai-and-maths-communication/][AI and maths communication]]. ~ Trevor Cheung. #AI4Math
++ [[https://haskellforall.com/2026/09/dependent-if-expressions][Dependent if expressions without dependent types]]. ~ Gabriella Gonzalez. #Haskell #FunctionalProgramming
+
 *** 02-Sep-26
 + [[https://arxiv.org/abs/2608.21502v1][A Lean formalization of Hamilton's three-manifold theorem]]. ~ Bennett Chow, Yuan Liao, Ziyang Qin. #LeanProver #ITP #Math
 + [[https://lemonidas.github.io/pdf/TestingTheorems.pdf][Testing theorems, fully automatically]]. ~ Segev Elazar Mittelman, Harrison Goldstein, Leonidas Lampropoulos. #RocqProver #ITP
