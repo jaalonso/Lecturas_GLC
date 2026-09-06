@@ -91,6 +91,11 @@ its content.
 
 ** Septiembre 2026
 
+*** 05-Sep-26
++ [[https://www.anthropic.com/research/formalizing-fermats-last-theorem][Formalizing Fermat's Last Theorem]]. ~ Anthropic. #AI4Math #LeanProver #ITP
++ [[https://xenaproject.wordpress.com/2026/09/04/flt-anthropic-has-beaten-me-to-it/][FLT: Anthropic has beaten me to it (one of their internal models, using the prove2]].me platform, has formalized a complete proof of Fermat’s Last Theorem (FLT) in Lean). ~ Kevin Buzzard. #AI4Math #LeanProver #ITP
++ [[https://www.quantamagazine.org/live-from-icm-2026-what-is-math-for-in-the-age-of-ai-20260903][Live from ICM 2026: What is math for in the age of AI?]] #AI4Math
+
 *** 04-Sep-26
 + [[https://epoch.ai/latest/announcing-frontiermath-erdos][Announcing FrontierMath Erdős (A benchmark of 68 significant Erdős problems, open as of August 2026, curated by Thomas Bloom and formalized in Lean)]]. ~ Tom Adamczewski, Greg Burnham. #LeanProver #ITP #AI4Math
 + [[https://epoch.ai/files/frontiermath-erdos.pdf][FrontierMath Erdős (A benchmark of Erdős problems formalized in Lean)]]. ~ Tom Adamczewski, Greg Burnham. #LeanProver #ITP #AI4Math
