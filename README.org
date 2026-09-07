@@ -91,6 +91,17 @@ its content.
 
 ** Septiembre 2026
 
+*** 06-Sep-26
++ [[https://arxiv.org/abs/2608.29750v1][The S-matrix conjecture]]. ~ Yinjie Li. #LeanProver #ITP #AI4Math
++ [[https://www.researchgate.net/publication/413747489_Simpler_Graph_Conditions_for_Embedding_Tetrahedral_Meshes][Simpler graph conditions for embedding tetrahedral meshes]]. ~ Lennart Rudolph. #LeanProver #ITP #AI4Math
++ [[https://github.com/WillWhistler/Regts-Sevenster][A proof of the Regts–Sevenster conjecture, formalized]]. ~ William Whistler. #LeanProver #ITP #AI4Math
++ [[https://github.com/elliotglazer/erdos501][Erdős problem #501 in Lean 4]]. ~  Elliot Glazer. #LeanProver #ITP #AI4Math
++ [[https://github.com/n-yamaguchi-0729/KroneckerWeber][The global Kronecker–Weber theorem in Lean 4]]. ~ Naganori Yamaguchi. #LeanProver #ITP #AI4Math
++ [[https://github.com/nicholasbulka/li-criterion-rh-equivalence-lean][Li's criterion for the Riemann Hypothesis, in Lean 4]]. ~ Nicholas Bulka. #LeanProver #ITP #AI4Math
++ [[https://arxiv.org/abs/2608.29134v2][Mechanizing typed regulatory actions for security tokens: semantics, falsification, and bounded EVM evidence]]. ~ Jinwook Kim. #IsabelleHOL #ITP
++ [[https://thefundamentaltheor3m.github.io/beamers/tifr-2026/slides.pdf][Verification, formalisation and canonisation: formal theorem proving in the age of AI]]. ~ Sidharth Hariharan. #AI4Math #ITP
++ [[https://eleccionobarbarie.com/2026/09/06/que-son-los-numeros-reales-i/][¿Qué son los números reales? I]]. ~ Esteban Martínez. #Math
+
 *** 05-Sep-26
 + [[https://www.anthropic.com/research/formalizing-fermats-last-theorem][Formalizing Fermat's Last Theorem]]. ~ Anthropic. #AI4Math #LeanProver #ITP
 + [[https://xenaproject.wordpress.com/2026/09/04/flt-anthropic-has-beaten-me-to-it/][FLT: Anthropic has beaten me to it (one of their internal models, using the prove2]].me platform, has formalized a complete proof of Fermat’s Last Theorem (FLT) in Lean). ~ Kevin Buzzard. #AI4Math #LeanProver #ITP
