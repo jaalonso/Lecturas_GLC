@@ -91,6 +91,13 @@ its content.
 
 ** Septiembre 2026
 
+*** 08-Sep-26
++ [[https://www.preprints.org/frontend/manuscript/97dfab6c32071c09ee05c54a6372b153/download_pub][Two boundary-certificate proofs of the Crouzeix theorem: fiberwise Fourier recurrence and defect-Gram telescoping]]. ~ Qinyu Luo. #LeanProver #ITP #AI4Math
++ [[https://openreview.net/forum?id=VncRNbkX2q][Steering aesop for theorem proving: learning to configure symbolic solvers via multi-source neurosymbolic feedback]]. ~ Kai-Yuan Jeng, Ru-Jun Wang, Wen-Tsuen Chen. #LeanProver #ITP #AI4Math
++ [[https://www.researchgate.net/publication/413742491_A_Kernel-Checked_Proof_of_Fuglede's_Conjecture_for_the_Cyclic_Group_Z180Z][A kernel-checked proof of Fuglede's conjecture for the cyclic group Z/180Z]]. ~ Javier Emilio Bazán Sánchez. #LeanProver #ITP #Math
++ [[https://arxiv.org/abs/2609.02978v1][SparseStack is an optimal oblivious subspace embedding]]. ~ Diar Heidary. #LeanProver #ITP #AI4Math
++ [[https://arxiv.org/abs/2609.03478v1][AutoGraphForge: Towards automated graph theory discovery]]. ~ Ján Pastorek. #AI4Math #LeanProver #ITP
+
 *** 06-Sep-26
 + [[https://arxiv.org/abs/2608.29750v1][The S-matrix conjecture]]. ~ Yinjie Li. #LeanProver #ITP #AI4Math
 + [[https://www.researchgate.net/publication/413747489_Simpler_Graph_Conditions_for_Embedding_Tetrahedral_Meshes][Simpler graph conditions for embedding tetrahedral meshes]]. ~ Lennart Rudolph. #LeanProver #ITP #AI4Math
