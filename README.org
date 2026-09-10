@@ -91,6 +91,17 @@ its content.
 
 ** Septiembre 2026
 
+*** 09-Sep-26
++ [[https://github.com/mario-ullrich/Lean-SNumbers][Lean4 formalization of s-numbers (in the sense of Pietsch) and important inequalities]]. ~ Mario Ullrich. #LeanProver #ITP #AI4Math
++ [[https://palomar-registry.org/entry.html?id=PALOMAR-2026-09-07-000013&version=1][Lean 4 formalization of the Gurvich-Naumova ternary partition theorem]]. ~ JD Jones. #LeanProver #ITP #AI4Math
++ [[https://proofsandprompts.com/2026/09/07/what-is-mathematics-now-and-what-should-it-be/][What is mathematics now, and what should it be? ~ Jeremy Avigad]]. #AI4Math
++ [[https://proofsandprompts.com/2026/09/08/whats-not-new/][What’s not new]]. ~ Orr Shalit. #AI4Math
++ [[https://proofsandprompts.com/2026/09/08/autoformalization-but-why/][(Auto)formalization, but why? ~ Seewoo Lee]]. #AI4Math #LeanProver #ITP
++ [[https://www.implicator.ai/clay-institute-navier-stokes-openai-proof-claim/][Clay Institute won't call Navier-Stokes solved after OpenAI proof claim]]. ~ Marcus Schuler.  #AI4Math
++ [[https://www.scientificamerican.com/article/ai-may-have-just-solved-a-million-dollar-math-problem-the-field-will-never-be-the-same/][AI may have just solved a million-dollar math problem]]. The field will never be the same. ~ Joseph Howlett. #AI4Math
++ [[https://openai.com/index/navier-stokes-solution/][On the Navier–Stokes Millennium Prize Problem]]. ~ OpenAI. #AI4Math
++ [[https://proofsandprompts.com/2026/09/09/how-to-welcome-llm-use-into-student-research-mentorship/][How to welcome LLM use into student research mentorship]]. ~ Joshua Siktar. #AI
+
 *** 08-Sep-26
 + [[https://www.preprints.org/frontend/manuscript/97dfab6c32071c09ee05c54a6372b153/download_pub][Two boundary-certificate proofs of the Crouzeix theorem: fiberwise Fourier recurrence and defect-Gram telescoping]]. ~ Qinyu Luo. #LeanProver #ITP #AI4Math
 + [[https://openreview.net/forum?id=VncRNbkX2q][Steering aesop for theorem proving: learning to configure symbolic solvers via multi-source neurosymbolic feedback]]. ~ Kai-Yuan Jeng, Ru-Jun Wang, Wen-Tsuen Chen. #LeanProver #ITP #AI4Math
