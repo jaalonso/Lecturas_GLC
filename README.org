@@ -91,6 +91,17 @@ its content.
 
 ** Septiembre 2026
 
+*** 11-Sep-26
++ [[https://arxiv.org/abs/2606.30782v2][A Lean 4 formalization of Scott's continuous lattices (1972)]]. ~ Lars Warren Ericson. #LeanProver #ITP #AI4Math
++ [[https://arxiv.org/abs/2609.04481v1][Statistical theory in the age of machine-assisted mathematics: rethinking how theory is made and taught]]. ~ Pietro Coretto. #LeanProver #ITP #Math
++ [[https://arxiv.org/abs/2609.04279v1][A counterexample to a problem of Pommerenke on convex functions in the class Σ]]. ~ Yuankai Guo, Xiaozhe Hu. #LeanProver #ITP #Math
++ [[https://isa-afp.org/entries/Platonic_Solids.html][The five platonic solids (in Isabelle/HOL)]]. ~ Evan Finken. #IsabelleHOL #ITP #Math
++ [[https://www.researchgate.net/publication/414030431_What_Lean_Checked_and_Astra_Didn't_Two_Kinds_of_Verification_One_Week_Apart][What Lean checked and Astra didn't: two kinds of verification, one week apart]]. ~ Scott J. McCormick. #AI4Math
++ [[https://www.quantamagazine.org/ai-has-solved-one-of-maths-1-million-millennium-prize-problems-20260908/][AI has solved one of math’s $1 million Millennium Prize Problems]]. ~ Konstantin Kakaes. #AI4Math
++ [[https://www.johndcook.com/blog/2026/09/09/four-colors/ ][A 50-year-old computer-assisted proof]]. ~ John D. Cook. #AI4Math
++ [[https://mathscholar.org/2026/09/ai-software-complete-a-formal-proof-of-fermats-last-theorem/][AI software completes a formal proof of Fermat’s Last Theorem]]. ~ David H Bailey. #AI4Math
++ [[https://www.gaussianos.com/el-teorema-de-goldbach-euler/][El teorema de Goldbach-Euler]]. ~ Miguel Ángel Morales. #Math
+
 *** 09-Sep-26
 + [[https://github.com/mario-ullrich/Lean-SNumbers][Lean4 formalization of s-numbers (in the sense of Pietsch) and important inequalities]]. ~ Mario Ullrich. #LeanProver #ITP #AI4Math
 + [[https://palomar-registry.org/entry.html?id=PALOMAR-2026-09-07-000013&version=1][Lean 4 formalization of the Gurvich-Naumova ternary partition theorem]]. ~ JD Jones. #LeanProver #ITP #AI4Math
