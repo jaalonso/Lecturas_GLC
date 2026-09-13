@@ -91,6 +91,13 @@ its content.
 
 ** Septiembre 2026
 
+*** 12-Sep-26
++ [[https://blog.computationalcomplexity.org/2026/09/navier-stokes-and-lean.html][Navier-Stokes and Lean]]. ~ Lance Fortnow. #LeanProver #AI4Math
++ [[https://isa-afp.org/entries/Foldes_Hammer.html][The Földes–Hammer characterization of split graphs (in Isabelle/HOL)]]. ~ Arthur Freitas Ramos, David Barros Hulak, Ruy Jose Guerra Barretto de Queiroz. #IsabelleHOL #ITP #Math
++ [[https://proofsandprompts.com/2026/09/12/the-association-for-human-mathematics/][The Association for Human Mathematics (AHM)]]. ~ AHM communications group. #AI4Math
++ [[https://proofsandprompts.com/2026/09/12/on-the-impact-of-ai-on-the-mathematical-practice/][On the impact of AI on the mathematical practice]]. ~ Manuel Rivera. #AI4Math
++ [[https://terrytao.wordpress.com/2026/09/11/on-the-existence-of-non-sofic-groups/][On the existence of non-sofic groups]]. ~ Andreas Thom. #AI4Math
+
 *** 11-Sep-26
 + [[https://arxiv.org/abs/2606.30782v2][A Lean 4 formalization of Scott's continuous lattices (1972)]]. ~ Lars Warren Ericson. #LeanProver #ITP #AI4Math
 + [[https://arxiv.org/abs/2609.04481v1][Statistical theory in the age of machine-assisted mathematics: rethinking how theory is made and taught]]. ~ Pietro Coretto. #LeanProver #ITP #Math
