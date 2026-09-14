@@ -91,6 +91,11 @@ its content.
 
 ** Septiembre 2026
 
+*** 13-Sep-26
++ [[https://geoconuk.github.io/lean-misc-math/docs/MiscMath/Analysis/KolmogorovArnold.html][The Kolmogorov–Arnold representation theorem (in Lean 4)]]. ~ George A. Constantinides. #LeanProver #ITP #Math
++ [[https://arxiv.org/abs/2609.11174][A four-valued graph model for conflict resolution: core framework and a machine-checked formalization in Lean 4]]. ~ Yukiko Kato. #LeanProver#ITP #Math
++ [[https://arxiv.org/abs/2609.07345v2][Monadic second-order logic in HOL: deep and shallow with automated faithfulness]]. ~ Christoph Benzmueller, Daniel Kirchner. #IsabelleHOL #ITP #Logic
+
 *** 12-Sep-26
 + [[https://blog.computationalcomplexity.org/2026/09/navier-stokes-and-lean.html][Navier-Stokes and Lean]]. ~ Lance Fortnow. #LeanProver #AI4Math
 + [[https://isa-afp.org/entries/Foldes_Hammer.html][The Földes–Hammer characterization of split graphs (in Isabelle/HOL)]]. ~ Arthur Freitas Ramos, David Barros Hulak, Ruy Jose Guerra Barretto de Queiroz. #IsabelleHOL #ITP #Math
