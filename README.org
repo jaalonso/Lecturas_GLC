@@ -91,6 +91,11 @@ its content.
 
 ** Septiembre 2026
 
+*** 14-Sep-26
++ [[https://www.philipzucker.com/elab_lean/][Lean metaprogramming etudes: execution is elaboration]]. ~ Philip Zucker. #LeanProver #ITP #FunctionalProgramming
++ [[https://proofsandprompts.com/2026/09/14/a-beginning-for-mathematics/][A beginning for mathematics]]. ~ Daniel Litt. #AI4Math
++ [[https://notxor.nueva-actitud.org/2026/09/13/gptel-emacs-y-la-ia.html][gptel: Emacs y la IA]]. ~ Notxor. #Emacs #AI
+
 *** 13-Sep-26
 + [[https://geoconuk.github.io/lean-misc-math/docs/MiscMath/Analysis/KolmogorovArnold.html][The Kolmogorov–Arnold representation theorem (in Lean 4)]]. ~ George A. Constantinides. #LeanProver #ITP #Math
 + [[https://arxiv.org/abs/2609.11174][A four-valued graph model for conflict resolution: core framework and a machine-checked formalization in Lean 4]]. ~ Yukiko Kato. #LeanProver#ITP #Math
