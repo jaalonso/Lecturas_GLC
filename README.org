@@ -91,6 +91,17 @@ its content.
 
 ** Septiembre 2026
 
+*** 15-Sep-26
++ [[https://arxiv.org/abs/2609.13780][Mechanizing Gödel's incompleteness theorems and provability logic]]. ~ Shogo Saitou, Mashu Noguchi. #LeanProver #ITP #AI4Math
++ [[https://arxiv.org/abs/2609.10579v1][A machine-checked proof of the Dong-Yang classification of optimal (n,4) binary codes for BSCs]]. ~ Shenghao Yang, Yanyan Dong. #LeanProver #ITP #AI4Math
++ [[https://arxiv.org/abs/2609.10793v1][Henstock-Kurzweil gauge integral in the non--gaussian regime: a machine-verified construction]]. ~ Yuri N. Berdinsky. #LeanProver #ITP
++ [[https://birdsnfrogs.github.io/2026/09/12/Felix_qui_potuit_rerum_cognoscere_causas.html][Happy, those able to know the causes of things (An essay on LLMs and the Navier-Stokes equation)]]. ~ Nestor Guillen. #AI4Math
++ [[https://arxiv.org/abs/2609.10867v1][Stable singularity of the Euler equations on ℝ³]]. ~ Adarsh Ganeshram, Valentin Duruisseaux, Anima Anandkumar. #AI4Math #LeanProver #ITP
++ [[https://proofsandprompts.com/2026/09/15/when-inventing-is-not-enough/][When inventing is not enough]]. ~ Lisa Valentini. #AI4Math
++ [[https://jaalonso.github.io/calculemus/posts/2026/06/14-teorema_del_emparedado/][#Calculemus: Demostraciones con Lean 4 del Reto 6 (teorema del emparedado)]]. #LeanProver #Math
++ [[https://jaalonso.github.io/calculemus/posts/2026/06/21-composicion_de_funciones_inyectivas/][#Calculemus: Demostraciones con Lean 4 del Reto 7 (La composición de funciones inyectivas es inyectiva)]]. #LeanProver #Math
++ [[https://jaalonso.github.io/calculemus/posts/2026/06/28-no_converge_a_limite_pequeno_si_infinitos_terminos_grandes/][#Calculemus: Demostraciones con Lean 4 del Reto 8 (Sucesiones con infinitos términos grandes no convergen a límites pequeños)]]. #Math
+
 *** 14-Sep-26
 + [[https://www.philipzucker.com/elab_lean/][Lean metaprogramming etudes: execution is elaboration]]. ~ Philip Zucker. #LeanProver #ITP #FunctionalProgramming
 + [[https://proofsandprompts.com/2026/09/14/a-beginning-for-mathematics/][A beginning for mathematics]]. ~ Daniel Litt. #AI4Math
