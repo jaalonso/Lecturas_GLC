@@ -91,6 +91,10 @@ its content.
 
 ** Septiembre 2026
 
+*** 16-Sep-26
++ [[https://inria.hal.science/tel-05737923/][Structuring mathematics in dependent type theory]]. ~ Cyril Cohen. #RocqProver #ITP #Math
++ [[https://jaalonso.github.io/calculemus/posts/2026/07/06-unicidad_del_limite_de_las_sucesiones_convergentes/][#Calculemus: Demostraciones con Lean 4 del Reto 9 (Unicidad del límite)]]. #LeanProver #ITP #Math
+
 *** 15-Sep-26
 + [[https://arxiv.org/abs/2609.13780][Mechanizing Gödel's incompleteness theorems and provability logic]]. ~ Shogo Saitou, Mashu Noguchi. #LeanProver #ITP #AI4Math
 + [[https://arxiv.org/abs/2609.10579v1][A machine-checked proof of the Dong-Yang classification of optimal (n,4) binary codes for BSCs]]. ~ Shenghao Yang, Yanyan Dong. #LeanProver #ITP #AI4Math
