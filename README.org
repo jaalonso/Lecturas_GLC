@@ -91,6 +91,18 @@ its content.
 
 ** Septiembre 2026
 
+*** 19-Sep-26
++ [[https://arxiv.org/abs/2609.16027v1][Formalization of Sullivan's no wandering domains theorem in Lean]]. ~ Ziang Li, Yusheng Luo. #LeanProver #ITP #AI4Math
++ [[https://arxiv.org/abs/2609.17027v1][Palindromic length in free groups: reflections, noncrossing matchings, and Catalan]]. ~ Junjie Liao. #LeanProver #ITP
++ [[https://isa-afp.org/entries/CRT_Product_Tree.html][Fast chinese remaindering via product trees (in Isabelle/HOL)]]. ~ Manuel Eberl. #IsabelleHOL #ITP
++ [[https://isa-afp.org/entries/Napoleon.html][Napoleon's theorem (in Isabelle/HOL)]]. ~ Arthur Freitas Ramos, David Barros Hulak, Ruy Jose Guerra Barretto de Queiroz. #IsabelleHOL #ITP #Math
++ [[https://proofsandprompts.com/2026/09/18/two-responses-to-a-severe-misalignment-of-ai-in-mathematics/][Two responses to "A severe misalignment of AI in mathematics"]]. ~ Timothy Nguyen, M. Levent Doğan. #AI4Math
++ [[https://alkjash.github.io/ai-risk/][Existential risk from AI: an exposition for mathematicians]]. ~ Xiaoyu He. #AI4Math
++ [[https://youtu.be/3geDF-DAwpg][SOLVED: Navier-Stokes cracked by AI]]. ~ Tony Padilla.  #AI4Math
++ [[https://sair.foundation/open-math-model/][Building open models for the mathematical community (An invitation from SAIR Foundation)]]. #AI4Math
++ [[https://proofsandprompts.com/2026/09/19/where-will-all-the-papers-go/][Where will all the papers go? ~ David Craven]]. #AI4Math
++ [[https://jaalonso.github.io/calculemus/posts/2026/07/19-convergencia_abs/][#Calculemus: Demostraciones con Lean 4 del Reto 11 (Si aₙ converge a L, entonces |aₙ| converge a |L|)]]. #LeanProver #ITP #Math
+
 *** 18-Sep-26
 + [[https://isa-afp.org/entries/Greibach_Hardest.html][Greibach’s hardest context-free language (in Isabelle/HOL)]]. ~ Tobias Nipkow. #IsabelleHOL #ITP
 + [[https://isa-afp.org/entries/System_F_Normalization.html][Strong normalization for Church-style system F (in Isabelle/HOL)]]. ~ Arthur Freitas Ramos, David Barros Hulak, Ruy Jose Guerra Barretto de Queiroz. #IsabelleHOL #ITP
