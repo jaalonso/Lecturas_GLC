@@ -91,6 +91,11 @@ its content.
 
 ** Septiembre 2026
 
+*** 20-Sep-26
++ [[https://arxiv.org/abs/2609.18261v1][Descriptive complexity in Lean: completeness by first-order reductions]]. ~ Pierre Senellart, Anton Gnatenko. #LeanProver #ITP #AI4Math
++ [[https://arxiv.org/abs/2609.19195v1][Lean-certified infinite counterexamples to written on the Wall II Conjecture 194]]. ~ Cameron Beeley. #LeanProver #ITP #AI4Math
++ [[https://jaalonso.github.io/calculemus/posts/2026/07/27-eventualmente_menor_de_limsuc_menor/][#Calculemus: Demostraciones con Lean 4 del Reto 12 (Si aₙ → L, bₙ → M y L < M, entonces eventualmente aₙ < bₙ)]]. #LeanProver #ITP #Math
+
 *** 19-Sep-26
 + [[https://arxiv.org/abs/2609.16027v1][Formalization of Sullivan's no wandering domains theorem in Lean]]. ~ Ziang Li, Yusheng Luo. #LeanProver #ITP #AI4Math
 + [[https://arxiv.org/abs/2609.17027v1][Palindromic length in free groups: reflections, noncrossing matchings, and Catalan]]. ~ Junjie Liao. #LeanProver #ITP
