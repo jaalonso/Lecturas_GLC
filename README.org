@@ -91,6 +91,15 @@ its content.
 
 ** Septiembre 2026
 
+*** 21-Sep-26
++ [[https://arxiv.org/abs/2609.20876][A formalisation of a special case of the union-closed conjecture in Isabelle/HOL]]. ~ Angeliki Koutsoukou-Argyraki, Lawrence C. Paulson. #IsabelleHOL #ITP
++ [[https://arxiv.org/abs/2511.20550][Verifying numerical methods with Isabelle/HOL]]. ~ Dustin Bryant, Jonathan Julian Huerta y Munive, Simon Foster. #IsabelleHOL #ITP #AI4Math
++ [[https://www.oswaldosrm.com/single-post/the-scientific-debate-over-ai-in-mathematics][The scientific debate over AI in mathematics]]. ~ Oswaldo Royett. #AI4Maht
++ [[https://theconversation.com/realmente-ha-resuelto-openai-el-problema-matematico-del-milenio-de-navier-stokes-291596][¿Realmente ha resuelto OpenAI el "problema matemático del milenio" de Navier-Stokes?]] ~ Víctor Javier Llorente Lázaro. #AI4Math
++ [[https://youtu.be/60kHy3vDvU8][Enscryerypt: Encrypt and decrypt files with Scryer Prolog]]. ~ Markus Triska. #Prolog #LogicProgramming
++ [[https://jaalonso.github.io/calculemus/posts/2026/09/16-las_sucesiones_convergentes_son_sucesiones_de_cauchy_v2/][#Calculemus: Demostraciones con Lean 4 del Reto 19 (Las sucesiones convergentes son sucesiones de Cauchy)]]. #LeanProver #ITP #Math
++ [[https://jaalonso.github.io/vestigium/posts/2026/09/20-lecturas_compartidas_el_20-sep-26/][Readings shared: 14-20 September, 2026]]. #AI #AI4Math #Emacs #FunctionalProgramming #Haskell #ITP #IsabelleHOL #LeanProver #Math #RocqProver
+
 *** 20-Sep-26
 + [[https://arxiv.org/abs/2609.18261v1][Descriptive complexity in Lean: completeness by first-order reductions]]. ~ Pierre Senellart, Anton Gnatenko. #LeanProver #ITP #AI4Math
 + [[https://arxiv.org/abs/2609.19195v1][Lean-certified infinite counterexamples to written on the Wall II Conjecture 194]]. ~ Cameron Beeley. #LeanProver #ITP #AI4Math
