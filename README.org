@@ -91,6 +91,14 @@ its content.
 
 ** Septiembre 2026
 
+*** 22-Sep-26
++ [[https://frenzymath.com/blog/lavertable/][A formalization at large (Laver function in Lean)]]. ~ Leheng Chen, Bin Dong, Jiedong Jiang, Zhiyuan Zhang. #LeanProver #ITP #Math
++ [[https://proofsandprompts.com/2026/09/22/proofforum-keeping-ai-generated-mathematics-human/][ProofForum: Keeping AI-generated mathematics human]]. ~ Marco Trombetti. #AI4Math
++ [[https://theconversation.com/el-miedo-al-lado-oscuro-de-la-ia-en-la-comunidad-matematica-292151][El miedo al lado oscuro de la IA en la comunidad matemática]]. ~ Anabel Forte Deltell. #AI4Math
++ [[https://gilkalai.wordpress.com/2026/09/22/be-a-grothendieck-on-ai-and-mathematics/]["Be a Grothendieck!" — On AI and mathematics]]. ~ Gil Kalai. #AI4Math
++ [[https://youtu.be/TcEefrWrddA][New math + AI developments in fluid mechanics]]. ~ Javier Gomez-Serrano. #AI4Math
++ [[https://jaalonso.github.io/calculemus/posts/2026/08/09-desigualdad_triangular_inversa/][#Calculemus: Demostraciones con Lean 4 del Reto 13 (Desigualdad triangular inversa: ||x| - |y|| ≤ |x - y|)]]. #LeanProver #ITP #Math
+
 *** 21-Sep-26
 + [[https://arxiv.org/abs/2609.20876][A formalisation of a special case of the union-closed conjecture in Isabelle/HOL]]. ~ Angeliki Koutsoukou-Argyraki, Lawrence C. Paulson. #IsabelleHOL #ITP
 + [[https://arxiv.org/abs/2511.20550][Verifying numerical methods with Isabelle/HOL]]. ~ Dustin Bryant, Jonathan Julian Huerta y Munive, Simon Foster. #IsabelleHOL #ITP #AI4Math
