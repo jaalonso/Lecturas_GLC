@@ -91,6 +91,14 @@ its content.
 
 ** Septiembre 2026
 
+*** 23-Sep-26
++ [[https://isa-afp.org/entries/Teichmuller_Tukey_Lemma.html][The Teichmüller-Tukey lemma (in Isabelle/HOL)]]. ~ Vithor Lindermann Kraisch, Luiz Gustavo Cordeiro. #IsabelleHOL #ITP #Math
++ [[https://arxiv.org/abs/2511.20550][Verifying numerical methods with Isabelle/HOL]]. ~ Dustin Bryant, Jonathan Julian Huerta y Munive, Simon Foster. #IsabelleHOL #ITP #Math
++ [[https://arxiv.org/abs/2609.25561][Formal verification of tilt estimation using the Rocq prover]]. ~ Reynald Affeldt, Lynda Bentoucha, Yoshihiro Ishiguro, Holger Thies. #RocqProver #ITP
++ [[https://proofsandprompts.com/2026/09/23/navigating-the-ai-crisis-a-humble-guide-for-students/][Navigating the AI crisis: a humble guide for students]]. ~ Tarik Aougab. #AI4Math
++ [[https://eleccionobarbarie.com/2026/09/23/que-son-los-numeros-reales-ii/][¿Qué son los números reales? II]]. ~ Esteban Martínez. #Math
++ [[https://jaalonso.github.io/vestigium/posts/2026/09/23-lista-de-usos-y-expectativas-de-la-ia-en-matematicas/][#Vestigium: Lista de usos y expectativas de la IA en matemáticas]]. #AI4Math
+
 *** 22-Sep-26
 + [[https://frenzymath.com/blog/lavertable/][A formalization at large (Laver function in Lean)]]. ~ Leheng Chen, Bin Dong, Jiedong Jiang, Zhiyuan Zhang. #LeanProver #ITP #Math
 + [[https://proofsandprompts.com/2026/09/22/proofforum-keeping-ai-generated-mathematics-human/][ProofForum: Keeping AI-generated mathematics human]]. ~ Marco Trombetti. #AI4Math
