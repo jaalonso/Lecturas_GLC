@@ -91,6 +91,12 @@ its content.
 
 ** Septiembre 2026
 
+*** 24-Sep-26
++ [[https://link.springer.com/article/10.1007/s00605-025-02078-x][Notes on Gödel’s and Scott’s variants of the ontological argument]]. ~ Christoph Benzmüller, Dana Scott. #IsabelleHOL #ITP
++ [[https://arxiv.org/abs/2609.26806v1][Gödel's and Scott's variants of the ontological argument in Lean 4]]. ~ Christoph Benzmüller. #LeanProver #ITP #AI4Math
++ [[https://ai.math.ms/en/research/][AI and mathematical research]]. ~ Claudia Alfes, Thomas Nikolaus, Andreas Thom. #AI4Math
++ [[https://jaalonso.github.io/calculemus/posts/2026/08/09-dos_n_mas_nueve_acotado_por_potencia/][#Calculemus: Demostraciones con Lean 4 del Reto 14 (Para todo n ∈ ℕ, 2n + 9 ≤ 2ⁿ⁺⁴)]]. #LeanProver #ITP #Math
+
 *** 23-Sep-26
 + [[https://isa-afp.org/entries/Teichmuller_Tukey_Lemma.html][The Teichmüller-Tukey lemma (in Isabelle/HOL)]]. ~ Vithor Lindermann Kraisch, Luiz Gustavo Cordeiro. #IsabelleHOL #ITP #Math
 + [[https://arxiv.org/abs/2511.20550][Verifying numerical methods with Isabelle/HOL]]. ~ Dustin Bryant, Jonathan Julian Huerta y Munive, Simon Foster. #IsabelleHOL #ITP #Math
