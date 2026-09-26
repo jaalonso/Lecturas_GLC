@@ -91,6 +91,17 @@ its content.
 
 ** Septiembre 2026
 
+*** 25-Sep-26
++ [[https://arxiv.org/abs/2509.19632][Formalization of Harder-Narasimhan theory]]. ~ Yijun Yuan. #LeanProver #ITP #AI4Math
++ [[https://arxiv.org/abs/2609.20876v1][A formalisation of a special case of the union-closed conjecture in Isabelle/HOL]]. ~ Angeliki Koutsoukou-Argyraki, Lawrence C. Paulson. #IsabelleHOL #ITP
++ [[https://fmcad.org/FMCAD26/vstte/preprints/paper-1.pdf][Verified QBF solving in Isabelle/HOL: a trustworthy baseline for mechanised quantified boolean reasoning]]. ~ Axel Bergström, Tjark Weber. #IsabelleHOL #ITP
++ [[https://isa-afp.org/entries/Joinable_BST_Work_Bounds.html][Work bounds for strongly joinable balanced binary search trees (in Isabelle/HOL)]]. ~ Marco Haucke. #IsabelleHOL #ITP
++ [[https://isa-afp.org/entries/DPDA_Complement_HU.html][Deterministic context-free languages are closed under complementation (Hopcroft and Ullman)]]. ~ Kaan Taskin, Tobias Nipkow. #IsabelleHOL #ITP
++ [[https://cbsoft.sbc.org.br/2026/data/papers/sblp/A%20Mechanized%20Formalization%20of%20MicroKanren%20in%20Agda.pdf][A mechanized formalization of MicroKanren in Agda- ~ Eduardo Henke, Rodrigo Ribeiro]]. #Agda #ITP
++ [[https://proofsandprompts.com/2026/09/24/all-the-math-we-will-not-see/][All the math we will not see]]. ~ Alessandro Della Corte. #AI4Math
++ [[https://cmsa.fas.harvard.edu/aimathphd_summit/][Summit on PhD math education in the age of AI]]. #AI4Math
++ [[https://jaalonso.github.io/calculemus/posts/2026/08/18-existe_k_cuadrado_acotado_por_potencia_de_dos/][#Calculemus: Demostraciones con Lean 4 del Reto 15 (Existe un k ∈ ℕ tal que, para todo n ∈ ℕ, (n + k)² ≤ 2ⁿ⁺ᵏ)]]. #LeanProver #ITP #Math
+
 *** 24-Sep-26
 + [[https://link.springer.com/article/10.1007/s00605-025-02078-x][Notes on Gödel’s and Scott’s variants of the ontological argument]]. ~ Christoph Benzmüller, Dana Scott. #IsabelleHOL #ITP
 + [[https://arxiv.org/abs/2609.26806v1][Gödel's and Scott's variants of the ontological argument in Lean 4]]. ~ Christoph Benzmüller. #LeanProver #ITP #AI4Math
