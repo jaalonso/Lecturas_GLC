@@ -91,6 +91,13 @@ its content.
 
 ** Septiembre 2026
 
+*** 27-Sep-26
++ [[https://hal.science/hal-05746185/document][Formalization of Langlands’s first main lemma for local epsilon factors]]. ~ Fukuhiro Ueda. #LeanProver #ITP #AI4Math
++ [[https://github.com/stormj-UH/spivak-lean][Lean 4 formalization of Michael Spivak's "Calculus" (covering both the 3rd and 4th editions)]]. ~ Jon-Erik G. Storm. #LeanProver #ITP #AI4Math
++ [[https://aitp-conference.org/2026/abstract/AITP_2026_paper_6.pdf][Visual Lean: An accessible interface for Lean 4 proofwriting]]. ~ Autumn Mapes. #LeanProver #ITP
++ [[https://members.loria.fr/DLarchey/files/papers/ARQNL26.pdf][The logic of Bunched implications is undecidable, mechanized in Rocq]]. ~ Dominique Larchey-Wendling. #Rocq #ITP
++ [[https://jaalonso.github.io/vestigium/posts/2026/09/27-formalizacion-del-libro-calculus-de-spivak-en-lean-4/][#Vestigium: Formalización del libro "Calculus" de Spivak en Lean 4]]. #LeanProver #ITP #AI4Math
+
 *** 25-Sep-26
 + [[https://arxiv.org/abs/2509.19632][Formalization of Harder-Narasimhan theory]]. ~ Yijun Yuan. #LeanProver #ITP #AI4Math
 + [[https://arxiv.org/abs/2609.20876v1][A formalisation of a special case of the union-closed conjecture in Isabelle/HOL]]. ~ Angeliki Koutsoukou-Argyraki, Lawrence C. Paulson. #IsabelleHOL #ITP
