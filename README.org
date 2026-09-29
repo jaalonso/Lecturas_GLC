@@ -91,6 +91,12 @@ its content.
 
 ** Septiembre 2026
 
+*** 28-Sep-26
++ [[https://arxiv.org/abs/2609.31334v1][Formalizing Carleson's theorem in Lean]]. ~ Lars Becker et als. #LeanProver #ITP #Math
++ [[https://frenzymath.com/news/poincare-formalization/][Formalization of the Poincaré Conjecture in Lean 4]]. ~ PKU AI for Math team. #LeanProver #ITP #Math
++ [[https://jaalonso.github.io/calculemus/posts/2026/09/21-limite_menor_que_cota/][#RetoLean4: Soluciones del reto 20 (Si aₙ → L y M es una cota superior de aₙ, entonces L ≤ M)]]. #LeanProver #ITP #Math
++ [[https://jaalonso.github.io/calculemus/posts/2026/09/28-subsucesiones_convergentes/][#RetoLean4: Enunciado del reto 21 (Las subsucesiones tienen el mismo límite que la sucesión)]]. #LeanProver #ITP #Math
+
 *** 27-Sep-26
 + [[https://hal.science/hal-05746185/document][Formalization of Langlands’s first main lemma for local epsilon factors]]. ~ Fukuhiro Ueda. #LeanProver #ITP #AI4Math
 + [[https://github.com/stormj-UH/spivak-lean][Lean 4 formalization of Michael Spivak's "Calculus" (covering both the 3rd and 4th editions)]]. ~ Jon-Erik G. Storm. #LeanProver #ITP #AI4Math
