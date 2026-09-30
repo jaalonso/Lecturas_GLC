@@ -91,6 +91,9 @@ its content.
 
 ** Septiembre 2026
 
+*** 29-Sep-26
++ [[https://proofsandprompts.com/2026/09/28/applied-mathematics-has-met-the-machine-before/][Applied mathematics has met the machine before]]. ~ Denys Dutykh. #AI4Math
+
 *** 28-Sep-26
 + [[https://arxiv.org/abs/2609.31334v1][Formalizing Carleson's theorem in Lean]]. ~ Lars Becker et als. #LeanProver #ITP #Math
 + [[https://frenzymath.com/news/poincare-formalization/][Formalization of the Poincaré Conjecture in Lean 4]]. ~ PKU AI for Math team. #LeanProver #ITP #Math
