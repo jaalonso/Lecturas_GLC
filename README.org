@@ -91,6 +91,17 @@ its content.
 
 ** Septiembre 2026
 
+*** 30-Sep-26
++ [[https://arxiv.org/abs/2609.36279][Proofs without nominals: Gödel's ontological argument, its shallow embedding, and the open questions of the Monatshefte Notes]]. ~ Christoph Benzmüller. #IsabelleHOL #LeanProver #ITP
++ [[https://arxiv.org/abs/2609.35847][A constructive ATLAS of finite simple groups in Lean]]. ~ Gerald Höhn. #LeanProver #ITP #AI4Math
++ [[https://arxiv.org/abs/2609.35790][Sage: Formalization with semantic correction]]. ~ Thomas Hirtz, Farzad Jafarrahmani, Abdelmouksit Sagueni, Xiang Zhou, Wengping Deng, Liang Zhang. #LeanProver #ITP #AI4Math
++ [[https://arxiv.org/abs/2609.14314][New proofs of weak normalization for propositional logic]]. ~ S P Suresh. #LeanProver #ITP #Logic
++ [[https://proofsandprompts.com/2026/09/29/can-ai-truly-prove-anything/][Can AI truly prove anything?]] ~ Stepan Nesterov. #AI4Math
++ [[https://agmai.org/general-sep29/][Responsible release of AI-generated mathematics]]. ~ Advisory Group on Mathematics and Artificial Intelligence. #AI4Math
++ [[https://jaalonso.github.io/vestigium/posts/2026/09/30-responsible-release-of-ai-generated-mathematics/][Reseña de «Responsible release of AI-generated mathematics»]]. #AI4Math
++ [[https://jaalonso.github.io/vestigium/posts/2026/09/30-can-ai-truly-prove-anything_/][Reseña de «Can AI truly prove anything?»]]. #AI4Math
++ [[https://jaalonso.github.io/calculemus/posts/2026/08/30-acotada_si_convergente/][#RetoLean4: Soluciones del reto 17 (Las sucesiones convergentes están acotadas)]]. #LeanProver #ITP #Math
+
 *** 29-Sep-26
 + [[https://proofsandprompts.com/2026/09/28/applied-mathematics-has-met-the-machine-before/][Applied mathematics has met the machine before]]. ~ Denys Dutykh. #AI4Math
 
