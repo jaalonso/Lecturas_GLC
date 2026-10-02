@@ -11,6 +11,7 @@ its content.
 
 * Content                                                                      :TOC:
 - [[#lecturas-del-año-2026][Lecturas del año 2026]]
+  - [[#octubre-2026][Octubre 2026]]
   - [[#septiembre-2026][Septiembre 2026]]
   - [[#agosto-2026][Agosto 2026]]
   - [[#julio-2026][Julio 2026]]
@@ -88,6 +89,17 @@ its content.
 - [[#lecturas-anteriores][Lecturas anteriores]]
 
 * Lecturas del año 2026
+
+** Octubre 2026
+
+*** 01-Oct-26
++ [[https://arxiv.org/abs/2609.26771][The Odlyzko–Poonen conjecture on irreducibility of random polynomials]]. ~ Constantin Kogler. #LeanProver #ITP #AI4Math
++ [[https://justinasher.me/formalize-everything-now][Formalize everything, now!]] ~ Justin Asher. #LeanProver #ITP #AI4Math
++ [[https://justinasher.me/what-did-the-lean-proof-of-flt-formalize][What did the Lean proof of Fermat's Last Theorem formalize?]] ~ Justin Asher. #LeanProver #ITP #AI4Math
++ [[https://paperswithlean.com/][Papers with Lean: arXiv papers that use Lean]]. #LeanProver #ITP
++ [[https://www.scientificamerican.com/article/ai-solves-a-holy-grail-problem-from-probability-theory][AI solves a ‘holy grail’ problem from probability theory]]. ~ Manon Bischoff. #AI4Math
++ [[https://serokell.io/blog/teaching-haskell-in-the-age-of-llms][Teaching Haskell in the age of LLMs, part 1: ban or embrace? ~ Vladislav Zavialov]]. #Haskell #FunctionalProgramming #LLMs
++ [[https://jaalonso.github.io/vestigium/posts/2026/10/01-ai-solves-a-holy-grail-problem-from-probability-theory/][Reseña de «AI solves a ‘holy grail’ problem from probability theory»]]. #AI4Math
 
 ** Septiembre 2026
 
