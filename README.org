@@ -92,6 +92,12 @@ its content.
 
 ** Octubre 2026
 
+*** 02-Oct-26
++ [[https://arxiv.org/abs/2609.33842v1][A Lean formalization of the Hamilton-Perelman proof of the three-dimensional Poincaré conjecture]]. ~ Ziyang Qin, Yuan Liao, Ayush Khaitan, Bennett Chow. #LeanProver #ITP
++ [[https://arxiv.org/abs/2609.32561v1][Formalising linear elliptic PDE theory in Lean 4]]. ~ Alejandro José Soto Franco, Kobe Marshall-Stevens. #LeanProver #ITP #Math
++ [[https://xenaproject.wordpress.com/2026/10/01/to-grieve-or-not-to-grieve/][To grieve, or not to grieve? (Mathematics and AI)]]. ~ Kevin Buzzard. #AI4Math
++ [[https://jaalonso.github.io/vestigium/posts/2026/10/02-to-grieve-or-not-to-grieve_-mathematics-and-ai/][Reseña de «To grieve, or not to grieve? (Mathematics and AI)»]]. #AI4Math
+
 *** 01-Oct-26
 + [[https://arxiv.org/abs/2609.26771][The Odlyzko–Poonen conjecture on irreducibility of random polynomials]]. ~ Constantin Kogler. #LeanProver #ITP #AI4Math
 + [[https://justinasher.me/formalize-everything-now][Formalize everything, now!]] ~ Justin Asher. #LeanProver #ITP #AI4Math
