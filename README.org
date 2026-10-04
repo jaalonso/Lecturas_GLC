@@ -92,6 +92,17 @@ its content.
 
 ** Octubre 2026
 
+*** 03-Oct-26
++ [[https://people.ciirc.cvut.cz/~janotmik/mathai26.pdf][Proving at scale for universal algebra]]. ~ João Araújo, Jan Hula, Mikoláš Janota, Edmond W. H. Lee, Bartosz Naskrecki. #LeanProver #ITP #AI4Math
++ [[https://terrytao.wordpress.com/2026/10/02/aim-an-invitation-to-explore-mathematics-together/][AIM: an invitation to explore mathematics together]]. ~ Matthew Colbrook. #AI4Math
++ [[https://github.com/MColbrook/AIM][AI for mathematical problems: an invitation for mathematicians]]. ~ Matthew Colbrook et als. #AI4Math
++ [[https://mathematics-explained.com/][AIM, explained (Explanations of open applied mathematics)]]. ~ Matthew Colbrook et als. #AI4Math
++ [[https://abakcus.com/book-lists/free-math-textbooks][Free math textbooks from university mathematicians]]. #Math
++ [[https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/#more-18251][If math is more than proof, we need to better celebrate the rest of it]]. ~ Grant Sanderson. #AI4Math
++ [[https://jaalonso.github.io/vestigium/posts/2026/10/03-aim-an-invitation-to-explore-mathematics-together/][Reseña de «AIM: an invitation to explore mathematics together»]]. #AI4Math
++ [[https://proofsandprompts.com/2026/10/02/only-anatevka/][Reseña de «Only Anatevka: the mathematical community's values, its incentives, and LLMs»]]. ~ Ethan Sussman. #AI4Math
++ [[https://jaalonso.github.io/vestigium/posts/2026/10/03-if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/][Reseña de «If math is more than proof, we need to better celebrate the rest of it»]]. #AI4Math
+
 *** 02-Oct-26
 + [[https://arxiv.org/abs/2609.33842v1][A Lean formalization of the Hamilton-Perelman proof of the three-dimensional Poincaré conjecture]]. ~ Ziyang Qin, Yuan Liao, Ayush Khaitan, Bennett Chow. #LeanProver #ITP
 + [[https://arxiv.org/abs/2609.32561v1][Formalising linear elliptic PDE theory in Lean 4]]. ~ Alejandro José Soto Franco, Kobe Marshall-Stevens. #LeanProver #ITP #Math
