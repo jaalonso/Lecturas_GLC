@@ -92,6 +92,12 @@ its content.
 
 ** Octubre 2026
 
+*** 04-Oct-26
++ [[https://proofsandprompts.com/2026/10/03/yapoai-yet-another-post-on-ai-ai-understanding-and-mathematical-work/][YAPOAI (Yet Another Post on AI): AI, understanding, and mathematical work]]. ~ Najib Idrissi. #AI4Math
++ [[https://jaalonso.github.io/vestigium/posts/2026/10/04-yapoai-yet-another-post-on-ai-ai-understanding-and-mathematical-work/][Reseña de «If math is more than proof, we need to better celebrate the rest of it»]]. #AI4Math
++ [[https://proofsandprompts.com/2026/10/02/why-i-became-a-professional-mathematician/][Why I became a professional mathematician]]. ~ Frank Vallentin. #AI4Math
++ [[https://jaalonso.github.io/vestigium/posts/2026/10/04-why-i-became-a-professional-mathematician/][Reseña de «Why I became a professional mathematician»]]. #AI4Math
+
 *** 03-Oct-26
 + [[https://people.ciirc.cvut.cz/~janotmik/mathai26.pdf][Proving at scale for universal algebra]]. ~ João Araújo, Jan Hula, Mikoláš Janota, Edmond W. H. Lee, Bartosz Naskrecki. #LeanProver #ITP #AI4Math
 + [[https://terrytao.wordpress.com/2026/10/02/aim-an-invitation-to-explore-mathematics-together/][AIM: an invitation to explore mathematics together]]. ~ Matthew Colbrook. #AI4Math
