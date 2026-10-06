@@ -92,6 +92,13 @@ its content.
 
 ** Octubre 2026
 
+*** 05-Oct-26
++ [[https://dl.acm.org/doi/pdf/10.1145/3839511][Sound and complete solving for multi-width parametric bitvectors via principled reductions]]. ~ Siddharth Bhat et als. #LeanProver
++ [[https://jaalonso.github.io/calculemus/posts/2026/09/28-subsucesiones_convergentes][Soluciones del reto 21 de Lean 4: Las subsucesiones tienen el mismo límite que la sucesión]]. #RetoLean4 #LeanProver #ITP #Math
++ [[https://jaalonso.github.io/calculemus/posts/2026/10/05-subsucesiones_con_limites_distintos_implican_no_convergencia/][Enunciado del reto 22 de Lean 4: Si una sucesión tiene dos subsucesiones con límites distintos, entonces la sucesión no es convergente]]. #RetoLean4 #LeanProver #ITP #Math
++ [[https://research.meta.ai/blog/solving-open-research-problems-together][Solving open research problems together (Mathematicians and Muse Spark collaborate on six research papers)]]. #AI4Math
++ [[https://jaalonso.github.io/vestigium/posts/2026/10/05-readings_shared_10-05-26][Weekly reads: Sep 28 – Oct 4, 2026]]. #AI4Math #Agda #FunctionalProgramming #Haskell #ITP #IsabelleHOL #LLMs #LeanProver #Logic #LogicProgramming #Math #Prolog #RocqProver
+
 *** 04-Oct-26
 + [[https://proofsandprompts.com/2026/10/03/yapoai-yet-another-post-on-ai-ai-understanding-and-mathematical-work/][YAPOAI (Yet Another Post on AI): AI, understanding, and mathematical work]]. ~ Najib Idrissi. #AI4Math
 + [[https://jaalonso.github.io/vestigium/posts/2026/10/04-yapoai-yet-another-post-on-ai-ai-understanding-and-mathematical-work/][Reseña de «If math is more than proof, we need to better celebrate the rest of it»]]. #AI4Math
