@@ -92,6 +92,18 @@ its content.
 
 ** Octubre 2026
 
+*** 06-Oct-26
++ [[https://www.scottnarmstrong.com/2026/10/autoformalization-is-now-very-easy/][Autoformalization is now very easy]]. ~ Scott Armstrong. #LeanProver #ITP #AI4Math #Autoformalization
++ [[https://github.com/scottnarmstrong/LeanAutoformalizationSkills][LeanAutoformalizationSkills: A collection of skills for using Codex or Claude Code to formalize mathematics in Lean 4]]. ~ Scott Armstrong. #LeanProver #ITP #AI4Math #Autoformalization
++ [[https://www.quantamagazine.org/is-ai-the-end-of-math-as-we-know-it-20261005][Is AI the end of math as we know it?]] ~ Jordana Cepelewicz. #AI4Math
++ [[https://jaalonso.github.io/vestigium/posts/2026/10/06-is-ai-the-end-of-math-as-we-know-it_/][Reseña de «Is AI the end of math as we know it?»]]. #AI4Math
++ [[https://docs.google.com/document/d/e/2PACX-1vTSh-pyNP3Gi99WMmsinnLmE9V5CDI0HEm6WGbIPMNt3V5SGlClHF8-BetotKHOImrvQDSXmFdiOw8D/pub][Is mathematics over, or just graduating?]]. ~ Christian Szegedy. #AI4Math
++ [[https://jaalonso.github.io/vestigium/posts/2026/10/06-is-mathematics-over-or-just-graduating_/][Reseña de «Is mathematics over, or just graduating?»]]. #AI4Math
++ [[https://proofsandprompts.com/2026/10/06/navigating-the-risks-of-ai-in-academia/][Navigating the risks of AI in academia]]. ~ Sahana Balasubramanya. #AI4Math
++ [[https://jaalonso.github.io/vestigium/posts/2026/10/06-navigating-the-risks-of-ai-in-academia/][Reseña de «Navigating the risks of AI in academia»]]. #AI4Math
++ [[https://terrytao.wordpress.com/2026/10/05/the-future-of-mathematics/][The future of mathematics]]. ~ Jeremy Avigad. #AI4Math
++ [[https://jaalonso.github.io/vestigium/posts/2026/10/06-the-future-of-mathematics/][Reseña de «The future of mathematics»]]. #AI4Math
+
 *** 05-Oct-26
 + [[https://dl.acm.org/doi/pdf/10.1145/3839511][Sound and complete solving for multi-width parametric bitvectors via principled reductions]]. ~ Siddharth Bhat et als. #LeanProver
 + [[https://jaalonso.github.io/calculemus/posts/2026/09/28-subsucesiones_convergentes][Soluciones del reto 21 de Lean 4: Las subsucesiones tienen el mismo límite que la sucesión]]. #RetoLean4 #LeanProver #ITP #Math
