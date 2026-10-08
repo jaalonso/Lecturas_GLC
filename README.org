@@ -92,6 +92,17 @@ its content.
 
 ** Octubre 2026
 
+*** 07-Oct-26
++ [[https://arxiv.org/abs/2610.08329v1][An AI-assisted formalization of the Poincaré conjecture]]. ~ Zhiyuan Zhang, Axel Delaval, Leheng Chen, Jinxuan Chen, Jie Xu, Yuxuan Liao, Jiedong Jiang, Chunlei Liu, Bin Dong. #LeanProver #ITP #AI4Math
++ [[https://www.renaissancephilanthropy.org/software-foundations-in-lean][Software Foundations In Lean]]. ~ Benjamin Pierce et als. #LeanProver #ITP
++ [[https://arxiv.org/abs/2610.08359][A first introduction to Isabelle/ML metaprogramming: automatic estimation of polynomial degrees]]. ~ Jonas Bayer, Anna Danilkin, Marco David, Annie Yao. #IsabelleHOL #ITP
++ [[https://arxiv.org/abs/2610.08214][Mathematical proof assistants for teaching logic: the LogiKEy methodology]]. ~ Christoph Benzmüller, David Fuenmayor, Luca Pasetto. #IsabelleHOL #ITP #Logic
++ [[https://isa-afp.org/entries/Steiner_Line_Theorem.html][Steiner's line theorem in Isabelle/HOL]]. ~ Arthur Freitas Ramos, David Barros Hulak, Ruy Jose Guerra Barretto de Queiroz. #IsabelleHOL #ITP #Math
++ [[https://isa-afp.org/entries/Steiner_Deltoid.html][The Steiner deltoid as the tangent envelope of Wallace-Simson Lines in Isabelle/HOL]]. ~ Arthur Freitas Ramos, David Barros Hulak, Ruy Jose Guerra Barretto de Queiroz. #IsabelleHOL #ITP  #Math
++ [[https://proofsandprompts.com/2026/10/07/on-openais-release-of-mathematical-results/][On OpenAI’s release of mathematical results]]. ~ Advisory Group on Mathematics and Artificial Intelligence. #AI4Math
++ [[https://www.renaissancephilanthropy.org/ai-for-math-fund-2026-projects][AI for Math Fund: 2026 Winners]]. #AI4Math
++ [[https://www.renaissancephilanthropy.org/agentic-approach-to-computer-algebra-systems][Agentic approach to computer algebra systems]]. ~ Bartosz Naskręcki et als. #AI4Math #CAS
+
 *** 06-Oct-26
 + [[https://www.scottnarmstrong.com/2026/10/autoformalization-is-now-very-easy/][Autoformalization is now very easy]]. ~ Scott Armstrong. #LeanProver #ITP #AI4Math #Autoformalization
 + [[https://github.com/scottnarmstrong/LeanAutoformalizationSkills][LeanAutoformalizationSkills: A collection of skills for using Codex or Claude Code to formalize mathematics in Lean 4]]. ~ Scott Armstrong. #LeanProver #ITP #AI4Math #Autoformalization
