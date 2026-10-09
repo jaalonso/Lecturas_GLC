@@ -92,6 +92,12 @@ its content.
 
 ** Octubre 2026
 
+*** 08-Oct-26
++ [[https://www.stephendiehl.com/posts/dependently_typed_future/][We live in the dependently typed future now]]. ~ Stephen Diehl. #LeanProver #ITP #AI4Math
++ [[https://palomar-registry.org/entry?id=PALOMAR-2026-10-07-000010&version=1][Erdős 374: classical square products of factorials (in Lean 4)]]. ~ Alexander. #LeanProver #ITP #Math
++ [[https://terrytao.wordpress.com/2026/10/08/what-should-we-tell-our-students/][What should we tell our students?]] ~ Álvaro Lozano-Robledo. #AI4Math
++ [[https://simonjohnthompson.github.io/haskellcraft/][Online edition of "Haskell: the craft of functional programming"]]. ~ Simon Thompson. #Haskell #FunctionalProgramming
+
 *** 07-Oct-26
 + [[https://arxiv.org/abs/2610.08329v1][An AI-assisted formalization of the Poincaré conjecture]]. ~ Zhiyuan Zhang, Axel Delaval, Leheng Chen, Jinxuan Chen, Jie Xu, Yuxuan Liao, Jiedong Jiang, Chunlei Liu, Bin Dong. #LeanProver #ITP #AI4Math
 + [[https://www.renaissancephilanthropy.org/software-foundations-in-lean][Software Foundations In Lean]]. ~ Benjamin Pierce et als. #LeanProver #ITP
