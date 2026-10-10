@@ -92,6 +92,14 @@ its content.
 
 ** Octubre 2026
 
+*** 09-Oct-26
++ [[https://arxiv.org/abs/2610.04774v1][Toward a Lean formalization of analog computing with microwaves]]. ~ Matteo Nerini, Xuekang Liu, Bruno Clerckx. #LeanProver #ITP
++ [[https://arxiv.org/abs/2610.02335v1][A Lean~4 framework for the radii polynomial method]]. ~ Fengyang Wang. #LeanProver #ITP #Math
++ [[https://arxiv.org/abs/2610.05367v1][AIProver: agentic auto-formalization of mathematical research via certificate-driven evolving harness]]. ~ Prithwish Jana et als. #LeanProver #ITP #AI4Math
++ [[https://arxiv.org/abs/2604.24195][ZFLean: a framework for set-level mathematics in Lean]]. ~ Vincent Trélat, Matteo Pouillat. #LeanProver #ITP #Math
++ [[https://github.com/VTrelat/ZFLean][ZFLean: a Lean 4 library for doing core mathematics inside Mathlib's model of ZFC set theory]]. ~ Vincent Trélat, Matteo Pouillat. #LeanProver #ITP #Math
++ [[https://arxiv.org/abs/2610.11913][Formally certifying the vertex set of a polyhedron faster than informal enumeration]]. ~ Xavier Allamigeon, Yazid Id-Sahra, Pierre-Yves Strub. #RocqProver #ITP #Math
+
 *** 08-Oct-26
 + [[https://www.stephendiehl.com/posts/dependently_typed_future/][We live in the dependently typed future now]]. ~ Stephen Diehl. #LeanProver #ITP #AI4Math
 + [[https://palomar-registry.org/entry?id=PALOMAR-2026-10-07-000010&version=1][Erdős 374: classical square products of factorials (in Lean 4)]]. ~ Alexander. #LeanProver #ITP #Math
