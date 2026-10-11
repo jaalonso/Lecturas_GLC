@@ -92,6 +92,13 @@ its content.
 
 ** Octubre 2026
 
+*** 10-Oct-26
++ [[https://arxiv.org/abs/2605.22763][Advancing mathematics research with AI-driven formal proof search]]. ~ George Tsoukalas et als. #LeanProver #ITP #AI4Math
++ [[https://jaalonso.github.io/calculemus/posts/2026/10/10-lean_4_para_matematicos_guia_docente/][Lean 4 para matemáticos: guía docente]]. #LeanProver #ITP #Math
++ [[https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai/][What mathematicians should know about the Lean Theorem Prover: questions of reliability and AI]]. ~ Thomas Hales. #LeanProver #ITP #AI4Math
++ [[https://rsme.es/wp-content/uploads/2026/10/Boletin-950.pdf#page=4][Debate sobre Matemáticas e IA: IA en EDPs]]. ~ Javier Gómez Serrano. #AI4Math
++ [[https://terrytao.wordpress.com/2026/10/10/math-2-0/][Math 2.0]]. ~ Terence Tao. #AI4Math
+
 *** 09-Oct-26
 + [[https://arxiv.org/abs/2610.04774v1][Toward a Lean formalization of analog computing with microwaves]]. ~ Matteo Nerini, Xuekang Liu, Bruno Clerckx. #LeanProver #ITP
 + [[https://arxiv.org/abs/2610.02335v1][A Lean~4 framework for the radii polynomial method]]. ~ Fengyang Wang. #LeanProver #ITP #Math
