@@ -92,6 +92,9 @@ its content.
 
 ** Octubre 2026
 
+*** 11-Oct-26
++ [[https://proofsandprompts.com/2026/10/09/could-ai-help-mathematics-escape-the-meritocracy-trap/][Could AI help mathematics escape the meritocracy trap?]]. #AI4Math
+
 *** 10-Oct-26
 + [[https://arxiv.org/abs/2605.22763][Advancing mathematics research with AI-driven formal proof search]]. ~ George Tsoukalas et als. #LeanProver #ITP #AI4Math
 + [[https://jaalonso.github.io/calculemus/posts/2026/10/10-lean_4_para_matematicos_guia_docente/][Lean 4 para matemáticos: guía docente]]. #LeanProver #ITP #Math
