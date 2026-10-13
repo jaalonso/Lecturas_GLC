@@ -92,6 +92,15 @@ its content.
 
 ** Octubre 2026
 
+*** 12-Oct-26
++ [[https://proofsandprompts.com/2026/10/12/free-inquiry-in-mathematics/][Free inquiry in mathematics]]. ~ Thomas Sinclair. #AI4Math
++ [[https://proofsandprompts.com/2026/10/11/on-our-existential-crisis-and-trustworthy-ai/][On our existential crisis and trustworthy AI]]. ~ Michel Schellekens. #AI4Math
++ [[https://proofsandprompts.com/2026/10/11/transforming-mathematics/][Transforming mathematics]]. ~ Benjamin Braun. #AI4Math
++ [[https://jaalonso.github.io/calculemus/posts/2026/10/10-lean_4_para_matematicos_guia_docente/][Lean 4 para matemáticos: guía docente]]. #LeanProver #ITP #Math
++ [[https://jaalonso.github.io/calculemus/posts/2026/10/12-limite_de_sucesion_constante/][Enunciado del reto 23 de Lean 4: La sucesión constante aₙ = L converge a L]]. #RetoLean4 #LeanProver #ITP #Math
++ [[https://jaalonso.github.io/calculemus/posts/2026/10/05-subsucesiones_con_limites_distintos_implican_no_convergencia/][Soluciones del reto 22 de Lean 4: Si una sucesión tiene dos subsucesiones con límites distintos, entonces la sucesión no es convergente]]. #RetoLean4 #LeanProver #ITP #Math
++ [[https://jaalonso.github.io/vestigium/posts/2026/10/12-weekly_reads/][Weekly reads: Oct 5 – Oct 11, 2026]]. #AI4Math #Autoformalization #CAS #FunctionalProgramming #Haskell #IsabelleHOL #ITP #LeanProver #Logic #Math #RetoLean4 #RocqProver
+
 *** 11-Oct-26
 + [[https://proofsandprompts.com/2026/10/09/could-ai-help-mathematics-escape-the-meritocracy-trap/][Could AI help mathematics escape the meritocracy trap?]]. #AI4Math
 
