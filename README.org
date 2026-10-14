@@ -92,6 +92,9 @@ its content.
 
 ** Octubre 2026
 
+*** 13-Oct-26
++ [[https://thesis.unipd.it/bitstream/20.500.12608/116537/1/AngeliJacopo_2130757_pdfa.pdf][Mechanizing term relation algebras: the basic theory]]. ~ Jacopo Angeli. #LeanProver #ITP
+
 *** 12-Oct-26
 + [[https://proofsandprompts.com/2026/10/12/free-inquiry-in-mathematics/][Free inquiry in mathematics]]. ~ Thomas Sinclair. #AI4Math
 + [[https://proofsandprompts.com/2026/10/11/on-our-existential-crisis-and-trustworthy-ai/][On our existential crisis and trustworthy AI]]. ~ Michel Schellekens. #AI4Math
