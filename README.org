@@ -92,6 +92,13 @@ its content.
 
 ** Octubre 2026
 
+*** 15-Oct-26
++ [[https://arxiv.org/abs/2607.23500][Formalizing flag algebras in Lean]]. ~ Gyeongwon Jeong, Seonghun Park, Jihoon Hyun, Sang-il Oum, Hongseok Yang. #LeanProver #ITP #AI4Math
++ [[https://jdb19937.github.io/log-irrationality-measure/logmeasure.pdf][The irrationality measure of the logarithm of a rational number is 2]]. ~ Dan Brown. #LeanProver #ITP #Math
++ [[https://jenwin.io/papers/erdos108-arc-graphs.pdf][A counterexample to Erdős problem 108 via arc graphs]]. ~ Jensen Kohlmeyer, Liam Kruer. #LeanProver #ITP #Math
++ [[https://jaalonso.github.io/calculemus/en/posts/2026/10/10-lean_4_para_matematicos_guia_docente/][Lean 4 for mathematicians: a teacher's guide]]. #LeanProver #ITP #Math
++ [[https://proofsandprompts.com/2026/10/14/the-dialectical-theorem/][The dialectical theorem]]. ~ Thomas Koberda, Alex Kontorovich. #AI4Math
+
 *** 13-Oct-26
 + [[https://thesis.unipd.it/bitstream/20.500.12608/116537/1/AngeliJacopo_2130757_pdfa.pdf][Mechanizing term relation algebras: the basic theory]]. ~ Jacopo Angeli. #LeanProver #ITP
 
