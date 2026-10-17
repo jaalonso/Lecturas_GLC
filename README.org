@@ -92,6 +92,10 @@ its content.
 
 ** Octubre 2026
 
+*** 16-Oct-26
++ [[https://arxiv.org/abs/2610.13463][Exact rational certificates and a Lean formalization of the eleven-variable Vasc inequality]]. ~ Dakai Guo, Ruichen Qiu, Yichuan Cao, Ruyong Feng, Xiao-Shan Gao. #LeanProver #ITP
++ [[https://jaalonso.github.io/calculemus/en/posts/2026/05/10-la_sucesion_1_div_n_converge_a_0/][Challenge 1: Prove in Lean 4 that the sequence 1/n converges to 0]]. #LeanProver #ITP #Math #Lean4Challenge
+
 *** 15-Oct-26
 + [[https://arxiv.org/abs/2607.23500][Formalizing flag algebras in Lean]]. ~ Gyeongwon Jeong, Seonghun Park, Jihoon Hyun, Sang-il Oum, Hongseok Yang. #LeanProver #ITP #AI4Math
 + [[https://jdb19937.github.io/log-irrationality-measure/logmeasure.pdf][The irrationality measure of the logarithm of a rational number is 2]]. ~ Dan Brown. #LeanProver #ITP #Math
