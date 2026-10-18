@@ -92,6 +92,9 @@ its content.
 
 ** Octubre 2026
 
+*** 17-Oct-26
++ [[https://xenaproject.wordpress.com/2026/10/16/how-to-formalize-all-of-mathematics/][How to formalize all of mathematics]]. ~ Jeremy Avigad, Kevin Buzzard, Johan Commelin, Rémy Degenne, Kim Morrison, Oliver Nash, Adam Topaz. #LeanProver #ITP #AI4Math
+
 *** 16-Oct-26
 + [[https://arxiv.org/abs/2610.13463][Exact rational certificates and a Lean formalization of the eleven-variable Vasc inequality]]. ~ Dakai Guo, Ruichen Qiu, Yichuan Cao, Ruyong Feng, Xiao-Shan Gao. #LeanProver #ITP
 + [[https://jaalonso.github.io/calculemus/en/posts/2026/05/10-la_sucesion_1_div_n_converge_a_0/][Challenge 1: Prove in Lean 4 that the sequence 1/n converges to 0]]. #LeanProver #ITP #Math #Lean4Challenge
