@@ -92,6 +92,15 @@ its content.
 
 ** Octubre 2026
 
+*** 19-Oct-26
++ [[https://proofsandprompts.com/2026/10/19/recommendations-on-the-use-of-ai-for-phd-students-and-supervisors/][Recommendations on the use of AI for PhD students and supervisors]]. #AI4Math
++ [[https://proofsandprompts.com/2026/10/19/thinking-hard-above-ai/][Thinking hard above AI]]. ~ Benjamin Merlin Bumpus. #AI4Math
++ [[https://terrytao.wordpress.com/2026/10/18/will-it-be-a-golden-age-or-a-dark-age-for-mathematics-and-science/][Will it be a golden age or a dark age for mathematics (and science)?]]. ~ Francesco Maggi. #AI4Math
++ [[https://proofsandprompts.com/2026/10/18/who-will-lead-mathematical-ai/][Who will lead mathematical AI?]]. ~ Helmut H. W. Hofer. #AI4Math
++ [[https://proofsandprompts.com/2026/10/18/mathematics-in-the-dark-forest/][Mathematics in the dark forest]]. ~ Dave Anderson. #AI4Math
++ [[https://jaalonso.github.io/calculemus/en/posts/2026/10/12-limite_de_sucesion_constante][Solutions to Lean 4 challenge 23: The constant sequence aₙ = L converges to L]]. #Lean4Challenge #LeanProver #ITP #Math
++ [[https://jaalonso.github.io/calculemus/en/posts/2026/10/19-no_convergencia_-1n_v2][Lean 4 challenge 24: The sequence 1, -1, 1, -1,]]... is not convergent (using Challenge 22). #Lean4Challenge #LeanProver #ITP #Math
+
 *** 18-Oct-26
 + [[https://arxiv.org/abs/2610.16323v1][A Lean formalisation of the disproof of Ramaekers's conjecture]]. ~ Jeremy Tan. #LeanProver #ITP #Math
 + [[https://arxiv.org/abs/2610.15914v1][An efficient, Lean 4 verified necessary and sufficient condition for membership in pedigree polytopes]]. ~ T.S. Arthanari. #LeanProver #ITP #AI4Math
