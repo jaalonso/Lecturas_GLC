@@ -92,6 +92,18 @@ its content.
 
 ** Octubre 2026
 
+*** 20-Oct-26
++ [[https://www.math.uni-bonn.de/people/rothgang/real-interpolation.pdf][Formalization of the real interpolation theorem for the Carleson project]]. ~ Jim Portegies, Michael Rothgang. #LeanProver #ITP #Math
++ [[https://arxiv.org/abs/2610.21899][Isaac's condition (TU) is false]]. ~ Ralf Stephan. #LeanProver #ITP #Math
++ [[https://zeyu-zheng.github.io/reuF2F.pdf][REUF2F: Benchmarking coding agents on formalized undergraduate research problems]]. ~ Zeyu Zheng et al. #AI4Math
++ [[https://terrytao.wordpress.com/2026/10/20/an-experimental-ai-math-challenge-using-tenth-discriminant-bounds-to-explore-arguments-ruling-out-siegel-zeroes/][An experimental AI-math challenge: using tenth discriminant bounds to explore arguments ruling out Siegel zeroes]]. ~Terence Tao. #AI4Math
++ [[https://proofsandprompts.com/2026/10/20/who-will-become-the-new-mathematicians-of-math-2-0/][Who will become the new mathematicians of Math 2]].0?. #AI4Math
++ [[https://proofsandprompts.com/2026/10/20/a-critique-of-the-mathematical-economy/][A critique of the mathematical economy]]. ~ Álvaro Gutiérrez. #AI4Math
++ [[https://proofsandprompts.com/2026/10/20/letter-to-a-worried-student/][Letter to a worried student]]. ~ David A. Madore. #AI4Math
++ [[https://jaalonso.github.io/calculemus/posts/2026/10/12-limite_de_sucesion_constante][Soluciones del reto 23 de Lean 4: La sucesión constante aₙ = L converge a L]]. #RetoLean4 #LeanProver #ITP #Math
++ [[https://jaalonso.github.io/calculemus/posts/2026/10/19-no_convergencia_-1n_v2/][Reto 24 de Lean 4: La sucesión 1, -1, 1, -1,]]... no es convergente (usando el Reto 22). #RetoLean4 #LeanProver #ITP #Math
++ [[https://jaalonso.github.io/vestigium/en/posts/2026/10/19-weekly_reads][Weekly reads: Oct 12 – Oct 18, 2026]]. #AI #AI4Math #ITP #Lean4Challenge #LeanProver #Math #RetoLean4
+
 *** 19-Oct-26
 + [[https://proofsandprompts.com/2026/10/19/recommendations-on-the-use-of-ai-for-phd-students-and-supervisors/][Recommendations on the use of AI for PhD students and supervisors]]. #AI4Math
 + [[https://proofsandprompts.com/2026/10/19/thinking-hard-above-ai/][Thinking hard above AI]]. ~ Benjamin Merlin Bumpus. #AI4Math
