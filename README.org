@@ -92,6 +92,13 @@ its content.
 
 ** Octubre 2026
 
+*** 21-Oct-26
++ [[https://arxiv.org/abs/2610.25920v1][Maestro: Agentic formal proof development by coordination]]. ~ Haoyu Li et al. #LeanProver #ITP #AI4Math
++ [[https://leanprover-community.github.io/contribute/values.html][Mathlib's values]]. #LeanProver #ITP
++ [[https://www.quantamagazine.org/ai-proved-the-quasi-riemann-hypothesis-what-happens-now-20261019/][AI proved the quasi-Riemann hypothesis]]. What happens now?. ~ Konstantin Kakaes. #AI4Math
++ [[https://proofsandprompts.com/2026/10/21/the-power-of-beauty-and-elegance/][The power of beauty and elegance]]. ~ Márton Balázs. #AI4Math
++ [[https://jaalonso.github.io/calculemus/en/posts/2026/05/24-si_a_converge_a_l_entonces_2a_converge_a_2l][Lean 4 challenge 3: If aₙ converges to L, then 2aₙ converges to 2L]]. #LeanProver #ITP #Math #Lean4Challenge
+
 *** 20-Oct-26
 + [[https://www.math.uni-bonn.de/people/rothgang/real-interpolation.pdf][Formalization of the real interpolation theorem for the Carleson project]]. ~ Jim Portegies, Michael Rothgang. #LeanProver #ITP #Math
 + [[https://arxiv.org/abs/2610.21899][Isaac's condition (TU) is false]]. ~ Ralf Stephan. #LeanProver #ITP #Math
