@@ -92,6 +92,16 @@ its content.
 
 ** Octubre 2026
 
+*** 22-Oct-26
++ [[https://terrytao.wordpress.com/2026/10/21/mathematics-is-a-subject-for-the-young/][Mathematics is a subject for the young]]. ~ Tristan Buckmaster. #AI4Math
++ [[https://jaalonso.github.io/vestigium/en/posts/2026/10/22-mathematics_is_a_subject_for_the_young/][Review of «Mathematics is a subject for the young»]]. #AI4Math #AI #Math
++ [[https://jaalonso.github.io/vestigium/en/posts/2026/10/22-mathematics_is_a_subject_for_the_young/][Reseña de «Mathematics is a subject for the young»]]. #AI4Math #AI #Math
++ [[https://proofsandprompts.com/2026/10/21/mathematics-of-the-future/][Mathematics of the future]]. Pavel Etingof et al. #AI4Math
++ [[https://jaalonso.github.io/vestigium/en/posts/2026/10/22-mathematics_of_the_future/][Review of «Mathematics of the future»]]. #AI4Math
++ [[https://jaalonso.github.io/vestigium/posts/2026/10/22-mathematics_of_the_future/][Reseña de «Mathematics of the future»]]. #AI4Math
++ [[https://arxiv.org/abs/2610.28912][Simply logical - The first three decades]]. ~ Peter Flach, Kacper Sokol, Jan Wielemaker. #Prolog #LogicProgramming
++ [[https://jaalonso.github.io/calculemus/en/posts/2026/05/31-infinitud_de_primos_v2/][Lean 4 challenge 4: There are infinitely many prime numbers]]. #LeanProver #ITP #Math #Lean4Challenge
+
 *** 21-Oct-26
 + [[https://arxiv.org/abs/2610.25920v1][Maestro: Agentic formal proof development by coordination]]. ~ Haoyu Li et al. #LeanProver #ITP #AI4Math
 + [[https://leanprover-community.github.io/contribute/values.html][Mathlib's values]]. #LeanProver #ITP
