@@ -92,6 +92,17 @@ its content.
 
 ** Octubre 2026
 
+*** 23-Oct-26
++ [[https://florisvandoorn.com/theses/YunusMaranki.pdf][Formalization of model theory in Lean]]. ~ Yunus Maranki. #LeanProver #ITP #Logic #Math
++ [[https://arxiv.org/abs/2610.30433][Reflections on trusting Lean]]. ~ Lorenzo Bresolin, Marcello Mamino. #LeanProver #ITP #Logic #Math
++ [[https://arxiv.org/abs/2610.26539][The irrationality exponent of the lemniscate period: A determinant proof with a Lean 4 formalization]]. ~ Gregory V. Chudnovsky. #LeanProver #ITP #AI4Math
++ [[https://jaalonso.github.io/calculemus/en/posts/2026/06/07-52n_-_23n_es_divisible_por_17/][Lean 4 challenge 5: 5²ⁿ - 2³ⁿ is divisible by 17]]. #LeanProver #ITP #Math #Lean4Challenge
++ [[https://proofsandprompts.com/2026/10/23/disgusted-by-ai/][Disgusted by AI? ~ Marcus Zibrowius]]. #AI4Math
++ [[https://jaalonso.github.io/vestigium/en/posts/2026/10/23-disgusted_by_ai_/][Review of «Disgusted by AI?»]]. #AI4Math
++ [[https://jaalonso.github.io/vestigium/posts/2026/10/23-disgusted_by_ai_/][Reseña de «Disgusted by AI?»]]. #AI4Math
++ [[https://jaalonso.github.io/vestigium/en/posts/2026/10/23-towards_a_world_mathematical_commons/][Review of «Towards a world mathematical commons»]]. #AI4Math #LeanProver #ITP #AI #Math
++ [[https://jaalonso.github.io/vestigium/posts/2026/10/23-towards_a_world_mathematical_commons/][Reseña de «Towards a world mathematical commons»]]. #AI4Math #LeanProver #ITP #AI #Math
+
 *** 22-Oct-26
 + [[https://terrytao.wordpress.com/2026/10/21/mathematics-is-a-subject-for-the-young/][Mathematics is a subject for the young]]. ~ Tristan Buckmaster. #AI4Math
 + [[https://jaalonso.github.io/vestigium/en/posts/2026/10/22-mathematics_is_a_subject_for_the_young/][Review of «Mathematics is a subject for the young»]]. #AI4Math #AI #Math
