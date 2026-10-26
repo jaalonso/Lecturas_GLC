@@ -92,6 +92,10 @@ its content.
 
 ** Octubre 2026
 
+*** 25-Oct-26
++ [[https://jaalonso.github.io/calculemus/en/posts/2026/06/21-composicion_de_funciones_inyectivas/][Lean 4 challenge 7: The composition of injective functions is injective]]. #LeanProver #ITP #Math #Lean4Challenge
++ [[https://proofsandprompts.com/2026/10/24/ai-and-mathematics-public-good-credit-and-education/][AI and mathematics: public good, credit, and education]]. ~ András Juhász. #AI4Math #AI #Math
+
 *** 24-Oct-26
 + [[https://jaalonso.github.io/calculemus/en/posts/2026/06/14-teorema_del_emparedado/][Lean 4 challenge 6: If aₙ and cₙ converge to L and aₙ ≤ bₙ ≤ cₙ for all n, then bₙ converges to L]]. #LeanProver #ITP #Math #Lean4Challenge
 + [[https://proofsandprompts.com/2026/10/23/a-response-to-who-will-become-the-new-mathematicians-of-math-2-0/][A response to “Who will become the new mathematicians of Math 2]].0?”. ~ Álvaro Lozano-Robledo. #AI4Math #AI #Math
