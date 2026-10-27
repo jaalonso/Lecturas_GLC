@@ -92,6 +92,17 @@ its content.
 
 ** Octubre 2026
 
+*** 26-Oct-26
++ [[https://arxiv.org/abs/2610.31179][Degenerations of Jordan algebras]]. ~ Victor Bovdi, Ivan Kaygorodov, Yury Popov, Azamat Saydaliyev, Yury Volkov. #LeanProver #ITP #Math
++ [[https://arxiv.org/abs/2610.31810][Paperformalizer: Author-in-the-loop autoformalization of research papers in Lean]]. ~ Jiyuan Tan, Vasilis Syrgkanis, Jose Blanchet. #LeanProver #ITP #AI4Math #Autoformalization
++ [[https://jaalonso.github.io/calculemus/en/posts/2026/10/19-no_convergencia_-1n_v2][Lean 4 challenge 24 solutions: the sequence 1, -1, 1, -1,]]... is not convergent (2nd version). #LeanProver #ITP #Math #Lean4Challenge
++ [[https://jaalonso.github.io/calculemus/en/posts/2026/10/26-convergencia_de_la_mezcla_de_sucesiones/][Lean 4 challenge 25: if the interleaving of two sequences converges to L, then both converge to L]]. #LeanProver #ITP #Math #Lean4Challenge
++ [[https://isa-afp.org/entries/HOL_in_HOL_Deep_Infinity_ZFC.html][HOL in HOL over a set-theoretic universe: consistency of NK with infinity and choice]]. ~ Christoph Benzmüller, Daniel Kirchner. #IsabelleHOL #ITP #Logic
++ [[https://isa-afp.org/entries/Dilworth_Countable.html][Countable infinite version of Dilworth's theorem (in Isabelle/HOL)]]. ~ Fabián Fernando Serrano Suárez, Thaynara Arielly de Lima, Mauricio Ayala-Rincón. #IsabelleHOL #ITP #Math
++ [[https://isa-afp.org/entries/Modular_Forms.html][Modular forms (in Isabelle/HOL)]]. ~ Manuel Eberl, Anthony Bordg, Lawrence C. Paulson, Wenda Li. #IsabelleHOL #ITP #Math
++ [[https://proofsandprompts.com/2026/10/25/could-ai-help-correct-the-mathematical-literature/][Could AI help correct the mathematical literature? ~ Alonso Castillo-Ramirez]]. #AI4Math
++ [[https://jaalonso.github.io/vestigium/en/posts/2026/10/26-weekly_reads/][Weekly reads: Oct 19 – Oct 25, 2026]]. #AI #AI4Math #ITP #Lean4Challenge #LeanProver #Logic #LogicProgramming #Math #Prolog #RetoLean4
+
 *** 25-Oct-26
 + [[https://jaalonso.github.io/calculemus/en/posts/2026/06/21-composicion_de_funciones_inyectivas/][Lean 4 challenge 7: The composition of injective functions is injective]]. #LeanProver #ITP #Math #Lean4Challenge
 + [[https://proofsandprompts.com/2026/10/24/ai-and-mathematics-public-good-credit-and-education/][AI and mathematics: public good, credit, and education]]. ~ András Juhász. #AI4Math #AI #Math
