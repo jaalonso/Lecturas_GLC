@@ -92,6 +92,10 @@ its content.
 
 ** Octubre 2026
 
+*** 28-Oct-26
++ [[https://jaalonso.github.io/calculemus/en/posts/2026/07/13-eventualmentemayorigmitadabslimitepos/][Lean 4 challenge 10 solutions: If aₙ → L with L ≠ 0, then |aₙ| ≥ |L|/2 eventually]]. #LeanProver #ITP #Math #Lean4Challenge
++ [[https://arxiv.org/abs/2610.36343][Reasoning about the genetic code in Lean]]. ~ Colin T. Jones, Tyler R. Josephson. #LeanProver #ITP
+
 *** 27-Oct-26
 + [[https://jaalonso.github.io/calculemus/en/posts/2026/07/06-unicidad_del_limite_de_las_sucesiones_convergentes/][Lean 4 challenge 8 solutions: uniqueness of the limit]]. #LeanProver #ITP #Math #Lean4Challenge
 + [[https://axiommath.ai/research/the-enormous-theorem-formalized/][Formalizing the Enormous Theorem (Axiom has formalized in Lean the classification of finite simple groups, the longest proof in the history of mathematics)]]. #LeanProver #ITP #AI4Math #AI #Math
