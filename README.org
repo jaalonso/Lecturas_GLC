@@ -92,6 +92,12 @@ its content.
 
 ** Octubre 2026
 
+*** 29-Oct-26
++ [[https://jaalonso.github.io/calculemus/en/posts/2026/07/19-convergencia_abs][Lean 4 challenge 11: If aₙ converges to L, then |aₙ| converges to |L|]]. #LeanProver #ITP #Math #Lean4Challenge
++ [[https://isa-afp.org/entries/Zeta_5_Irrational.html][The irrationality of ζ(5) (in Isabelle/HOL)]]. ~ Alex Raymond Hyman. #IsabelleHOL #ITP #Math
++ [[https://isa-afp.org/entries/TSP_Dyn_Prog.html][Travelling Salesman via dynamic programming (in Isabelle/HOL)]]. ~ Maksym Bortin. #IsabelleHOL #ITP
++ [[https://youtu.be/4RDv_g2NFf0][First Proof: A nuanced assessment of AI's ability to solve math problems]]. ~ Lauren Williams. #AI4Math
+
 *** 28-Oct-26
 + [[https://jaalonso.github.io/calculemus/en/posts/2026/07/13-eventualmentemayorigmitadabslimitepos/][Lean 4 challenge 10 solutions: If aₙ → L with L ≠ 0, then |aₙ| ≥ |L|/2 eventually]]. #LeanProver #ITP #Math #Lean4Challenge
 + [[https://arxiv.org/abs/2610.36343][Reasoning about the genetic code in Lean]]. ~ Colin T. Jones, Tyler R. Josephson. #LeanProver #ITP
