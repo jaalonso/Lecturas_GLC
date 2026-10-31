@@ -92,6 +92,9 @@ its content.
 
 ** Octubre 2026
 
+*** 30-Oct-26
++ [[https://jaalonso.github.io/calculemus/en/posts/2026/07/27-eventualmente_menor_de_limsuc_menor/][Lean 4 challenge 12: If aₙ → L, bₙ → M and L < M, then eventually aₙ < bₙ]]. #LeanProver #ITP #Math #Lean4Challenge
+
 *** 29-Oct-26
 + [[https://jaalonso.github.io/calculemus/en/posts/2026/07/19-convergencia_abs][Lean 4 challenge 11: If aₙ converges to L, then |aₙ| converges to |L|]]. #LeanProver #ITP #Math #Lean4Challenge
 + [[https://isa-afp.org/entries/Zeta_5_Irrational.html][The irrationality of ζ(5) (in Isabelle/HOL)]]. ~ Alex Raymond Hyman. #IsabelleHOL #ITP #Math
