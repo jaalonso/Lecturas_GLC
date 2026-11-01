@@ -92,6 +92,14 @@ its content.
 
 ** Octubre 2026
 
+*** 31-Oct-26
++ [[https://jaalonso.github.io/calculemus/en/posts/2026/08/03-desigualdad_triangular_inversa][Lean 4 challenge 13: Reverse triangle inequality: ||x| - |y|| ≤ |x - y|]]. #LeanProver #ITP #Math #Lean4Challenge
++ [[https://cmsa.fas.harvard.edu/media/2026/10/Summit-on-Math-Research-in-the-Age-of-AI.pdf][Report of "Summit on math research in the age of AI"]]. #AI4Math
++ [[https://proofsandprompts.com/2026/10/30/lets-stop-writing-papers/][Let’s stop writing papers…]] ~ Patrick Morris. #AI4Math
++ [[https://terrytao.wordpress.com/2026/10/29/ai-mathematics-education-and-a-public-goods-problem/][AI, mathematics, education, and a public goods problem]]. ~ Gireeja Ranade. #AI4Math
++ [[https://www.science.org/content/article/ai-shaking-math-can-its-proofs-be-trusted][AI is shaking up math. But can its proofs be trusted?]] ~ Celina Zhao. #AI4Math
++ [[https://eleccionobarbarie.com/2026/10/31/que-son-los-numeros-reales-iv/][¿Qué son los números reales? IV]]. ~ Esteban Martínez. #Math
+
 *** 30-Oct-26
 + [[https://jaalonso.github.io/calculemus/en/posts/2026/07/27-eventualmente_menor_de_limsuc_menor/][Lean 4 challenge 12: If aₙ → L, bₙ → M and L < M, then eventually aₙ < bₙ]]. #LeanProver #ITP #Math #Lean4Challenge
 
