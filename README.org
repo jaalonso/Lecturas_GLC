@@ -93,6 +93,15 @@ its content.
 
 ** Noviembre 2026
 
+*** 03-Nov-26
++ [[https://jaalonso.github.io/calculemus/en/posts/2026/08/18-existe_k_cuadrado_acotado_por_potencia_de_dos][Lean 4 challenge 15: There exists k ∈ ℕ such that, for all n ∈ ℕ, (n + k)² ≤ 2ⁿ⁺ᵏ]]. #LeanProver #ITP #Math #Lean4Challenge
++ [[https://isa-afp.org/entries/Unsolvable_Quintic.html][The Abel-Ruffini theorem and the unsolvability of the quintic (in Isabelle/HOL)]]. — Lawrence C. Paulson. #IsabelleHOL #ITP #Math
++ [[https://proofsandprompts.com/2026/11/02/what-does-ai-do-for-olympiad-students/][What does AI do for olympiad students?]]. — Beckett Bradford. #AI4Math
++ [[https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/][Mathematics has changed]]. Let’s act like it. — Frank Calegari. #AI4Math
++ [[https://youtu.be/fIjT6d5c19E][Mathematicians in the time of AI]]. — Yu Deng. #AI4Math
++ [[https://youtu.be/aHpPoNNTOKY][Math 2.0]]. — Terence Tao. #AI4Math
++ [[https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era/][Egoless mathematics in the AI era]]. — Karthik C. S., Amit Sahai, Jie Xue. #AI4Math
+
 *** 02-Nov-26
 + [[https://jaalonso.github.io/calculemus/en/posts/2026/10/26-convergencia_de_la_mezcla_de_sucesiones][Lean 4 challenge 25 solutions: If the interleaving of two sequences converges to L, then both converge to L]]. #LeanProver #ITP #Math #Lean4Challenge
 + [[https://jaalonso.github.io/calculemus/en/posts/2026/11/02-limite_cero_por_acotada][Lean 4 challenge 26: Product of a sequence with limit zero and a bounded sequence]]. #LeanProver #ITP #Math #Lean4Challenge
