@@ -93,6 +93,9 @@ its content.
 
 ** Noviembre 2026
 
+*** 04-Nov-26
++ [[https://jaalonso.github.io/calculemus/en/posts/2026/08/24-seis_divide_producto/][Lean 4 challenge 16: For every n ∈ N, n(n+1)(2n+1) is divisible by 6]]. #LeanProver #ITP #Math #Lean4Challenge
+
 *** 03-Nov-26
 + [[https://jaalonso.github.io/calculemus/en/posts/2026/08/18-existe_k_cuadrado_acotado_por_potencia_de_dos][Lean 4 challenge 15: There exists k ∈ ℕ such that, for all n ∈ ℕ, (n + k)² ≤ 2ⁿ⁺ᵏ]]. #LeanProver #ITP #Math #Lean4Challenge
 + [[https://isa-afp.org/entries/Unsolvable_Quintic.html][The Abel-Ruffini theorem and the unsolvability of the quintic (in Isabelle/HOL)]]. — Lawrence C. Paulson. #IsabelleHOL #ITP #Math
