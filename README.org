@@ -93,6 +93,16 @@ its content.
 
 ** Noviembre 2026
 
+*** 05-Nov-26
++ [[https://jaalonso.github.io/calculemus/en/posts/2026/08/30-acotada_si_convergente/][Lean 4 challenge 17: Convergent sequences are bounded]]. #LeanProver #ITP #Math #Lean4Challenge
++ [[https://isa-afp.org/entries/Regular_Variation.html][Regular variation (in Isabelle/HOL)]]. ~ Michikazu Hirata. #IsabelleHOL #ITP #Math
++ [[https://isa-afp.org/entries/Extreme_Value_Theory.html][Extreme value theory (in Isabelle/HOL)]]. ~ Michikazu Hirata. #IsabelleHOL #ITP #Math
++ [[https://isa-afp.org/entries/Cauchy_Functional_Equation.html][Cauchy's functional equation (in Isabelle/HOL)]]. ~ Michikazu Hirata. #IsabelleHOL #ITP #Math
++ [[https://arxiv.org/abs/2505.07681][Verified purely functional catenable real-time deques]]. ~ Jules Viennot, Arthur Wendling, Armaël Guéneau, François Pottier. #RocqProver #OCaml
++ [[https://arxiv.org/abs/2611.05540][ProofStudio: Five proof assistants in the browser]]. ~ Yutaka Nagashima. #IsabelleHOL #LeanProver #RocqProver #HOL4 #HOL_Light #ITP
++ [[https://proofsandprompts.com/2026/11/03/slow-maths/][Slow maths]]. ~ Isabelle Gallagher. #AI4Math
++ [[https://www.gaussianos.com/pitagoras-y-la-demostracion-de-los-200-tb/][Pitágoras y la demostración de los 200 TB]]. ~ Miguel Ángel Morales. #Math #ATP #SAT_Solving
+
 *** 04-Nov-26
 + [[https://jaalonso.github.io/calculemus/en/posts/2026/08/24-seis_divide_producto/][Lean 4 challenge 16: For every n ∈ N, n(n+1)(2n+1) is divisible by 6]]. #LeanProver #ITP #Math #Lean4Challenge
 
