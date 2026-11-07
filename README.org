@@ -93,6 +93,9 @@ its content.
 
 ** Noviembre 2026
 
+*** 06-Nov-26
++ [[https://jaalonso.github.io/calculemus/en/posts/2026/09/07-convergencia_producto/][Lean 4 challenge 18: Convergence of the product of convergent sequences]]. #LeanProver #ITP #Math #Lean4Challenge
+
 *** 05-Nov-26
 + [[https://jaalonso.github.io/calculemus/en/posts/2026/08/30-acotada_si_convergente/][Lean 4 challenge 17: Convergent sequences are bounded]]. #LeanProver #ITP #Math #Lean4Challenge
 + [[https://isa-afp.org/entries/Regular_Variation.html][Regular variation (in Isabelle/HOL)]]. ~ Michikazu Hirata. #IsabelleHOL #ITP #Math
