@@ -93,6 +93,16 @@ its content.
 
 ** Noviembre 2026
 
+*** 07-Nov-26
++ [[https://jaalonso.github.io/calculemus/en/posts/2026/09/16-las_sucesiones_convergentes_son_sucesiones_de_cauchy_v2/][Lean 4 challenge 19: Convergent sequences are Cauchy sequences]]. #LeanProver #ITP #Math #Lean4Challenge
++ [[https://arxiv.org/abs/2611.03879][Lemmas and conjectures in spectral graph theory]]. ~ Tristan Cazenave. #LeanProver #ITP #AI4Math
++ [[https://stacks.axiommath.ai/][The Stacks Project, formalized in Lean]]. #LeanProver #ITP #AI4Math
++ [[https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/][Axiom Math wants to keep AI slop out of mathematics]]. ~ Aditya Mehta. #LeanProver #ITP #AI4Math
++ [[https://arxiv.org/abs/2611.04599][Kaplansky's conjectures fail for torsion-free hyperbolic groups in positive characteristic]]. ~ Nidhal Mghirbi, Seth Douglas. #LeanProver #ITP #AI4Math
++ [[https://isa-afp.org/entries/Algebra_Towers.html][Finite-dimensional algebras and scalar towers]]. ~ Arthur Freitas Ramos , David Barros Hulak, Ruy Jose Guerra Barretto de Queiroz. #IsabelleHOL #ITP #Math
++ [[https://proofsandprompts.com/2026/11/06/its-a-great-time-to-be-an-amateur-mathematician/][It’s a great time to be an amateur mathematician]]. ~ Nihar Gargava. #AI4Math
++ [[https://www.ias.edu/ideas/2014/voevodsky-origins][The origins and motivations of univalent foundations (A personal mission to develop computer proof verification to avoid mathematical mistakes)]]. ~ Vladimir Voevodsky (2014). #Math
+
 *** 06-Nov-26
 + [[https://jaalonso.github.io/calculemus/en/posts/2026/09/07-convergencia_producto/][Lean 4 challenge 18: Convergence of the product of convergent sequences]]. #LeanProver #ITP #Math #Lean4Challenge
 
