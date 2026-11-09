@@ -93,6 +93,10 @@ its content.
 
 ** Noviembre 2026
 
+*** 08-Nov-26
++ [[https://jaalonso.github.io/calculemus/en/posts/2026/09/21-limite_menor_que_cota/][Lean 4 challenge 20: If aₙ → L and M is an upper bound of aₙ, then L ≤ M]]. #LeanProver #LeanLang #ITP #Math #Lean4Challenge
++ [[https://proofsandprompts.com/2026/11/08/formalisation-as-a-concrete-manifestation-of-mathematical-understanding/][Formalisation as a concrete manifestation of mathematical understanding]]. ~ Filippo A. E. Nuccio. #Math #Formalisation
+
 *** 07-Nov-26
 + [[https://jaalonso.github.io/calculemus/en/posts/2026/09/16-las_sucesiones_convergentes_son_sucesiones_de_cauchy_v2/][Lean 4 challenge 19: Convergent sequences are Cauchy sequences]]. #LeanProver #ITP #Math #Lean4Challenge
 + [[https://arxiv.org/abs/2611.03879][Lemmas and conjectures in spectral graph theory]]. ~ Tristan Cazenave. #LeanProver #ITP #AI4Math
