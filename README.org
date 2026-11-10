@@ -93,6 +93,13 @@ its content.
 
 ** Noviembre 2026
 
+*** 09-Nov-26
++ [[https://jaalonso.github.io/calculemus/en/posts/2026/09/28-subsucesiones_convergentes/][Lean 4 challenge 21: Subsequences have the same limit as the sequence]]. #LeanProver #LeanLang #ITP #Math #Lean4Challenge
++ [[https://github.com/medovina/natural_lean][Natural Lean: A controlled natural language syntax for Lean]]. #LeanProver #LeanLang #ITP
++ [[https://arxiv.org/abs/2611.09134][Formalization of filter-method construction for real numbers in Coq]]. ~ Guowei Dou, Wensheng Yu. #CoqProver #ITP #Math
++ [[https://pablomurad.com/org-mode-from-zero/][Org mode from zero: a complete, friendly guide]]. ~ Pablo Murad. #Emacs #OrgMode
++ [[https://jaalonso.github.io/vestigium/en/posts/2026/11/09-weekly_reads/][Weekly reads: Nov 2 – Nov 9, 2026]]. #AI #AI4Math #Autoformalization #IsabelleHOL #ITP #Lean4Challenge #LeanProver #Logic #Math
+
 *** 08-Nov-26
 + [[https://jaalonso.github.io/calculemus/en/posts/2026/09/21-limite_menor_que_cota/][Lean 4 challenge 20: If aₙ → L and M is an upper bound of aₙ, then L ≤ M]]. #LeanProver #LeanLang #ITP #Math #Lean4Challenge
 + [[https://proofsandprompts.com/2026/11/08/formalisation-as-a-concrete-manifestation-of-mathematical-understanding/][Formalisation as a concrete manifestation of mathematical understanding]]. ~ Filippo A. E. Nuccio. #Math #Formalisation
