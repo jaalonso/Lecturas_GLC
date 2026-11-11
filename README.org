@@ -93,6 +93,10 @@ its content.
 
 ** Noviembre 2026
 
+*** 10-Nov-26
++ [[https://jaalonso.github.io/calculemus/posts/2026/10/05-subsucesiones_con_limites_distintos_implican_no_convergencia][Reto 22 de Lean 4: Si una sucesión tiene dos subsucesiones con límites distintos, entonces la sucesión no es convergente]]. #LeanProver #LeanLang #Matemáticas #RetoLean4
++ [[https://jaalonso.github.io/calculemus/en/posts/2026/10/05-subsucesiones_con_limites_distintos_implican_no_convergencia/][Lean 4 challenge 22: Subsequences with different limits imply non-convergence]]. #LeanProver #LeanLang #Math #Lean4Challenge
+
 *** 09-Nov-26
 + [[https://jaalonso.github.io/calculemus/en/posts/2026/09/28-subsucesiones_convergentes/][Lean 4 challenge 21: Subsequences have the same limit as the sequence]]. #LeanProver #LeanLang #ITP #Math #Lean4Challenge
 + [[https://github.com/medovina/natural_lean][Natural Lean: A controlled natural language syntax for Lean]]. #LeanProver #LeanLang #ITP
