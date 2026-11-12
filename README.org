@@ -93,6 +93,12 @@ its content.
 
 ** Noviembre 2026
 
+*** 11-Nov-26
++ [[https://jaalonso.github.io/calculemus/posts/2026/10/12-limite_de_sucesion_constante/][Reto 23 de Lean 4: La sucesión constante aₙ = L converge a L]]. #LeanProver #LeanLang #Matemáticas #RetoLean4
++ [[https://jaalonso.github.io/calculemus/en/posts/2026/10/12-limite_de_sucesion_constante/][Lean 4 challenge 23: The constant sequence aₙ = L converges to L]]. #LeanProver #LeanLang #Math #Lean4Challenge
++ [[https://xenaproject.wordpress.com/2026/11/11/a-modern-reorganization-of-mathematics/][A modern reorganization of mathematics]]. ~ Bin Dong et al. #LeanProver #LeanLang #AI4Math #AI #Math
++ [[https://arxiv.org/abs/2611.12943][When proofs are abundant, what is a paper for? ~ Charles-Albert Lehalle]]. #AI4Math #AI #Math
+
 *** 10-Nov-26
 + [[https://jaalonso.github.io/calculemus/posts/2026/10/05-subsucesiones_con_limites_distintos_implican_no_convergencia][Reto 22 de Lean 4: Si una sucesión tiene dos subsucesiones con límites distintos, entonces la sucesión no es convergente]]. #LeanProver #LeanLang #Matemáticas #RetoLean4
 + [[https://jaalonso.github.io/calculemus/en/posts/2026/10/05-subsucesiones_con_limites_distintos_implican_no_convergencia/][Lean 4 challenge 22: Subsequences with different limits imply non-convergence]]. #LeanProver #LeanLang #Math #Lean4Challenge
