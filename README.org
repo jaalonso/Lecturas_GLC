@@ -93,6 +93,15 @@ its content.
 
 ** Noviembre 2026
 
+*** 12-Nov-26
++ [[https://jaalonso.github.io/calculemus/posts/2026/10/19-no_convergencia_-1n_v2/][Reto 24 de Lean 4: La sucesión 1, -1, 1, -1,]]... no es convergente (2ª versión). #LeanProver #LeanLang #Matemáticas #RetoLean4
++ [[https://jaalonso.github.io/calculemus/en/posts/2026/10/19-no_convergencia_-1n_v2/][Lean 4 challenge 24: The sequence 1, -1, 1, -1,]]... is not convergent (2nd version). #LeanProver #LeanLang #Math #Lean4Challenge
++ [[https://xenaproject.wordpress.com/2026/11/12/and-the-proof-is-checked-in-lean/]["…and the proof is checked in Lean"]]. ~ Kevin Buzzard. #LeanProver #LeanLang #Math #AI #AI4Math
++ [[https://terrytao.wordpress.com/2026/11/11/lean-grimoire/][Lean Grimoire]]. ~ Terence Tao. #LeanProver #LeanLang #Logic #Teaching
++ [[https://teorth.github.io/tao-web/apps/grimoire.html][Lean Grimoire: a proof-crafting game]]. ~ Terence Tao. #LeanProver #LeanLang #Logic #Teaching
++ [[https://github.com/hol-light-family/Poincare][The Poincare conjecture in HOL Light, formalized by Claude Opus 5]].5 following Perelman. ~ John Harrison. #HOL_Light #AI4Math #AI #Math
++ [[https://veronadeclaration.org/][Verona declaration on the use of generative AI in computing research]]. #AI #CompSci
+
 *** 11-Nov-26
 + [[https://jaalonso.github.io/calculemus/posts/2026/10/12-limite_de_sucesion_constante/][Reto 23 de Lean 4: La sucesión constante aₙ = L converge a L]]. #LeanProver #LeanLang #Matemáticas #RetoLean4
 + [[https://jaalonso.github.io/calculemus/en/posts/2026/10/12-limite_de_sucesion_constante/][Lean 4 challenge 23: The constant sequence aₙ = L converges to L]]. #LeanProver #LeanLang #Math #Lean4Challenge
