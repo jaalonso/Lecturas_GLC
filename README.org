@@ -93,6 +93,16 @@ its content.
 
 ** Noviembre 2026
 
+*** 13-Nov-26
++ [[https://jaalonso.github.io/calculemus/posts/2026/10/26-convergencia_de_la_mezcla_de_sucesiones/][Reto 25 de Lean 4: Si la mezcla de dos sucesiones converge a L, entonces ambas convergen a L]]. #LeanProver #LeanLang #Matemáticas #RetoLean4
++ [[https://jaalonso.github.io/calculemus/en/posts/2026/10/26-convergencia_de_la_mezcla_de_sucesiones/][Lean 4 challenge 25: If the interleaving of two sequences converges to L, then both converge to L]]. #LeanProver #LeanLang #Math #Lean4Challenge
++ [[https://arxiv.org/abs/2611.10537][Formal proof of an anisotropic Calderón uniqueness theorem]]. ~ Cătălin I. Cârstea, Lauri Oksanen. #LeanProver #LeanLang #AI4Math #AI #Math
++ [[https://arxiv.org/abs/2611.11577][No regular icosahedron has a rational point on every face: a proof checked in Lean]]. ~ Mikhail Levit. #LeanProver #LeanLang #AI4Math #AI #Math
++ [[https://arxiv.org/abs/2611.09787][Braid groups in Lean : Formalizing Dehornoy's subword reversing algorithm]]. ~ Hannah Fechtner. #LeanProver #LeanLang #AI4Math #AI #Math
++ [[https://arxiv.org/abs/2611.11577][No regular icosahedron has a rational point on every face: a proof checked in Lean]]. ~ Mikhail Levit. #LeanProver #LeanLang #AI4Math #AI #Math
++ [[https://arxiv.org/abs/2611.11110][Statopia: A prover-library ecosystem for automated formalization and proof discovery in statistics]]. ~ Ziyuan Chen, Tong Gan, Wei Zhang, Ruofei Fang, Boyue Tang, Zhenhua Lin, Fang Yao. #LeanProver #LeanLang #Math
++ [[https://proofsandprompts.com/2026/11/13/human-skepticism-and-formal-verification/][Human skepticism and formal verification]]. ~ Benjamin Friedman. #LeanProver #LeanLang #AI4Math #AI #Math
+
 *** 12-Nov-26
 + [[https://jaalonso.github.io/calculemus/posts/2026/10/19-no_convergencia_-1n_v2/][Reto 24 de Lean 4: La sucesión 1, -1, 1, -1,]]... no es convergente (2ª versión). #LeanProver #LeanLang #Matemáticas #RetoLean4
 + [[https://jaalonso.github.io/calculemus/en/posts/2026/10/19-no_convergencia_-1n_v2/][Lean 4 challenge 24: The sequence 1, -1, 1, -1,]]... is not convergent (2nd version). #LeanProver #LeanLang #Math #Lean4Challenge
