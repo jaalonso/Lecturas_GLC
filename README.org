@@ -93,6 +93,15 @@ its content.
 
 ** Noviembre 2026
 
+*** 14-Nov-26
++ [[https://jaalonso.github.io/calculemus/en/posts/2026/11/02-limite_cero_por_acotada][Lean 4 challenge 26: If aₙ converges to 0 and bₙ is bounded, then aₙ·bₙ converges to 0]]. #LeanProver #LeanLang #Math #Lean4Challenge
++ [[https://jaalonso.github.io/calculemus/posts/2026/11/02-limite_cero_por_acotada/][Reto 26 de Lean 4: Si aₙ converge a 0 y bₙ está acotada, entonces aₙ·bₙ converge a 0]]. #LeanProver #LeanLang #Matemáticas #RetoLean4
++ [[https://terrytao.wordpress.com/2026/11/13/introducing-mathhelm-a-place-to-discuss-ai-generated-papers/][Introducing MathHelm: A place to discuss AI-generated papers]]. ~ Fan Zheng et al. #AI4Math
++ [[https://mathhelm.org][MathHelm: a place for everyone to share comments, ask questions, and think together on massive AI-generated papers, including these 722 papers and any other similar paper]]. #AI4Math
++ [[https://proofsandprompts.com/2026/11/14/why-correct-answers-are-not-enough/][Why correct answers are not enough]]. ~ Wen Yang. #AI4Math
++ [[https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths][‘Ahead of his time’: AI helps unlock discoveries hidden in notebooks of man who transformed maths (Kurt Gödel left 1,009 pages of densely written text – much of it in an obsolete shorthand – which is now said to contain hundreds of proved theorems)]]. ~ Alex Bellos. #AI4Math #AI #Math
++ [[https://eleccionobarbarie.com/2026/11/14/que-son-los-numeros-reales-v/][¿Qué son los números reales? V]]. ~ Esteban Martínez. #Math
+
 *** 13-Nov-26
 + [[https://jaalonso.github.io/calculemus/posts/2026/10/26-convergencia_de_la_mezcla_de_sucesiones/][Reto 25 de Lean 4: Si la mezcla de dos sucesiones converge a L, entonces ambas convergen a L]]. #LeanProver #LeanLang #Matemáticas #RetoLean4
 + [[https://jaalonso.github.io/calculemus/en/posts/2026/10/26-convergencia_de_la_mezcla_de_sucesiones/][Lean 4 challenge 25: If the interleaving of two sequences converges to L, then both converge to L]]. #LeanProver #LeanLang #Math #Lean4Challenge
