@@ -93,6 +93,12 @@ its content.
 
 ** Noviembre 2026
 
+*** 16-Nov-26
++ [[https://jaalonso.github.io/calculemus/posts/2026/11/16-limite_y_cota_inferior/][Reto 27 de Lean 4: Si aₙ → L y M es una cota inferior de aₙ, entonces M ≤ L]]. #LeanProver #LeanLang #Matemáticas #RetoLean4
++ [[https://jaalonso.github.io/calculemus/en/posts/2026/11/16-limite_y_cota_inferior/][Lean 4 challenge 27: If aₙ → L and M is a lower bound of aₙ, then M ≤ L]]. #LeanProver #LeanLang #Math #Lean4Challenge
++ [[https://arxiv.org/abs/2611.17884][HOL in HOL: mechanized soundness, completeness and consistency, with and without infinity]]. ~ Christoph Benzmüller, Daniel Kirchner. #IsabelleHOL #ITP #Logic
++ [[https://proofsandprompts.com/2026/11/16/do-we-still-need-mathematical-journals/][Do we still need mathematical journals? ~ Michael Goldman]]. #AI4Math
+
 *** 14-Nov-26
 + [[https://jaalonso.github.io/calculemus/en/posts/2026/11/02-limite_cero_por_acotada][Lean 4 challenge 26: If aₙ converges to 0 and bₙ is bounded, then aₙ·bₙ converges to 0]]. #LeanProver #LeanLang #Math #Lean4Challenge
 + [[https://jaalonso.github.io/calculemus/posts/2026/11/02-limite_cero_por_acotada/][Reto 26 de Lean 4: Si aₙ converge a 0 y bₙ está acotada, entonces aₙ·bₙ converge a 0]]. #LeanProver #LeanLang #Matemáticas #RetoLean4
