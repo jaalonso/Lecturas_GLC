@@ -93,6 +93,14 @@ its content.
 
 ** Noviembre 2026
 
+*** 17-Nov-26
++ [[https://jaalonso.github.io/calculemus/posts/2026/11/17-la_identidad_no_es_acotada][Reto 28 de Lean 4: La sucesión aₙ = n no está acotada]]. #LeanProver #LeanLang #Matemáticas #RetoLean4
++ [[https://jaalonso.github.io/calculemus/en/posts/2026/11/17-la_identidad_no_es_acotada][Lean 4 challenge 28: The sequence aₙ = n is unbounded]]. #LeanProver #LeanLang #Math #Lean4Challenge
+
+*** 18-Nov-26
++ [[https://jaalonso.github.io/calculemus/posts/2026/11/18-suma_sucesiones_cauchy][Reto 29 de Lean 4: Si aₙ y bₙ son sucesiones de Cauchy, entonces aₙ+bₙ también lo es]]. #LeanProver #LeanLang #Matemáticas #RetoLean4
++ [[https://jaalonso.github.io/calculemus/en/posts/2026/11/18-suma_sucesiones_cauchy][Lean 4 challenge 29: If aₙ and bₙ are Cauchy sequences, then so is aₙ+bₙ]]. #LeanProver #LeanLang #Math #Lean4Challenge
+
 *** 16-Nov-26
 + [[https://jaalonso.github.io/calculemus/posts/2026/11/16-limite_y_cota_inferior/][Reto 27 de Lean 4: Si aₙ → L y M es una cota inferior de aₙ, entonces M ≤ L]]. #LeanProver #LeanLang #Matemáticas #RetoLean4
 + [[https://jaalonso.github.io/calculemus/en/posts/2026/11/16-limite_y_cota_inferior/][Lean 4 challenge 27: If aₙ → L and M is a lower bound of aₙ, then M ≤ L]]. #LeanProver #LeanLang #Math #Lean4Challenge
