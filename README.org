@@ -93,6 +93,21 @@ its content.
 
 ** Noviembre 2026
 
+*** 19-Nov-26
++ [[https://jaalonso.github.io/calculemus/posts/2026/11/19-acotacion_de_cauchy/][Reto 30 de Lean 4: Las sucesiones de Cauchy están acotadas]]. #LeanProver #LeanLang #Matemáticas #RetoLean4
++ [[https://jaalonso.github.io/calculemus/en/posts/2026/11/19-acotacion_de_cauchy?v=1][Lean 4 challenge 30: Cauchy sequences are bounded]]. #LeanProver #LeanLang #Math #Lean4Challenge
++ [[https://www.youtube.com/watch?v=c7k3ehM3oWI&t=4m44s][Finally a language for vibecoders]]. ~ The PrimeTime. #LeanLang #LeanProver
++ [[https://github.com/mkaratarakis/from-paper-to-proof/][Formalizing mathematics in Lean with AI]]. ~ Michail Karatarakis. #LeanProver #LeanLang #ITP #AI4Math #AI #Math
++ [[https://raw.githubusercontent.com/mkaratarakis/from-paper-to-proof/main/slides/BGSMath-Lean-session1-draft.pdf][Formalizing mathematics in Lean with AI (Session 1: Lean and Mathlib)]]. ~ Michail Karatarakis. #LeanProver #LeanLang #ITP #AI4Math #AI #Math
++ [[https://raw.githubusercontent.com/mkaratarakis/from-paper-to-proof/main/slides/BGSMath-Lean-session2-draft.pdf][Formalizing mathematics in Lean with AI (Session 2: From paper to Lean)]]. ~ Michail Karatarakis. #LeanProver #LeanLang #ITP #AI4Math #AI #Math
++ [[https://raw.githubusercontent.com/mkaratarakis/from-paper-to-proof/main/slides/BGSMath-Lean-session3-draft.pdf][Formalizing mathematics in Lean with AI (Session 3: AI tools)]]. ~ Michail Karatarakis. #LeanProver #LeanLang #ITP #AI4Math #AI #Math
++ [[https://raw.githubusercontent.com/mkaratarakis/from-paper-to-proof/main/slides/BGSMath-Lean-session4-draft.pdf][Formalizing mathematics in Lean with AI (Session 4: Four areas, and your own theorem)]]. ~ Michail Karatarakis. #LeanProver #LeanLang #ITP #AI4Math #AI #Math
++ [[https://physlib.io/][Digitalizing Physics in Lean 4 (An open-source, community project to digitalize results from physics into Lean 4)]]. #LeanProver #LeanLang #ITP #Physics
++ [[https://isa-afp.org/entries/Isoperimetric.html][The isoperimetric inequality for rectifiable simple closed curves (in Isabelle/HOL)]]. ~ Lawrence C. Paulson. #IsabelleHOL #ITP #Math
++ [[https://isa-afp.org/entries/Hermitian_Functional_Calculus.html][The functional calculus of hermitian matrices and product formulas (in Isabelle/HOL)]]. ~ Dustin Bryant. #IsabelleHOL #ITP #Math
++ [[https://proofsandprompts.com/2026/11/18/mathematics-from-deductive-science-to-actually-an-experimental-science/][Mathematics: From deductive science to actually an experimental science]]. ~ Tiago Veríssimo. #AI4Math #AI #Math
++ [[https://proofsandprompts.com/2026/11/17/math-beauty-and-ego/][Math, beauty, and ego]]. #AI4Math #AI #Math
+
 *** 17-Nov-26
 + [[https://jaalonso.github.io/calculemus/posts/2026/11/17-la_identidad_no_es_acotada][Reto 28 de Lean 4: La sucesión aₙ = n no está acotada]]. #LeanProver #LeanLang #Matemáticas #RetoLean4
 + [[https://jaalonso.github.io/calculemus/en/posts/2026/11/17-la_identidad_no_es_acotada][Lean 4 challenge 28: The sequence aₙ = n is unbounded]]. #LeanProver #LeanLang #Math #Lean4Challenge
