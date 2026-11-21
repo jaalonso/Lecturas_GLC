@@ -93,6 +93,13 @@ its content.
 
 ** Noviembre 2026
 
+*** 20-Nov-26
++ [[https://www.scientificamerican.com/article/anthropic-mathematician-claims-to-prove-riemann-hypothesis-most-famous-problem-in-all-of-math/][Anthropic mathematician claims to prove Riemann hypothesis, most famous problem in all of math]]. ~ Joseph Howlett. #LeanProver #AI4Math #AI #Math
++ [[https://proofsandprompts.com/2026/11/20/letter-to-young-mathematicians/][Letter to young mathematicians]]. ~ Sinisa Slijepcevic. #AI4Math #AI #Math
++ [[https://isa-afp.org/entries/Circle_Fundamental_Group_Sequel.html][Path lifting and homology of the circle and punctured plane (in Isabelle/HOL)]]. ~ Arthur Freitas Ramos, David Barros Hulak, Ruy Jose Guerra Barretto de Queiroz. #IsabelleHOL #ITP #Math
++ [[https://jaalonso.github.io/calculemus/posts/2026/11/20-la_identidad_no_tiene_subsucesiones_convergentes][Reto 31 de Lean 4: La sucesión identidad no tiene subsucesiones convergentes]]. #LeanProver #LeanLang #Matemáticas #RetoLean4
++ [[https://jaalonso.github.io/calculemus/en/posts/2026/11/20-la_identidad_no_tiene_subsucesiones_convergentes][Lean 4 challenge 31: The identity sequence has no convergent subsequences]]. #LeanProver #LeanLang #Math #Lean4Challenge
+
 *** 19-Nov-26
 + [[https://jaalonso.github.io/calculemus/posts/2026/11/19-acotacion_de_cauchy/][Reto 30 de Lean 4: Las sucesiones de Cauchy están acotadas]]. #LeanProver #LeanLang #Matemáticas #RetoLean4
 + [[https://jaalonso.github.io/calculemus/en/posts/2026/11/19-acotacion_de_cauchy?v=1][Lean 4 challenge 30: Cauchy sequences are bounded]]. #LeanProver #LeanLang #Math #Lean4Challenge
