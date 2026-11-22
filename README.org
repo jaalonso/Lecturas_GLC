@@ -93,6 +93,16 @@ its content.
 
 ** Noviembre 2026
 
+*** 21-Nov-26
++ [[https://adam.math.hhu.de/#/g/emilyriehl/ReintroductionToProofs][Reintroduction to proofs (Lean game that introduces informal dependent type theory at the level of an introduction to proofs course)]]. ~ Emily Riehl.  #LeanProver #LeanLang
++ [[https://adam.math.hhu.de/#/g/emilyriehl/VerboseReintroductionToProofs][Reintroduction to proofs (Verbose Lean edition)]]. ~ Alexander Bentkamp, Jon Eugster. #LeanProver #LeanLang
++ [[https://arxiv.org/abs/2611.18220][From pen-and-paper to machine-checked proofs: Lean for system identification]]. ~ Manas Mejari, Dario Piga, Marco Forgione. #LeanProver #LeanLang #ITP #Math
++ [[https://leanprover.zulipchat.com/user_uploads/3121/n355mbiIEmFHbgRXGemtUdH2/LEAN4_From_First_Proof_to_Formalized_Mathematics.pdf][Lean 4: From first proof to formalized mathematics]]. ~ Claude (supervised by Chadi saba). #LeanProver #LeanLang #ITP
++ [[https://arxiv.org/abs/2611.20169][A formally verified convergence theorem for the tug-of-war scheme of the normalized p-Laplacian]]. ~ Juan J. Manfredi, Behrooz Moosavi. #LeanProver #LeanLang #ITP #AI4Math
++ [[http://reports-archive.adm.cs.cmu.edu/anon/2026/CMU-CS-26-138.pdf][Domain theory in Lean 4]]. ~ Lars Warren Ericson†, Dana S. Scott, Vijay D’Silva, Brian Milnes. #LeanProver #LeanLang #ITP #AI4Math
++ [[https://arxiv.org/abs/2611.21299][Turing agent: Agentic formal verification for mathematical research]]. ~ Yang Chen et al. #AI4Math #LeanProver #LeanLang #ITP
++ [[https://arxiv.org/abs/2611.22103][From sorry to QED: Refining LLM math proofs via angelic execution]]. ~ Yanju Chen et al. #AI4Math #LeanProver #LeanLang #ITP
+
 *** 20-Nov-26
 + [[https://www.scientificamerican.com/article/anthropic-mathematician-claims-to-prove-riemann-hypothesis-most-famous-problem-in-all-of-math/][Anthropic mathematician claims to prove Riemann hypothesis, most famous problem in all of math]]. ~ Joseph Howlett. #LeanProver #AI4Math #AI #Math
 + [[https://proofsandprompts.com/2026/11/20/letter-to-young-mathematicians/][Letter to young mathematicians]]. ~ Sinisa Slijepcevic. #AI4Math #AI #Math
