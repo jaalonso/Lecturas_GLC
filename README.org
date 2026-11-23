@@ -93,6 +93,13 @@ its content.
 
 ** Noviembre 2026
 
+*** 22-Nov-26
++ [[https://xenaproject.wordpress.com/2026/11/21/lean-for-the-working-mathematician/][Lean for the working mathematician]]. ~ Mitchell Taylor. #LeanProver #LeanLang #ITP #AI4Math #AI #Math
++ [[https://functionalanalysismadrid.com/lean_guide.pdf][A beginner’s guide on how to autoformalize mathematics in Lean]]. ~ Lukas Liehr, David Muñoz-Lahoz, Mitchell A. Taylor. #LeanProver #LeanLang #ITP #AI4Math #AI #Math
++ [[https://lean.functionalanalysismadrid.com/][Autoformalize your Math]]. ~ David Muñoz-Lahoz. #LeanProver #LeanLang #ITP #AI4Math #AI #Math
++ [[https://github.com/davidmunozlahoz/lean-course][Lean through examples: From the basics to AI-assisted formalization]]. ~ David Muñoz-Lahoz. #LeanProver #LeanLang #ITP #AI4Math #AI #Math
++ [[https://blog.sigfpe.com/2026/11/derivative-flipping.html][Derivative flipping]]. ~ Dan Piponi (sigfpe). #Haskell #FunctionalProgramming
+
 *** 21-Nov-26
 + [[https://adam.math.hhu.de/#/g/emilyriehl/ReintroductionToProofs][Reintroduction to proofs (Lean game that introduces informal dependent type theory at the level of an introduction to proofs course)]]. ~ Emily Riehl.  #LeanProver #LeanLang
 + [[https://adam.math.hhu.de/#/g/emilyriehl/VerboseReintroductionToProofs][Reintroduction to proofs (Verbose Lean edition)]]. ~ Alexander Bentkamp, Jon Eugster. #LeanProver #LeanLang
