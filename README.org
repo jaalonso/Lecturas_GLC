@@ -93,6 +93,15 @@ its content.
 
 ** Noviembre 2026
 
+*** 23-Nov-26
++ [[https://latent.space/p/formal-verification/][The war against slop and an emerging weapon to fight it: formal verification]]. ~ Richard MacManus. #LeanProver #FormalVerification
++ [[https://openreview.net/pdf?id=Q12q9GTGKY][The fundamental theorem of statistical learning in three weeks]]. ~ Dhruv Gupta. #LeanProver #LeanLang #ITP #LLMs
++ [[https://www.mathstat.dal.ca/~selinger/4680/][Lean for mathematics]]. ~ Peter Selinger. #LeanProver #LeanLang #ITP #Math
++ [[https://lean-lang.org/doc/reference/latest/ValidatingProofs][Validating a Lean proof]]. #LeanProver #LeanLang #ITP
++ [[https://ore.exeter.ac.uk/articles/conference_contribution/Interval-Based_Verification_of_Neural_Networks_Formally_Verified_/35060146/1/files/71644105.pdf][Interval-based verification of neural networks: formally verified!]]. ~ Achim D. Brucker, Amy Stell. #IsabelleHOL #ITP
++ [[https://jaalonso.github.io/vestigium/posts/2026/11/23-weekly_reads][Lecturas de la semana: 16 nov – 22 nov 2026]]. #AI #AI4Math #Autoformalization #CoqProver #Emacs #Haskell #HOL_Light #IsabelleHOL #ITP #Lean4Challenge #LeanProver #Logic #Math
++ [[https://jaalonso.github.io/vestigium/en/posts/2026/11/23-weekly_reads][Weekly reads: Nov 16 – Nov 22, 2026]]. #AI #AI4Math #Autoformalization #CoqProver #Emacs #Haskell #HOL_Light #IsabelleHOL #ITP #Lean4Challenge #LeanProver #Logic #Math
+
 *** 22-Nov-26
 + [[https://xenaproject.wordpress.com/2026/11/21/lean-for-the-working-mathematician/][Lean for the working mathematician]]. ~ Mitchell Taylor. #LeanProver #LeanLang #ITP #AI4Math #AI #Math
 + [[https://functionalanalysismadrid.com/lean_guide.pdf][A beginner’s guide on how to autoformalize mathematics in Lean]]. ~ Lukas Liehr, David Muñoz-Lahoz, Mitchell A. Taylor. #LeanProver #LeanLang #ITP #AI4Math #AI #Math
