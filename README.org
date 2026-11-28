@@ -93,6 +93,23 @@ its content.
 
 ** Noviembre 2026
 
+*** 27-Nov-26
++ [[https://jaalonso.github.io/calculemus/posts/2026/11/27-orbitas-extracciones][Reto 33 de Lean 4: Si n < φ(n) para todo n, entonces la órbita de φ es una función de extracción]]. #LeanProver #LeanLang #Matemáticas #RetoLean4
++ [[https://jaalonso.github.io/calculemus/en/posts/2026/11/27-orbitas-extracciones][Lean 4 challenge 33: If n < φ(n) for all n, then the orbit of φ is an extraction function]]. #LeanProver #LeanLang #Math #Lean4Challenge
++ [[https://youtu.be/hhB8X0quC1g][Lean: Machine-checked mathematics, software, and AI]]. ~ Leonardo de Moura. #LeanProver #LeanLang #Math #AI
++ [[https://arxiv.org/abs/2611.27001][Moonshine conjecture formalized]]. ~ Jin-Cheng Guu. #LeanProver #LeanLang #ITP #Math
++ [[https://web.mat.upc.edu/joaquim.puig/posts/anatomia_dun_projecte_en_lean/][Anatomia d’un projecte en Lean]]. ~ Joaquim Puig. #LeanProver #LeanLang #ITP
++ [[https://www.researchgate.net/publication/418153755_Mechanizations_of_Godel's_Incompleteness_Theorems][Mechanizations of Gödel’s incompleteness theorems]]. ~ Andrea Vestrucci. #Nqthm #HOL_Light #Rocq #Isabelle/HOL #ITP #Logic #Math
++ [[https://isa-afp.org/browser_info/current/AFP/Dilworth_Countable/document.pdf][Countable infinite version of Dilworth’s theorem]]. ~ Fabián Fernando Serrano Suárez, Thaynara Arielly de Lima, Mauricio Ayala-Rincón. #IsabelleHOL #ITP #Math
++ [[https://isa-afp.org/entries/Lexicographic_BFS.html][Formalization of lexicographic breadth-first search (in Isabelle/HOL)]]. ~ Thomas Holme Surlykke, Dmitriy Traytel. #IsabelleHOL #ITP
++ [[https://www.microsiervos.com/archivo/matematicas/vp-vnp-multiplicacion-matrices-riemann.html][Avances matemáticos de ayer y hoy: VP ≠ VNP, multiplicaciones de matrices y cuestionamiento sobre lo de Riemann]]. ~ Alvy. #AI4Math #AI #Math #LeanProver #LeanLang
+
+*** 24-Nov-26
++ [[https://matematiflo.github.io/LeanCompactCourse2026/][Interactive theorem proving in Lean]]. ~ Florent Schaffhauser. #LeanProver #LeanLang #Math
++ [[https://www.eldiario.es/sociedad/no-matematicas-inteligencia-artificial-resuelva-problemas-llevan-siglos-resolverse_129_13685322.html][Por qué no voy a dejar las matemáticas, aunque la inteligencia artificial resuelva problemas que llevan siglos sin resolverse]]. ~ Ken Ono. #AI4Math
++ [[https://www.theguardian.com/commentisfree/2026/nov/22/why-i-wont-leave-mathematics-despite-ai-solving-centuries-old-problems][Why I won’t leave mathematics, despite AI solving centuries-old problems]]. ~ Ken Ono. #AI4Math
++ [[https://pequalnp.com][Does P = NP? (A coordinated AI agent fleet is attacking the most famous open problem in computer science, live)]]. #AI4Math #LeanProver
+
 *** 23-Nov-26
 + [[https://latent.space/p/formal-verification/][The war against slop and an emerging weapon to fight it: formal verification]]. ~ Richard MacManus. #LeanProver #FormalVerification
 + [[https://openreview.net/pdf?id=Q12q9GTGKY][The fundamental theorem of statistical learning in three weeks]]. ~ Dhruv Gupta. #LeanProver #LeanLang #ITP #LLMs
